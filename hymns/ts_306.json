@@ -1,0 +1,93 @@
+{
+  "url": "https://www.hymnal.net/cn/hymn/ts/306",
+  "title": "我爱耶稣",
+  "lines": [
+    {
+      "segments": [
+        {
+          "chord": "Gm",
+          "text": "耶"
+        },
+        {
+          "chord": "Dm",
+          "text": "穌，"
+        },
+        {
+          "chord": "Gm",
+          "text": "耶"
+        },
+        {
+          "chord": "Dm",
+          "text": "穌，"
+        }
+      ]
+    },
+    {
+      "segments": [
+        {
+          "chord": "Gm",
+          "text": "可 否"
+        },
+        {
+          "chord": "D",
+          "text": "容 我"
+        },
+        {
+          "chord": "Gm",
+          "text": "向 你"
+        },
+        {
+          "chord": "D",
+          "text": "訴，"
+        }
+      ]
+    },
+    {
+      "segments": [
+        {
+          "chord": "Gm",
+          "text": "你 名"
+        },
+        {
+          "chord": "D",
+          "text": "對 我"
+        },
+        {
+          "chord": "Gm",
+          "text": "如 此"
+        },
+        {
+          "chord": "D",
+          "text": "豐 富，"
+        }
+      ]
+    },
+    {
+      "segments": [
+        {
+          "chord": "Gm",
+          "text": "我"
+        },
+        {
+          "chord": "Dm",
+          "text": "愛 耶"
+        },
+        {
+          "chord": "Gm",
+          "text": "穌。"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "爱慕耶稣",
+    "time": "4/4",
+    "hymn_code": "656366771217"
+  },
+  "raw_sections": [
+    "耶穌，耶穌，",
+    "可 否容 我向 你訴，",
+    "你 名對 我如 此豐 富，",
+    "我愛 耶穌。"
+  ]
+}
