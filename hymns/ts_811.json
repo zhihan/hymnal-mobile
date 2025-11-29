@@ -1,516 +1,548 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/811",
   "title": "得胜者",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A7",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "我"
+            },
+            {
+              "chord": "D",
+              "text": "不 敢"
+            },
+            {
+              "chord": "G",
+              "text": "稍 微"
+            },
+            {
+              "chord": "D",
+              "text": "失 敗，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "不 敢"
+          "segments": [
+            {
+              "chord": "",
+              "text": "榮 耀 召 會 在"
+            },
+            {
+              "chord": "A7",
+              "text": "望，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "稍 微"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基 督 是 她 的 元 首，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "失 敗，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "榮 耀 召 會 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "坐 在 三 層 天"
+            },
+            {
+              "chord": "D",
+              "text": "上。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "望，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基 督 是 她 的 元 首，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "坐 在 三 層 天"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 今 活"
+            },
+            {
+              "chord": "B7",
+              "text": "在 異"
+            },
+            {
+              "chord": "Em",
+              "text": "象 中，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "上。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 今 活"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "A7",
+              "text": "能 時"
+            },
+            {
+              "chord": "",
+              "text": "刻 剛"
+            },
+            {
+              "chord": "D",
+              "text": "強；"
+            }
+          ]
         },
         {
-          "chord": "B7",
-          "text": "在 異"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今"
+            },
+            {
+              "chord": "F♯",
+              "text": "我 是"
+            },
+            {
+              "chord": "Bm",
+              "text": "個 得"
+            },
+            {
+              "chord": "F♯",
+              "text": "勝 者，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "象 中，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "為 著 召"
+            },
+            {
+              "chord": "G",
+              "text": "會 恢"
+            },
+            {
+              "chord": "A7",
+              "text": "復。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得"
+            },
+            {
+              "chord": "D",
+              "text": "勝，"
+            },
+            {
+              "chord": "B",
+              "text": "得"
+            },
+            {
+              "chord": "Em",
+              "text": "勝 者！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "能 時"
+          "segments": [
+            {
+              "chord": "",
+              "text": "都"
+            },
+            {
+              "chord": "A",
+              "text": "因 榮"
+            },
+            {
+              "chord": "",
+              "text": "耀 召"
+            },
+            {
+              "chord": "D",
+              "text": "會。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "刻 剛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今"
+            },
+            {
+              "chord": "B7",
+              "text": "我 是"
+            },
+            {
+              "chord": "Em",
+              "text": "個 得"
+            },
+            {
+              "chord": "A",
+              "text": "勝"
+            },
+            {
+              "chord": "D",
+              "text": "者，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "強；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因"
+            },
+            {
+              "chord": "G",
+              "text": "召 會，"
+            },
+            {
+              "chord": "",
+              "text": "因"
+            },
+            {
+              "chord": "D",
+              "text": "召"
+            },
+            {
+              "chord": "G",
+              "text": "會"
+            },
+            {
+              "chord": "D",
+              "text": "能"
+            },
+            {
+              "chord": "A7",
+              "text": "得"
+            },
+            {
+              "chord": "D",
+              "text": "勝。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "今"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我不敢稍微失败，"
+            }
+          ]
         },
         {
-          "chord": "F♯",
-          "text": "我 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因有荣耀基督，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "個 得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "召我进到前线来，"
+            }
+          ]
         },
         {
-          "chord": "F♯",
-          "text": "勝 者，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "為 著 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享受祂的得胜。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "會 恢"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我今是满了胆量，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "復。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "灵中刚强有力；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "勝，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今我是个得胜者，"
+            }
+          ]
         },
         {
-          "chord": "B",
-          "text": "得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "完全充满了你。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "得胜，得胜者！"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "勝 者！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "都"
+          "segments": [
+            {
+              "chord": "",
+              "text": "都因荣耀召会。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "因 榮"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今我是个得胜者，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "耀 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因召会，因召会能得胜。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我不敢稍微失败，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "會。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因为从军召会"
+            }
+          ]
         },
         {
-          "chord": "B7",
-          "text": "我 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在冲阴府的境界，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "個 得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "成就神的旨意。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "勝"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们个个是战士，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "者，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因"
+          "segments": [
+            {
+              "chord": "",
+              "text": "刚强能以挥剑；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "召 會，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们同是得胜者，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "因"
+          "segments": [
+            {
+              "chord": "",
+              "text": "见证主的圣言。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "得胜，得胜者！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "都因荣耀召会。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "會"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今我是个得胜者，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "能"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因召会，因召会能得胜。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我不敢稍微失败，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当此得胜时辰，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "勝。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀我王正归回，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "要说好！我仆人。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们同活在天上，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "取用祂的能力；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "天天作个得胜者，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "得胜一直到底。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我不敢稍微失败，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "得胜，得胜者！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "因有荣耀基督，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "都因荣耀召会。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "召我进到前线来，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "今我是个得胜者，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "享受祂的得胜。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我今是满了胆量，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "灵中刚强有力；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今我是个得胜者，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "完全充满了你。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得胜，得胜者！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "都因荣耀召会。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今我是个得胜者，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因召会，因召会能得胜。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我不敢稍微失败，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因为从军召会"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在冲阴府的境界，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "成就神的旨意。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们个个是战士，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "刚强能以挥剑；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们同是得胜者，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "见证主的圣言。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得胜，得胜者！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "都因荣耀召会。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今我是个得胜者，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因召会，因召会能得胜。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我不敢稍微失败，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当此得胜时辰，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀我王正归回，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要说好！我仆人。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们同活在天上，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "取用祂的能力；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天天作个得胜者，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得胜一直到底。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得胜，得胜者！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "都因荣耀召会。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今我是个得胜者，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因召会，因召会能得胜。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因召会，因召会能得胜。"
+            }
+          ]
         }
       ]
     }

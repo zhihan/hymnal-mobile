@@ -1,416 +1,456 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/755",
   "title": "跟随榜样",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A7",
-          "text": "活 基"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "活 基"
+            },
+            {
+              "chord": "D",
+              "text": "督 者"
+            },
+            {
+              "chord": "",
+              "text": "佳 美"
+            },
+            {
+              "chord": "G",
+              "text": "蹤 迹，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "督 者"
+          "segments": [
+            {
+              "chord": "",
+              "text": "應 當"
+            },
+            {
+              "chord": "A",
+              "text": "效 法"
+            },
+            {
+              "chord": "",
+              "text": "且 追"
+            },
+            {
+              "chord": "D",
+              "text": "隨；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "佳 美"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "己 意、"
+            },
+            {
+              "chord": "G",
+              "text": "己 力"
+            },
+            {
+              "chord": "",
+              "text": "不 再"
+            },
+            {
+              "chord": "D",
+              "text": "憑 倚，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "蹤 迹，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "跟 隨"
+            },
+            {
+              "chord": "A",
+              "text": "榜 樣"
+            },
+            {
+              "chord": "E7",
+              "text": "不 羞"
+            },
+            {
+              "chord": "A",
+              "text": "愧。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "應 當"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "弟 兄"
+            },
+            {
+              "chord": "A",
+              "text": "姊 妹"
+            },
+            {
+              "chord": "A7",
+              "text": "腳 蹤"
+            },
+            {
+              "chord": "D",
+              "text": "佳 美，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "效 法"
+          "segments": [
+            {
+              "chord": "",
+              "text": "活 主 生 命"
+            },
+            {
+              "chord": "E7",
+              "text": "何 寶"
+            },
+            {
+              "chord": "A",
+              "text": "貴；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "且 追"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "如 此"
+            },
+            {
+              "chord": "D",
+              "text": "榜 樣"
+            },
+            {
+              "chord": "D7",
+              "text": "應 當"
+            },
+            {
+              "chord": "G",
+              "text": "跟 隨，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "隨；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "豫 備"
+            },
+            {
+              "chord": "D",
+              "text": "新 婦"
+            },
+            {
+              "chord": "A7",
+              "text": "迎 主"
+            },
+            {
+              "chord": "D",
+              "text": "歸。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D7",
-          "text": "己 意、"
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼求主名取用宝血，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "己 力"
+          "segments": [
+            {
+              "chord": "",
+              "text": "佳美榜样紧跟随；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "不 再"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如此跟随，步履确切，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "憑 倚，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "必将仇敌全击溃。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "跟 隨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "弟兄姊妹脚踪佳美，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "榜 樣"
+          "segments": [
+            {
+              "chord": "",
+              "text": "活主生命何宝贵；"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "不 羞"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如此榜样应当跟随，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "愧。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "豫备新妇迎主归。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "弟 兄"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当将心怀全然开启，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "姊 妹"
+          "segments": [
+            {
+              "chord": "",
+              "text": "榜样言语乐听取；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "腳 蹤"
+          "segments": [
+            {
+              "chord": "",
+              "text": "并非接受人言、人意，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "佳 美，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃是领受神话语。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "活 主 生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "弟兄姊妹脚踪佳美，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "何 寶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "活主生命何宝贵；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "貴；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "如 此"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如此榜样应当跟随，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "榜 樣"
+          "segments": [
+            {
+              "chord": "",
+              "text": "豫备新妇迎主归。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "如此，主话速速传开，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "應 當"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主的恢复达地极；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "跟 隨，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "豫 備"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神圣行动何能阻碍，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "新 婦"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神旨成功日可期。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "弟兄姊妹脚踪佳美，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "迎 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "活主生命何宝贵；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "歸。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如此榜样应当跟随，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "豫备新妇迎主归。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "呼求主名取用宝血，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一路跟随，不偏不倚，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "直至婚娶之日临，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "直至新妇妆饰整齐，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "迎接羔羊同欢欣。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "佳美榜样紧跟随；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "弟兄姊妹脚踪佳美，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "如此跟随，步履确切，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "活主生命何宝贵；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "必将仇敌全击溃。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "如此榜样应当跟随，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "弟兄姊妹脚踪佳美，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "活主生命何宝贵；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如此榜样应当跟随，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "豫备新妇迎主归。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当将心怀全然开启，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "榜样言语乐听取；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "并非接受人言、人意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃是领受神话语。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "弟兄姊妹脚踪佳美，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "活主生命何宝贵；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如此榜样应当跟随，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "豫备新妇迎主归。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如此，主话速速传开，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主的恢复达地极；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神圣行动何能阻碍，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神旨成功日可期。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "弟兄姊妹脚踪佳美，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "活主生命何宝贵；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如此榜样应当跟随，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "豫备新妇迎主归。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一路跟随，不偏不倚，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直至婚娶之日临，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直至新妇妆饰整齐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "迎接羔羊同欢欣。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "弟兄姊妹脚踪佳美，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "活主生命何宝贵；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如此榜样应当跟随，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "豫备新妇迎主归。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "豫备新妇迎主归。"
+            }
+          ]
         }
       ]
     }
@@ -418,7 +458,16 @@
   "metadata": {
     "category": "教会的生活",
     "time": "9/8",
-    "hymn_code": "5671112366"
+    "hymn_code": "5671112366",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1245",
+        "language": "cn",
+        "category": "h",
+        "number": "1245",
+        "title": "E1245"
+      }
+    ]
   },
   "raw_sections": [
     "活 基督 者佳 美蹤 迹，",

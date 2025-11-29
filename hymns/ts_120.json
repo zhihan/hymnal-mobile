@@ -1,348 +1,380 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/120",
   "title": "主活在我里面",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "前 遠"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "前 遠"
+            },
+            {
+              "chord": "",
+              "text": "離 神 死"
+            },
+            {
+              "chord": "G",
+              "text": "在 罪"
+            },
+            {
+              "chord": "D",
+              "text": "中，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "離 神 死"
+          "segments": [
+            {
+              "chord": "",
+              "text": "黑"
+            },
+            {
+              "chord": "G",
+              "text": "暗 蒙"
+            },
+            {
+              "chord": "",
+              "text": "蔽 心"
+            },
+            {
+              "chord": "D",
+              "text": "眼；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "在 罪"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今 蒙 主"
+            },
+            {
+              "chord": "D7",
+              "text": "話 照"
+            },
+            {
+              "chord": "G",
+              "text": "明 得"
+            },
+            {
+              "chord": "",
+              "text": "知，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "中，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主"
+            },
+            {
+              "chord": "D",
+              "text": "活"
+            },
+            {
+              "chord": "A7",
+              "text": "在 我"
+            },
+            {
+              "chord": "",
+              "text": "裡"
+            },
+            {
+              "chord": "D",
+              "text": "面。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "黑"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主 活 我 裡"
+            },
+            {
+              "chord": "A",
+              "text": "面，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "暗 蒙"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "主 活"
+            },
+            {
+              "chord": "",
+              "text": "我 裡"
+            },
+            {
+              "chord": "F♯",
+              "text": "面，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "蔽 心"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "哦， 這"
+            },
+            {
+              "chord": "",
+              "text": "是 何"
+            },
+            {
+              "chord": "D",
+              "text": "等 救"
+            },
+            {
+              "chord": "",
+              "text": "恩，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "眼；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主 竟"
+            },
+            {
+              "chord": "A",
+              "text": "活 我"
+            },
+            {
+              "chord": "",
+              "text": "裡"
+            },
+            {
+              "chord": "D",
+              "text": "面。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "今 蒙 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如同阳光照射大地，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "話 照"
+          "segments": [
+            {
+              "chord": "",
+              "text": "百花盛开争艳；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "明 得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生命，光，爱从主而来，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "知，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂活在我里面。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主活我里面，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "活"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主活我里面，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "在 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，这是何等救恩，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "裡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主竟活我里面。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "正如花朵隐于花籽，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "面。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主 活 我 裡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "树木孕于种子，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Bm",
-          "text": "主 活"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同样，满带实际、恩典，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 裡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主活在我里面。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主活我里面，"
+            }
+          ]
         },
         {
-          "chord": "F♯",
-          "text": "面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "哦， 這"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主活我里面，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "是 何"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，这是何等救恩，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "等 救"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主竟活我里面。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我心不禁羡慕像祂，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "恩，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主 竟"
+          "segments": [
+            {
+              "chord": "",
+              "text": "完全将祂彰显；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "活 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我被吸引不断思量，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "裡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主活在我里面。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主活我里面，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "面。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "主活我里面，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "如同阳光照射大地，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，这是何等救恩，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "百花盛开争艳；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生命，光，爱从主而来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂活在我里面。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主活我里面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主活我里面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，这是何等救恩，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主竟活我里面。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "正如花朵隐于花籽，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "树木孕于种子，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同样，满带实际、恩典，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主活在我里面。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主活我里面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主活我里面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，这是何等救恩，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主竟活我里面。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我心不禁羡慕像祂，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "完全将祂彰显；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我被吸引不断思量，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主活在我里面。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主活我里面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主活我里面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，这是何等救恩，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主竟活我里面。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主竟活我里面。"
+            }
+          ]
         }
       ]
     }
@@ -350,7 +382,16 @@
   "metadata": {
     "category": "灵与生命",
     "time": "6/4",
-    "hymn_code": "532111765561465"
+    "hymn_code": "532111765561465",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/507",
+        "language": "cn",
+        "category": "h",
+        "number": "507",
+        "title": "E507"
+      }
+    ]
   },
   "raw_sections": [
     "前 遠離 神 死在 罪中，",

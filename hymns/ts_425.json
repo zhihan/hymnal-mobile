@@ -1,224 +1,232 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/425",
   "title": "与主相见在清晨",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "曙 光"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "曙 光"
+            },
+            {
+              "chord": "",
+              "text": "初 現， 心"
+            },
+            {
+              "chord": "Bm",
+              "text": "清 靈"
+            },
+            {
+              "chord": "",
+              "text": "明，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "初 現， 心"
+          "segments": [
+            {
+              "chord": "",
+              "text": "與 主"
+            },
+            {
+              "chord": "Em",
+              "text": "相 見"
+            },
+            {
+              "chord": "",
+              "text": "在 清"
+            },
+            {
+              "chord": "A",
+              "text": "晨，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "清 靈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "回"
+            },
+            {
+              "chord": "D",
+              "text": "到 靈"
+            },
+            {
+              "chord": "",
+              "text": "中， 進"
+            },
+            {
+              "chord": "G",
+              "text": "入 交"
+            },
+            {
+              "chord": "",
+              "text": "通，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "明，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何 等"
+            },
+            {
+              "chord": "Em",
+              "text": "甘 甜，"
+            },
+            {
+              "chord": "A7",
+              "text": "何 等"
+            },
+            {
+              "chord": "",
+              "text": "親"
+            },
+            {
+              "chord": "D",
+              "text": "近；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 聖 名， 祂 恩"
+            },
+            {
+              "chord": "Bm",
+              "text": "言，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "是 我"
+            },
+            {
+              "chord": "A7",
+              "text": "每 晨"
+            },
+            {
+              "chord": "",
+              "text": "新 供"
+            },
+            {
+              "chord": "D",
+              "text": "應；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "飢 渴 盡 除， 全 人 明"
+            },
+            {
+              "chord": "G",
+              "text": "亮，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "讚 美"
+            },
+            {
+              "chord": "D",
+              "text": "主， 恩"
+            },
+            {
+              "chord": "A7",
+              "text": "典 彀"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "D",
+              "text": "用！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "與 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "黎明即起，受主餧养，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "相 見"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我得复兴在清晨，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "在 清"
+          "segments": [
+            {
+              "chord": "",
+              "text": "新的照耀，新的加力，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "晨，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "回"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得享基督作我福分；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "到 靈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂慈爱，祂怜悯，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "中， 進"
+          "segments": [
+            {
+              "chord": "",
+              "text": "每个早晨都新鲜，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "入 交"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我全人再次得更新，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "通，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何 等"
-        },
-        {
-          "chord": "Em",
-          "text": "甘 甜，"
-        },
-        {
-          "chord": "A7",
-          "text": "何 等"
-        },
-        {
-          "chord": "",
-          "text": "親"
-        },
-        {
-          "chord": "D",
-          "text": "近；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 聖 名， 祂 恩"
-        },
-        {
-          "chord": "Bm",
-          "text": "言，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是 我"
-        },
-        {
-          "chord": "A7",
-          "text": "每 晨"
-        },
-        {
-          "chord": "",
-          "text": "新 供"
-        },
-        {
-          "chord": "D",
-          "text": "應；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "飢 渴 盡 除， 全 人 明"
-        },
-        {
-          "chord": "G",
-          "text": "亮，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "讚 美"
-        },
-        {
-          "chord": "D",
-          "text": "主， 恩"
-        },
-        {
-          "chord": "A7",
-          "text": "典 彀"
-        },
-        {
-          "chord": "",
-          "text": "我"
-        },
-        {
-          "chord": "D",
-          "text": "用！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "黎明即起，受主餧养，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我得复兴在清晨，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "新的照耀，新的加力，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得享基督作我福分；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂慈爱，祂怜悯，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "每个早晨都新鲜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我全人再次得更新，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "凭信、爱跟随主向前！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "凭信、爱跟随主向前！"
+            }
+          ]
         }
       ]
     }

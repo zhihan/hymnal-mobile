@@ -1,112 +1,116 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/803",
   "title": "我从来不后悔",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "我 從"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我 從"
+            },
+            {
+              "chord": "",
+              "text": "來 不 後 悔"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "來 不 後 悔"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "答 應 神 呼"
+          "segments": [
+            {
+              "chord": "",
+              "text": "答 應 神 呼"
+            },
+            {
+              "chord": "D",
+              "text": "召，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "召，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 從 來 不 後"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 從 來 不 後"
+            },
+            {
+              "chord": "D7",
+              "text": "悔"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "悔"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "完 全 獻 給"
+          "segments": [
+            {
+              "chord": "",
+              "text": "完 全 獻 給"
+            },
+            {
+              "chord": "G",
+              "text": "主；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "主；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 與 恩 主 同"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 與 恩 主 同"
+            },
+            {
+              "chord": "G7",
+              "text": "行，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "行，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天 天 在 登"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天 天 在 登"
+            },
+            {
+              "chord": "C",
+              "text": "高，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "高，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 從 來 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 從 來 不"
+            },
+            {
+              "chord": "G",
+              "text": "後"
+            },
+            {
+              "chord": "Am",
+              "text": "悔"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "後"
-        },
-        {
-          "chord": "Am",
-          "text": "悔"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "所"
-        },
-        {
-          "chord": "D7",
-          "text": "走 每"
-        },
-        {
-          "chord": "",
-          "text": "步"
-        },
-        {
-          "chord": "G",
-          "text": "路。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "所"
+            },
+            {
+              "chord": "D7",
+              "text": "走 每"
+            },
+            {
+              "chord": "",
+              "text": "步"
+            },
+            {
+              "chord": "G",
+              "text": "路。"
+            }
+          ]
         }
       ]
     }

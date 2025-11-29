@@ -1,324 +1,328 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/929",
   "title": "主耶稣阿，我愿你来",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "當 我"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "當 我"
+            },
+            {
+              "chord": "",
+              "text": "們 在"
+            },
+            {
+              "chord": "G",
+              "text": "生 命、"
+            },
+            {
+              "chord": "D",
+              "text": "性"
+            },
+            {
+              "chord": "A",
+              "text": "情、 彰"
+            },
+            {
+              "chord": "D",
+              "text": "顯"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "們 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "和 功"
+            },
+            {
+              "chord": "F♯m",
+              "text": "用 上，"
+            },
+            {
+              "chord": "",
+              "text": "成 為"
+            },
+            {
+              "chord": "G",
+              "text": "與 基"
+            },
+            {
+              "chord": "",
+              "text": "督"
+            },
+            {
+              "chord": "Asus4",
+              "text": "一"
+            },
+            {
+              "chord": "A",
+              "text": "樣，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "生 命、"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們"
+            },
+            {
+              "chord": "D",
+              "text": "就 彀"
+            },
+            {
+              "chord": "G",
+              "text": "資 格"
+            },
+            {
+              "chord": "",
+              "text": "為"
+            },
+            {
+              "chord": "A",
+              "text": "著 祂"
+            },
+            {
+              "chord": "Bm",
+              "text": "的 身"
+            },
+            {
+              "chord": "",
+              "text": "體"
+            },
+            {
+              "chord": "G",
+              "text": "與"
+            },
+            {
+              "chord": "Em7",
+              "text": "祂 同"
+            },
+            {
+              "chord": "A7",
+              "text": "工。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "性"
+          "segments": [
+            {
+              "chord": "",
+              "text": "當 我"
+            },
+            {
+              "chord": "D",
+              "text": "們 無"
+            },
+            {
+              "chord": "",
+              "text": "依"
+            },
+            {
+              "chord": "G",
+              "text": "無 靠"
+            },
+            {
+              "chord": "D",
+              "text": "的"
+            },
+            {
+              "chord": "A",
+              "text": "信 靠"
+            },
+            {
+              "chord": "D",
+              "text": "主，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "情、 彰"
+          "segments": [
+            {
+              "chord": "",
+              "text": "倚 靠 祂"
+            },
+            {
+              "chord": "F♯m",
+              "text": "作 我"
+            },
+            {
+              "chord": "",
+              "text": "們 的"
+            },
+            {
+              "chord": "G",
+              "text": "愛 和"
+            },
+            {
+              "chord": "",
+              "text": "力"
+            },
+            {
+              "chord": "A",
+              "text": "量，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "顯"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "和 功"
+          "segments": [
+            {
+              "chord": "",
+              "text": "並"
+            },
+            {
+              "chord": "D",
+              "text": "且"
+            },
+            {
+              "chord": "G",
+              "text": "聽 祂"
+            },
+            {
+              "chord": "A",
+              "text": "說"
+            },
+            {
+              "chord": "Bm",
+              "text": "話，"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "用 上，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們"
+            },
+            {
+              "chord": "G",
+              "text": "的 盼"
+            },
+            {
+              "chord": "",
+              "text": "望 就"
+            },
+            {
+              "chord": "A",
+              "text": "是 藉"
+            },
+            {
+              "chord": "G",
+              "text": "著"
+            },
+            {
+              "chord": "F♯m",
+              "text": "身 體"
+            },
+            {
+              "chord": "",
+              "text": "的"
+            },
+            {
+              "chord": "Bm",
+              "text": "得 贖"
+            },
+            {
+              "chord": "D",
+              "text": "而"
+            },
+            {
+              "chord": "A7",
+              "text": "被"
+            },
+            {
+              "chord": "D",
+              "text": "提，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "成 為"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "的"
+            },
+            {
+              "chord": "Bm",
+              "text": "禱"
+            },
+            {
+              "chord": "G",
+              "text": "告"
+            },
+            {
+              "chord": "Asus4",
+              "text": "乃 是："
+            },
+            {
+              "chord": "",
+              "text": "\"主"
+            },
+            {
+              "chord": "A",
+              "text": "耶 穌"
+            },
+            {
+              "chord": "",
+              "text": "阿，"
+            },
+            {
+              "chord": "Bm",
+              "text": "我"
+            },
+            {
+              "chord": "G",
+              "text": "願"
+            },
+            {
+              "chord": "D",
+              "text": "你"
+            },
+            {
+              "chord": "A",
+              "text": "來！\""
+            },
+            {
+              "chord": "Bm",
+              "text": "我"
+            },
+            {
+              "chord": "G",
+              "text": "願"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "與 基"
-        },
-        {
-          "chord": "",
-          "text": "督"
-        },
-        {
-          "chord": "Asus4",
-          "text": "一"
-        },
-        {
-          "chord": "A",
-          "text": "樣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們"
-        },
-        {
-          "chord": "D",
-          "text": "就 彀"
-        },
-        {
-          "chord": "G",
-          "text": "資 格"
-        },
-        {
-          "chord": "",
-          "text": "為"
-        },
-        {
-          "chord": "A",
-          "text": "著 祂"
-        },
-        {
-          "chord": "Bm",
-          "text": "的 身"
-        },
-        {
-          "chord": "",
-          "text": "體"
-        },
-        {
-          "chord": "G",
-          "text": "與"
-        },
-        {
-          "chord": "Em7",
-          "text": "祂 同"
-        },
-        {
-          "chord": "A7",
-          "text": "工。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "當 我"
-        },
-        {
-          "chord": "D",
-          "text": "們 無"
-        },
-        {
-          "chord": "",
-          "text": "依"
-        },
-        {
-          "chord": "G",
-          "text": "無 靠"
-        },
-        {
-          "chord": "D",
-          "text": "的"
-        },
-        {
-          "chord": "A",
-          "text": "信 靠"
-        },
-        {
-          "chord": "D",
-          "text": "主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "倚 靠 祂"
-        },
-        {
-          "chord": "F♯m",
-          "text": "作 我"
-        },
-        {
-          "chord": "",
-          "text": "們 的"
-        },
-        {
-          "chord": "G",
-          "text": "愛 和"
-        },
-        {
-          "chord": "",
-          "text": "力"
-        },
-        {
-          "chord": "A",
-          "text": "量，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "並"
-        },
-        {
-          "chord": "D",
-          "text": "且"
-        },
-        {
-          "chord": "G",
-          "text": "聽 祂"
-        },
-        {
-          "chord": "A",
-          "text": "說"
-        },
-        {
-          "chord": "Bm",
-          "text": "話，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們"
-        },
-        {
-          "chord": "G",
-          "text": "的 盼"
-        },
-        {
-          "chord": "",
-          "text": "望 就"
-        },
-        {
-          "chord": "A",
-          "text": "是 藉"
-        },
-        {
-          "chord": "G",
-          "text": "著"
-        },
-        {
-          "chord": "F♯m",
-          "text": "身 體"
-        },
-        {
-          "chord": "",
-          "text": "的"
-        },
-        {
-          "chord": "Bm",
-          "text": "得 贖"
-        },
-        {
-          "chord": "D",
-          "text": "而"
-        },
-        {
-          "chord": "A7",
-          "text": "被"
-        },
-        {
-          "chord": "D",
-          "text": "提，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "我 們"
-        },
-        {
-          "chord": "",
-          "text": "的"
-        },
-        {
-          "chord": "Bm",
-          "text": "禱"
-        },
-        {
-          "chord": "G",
-          "text": "告"
-        },
-        {
-          "chord": "Asus4",
-          "text": "乃 是："
-        },
-        {
-          "chord": "",
-          "text": "\"主"
-        },
-        {
-          "chord": "A",
-          "text": "耶 穌"
-        },
-        {
-          "chord": "",
-          "text": "阿，"
-        },
-        {
-          "chord": "Bm",
-          "text": "我"
-        },
-        {
-          "chord": "G",
-          "text": "願"
-        },
-        {
-          "chord": "D",
-          "text": "你"
-        },
-        {
-          "chord": "A",
-          "text": "來！\""
-        },
-        {
-          "chord": "Bm",
-          "text": "我"
-        },
-        {
-          "chord": "G",
-          "text": "願"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "你"
-        },
-        {
-          "chord": "G",
-          "text": "來！"
-        },
-        {
-          "chord": "Em7",
-          "text": "主"
-        },
-        {
-          "chord": "A7",
-          "text": "耶 穌"
-        },
-        {
-          "chord": "D",
-          "text": "來！"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "你"
+            },
+            {
+              "chord": "G",
+              "text": "來！"
+            },
+            {
+              "chord": "Em7",
+              "text": "主"
+            },
+            {
+              "chord": "A7",
+              "text": "耶 穌"
+            },
+            {
+              "chord": "D",
+              "text": "來！"
+            }
+          ]
         }
       ]
     }
@@ -326,7 +330,16 @@
   "metadata": {
     "category": "盼望与豫备",
     "time": "3/4",
-    "hymn_code": "123143253"
+    "hymn_code": "123143253",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/285",
+        "language": "cn",
+        "category": "ns",
+        "number": "285",
+        "title": "NS285"
+      }
+    ]
   },
   "raw_sections": [
     "當 我們 在生 命、性情、 彰顯",

@@ -1,332 +1,364 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/24",
   "title": "赞美羔羊",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "恩 主，"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "恩 主，"
+            },
+            {
+              "chord": "",
+              "text": "我 們"
+            },
+            {
+              "chord": "F",
+              "text": "阿 利"
+            },
+            {
+              "chord": "",
+              "text": "路 亞"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "向 你"
+            },
+            {
+              "chord": "",
+              "text": "高 聲"
+            },
+            {
+              "chord": "G",
+              "text": "唱，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "阿 利"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "永 遠"
+            },
+            {
+              "chord": "",
+              "text": "讚 美"
+            },
+            {
+              "chord": "F",
+              "text": "你 的"
+            },
+            {
+              "chord": "",
+              "text": "價 值"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "路 亞"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "超 萬"
+            },
+            {
+              "chord": "D7",
+              "text": "人 之"
+            },
+            {
+              "chord": "G7",
+              "text": "上。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "向 你"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "讚 美"
+            },
+            {
+              "chord": "",
+              "text": "羔 羊！ 你 真 是 配！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "高 聲"
+          "segments": [
+            {
+              "chord": "F",
+              "text": "永 遠"
+            },
+            {
+              "chord": "",
+              "text": "的 歌"
+            },
+            {
+              "chord": "G",
+              "text": "聲。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "唱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "永 遠"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "阿 利"
+            },
+            {
+              "chord": "C7",
+              "text": "路 亞！"
+            },
+            {
+              "chord": "F",
+              "text": "阿 利"
+            },
+            {
+              "chord": "",
+              "text": "路 亞！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "讚 美"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "讚 美"
+            },
+            {
+              "chord": "G7",
+              "text": "主！ 阿"
+            },
+            {
+              "chord": "C",
+              "text": "們！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美羔羊！你真是配！"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "你 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你宝血流出，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "價 值"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "超 萬"
+          "segments": [
+            {
+              "chord": "",
+              "text": "赎回我们归神"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "人 之"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作王并祭司国度。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美羔羊！你真是配！"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "上。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "讚 美"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永远的歌声。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "羔 羊！ 你 真 是 配！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "F",
-          "text": "永 遠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！阿利路亚！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 歌"
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美主！阿们！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！恩主耶稣，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "聲。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "阿 利"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你爱不止息；"
+            }
+          ]
         },
         {
-          "chord": "C7",
-          "text": "路 亞！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们属你，永远属你，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "阿 利"
+          "segments": [
+            {
+              "chord": "",
+              "text": "与你永合一。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美羔羊！你真是配！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "路 亞！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "讚 美"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永远的歌声。"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "主！ 阿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！阿利路亚！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "們！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美主！阿们！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "赞美羔羊！你真是配！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美主！哦，阿利路亚！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "谁不唱此歌？"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "来自各族各方各国"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "众圣同唱和。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "你宝血流出，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美羔羊！你真是配！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "赎回我们归神"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "永远的歌声。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "作王并祭司国度。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！阿利路亚！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "赞美羔羊！你真是配！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永远的歌声。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞美主！阿们！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！恩主耶稣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你爱不止息；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们属你，永远属你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "与你永合一。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞美羔羊！你真是配！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永远的歌声。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞美主！阿们！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞美主！哦，阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "谁不唱此歌？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来自各族各方各国"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "众圣同唱和。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞美羔羊！你真是配！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永远的歌声。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞美主！阿们！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美主！阿们！"
+            }
+          ]
         }
       ]
     }
@@ -334,7 +366,16 @@
   "metadata": {
     "category": "赞美的话",
     "time": "2/4",
-    "hymn_code": "5653121656532"
+    "hymn_code": "5653121656532",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/185",
+        "language": "cn",
+        "category": "h",
+        "number": "185",
+        "title": "E185"
+      }
+    ]
   },
   "raw_sections": [
     "恩 主，我 們阿 利路 亞",

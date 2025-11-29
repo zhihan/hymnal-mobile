@@ -1,520 +1,540 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/533",
   "title": "荣耀在望",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "在"
+            },
+            {
+              "chord": "C",
+              "text": "曠 野"
+            },
+            {
+              "chord": "G",
+              "text": "流 落，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "日"
+            },
+            {
+              "chord": "D7",
+              "text": "子 已"
+            },
+            {
+              "chord": "",
+              "text": "經 彀"
+            },
+            {
+              "chord": "G",
+              "text": "久；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "曠 野"
+          "segments": [
+            {
+              "chord": "",
+              "text": "誰 說 要"
+            },
+            {
+              "chord": "C",
+              "text": "進 入"
+            },
+            {
+              "chord": "G",
+              "text": "迦 南，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "流 落，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "日"
+          "segments": [
+            {
+              "chord": "",
+              "text": "現"
+            },
+            {
+              "chord": "A7",
+              "text": "在 不"
+            },
+            {
+              "chord": "",
+              "text": "是 時"
+            },
+            {
+              "chord": "D",
+              "text": "候？"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "子 已"
+          "segments": [
+            {
+              "chord": "",
+              "text": "看"
+            },
+            {
+              "chord": "D7",
+              "text": "哪， 榮"
+            },
+            {
+              "chord": "",
+              "text": "耀 在"
+            },
+            {
+              "chord": "G",
+              "text": "望，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "經 彀"
+          "segments": [
+            {
+              "chord": "",
+              "text": "應"
+            },
+            {
+              "chord": "D7",
+              "text": "當 剛"
+            },
+            {
+              "chord": "",
+              "text": "強 膽"
+            },
+            {
+              "chord": "G",
+              "text": "壯！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "久；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "誰 說 要"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "C",
+              "text": "們 是"
+            },
+            {
+              "chord": "",
+              "text": "新 的"
+            },
+            {
+              "chord": "G",
+              "text": "一 代，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "進 入"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一 定"
+            },
+            {
+              "chord": "D7",
+              "text": "要 過"
+            },
+            {
+              "chord": "",
+              "text": "去 承"
+            },
+            {
+              "chord": "G",
+              "text": "受！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "迦 南，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "現"
+          "segments": [
+            {
+              "chord": "",
+              "text": "快，"
+            },
+            {
+              "chord": "C",
+              "text": "快， 快！"
+            },
+            {
+              "chord": "",
+              "text": "為 主"
+            },
+            {
+              "chord": "G",
+              "text": "恢 復，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "在 不"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "我 們"
+            },
+            {
+              "chord": "Am",
+              "text": "不 能"
+            },
+            {
+              "chord": "D7",
+              "text": "再 落"
+            },
+            {
+              "chord": "G",
+              "text": "後。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们有主的约柜，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "是 時"
+          "segments": [
+            {
+              "chord": "",
+              "text": "走在我们前头，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "候？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "看"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要领我们走新路，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "哪， 榮"
+          "segments": [
+            {
+              "chord": "",
+              "text": "向来没有走过。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "耀 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "看哪，约但河水，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "望，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "應"
+          "segments": [
+            {
+              "chord": "",
+              "text": "已经立起如垒；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "當 剛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们这一代应该"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "強 膽"
+          "segments": [
+            {
+              "chord": "",
+              "text": "打断世界的潮流！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "壯！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "走，走，走！我们大伙儿"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "們 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "浩浩荡荡往前走！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美主，阿利路亚，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "新 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们到了吉甲；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "一 代，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一 定"
+          "segments": [
+            {
+              "chord": "",
+              "text": "老旧已经埋葬了，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "要 過"
+          "segments": [
+            {
+              "chord": "",
+              "text": "肉体也被割下。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "去 承"
+          "segments": [
+            {
+              "chord": "",
+              "text": "吃了迦南土产，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "受！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "快，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "吗哪不再稀罕；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "快， 快！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们不再像从前"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "為 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "完全靠神迹度日。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "恢 復，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "吃，吃，吃！为着争战"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "不 能"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天天吃迦南产物！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "与主同站在一边，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "再 落"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不怕没主同在；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "後。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "照着主吩咐去行，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "因为主是元帅！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "无论关得多紧，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你这城耶利哥，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "等我们大声呼喊，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你就非倒塌不可！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "去，去，去！我们出去，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "把各城一一夺取。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我们有主的约柜，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "这全地不为别的，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "走在我们前头，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃是为着召会！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "要领我们走新路，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，我们奉献一切，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "向来没有走过。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "让你能早归回。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "看哪，约但河水，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "你若还不满意，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "已经立起如垒；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们也不满意，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我们这一代应该"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "疯，疯，疯！为着全岛"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "打断世界的潮流！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们要继续发疯，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "走，走，走！我们大伙儿"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到神所应许的，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "浩浩荡荡往前走！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞美主，阿利路亚，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们到了吉甲；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "老旧已经埋葬了，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "肉体也被割下。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "吃了迦南土产，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "吗哪不再稀罕；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们不再像从前"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "完全靠神迹度日。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "吃，吃，吃！为着争战"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天天吃迦南产物！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "与主同站在一边，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不怕没主同在；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "照着主吩咐去行，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因为主是元帅！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "无论关得多紧，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你这城耶利哥，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "等我们大声呼喊，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你就非倒塌不可！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "去，去，去！我们出去，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "把各城一一夺取。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "这全地不为别的，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃是为着召会！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，我们奉献一切，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让你能早归回。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你若还不满意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们也不满意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "疯，疯，疯！为着全岛"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们要继续发疯，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到神所应许的，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "没有一句话落空。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "没有一句话落空。"
+            }
+          ]
         }
       ]
     }

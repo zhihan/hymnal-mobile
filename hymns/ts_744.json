@@ -1,340 +1,352 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/744",
   "title": "我只要神旨意",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "我 只"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我 只"
+            },
+            {
+              "chord": "Am",
+              "text": "要"
+            },
+            {
+              "chord": "D7",
+              "text": "神 旨"
+            },
+            {
+              "chord": "",
+              "text": "意"
+            },
+            {
+              "chord": "G",
+              "text": "藉"
+            },
+            {
+              "chord": "D7",
+              "text": "我"
+            },
+            {
+              "chord": "F♯7",
+              "text": "成"
+            },
+            {
+              "chord": "G",
+              "text": "就，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "要"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "這 是"
+            },
+            {
+              "chord": "",
+              "text": "我 惟 一 心"
+            },
+            {
+              "chord": "Am",
+              "text": "志；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "神 旨"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "除 此"
+            },
+            {
+              "chord": "Am",
+              "text": "外"
+            },
+            {
+              "chord": "D7",
+              "text": "我 確"
+            },
+            {
+              "chord": "",
+              "text": "是"
+            },
+            {
+              "chord": "G",
+              "text": "一"
+            },
+            {
+              "chord": "D7",
+              "text": "無"
+            },
+            {
+              "chord": "F♯7",
+              "text": "所"
+            },
+            {
+              "chord": "G",
+              "text": "知，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "意"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "只 願"
+            },
+            {
+              "chord": "A7",
+              "text": "祂 心"
+            },
+            {
+              "chord": "",
+              "text": "滿 意 足。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "藉"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "讓 事"
+            },
+            {
+              "chord": "G",
+              "text": "業"
+            },
+            {
+              "chord": "Am",
+              "text": "前 途"
+            },
+            {
+              "chord": "",
+              "text": "的"
+            },
+            {
+              "chord": "D7",
+              "text": "光"
+            },
+            {
+              "chord": "G",
+              "text": "明"
+            },
+            {
+              "chord": "D7",
+              "text": "火"
+            },
+            {
+              "chord": "F♯7",
+              "text": "花"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "在 我"
+            },
+            {
+              "chord": "C",
+              "text": "身 都"
+            },
+            {
+              "chord": "",
+              "text": "成 損 失，"
+            }
+          ]
         },
         {
-          "chord": "F♯7",
-          "text": "成"
+          "segments": [
+            {
+              "chord": "B",
+              "text": "我 的"
+            },
+            {
+              "chord": "B7",
+              "text": "生"
+            },
+            {
+              "chord": "Em",
+              "text": "活 每"
+            },
+            {
+              "chord": "",
+              "text": "點"
+            },
+            {
+              "chord": "E",
+              "text": "每 滴，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "就，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "完"
+            },
+            {
+              "chord": "Am",
+              "text": "完 全"
+            },
+            {
+              "chord": "",
+              "text": "全 都"
+            },
+            {
+              "chord": "F♯7",
+              "text": "是 為"
+            },
+            {
+              "chord": "",
+              "text": "著"
+            },
+            {
+              "chord": "G",
+              "text": "主。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "這 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "让你们去努力建造城池，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 惟 一 心"
+          "segments": [
+            {
+              "chord": "",
+              "text": "叫你们生活安逸；"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "志；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "让你们去尽情吹箫弹琴，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "去享受人间情趣。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "让你们去打造铜铁利器，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "为自己创造事业；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我是一心为神旨意，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "绝不向世界屈就妥协。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "除 此"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我今见复活的荣耀基督，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "外"
+          "segments": [
+            {
+              "chord": "",
+              "text": "借我身得以显出；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "我 確"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我今见祂那升天的大能，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在我里发动运行；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我今见宝座的权能超越，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "無"
+          "segments": [
+            {
+              "chord": "",
+              "text": "显我身把我提挈；"
+            }
+          ]
         },
         {
-          "chord": "F♯7",
-          "text": "所"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我已看见祂是一切，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "知，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "只 願"
-        },
-        {
-          "chord": "A7",
-          "text": "祂 心"
-        },
-        {
-          "chord": "",
-          "text": "滿 意 足。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "讓 事"
-        },
-        {
-          "chord": "G",
-          "text": "業"
-        },
-        {
-          "chord": "Am",
-          "text": "前 途"
-        },
-        {
-          "chord": "",
-          "text": "的"
-        },
-        {
-          "chord": "D7",
-          "text": "光"
-        },
-        {
-          "chord": "G",
-          "text": "明"
-        },
-        {
-          "chord": "D7",
-          "text": "火"
-        },
-        {
-          "chord": "F♯7",
-          "text": "花"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "在 我"
-        },
-        {
-          "chord": "C",
-          "text": "身 都"
-        },
-        {
-          "chord": "",
-          "text": "成 損 失，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "B",
-          "text": "我 的"
-        },
-        {
-          "chord": "B7",
-          "text": "生"
-        },
-        {
-          "chord": "Em",
-          "text": "活 每"
-        },
-        {
-          "chord": "",
-          "text": "點"
-        },
-        {
-          "chord": "E",
-          "text": "每 滴，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "完"
-        },
-        {
-          "chord": "Am",
-          "text": "完 全"
-        },
-        {
-          "chord": "",
-          "text": "全 都"
-        },
-        {
-          "chord": "F♯7",
-          "text": "是 為"
-        },
-        {
-          "chord": "",
-          "text": "著"
-        },
-        {
-          "chord": "G",
-          "text": "主。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让你们去努力建造城池，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "叫你们生活安逸；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让你们去尽情吹箫弹琴，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "去享受人间情趣。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让你们去打造铜铁利器，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为自己创造事业；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我是一心为神旨意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "绝不向世界屈就妥协。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我今见复活的荣耀基督，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借我身得以显出；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我今见祂那升天的大能，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在我里发动运行；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我今见宝座的权能超越，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "显我身把我提挈；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我已看见祂是一切，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "也就是我生命的一切。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "也就是我生命的一切。"
+            }
+          ]
         }
       ]
     }

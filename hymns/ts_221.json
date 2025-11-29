@@ -1,332 +1,364 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/221",
   "title": "畅饮于活泉",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "恩 典"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "恩 典"
+            },
+            {
+              "chord": "",
+              "text": "實 際 湧 自 基 督，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "實 際 湧 自 基 督，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "儘"
+          "segments": [
+            {
+              "chord": "",
+              "text": "儘"
+            },
+            {
+              "chord": "A7",
+              "text": "管 暢"
+            },
+            {
+              "chord": "",
+              "text": "飲 於"
+            },
+            {
+              "chord": "D",
+              "text": "活 泉！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "管 暢"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們 讚 美， 歌 唱 不 倦，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "飲 於"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在"
+            },
+            {
+              "chord": "A",
+              "text": "召 會"
+            },
+            {
+              "chord": "A7",
+              "text": "（家） 裡"
+            },
+            {
+              "chord": "D",
+              "text": "面。 榮"
+            },
+            {
+              "chord": "G",
+              "text": "耀"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "歸"
+            },
+            {
+              "chord": "D",
+              "text": "神！ 我"
+            },
+            {
+              "chord": "A",
+              "text": "們"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "活 泉！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們 讚 美， 歌 唱 不 倦，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "暢"
+            },
+            {
+              "chord": "A7",
+              "text": "飲 於"
+            },
+            {
+              "chord": "D",
+              "text": "活 泉！"
+            },
+            {
+              "chord": "",
+              "text": "榮"
+            },
+            {
+              "chord": "G",
+              "text": "耀"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "召 會"
+          "segments": [
+            {
+              "chord": "",
+              "text": "歸"
+            },
+            {
+              "chord": "D",
+              "text": "神！ 我"
+            },
+            {
+              "chord": "A",
+              "text": "們"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "（家） 裡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在"
+            },
+            {
+              "chord": "A7",
+              "text": "家 裡"
+            },
+            {
+              "chord": "D",
+              "text": "面。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主是何等乐意施恩，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "面。 榮"
+          "segments": [
+            {
+              "chord": "",
+              "text": "尽管畅饮于活泉！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "耀"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "歸"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不必天涯海角去找，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "神！ 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是在家里面。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀归神！"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "們"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "暢"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们畅饮于活泉！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "飲 於"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀归神！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "活 泉！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们在家里面。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "任凭撒但多方打岔，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "榮"
+          "segments": [
+            {
+              "chord": "",
+              "text": "尽管畅饮于活泉！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "耀"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "歸"
+          "segments": [
+            {
+              "chord": "",
+              "text": "无论何时，撒但不能"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "神！ 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "丝毫胜过我们。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀归神！"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "們"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们畅饮于活泉！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "家 裡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀归神！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "面。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们在家里面。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "主是何等乐意施恩，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你若渴了，火速赶来，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "尽管畅饮于活泉！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "只管畅饮，不用担心，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你是在家里面。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "尽管畅饮于活泉！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀归神！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "不必天涯海角去找，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们畅饮于活泉！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "祂是在家里面。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀归神！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "荣耀归神！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们畅饮于活泉！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀归神！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们在家里面。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "任凭撒但多方打岔，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "尽管畅饮于活泉！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "无论何时，撒但不能"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "丝毫胜过我们。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀归神！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们畅饮于活泉！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀归神！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们在家里面。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你若渴了，火速赶来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "尽管畅饮于活泉！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只管畅饮，不用担心，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你是在家里面。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀归神！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们畅饮于活泉！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀归神！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们在家里面。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们在家里面。"
+            }
+          ]
         }
       ]
     }
@@ -334,7 +366,16 @@
   "metadata": {
     "category": "享受基督",
     "time": "2/4",
-    "hymn_code": "565556553442465"
+    "hymn_code": "565556553442465",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1149",
+        "language": "cn",
+        "category": "h",
+        "number": "1149",
+        "title": "E1149"
+      }
+    ]
   },
   "raw_sections": [
     "恩 典實 際 湧 自 基 督，",

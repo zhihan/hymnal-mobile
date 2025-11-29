@@ -1,324 +1,348 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/317",
   "title": "除你外，在天上我有谁呢",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "直 等"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "直 等"
+            },
+            {
+              "chord": "",
+              "text": "到"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "到"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 進 了"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 進 了"
+            },
+            {
+              "chord": "B7",
+              "text": "神 的"
+            },
+            {
+              "chord": "",
+              "text": "聖 所"
+            },
+            {
+              "chord": "Em",
+              "text": "裡 面，"
+            }
+          ]
         },
         {
-          "chord": "B7",
-          "text": "神 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "纔 看"
+            },
+            {
+              "chord": "A7",
+              "text": "出 他"
+            },
+            {
+              "chord": "",
+              "text": "們 的 結"
+            },
+            {
+              "chord": "D",
+              "text": "局。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "聖 所"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直 等 到"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "裡 面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "纔 看"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 進 了"
+            },
+            {
+              "chord": "B7",
+              "text": "神 的"
+            },
+            {
+              "chord": "",
+              "text": "聖 所"
+            },
+            {
+              "chord": "Em",
+              "text": "裡 面，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "出 他"
+          "segments": [
+            {
+              "chord": "",
+              "text": "纔 看"
+            },
+            {
+              "chord": "A7",
+              "text": "出 他"
+            },
+            {
+              "chord": "",
+              "text": "們 的 結"
+            },
+            {
+              "chord": "D",
+              "text": "局。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "惡 人 和 狂 傲"
+            },
+            {
+              "chord": "Bm",
+              "text": "人"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "們 的 結"
+          "segments": [
+            {
+              "chord": "",
+              "text": "反 倒"
+            },
+            {
+              "chord": "F♯",
+              "text": "享 平"
+            },
+            {
+              "chord": "",
+              "text": "安；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "局。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直 等 到"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 進 了"
+          "segments": [
+            {
+              "chord": "",
+              "text": "至 於"
+            },
+            {
+              "chord": "Bm",
+              "text": "我， 我"
+            },
+            {
+              "chord": "",
+              "text": "腳 幾 乎"
+            },
+            {
+              "chord": "A",
+              "text": "失 閃；"
+            }
+          ]
         },
         {
-          "chord": "B7",
-          "text": "神 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 思"
+            },
+            {
+              "chord": "D",
+              "text": "索 不"
+            },
+            {
+              "chord": "",
+              "text": "明"
+            },
+            {
+              "chord": "Bm",
+              "text": "白，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "聖 所"
+          "segments": [
+            {
+              "chord": "",
+              "text": "眼 看"
+            },
+            {
+              "chord": "E7",
+              "text": "實 為"
+            },
+            {
+              "chord": "A",
+              "text": "難！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你实在把他们"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "裡 面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "纔 看"
+          "segments": [
+            {
+              "chord": "",
+              "text": "安置在滑地，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "出 他"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使他们掉在沉沦之中，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "們 的 結"
+          "segments": [
+            {
+              "chord": "",
+              "text": "他们所夸口的"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "局。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "转眼便成空。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "惡 人 和 狂 傲"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因而我的心里发酸，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "人"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "反 倒"
+          "segments": [
+            {
+              "chord": "",
+              "text": "肺腑被刺，"
+            }
+          ]
         },
         {
-          "chord": "F♯",
-          "text": "享 平"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我竟这样愚昧无知。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "安；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "（重复最后两行，下同）"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "至 於"
+          "segments": [
+            {
+              "chord": "",
+              "text": "除你外，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "我， 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在天上我岂有谁呢？"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "腳 幾 乎"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在地上我也无所爱慕；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "失 閃；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 思"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你是我的力量"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "索 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "和永远之福！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你搀着我右手，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "明"
+          "segments": [
+            {
+              "chord": "",
+              "text": "以你训言引导，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "白，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "眼 看"
-        },
-        {
-          "chord": "E7",
-          "text": "實 為"
-        },
-        {
-          "chord": "A",
-          "text": "難！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你实在把他们"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "安置在滑地，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使他们掉在沉沦之中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "他们所夸口的"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "转眼便成空。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因而我的心里发酸，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "肺腑被刺，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我竟这样愚昧无知。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "（重复最后两行，下同）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "除你外，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在天上我岂有谁呢？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在地上我也无所爱慕；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你是我的力量"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "和永远之福！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你搀着我右手，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "以你训言引导，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "以后必接我到荣耀。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "以后必接我到荣耀。"
+            }
+          ]
         }
       ]
     }

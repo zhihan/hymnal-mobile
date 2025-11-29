@@ -1,224 +1,232 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/404",
   "title": "全心只有主",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A7",
-          "text": "可 惡"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "可 惡"
+            },
+            {
+              "chord": "D",
+              "text": "世 界"
+            },
+            {
+              "chord": "",
+              "text": "一 直"
+            },
+            {
+              "chord": "A",
+              "text": "騙 我，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "世 界"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 還"
+            },
+            {
+              "chord": "G",
+              "text": "以 為"
+            },
+            {
+              "chord": "A7",
+              "text": "是 好"
+            },
+            {
+              "chord": "D",
+              "text": "友；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "一 直"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "甚 麼"
+            },
+            {
+              "chord": "D",
+              "text": "都 還"
+            },
+            {
+              "chord": "",
+              "text": "沒 有"
+            },
+            {
+              "chord": "A",
+              "text": "到 手，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "騙 我，"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 心"
+            },
+            {
+              "chord": "G",
+              "text": "就 先"
+            },
+            {
+              "chord": "A7",
+              "text": "被 騙"
+            },
+            {
+              "chord": "D",
+              "text": "走。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "害 得 我 主"
+            },
+            {
+              "chord": "G",
+              "text": "苦 苦"
+            },
+            {
+              "chord": "D",
+              "text": "巴 望，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "想 要"
+            },
+            {
+              "chord": "Bm",
+              "text": "愛 我"
+            },
+            {
+              "chord": "G",
+              "text": "愛 不"
+            },
+            {
+              "chord": "D",
+              "text": "著！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "主， 我"
+            },
+            {
+              "chord": "D",
+              "text": "今 天"
+            },
+            {
+              "chord": "",
+              "text": "向 你"
+            },
+            {
+              "chord": "A",
+              "text": "悔 改，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "你 已"
+            },
+            {
+              "chord": "G",
+              "text": "等 得"
+            },
+            {
+              "chord": "A7",
+              "text": "彀 長"
+            },
+            {
+              "chord": "D",
+              "text": "久……"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "我 還"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，感谢你嫉妒的灵"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "以 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "保守我单为你活。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "是 好"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你的恩典多而又多，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "友；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "甚 麼"
+          "segments": [
+            {
+              "chord": "",
+              "text": "足够我欢喜快乐。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "都 還"
+          "segments": [
+            {
+              "chord": "",
+              "text": "现在我要疯狂爱主，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "沒 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱到全心只有主！"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "到 手，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "我 心"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主、阿们，世界断开，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "就 先"
-        },
-        {
-          "chord": "A7",
-          "text": "被 騙"
-        },
-        {
-          "chord": "D",
-          "text": "走。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "害 得 我 主"
-        },
-        {
-          "chord": "G",
-          "text": "苦 苦"
-        },
-        {
-          "chord": "D",
-          "text": "巴 望，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "想 要"
-        },
-        {
-          "chord": "Bm",
-          "text": "愛 我"
-        },
-        {
-          "chord": "G",
-          "text": "愛 不"
-        },
-        {
-          "chord": "D",
-          "text": "著！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "主， 我"
-        },
-        {
-          "chord": "D",
-          "text": "今 天"
-        },
-        {
-          "chord": "",
-          "text": "向 你"
-        },
-        {
-          "chord": "A",
-          "text": "悔 改，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "你 已"
-        },
-        {
-          "chord": "G",
-          "text": "等 得"
-        },
-        {
-          "chord": "A7",
-          "text": "彀 長"
-        },
-        {
-          "chord": "D",
-          "text": "久……"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，感谢你嫉妒的灵"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "保守我单为你活。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你的恩典多而又多，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "足够我欢喜快乐。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "现在我要疯狂爱主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱到全心只有主！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主、阿们，世界断开，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚，主同在！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，主同在！"
+            }
+          ]
         }
       ]
     }

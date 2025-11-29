@@ -1,364 +1,380 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/849",
   "title": "禧年的生活",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "哦， 讓"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "哦， 讓"
+            },
+            {
+              "chord": "",
+              "text": "我 們"
+            },
+            {
+              "chord": "C",
+              "text": "揚 聲"
+            },
+            {
+              "chord": "",
+              "text": "歡"
+            },
+            {
+              "chord": "G",
+              "text": "呼，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "角 聲 遍"
+            },
+            {
+              "chord": "D7",
+              "text": "地 發"
+            },
+            {
+              "chord": "G",
+              "text": "出，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "揚 聲"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同 宣 告 神"
+            },
+            {
+              "chord": "C",
+              "text": "救 贖"
+            },
+            {
+              "chord": "",
+              "text": "之"
+            },
+            {
+              "chord": "G",
+              "text": "日，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "歡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "人"
+            },
+            {
+              "chord": "D",
+              "text": "生 從"
+            },
+            {
+              "chord": "D7",
+              "text": "今 開"
+            },
+            {
+              "chord": "G",
+              "text": "始；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "呼，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "角 聲 遍"
+          "segments": [
+            {
+              "chord": "",
+              "text": "出 黑"
+            },
+            {
+              "chord": "D",
+              "text": "暗，"
+            },
+            {
+              "chord": "D7",
+              "text": "脫 捆"
+            },
+            {
+              "chord": "G",
+              "text": "綁，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "地 發"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 這"
+            },
+            {
+              "chord": "D",
+              "text": "罪 囚"
+            },
+            {
+              "chord": "A7",
+              "text": "大 得"
+            },
+            {
+              "chord": "",
+              "text": "釋"
+            },
+            {
+              "chord": "D",
+              "text": "放。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "出，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同 宣 告 神"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "哦， 讓"
+            },
+            {
+              "chord": "G",
+              "text": "我 們"
+            },
+            {
+              "chord": "C",
+              "text": "揚 聲"
+            },
+            {
+              "chord": "",
+              "text": "歡"
+            },
+            {
+              "chord": "G",
+              "text": "呼，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "救 贖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "角"
+            },
+            {
+              "chord": "D",
+              "text": "聲 遍"
+            },
+            {
+              "chord": "D7",
+              "text": "地 發"
+            },
+            {
+              "chord": "G",
+              "text": "出。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，让我们击鼓跳舞，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "之"
+          "segments": [
+            {
+              "chord": "",
+              "text": "踏着喜悦脚步，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "日，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "人"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同进入神恩典禧年，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "生 從"
+          "segments": [
+            {
+              "chord": "",
+              "text": "前途美好无限；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "今 開"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我权益都恢复，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "始；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "出 黑"
+          "segments": [
+            {
+              "chord": "",
+              "text": "重归自由，产业丰富。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "暗，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，让我们击鼓跳舞，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "脫 捆"
+          "segments": [
+            {
+              "chord": "",
+              "text": "踏着喜悦脚步。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，让我们尽情享受，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "綁，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 這"
+          "segments": [
+            {
+              "chord": "",
+              "text": "去罢，烦恼、忧愁，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "罪 囚"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将你喜乐快快敞开，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "大 得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神自己必进来；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "釋"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂丰富充满我，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "放。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "哦， 讓"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如同大水，全人漫过。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，让我们尽情享受，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "揚 聲"
+          "segments": [
+            {
+              "chord": "",
+              "text": "去罢，烦恼、忧愁。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，让我们吃喝快乐，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "歡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "父家满了诗歌，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "呼，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "角"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是我们完全的爱，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "聲 遍"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们一生年代；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "地 發"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来安家神居所，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "出。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "天天过着禧年生活。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "哦，让我们击鼓跳舞，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，让我们吃喝快乐，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "踏着喜悦脚步，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同进入神恩典禧年，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "前途美好无限；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我权益都恢复，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "重归自由，产业丰富。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，让我们击鼓跳舞，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "踏着喜悦脚步。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，让我们尽情享受，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "去罢，烦恼、忧愁，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将你喜乐快快敞开，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神自己必进来；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂丰富充满我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如同大水，全人漫过。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，让我们尽情享受，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "去罢，烦恼、忧愁。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，让我们吃喝快乐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "父家满了诗歌，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是我们完全的爱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们一生年代；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来安家神居所，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天天过着禧年生活。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，让我们吃喝快乐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "父家满了诗歌。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "父家满了诗歌。"
+            }
+          ]
         }
       ]
     }

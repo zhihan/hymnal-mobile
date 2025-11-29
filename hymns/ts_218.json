@@ -1,520 +1,540 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/218",
   "title": "我们在喝生命的水",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "在 喝 生"
+            },
+            {
+              "chord": "F",
+              "text": "命 的"
+            },
+            {
+              "chord": "",
+              "text": "水，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "在 喝 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "活"
+            },
+            {
+              "chord": "D",
+              "text": "水 湧"
+            },
+            {
+              "chord": "D7",
+              "text": "出 如"
+            },
+            {
+              "chord": "G",
+              "text": "同 江"
+            },
+            {
+              "chord": "G7",
+              "text": "河！"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "命 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "喝"
+            },
+            {
+              "chord": "C",
+              "text": "了 這"
+            },
+            {
+              "chord": "G7",
+              "text": "水， 主"
+            },
+            {
+              "chord": "C",
+              "text": "曾 明"
+            },
+            {
+              "chord": "G",
+              "text": "說，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "水，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "活"
+          "segments": [
+            {
+              "chord": "",
+              "text": "就"
+            },
+            {
+              "chord": "C",
+              "text": "永 遠"
+            },
+            {
+              "chord": "",
+              "text": "永 遠"
+            },
+            {
+              "chord": "G7",
+              "text": "不 再"
+            },
+            {
+              "chord": "C",
+              "text": "渴！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "水 湧"
+          "segments": [
+            {
+              "chord": "",
+              "text": "難 道 永 遠 不 再 渴？ 是！"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "出 如"
+          "segments": [
+            {
+              "chord": "F",
+              "text": "永 遠"
+            },
+            {
+              "chord": "",
+              "text": "不 再 渴！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "同 江"
+          "segments": [
+            {
+              "chord": "",
+              "text": "難 道"
+            },
+            {
+              "chord": "D",
+              "text": "永 遠"
+            },
+            {
+              "chord": "",
+              "text": "不 再"
+            },
+            {
+              "chord": "D7",
+              "text": "渴？ 是！"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "河！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "喝"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "永 遠"
+            },
+            {
+              "chord": "",
+              "text": "不 再"
+            },
+            {
+              "chord": "G7",
+              "text": "渴！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "了 這"
+          "segments": [
+            {
+              "chord": "",
+              "text": "喝"
+            },
+            {
+              "chord": "C",
+              "text": "了 這"
+            },
+            {
+              "chord": "G7",
+              "text": "水， 主"
+            },
+            {
+              "chord": "C",
+              "text": "曾 明"
+            },
+            {
+              "chord": "G",
+              "text": "說，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "水， 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "就"
+            },
+            {
+              "chord": "C",
+              "text": "永 遠"
+            },
+            {
+              "chord": "",
+              "text": "永 遠"
+            },
+            {
+              "chord": "G7",
+              "text": "不 再"
+            },
+            {
+              "chord": "C",
+              "text": "渴。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们在吃生命的粮─"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "曾 明"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神的筵席为人摆设；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "說，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "就"
+          "segments": [
+            {
+              "chord": "",
+              "text": "吃了这粮，主曾明说，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "永 遠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "就永远永远不再饿。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "永 遠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "难道永远不再饿？是！"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "不 再"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永远不再饿！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "渴！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "難 道 永 遠 不 再 渴？ 是！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "F",
-          "text": "永 遠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "难道永远不再饿？是！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "不 再 渴！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "難 道"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永远不再饿！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "永 遠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "吃了这粮，主曾明说，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "不 再"
+          "segments": [
+            {
+              "chord": "",
+              "text": "就永远永远不再饿。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们在吸生命之气，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "渴？ 是！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "永 遠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "就是那赐生命的灵；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "不 再"
+          "segments": [
+            {
+              "chord": "",
+              "text": "吸了这气─直到永远，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "渴！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "喝"
+          "segments": [
+            {
+              "chord": "",
+              "text": "就必定有神的生命。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "了 這"
+          "segments": [
+            {
+              "chord": "",
+              "text": "难道有神的生命？是！"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "水， 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "有神的生命！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "曾 明"
+          "segments": [
+            {
+              "chord": "",
+              "text": "难道有神的生命？是！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "說，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "就"
+          "segments": [
+            {
+              "chord": "",
+              "text": "有神的生命！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "永 遠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "吸了这气─直到永远，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "永 遠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "都必定有神的生命。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们在尝生命之酒，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "不 再"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神圣芬芳绝无仅有；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "渴。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "尝了这酒─每时每刻，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "都必定有神的喜乐。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "难道有神的喜乐？是！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "有神的喜乐！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "难道有神的喜乐？是！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "有神的喜乐！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "尝了这酒─每时每刻，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "都必定有神的喜乐。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我们在吃生命的粮─"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督是王死而复活，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "神的筵席为人摆设；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "赐人生命丰盛阔绰；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "吃了这粮，主曾明说，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "你接受祂，也必高歌，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "就永远永远不再饿。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "并且要永远的活着。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "难道永远不再饿？是！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "难道永远的活着？是！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "永远不再饿！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "永远的活着！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "难道永远不再饿？是！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "难道永远的活着？是！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "永远不再饿！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "永远的活着！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "吃了这粮，主曾明说，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "你接受祂，也必高歌，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "就永远永远不再饿。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们在吸生命之气，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "就是那赐生命的灵；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "吸了这气─直到永远，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "就必定有神的生命。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "难道有神的生命？是！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有神的生命！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "难道有神的生命？是！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有神的生命！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "吸了这气─直到永远，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "都必定有神的生命。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们在尝生命之酒，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神圣芬芳绝无仅有；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "尝了这酒─每时每刻，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "都必定有神的喜乐。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "难道有神的喜乐？是！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有神的喜乐！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "难道有神的喜乐？是！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有神的喜乐！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "尝了这酒─每时每刻，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "都必定有神的喜乐。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督是王死而复活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赐人生命丰盛阔绰；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你接受祂，也必高歌，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "并且要永远的活着。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "难道永远的活着？是！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永远的活着！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "难道永远的活着？是！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永远的活着！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你接受祂，也必高歌，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "并且要永远的活着！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "并且要永远的活着！"
+            }
+          ]
         }
       ]
     }
@@ -522,7 +542,16 @@
   "metadata": {
     "category": "享受基督",
     "time": "4/4",
-    "hymn_code": "3455517666"
+    "hymn_code": "3455517666",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1150",
+        "language": "cn",
+        "category": "h",
+        "number": "1150",
+        "title": "E1150"
+      }
+    ]
   },
   "raw_sections": [
     "我 們在 喝 生命 的水，",

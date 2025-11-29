@@ -1,396 +1,412 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/821",
   "title": "岂能说透",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Cm",
-          "text": "問: 朋 友！"
+          "segments": [
+            {
+              "chord": "Cm",
+              "text": "問: 朋 友！"
+            },
+            {
+              "chord": "",
+              "text": "朋"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "朋"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "友！ 告 訴 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "友！ 告 訴 我"
+            },
+            {
+              "chord": "Gm",
+              "text": "說："
+            },
+            {
+              "chord": "G",
+              "text": "甚 麼"
+            },
+            {
+              "chord": "",
+              "text": "使"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "說："
+          "segments": [
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "G7",
+              "text": "這 樣"
+            },
+            {
+              "chord": "",
+              "text": "快"
+            },
+            {
+              "chord": "Cm",
+              "text": "活？ 為"
+            },
+            {
+              "chord": "",
+              "text": "何 喜"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "甚 麼"
+          "segments": [
+            {
+              "chord": "",
+              "text": "樂"
+            },
+            {
+              "chord": "G♯",
+              "text": "常 顯"
+            },
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "Cm",
+              "text": "面，"
+            },
+            {
+              "chord": "Fm",
+              "text": "似 有"
+            },
+            {
+              "chord": "G7",
+              "text": "活"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "使"
+          "segments": [
+            {
+              "chord": "",
+              "text": "泉 湧 自 你"
+            },
+            {
+              "chord": "Cm",
+              "text": "懷。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "（问）"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "這 樣"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的朋友，再告诉我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "快"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是否你的就是这些？"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "活？ 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "即或我罪都洗清洁，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "何 喜"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "樂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的生活仍有所需。"
+            }
+          ]
         },
         {
-          "chord": "G♯",
-          "text": "常 顯"
+          "segments": [
+            {
+              "chord": "",
+              "text": "（答）"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，这恩主何其丰厚，"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "面，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "岂是数语就能说尽，"
+            }
+          ]
         },
         {
-          "chord": "Fm",
-          "text": "似 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂已复活作我生命，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "活"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "泉 湧 自 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "成为我的能力，供应。"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "懷。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "（同啍）"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "啦…………（一遍）"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "（问）"
+          "segments": [
+            {
+              "chord": "",
+              "text": "（问）"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我是希奇你所得着，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "罪已赦免，生命里活，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "但我不知像我这样，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂的救恩能否得着？"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "（答）"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，愿你能知祂大爱，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂需要你，祂手伸出，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂巴不得赐你救赎，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "作你生命，作你救主。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "（同啍）"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "啦…………（一遍）"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我的朋友，再告诉我，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "（问）"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "是否你的就是这些？"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "朋友，朋友，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "即或我罪都洗清洁，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我今敞开我的心门"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我的生活仍有所需。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "让祂进来，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "（答）"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "但愿赦罪、生命、能力、"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "哦，这恩主何其丰厚，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "喜乐活水涌自我怀。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "岂是数语就能说尽，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "（答）"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "祂已复活作我生命，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "弟兄，弟兄，我们同来，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "成为我的能力，供应。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "享受救主，就是现在，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "（同啍）"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们同是蒙恩罪人，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "啦…………（一遍）"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞祂恩惠，颂祂大爱。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "（问）"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "（同啍）"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我是希奇你所得着，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "罪已赦免，生命里活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但我不知像我这样，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂的救恩能否得着？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "（答）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，愿你能知祂大爱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂需要你，祂手伸出，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂巴不得赐你救赎，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作你生命，作你救主。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "（同啍）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "啦…………（一遍）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "（问）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "朋友，朋友，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我今敞开我的心门"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让祂进来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但愿赦罪、生命、能力、"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "喜乐活水涌自我怀。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "（答）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "弟兄，弟兄，我们同来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享受救主，就是现在，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们同是蒙恩罪人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞祂恩惠，颂祂大爱。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "（同啍）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "啦…………（一遍）"
+          "segments": [
+            {
+              "chord": "",
+              "text": "啦…………（一遍）"
+            }
+          ]
         }
       ]
     }

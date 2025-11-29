@@ -1,276 +1,280 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/219",
   "title": "活水涌流",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A",
-          "text": "活 水"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "活 水"
+            },
+            {
+              "chord": "",
+              "text": "湧 流， （湧 流！ 湧 流！） 生 命"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "湧 流， （湧 流！ 湧 流！） 生 命"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "水 湧"
+          "segments": [
+            {
+              "chord": "",
+              "text": "水 湧"
+            },
+            {
+              "chord": "Bm",
+              "text": "流， （湧"
+            },
+            {
+              "chord": "",
+              "text": "流！ 湧"
+            },
+            {
+              "chord": "E7",
+              "text": "流！） 滿"
+            },
+            {
+              "chord": "",
+              "text": "帶 神 生"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "流， （湧"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "命， （生"
+            },
+            {
+              "chord": "",
+              "text": "命！ 生"
+            },
+            {
+              "chord": "E7",
+              "text": "命！） 生"
+            },
+            {
+              "chord": "",
+              "text": "命 的 供"
+            },
+            {
+              "chord": "A",
+              "text": "應， （供"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "流！ 湧"
+          "segments": [
+            {
+              "chord": "",
+              "text": "應！ 供 應！） 使 我 們 成 形， （成 形！ 成"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "流！） 滿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "形！） 成 為 祂 榮"
+            },
+            {
+              "chord": "D",
+              "text": "形， （榮"
+            },
+            {
+              "chord": "",
+              "text": "形！ 榮 形！） 流"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "帶 神 生"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Bm",
-          "text": "命， （生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "成 祂 模"
+            },
+            {
+              "chord": "E",
+              "text": "樣， 神"
+            },
+            {
+              "chord": "",
+              "text": "和"
+            },
+            {
+              "chord": "F♯m",
+              "text": "人 都"
+            },
+            {
+              "chord": "",
+              "text": "在"
+            },
+            {
+              "chord": "D",
+              "text": "此 得"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "命！ 生"
+          "segments": [
+            {
+              "chord": "E7",
+              "text": "著 滿"
+            },
+            {
+              "chord": "A",
+              "text": "足。 生"
+            },
+            {
+              "chord": "",
+              "text": "命"
+            },
+            {
+              "chord": "B",
+              "text": "何 豐"
+            },
+            {
+              "chord": "",
+              "text": "富，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "命！） 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "喜 樂 何 滿 足， 奇 妙"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "命 的 供"
+          "segments": [
+            {
+              "chord": "E",
+              "text": "甘 甜，"
+            },
+            {
+              "chord": "",
+              "text": "越 過 越 富， 主 是"
+            },
+            {
+              "chord": "B",
+              "text": "何 深"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "應， （供"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "應！ 供 應！） 使 我 們 成 形， （成 形！ 成"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "形！） 成 為 祂 榮"
+          "segments": [
+            {
+              "chord": "",
+              "text": "厚， 永 不"
+            },
+            {
+              "chord": "B7",
+              "text": "能 測"
+            },
+            {
+              "chord": "",
+              "text": "透， 卻 流"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "形， （榮"
+          "segments": [
+            {
+              "chord": "E",
+              "text": "經 我"
+            },
+            {
+              "chord": "A7",
+              "text": "身 給"
+            },
+            {
+              "chord": "B7",
+              "text": "我 享"
+            },
+            {
+              "chord": "E",
+              "text": "受。 享"
+            },
+            {
+              "chord": "E7",
+              "text": "受， 享"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "形！ 榮 形！） 流"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "成 祂 模"
+          "segments": [
+            {
+              "chord": "",
+              "text": "受 不 盡， 成"
+            },
+            {
+              "chord": "A",
+              "text": "長， 成"
+            },
+            {
+              "chord": "",
+              "text": "長 不 停，"
+            }
+          ]
         },
         {
-          "chord": "E",
-          "text": "樣， 神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "流"
+            },
+            {
+              "chord": "Bm",
+              "text": "出 寶"
+            },
+            {
+              "chord": "",
+              "text": "石、 精"
+            },
+            {
+              "chord": "E7",
+              "text": "金，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "和"
+          "segments": [
+            {
+              "chord": "",
+              "text": "成"
+            },
+            {
+              "chord": "A",
+              "text": "為 神"
+            },
+            {
+              "chord": "",
+              "text": "居"
+            },
+            {
+              "chord": "D",
+              "text": "所 榮"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "人 都"
-        },
-        {
-          "chord": "",
-          "text": "在"
-        },
-        {
-          "chord": "D",
-          "text": "此 得"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "E7",
-          "text": "著 滿"
-        },
-        {
-          "chord": "A",
-          "text": "足。 生"
-        },
-        {
-          "chord": "",
-          "text": "命"
-        },
-        {
-          "chord": "B",
-          "text": "何 豐"
-        },
-        {
-          "chord": "",
-          "text": "富，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "喜 樂 何 滿 足， 奇 妙"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "E",
-          "text": "甘 甜，"
-        },
-        {
-          "chord": "",
-          "text": "越 過 越 富， 主 是"
-        },
-        {
-          "chord": "B",
-          "text": "何 深"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "厚， 永 不"
-        },
-        {
-          "chord": "B7",
-          "text": "能 測"
-        },
-        {
-          "chord": "",
-          "text": "透， 卻 流"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "E",
-          "text": "經 我"
-        },
-        {
-          "chord": "A7",
-          "text": "身 給"
-        },
-        {
-          "chord": "B7",
-          "text": "我 享"
-        },
-        {
-          "chord": "E",
-          "text": "受。 享"
-        },
-        {
-          "chord": "E7",
-          "text": "受， 享"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "受 不 盡， 成"
-        },
-        {
-          "chord": "A",
-          "text": "長， 成"
-        },
-        {
-          "chord": "",
-          "text": "長 不 停，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "流"
-        },
-        {
-          "chord": "Bm",
-          "text": "出 寶"
-        },
-        {
-          "chord": "",
-          "text": "石、 精"
-        },
-        {
-          "chord": "E7",
-          "text": "金，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "成"
-        },
-        {
-          "chord": "A",
-          "text": "為 神"
-        },
-        {
-          "chord": "",
-          "text": "居"
-        },
-        {
-          "chord": "D",
-          "text": "所 榮"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "耀"
-        },
-        {
-          "chord": "E7",
-          "text": "見"
-        },
-        {
-          "chord": "A",
-          "text": "證。"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "耀"
+            },
+            {
+              "chord": "E7",
+              "text": "見"
+            },
+            {
+              "chord": "A",
+              "text": "證。"
+            }
+          ]
         }
       ]
     }

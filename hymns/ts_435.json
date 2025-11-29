@@ -1,440 +1,460 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/435",
   "title": "惟夸荣耀十架",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G7",
-          "text": "耶"
+          "segments": [
+            {
+              "chord": "G7",
+              "text": "耶"
+            },
+            {
+              "chord": "C",
+              "text": "穌 十"
+            },
+            {
+              "chord": "Cdim7",
+              "text": "架 陰"
+            },
+            {
+              "chord": "C",
+              "text": "影"
+            },
+            {
+              "chord": "Am",
+              "text": "下，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "穌 十"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "F",
+              "text": "今 歡"
+            },
+            {
+              "chord": "G7",
+              "text": "然 站"
+            },
+            {
+              "chord": "C",
+              "text": "立；"
+            }
+          ]
         },
         {
-          "chord": "Cdim7",
-          "text": "架 陰"
+          "segments": [
+            {
+              "chord": "E",
+              "text": "如"
+            },
+            {
+              "chord": "Am",
+              "text": "在 炎"
+            },
+            {
+              "chord": "",
+              "text": "熱"
+            },
+            {
+              "chord": "E",
+              "text": "疲"
+            },
+            {
+              "chord": "Am",
+              "text": "乏 之"
+            },
+            {
+              "chord": "Dm",
+              "text": "地，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "影"
+          "segments": [
+            {
+              "chord": "",
+              "text": "尋 得 磐"
+            },
+            {
+              "chord": "F7",
+              "text": "石 蔭"
+            },
+            {
+              "chord": "E",
+              "text": "蔽。"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "下，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "曠"
+            },
+            {
+              "chord": "C",
+              "text": "野 之"
+            },
+            {
+              "chord": "",
+              "text": "中"
+            },
+            {
+              "chord": "G7",
+              "text": "安"
+            },
+            {
+              "chord": "C",
+              "text": "居 無"
+            },
+            {
+              "chord": "",
+              "text": "虞，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "今 歡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "途"
+            },
+            {
+              "chord": "F",
+              "text": "中 亦"
+            },
+            {
+              "chord": "A7",
+              "text": "享 安"
+            },
+            {
+              "chord": "Dm",
+              "text": "息；"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "然 站"
+          "segments": [
+            {
+              "chord": "",
+              "text": "日"
+            },
+            {
+              "chord": "G",
+              "text": "間 暑"
+            },
+            {
+              "chord": "G7",
+              "text": "溽， 操"
+            },
+            {
+              "chord": "C",
+              "text": "煩 重"
+            },
+            {
+              "chord": "F",
+              "text": "壓"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "立；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "都"
+            },
+            {
+              "chord": "C",
+              "text": "不 能"
+            },
+            {
+              "chord": "G7",
+              "text": "將 我"
+            },
+            {
+              "chord": "C",
+              "text": "襲。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "E",
-          "text": "如"
+          "segments": [
+            {
+              "chord": "",
+              "text": "此避难所经试验─"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "在 炎"
+          "segments": [
+            {
+              "chord": "",
+              "text": "稳妥、可悦、甘甜！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "熱"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天来恩爱、至上公义"
+            }
+          ]
         },
         {
-          "chord": "E",
-          "text": "疲"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在此竟可两全。"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "乏 之"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如同先祖梦中所见，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "地，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "尋 得 磐"
+          "segments": [
+            {
+              "chord": "",
+              "text": "梯子立地顶天，"
+            }
+          ]
         },
         {
-          "chord": "F7",
-          "text": "石 蔭"
+          "segments": [
+            {
+              "chord": "",
+              "text": "借我救主钉死木架，"
+            }
+          ]
         },
         {
-          "chord": "E",
-          "text": "蔽。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "人竟与天结联。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "曠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阴间虽扩张其欲，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "野 之"
+          "segments": [
+            {
+              "chord": "",
+              "text": "开口噬人无数，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "中"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在我却已尽失权势，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "安"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因有十架隔阻。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "居 無"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如同儆夫把守险途，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "虞，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "途"
+          "segments": [
+            {
+              "chord": "",
+              "text": "十架居间耸立，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "中 亦"
+          "segments": [
+            {
+              "chord": "",
+              "text": "伸展双臂施行拯救，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "享 安"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永死诅咒消弭。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "自从我眼得看见，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "息；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "日"
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣木上流血，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "間 暑"
+          "segments": [
+            {
+              "chord": "",
+              "text": "忍辱、受死全是为我，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "溽， 操"
+          "segments": [
+            {
+              "chord": "",
+              "text": "此景难以磨灭。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "煩 重"
+          "segments": [
+            {
+              "chord": "",
+              "text": "痛悔之心顿生感赞，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "壓"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "都"
+          "segments": [
+            {
+              "chord": "",
+              "text": "希奇天来恩惠："
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "不 能"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀之爱何竟临及，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "將 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我这如蛆之辈。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，十字架阴影下，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "襲。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我得永远安居；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "此避难所经试验─"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "恩主面光我所欣羡，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "稳妥、可悦、甘甜！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "其他亮光无需。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "天来恩爱、至上公义"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "今世荣华任其消逝，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在此竟可两全。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "得失于我无差；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "如同先祖梦中所见，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "羞惭舍却罪恶、自己，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "梯子立地顶天，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借我救主钉死木架，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "人竟与天结联。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阴间虽扩张其欲，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "开口噬人无数，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在我却已尽失权势，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因有十架隔阻。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如同儆夫把守险途，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "十架居间耸立，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "伸展双臂施行拯救，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永死诅咒消弭。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自从我眼得看见，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣木上流血，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "忍辱、受死全是为我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "此景难以磨灭。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "痛悔之心顿生感赞，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "希奇天来恩惠："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀之爱何竟临及，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我这如蛆之辈。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，十字架阴影下，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我得永远安居；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "恩主面光我所欣羡，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "其他亮光无需。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今世荣华任其消逝，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得失于我无差；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "羞惭舍却罪恶、自己，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惟夸荣耀十架。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟夸荣耀十架。"
+            }
+          ]
         }
       ]
     }
@@ -442,7 +462,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "4/4",
-    "hymn_code": "5554653123443"
+    "hymn_code": "5554653123443",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/621",
+        "language": "cn",
+        "category": "h",
+        "number": "621",
+        "title": "E621"
+      }
+    ]
   },
   "raw_sections": [
     "耶穌 十架 陰影下，",

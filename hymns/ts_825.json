@@ -1,336 +1,344 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/825",
   "title": "寻回",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Dm",
-          "text": "我 曾"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "我 曾"
+            },
+            {
+              "chord": "A",
+              "text": "尋 找"
+            },
+            {
+              "chord": "Dm",
+              "text": "一 道"
+            },
+            {
+              "chord": "A",
+              "text": "泉 水，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "尋 找"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "能 解"
+            },
+            {
+              "chord": "Gm",
+              "text": "我 裡"
+            },
+            {
+              "chord": "",
+              "text": "面"
+            },
+            {
+              "chord": "A♯",
+              "text": "的 乾"
+            },
+            {
+              "chord": "A",
+              "text": "渴，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "一 道"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "但 我"
+            },
+            {
+              "chord": "A",
+              "text": "飲 盡"
+            },
+            {
+              "chord": "Dm",
+              "text": "所 有"
+            },
+            {
+              "chord": "A",
+              "text": "水 泉，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "泉 水，"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "仍 不"
+            },
+            {
+              "chord": "Gm",
+              "text": "滿 足，"
+            },
+            {
+              "chord": "",
+              "text": "一"
+            },
+            {
+              "chord": "A",
+              "text": "無 所"
+            },
+            {
+              "chord": "Dm",
+              "text": "獲。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "有 一"
+            },
+            {
+              "chord": "",
+              "text": "天 我"
+            },
+            {
+              "chord": "F",
+              "text": "尋 到，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "我 尋"
+            },
+            {
+              "chord": "",
+              "text": "到"
+            },
+            {
+              "chord": "C7",
+              "text": "我 的"
+            },
+            {
+              "chord": "F",
+              "text": "主，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "祂 在"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "C7",
+              "text": "深 處"
+            },
+            {
+              "chord": "F",
+              "text": "成 為"
+            },
+            {
+              "chord": "A♯",
+              "text": "泉 源，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "一 直"
+            },
+            {
+              "chord": "A",
+              "text": "到 永"
+            },
+            {
+              "chord": "Dm",
+              "text": "遠。 阿"
+            },
+            {
+              "chord": "",
+              "text": "利 路 亞！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "耶 穌！"
+            },
+            {
+              "chord": "",
+              "text": "耶 穌！ 耶 穌！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "F",
+              "text": "耶 穌！"
+            },
+            {
+              "chord": "C",
+              "text": "耶 穌"
+            },
+            {
+              "chord": "",
+              "text": "解 了"
+            },
+            {
+              "chord": "C7",
+              "text": "我 乾"
+            },
+            {
+              "chord": "F",
+              "text": "渴。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "耶 穌！"
+            },
+            {
+              "chord": "",
+              "text": "耶 穌！ 耶 穌！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "耶 穌！"
+            },
+            {
+              "chord": "",
+              "text": "耶 穌 作 了"
+            },
+            {
+              "chord": "A7",
+              "text": "我 生"
+            },
+            {
+              "chord": "Dm",
+              "text": "命。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Dm",
-          "text": "能 解"
+          "segments": [
+            {
+              "chord": "",
+              "text": "奇妙活泉住我里面，"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "我 裡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天天涌流从不止息，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "面"
+          "segments": [
+            {
+              "chord": "",
+              "text": "流向祂的永远心意，"
+            }
+          ]
         },
         {
-          "chord": "A♯",
-          "text": "的 乾"
+          "segments": [
+            {
+              "chord": "",
+              "text": "就是祂荣耀的召会。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "渴，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Dm",
-          "text": "但 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "那一天祂寻回，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "飲 盡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂寻我回祂家，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "所 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我就安家在召会里面，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "水 泉，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Dm",
-          "text": "仍 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "让祂得满足。阿利路亚！"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "滿 足，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "召会！召会！召会！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "召会！召会就是祂满足。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "無 所"
+          "segments": [
+            {
+              "chord": "",
+              "text": "召会！召会！召会！"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "獲。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "有 一"
-        },
-        {
-          "chord": "",
-          "text": "天 我"
-        },
-        {
-          "chord": "F",
-          "text": "尋 到，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "我 尋"
-        },
-        {
-          "chord": "",
-          "text": "到"
-        },
-        {
-          "chord": "C7",
-          "text": "我 的"
-        },
-        {
-          "chord": "F",
-          "text": "主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "祂 在"
-        },
-        {
-          "chord": "",
-          "text": "我"
-        },
-        {
-          "chord": "C7",
-          "text": "深 處"
-        },
-        {
-          "chord": "F",
-          "text": "成 為"
-        },
-        {
-          "chord": "A♯",
-          "text": "泉 源，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Dm",
-          "text": "一 直"
-        },
-        {
-          "chord": "A",
-          "text": "到 永"
-        },
-        {
-          "chord": "Dm",
-          "text": "遠。 阿"
-        },
-        {
-          "chord": "",
-          "text": "利 路 亞！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "耶 穌！"
-        },
-        {
-          "chord": "",
-          "text": "耶 穌！ 耶 穌！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "F",
-          "text": "耶 穌！"
-        },
-        {
-          "chord": "C",
-          "text": "耶 穌"
-        },
-        {
-          "chord": "",
-          "text": "解 了"
-        },
-        {
-          "chord": "C7",
-          "text": "我 乾"
-        },
-        {
-          "chord": "F",
-          "text": "渴。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "耶 穌！"
-        },
-        {
-          "chord": "",
-          "text": "耶 穌！ 耶 穌！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Dm",
-          "text": "耶 穌！"
-        },
-        {
-          "chord": "",
-          "text": "耶 穌 作 了"
-        },
-        {
-          "chord": "A7",
-          "text": "我 生"
-        },
-        {
-          "chord": "Dm",
-          "text": "命。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "奇妙活泉住我里面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天天涌流从不止息，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "流向祂的永远心意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "就是祂荣耀的召会。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "那一天祂寻回，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂寻我回祂家，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我就安家在召会里面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让祂得满足。阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "召会！召会！召会！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "召会！召会就是祂满足。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "召会！召会！召会！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "召会！召会就是我生活。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "召会！召会就是我生活。"
+            }
+          ]
         }
       ]
     }
@@ -338,7 +346,16 @@
   "metadata": {
     "category": "事奉与福音",
     "time": "4/4",
-    "hymn_code": "367123671236432123"
+    "hymn_code": "367123671236432123",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1327",
+        "language": "cn",
+        "category": "h",
+        "number": "1327",
+        "title": "E1327"
+      }
+    ]
   },
   "raw_sections": [
     "我 曾尋 找一 道泉 水，",

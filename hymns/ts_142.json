@@ -1,344 +1,360 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/142",
   "title": "我神乃是澎湃水流",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "我 神"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "我 神"
+            },
+            {
+              "chord": "",
+              "text": "乃"
+            },
+            {
+              "chord": "G",
+              "text": "是 澎"
+            },
+            {
+              "chord": "D7",
+              "text": "湃 水"
+            },
+            {
+              "chord": "G",
+              "text": "流，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "乃"
+          "segments": [
+            {
+              "chord": "",
+              "text": "歷"
+            },
+            {
+              "chord": "F",
+              "text": "世 歷"
+            },
+            {
+              "chord": "C",
+              "text": "代 湧"
+            },
+            {
+              "chord": "G7",
+              "text": "流 不"
+            },
+            {
+              "chord": "C",
+              "text": "休；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "是 澎"
+          "segments": [
+            {
+              "chord": "",
+              "text": "種 種 過"
+            },
+            {
+              "chord": "G",
+              "text": "程 祂"
+            },
+            {
+              "chord": "D7",
+              "text": "已 盡"
+            },
+            {
+              "chord": "G",
+              "text": "歷，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "湃 水"
+          "segments": [
+            {
+              "chord": "",
+              "text": "為"
+            },
+            {
+              "chord": "F",
+              "text": "要 流"
+            },
+            {
+              "chord": "C",
+              "text": "進 卑"
+            },
+            {
+              "chord": "G7",
+              "text": "微 人"
+            },
+            {
+              "chord": "C",
+              "text": "裏。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "流，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "獨 一、 不"
+            },
+            {
+              "chord": "D7",
+              "text": "變 活"
+            },
+            {
+              "chord": "G",
+              "text": "神， 為"
+            },
+            {
+              "chord": "C",
+              "text": "要 作"
+            },
+            {
+              "chord": "G",
+              "text": "人 永"
+            },
+            {
+              "chord": "Am",
+              "text": "分，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 竟 親"
+            },
+            {
+              "chord": "D7",
+              "text": "臨 人"
+            },
+            {
+              "chord": "G",
+              "text": "間，"
+            },
+            {
+              "chord": "F",
+              "text": "歷 經"
+            },
+            {
+              "chord": "",
+              "text": "多 方 變"
+            },
+            {
+              "chord": "E",
+              "text": "遷，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "現"
+            },
+            {
+              "chord": "F",
+              "text": "今 湧"
+            },
+            {
+              "chord": "C",
+              "text": "流 我"
+            },
+            {
+              "chord": "G7",
+              "text": "們 裏"
+            },
+            {
+              "chord": "C",
+              "text": "面！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "歷"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在那起初乐园之中"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "世 歷"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神已流出，满带丰盛；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "代 湧"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是水河，又是果树，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "流 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "分赐生命，作人永福。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "休；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "種 種 過"
+          "segments": [
+            {
+              "chord": "",
+              "text": "这河涌流不息，直至永世无已；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "程 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神在羔羊里流，树果供应丰厚，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "已 盡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神圣分赐无尽、悠久！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "看哪那人耶稣基督，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "歷，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是神流出与人同处；"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "要 流"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为人舍命，成功救赎，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "進 卑"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为将神圣生命释出。"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "微 人"
+          "segments": [
+            {
+              "chord": "",
+              "text": "撒但诡计多端，要将水流阻断；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "裏。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "獨 一、 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "岂知祂钉十架，兵丁扎祂肋下，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "變 活"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不过引出血、水无价！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，血与水从祂而出，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "神， 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "救恩泉源涌流不住；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "要 作"
+          "segments": [
+            {
+              "chord": "",
+              "text": "宝血洗罪永远有能，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "人 永"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生命之水使人重生。"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "分，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 竟 親"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如今那灵流通─是神流入人中；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "臨 人"
+          "segments": [
+            {
+              "chord": "",
+              "text": "仇敌伎俩依旧；不过助长水流，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "間，"
-        },
-        {
-          "chord": "F",
-          "text": "歷 經"
-        },
-        {
-          "chord": "",
-          "text": "多 方 變"
-        },
-        {
-          "chord": "E",
-          "text": "遷，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "現"
-        },
-        {
-          "chord": "F",
-          "text": "今 湧"
-        },
-        {
-          "chord": "C",
-          "text": "流 我"
-        },
-        {
-          "chord": "G7",
-          "text": "們 裏"
-        },
-        {
-          "chord": "C",
-          "text": "面！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在那起初乐园之中"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神已流出，满带丰盛；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是水河，又是果树，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "分赐生命，作人永福。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "这河涌流不息，直至永世无已；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神在羔羊里流，树果供应丰厚，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神圣分赐无尽、悠久！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "看哪那人耶稣基督，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是神流出与人同处；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为人舍命，成功救赎，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为将神圣生命释出。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "撒但诡计多端，要将水流阻断；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "岂知祂钉十架，兵丁扎祂肋下，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不过引出血、水无价！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，血与水从祂而出，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "救恩泉源涌流不住；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "宝血洗罪永远有能，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生命之水使人重生。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如今那灵流通─是神流入人中；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "仇敌伎俩依旧；不过助长水流，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我神涌流无止、无休！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我神涌流无止、无休！"
+            }
+          ]
         }
       ]
     }
@@ -346,7 +362,16 @@
   "metadata": {
     "category": "灵与生命",
     "time": "4/4",
-    "hymn_code": "1115671765"
+    "hymn_code": "1115671765",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1198",
+        "language": "cn",
+        "category": "h",
+        "number": "1198",
+        "title": "E1198"
+      }
+    ]
   },
   "raw_sections": [
     "我 神乃是 澎湃 水流，",

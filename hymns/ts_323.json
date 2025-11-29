@@ -1,236 +1,260 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/323",
   "title": "转，转，我转向主",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Em",
-          "text": "轉，"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "轉，"
+            },
+            {
+              "chord": "A",
+              "text": "轉， 我"
+            },
+            {
+              "chord": "D",
+              "text": "轉 向"
+            },
+            {
+              "chord": "G",
+              "text": "你，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "轉， 我"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "主， 我"
+            },
+            {
+              "chord": "",
+              "text": "承"
+            },
+            {
+              "chord": "C",
+              "text": "認 我"
+            },
+            {
+              "chord": "D",
+              "text": "空 虛"
+            },
+            {
+              "chord": "",
+              "text": "無"
+            },
+            {
+              "chord": "G",
+              "text": "比；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "轉 向"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "轉，"
+            },
+            {
+              "chord": "A",
+              "text": "轉， 流"
+            },
+            {
+              "chord": "D",
+              "text": "浪 的"
+            },
+            {
+              "chord": "G",
+              "text": "心，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "你，"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "只 能"
+            },
+            {
+              "chord": "",
+              "text": "滿"
+            },
+            {
+              "chord": "C",
+              "text": "足 於"
+            },
+            {
+              "chord": "B7",
+              "text": "你 愛"
+            },
+            {
+              "chord": "Em",
+              "text": "情！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Em",
-          "text": "主， 我"
+          "segments": [
+            {
+              "chord": "E",
+              "text": "主"
+            },
+            {
+              "chord": "F♯m",
+              "text": "耶"
+            },
+            {
+              "chord": "E",
+              "text": "穌！ 我"
+            },
+            {
+              "chord": "A",
+              "text": "呼 求"
+            },
+            {
+              "chord": "E",
+              "text": "你，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "承"
-        },
-        {
-          "chord": "C",
-          "text": "認 我"
-        },
-        {
-          "chord": "D",
-          "text": "空 虛"
-        },
-        {
-          "chord": "",
-          "text": "無"
-        },
-        {
-          "chord": "G",
-          "text": "比；"
+          "segments": [
+            {
+              "chord": "C♯m",
+              "text": "你 是"
+            },
+            {
+              "chord": "A",
+              "text": "我 惟"
+            },
+            {
+              "chord": "B7",
+              "text": "一 所"
+            },
+            {
+              "chord": "Em",
+              "text": "需。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Em",
-          "text": "轉，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "厚，厚，祂赐恩典，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "轉， 流"
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼求祂的，必尝祂甘甜；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "浪 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "厚，厚，祂恩待你，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "心，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从今到永远，主不变。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Em",
-          "text": "只 能"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主耶稣！我呼求你，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "滿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你是我惟一所需。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱，爱，基督的爱，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "足 於"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如同江河，满至涌出来；"
+            }
+          ]
         },
         {
-          "chord": "B7",
-          "text": "你 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱，爱，我充满爱，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "情！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "疯狂的充满主的爱。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "E",
-          "text": "主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主耶稣！我呼求你，"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "耶"
-        },
-        {
-          "chord": "E",
-          "text": "穌！ 我"
-        },
-        {
-          "chord": "A",
-          "text": "呼 求"
-        },
-        {
-          "chord": "E",
-          "text": "你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C♯m",
-          "text": "你 是"
-        },
-        {
-          "chord": "A",
-          "text": "我 惟"
-        },
-        {
-          "chord": "B7",
-          "text": "一 所"
-        },
-        {
-          "chord": "Em",
-          "text": "需。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "厚，厚，祂赐恩典，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "呼求祂的，必尝祂甘甜；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "厚，厚，祂恩待你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从今到永远，主不变。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主耶稣！我呼求你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你是我惟一所需。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱，爱，基督的爱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如同江河，满至涌出来；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱，爱，我充满爱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "疯狂的充满主的爱。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主耶稣！我呼求你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你是我惟一所需。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你是我惟一所需。"
+            }
+          ]
         }
       ]
     }
@@ -238,7 +262,16 @@
   "metadata": {
     "category": "爱慕耶稣",
     "time": "4/4",
-    "hymn_code": "321765617165653"
+    "hymn_code": "321765617165653",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/330",
+        "language": "cn",
+        "category": "ns",
+        "number": "330",
+        "title": "NS330"
+      }
+    ]
   },
   "raw_sections": [
     "轉，轉， 我轉 向你，",

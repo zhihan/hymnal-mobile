@@ -1,252 +1,264 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/602",
   "title": "为你计画我们献自己",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "F",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "F",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "看"
+            },
+            {
+              "chord": "Cm",
+              "text": "見"
+            },
+            {
+              "chord": "F",
+              "text": "你 榮"
+            },
+            {
+              "chord": "",
+              "text": "耀"
+            },
+            {
+              "chord": "A♯",
+              "text": "計 畫，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "看"
+          "segments": [
+            {
+              "chord": "Gm",
+              "text": "要 在"
+            },
+            {
+              "chord": "",
+              "text": "地"
+            },
+            {
+              "chord": "Cm",
+              "text": "上"
+            },
+            {
+              "chord": "F",
+              "text": "建 造"
+            },
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "Gm",
+              "text": "家；"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "見"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不"
+            },
+            {
+              "chord": "F",
+              "text": "禁 禱"
+            },
+            {
+              "chord": "A♯",
+              "text": "告： 『主，"
+            },
+            {
+              "chord": "",
+              "text": "得"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "你 榮"
+          "segments": [
+            {
+              "chord": "",
+              "text": "著"
+            },
+            {
+              "chord": "Dm",
+              "text": "我 們，"
+            },
+            {
+              "chord": "",
+              "text": "建 造 我"
+            },
+            {
+              "chord": "D♯",
+              "text": "們─"
+            },
+            {
+              "chord": "Cm",
+              "text": "照 你"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "耀"
+          "segments": [
+            {
+              "chord": "",
+              "text": "辦"
+            },
+            {
+              "chord": "F",
+              "text": "法！』"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "乍听之下，审判太严厉，"
+            }
+          ]
         },
         {
-          "chord": "A♯",
-          "text": "計 畫，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Gm",
-          "text": "要 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "难免令人不寒而栗；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "地"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但是我们天天亲近你，"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "上"
+          "segments": [
+            {
+              "chord": "",
+              "text": "任何代价就可不计。"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "建 造"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为你的家我们愿受死，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "好让你作我们一切；"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "家；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你是我们完全的供应，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "禁 禱"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你是我们建造凭借。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "为你计画我们献自己，"
+            }
+          ]
         },
         {
-          "chord": "A♯",
-          "text": "告： 『主，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "虽不尽知其中深意；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "得"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生命一切，如今全献上，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "我 們，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作为活祭，倒出、失去。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "建 造 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在你坛上，"
+            }
+          ]
         },
         {
-          "chord": "D♯",
-          "text": "們─"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，烧毁我们，"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "照 你"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "辦"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到成灰，完全彻底，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "法！』"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "让你馨香，袅袅不绝的，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "乍听之下，审判太严厉，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "难免令人不寒而栗；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但是我们天天亲近你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "任何代价就可不计。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为你的家我们愿受死，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "好让你作我们一切；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你是我们完全的供应，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你是我们建造凭借。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为你计画我们献自己，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "虽不尽知其中深意；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生命一切，如今全献上，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作为活祭，倒出、失去。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在你坛上，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，烧毁我们，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到成灰，完全彻底，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让你馨香，袅袅不绝的，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在赞美中永远归你。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在赞美中永远归你。"
+            }
+          ]
         }
       ]
     }
@@ -254,7 +266,16 @@
   "metadata": {
     "category": "建造与合一",
     "time": "4/4",
-    "hymn_code": "56121316556121316"
+    "hymn_code": "56121316556121316",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6602",
+        "language": "cn",
+        "category": "h",
+        "number": "6602",
+        "title": "E6602"
+      }
+    ]
   },
   "raw_sections": [
     "我 們看見你 榮耀計 畫，",

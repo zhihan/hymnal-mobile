@@ -1,388 +1,412 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/618",
   "title": "我们在一起",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "在"
+            },
+            {
+              "chord": "A",
+              "text": "神 家"
+            },
+            {
+              "chord": "",
+              "text": "裡，"
+            },
+            {
+              "chord": "A7",
+              "text": "蒙 召"
+            },
+            {
+              "chord": "",
+              "text": "在"
+            },
+            {
+              "chord": "D",
+              "text": "一 起，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因 寶 血"
+            },
+            {
+              "chord": "A",
+              "text": "洗 淨，"
+            },
+            {
+              "chord": "",
+              "text": "得 成 為"
+            },
+            {
+              "chord": "D",
+              "text": "聖 潔；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "神 家"
+          "segments": [
+            {
+              "chord": "",
+              "text": "藉 聖 靈"
+            },
+            {
+              "chord": "A",
+              "text": "重 生，"
+            },
+            {
+              "chord": "A7",
+              "text": "並 與"
+            },
+            {
+              "chord": "",
+              "text": "神"
+            },
+            {
+              "chord": "D",
+              "text": "聯 結，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "裡，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作 了 神"
+            },
+            {
+              "chord": "A",
+              "text": "後 嗣，"
+            },
+            {
+              "chord": "",
+              "text": "成 了 祂"
+            },
+            {
+              "chord": "D",
+              "text": "基 業。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "蒙 召"
+          "segments": [
+            {
+              "chord": "E7",
+              "text": "自 由"
+            },
+            {
+              "chord": "",
+              "text": "飽 足"
+            },
+            {
+              "chord": "A",
+              "text": "安 息，"
+            },
+            {
+              "chord": "F♯7",
+              "text": "讚 美"
+            },
+            {
+              "chord": "",
+              "text": "歌 頌"
+            },
+            {
+              "chord": "Bm",
+              "text": "不 絕。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "在"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "哦 阿"
+            },
+            {
+              "chord": "",
+              "text": "利 路"
+            },
+            {
+              "chord": "G",
+              "text": "亞，"
+            },
+            {
+              "chord": "D",
+              "text": "蒙 召"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们在圣灵里，交通在一起，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "一 起，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因 寶 血"
+          "segments": [
+            {
+              "chord": "",
+              "text": "丢弃了道理，抛掉了虚仪；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "洗 淨，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不拘在形式，不泥于字句，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "得 成 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生命的新样，活水的洋溢。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "聖 潔；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "藉 聖 靈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不再属于宗教，凡事追求实际，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "重 生，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦阿利路亚，交通在一起。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们在召会里，事奉在一起，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "並 與"
+          "segments": [
+            {
+              "chord": "",
+              "text": "除尽了恶毒，吃饱了灵食；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来到主面前，个个像活石，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "聯 結，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作 了 神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "建造为灵宫，祭司的体系。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "後 嗣，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "借着耶稣基督，奉献神喜灵祭，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "成 了 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦阿利路亚，事奉在一起。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们在主爱里，结合在一起，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "基 業。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "E7",
-          "text": "自 由"
+          "segments": [
+            {
+              "chord": "",
+              "text": "用爱心包容，用和平联系；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "飽 足"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一人有心欢乐，大家都欣喜，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "安 息，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一人有心伤，众人都流泪。"
+            }
+          ]
         },
         {
-          "chord": "F♯7",
-          "text": "讚 美"
+          "segments": [
+            {
+              "chord": "",
+              "text": "彼此相助相顾，全体同心合意，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "歌 頌"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦阿利路亚，结合在一起。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们在主营里，争战在一起，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "不 絕。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "哦 阿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "守住了立场，站稳了等次；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "利 路"
+          "segments": [
+            {
+              "chord": "",
+              "text": "穿戴神军装，手执主兵器，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "亞，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "奉耶稣大名，靠元首功绩。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "蒙 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "随时多方祷告，灭尽仇敌诡计，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦阿利路亚，争战在一起。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我们在圣灵里，交通在一起，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们在荣耀里，与主在一起，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "丢弃了道理，抛掉了虚仪；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "咒诅成往事，天地俱和煦；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "不拘在形式，不泥于字句，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "生命水解渴，生命果充饥，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "生命的新样，活水的洋溢。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "新郎偕新妇，相爱永同居。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "不再属于宗教，凡事追求实际，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "神人永远合一，光明喜乐无比，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "哦阿利路亚，交通在一起。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们在召会里，事奉在一起，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "除尽了恶毒，吃饱了灵食；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来到主面前，个个像活石，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "建造为灵宫，祭司的体系。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借着耶稣基督，奉献神喜灵祭，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦阿利路亚，事奉在一起。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们在主爱里，结合在一起，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "用爱心包容，用和平联系；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一人有心欢乐，大家都欣喜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一人有心伤，众人都流泪。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "彼此相助相顾，全体同心合意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦阿利路亚，结合在一起。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们在主营里，争战在一起，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "守住了立场，站稳了等次；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "穿戴神军装，手执主兵器，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "奉耶稣大名，靠元首功绩。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "随时多方祷告，灭尽仇敌诡计，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦阿利路亚，争战在一起。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们在荣耀里，与主在一起，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "咒诅成往事，天地俱和煦；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生命水解渴，生命果充饥，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "新郎偕新妇，相爱永同居。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神人永远合一，光明喜乐无比，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦阿利路亚，与主在一起。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦阿利路亚，与主在一起。"
+            }
+          ]
         }
       ]
     }

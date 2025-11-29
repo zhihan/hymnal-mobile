@@ -1,408 +1,432 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/458",
   "title": "与神和好",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "我 本"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 本"
+            },
+            {
+              "chord": "",
+              "text": "世"
+            },
+            {
+              "chord": "G",
+              "text": "人 與"
+            },
+            {
+              "chord": "D",
+              "text": "你"
+            },
+            {
+              "chord": "A7",
+              "text": "為"
+            },
+            {
+              "chord": "D",
+              "text": "敵，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "世"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "棄 絕"
+            },
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "D",
+              "text": "恩"
+            },
+            {
+              "chord": "Bm",
+              "text": "漠"
+            },
+            {
+              "chord": "E7",
+              "text": "視 你"
+            },
+            {
+              "chord": "A",
+              "text": "意，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "人 與"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "有 人"
+            },
+            {
+              "chord": "B",
+              "text": "對"
+            },
+            {
+              "chord": "Em",
+              "text": "我 講"
+            },
+            {
+              "chord": "A",
+              "text": "你 心"
+            },
+            {
+              "chord": "D",
+              "text": "腸，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "要 我"
+            },
+            {
+              "chord": "C♯",
+              "text": "歸"
+            },
+            {
+              "chord": "F♯m",
+              "text": "回"
+            },
+            {
+              "chord": "C♯",
+              "text": "滿"
+            },
+            {
+              "chord": "F♯m",
+              "text": "你"
+            },
+            {
+              "chord": "C♯7",
+              "text": "切"
+            },
+            {
+              "chord": "F♯m",
+              "text": "望，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "為"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "而 我"
+            },
+            {
+              "chord": "",
+              "text": "總"
+            },
+            {
+              "chord": "D",
+              "text": "是 置"
+            },
+            {
+              "chord": "A",
+              "text": "之 不"
+            },
+            {
+              "chord": "D",
+              "text": "理，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "敵，"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "引 我"
+            },
+            {
+              "chord": "",
+              "text": "回"
+            },
+            {
+              "chord": "D",
+              "text": "家， 真"
+            },
+            {
+              "chord": "Em",
+              "text": "是"
+            },
+            {
+              "chord": "A7",
+              "text": "不"
+            },
+            {
+              "chord": "D",
+              "text": "易。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "棄 絕"
+          "segments": [
+            {
+              "chord": "",
+              "text": "等我归来得见你面，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "才知救恩如此完全："
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "恩"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如虫世人成为信徒，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "漠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不过与你和好初步，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "視 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到你我联调为一，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "意，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "才是与你和好极地。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "有 人"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一重幔子我已经过，"
+            }
+          ]
         },
         {
-          "chord": "B",
-          "text": "對"
+          "segments": [
+            {
+              "chord": "",
+              "text": "欢然来到你的圣所，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "我 講"
+          "segments": [
+            {
+              "chord": "",
+              "text": "二重幔子虽已裂开，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "你 心"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的经历仍是不逮，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "腸，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Bm",
-          "text": "要 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但你却要引我进入，"
+            }
+          ]
         },
         {
-          "chord": "C♯",
-          "text": "歸"
+          "segments": [
+            {
+              "chord": "",
+              "text": "至圣所在，享你供输。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "和好还是完全分别，"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "回"
+          "segments": [
+            {
+              "chord": "",
+              "text": "离弃不法，除去不洁，"
+            }
+          ]
         },
         {
-          "chord": "C♯",
-          "text": "滿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "肉身和灵一切污秽，"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "需你荣光如同雨沛，"
+            }
+          ]
         },
         {
-          "chord": "C♯7",
-          "text": "切"
+          "segments": [
+            {
+              "chord": "",
+              "text": "尽都洗去，洗得尽净，"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "望，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "每一部分完全成圣。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A",
-          "text": "而 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "拯救之日，悦纳时候，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "總"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要我与你和好无隔，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "是 置"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我愿竭力靠你大能，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "之 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "奔这\"完全和好\"路程，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "理，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "引 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你的恩典不致徒受，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "回"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你的救恩我能全得。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "当我看见你的心意，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "家， 真"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你所要我到达境地，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我又羡慕，我又惊惧，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "依我能力我怎能及？"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "易。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "求你作工用你恩典，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "等我归来得见你面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "才知救恩如此完全："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如虫世人成为信徒，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不过与你和好初步，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到你我联调为一，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "才是与你和好极地。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一重幔子我已经过，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "欢然来到你的圣所，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "二重幔子虽已裂开，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的经历仍是不逮，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但你却要引我进入，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "至圣所在，享你供输。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "和好还是完全分别，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "离弃不法，除去不洁，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "肉身和灵一切污秽，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "需你荣光如同雨沛，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "尽都洗去，洗得尽净，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "每一部分完全成圣。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "拯救之日，悦纳时候，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要我与你和好无隔，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我愿竭力靠你大能，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "奔这\"完全和好\"路程，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你的恩典不致徒受，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你的救恩我能全得。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当我看见你的心意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你所要我到达境地，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我又羡慕，我又惊惧，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "依我能力我怎能及？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "求你作工用你恩典，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我不住，不住向前。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我不住，不住向前。"
+            }
+          ]
         }
       ]
     }

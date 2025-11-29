@@ -1,492 +1,524 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/201",
   "title": "祂是天天更宝贝",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "的 心 天 天 被 吸 引，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 心 天 天 被 吸 引，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "更 親"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "更 親"
+            },
+            {
+              "chord": "",
+              "text": "近 耶"
+            },
+            {
+              "chord": "G",
+              "text": "穌；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "近 耶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 比 世 人 更 美，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "穌；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 比 世 人 更 美，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "新 鮮 勝"
+          "segments": [
+            {
+              "chord": "",
+              "text": "新 鮮 勝"
+            },
+            {
+              "chord": "A7",
+              "text": "過 清"
+            },
+            {
+              "chord": "",
+              "text": "晨 甘"
+            },
+            {
+              "chord": "D",
+              "text": "露。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "過 清"
+          "segments": [
+            {
+              "chord": "",
+              "text": "世"
+            },
+            {
+              "chord": "G",
+              "text": "上 最"
+            },
+            {
+              "chord": "",
+              "text": "美 言 辭"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "晨 甘"
+          "segments": [
+            {
+              "chord": "",
+              "text": "還 不 能"
+            },
+            {
+              "chord": "C",
+              "text": "盡 說"
+            },
+            {
+              "chord": "",
+              "text": "祂 價"
+            },
+            {
+              "chord": "G",
+              "text": "值，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "露。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "世"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂"
+            },
+            {
+              "chord": "C",
+              "text": "是 天"
+            },
+            {
+              "chord": "",
+              "text": "天 更 加 寶 貝，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "上 最"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今"
+            },
+            {
+              "chord": "D",
+              "text": "日 遠"
+            },
+            {
+              "chord": "D7",
+              "text": "勝 昨"
+            },
+            {
+              "chord": "G",
+              "text": "日。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "如 此 豐 富 的"
+            },
+            {
+              "chord": "C",
+              "text": "寶 庫，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "美 言 辭"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "還 不 能"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一"
+            },
+            {
+              "chord": "A7",
+              "text": "半 都"
+            },
+            {
+              "chord": "",
+              "text": "難 領"
+            },
+            {
+              "chord": "D",
+              "text": "會；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "盡 說"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "昨"
+            },
+            {
+              "chord": "G7",
+              "text": "日， 今"
+            },
+            {
+              "chord": "",
+              "text": "日， 到"
+            },
+            {
+              "chord": "C",
+              "text": "永 遠，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "祂 價"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 是"
+            },
+            {
+              "chord": "G",
+              "text": "天 天"
+            },
+            {
+              "chord": "D7",
+              "text": "更 寶"
+            },
+            {
+              "chord": "G",
+              "text": "貝。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们是在召会里面"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "值，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "看见祂的荣耀，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "是 天"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂的丰富全都在此，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "天 更 加 寶 貝，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们不再他找，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "日 遠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂使我们渴慕的灵"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "勝 昨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一再得着饱足，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "日。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如 此 豐 富 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是天天更加宝贝，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "寶 庫，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "现在远胜当初。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如此丰富的宝库，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "半 都"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一半都难领会；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "難 領"
+          "segments": [
+            {
+              "chord": "",
+              "text": "昨日，今日，到永远，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "會；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是天天更宝贝。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D7",
-          "text": "昨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如今祂是活灵，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "日， 今"
+          "segments": [
+            {
+              "chord": "",
+              "text": "住在我们的灵里面，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "日， 到"
+          "segments": [
+            {
+              "chord": "",
+              "text": "借祂甜美的涂抹，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "永 遠，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "灵里生命更充满！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "天 天"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当与圣徒一同聚集，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "更 寶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我灵如插翅飞，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "貝。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因为如今我们的主"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "比从前更宝贝。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我们是在召会里面"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如此丰富的宝库，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "一半都难领会；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "昨日，今日，到永远，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是天天更宝贝。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "看见祂的荣耀，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主已使我们合而为一"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "为着祂恢复，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督的丰富并祂丰满─"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "召会─全显出，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们所有、所是，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "全倾于祂而不别归，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "为着祂的伟大计画"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "比从前更宝贝。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "祂的丰富全都在此，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "如此丰富的宝库，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我们不再他找，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "一半都难领会；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "祂使我们渴慕的灵"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "昨日，今日，到永远，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "一再得着饱足，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是天天更加宝贝，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "现在远胜当初。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如此丰富的宝库，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一半都难领会；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "昨日，今日，到永远，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是天天更宝贝。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如今祂是活灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "住在我们的灵里面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借祂甜美的涂抹，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "灵里生命更充满！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当与圣徒一同聚集，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我灵如插翅飞，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因为如今我们的主"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "比从前更宝贝。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如此丰富的宝库，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一半都难领会；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "昨日，今日，到永远，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是天天更宝贝。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主已使我们合而为一"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为着祂恢复，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督的丰富并祂丰满─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "召会─全显出，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们所有、所是，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全倾于祂而不别归，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为着祂的伟大计画"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "比从前更宝贝。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如此丰富的宝库，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一半都难领会；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "昨日，今日，到永远，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是天天更宝贝。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是天天更宝贝。"
+            }
+          ]
         }
       ]
     }
@@ -494,7 +526,16 @@
   "metadata": {
     "category": "享受基督",
     "time": "4/4",
-    "hymn_code": "53332117121615"
+    "hymn_code": "53332117121615",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1152",
+        "language": "cn",
+        "category": "h",
+        "number": "1152",
+        "title": "E1152"
+      }
+    ]
   },
   "raw_sections": [
     "我 們的 心 天 天 被 吸 引，",

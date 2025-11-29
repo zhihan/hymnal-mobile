@@ -1,284 +1,296 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/832",
   "title": "我听见了主耶稣说",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Cm",
-          "text": "我 聽"
+          "segments": [
+            {
+              "chord": "Cm",
+              "text": "我 聽"
+            },
+            {
+              "chord": "",
+              "text": "見 了 主 耶 穌"
+            },
+            {
+              "chord": "Fm",
+              "text": "說："
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "見 了 主 耶 穌"
+          "segments": [
+            {
+              "chord": "",
+              "text": "『來，"
+            },
+            {
+              "chord": "G♯",
+              "text": "就 我"
+            },
+            {
+              "chord": "Gm",
+              "text": "得 安"
+            },
+            {
+              "chord": "Cm",
+              "text": "息！ 疲"
+            }
+          ]
         },
         {
-          "chord": "Fm",
-          "text": "說："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "『來，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "倦 的 人， 來 這 裡"
+            },
+            {
+              "chord": "Fm",
+              "text": "躺 臥，"
+            },
+            {
+              "chord": "",
+              "text": "你"
+            }
+          ]
         },
         {
-          "chord": "G♯",
-          "text": "就 我"
+          "segments": [
+            {
+              "chord": "G♯",
+              "text": "可 歇"
+            },
+            {
+              "chord": "Gm",
+              "text": "我 胸"
+            },
+            {
+              "chord": "Cm",
+              "text": "臆。』 照"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "得 安"
+          "segments": [
+            {
+              "chord": "",
+              "text": "本"
+            },
+            {
+              "chord": "Fm",
+              "text": "相， 來"
+            },
+            {
+              "chord": "A♯",
+              "text": "就 耶"
+            },
+            {
+              "chord": "D♯",
+              "text": "穌， 疲"
+            },
+            {
+              "chord": "G♯",
+              "text": "憊、"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "息！ 疲"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "倦 的 人， 來 這 裡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "困 倦 又"
+            },
+            {
+              "chord": "Gm",
+              "text": "憂 鬱。"
+            },
+            {
+              "chord": "",
+              "text": "祂 是"
+            }
+          ]
         },
         {
-          "chord": "Fm",
-          "text": "躺 臥，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "Cm",
+              "text": "的 安"
+            },
+            {
+              "chord": "",
+              "text": "息 之"
+            },
+            {
+              "chord": "Fm",
+              "text": "所， 祂"
+            },
+            {
+              "chord": "G♯",
+              "text": "使"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "Gm",
+              "text": "心 暢"
+            },
+            {
+              "chord": "Cm",
+              "text": "歡。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G♯",
-          "text": "可 歇"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我听见了主耶稣说："
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "我 胸"
+          "segments": [
+            {
+              "chord": "",
+              "text": "‘看！我白白赐给。"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "臆。』 照"
+          "segments": [
+            {
+              "chord": "",
+              "text": "干渴的人，来畅饮活水，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "本"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你可欢然取水。’"
+            }
+          ]
         },
         {
-          "chord": "Fm",
-          "text": "相， 來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我敞开心怀就耶稣，"
+            }
+          ]
         },
         {
-          "chord": "A♯",
-          "text": "就 耶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "并喝那生命活泉，"
+            }
+          ]
         },
         {
-          "chord": "D♯",
-          "text": "穌， 疲"
+          "segments": [
+            {
+              "chord": "",
+              "text": "干渴立消，我魂复苏，"
+            }
+          ]
         },
         {
-          "chord": "G♯",
-          "text": "憊、"
+          "segments": [
+            {
+              "chord": "",
+              "text": "现今活在祂前。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "困 倦 又"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我听见了主耶稣说："
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "憂 鬱。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "‘我是世界的光，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "祂 是"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "转眼看我，晨星必出现，"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "的 安"
+          "segments": [
+            {
+              "chord": "",
+              "text": "照耀你的途径。’"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "息 之"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我从自己转向耶稣，"
+            }
+          ]
         },
         {
-          "chord": "Fm",
-          "text": "所， 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是我晨星、太阳。"
+            }
+          ]
         },
         {
-          "chord": "G♯",
-          "text": "使"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生命光中，欢乐行走，"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "心 暢"
-        },
-        {
-          "chord": "Cm",
-          "text": "歡。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我听见了主耶稣说："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "‘看！我白白赐给。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "干渴的人，来畅饮活水，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你可欢然取水。’"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我敞开心怀就耶稣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "并喝那生命活泉，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "干渴立消，我魂复苏，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "现今活在祂前。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我听见了主耶稣说："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "‘我是世界的光，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "转眼看我，晨星必出现，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "照耀你的途径。’"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我从自己转向耶稣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是我晨星、太阳。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生命光中，欢乐行走，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "行尽客旅路程。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "行尽客旅路程。"
+            }
+          ]
         }
       ]
     }
@@ -286,7 +298,16 @@
   "metadata": {
     "category": "事奉与福音",
     "time": "4/4",
-    "hymn_code": "3216321266711233"
+    "hymn_code": "3216321266711233",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/323",
+        "language": "cn",
+        "category": "h",
+        "number": "323",
+        "title": "E323*"
+      }
+    ]
   },
   "raw_sections": [
     "我 聽見 了 主 耶 穌說：",

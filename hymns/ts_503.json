@@ -1,432 +1,452 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/503",
   "title": "回耶路撒冷",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "落 到"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "落 到"
+            },
+            {
+              "chord": "G7",
+              "text": "巴 比"
+            },
+            {
+              "chord": "",
+              "text": "倫，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "巴 比"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "在 被"
+            },
+            {
+              "chord": "",
+              "text": "擄 之 地，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "倫，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "在 被"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "哦 主，"
+            },
+            {
+              "chord": "",
+              "text": "將 我 們 的 靈 激"
+            },
+            {
+              "chord": "D7",
+              "text": "起！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "擄 之 地，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "哦 主，"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "分 散"
+            },
+            {
+              "chord": "G7",
+              "text": "在 各"
+            },
+            {
+              "chord": "",
+              "text": "處，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "將 我 們 的 靈 激"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "失 去"
+            },
+            {
+              "chord": "",
+              "text": "了 合 一，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "起！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "分 散"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "哦 主，"
+            },
+            {
+              "chord": "",
+              "text": "將 我 們 的"
+            },
+            {
+              "chord": "D",
+              "text": "靈"
+            },
+            {
+              "chord": "D7",
+              "text": "激"
+            },
+            {
+              "chord": "G",
+              "text": "起！"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "在 各"
+          "segments": [
+            {
+              "chord": "",
+              "text": "激 起！"
+            },
+            {
+              "chord": "C",
+              "text": "激 起！"
+            },
+            {
+              "chord": "G",
+              "text": "哦 主，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "處，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "失 去"
+          "segments": [
+            {
+              "chord": "",
+              "text": "將 我 們 的 靈 激"
+            },
+            {
+              "chord": "D7",
+              "text": "起！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "了 合 一，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "哦 主，"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "激"
+            },
+            {
+              "chord": "G7",
+              "text": "起！"
+            },
+            {
+              "chord": "C",
+              "text": "激 起！"
+            },
+            {
+              "chord": "G",
+              "text": "哦 主，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "將 我 們 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "將 我 們 的"
+            },
+            {
+              "chord": "D",
+              "text": "靈"
+            },
+            {
+              "chord": "D7",
+              "text": "激"
+            },
+            {
+              "chord": "G",
+              "text": "起！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "离开巴比伦，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "靈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "各宗各派之地，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "激"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从分裂中我们都起来！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "起！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "激 起！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因为巴比伦，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "激 起！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "并非神所立，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "哦 主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "將 我 們 的 靈 激"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从分裂中我们都起来！"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "起！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "激"
+          "segments": [
+            {
+              "chord": "",
+              "text": "起来！起来！"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "起！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从分裂中我们都起来！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "激 起！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "（重复最后一行，下同）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "从被掳之地，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "哦 主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "將 我 們 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "回耶路撒冷，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "靈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "有神同在，我们都上来！"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "激"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在独一立场，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "起！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作合一见证，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "有神同在，我们都上来！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "上来！上来！有神同在，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们都上来！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "离开巴比伦，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "盘里满基督，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "碗里满圣灵，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "将所有的器皿都带来！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "带到召会里，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "照神所命定，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "将所有的器皿都带来！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "带来！带来！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "将所有的器皿都带来！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "各宗各派之地，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "在耶路撒冷，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "从分裂中我们都起来！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "神所选之地，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "因为巴比伦，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "神的圣殿我们同建立！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "并非神所立，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "众圣同事奉，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "从分裂中我们都起来！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "都一心一意，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "起来！起来！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "神的圣殿我们同建立！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "从分裂中我们都起来！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "建立！建立！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "（重复最后一行，下同）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从被掳之地，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "回耶路撒冷，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有神同在，我们都上来！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在独一立场，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作合一见证，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有神同在，我们都上来！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "上来！上来！有神同在，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们都上来！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "盘里满基督，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "碗里满圣灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将所有的器皿都带来！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "带到召会里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "照神所命定，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将所有的器皿都带来！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "带来！带来！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将所有的器皿都带来！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在耶路撒冷，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神所选之地，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神的圣殿我们同建立！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "众圣同事奉，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "都一心一意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神的圣殿我们同建立！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "建立！建立！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神的圣殿我们同建立！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神的圣殿我们同建立！"
+            }
+          ]
         }
       ]
     }
@@ -434,7 +454,16 @@
   "metadata": {
     "category": "教会的异象",
     "time": "4/4",
-    "hymn_code": "3332122216"
+    "hymn_code": "3332122216",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1252",
+        "language": "cn",
+        "category": "h",
+        "number": "1252",
+        "title": "E1252"
+      }
+    ]
   },
   "raw_sections": [
     "落 到巴 比倫，",

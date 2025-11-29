@@ -1,220 +1,240 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/447",
   "title": "有一人宝座上坐着",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "有 一"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "有 一"
+            },
+            {
+              "chord": "",
+              "text": "人， 有 一 人， 寶 座 上 坐"
+            },
+            {
+              "chord": "Em",
+              "text": "著；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "人， 有 一 人， 寶 座 上 坐"
+          "segments": [
+            {
+              "chord": "",
+              "text": "有 一 人，"
+            },
+            {
+              "chord": "Em7",
+              "text": "作 先"
+            },
+            {
+              "chord": "",
+              "text": "鋒，"
+            },
+            {
+              "chord": "A7",
+              "text": "道 路"
+            },
+            {
+              "chord": "",
+              "text": "已 開"
+            },
+            {
+              "chord": "D",
+              "text": "拓；"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "著；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有 一 人，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "這 人 子 是 耶 穌， 我 們 樂 追"
+            },
+            {
+              "chord": "G",
+              "text": "隨；"
+            }
+          ]
         },
         {
-          "chord": "Em7",
-          "text": "作 先"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "祂 已"
+            },
+            {
+              "chord": "",
+              "text": "得 勝，"
+            },
+            {
+              "chord": "D",
+              "text": "我 們"
+            },
+            {
+              "chord": "G",
+              "text": "與 祂"
+            },
+            {
+              "chord": "D",
+              "text": "同"
+            },
+            {
+              "chord": "A7",
+              "text": "登"
+            },
+            {
+              "chord": "D",
+              "text": "位。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "向上去，向上去，与祂同登极；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "鋒，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "向上去，经罪世，胜黑暗忧悒；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "道 路"
+          "segments": [
+            {
+              "chord": "",
+              "text": "撒但虽将人掳，我们得释放，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "已 開"
+          "segments": [
+            {
+              "chord": "",
+              "text": "且必同主高升，宝座上为王。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "同蒙召，同蒙召，命定作君王；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "拓；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "這 人 子 是 耶 穌， 我 們 樂 追"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同蒙召，成后嗣，世界甘埋葬；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "隨；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "祂 已"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但我们岂够格，配得这命定？"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "得 勝，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "求主搜寻、焚烧，将我全炼净。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "来搜寻，来搜寻，焚烧我内心；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来搜寻，来焚烧，渣滓都除尽；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "與 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "毋畏惧，毋退缩，当清楚看见："
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "同"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如此搜寻、焚烧乃是主恩眷。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "一道虹，一道虹，显人子周围；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "登"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一道虹，在宣告，信实永不颓："
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "位。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "神审判厉如火，我本当遭祸，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "向上去，向上去，与祂同登极；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向上去，经罪世，胜黑暗忧悒；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "撒但虽将人掳，我们得释放，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "且必同主高升，宝座上为王。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同蒙召，同蒙召，命定作君王；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同蒙召，成后嗣，世界甘埋葬；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但我们岂够格，配得这命定？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "求主搜寻、焚烧，将我全炼净。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来搜寻，来搜寻，焚烧我内心；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来搜寻，来焚烧，渣滓都除尽；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "毋畏惧，毋退缩，当清楚看见："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如此搜寻、焚烧乃是主恩眷。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一道虹，一道虹，显人子周围；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一道虹，在宣告，信实永不颓："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神审判厉如火，我本当遭祸，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "竟蒙赦宥，前来赞祂恩深阔。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "竟蒙赦宥，前来赞祂恩深阔。"
+            }
+          ]
         }
       ]
     }
@@ -222,7 +242,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "4/4",
-    "hymn_code": "33333331432"
+    "hymn_code": "33333331432",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1189",
+        "language": "cn",
+        "category": "h",
+        "number": "1189",
+        "title": "E1189"
+      }
+    ]
   },
   "raw_sections": [
     "有 一人， 有 一 人， 寶 座 上 坐著；",

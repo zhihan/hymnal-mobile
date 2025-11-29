@@ -1,324 +1,332 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/846",
   "title": "黎明的光",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "跟 隨"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "跟 隨"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "C",
+              "text": "主 走"
+            },
+            {
+              "chord": "G",
+              "text": "一 程，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "向"
+            },
+            {
+              "chord": "C",
+              "text": "上 去"
+            },
+            {
+              "chord": "Am",
+              "text": "得 獎"
+            },
+            {
+              "chord": "G",
+              "text": "賞，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "主 走"
+          "segments": [
+            {
+              "chord": "",
+              "text": "正"
+            },
+            {
+              "chord": "D",
+              "text": "直 愛"
+            },
+            {
+              "chord": "",
+              "text": "主 過"
+            },
+            {
+              "chord": "G",
+              "text": "一 生，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "一 程，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如 同 黎 明 的"
+            },
+            {
+              "chord": "D",
+              "text": "光；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "揮"
+            },
+            {
+              "chord": "Am",
+              "text": "別 世"
+            },
+            {
+              "chord": "D7",
+              "text": "途 和"
+            },
+            {
+              "chord": "G",
+              "text": "都 城，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "選"
+            },
+            {
+              "chord": "B",
+              "text": "這 光"
+            },
+            {
+              "chord": "Em",
+              "text": "明 一"
+            },
+            {
+              "chord": "B",
+              "text": "程，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "投"
+            },
+            {
+              "chord": "C",
+              "text": "身 開"
+            },
+            {
+              "chord": "",
+              "text": "展 行"
+            },
+            {
+              "chord": "G",
+              "text": "列 中，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "作"
+            },
+            {
+              "chord": "Am",
+              "text": "主 爭"
+            },
+            {
+              "chord": "D7",
+              "text": "戰 弟"
+            },
+            {
+              "chord": "G",
+              "text": "兄。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "一"
+            },
+            {
+              "chord": "D",
+              "text": "步 邁"
+            },
+            {
+              "chord": "",
+              "text": "開 又"
+            },
+            {
+              "chord": "G",
+              "text": "一 步，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "走"
+            },
+            {
+              "chord": "C",
+              "text": "出 主"
+            },
+            {
+              "chord": "",
+              "text": "恢 復"
+            },
+            {
+              "chord": "G",
+              "text": "前 途，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "見 它 日 日 更"
+            },
+            {
+              "chord": "C",
+              "text": "輝 煌，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "直"
+            },
+            {
+              "chord": "G",
+              "text": "到 普"
+            },
+            {
+              "chord": "D7",
+              "text": "照 四"
+            },
+            {
+              "chord": "G",
+              "text": "方。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "向"
+          "segments": [
+            {
+              "chord": "",
+              "text": "跟随耶稣的脚踪，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "上 去"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一路洋溢歌声，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "得 獎"
+          "segments": [
+            {
+              "chord": "",
+              "text": "各处宣扬主得胜，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "賞，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "正"
+          "segments": [
+            {
+              "chord": "",
+              "text": "美好微曦上升；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "直 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "轻举脚步向前行，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "主 過"
+          "segments": [
+            {
+              "chord": "",
+              "text": "肩负我主使命，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "一 生，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如 同 黎 明 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "福音遍传，主扩增，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "光；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "揮"
+          "segments": [
+            {
+              "chord": "",
+              "text": "光芒越照越明。"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "別 世"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今日胜过了昨日，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "途 和"
+          "segments": [
+            {
+              "chord": "",
+              "text": "开创主恢复历史，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "都 城，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "選"
+          "segments": [
+            {
+              "chord": "",
+              "text": "写下崭新的一页，"
+            }
+          ]
         },
         {
-          "chord": "B",
-          "text": "這 光"
-        },
-        {
-          "chord": "Em",
-          "text": "明 一"
-        },
-        {
-          "chord": "B",
-          "text": "程，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "投"
-        },
-        {
-          "chord": "C",
-          "text": "身 開"
-        },
-        {
-          "chord": "",
-          "text": "展 行"
-        },
-        {
-          "chord": "G",
-          "text": "列 中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "作"
-        },
-        {
-          "chord": "Am",
-          "text": "主 爭"
-        },
-        {
-          "chord": "D7",
-          "text": "戰 弟"
-        },
-        {
-          "chord": "G",
-          "text": "兄。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一"
-        },
-        {
-          "chord": "D",
-          "text": "步 邁"
-        },
-        {
-          "chord": "",
-          "text": "開 又"
-        },
-        {
-          "chord": "G",
-          "text": "一 步，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "走"
-        },
-        {
-          "chord": "C",
-          "text": "出 主"
-        },
-        {
-          "chord": "",
-          "text": "恢 復"
-        },
-        {
-          "chord": "G",
-          "text": "前 途，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "見 它 日 日 更"
-        },
-        {
-          "chord": "C",
-          "text": "輝 煌，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "直"
-        },
-        {
-          "chord": "G",
-          "text": "到 普"
-        },
-        {
-          "chord": "D7",
-          "text": "照 四"
-        },
-        {
-          "chord": "G",
-          "text": "方。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "跟随耶稣的脚踪，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一路洋溢歌声，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "各处宣扬主得胜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "美好微曦上升；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "轻举脚步向前行，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "肩负我主使命，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "福音遍传，主扩增，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "光芒越照越明。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今日胜过了昨日，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "开创主恢复历史，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "写下崭新的一页，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "至终光辉烈烈。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "至终光辉烈烈。"
+            }
+          ]
         }
       ]
     }

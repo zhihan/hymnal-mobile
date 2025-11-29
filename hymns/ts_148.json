@@ -1,552 +1,604 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/148",
   "title": "子同着父凭着灵",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "子 同"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "子 同"
+            },
+            {
+              "chord": "",
+              "text": "著 父"
+            },
+            {
+              "chord": "G",
+              "text": "並 憑"
+            },
+            {
+              "chord": "",
+              "text": "著"
+            },
+            {
+              "chord": "Am",
+              "text": "靈 而"
+            },
+            {
+              "chord": "C",
+              "text": "來，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "著 父"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦 這"
+            },
+            {
+              "chord": "Dm",
+              "text": "是 何"
+            },
+            {
+              "chord": "G7",
+              "text": "等 奧"
+            },
+            {
+              "chord": "",
+              "text": "祕！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "並 憑"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神"
+            },
+            {
+              "chord": "C",
+              "text": "格 一"
+            },
+            {
+              "chord": "",
+              "text": "切"
+            },
+            {
+              "chord": "G",
+              "text": "的 豐"
+            },
+            {
+              "chord": "",
+              "text": "滿"
+            },
+            {
+              "chord": "Am",
+              "text": "都 有"
+            },
+            {
+              "chord": "C",
+              "text": "形"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "有 體"
+            },
+            {
+              "chord": "Dm",
+              "text": "住"
+            },
+            {
+              "chord": "G7",
+              "text": "在 祂"
+            },
+            {
+              "chord": "C",
+              "text": "裏。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "C7",
+              "text": "子 同"
+            },
+            {
+              "chord": "",
+              "text": "著"
+            },
+            {
+              "chord": "F",
+              "text": "父， 祂"
+            },
+            {
+              "chord": "",
+              "text": "何 等 奇 妙！"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "靈 而"
+          "segments": [
+            {
+              "chord": "",
+              "text": "子 憑 著"
+            },
+            {
+              "chord": "C",
+              "text": "靈， 祂"
+            },
+            {
+              "chord": "",
+              "text": "何 等 高 超！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "來，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦 這"
+          "segments": [
+            {
+              "chord": "E",
+              "text": "耶 穌"
+            },
+            {
+              "chord": "",
+              "text": "基"
+            },
+            {
+              "chord": "E7",
+              "text": "督 至"
+            },
+            {
+              "chord": "C",
+              "text": "寶，"
+            },
+            {
+              "chord": "F",
+              "text": "三 一"
+            },
+            {
+              "chord": "",
+              "text": "何"
+            },
+            {
+              "chord": "C",
+              "text": "深"
+            },
+            {
+              "chord": "G",
+              "text": "奧，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "是 何"
+          "segments": [
+            {
+              "chord": "F",
+              "text": "三 一"
+            },
+            {
+              "chord": "",
+              "text": "神"
+            },
+            {
+              "chord": "C",
+              "text": "何"
+            },
+            {
+              "chord": "G7",
+              "text": "奇"
+            },
+            {
+              "chord": "C",
+              "text": "妙！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "子同着父并凭着灵而来，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "等 奧"
+          "segments": [
+            {
+              "chord": "",
+              "text": "由童女怀孕所生；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "祕！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣基督奇妙的神人，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "格 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在他，神、人成一身。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂的生活将父完全显彰，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "切"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是人，却凭神生命；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "的 豐"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是神无罪羔羊，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "滿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "罪、世界、撒但不能得逞。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在人性里，来救赎洗净；"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "都 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在神性里，作救恩保证。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "形"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有 體"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂血将我洗净，祂又作保证─"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "住"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神今是我保证。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂虽无罪，却有分血肉之体，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "在 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "这使撒但中计；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "裏。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C7",
-          "text": "子 同"
+          "segments": [
+            {
+              "chord": "",
+              "text": "肉体、罪、撒但与祂同钉一起，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，何等清理！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂已了结旧造众仇敌！"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "父， 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂已废掉罪、撒但、肉体！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "何 等 奇 妙！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "子 憑 著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦应许的后裔，祂毁坏古蛇，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "靈， 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "胜过魔鬼诡计。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在基督的复活里，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "何 等 高 超！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "E",
-          "text": "耶 穌"
+          "segments": [
+            {
+              "chord": "",
+              "text": "这位奇妙三一成为那灵；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "基"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如今三一之神己成那灵，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "督 至"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作祂终极完成。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "何亲何近，赐生命的灵！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "寶，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "三一之神己终极完成。"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "三 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "子与父是一灵，祂成为那灵，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "何"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今内住于我灵。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "这奇妙人子在升天里，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "深"
+          "segments": [
+            {
+              "chord": "",
+              "text": "仍是一人在神右边；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "奧，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "F",
-          "text": "三 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神已将人子升高至极，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使祂作王并掌权。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "万主之主，是王中之王；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "何"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督耶稣，远超万名上；"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "奇"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂登宝座为王，至高宝座上，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "妙！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得荣人子为王。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "子同着父并凭着灵而来，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "经过种种过程，主今已登"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "宝座，万有祂治理；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "作生命之灵分赐给人接受，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "产生祂身体。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "由童女怀孕所生；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "神是三一，不是为道理；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "耶稣基督奇妙的神人，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "神是三一，分赐祂自己。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在他，神、人成一身。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "分赐永不停息，我们可经历，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "祂的生活将父完全显彰，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是人，却凭神生命；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是神无罪羔羊，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "罪、世界、撒但不能得逞。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在人性里，来救赎洗净；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在神性里，作救恩保证。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂血将我洗净，祂又作保证─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神今是我保证。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂虽无罪，却有分血肉之体，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "这使撒但中计；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "肉体、罪、撒但与祂同钉一起，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，何等清理！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂已了结旧造众仇敌！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂已废掉罪、撒但、肉体！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦应许的后裔，祂毁坏古蛇，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "胜过魔鬼诡计。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在基督的复活里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "这位奇妙三一成为那灵；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如今三一之神己成那灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作祂终极完成。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何亲何近，赐生命的灵！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "三一之神己终极完成。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "子与父是一灵，祂成为那灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今内住于我灵。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "这奇妙人子在升天里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "仍是一人在神右边；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神已将人子升高至极，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使祂作王并掌权。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "万主之主，是王中之王；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督耶稣，远超万名上；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂登宝座为王，至高宝座上，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得荣人子为王。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "经过种种过程，主今已登"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "宝座，万有祂治理；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作生命之灵分赐给人接受，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "产生祂身体。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神是三一，不是为道理；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神是三一，分赐祂自己。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "分赐永不停息，我们可经历，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "尽享祂的自己。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "尽享祂的自己。"
+            }
+          ]
         }
       ]
     }

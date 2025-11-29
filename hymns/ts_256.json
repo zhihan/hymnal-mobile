@@ -1,396 +1,412 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/256",
   "title": "经历大能，得着加力",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "復 活"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "復 活"
+            },
+            {
+              "chord": "",
+              "text": "的 大 能，"
+            },
+            {
+              "chord": "C",
+              "text": "神 已"
+            },
+            {
+              "chord": "G",
+              "text": "經 顯"
+            },
+            {
+              "chord": "",
+              "text": "明，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 大 能，"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "使 祂"
+            },
+            {
+              "chord": "",
+              "text": "的 兒 子"
+            },
+            {
+              "chord": "A7",
+              "text": "從 死"
+            },
+            {
+              "chord": "",
+              "text": "復"
+            },
+            {
+              "chord": "D7",
+              "text": "生；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "神 已"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "因 此"
+            },
+            {
+              "chord": "",
+              "text": "見 大 能，"
+            },
+            {
+              "chord": "C",
+              "text": "我 們"
+            },
+            {
+              "chord": "G",
+              "text": "得 加"
+            },
+            {
+              "chord": "",
+              "text": "力，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "經 顯"
+          "segments": [
+            {
+              "chord": "G7",
+              "text": "復 活"
+            },
+            {
+              "chord": "C",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "裏 昂"
+            },
+            {
+              "chord": "D",
+              "text": "然"
+            },
+            {
+              "chord": "D7",
+              "text": "誇"
+            },
+            {
+              "chord": "G",
+              "text": "勝。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "明，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "大 能 大 能，"
+            },
+            {
+              "chord": "D7",
+              "text": "復 活"
+            },
+            {
+              "chord": "",
+              "text": "生 命"
+            },
+            {
+              "chord": "G",
+              "text": "大 能─"
+            },
+            {
+              "chord": "B7",
+              "text": "內"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "裏"
+            },
+            {
+              "chord": "Em",
+              "text": "運 行，"
+            },
+            {
+              "chord": "A7",
+              "text": "時 時"
+            },
+            {
+              "chord": "",
+              "text": "加 添"
+            },
+            {
+              "chord": "D7",
+              "text": "能 力；"
+            },
+            {
+              "chord": "G",
+              "text": "大"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "能 大 能，"
+            },
+            {
+              "chord": "D7",
+              "text": "復 活"
+            },
+            {
+              "chord": "",
+              "text": "生 命"
+            },
+            {
+              "chord": "G",
+              "text": "大 能─"
+            },
+            {
+              "chord": "G7",
+              "text": "裏 面"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "的 人"
+            },
+            {
+              "chord": "",
+              "text": "時 時"
+            },
+            {
+              "chord": "D",
+              "text": "得"
+            },
+            {
+              "chord": "D7",
+              "text": "加"
+            },
+            {
+              "chord": "G",
+              "text": "力！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "使 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "超越的大能使基督高升，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 兒 子"
+          "segments": [
+            {
+              "chord": "",
+              "text": "坐在神右边，远超万有："
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "從 死"
+          "segments": [
+            {
+              "chord": "",
+              "text": "执政掌权者，有能主治者，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "復"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因基督大名无不拜叩。"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "生；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "大能大能，超越一切大能─"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "内里运行，使人离地上腾；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "大能大能，超越一切大能─"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "里面的人离地得上腾。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "因 此"
+          "segments": [
+            {
+              "chord": "",
+              "text": "征服的大能使万有归服，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "見 大 能，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "悖逆尽消弭，基督为大；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作祂的身体，分享祂能力，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "得 加"
+          "segments": [
+            {
+              "chord": "",
+              "text": "有何不踏在我们脚下？"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "力，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G7",
-          "text": "復 活"
+          "segments": [
+            {
+              "chord": "",
+              "text": "大能大能，征服一切大能─"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "内里运行，处处施行管治；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "裏 昂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "大能大能，征服一切大能─"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "然"
+          "segments": [
+            {
+              "chord": "",
+              "text": "里面的人处处施管治。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "归一的大能使基督居首，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "誇"
+          "segments": [
+            {
+              "chord": "",
+              "text": "向着召会作万有的头；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "勝。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "大 能 大 能，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "大能的输供成功主身体，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "復 活"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作祂的丰满神旨成就。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "大能大能，掌管万有大能─"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "大 能─"
+          "segments": [
+            {
+              "chord": "",
+              "text": "里里外外，一切尽都归顺；"
+            }
+          ]
         },
         {
-          "chord": "B7",
-          "text": "內"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "裏"
+          "segments": [
+            {
+              "chord": "",
+              "text": "大能大能，掌管万有大能─"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "運 行，"
-        },
-        {
-          "chord": "A7",
-          "text": "時 時"
-        },
-        {
-          "chord": "",
-          "text": "加 添"
-        },
-        {
-          "chord": "D7",
-          "text": "能 力；"
-        },
-        {
-          "chord": "G",
-          "text": "大"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "能 大 能，"
-        },
-        {
-          "chord": "D7",
-          "text": "復 活"
-        },
-        {
-          "chord": "",
-          "text": "生 命"
-        },
-        {
-          "chord": "G",
-          "text": "大 能─"
-        },
-        {
-          "chord": "G7",
-          "text": "裏 面"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "的 人"
-        },
-        {
-          "chord": "",
-          "text": "時 時"
-        },
-        {
-          "chord": "D",
-          "text": "得"
-        },
-        {
-          "chord": "D7",
-          "text": "加"
-        },
-        {
-          "chord": "G",
-          "text": "力！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "超越的大能使基督高升，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "坐在神右边，远超万有："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "执政掌权者，有能主治者，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因基督大名无不拜叩。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "大能大能，超越一切大能─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "内里运行，使人离地上腾；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "大能大能，超越一切大能─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "里面的人离地得上腾。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "征服的大能使万有归服，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "悖逆尽消弭，基督为大；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作祂的身体，分享祂能力，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有何不踏在我们脚下？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "大能大能，征服一切大能─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "内里运行，处处施行管治；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "大能大能，征服一切大能─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "里面的人处处施管治。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "归一的大能使基督居首，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向着召会作万有的头；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "大能的输供成功主身体，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作祂的丰满神旨成就。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "大能大能，掌管万有大能─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "里里外外，一切尽都归顺；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "大能大能，掌管万有大能─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "里面的人率先来归顺。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "里面的人率先来归顺。"
+            }
+          ]
         }
       ]
     }
@@ -398,7 +414,16 @@
   "metadata": {
     "category": "享受基督",
     "time": "4/4",
-    "hymn_code": "5534564321"
+    "hymn_code": "5534564321",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1176",
+        "language": "cn",
+        "category": "h",
+        "number": "1176",
+        "title": "E1176"
+      }
+    ]
   },
   "raw_sections": [
     "復 活的 大 能，神 已經 顯明，",

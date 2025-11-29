@@ -1,220 +1,248 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/302",
   "title": "你名如同倒出香膏",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "你 名"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "你 名"
+            },
+            {
+              "chord": "",
+              "text": "如 同"
+            },
+            {
+              "chord": "G",
+              "text": "倒 出"
+            },
+            {
+              "chord": "",
+              "text": "香"
+            },
+            {
+              "chord": "D",
+              "text": "膏，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "如 同"
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶"
+            },
+            {
+              "chord": "A",
+              "text": "穌，"
+            },
+            {
+              "chord": "A7",
+              "text": "耶"
+            },
+            {
+              "chord": "D",
+              "text": "穌，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "倒 出"
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶"
+            },
+            {
+              "chord": "A",
+              "text": "穌，"
+            },
+            {
+              "chord": "A7",
+              "text": "耶"
+            },
+            {
+              "chord": "D",
+              "text": "穌，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "香"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "G",
+              "text": "名 如"
+            },
+            {
+              "chord": "",
+              "text": "同"
+            },
+            {
+              "chord": "Em7",
+              "text": "倒 出"
+            },
+            {
+              "chord": "",
+              "text": "香"
+            },
+            {
+              "chord": "Bm",
+              "text": "膏，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "膏，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "G",
+              "text": "名 如"
+            },
+            {
+              "chord": "",
+              "text": "同"
+            },
+            {
+              "chord": "A7",
+              "text": "倒 出"
+            },
+            {
+              "chord": "",
+              "text": "香"
+            },
+            {
+              "chord": "D",
+              "text": "膏。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "耶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你的爱情比酒更美"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "穌，"
-        },
-        {
-          "chord": "A7",
-          "text": "耶"
-        },
-        {
-          "chord": "D",
-          "text": "穌，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "………"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "耶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "所以众童女都爱你"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "穌，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "………"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的良人你甚可爱"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "耶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "………"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我已寻见我心所慕"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "穌，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "………"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我拉住祂不容祂走"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "名 如"
+          "segments": [
+            {
+              "chord": "",
+              "text": "………"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的良人愿你快来"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "同"
-        },
-        {
-          "chord": "Em7",
-          "text": "倒 出"
-        },
-        {
-          "chord": "",
-          "text": "香"
-        },
-        {
-          "chord": "Bm",
-          "text": "膏，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你"
-        },
-        {
-          "chord": "G",
-          "text": "名 如"
-        },
-        {
-          "chord": "",
-          "text": "同"
-        },
-        {
-          "chord": "A7",
-          "text": "倒 出"
-        },
-        {
-          "chord": "",
-          "text": "香"
-        },
-        {
-          "chord": "D",
-          "text": "膏。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你的爱情比酒更美"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "………"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "所以众童女都爱你"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "………"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的良人你甚可爱"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "………"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我已寻见我心所慕"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "………"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我拉住祂不容祂走"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "………"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的良人愿你快来"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "………"
+          "segments": [
+            {
+              "chord": "",
+              "text": "………"
+            }
+          ]
         }
       ]
     }
@@ -222,7 +250,16 @@
   "metadata": {
     "category": "爱慕耶稣",
     "time": "3/4",
-    "hymn_code": "51712165172321"
+    "hymn_code": "51712165172321",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1084",
+        "language": "cn",
+        "category": "h",
+        "number": "1084",
+        "title": "E1084"
+      }
+    ]
   },
   "raw_sections": [
     "你 名如 同倒 出香膏，",

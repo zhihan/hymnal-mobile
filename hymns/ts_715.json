@@ -1,416 +1,432 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/715",
   "title": "过召会生活",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "清 早"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "清 早"
+            },
+            {
+              "chord": "",
+              "text": "起 來 就 先 把"
+            },
+            {
+              "chord": "D",
+              "text": "主 喫"
+            },
+            {
+              "chord": "",
+              "text": "飽，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "起 來 就 先 把"
+          "segments": [
+            {
+              "chord": "",
+              "text": "大 家"
+            },
+            {
+              "chord": "D7",
+              "text": "一 同"
+            },
+            {
+              "chord": "",
+              "text": "來 過 召"
+            },
+            {
+              "chord": "G",
+              "text": "會 生"
+            },
+            {
+              "chord": "",
+              "text": "活；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "主 喫"
+          "segments": [
+            {
+              "chord": "",
+              "text": "守 晨 更， 天 天"
+            },
+            {
+              "chord": "G7",
+              "text": "來，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "飽，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "大 家"
+          "segments": [
+            {
+              "chord": "",
+              "text": "多 阿"
+            },
+            {
+              "chord": "C",
+              "text": "們， 靈"
+            },
+            {
+              "chord": "",
+              "text": "就"
+            },
+            {
+              "chord": "Am",
+              "text": "開，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "一 同"
+          "segments": [
+            {
+              "chord": "",
+              "text": "整 天"
+            },
+            {
+              "chord": "D",
+              "text": "享 受"
+            },
+            {
+              "chord": "D7",
+              "text": "主 同"
+            },
+            {
+              "chord": "G",
+              "text": "在。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "來 過 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿 利 路 亞，"
+            },
+            {
+              "chord": "D",
+              "text": "主 同"
+            },
+            {
+              "chord": "",
+              "text": "在！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "會 生"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "阿 利"
+            },
+            {
+              "chord": "",
+              "text": "路 亞，"
+            },
+            {
+              "chord": "G",
+              "text": "主 同"
+            },
+            {
+              "chord": "",
+              "text": "在！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "活；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "守 晨 更， 天 天"
+          "segments": [
+            {
+              "chord": "G7",
+              "text": "無 論"
+            },
+            {
+              "chord": "",
+              "text": "何 處"
+            },
+            {
+              "chord": "C",
+              "text": "唱 樂"
+            },
+            {
+              "chord": "Am",
+              "text": "歌，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "來，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "過 召"
+            },
+            {
+              "chord": "D",
+              "text": "會"
+            },
+            {
+              "chord": "D7",
+              "text": "生"
+            },
+            {
+              "chord": "G",
+              "text": "活。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "多 阿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不讲蒙恩先后，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "們， 靈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不谈新旧，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "就"
+          "segments": [
+            {
+              "chord": "",
+              "text": "大家一同来见证主基督；"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "開，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "整 天"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同是身上肢体，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "享 受"
+          "segments": [
+            {
+              "chord": "",
+              "text": "互相联结供应，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "主 同"
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱里扶持作肢体。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "在。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿 利 路 亞，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，作肢体！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "主 同"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，作肢体！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "在！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "阿 利"
+          "segments": [
+            {
+              "chord": "",
+              "text": "显出功用不畏缩，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "路 亞，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "过召会生活！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督是我的，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "主 同"
+          "segments": [
+            {
+              "chord": "",
+              "text": "也是你们的，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "在！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G7",
-          "text": "無 論"
+          "segments": [
+            {
+              "chord": "",
+              "text": "大家一同来分享祂自己，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "何 處"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在召会，在家里，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "唱 樂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同享祂的福气，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "歌，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "過 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，乐无比！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "會"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，乐无比！"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，乐无比！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "活。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "身体丰富我全享，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "过召会生活！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "不讲蒙恩先后，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "称耶稣是主，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "不谈新旧，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "喊阿利路亚，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "大家一同来见证主基督；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "大家一同来展览主基督，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "同是身上肢体，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "你唱诗，我赞美，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "互相联结供应，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "他见证，同阿们，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "爱里扶持作肢体。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "聚起会来真有味！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "阿利路亚，作肢体！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，真有味！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "阿利路亚，作肢体！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，真有味！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "显出功用不畏缩，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "新鲜丰富又活泼，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "过召会生活！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督是我的，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "也是你们的，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "大家一同来分享祂自己，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在召会，在家里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同享祂的福气，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚，乐无比！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚，乐无比！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚，乐无比！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "身体丰富我全享，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "过召会生活！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "称耶稣是主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "喊阿利路亚，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "大家一同来展览主基督，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你唱诗，我赞美，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "他见证，同阿们，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "聚起会来真有味！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚，真有味！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚，真有味！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "新鲜丰富又活泼，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "过召会生活！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "过召会生活！"
+            }
+          ]
         }
       ]
     }

@@ -1,412 +1,452 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/745",
   "title": "一切为召会",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "我 若"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 若"
+            },
+            {
+              "chord": "",
+              "text": "僅 為"
+            },
+            {
+              "chord": "A",
+              "text": "個 人"
+            },
+            {
+              "chord": "",
+              "text": "『屬 靈』，"
+            },
+            {
+              "chord": "D",
+              "text": "我 就"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "僅 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不 屑"
+            },
+            {
+              "chord": "A7",
+              "text": "再 追"
+            },
+            {
+              "chord": "D",
+              "text": "求； 所"
+            },
+            {
+              "chord": "",
+              "text": "有"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "個 人"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 的"
+            },
+            {
+              "chord": "A",
+              "text": "屬 靈"
+            },
+            {
+              "chord": "",
+              "text": "經 歷，"
+            },
+            {
+              "chord": "D",
+              "text": "都 該"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "『屬 靈』，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "為 召"
+            },
+            {
+              "chord": "A7",
+              "text": "會 建"
+            },
+            {
+              "chord": "D",
+              "text": "造。 一"
+            },
+            {
+              "chord": "",
+              "text": "切"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "為 召"
+            },
+            {
+              "chord": "A",
+              "text": "會， 一"
+            },
+            {
+              "chord": "",
+              "text": "切"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我 就"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不 屑"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "為 召"
+            },
+            {
+              "chord": "D",
+              "text": "會， 我"
+            },
+            {
+              "chord": "",
+              "text": "的"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "再 追"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一 切 所 有"
+            },
+            {
+              "chord": "G",
+              "text": "所 是，"
+            },
+            {
+              "chord": "A",
+              "text": "全 都"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "求； 所"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "為 召"
+            },
+            {
+              "chord": "D",
+              "text": "會。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我若专求"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "有"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "‘亮光’‘启示’，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "屬 靈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "求主就向我掩面；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "經 歷，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿我从你每一认识，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "都 該"
+          "segments": [
+            {
+              "chord": "",
+              "text": "都是为召会建造。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "為 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一切为召会，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "會 建"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一切为召会，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "造。 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的一切所有所是，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "切"
+          "segments": [
+            {
+              "chord": "",
+              "text": "全都为召会。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "為 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我若夸耀‘圣灵恩赐’，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "會， 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "求主收去你印证；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "切"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "為 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿我的灵天天满溢，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "會， 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "好叫召会得建造。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "一切为召会，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一 切 所 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一切为召会，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "所 是，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的一切所有所是，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "全 都"
+          "segments": [
+            {
+              "chord": "",
+              "text": "全都为召会。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A7",
-          "text": "為 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我若只求‘工作果效’，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "會。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "就愿主亲手拆毁；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿我所有劳苦工作，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "全都为召会建造。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我若专求"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一切为召会，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "一切为召会，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的一切所有所是，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "全都为召会。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "‘亮光’‘启示’，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我若追求召会‘地位’，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "求主使我感羞耻；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "求主时刻光照显明，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "单纯为召会建造。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "求主就向我掩面；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "一切为召会，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "愿我从你每一认识，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "一切为召会，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "都是为召会建造。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的一切所有所是，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "一切为召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一切为召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的一切所有所是，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全都为召会。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我若夸耀‘圣灵恩赐’，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "求主收去你印证；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿我的灵天天满溢，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "好叫召会得建造。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一切为召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一切为召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的一切所有所是，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全都为召会。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我若只求‘工作果效’，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "就愿主亲手拆毁；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿我所有劳苦工作，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全都为召会建造。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一切为召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一切为召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的一切所有所是，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全都为召会。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我若追求召会‘地位’，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "求主使我感羞耻；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "求主时刻光照显明，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "单纯为召会建造。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一切为召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一切为召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的一切所有所是，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全都为召会。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "全都为召会。"
+            }
+          ]
         }
       ]
     }

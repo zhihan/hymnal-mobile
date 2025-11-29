@@ -1,308 +1,336 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/32",
   "title": "基督生活超凡佳美",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "基 督"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "基 督"
+            },
+            {
+              "chord": "",
+              "text": "在 地 生 活 超"
+            },
+            {
+              "chord": "D",
+              "text": "凡 且"
+            },
+            {
+              "chord": "D7",
+              "text": "佳"
+            },
+            {
+              "chord": "G",
+              "text": "美，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "在 地 生 活 超"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂"
+            },
+            {
+              "chord": "C",
+              "text": "是 神、"
+            },
+            {
+              "chord": "",
+              "text": "人"
+            },
+            {
+              "chord": "G",
+              "text": "調 和，"
+            },
+            {
+              "chord": "",
+              "text": "價"
+            },
+            {
+              "chord": "A",
+              "text": "值 何"
+            },
+            {
+              "chord": "A7",
+              "text": "寶"
+            },
+            {
+              "chord": "D",
+              "text": "貴；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "凡 且"
+          "segments": [
+            {
+              "chord": "",
+              "text": "態"
+            },
+            {
+              "chord": "G",
+              "text": "度、 揀"
+            },
+            {
+              "chord": "",
+              "text": "選、 喜 悅 全"
+            },
+            {
+              "chord": "C",
+              "text": "與 神"
+            },
+            {
+              "chord": "",
+              "text": "相"
+            },
+            {
+              "chord": "D",
+              "text": "合─ 惟"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "佳"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "祂 是"
+            },
+            {
+              "chord": "",
+              "text": "那 配 住 神"
+            },
+            {
+              "chord": "D",
+              "text": "的 帳"
+            },
+            {
+              "chord": "D7",
+              "text": "幕"
+            },
+            {
+              "chord": "G",
+              "text": "者。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"神，求你保守我，因我投靠你\"─"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "美，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "无论起何风暴，祂安居神里。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "是 神、"
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"你是我主我神，我一切好处\"─"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "人"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟神是祂心中朝夕所思慕。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"论到地上圣民，尊高又可悦，\""
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "調 和，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "属神子民祂心最喜爱、关切，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "價"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂亲临地服事且照护殷殷，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "值 何"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如四福音书中所记述显明。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"神外别有拣选，愁苦必加增\"─"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "寶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣在地生活与偶像无分。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "貴；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "態"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神外任何名号一概都不题，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "度、 揀"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂的追求、想望全是神自己。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"惟你是我产业，是我杯中分\"─"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "選、 喜 悅 全"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂在一切事上只拣选父神。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "與 神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"那指教我的神，我昼夜称颂\"─"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "相"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂己全然弃绝，只活出神命。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "因此祂心喜乐，祂灵也欢腾，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "合─ 惟"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "祂 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "甚至被置死地仍能赞美神；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "那 配 住 神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神必不将祂魂撇弃在阴间，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "的 帳"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂的肉身安居，复活显神前。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "神已使祂复起，赐祂荣耀冕，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "幕"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂在神前所得喜乐何丰满。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "者。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "高升远超万有，父右边安坐，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "\"神，求你保守我，因我投靠你\"─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "无论起何风暴，祂安居神里。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "\"你是我主我神，我一切好处\"─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惟神是祂心中朝夕所思慕。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "\"论到地上圣民，尊高又可悦，\""
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "属神子民祂心最喜爱、关切，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂亲临地服事且照护殷殷，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如四福音书中所记述显明。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "\"神外别有拣选，愁苦必加增\"─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣在地生活与偶像无分。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神外任何名号一概都不题，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂的追求、想望全是神自己。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "\"惟你是我产业，是我杯中分\"─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂在一切事上只拣选父神。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "\"那指教我的神，我昼夜称颂\"─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂己全然弃绝，只活出神命。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因此祂心喜乐，祂灵也欢腾，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "甚至被置死地仍能赞美神；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神必不将祂魂撇弃在阴间，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂的肉身安居，复活显神前。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神已使祂复起，赐祂荣耀冕，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂在神前所得喜乐何丰满。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "高升远超万有，父右边安坐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享受无穷无尽无终的福乐。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享受无穷无尽无终的福乐。"
+            }
+          ]
         }
       ]
     }
@@ -310,7 +338,16 @@
   "metadata": {
     "category": "赞美的话",
     "time": "3/4",
-    "hymn_code": "51123321271"
+    "hymn_code": "51123321271",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1082",
+        "language": "cn",
+        "category": "h",
+        "number": "1082",
+        "title": "E1082"
+      }
+    ]
   },
   "raw_sections": [
     "基 督在 地 生 活 超凡 且佳美，",

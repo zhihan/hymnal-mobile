@@ -1,496 +1,544 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/452",
   "title": "宝贵信仰交付我们",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "寶 貴"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "寶 貴"
+            },
+            {
+              "chord": "",
+              "text": "信"
+            },
+            {
+              "chord": "A7",
+              "text": "仰 已"
+            },
+            {
+              "chord": "D",
+              "text": "經 一"
+            },
+            {
+              "chord": "",
+              "text": "次"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "信"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永 遠 交 付 聖"
+            },
+            {
+              "chord": "A",
+              "text": "徒，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "仰 已"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "持"
+            },
+            {
+              "chord": "D",
+              "text": "守 信"
+            },
+            {
+              "chord": "A7",
+              "text": "仰、 竭"
+            },
+            {
+              "chord": "F♯m",
+              "text": "力 爭"
+            },
+            {
+              "chord": "Bm",
+              "text": "辯"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "經 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃"
+            },
+            {
+              "chord": "G",
+              "text": "是 我"
+            },
+            {
+              "chord": "A7",
+              "text": "們 託"
+            },
+            {
+              "chord": "D",
+              "text": "付。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "我 們"
+            },
+            {
+              "chord": "G",
+              "text": "深 知"
+            },
+            {
+              "chord": "",
+              "text": "所 信 的"
+            },
+            {
+              "chord": "D",
+              "text": "是"
+            },
+            {
+              "chord": "Bm",
+              "text": "誰，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "次"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永 遠 交 付 聖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "並 且 憑"
+            },
+            {
+              "chord": "Em7",
+              "text": "信、"
+            },
+            {
+              "chord": "A7",
+              "text": "愛、 藉"
+            },
+            {
+              "chord": "",
+              "text": "內 住"
+            },
+            {
+              "chord": "D",
+              "text": "聖 靈，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "徒，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "持"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "保"
+            },
+            {
+              "chord": "G",
+              "text": "守 那"
+            },
+            {
+              "chord": "",
+              "text": "美 好 的"
+            },
+            {
+              "chord": "D",
+              "text": "託 付─"
+            },
+            {
+              "chord": "",
+              "text": "健"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "守 信"
+          "segments": [
+            {
+              "chord": "",
+              "text": "康"
+            },
+            {
+              "chord": "Em",
+              "text": "話 語"
+            },
+            {
+              "chord": "A7",
+              "text": "的 規"
+            },
+            {
+              "chord": "D",
+              "text": "範。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "美好托付务必持守，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "仰、 竭"
+          "segments": [
+            {
+              "chord": "",
+              "text": "绝不稍微偏离；"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "力 爭"
+          "segments": [
+            {
+              "chord": "",
+              "text": "这是神经纶的标的，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "辯"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是主恢复目的。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "乃"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们深知所信的是谁，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "是 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "并且凭信、爱、借内住圣灵，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "們 託"
+          "segments": [
+            {
+              "chord": "",
+              "text": "保守那美好的托付─"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "付。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "健康话语的规范。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D7",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当用清洁无亏良心，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "深 知"
+          "segments": [
+            {
+              "chord": "",
+              "text": "持守信仰奥秘；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "所 信 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "行事为人庄重、圣别，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只活圣别无比！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们深知所信的是谁，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "誰，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "並 且 憑"
+          "segments": [
+            {
+              "chord": "",
+              "text": "并且凭信、爱、借内住圣灵，"
+            }
+          ]
         },
         {
-          "chord": "Em7",
-          "text": "信、"
+          "segments": [
+            {
+              "chord": "",
+              "text": "保守那美好的托付─"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "愛、 藉"
+          "segments": [
+            {
+              "chord": "",
+              "text": "健康话语的规范。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "健康话语善美规范，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "內 住"
+          "segments": [
+            {
+              "chord": "",
+              "text": "凭信和爱持守；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "聖 靈，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "保"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不同教训、虚空言谈，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "守 那"
+          "segments": [
+            {
+              "chord": "",
+              "text": "弃绝，一概不留！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们深知所信的是谁，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "美 好 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "并且凭信、爱、借内住圣灵，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "託 付─"
+          "segments": [
+            {
+              "chord": "",
+              "text": "保守那美好的托付─"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "健"
+          "segments": [
+            {
+              "chord": "",
+              "text": "健康话语的规范。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "康"
+          "segments": [
+            {
+              "chord": "",
+              "text": "传讲健康纯全教训─"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "話 語"
+          "segments": [
+            {
+              "chord": "",
+              "text": "合乎敬虔真理；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "的 規"
+          "segments": [
+            {
+              "chord": "",
+              "text": "保守托付，持守信仰，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "範。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生求得主欢喜。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "美好托付务必持守，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们深知所信的是谁，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "并且凭信、爱、借内住圣灵，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "保守那美好的托付─"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "健康话语的规范。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "绝不稍微偏离；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，使我们忠于所托，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "殷勤教导、传扬；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "言语、为人、爱、信、纯洁，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "都作信徒榜样。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "这是神经纶的标的，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们深知所信的是谁，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "是主恢复目的。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "并且凭信、爱、借内住圣灵，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我们深知所信的是谁，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "保守那美好的托付─"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "并且凭信、爱、借内住圣灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "保守那美好的托付─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "健康话语的规范。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当用清洁无亏良心，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "持守信仰奥秘；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "行事为人庄重、圣别，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只活圣别无比！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们深知所信的是谁，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "并且凭信、爱、借内住圣灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "保守那美好的托付─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "健康话语的规范。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "健康话语善美规范，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "凭信和爱持守；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不同教训、虚空言谈，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "弃绝，一概不留！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们深知所信的是谁，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "并且凭信、爱、借内住圣灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "保守那美好的托付─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "健康话语的规范。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "传讲健康纯全教训─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "合乎敬虔真理；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "保守托付，持守信仰，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生求得主欢喜。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们深知所信的是谁，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "并且凭信、爱、借内住圣灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "保守那美好的托付─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "健康话语的规范。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，使我们忠于所托，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "殷勤教导、传扬；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "言语、为人、爱、信、纯洁，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "都作信徒榜样。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们深知所信的是谁，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "并且凭信、爱、借内住圣灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "保守那美好的托付─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "健康话语的规范。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "健康话语的规范。"
+            }
+          ]
         }
       ]
     }
@@ -498,7 +546,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "4/4",
-    "hymn_code": "133432165535565432"
+    "hymn_code": "133432165535565432",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1285",
+        "language": "cn",
+        "category": "h",
+        "number": "1285",
+        "title": "E1285"
+      }
+    ]
   },
   "raw_sections": [
     "寶 貴信仰 已經 一次",

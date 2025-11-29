@@ -1,260 +1,276 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/111",
   "title": "你找着你的灵没有",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "你 找"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "你 找"
+            },
+            {
+              "chord": "",
+              "text": "著 你 的 靈 沒 有？"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "著 你 的 靈 沒 有？"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "靈 與"
+            },
+            {
+              "chord": "",
+              "text": "口 原 分 不"
+            },
+            {
+              "chord": "G",
+              "text": "開！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "『哦 主， 阿 們， 阿"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "利"
+            },
+            {
+              "chord": "C",
+              "text": "路 亞，』"
+            },
+            {
+              "chord": "D",
+              "text": "你 的"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "靈 就"
+            },
+            {
+              "chord": "D7",
+              "text": "能 出"
+            },
+            {
+              "chord": "G",
+              "text": "來！ 從"
+            },
+            {
+              "chord": "",
+              "text": "聖"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "靈 與"
+          "segments": [
+            {
+              "chord": "",
+              "text": "靈 生 的 乃"
+            },
+            {
+              "chord": "C",
+              "text": "是"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "口 原 分 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們"
+            },
+            {
+              "chord": "G",
+              "text": "的 靈，"
+            },
+            {
+              "chord": "A",
+              "text": "這 工"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "開！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作"
+            },
+            {
+              "chord": "A7",
+              "text": "已 經"
+            },
+            {
+              "chord": "",
+              "text": "完"
+            },
+            {
+              "chord": "D",
+              "text": "成；"
+            },
+            {
+              "chord": "D7",
+              "text": "從 聖"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "靈 生"
+            },
+            {
+              "chord": "",
+              "text": "的 乃"
+            },
+            {
+              "chord": "C",
+              "text": "是"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們"
+            },
+            {
+              "chord": "G",
+              "text": "的 靈，"
+            },
+            {
+              "chord": "",
+              "text": "二 靈"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "相"
+            },
+            {
+              "chord": "D7",
+              "text": "調 成"
+            },
+            {
+              "chord": "",
+              "text": "一"
+            },
+            {
+              "chord": "G",
+              "text": "靈。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "『哦 主， 阿 們， 阿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不要苦等所谓‘感动，’"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不要上撒但的当；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "要开口释放你的灵，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "见证你得了释放。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "利"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从圣灵生的"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "路 亞，』"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃是我们的灵，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "你 的"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "靈 就"
+          "segments": [
+            {
+              "chord": "",
+              "text": "这工作已经完成；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "能 出"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从圣灵生的"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "來！ 從"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃是我们的灵，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "聖"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "靈 生 的 乃"
-        },
-        {
-          "chord": "C",
-          "text": "是"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們"
-        },
-        {
-          "chord": "G",
-          "text": "的 靈，"
-        },
-        {
-          "chord": "A",
-          "text": "這 工"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作"
-        },
-        {
-          "chord": "A7",
-          "text": "已 經"
-        },
-        {
-          "chord": "",
-          "text": "完"
-        },
-        {
-          "chord": "D",
-          "text": "成；"
-        },
-        {
-          "chord": "D7",
-          "text": "從 聖"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "靈 生"
-        },
-        {
-          "chord": "",
-          "text": "的 乃"
-        },
-        {
-          "chord": "C",
-          "text": "是"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們"
-        },
-        {
-          "chord": "G",
-          "text": "的 靈，"
-        },
-        {
-          "chord": "",
-          "text": "二 靈"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "相"
-        },
-        {
-          "chord": "D7",
-          "text": "調 成"
-        },
-        {
-          "chord": "",
-          "text": "一"
-        },
-        {
-          "chord": "G",
-          "text": "靈。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不要苦等所谓‘感动，’"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不要上撒但的当；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要开口释放你的灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "见证你得了释放。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从圣灵生的"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃是我们的灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "这工作已经完成；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从圣灵生的"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃是我们的灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "二灵相调成一灵。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "二灵相调成一灵。"
+            }
+          ]
         }
       ]
     }
@@ -262,7 +278,16 @@
   "metadata": {
     "category": "灵与生命",
     "time": "4/4",
-    "hymn_code": "556712156712165"
+    "hymn_code": "556712156712165",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/57",
+        "language": "cn",
+        "category": "ns",
+        "number": "57",
+        "title": "NS57"
+      }
+    ]
   },
   "raw_sections": [
     "你 找著 你 的 靈 沒 有？",

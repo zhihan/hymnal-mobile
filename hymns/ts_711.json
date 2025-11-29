@@ -1,428 +1,468 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/711",
   "title": "召会生活无比荣耀",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "耶 穌"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "耶 穌"
+            },
+            {
+              "chord": "",
+              "text": "是"
+            },
+            {
+              "chord": "D",
+              "text": "那 奇"
+            },
+            {
+              "chord": "",
+              "text": "妙"
+            },
+            {
+              "chord": "G",
+              "text": "牧 人，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "是"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "帶 領"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "D7",
+              "text": "們 出"
+            },
+            {
+              "chord": "",
+              "text": "羊"
+            },
+            {
+              "chord": "G",
+              "text": "圈。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "那 奇"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "肥 沃"
+            },
+            {
+              "chord": "",
+              "text": "草 地， 廣 闊"
+            },
+            {
+              "chord": "G",
+              "text": "無 邊，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "妙"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "處"
+            },
+            {
+              "chord": "A7",
+              "text": "身 在"
+            },
+            {
+              "chord": "",
+              "text": "其"
+            },
+            {
+              "chord": "D7",
+              "text": "間！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "哦， 召"
+            },
+            {
+              "chord": "",
+              "text": "會 生 活，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "牧 人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "帶 領"
+          "segments": [
+            {
+              "chord": "",
+              "text": "無 比 榮"
+            },
+            {
+              "chord": "A",
+              "text": "耀 又"
+            },
+            {
+              "chord": "",
+              "text": "豐"
+            },
+            {
+              "chord": "D",
+              "text": "富！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "在 此"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "C",
+              "text": "們 合"
+            },
+            {
+              "chord": "",
+              "text": "一"
+            },
+            {
+              "chord": "G",
+              "text": "相 處，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "們 出"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "享 受"
+            },
+            {
+              "chord": "",
+              "text": "生"
+            },
+            {
+              "chord": "D7",
+              "text": "命 的"
+            },
+            {
+              "chord": "",
+              "text": "祝"
+            },
+            {
+              "chord": "G",
+              "text": "福。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "身处异地，饥寒交迫，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "羊"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是祂来把我找着；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "圈。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "肥 沃"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂带我们进入美地，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "草 地， 廣 闊"
+          "segments": [
+            {
+              "chord": "",
+              "text": "灵里舒适真无比！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，召会生活，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "無 邊，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "无比荣耀又丰富！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "處"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在此我们合一相处，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "身 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享受生命的祝福。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣自己乃是草场，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "其"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是我们的食物；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "間！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "哦， 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们都是属祂的羊，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "會 生 活，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "每次聚集真饱足。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "無 比 榮"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，召会生活，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "耀 又"
+          "segments": [
+            {
+              "chord": "",
+              "text": "无比荣耀又丰富！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "豐"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在此我们合一相处，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "富！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享受生命的祝福。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "在 此"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们今正住于高山，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "新鲜甘露何舒适！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "們 合"
+          "segments": [
+            {
+              "chord": "",
+              "text": "所有干渴一去不回，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是常新的活水。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，召会生活，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "相 處，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "享 受"
+          "segments": [
+            {
+              "chord": "",
+              "text": "无比荣耀又丰富！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在此我们合一相处，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "命 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享受生命的祝福。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督是我们的享受，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "祝"
+          "segments": [
+            {
+              "chord": "",
+              "text": "可以高枕而无忧；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "福。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们在此平安稳妥，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "蒙祂同在的保守。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "身处异地，饥寒交迫，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，召会生活，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "是祂来把我找着；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "无比荣耀又丰富！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "祂带我们进入美地，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "在此我们合一相处，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "灵里舒适真无比！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，召会生活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "无比荣耀又丰富！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在此我们合一相处，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享受生命的祝福。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣自己乃是草场，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是我们的食物；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们都是属祂的羊，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "每次聚集真饱足。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，召会生活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "无比荣耀又丰富！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在此我们合一相处，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享受生命的祝福。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们今正住于高山，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "新鲜甘露何舒适！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "所有干渴一去不回，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是常新的活水。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，召会生活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "无比荣耀又丰富！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在此我们合一相处，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享受生命的祝福。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督是我们的享受，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "可以高枕而无忧；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们在此平安稳妥，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "蒙祂同在的保守。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，召会生活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "无比荣耀又丰富！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在此我们合一相处，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享受生命的祝福。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享受生命的祝福。"
+            }
+          ]
         }
       ]
     }
@@ -430,7 +470,16 @@
   "metadata": {
     "category": "教会的生活",
     "time": "6/8",
-    "hymn_code": "555567157777121"
+    "hymn_code": "555567157777121",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1221",
+        "language": "cn",
+        "category": "h",
+        "number": "1221",
+        "title": "E1221"
+      }
+    ]
   },
   "raw_sections": [
     "耶 穌是那 奇妙牧 人，",

@@ -1,524 +1,572 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/863",
   "title": "跟上神的行动",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "\"今 日"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "\"今 日"
+            },
+            {
+              "chord": "",
+              "text": "的\" 真 理，"
+            },
+            {
+              "chord": "C",
+              "text": "帶 進"
+            },
+            {
+              "chord": "G",
+              "text": "神 行"
+            },
+            {
+              "chord": "",
+              "text": "動，"
+            },
+            {
+              "chord": "D",
+              "text": "使 我"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的\" 真 理，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得 堅 固，"
+            },
+            {
+              "chord": "A7",
+              "text": "清 楚"
+            },
+            {
+              "chord": "",
+              "text": "異"
+            },
+            {
+              "chord": "D7",
+              "text": "象；"
+            },
+            {
+              "chord": "G",
+              "text": "在 今"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "帶 進"
+          "segments": [
+            {
+              "chord": "",
+              "text": "時 代 裏，"
+            },
+            {
+              "chord": "C",
+              "text": "我 當"
+            },
+            {
+              "chord": "G",
+              "text": "有 耳"
+            },
+            {
+              "chord": "",
+              "text": "聽，"
+            },
+            {
+              "chord": "G7",
+              "text": "留 意"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "神 行"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "暗 處"
+            },
+            {
+              "chord": "",
+              "text": "燈， 等"
+            },
+            {
+              "chord": "D",
+              "text": "候"
+            },
+            {
+              "chord": "D7",
+              "text": "晨"
+            },
+            {
+              "chord": "G",
+              "text": "星。 儆"
+            },
+            {
+              "chord": "",
+              "text": "醒，"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "儆 醒，"
+            },
+            {
+              "chord": "D7",
+              "text": "那 靈"
+            },
+            {
+              "chord": "",
+              "text": "對 我"
+            },
+            {
+              "chord": "G",
+              "text": "說 話！"
+            },
+            {
+              "chord": "B7",
+              "text": "興 起，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "動，"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "興 起，"
+            },
+            {
+              "chord": "A7",
+              "text": "當 有"
+            },
+            {
+              "chord": "",
+              "text": "真 實"
+            },
+            {
+              "chord": "D7",
+              "text": "復 興！"
+            },
+            {
+              "chord": "G",
+              "text": "跟 上，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "使 我"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得 堅 固，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "跟 上，"
+            },
+            {
+              "chord": "D7",
+              "text": "經 綸"
+            },
+            {
+              "chord": "",
+              "text": "大 輪"
+            },
+            {
+              "chord": "G",
+              "text": "行 動！"
+            },
+            {
+              "chord": "G7",
+              "text": "得 勝，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "清 楚"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "得 勝，"
+            },
+            {
+              "chord": "",
+              "text": "持 守"
+            },
+            {
+              "chord": "D",
+              "text": "榮"
+            },
+            {
+              "chord": "D7",
+              "text": "耀"
+            },
+            {
+              "chord": "G",
+              "text": "冕！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "正常基督徒，天天有复兴，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "異"
+          "segments": [
+            {
+              "chord": "",
+              "text": "过活力生活，日日得胜；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "象；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "成为得胜者，脱离老底嘉，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "在 今"
+          "segments": [
+            {
+              "chord": "",
+              "text": "持守主恢复，弃绝撒狄。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "時 代 裏，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "儆醒，儆醒，那灵对我说话！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "我 當"
+          "segments": [
+            {
+              "chord": "",
+              "text": "兴起，兴起，当有真实复兴！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "有 耳"
+          "segments": [
+            {
+              "chord": "",
+              "text": "跟上，跟上，经纶大轮行动！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "聽，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得胜，得胜，持守荣耀冕！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "配合神行动，成为四活物，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "留 意"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "暗 處"
+          "segments": [
+            {
+              "chord": "",
+              "text": "团体行动中，风、云、火、金；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "燈， 等"
+          "segments": [
+            {
+              "chord": "",
+              "text": "保守身体里，圣别过生活，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "候"
+          "segments": [
+            {
+              "chord": "",
+              "text": "焚烧在一起，彼此建造。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "儆醒，儆醒，那灵对我说话！"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "晨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "兴起，兴起，当有真实复兴！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "星。 儆"
+          "segments": [
+            {
+              "chord": "",
+              "text": "跟上，跟上，经纶大轮行动！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "醒，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得胜，得胜，持守荣耀冕！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "儆 醒，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督登宝座，成为代求者，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "那 靈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祷告里祷告，需我配合；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "對 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "成为守望者，执行神行政，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "說 話！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "香气升神前，威力无穷。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "儆醒，儆醒，那灵对我说话！"
+            }
+          ]
         },
         {
-          "chord": "B7",
-          "text": "興 起，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "興 起，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "兴起，兴起，当有真实复兴！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "當 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "跟上，跟上，经纶大轮行动！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "真 實"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得胜，得胜，持守荣耀冕！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "国度的福音，传遍居人地，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "復 興！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "见证于万民，结束时代；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "跟 上，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "跟 上，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主能差遣谁，谁愿为主去？"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "經 綸"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主我在这里，请差遣我！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "儆醒，儆醒，那灵对我说话！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "大 輪"
+          "segments": [
+            {
+              "chord": "",
+              "text": "兴起，兴起，当有真实复兴！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "行 動！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "跟上，跟上，经纶大轮行动！"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "得 勝，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得胜，得胜，持守荣耀冕！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "得 勝，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，我真爱你，愿作得胜者，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "持 守"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同你写历史，与你是一；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "榮"
+          "segments": [
+            {
+              "chord": "",
+              "text": "奋力活动神，激动我全人，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "耀"
+          "segments": [
+            {
+              "chord": "",
+              "text": "起来奔赛程，直到路终。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "儆醒，儆醒，那灵对我说话！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "冕！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "兴起，兴起，当有真实复兴！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "正常基督徒，天天有复兴，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "跟上，跟上，经纶大轮行动！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "过活力生活，日日得胜；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "成为得胜者，脱离老底嘉，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "持守主恢复，弃绝撒狄。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "儆醒，儆醒，那灵对我说话！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "兴起，兴起，当有真实复兴！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "跟上，跟上，经纶大轮行动！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得胜，得胜，持守荣耀冕！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "配合神行动，成为四活物，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "团体行动中，风、云、火、金；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "保守身体里，圣别过生活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "焚烧在一起，彼此建造。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "儆醒，儆醒，那灵对我说话！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "兴起，兴起，当有真实复兴！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "跟上，跟上，经纶大轮行动！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得胜，得胜，持守荣耀冕！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督登宝座，成为代求者，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祷告里祷告，需我配合；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "成为守望者，执行神行政，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "香气升神前，威力无穷。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "儆醒，儆醒，那灵对我说话！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "兴起，兴起，当有真实复兴！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "跟上，跟上，经纶大轮行动！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得胜，得胜，持守荣耀冕！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "国度的福音，传遍居人地，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "见证于万民，结束时代；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主能差遣谁，谁愿为主去？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主我在这里，请差遣我！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "儆醒，儆醒，那灵对我说话！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "兴起，兴起，当有真实复兴！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "跟上，跟上，经纶大轮行动！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得胜，得胜，持守荣耀冕！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，我真爱你，愿作得胜者，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同你写历史，与你是一；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "奋力活动神，激动我全人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "起来奔赛程，直到路终。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "儆醒，儆醒，那灵对我说话！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "兴起，兴起，当有真实复兴！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "跟上，跟上，经纶大轮行动！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得胜，得胜，持守荣耀冕！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得胜，得胜，持守荣耀冕！"
+            }
+          ]
         }
       ]
     }

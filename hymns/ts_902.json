@@ -1,368 +1,408 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/902",
   "title": "主必要快来",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "主 必"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "主 必"
+            },
+            {
+              "chord": "",
+              "text": "要 快 來─ 今"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "要 快 來─ 今"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "與 世 界 斷 開； 脫"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "去 一 切 的 纏 累， 快"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "跑 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "與 世 界 斷 開； 脫"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "懈 怠。 主"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "就"
+          "segments": [
+            {
+              "chord": "",
+              "text": "去 一 切 的 纏 累， 快"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "要 來！"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "跑 不"
+            },
+            {
+              "chord": "",
+              "text": "懈 怠。 主"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "就"
+            },
+            {
+              "chord": "D",
+              "text": "要 來！"
+            },
+            {
+              "chord": "",
+              "text": "主 就 要 來！ 哦，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "主 就 要 來！ 哦，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主"
+            },
+            {
+              "chord": "G",
+              "text": "就 要"
+            },
+            {
+              "chord": "",
+              "text": "回"
+            },
+            {
+              "chord": "A",
+              "text": "來！ 主"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "就 要"
+          "segments": [
+            {
+              "chord": "",
+              "text": "就"
+            },
+            {
+              "chord": "D",
+              "text": "要 來！"
+            },
+            {
+              "chord": "",
+              "text": "主 就 要 來！ 阿"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "回"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "們， 主"
+            },
+            {
+              "chord": "A7",
+              "text": "快"
+            },
+            {
+              "chord": "D",
+              "text": "來！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "也许是今天─"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "來！ 主"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "就"
+          "segments": [
+            {
+              "chord": "",
+              "text": "向主注目不变，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "要 來！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "转眼仰望主耶稣，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "主 就 要 來！ 阿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "虽时遭惊险。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A",
-          "text": "們， 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主就要来！主就要来！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "快"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，主就要回来！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "來！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主就要来！主就要来！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿们，主快来！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "也许是今天─"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从自己、罪、世，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "转眼向主注视，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂必为你来完成，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂所已创始。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "向主注目不变，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主就要来！主就要来！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，主就要回来！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主就要来！主就要来！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿们，主快来！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "转眼仰望主耶稣，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "注视祂荣面"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "满受祂的恩典，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "将来在祂国度里，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "与祂同显现。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "虽时遭惊险。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主就要来！主就要来！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，主就要回来！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主就要来！主就要来！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿们，主快来！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "主就要来！主就要来！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿们祂的话─"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "所读所听的话，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们灵里被激动；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "准备迎接祂。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "哦，主就要回来！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "主就要来！主就要来！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "主就要来！主就要来！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，主就要回来！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "阿们，主快来！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "主就要来！主就要来！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "从自己、罪、世，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "转眼向主注视，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂必为你来完成，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂所已创始。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主就要来！主就要来！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，主就要回来！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主就要来！主就要来！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿们，主快来！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "注视祂荣面"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "满受祂的恩典，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将来在祂国度里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "与祂同显现。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主就要来！主就要来！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，主就要回来！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主就要来！主就要来！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿们，主快来！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿们祂的话─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "所读所听的话，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们灵里被激动；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "准备迎接祂。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主就要来！主就要来！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，主就要回来！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主就要来！主就要来！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿们，主快来！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿们，主快来！"
+            }
+          ]
         }
       ]
     }

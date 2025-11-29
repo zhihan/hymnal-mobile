@@ -1,408 +1,428 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/3",
   "title": "你名在全地何其美",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "主 耶"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "主 耶"
+            },
+            {
+              "chord": "",
+              "text": "和 華，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "和 華，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 的 聖 名 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 的 聖 名 在"
+            },
+            {
+              "chord": "A",
+              "text": "全 地"
+            },
+            {
+              "chord": "A7",
+              "text": "何 其"
+            },
+            {
+              "chord": "D",
+              "text": "美！"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "全 地"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但 願 各 民、 各 族、 各 方，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "何 其"
+          "segments": [
+            {
+              "chord": "",
+              "text": "宣"
+            },
+            {
+              "chord": "E7",
+              "text": "揚 你"
+            },
+            {
+              "chord": "",
+              "text": "名 寶"
+            },
+            {
+              "chord": "A",
+              "text": "貝。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "美！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但 願 各 民、 各 族、 各 方，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "宣"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "從"
+            },
+            {
+              "chord": "D",
+              "text": "嬰 孩，"
+            },
+            {
+              "chord": "",
+              "text": "喫 奶"
+            },
+            {
+              "chord": "A",
+              "text": "者 口"
+            },
+            {
+              "chord": "D",
+              "text": "中，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "揚 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 建 立 了 讚"
+            },
+            {
+              "chord": "A",
+              "text": "美，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "名 寶"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "使"
+            },
+            {
+              "chord": "D",
+              "text": "你 仇"
+            },
+            {
+              "chord": "",
+              "text": "敵 閉 口 無"
+            },
+            {
+              "chord": "G",
+              "text": "言，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "貝。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "敵"
+            },
+            {
+              "chord": "D",
+              "text": "權 速"
+            },
+            {
+              "chord": "A",
+              "text": "速"
+            },
+            {
+              "chord": "A7",
+              "text": "崩"
+            },
+            {
+              "chord": "D",
+              "text": "潰。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A7",
-          "text": "從"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当我夜间观看诸天，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "嬰 孩，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你指头的工作─"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "喫 奶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "月亮、星宿暗中放明，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "者 口"
+          "segments": [
+            {
+              "chord": "",
+              "text": "凭你智慧述说。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 建 立 了 讚"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不禁要说：人算甚么，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "美，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "使"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你竟如此顾念？"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "你 仇"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在你神圣经营里面，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "敵 閉 口 無"
+          "segments": [
+            {
+              "chord": "",
+              "text": "叫人特蒙恩眷！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，主耶稣，你是那人─"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "言，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "敵"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神来联于人类；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "權 速"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你穿上了血肉之体，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "速"
+          "segments": [
+            {
+              "chord": "",
+              "text": "取了卑微地位。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "崩"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如今你得主宰权柄，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "潰。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀为你冠冕，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你将万有服你脚下，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "借你‘身体’掌权。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "当我夜间观看诸天，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你经过了道成肉身、"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "受死、复活、升天，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主权、元首、"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "国度、身体，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "一一你都成全。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "借着这些神圣工作，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你建立了赞美，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们的心喜乐满溢，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美惟你是配。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "你指头的工作─"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "有福之日不久将到，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "月亮、星宿暗中放明，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "万口莫不同唱，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "凭你智慧述说。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "但在地方召会之中，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "不禁要说：人算甚么，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们先有豫尝！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "你竟如此顾念？"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，主耶和华，你的名"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在你神圣经营里面，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "在全地何其美！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "叫人特蒙恩眷！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "但愿各民、各族、各方，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "哦，主耶稣，你是那人─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神来联于人类；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你穿上了血肉之体，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "取了卑微地位。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如今你得主宰权柄，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀为你冠冕，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你将万有服你脚下，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借你‘身体’掌权。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你经过了道成肉身、"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "受死、复活、升天，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主权、元首、"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "国度、身体，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一一你都成全。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借着这些神圣工作，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你建立了赞美，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们的心喜乐满溢，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞美惟你是配。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有福之日不久将到，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "万口莫不同唱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但在地方召会之中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们先有豫尝！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，主耶和华，你的名"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在全地何其美！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但愿各民、各族、各方，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "宣扬你名宝贝。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "宣扬你名宝贝。"
+            }
+          ]
         }
       ]
     }
@@ -410,7 +430,16 @@
   "metadata": {
     "category": "赞美的话",
     "time": "4/2",
-    "hymn_code": "513331355553222123"
+    "hymn_code": "513331355553222123",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1097",
+        "language": "cn",
+        "category": "h",
+        "number": "1097",
+        "title": "E1097"
+      }
+    ]
   },
   "raw_sections": [
     "主 耶和 華，",

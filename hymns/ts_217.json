@@ -1,348 +1,368 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/217",
   "title": "随流都必活",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "來， 我 們 來，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "來， 我 們 來，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "到 神 殿 裡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "到 神 殿 裡"
+            },
+            {
+              "chord": "Em",
+              "text": "來； 我"
+            },
+            {
+              "chord": "",
+              "text": "們 來，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "來； 我"
+          "segments": [
+            {
+              "chord": "Em7",
+              "text": "從 神"
+            },
+            {
+              "chord": "",
+              "text": "殿"
+            },
+            {
+              "chord": "A7",
+              "text": "有 水"
+            },
+            {
+              "chord": "",
+              "text": "流 出"
+            },
+            {
+              "chord": "D",
+              "text": "來。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "們 來，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em7",
-          "text": "從 神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "這 水 流， 在 殿 右，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "殿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "晝 夜 湧 流"
+            },
+            {
+              "chord": "G",
+              "text": "著，"
+            },
+            {
+              "chord": "Em",
+              "text": "滋 潤"
+            },
+            {
+              "chord": "",
+              "text": "我 們，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "有 水"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "結 出"
+            },
+            {
+              "chord": "G",
+              "text": "生 命"
+            },
+            {
+              "chord": "D",
+              "text": "的"
+            },
+            {
+              "chord": "A7",
+              "text": "美"
+            },
+            {
+              "chord": "D",
+              "text": "果。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "从这殿，从这殿，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "流 出"
+          "segments": [
+            {
+              "chord": "",
+              "text": "涌出这水流，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "來。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "這 水 流， 在 殿 右，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "晝 夜 湧 流"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从这殿到全地，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "著，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生命在涌流，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "滋 潤"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿这水流加深，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 們，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "結 出"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，听我们求，我们就必"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "被你量过并占有。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "量我们，量我们，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天天量又量，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "美"
+          "segments": [
+            {
+              "chord": "",
+              "text": "量我们，量更多，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "果。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一直量又量，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到我们看见"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "水流成江河，流通全地，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "使人全被主点活。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "从这殿，从这殿，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "领我们，领我们，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "从水流经过，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "领我们从水流，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "经过再经过，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "水流一直涨高，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "成可洑的水，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们被浸透，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "永远享神恩惠。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "涌出这水流，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "都必活，都必活，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "从这殿到全地，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "随流都必活，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "生命在涌流，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "都必活，真正活，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "愿这水流加深，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "百物随流活，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "主，听我们求，我们就必"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿这水流带来"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "被你量过并占有。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "丰盛的生命，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "量我们，量我们，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到众召会"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "天天量又量，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "量我们，量更多，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一直量又量，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到我们看见"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "水流成江河，流通全地，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使人全被主点活。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "领我们，领我们，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从水流经过，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "领我们从水流，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "经过再经过，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "水流一直涨高，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "成可洑的水，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们被浸透，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永远享神恩惠。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "都必活，都必活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "随流都必活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "都必活，真正活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "百物随流活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿这水流带来"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "丰盛的生命，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到众召会"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在全地都显明。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在全地都显明。"
+            }
+          ]
         }
       ]
     }
@@ -350,7 +370,16 @@
   "metadata": {
     "category": "享受基督",
     "time": "4/4",
-    "hymn_code": "33333331432"
+    "hymn_code": "33333331432",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1115",
+        "language": "cn",
+        "category": "h",
+        "number": "1115",
+        "title": "E1115"
+      }
+    ]
   },
   "raw_sections": [
     "我 們來， 我 們 來，",

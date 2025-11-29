@@ -1,220 +1,240 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/322",
   "title": "我今是单纯敞开我心",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "我 今"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我 今"
+            },
+            {
+              "chord": "",
+              "text": "是"
+            },
+            {
+              "chord": "D7",
+              "text": "單 純"
+            },
+            {
+              "chord": "",
+              "text": "敞 開"
+            },
+            {
+              "chord": "G",
+              "text": "我 心，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主"
+            },
+            {
+              "chord": "C",
+              "text": "耶 穌"
+            },
+            {
+              "chord": "D",
+              "text": "來 進"
+            },
+            {
+              "chord": "",
+              "text": "入，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "單 純"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "G",
+              "text": "今 是"
+            },
+            {
+              "chord": "D7",
+              "text": "單 純"
+            },
+            {
+              "chord": "",
+              "text": "敞 開"
+            },
+            {
+              "chord": "G",
+              "text": "我 心，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "敞 開"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主"
+            },
+            {
+              "chord": "C",
+              "text": "耶 穌"
+            },
+            {
+              "chord": "D7",
+              "text": "來 進"
+            },
+            {
+              "chord": "G",
+              "text": "入。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我只望单单纯纯爱你，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "我 心，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "求你住我心内。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "耶 穌"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我只望单单纯纯爱你，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "來 進"
+          "segments": [
+            {
+              "chord": "",
+              "text": "求你住我心内。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主你是活活泼泼人位，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "入，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "时刻活在我里。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "今 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主你是活活泼泼人位，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "單 純"
+          "segments": [
+            {
+              "chord": "",
+              "text": "时刻活在我里。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "现在我在灵中享受你，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "敞 開"
+          "segments": [
+            {
+              "chord": "",
+              "text": "借你生命而活。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "我 心，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "现在我在灵中享受你，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "耶 穌"
+          "segments": [
+            {
+              "chord": "",
+              "text": "借你生命而活。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "安息的‘阿们’你，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "來 進"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主耶稣，你占有我全人。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "入。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "安息的‘阿们’你，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我只望单单纯纯爱你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "求你住我心内。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我只望单单纯纯爱你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "求你住我心内。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主你是活活泼泼人位，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "时刻活在我里。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主你是活活泼泼人位，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "时刻活在我里。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "现在我在灵中享受你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借你生命而活。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "现在我在灵中享受你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借你生命而活。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "安息的‘阿们’你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主耶稣，你占有我全人。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "安息的‘阿们’你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主耶稣，你占有我全人。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主耶稣，你占有我全人。"
+            }
+          ]
         }
       ]
     }

@@ -1,304 +1,316 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/620",
   "title": "父使我们成为一",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "讚 美"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "讚 美"
+            },
+            {
+              "chord": "",
+              "text": "父 神 是 生"
+            },
+            {
+              "chord": "G",
+              "text": "命 源"
+            },
+            {
+              "chord": "C",
+              "text": "頭，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "父 神 是 生"
+          "segments": [
+            {
+              "chord": "F",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "在 你 寶 貴"
+            },
+            {
+              "chord": "C",
+              "text": "名 裏，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "命 源"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "作 你"
+            },
+            {
+              "chord": "G7",
+              "text": "眾 子"
+            },
+            {
+              "chord": "",
+              "text": "來 彰"
+            },
+            {
+              "chord": "C",
+              "text": "顯 你。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "頭，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "讚 美"
+            },
+            {
+              "chord": "F",
+              "text": "父 神"
+            },
+            {
+              "chord": "",
+              "text": "是 生"
+            },
+            {
+              "chord": "G",
+              "text": "命"
+            },
+            {
+              "chord": "G7",
+              "text": "源"
+            },
+            {
+              "chord": "C",
+              "text": "頭。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在 生 命"
+            },
+            {
+              "chord": "C7",
+              "text": "裏， 在"
+            },
+            {
+              "chord": "",
+              "text": "生"
+            },
+            {
+              "chord": "F",
+              "text": "命 裏，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在 父"
+            },
+            {
+              "chord": "C",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "裏 我 們 是"
+            },
+            {
+              "chord": "G",
+              "text": "一。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G7",
+              "text": "在 生"
+            },
+            {
+              "chord": "C",
+              "text": "命"
+            },
+            {
+              "chord": "C7",
+              "text": "裏， 在"
+            },
+            {
+              "chord": "",
+              "text": "生"
+            },
+            {
+              "chord": "F",
+              "text": "命 裏，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在 父"
+            },
+            {
+              "chord": "C",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "裏 我"
+            },
+            {
+              "chord": "G7",
+              "text": "們 是"
+            },
+            {
+              "chord": "C",
+              "text": "一。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "F",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "感谢父借你宝贵圣言，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "在 你 寶 貴"
+          "segments": [
+            {
+              "chord": "",
+              "text": "用你性情浸透我们，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "名 裏，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "分别我们脱离俗尘。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "感谢父赐你宝贵圣言。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "借你圣言，借你圣言，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "借你圣言我们成为一。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "借你圣言，借你圣言，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "借你圣言我们成为一。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "作 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，三一神的神圣荣耀！"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "眾 子"
+          "segments": [
+            {
+              "chord": "",
+              "text": "众子得享何等福分！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "來 彰"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神的荣耀彰显无尽─。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "顯 你。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "讚 美"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦三一神的神圣荣耀！"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "父 神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在荣耀里，在荣耀里，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "是 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在你荣耀里我们是一。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在荣耀里，在荣耀里，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "源"
-        },
-        {
-          "chord": "C",
-          "text": "頭。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在 生 命"
-        },
-        {
-          "chord": "C7",
-          "text": "裏， 在"
-        },
-        {
-          "chord": "",
-          "text": "生"
-        },
-        {
-          "chord": "F",
-          "text": "命 裏，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在 父"
-        },
-        {
-          "chord": "C",
-          "text": "生 命"
-        },
-        {
-          "chord": "",
-          "text": "裏 我 們 是"
-        },
-        {
-          "chord": "G",
-          "text": "一。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G7",
-          "text": "在 生"
-        },
-        {
-          "chord": "C",
-          "text": "命"
-        },
-        {
-          "chord": "C7",
-          "text": "裏， 在"
-        },
-        {
-          "chord": "",
-          "text": "生"
-        },
-        {
-          "chord": "F",
-          "text": "命 裏，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在 父"
-        },
-        {
-          "chord": "C",
-          "text": "生 命"
-        },
-        {
-          "chord": "",
-          "text": "裏 我"
-        },
-        {
-          "chord": "G7",
-          "text": "們 是"
-        },
-        {
-          "chord": "C",
-          "text": "一。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "感谢父借你宝贵圣言，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "用你性情浸透我们，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "分别我们脱离俗尘。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "感谢父赐你宝贵圣言。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借你圣言，借你圣言，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借你圣言我们成为一。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借你圣言，借你圣言，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借你圣言我们成为一。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，三一神的神圣荣耀！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "众子得享何等福分！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神的荣耀彰显无尽─。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦三一神的神圣荣耀！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在荣耀里，在荣耀里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在你荣耀里我们是一。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在荣耀里，在荣耀里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在荣耀里我们成为一。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在荣耀里我们成为一。"
+            }
+          ]
         }
       ]
     }
@@ -306,7 +318,16 @@
   "metadata": {
     "category": "建造与合一",
     "time": "4/4",
-    "hymn_code": "33333352366666665"
+    "hymn_code": "33333352366666665",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1081",
+        "language": "cn",
+        "category": "h",
+        "number": "1081",
+        "title": "E1081"
+      }
+    ]
   },
   "raw_sections": [
     "讚 美父 神 是 生命 源頭，",

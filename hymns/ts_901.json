@@ -1,684 +1,740 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/901",
   "title": "主要再临",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "末 期"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "末 期"
+            },
+            {
+              "chord": "",
+              "text": "豫 兆 在 指"
+            },
+            {
+              "chord": "A7",
+              "text": "明，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "豫 兆 在 指"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基 督 快 要 再 降"
+            },
+            {
+              "chord": "D",
+              "text": "臨，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "明，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基 督 快 要 再 降"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "豫 備 當 儆"
+            },
+            {
+              "chord": "C",
+              "text": "醒─"
+            },
+            {
+              "chord": "G",
+              "text": "恩"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "臨，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主 耶"
+            },
+            {
+              "chord": "D7",
+              "text": "穌 要"
+            },
+            {
+              "chord": "",
+              "text": "再"
+            },
+            {
+              "chord": "G",
+              "text": "臨！ 主"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要 再"
+            },
+            {
+              "chord": "Am",
+              "text": "臨， 主"
+            },
+            {
+              "chord": "",
+              "text": "要 再"
+            },
+            {
+              "chord": "Bm",
+              "text": "臨，"
+            },
+            {
+              "chord": "Em",
+              "text": "時"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "豫 備 當 儆"
+          "segments": [
+            {
+              "chord": "",
+              "text": "間 飛 逝"
+            },
+            {
+              "chord": "Am",
+              "text": "不 稍"
+            },
+            {
+              "chord": "",
+              "text": "等， 不"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "醒─"
+          "segments": [
+            {
+              "chord": "",
+              "text": "久 即 聞 半"
+            },
+            {
+              "chord": "Bm",
+              "text": "夜 喊"
+            },
+            {
+              "chord": "",
+              "text": "聲！"
+            },
+            {
+              "chord": "G",
+              "text": "主"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "恩"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主 耶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要 再"
+            },
+            {
+              "chord": "Am",
+              "text": "臨， 主"
+            },
+            {
+              "chord": "",
+              "text": "要 再"
+            },
+            {
+              "chord": "Bm",
+              "text": "臨，"
+            },
+            {
+              "chord": "G",
+              "text": "我"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "穌 要"
+          "segments": [
+            {
+              "chord": "",
+              "text": "們 須"
+            },
+            {
+              "chord": "G7",
+              "text": "豫 備"
+            },
+            {
+              "chord": "",
+              "text": "像"
+            },
+            {
+              "chord": "C",
+              "text": "聰 明"
+            },
+            {
+              "chord": "",
+              "text": "童 女，"
+            },
+            {
+              "chord": "D",
+              "text": "恩"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "再"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主 耶"
+            },
+            {
+              "chord": "D7",
+              "text": "穌 要"
+            },
+            {
+              "chord": "",
+              "text": "再"
+            },
+            {
+              "chord": "G",
+              "text": "臨！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "当从魂和你自己，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "臨！ 主"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要 再"
+          "segments": [
+            {
+              "chord": "",
+              "text": "转眼望主不稍离，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "臨， 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "没有时间再迟疑─"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "要 再"
+          "segments": [
+            {
+              "chord": "",
+              "text": "恩主耶稣要再临！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主要再临，主要再临，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "臨，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "时间飞逝不稍等，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "時"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "間 飛 逝"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不久即闻半夜喊声！"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "不 稍"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主要再临，主要再临，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "等， 不"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "久 即 聞 半"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们须豫备像聪明童女，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "夜 喊"
+          "segments": [
+            {
+              "chord": "",
+              "text": "恩主耶稣要再临！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "愚拙童女恋世界，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "聲！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "到主来时才发觉，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "主"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要 再"
+          "segments": [
+            {
+              "chord": "",
+              "text": "器皿里面油空缺─"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "臨， 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "恩主耶稣要再临！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主要再临，主要再临，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "要 再"
+          "segments": [
+            {
+              "chord": "",
+              "text": "时间飞逝不稍等，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "臨，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不久即闻半夜喊声！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "我"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "們 須"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主要再临，主要再临，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "豫 備"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们须豫备像聪明童女，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "像"
+          "segments": [
+            {
+              "chord": "",
+              "text": "恩主耶稣要再临！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "聪明童女常殷勤，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "聰 明"
+          "segments": [
+            {
+              "chord": "",
+              "text": "世界的酒不醉饮，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "童 女，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "她们发光，灵充盈─"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "恩"
+          "segments": [
+            {
+              "chord": "",
+              "text": "恩主耶稣要再临！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "主 耶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主要再临，主要再临，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "穌 要"
+          "segments": [
+            {
+              "chord": "",
+              "text": "时间飞逝不稍等，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "再"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不久即闻半夜喊声！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "臨！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主要再临，主要再临，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们须豫备像聪明童女，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "恩主耶稣要再临！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "当从魂和你自己，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们出去迎新郎，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "必须将灯修明亮，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "也须买油免灯暗─"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "恩主耶稣要再临！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "转眼望主不稍离，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主要再临，主要再临，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "时间飞逝不稍等，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不久即闻半夜喊声！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主要再临，主要再临，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们须豫备像聪明童女，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "恩主耶稣要再临！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "没有时间再迟疑─"
+          "segments": [
+            {
+              "chord": "",
+              "text": "聪明童女都进去，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "作祂新妇同坐席，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "门向她们不关闭─"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "恩主耶稣要再临！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "恩主耶稣要再临！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主要再临，主要再临，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "时间飞逝不稍等，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不久即闻半夜喊声！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主要再临，主要再临，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们须豫备像聪明童女，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "恩主耶稣要再临！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "主要再临，主要再临，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主今就在归途中，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "无人知道那点钟，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "儆醒与主时交通─"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "恩主耶稣要再临！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "时间飞逝不稍等，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "主要再临，主要再临，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "不久即闻半夜喊声！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "时间飞逝不稍等，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "主要再临，主要再临，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "不久即闻半夜喊声！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我们须豫备像聪明童女，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "主要再临，主要再临，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "恩主耶稣要再临！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们须豫备像聪明童女，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "愚拙童女恋世界，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "到主来时才发觉，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "器皿里面油空缺─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "恩主耶稣要再临！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主要再临，主要再临，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "时间飞逝不稍等，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不久即闻半夜喊声！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主要再临，主要再临，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们须豫备像聪明童女，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "恩主耶稣要再临！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "聪明童女常殷勤，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "世界的酒不醉饮，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "她们发光，灵充盈─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "恩主耶稣要再临！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主要再临，主要再临，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "时间飞逝不稍等，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不久即闻半夜喊声！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主要再临，主要再临，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们须豫备像聪明童女，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "恩主耶稣要再临！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们出去迎新郎，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "必须将灯修明亮，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "也须买油免灯暗─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "恩主耶稣要再临！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主要再临，主要再临，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "时间飞逝不稍等，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不久即闻半夜喊声！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主要再临，主要再临，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们须豫备像聪明童女，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "恩主耶稣要再临！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "聪明童女都进去，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作祂新妇同坐席，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "门向她们不关闭─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "恩主耶稣要再临！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主要再临，主要再临，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "时间飞逝不稍等，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不久即闻半夜喊声！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主要再临，主要再临，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们须豫备像聪明童女，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "恩主耶稣要再临！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主今就在归途中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "无人知道那点钟，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "儆醒与主时交通─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "恩主耶稣要再临！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主要再临，主要再临，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "时间飞逝不稍等，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不久即闻半夜喊声！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主要再临，主要再临，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们须豫备像聪明童女，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "恩主耶稣要再临！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "恩主耶稣要再临！"
+            }
+          ]
         }
       ]
     }
@@ -686,7 +742,16 @@
   "metadata": {
     "category": "盼望与豫备",
     "time": "6/4",
-    "hymn_code": "17654562176567"
+    "hymn_code": "17654562176567",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1302",
+        "language": "cn",
+        "category": "h",
+        "number": "1302",
+        "title": "E1302"
+      }
+    ]
   },
   "raw_sections": [
     "末 期豫 兆 在 指明，",

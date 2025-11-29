@@ -1,212 +1,216 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/531",
   "title": "我们在流中",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "在 流 中，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "在 流 中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "我 們"
+            },
+            {
+              "chord": "D",
+              "text": "在 流"
+            },
+            {
+              "chord": "",
+              "text": "中！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "在 流"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，"
+            },
+            {
+              "chord": "Em",
+              "text": "阿 利"
+            },
+            {
+              "chord": "",
+              "text": "路"
+            },
+            {
+              "chord": "A7",
+              "text": "亞，"
+            },
+            {
+              "chord": "D",
+              "text": "在 流"
+            },
+            {
+              "chord": "",
+              "text": "中！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "中！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們 在 流 中，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "阿 利"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "我 們"
+            },
+            {
+              "chord": "D",
+              "text": "在 流"
+            },
+            {
+              "chord": "",
+              "text": "中！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "路"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，"
+            },
+            {
+              "chord": "Em",
+              "text": "阿 利"
+            },
+            {
+              "chord": "",
+              "text": "路"
+            },
+            {
+              "chord": "A7",
+              "text": "亞，"
+            },
+            {
+              "chord": "D",
+              "text": "在 流"
+            },
+            {
+              "chord": "",
+              "text": "中！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "亞，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦， 讚 美 主，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "在 流"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們"
+            },
+            {
+              "chord": "Em",
+              "text": "在 流"
+            },
+            {
+              "chord": "",
+              "text": "中！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "中！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們 在 流 中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，"
+            },
+            {
+              "chord": "A7",
+              "text": "阿 利"
+            },
+            {
+              "chord": "",
+              "text": "路 亞，"
+            },
+            {
+              "chord": "D",
+              "text": "在 流"
+            },
+            {
+              "chord": "",
+              "text": "中！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "在 流"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦， 讚 美 主，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "中！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "我 們"
+            },
+            {
+              "chord": "D",
+              "text": "在 流"
+            },
+            {
+              "chord": "",
+              "text": "中！"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "阿 利"
-        },
-        {
-          "chord": "",
-          "text": "路"
-        },
-        {
-          "chord": "A7",
-          "text": "亞，"
-        },
-        {
-          "chord": "D",
-          "text": "在 流"
-        },
-        {
-          "chord": "",
-          "text": "中！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦， 讚 美 主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們"
-        },
-        {
-          "chord": "Em",
-          "text": "在 流"
-        },
-        {
-          "chord": "",
-          "text": "中！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，"
-        },
-        {
-          "chord": "A7",
-          "text": "阿 利"
-        },
-        {
-          "chord": "",
-          "text": "路 亞，"
-        },
-        {
-          "chord": "D",
-          "text": "在 流"
-        },
-        {
-          "chord": "",
-          "text": "中！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦， 讚 美 主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "我 們"
-        },
-        {
-          "chord": "D",
-          "text": "在 流"
-        },
-        {
-          "chord": "",
-          "text": "中！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，"
-        },
-        {
-          "chord": "Em",
-          "text": "阿 利"
-        },
-        {
-          "chord": "",
-          "text": "路"
-        },
-        {
-          "chord": "A7",
-          "text": "亞，"
-        },
-        {
-          "chord": "G",
-          "text": "在 流"
-        },
-        {
-          "chord": "D",
-          "text": "中。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，"
+            },
+            {
+              "chord": "Em",
+              "text": "阿 利"
+            },
+            {
+              "chord": "",
+              "text": "路"
+            },
+            {
+              "chord": "A7",
+              "text": "亞，"
+            },
+            {
+              "chord": "G",
+              "text": "在 流"
+            },
+            {
+              "chord": "D",
+              "text": "中。"
+            }
+          ]
         }
       ]
     }
@@ -214,7 +218,16 @@
   "metadata": {
     "category": "教会的异象",
     "time": "3/4",
-    "hymn_code": "551112233332347211"
+    "hymn_code": "551112233332347211",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6531",
+        "language": "cn",
+        "category": "h",
+        "number": "6531",
+        "title": "E6531"
+      }
+    ]
   },
   "raw_sections": [
     "我 們在 流 中，",

@@ -1,312 +1,344 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/307",
   "title": "我何等爱耶稣",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "有 一"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "有 一"
+            },
+            {
+              "chord": "",
+              "text": "個 名 我 愛 聽 見，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "個 名 我 愛 聽 見，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "A",
+              "text": "愛 唱"
+            },
+            {
+              "chord": "A7",
+              "text": "祂 價"
+            },
+            {
+              "chord": "D",
+              "text": "值；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "愛 唱"
+          "segments": [
+            {
+              "chord": "",
+              "text": "猶 如 音 樂 美 妙 甘 甜，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "祂 價"
+          "segments": [
+            {
+              "chord": "",
+              "text": "地"
+            },
+            {
+              "chord": "A",
+              "text": "上 無"
+            },
+            {
+              "chord": "A7",
+              "text": "名 如"
+            },
+            {
+              "chord": "D",
+              "text": "此。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 何 等 愛 耶 穌，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "值；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "猶 如 音 樂 美 妙 甘 甜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "地"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "我"
+            },
+            {
+              "chord": "A7",
+              "text": "何 等"
+            },
+            {
+              "chord": "",
+              "text": "愛"
+            },
+            {
+              "chord": "D",
+              "text": "耶 穌，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "上 無"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 何 等 愛 耶 穌，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "名 如"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因"
+            },
+            {
+              "chord": "A",
+              "text": "為 祂"
+            },
+            {
+              "chord": "A7",
+              "text": "先 愛"
+            },
+            {
+              "chord": "D",
+              "text": "我。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "这名说出救主的爱，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "此。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 何 等 愛 耶 穌，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂死使我自由；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "何 等"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂的宝血已流出来，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神前说出美言。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我何等爱耶稣，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "耶 穌，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 何 等 愛 耶 穌，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我何等爱耶稣，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "為 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我何等爱耶稣，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "先 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因为祂先爱我。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "这名说出我父为我，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "每日所有部署；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "眼前道路虽然阴暗，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阳光终必照出！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "这名说出救主的爱，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我何等爱耶稣，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我何等爱耶稣，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我何等爱耶稣，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "因为祂先爱我。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "祂死使我自由；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "这名说出祂心有爱，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "知我深处愁苦；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "每一忧伤祂都担代，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "地上无人同负。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "祂的宝血已流出来，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我何等爱耶稣，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "神前说出美言。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我何等爱耶稣，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我何等爱耶稣，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我何等爱耶稣，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我何等爱耶稣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我何等爱耶稣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因为祂先爱我。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "这名说出我父为我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "每日所有部署；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "眼前道路虽然阴暗，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阳光终必照出！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我何等爱耶稣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我何等爱耶稣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我何等爱耶稣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因为祂先爱我。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "这名说出祂心有爱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "知我深处愁苦；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "每一忧伤祂都担代，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "地上无人同负。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我何等爱耶稣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我何等爱耶稣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我何等爱耶稣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因为祂先爱我。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因为祂先爱我。"
+            }
+          ]
         }
       ]
     }
@@ -314,7 +346,16 @@
   "metadata": {
     "category": "爱慕耶稣",
     "time": "6/8",
-    "hymn_code": "13332311112221235"
+    "hymn_code": "13332311112221235",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/70",
+        "language": "cn",
+        "category": "h",
+        "number": "70",
+        "title": "E70"
+      }
+    ]
   },
   "raw_sections": [
     "有 一個 名 我 愛 聽 見，",

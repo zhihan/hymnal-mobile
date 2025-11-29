@@ -1,344 +1,356 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/840",
   "title": "大好信息",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "聽！ 大"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "聽！ 大"
+            },
+            {
+              "chord": "",
+              "text": "好 信 息，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "好 信 息，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "驚 天"
+          "segments": [
+            {
+              "chord": "",
+              "text": "驚 天"
+            },
+            {
+              "chord": "D",
+              "text": "又 動"
+            },
+            {
+              "chord": "",
+              "text": "地，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "又 動"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 是"
+            },
+            {
+              "chord": "D7",
+              "text": "神 容"
+            },
+            {
+              "chord": "",
+              "text": "器，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "地，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "為 裝"
+            },
+            {
+              "chord": "G",
+              "text": "祂 自"
+            },
+            {
+              "chord": "",
+              "text": "己，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "神 容"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 不 僅 造 了"
+            },
+            {
+              "chord": "G7",
+              "text": "你，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "器，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "為 裝"
+          "segments": [
+            {
+              "chord": "",
+              "text": "更 要"
+            },
+            {
+              "chord": "C",
+              "text": "來 充"
+            },
+            {
+              "chord": "",
+              "text": "滿"
+            },
+            {
+              "chord": "Am",
+              "text": "你，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "祂 自"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作 你"
+            },
+            {
+              "chord": "D",
+              "text": "生 命"
+            },
+            {
+              "chord": "D7",
+              "text": "住 你"
+            },
+            {
+              "chord": "G",
+              "text": "裡；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "己，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 不 僅 造 了"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使 你 享 受"
+            },
+            {
+              "chord": "D",
+              "text": "祂 實"
+            },
+            {
+              "chord": "",
+              "text": "際，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "更 要"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "使 你"
+            },
+            {
+              "chord": "",
+              "text": "人 生"
+            },
+            {
+              "chord": "G",
+              "text": "變 美"
+            },
+            {
+              "chord": "",
+              "text": "麗，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "來 充"
+          "segments": [
+            {
+              "chord": "G7",
+              "text": "使 你"
+            },
+            {
+              "chord": "",
+              "text": "活 著"
+            },
+            {
+              "chord": "C",
+              "text": "滿 意"
+            },
+            {
+              "chord": "Am",
+              "text": "義，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "滿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只 要"
+            },
+            {
+              "chord": "D",
+              "text": "你"
+            },
+            {
+              "chord": "D7",
+              "text": "願"
+            },
+            {
+              "chord": "G",
+              "text": "意。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "过去永远里祂早拣选你，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因爱的催逼为你亲来地，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "十架上被举起，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "住 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "经死亡祂复起，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "裡；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使 你 享 受"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今特地来寻找你；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "祂 實"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要将活神带给你，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "際，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "使 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要将生命分给你，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "人 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要将恩典赐给你，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "變 美"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使你心满意！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "当你有了祂─"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "麗，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G7",
-          "text": "使 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "三一神自己，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "活 著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你全人会有生命的奇迹："
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "滿 意"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你灵会有活力，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "義，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只 要"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你魂会真欢喜，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你身安居指望里；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "願"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只要将心全开启，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "意。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "只要主名一呼吸，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "过去永远里祂早拣选你，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "只要一刹那而已，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "因爱的催逼为你亲来地，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "十架上被举起，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "经死亡祂复起，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今特地来寻找你；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要将活神带给你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要将生命分给你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要将恩典赐给你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使你心满意！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当你有了祂─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "三一神自己，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你全人会有生命的奇迹："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你灵会有活力，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你魂会真欢喜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你身安居指望里；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只要将心全开启，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只要主名一呼吸，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只要一刹那而已，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂、你就是一！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂、你就是一！"
+            }
+          ]
         }
       ]
     }
@@ -346,7 +358,16 @@
   "metadata": {
     "category": "事奉与福音",
     "time": "4/4",
-    "hymn_code": "34531211772342717655"
+    "hymn_code": "34531211772342717655",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/434",
+        "language": "cn",
+        "category": "ns",
+        "number": "434",
+        "title": "NS434"
+      }
+    ]
   },
   "raw_sections": [
     "聽！ 大好 信 息，",

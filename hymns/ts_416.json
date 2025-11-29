@@ -1,340 +1,360 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/416",
   "title": "同环绕施恩座",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "同 環"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "同 環"
+            },
+            {
+              "chord": "",
+              "text": "繞 施 恩"
+            },
+            {
+              "chord": "D",
+              "text": "座，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "繞 施 恩"
+          "segments": [
+            {
+              "chord": "",
+              "text": "這"
+            },
+            {
+              "chord": "Em",
+              "text": "是 天"
+            },
+            {
+              "chord": "D",
+              "text": "來 佳"
+            },
+            {
+              "chord": "G",
+              "text": "音。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "座，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "這"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們 在 至 聖"
+            },
+            {
+              "chord": "D",
+              "text": "所，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "是 天"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享"
+            },
+            {
+              "chord": "Em",
+              "text": "受 完"
+            },
+            {
+              "chord": "D",
+              "text": "全 救"
+            },
+            {
+              "chord": "G",
+              "text": "恩。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "來 佳"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在 靈 裡 面 一"
+            },
+            {
+              "chord": "C",
+              "text": "同 相"
+            },
+            {
+              "chord": "",
+              "text": "聚，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "音。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們 在 至 聖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享"
+            },
+            {
+              "chord": "Am",
+              "text": "受 基"
+            },
+            {
+              "chord": "D",
+              "text": "督 直"
+            },
+            {
+              "chord": "Em",
+              "text": "到 永"
+            },
+            {
+              "chord": "G",
+              "text": "遠，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "所，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享"
+            },
+            {
+              "chord": "C",
+              "text": "受 基"
+            },
+            {
+              "chord": "",
+              "text": "督 直"
+            },
+            {
+              "chord": "Am",
+              "text": "到"
+            },
+            {
+              "chord": "D7",
+              "text": "永"
+            },
+            {
+              "chord": "G",
+              "text": "遠。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "享"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同奔入至圣所，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "受 完"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直达施恩宝座；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "全 救"
+          "segments": [
+            {
+              "chord": "",
+              "text": "开始于外院子，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "恩。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在 靈 裡 面 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "也经过了圣所。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "同 相"
+          "segments": [
+            {
+              "chord": "",
+              "text": "世界丢弃，罪恶消除，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "聚，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享"
+          "segments": [
+            {
+              "chord": "",
+              "text": "进入幔内，与神同住。"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "受 基"
+          "segments": [
+            {
+              "chord": "",
+              "text": "（重复末句，下同）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "赎罪祭已成了，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "督 直"
+          "segments": [
+            {
+              "chord": "",
+              "text": "亚伦早已过时；"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "到 永"
+          "segments": [
+            {
+              "chord": "",
+              "text": "照着麦基洗德，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "遠，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督作大祭司。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "受 基"
+          "segments": [
+            {
+              "chord": "",
+              "text": "更美之约，更美职事，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "督 直"
+          "segments": [
+            {
+              "chord": "",
+              "text": "以饼和酒，供应扶持。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督远在天上，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "到"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我今地上居住；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "永"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如何能接触神？"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "遠。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "灵是惟一通路。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在我灵里联着三者─"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "神与宝座并至圣所。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "同奔入至圣所，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们是团体人，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "直达施恩宝座；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "非流荡基督徒；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "开始于外院子，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "只要投入身体，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "也经过了圣所。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "勿再单独思虑。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "世界丢弃，罪恶消除，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "每逢聚集，一同敞开，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "进入幔内，与神同住。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "（重复末句，下同）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赎罪祭已成了，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "亚伦早已过时；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "照着麦基洗德，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督作大祭司。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "更美之约，更美职事，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "以饼和酒，供应扶持。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督远在天上，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我今地上居住；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如何能接触神？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "灵是惟一通路。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在我灵里联着三者─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神与宝座并至圣所。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们是团体人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "非流荡基督徒；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只要投入身体，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "勿再单独思虑。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "每逢聚集，一同敞开，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "环绕宝座，赞美敬拜。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "环绕宝座，赞美敬拜。"
+            }
+          ]
         }
       ]
     }
@@ -342,7 +362,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "4/4",
-    "hymn_code": "111565512321"
+    "hymn_code": "111565512321",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1209",
+        "language": "cn",
+        "category": "h",
+        "number": "1209",
+        "title": "E1209"
+      }
+    ]
   },
   "raw_sections": [
     "同 環繞 施 恩座，",

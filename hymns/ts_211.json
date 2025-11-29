@@ -1,388 +1,428 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/211",
   "title": "人活着不是单靠食物",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "經 上"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "經 上"
+            },
+            {
+              "chord": "A",
+              "text": "記 著："
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "記 著："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Bm",
-          "text": "人 活"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "人 活"
+            },
+            {
+              "chord": "",
+              "text": "著"
+            },
+            {
+              "chord": "D",
+              "text": "不"
+            },
+            {
+              "chord": "G",
+              "text": "是 單"
+            },
+            {
+              "chord": "D",
+              "text": "靠 食"
+            },
+            {
+              "chord": "Em",
+              "text": "物，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "著"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "乃"
+            },
+            {
+              "chord": "D",
+              "text": "是 靠"
+            },
+            {
+              "chord": "",
+              "text": "著"
+            },
+            {
+              "chord": "A",
+              "text": "神 口"
+            },
+            {
+              "chord": "",
+              "text": "裡"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "不"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "所 出"
+            },
+            {
+              "chord": "",
+              "text": "的"
+            },
+            {
+              "chord": "D",
+              "text": "一"
+            },
+            {
+              "chord": "G",
+              "text": "切 話。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "是 單"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "阿"
+            },
+            {
+              "chord": "G",
+              "text": "利"
+            },
+            {
+              "chord": "A",
+              "text": "路"
+            },
+            {
+              "chord": "D",
+              "text": "亞！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！阿利路亚！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "靠 食"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！阿们，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "物，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A7",
-          "text": "乃"
+          "segments": [
+            {
+              "chord": "",
+              "text": "叫人活着的是灵，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "是 靠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "肉体是无益的；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我对你们说的话，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "神 口"
+          "segments": [
+            {
+              "chord": "",
+              "text": "就是灵、是生命。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "裡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "（约六63）"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Bm",
-          "text": "所 出"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！阿利路亚！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！阿们，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我得着你的言语，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "切 話。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "阿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "就当食物吃了。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "利"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你的话在我心中，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "路"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是我欢喜快乐。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "亞！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "（耶十五16）"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "阿利路亚！阿利路亚！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！阿利路亚！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！阿们，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "阿利路亚！阿们，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要拿着灵的宝剑，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "这灵是神的话─"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "借着多方的祷告，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "每次都在灵里。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "（弗六17～18）"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "阿利路亚！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！阿利路亚！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！阿们，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "叫人活着的是灵，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要借着话里的水，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "来把召会洗净，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "成为圣洁，献给主，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "作荣耀的召会。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "（弗五26～27）"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "肉体是无益的；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！阿利路亚！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我对你们说的话，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！阿们，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "就是灵、是生命。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "（约六63）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！阿们，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我得着你的言语，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "就当食物吃了。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你的话在我心中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是我欢喜快乐。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "（耶十五16）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！阿们，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要拿着灵的宝剑，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "这灵是神的话─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借着多方的祷告，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "每次都在灵里。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "（弗六17～18）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！阿们，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要借着话里的水，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来把召会洗净，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "成为圣洁，献给主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作荣耀的召会。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "（弗五26～27）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！阿们，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！"
+            }
+          ]
         }
       ]
     }
@@ -390,7 +430,16 @@
   "metadata": {
     "category": "享受基督",
     "time": "4/4",
-    "hymn_code": "334532161234543432"
+    "hymn_code": "334532161234543432",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/120",
+        "language": "cn",
+        "category": "ns",
+        "number": "120",
+        "title": "NS120"
+      }
+    ]
   },
   "raw_sections": [
     "經 上記 著：",

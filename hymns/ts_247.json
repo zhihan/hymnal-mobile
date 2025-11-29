@@ -1,496 +1,520 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/247",
   "title": "在美地上经营",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "早 晨"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "早 晨"
+            },
+            {
+              "chord": "",
+              "text": "我 們 經 營，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 們 經 營，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "晌 午"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "晌 午"
+            },
+            {
+              "chord": "",
+              "text": "我 們 經 營，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 們 經 營，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "傍 晚"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "傍 晚"
+            },
+            {
+              "chord": "",
+              "text": "我 們"
+            },
+            {
+              "chord": "Em",
+              "text": "經 營，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "經 營"
+            },
+            {
+              "chord": "",
+              "text": "不 稍"
+            },
+            {
+              "chord": "D",
+              "text": "怠；"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "經 營，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "經 營"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "美 地"
+            },
+            {
+              "chord": "",
+              "text": "出 產"
+            },
+            {
+              "chord": "G7",
+              "text": "成 熟，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "不 稍"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "一 同"
+            },
+            {
+              "chord": "",
+              "text": "歡 樂"
+            },
+            {
+              "chord": "Am",
+              "text": "收 割，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "怠；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "美 地"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "每 逢"
+            },
+            {
+              "chord": "",
+              "text": "我 們"
+            },
+            {
+              "chord": "Em",
+              "text": "聚 集，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "出 產"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "禾 捆"
+            },
+            {
+              "chord": "D7",
+              "text": "都 帶"
+            },
+            {
+              "chord": "G",
+              "text": "來。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "禾 捆 都 帶"
+            },
+            {
+              "chord": "G7",
+              "text": "來，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "成 熟，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "一 同"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "禾 捆"
+            },
+            {
+              "chord": "",
+              "text": "都 帶"
+            },
+            {
+              "chord": "G",
+              "text": "來，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "歡 樂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們 喜 樂"
+            },
+            {
+              "chord": "Em",
+              "text": "滿 懷，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "收 割，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "每 逢"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "禾 捆"
+            },
+            {
+              "chord": "",
+              "text": "都 帶"
+            },
+            {
+              "chord": "D",
+              "text": "來。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "禾 捆"
+            },
+            {
+              "chord": "",
+              "text": "都 帶"
+            },
+            {
+              "chord": "G7",
+              "text": "來，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "聚 集，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "禾 捆"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "禾 捆"
+            },
+            {
+              "chord": "",
+              "text": "都 帶"
+            },
+            {
+              "chord": "G",
+              "text": "來，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "都 帶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們 喜 樂"
+            },
+            {
+              "chord": "Em",
+              "text": "滿 懷，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "來。"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "禾 捆"
+            },
+            {
+              "chord": "D7",
+              "text": "都 帶"
+            },
+            {
+              "chord": "G",
+              "text": "來。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "禾 捆 都 帶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "收割小麦、大麦，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "來，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "禾 捆"
+          "segments": [
+            {
+              "chord": "",
+              "text": "经历死与复活，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "都 帶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "虽然遭受损失，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "來，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們 喜 樂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "旧人也被埋；"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "滿 懷，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "禾 捆"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但在复活里面，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "都 帶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "经历丰盛生命。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "來。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "禾 捆"
+          "segments": [
+            {
+              "chord": "",
+              "text": "每逢我们聚集，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "都 帶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "禾捆都带来。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "禾捆都带来，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "來，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "禾 捆"
+          "segments": [
+            {
+              "chord": "",
+              "text": "禾捆都带来，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "都 帶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们喜乐满怀，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "來，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們 喜 樂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "禾捆都带来。"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "滿 懷，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "禾 捆"
+          "segments": [
+            {
+              "chord": "",
+              "text": "禾捆都带来，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "都 帶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "禾捆都带来，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "來。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们喜乐满怀，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "禾捆都带来。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "收割小麦、大麦，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "葡萄酒、无花果、"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "石榴与橄榄油，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "舒畅、甘美、"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "丰盛、高贵又可爱；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "公牛、羔羊赎罪，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "奶蜜丰富甘甜─"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "上好十分之一，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "禾捆都带来。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "经历死与复活，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "禾捆都带来，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "虽然遭受损失，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "禾捆都带来，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "旧人也被埋；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们喜乐满怀，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "但在复活里面，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "禾捆都带来。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "经历丰盛生命。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "禾捆都带来，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "每逢我们聚集，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "禾捆都带来，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "禾捆都带来。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们喜乐满怀，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "禾捆都带来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "禾捆都带来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们喜乐满怀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "禾捆都带来。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "禾捆都带来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "禾捆都带来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们喜乐满怀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "禾捆都带来。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "葡萄酒、无花果、"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "石榴与橄榄油，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "舒畅、甘美、"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "丰盛、高贵又可爱；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "公牛、羔羊赎罪，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "奶蜜丰富甘甜─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "上好十分之一，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "禾捆都带来。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "禾捆都带来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "禾捆都带来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们喜乐满怀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "禾捆都带来。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "禾捆都带来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "禾捆都带来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们喜乐满怀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "禾捆都带来。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "禾捆都带来。"
+            }
+          ]
         }
       ]
     }
@@ -498,7 +522,16 @@
   "metadata": {
     "category": "享受基督",
     "time": "4/4",
-    "hymn_code": "555653111216"
+    "hymn_code": "555653111216",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1167",
+        "language": "cn",
+        "category": "h",
+        "number": "1167",
+        "title": "E1167"
+      }
+    ]
   },
   "raw_sections": [
     "早 晨我 們 經 營，",

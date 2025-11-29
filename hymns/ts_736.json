@@ -1,408 +1,436 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/736",
   "title": "在召会中鉴赏",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Gm",
-          "text": "在 召"
+          "segments": [
+            {
+              "chord": "Gm",
+              "text": "在 召"
+            },
+            {
+              "chord": "",
+              "text": "會 中 鑑 賞，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "會 中 鑑 賞，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "你 的"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "你 的"
+            },
+            {
+              "chord": "",
+              "text": "可"
+            },
+            {
+              "chord": "Gm",
+              "text": "愛，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "可"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 美 麗 吸 引 我 們，"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "愛，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 美 麗 吸 引 我 們，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "一 同"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "一 同"
+            },
+            {
+              "chord": "",
+              "text": "追"
+            },
+            {
+              "chord": "Gm",
+              "text": "隨。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "追"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，"
+            },
+            {
+              "chord": "Cm",
+              "text": "阿 利"
+            },
+            {
+              "chord": "Gm",
+              "text": "路 亞！"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "隨。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，"
+            },
+            {
+              "chord": "Cm",
+              "text": "阿 利"
+            },
+            {
+              "chord": "Gm",
+              "text": "路 亞！"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "阿 利"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是"
+            },
+            {
+              "chord": "Cm",
+              "text": "你 吸"
+            },
+            {
+              "chord": "Gm",
+              "text": "引 我"
+            },
+            {
+              "chord": "",
+              "text": "們"
+            },
+            {
+              "chord": "D♯",
+              "text": "一"
+            },
+            {
+              "chord": "D7",
+              "text": "同 追"
+            },
+            {
+              "chord": "Gm",
+              "text": "隨。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在召会中寻到甜美的家，"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "路 亞！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在安息里"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "阿 利"
+          "segments": [
+            {
+              "chord": "",
+              "text": "喜乐的享受丰富。"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "路 亞！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦阿利路亚！"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "你 吸"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦阿利路亚！"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "引 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "安息里喜乐的享受丰富。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在召会中同心来跟随主，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到祂能因我们"
+            }
+          ]
         },
         {
-          "chord": "D♯",
-          "text": "一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "心满意足。"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "同 追"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦阿利路亚！"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "隨。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦阿利路亚！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到祂因我们心满意足。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "在召会中寻到甜美的家，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在召会中我们同是肢体，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "个个都能活泼的"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "来尽功用。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦阿利路亚！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦阿利路亚！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "个个都活泼的来尽功用。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "在安息里"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在召会中我们彼此相爱，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "个个供应生命"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在爱中建造。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦阿利路亚！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦阿利路亚！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "个个供应生命爱中建造。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "喜乐的享受丰富。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在召会中我们天天长大，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到长成"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我主丰满的身量。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦阿利路亚！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦阿利路亚！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到长成我主丰满身量。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "哦阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们所有一切都为召会，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "哦阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到荣耀的召会"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "安息里喜乐的享受丰富。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "完全显出。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在召会中同心来跟随主，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦阿利路亚！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "直到祂能因我们"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦阿利路亚！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "心满意足。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到祂因我们心满意足。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在召会中我们同是肢体，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "个个都能活泼的"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来尽功用。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "个个都活泼的来尽功用。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在召会中我们彼此相爱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "个个供应生命"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在爱中建造。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "个个供应生命爱中建造。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在召会中我们天天长大，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到长成"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我主丰满的身量。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到长成我主丰满身量。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们所有一切都为召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到荣耀的召会"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "完全显出。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到荣耀召会完全显出。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到荣耀召会完全显出。"
+            }
+          ]
         }
       ]
     }

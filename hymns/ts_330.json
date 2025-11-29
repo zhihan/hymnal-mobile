@@ -1,444 +1,460 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/330",
   "title": "让我伫立你背后",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "讓 我"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "讓 我"
+            },
+            {
+              "chord": "",
+              "text": "佇 立"
+            },
+            {
+              "chord": "G",
+              "text": "你 背"
+            },
+            {
+              "chord": "",
+              "text": "後，"
+            },
+            {
+              "chord": "D",
+              "text": "主！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "佇 立"
+          "segments": [
+            {
+              "chord": "",
+              "text": "讓 我 挨 著"
+            },
+            {
+              "chord": "G",
+              "text": "你 的"
+            },
+            {
+              "chord": "",
+              "text": "腳"
+            },
+            {
+              "chord": "D",
+              "text": "哭，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "你 背"
+          "segments": [
+            {
+              "chord": "",
+              "text": "讓 我"
+            },
+            {
+              "chord": "A",
+              "text": "頭 髮"
+            },
+            {
+              "chord": "",
+              "text": "擦 拭 你"
+            },
+            {
+              "chord": "Bm",
+              "text": "足，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "後，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "讓 我"
+            },
+            {
+              "chord": "E",
+              "text": "香 膏，"
+            },
+            {
+              "chord": "E7",
+              "text": "為 著"
+            },
+            {
+              "chord": "A",
+              "text": "你"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "主！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "讓 我 挨 著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "全 然 倒"
+            },
+            {
+              "chord": "D",
+              "text": "出。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "你 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 愛"
+            },
+            {
+              "chord": "G",
+              "text": "你！ 愛"
+            },
+            {
+              "chord": "",
+              "text": "你 主 耶"
+            },
+            {
+              "chord": "D",
+              "text": "穌！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "腳"
+          "segments": [
+            {
+              "chord": "",
+              "text": "為 你 甘 願 枉 費， 一"
+            },
+            {
+              "chord": "Bm",
+              "text": "無 所"
+            },
+            {
+              "chord": "",
+              "text": "顧。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "哭，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "讓 我"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "從 我"
+            },
+            {
+              "chord": "",
+              "text": "玉"
+            },
+            {
+              "chord": "D",
+              "text": "瓶 傾"
+            },
+            {
+              "chord": "",
+              "text": "倒 香"
+            },
+            {
+              "chord": "Bm",
+              "text": "膏，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "頭 髮"
+          "segments": [
+            {
+              "chord": "",
+              "text": "為 你"
+            },
+            {
+              "chord": "G",
+              "text": "身、 你"
+            },
+            {
+              "chord": "",
+              "text": "頭、 你 腳，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "擦 拭 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "為 你─ 摯"
+            },
+            {
+              "chord": "D",
+              "text": "愛 主，"
+            },
+            {
+              "chord": "Bm",
+              "text": "我"
+            },
+            {
+              "chord": "Em",
+              "text": "愛，"
+            },
+            {
+              "chord": "A7",
+              "text": "你 耶"
+            },
+            {
+              "chord": "D",
+              "text": "穌！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我将贵重膏油取出，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "足，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "讓 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "膏抹我所至爱的主；"
+            }
+          ]
         },
         {
-          "chord": "E",
-          "text": "香 膏，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在你脚前我今俯伏，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "為 著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "膏油芬芳，因着爱，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "你"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全 然 倒"
+          "segments": [
+            {
+              "chord": "",
+              "text": "漫溢四处。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "出。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我爱你！爱你主耶稣！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "你！ 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为你甘愿枉费，一无所顾。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你 主 耶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从我玉瓶倾倒香膏，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "穌！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "為 你 甘 願 枉 費， 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为你身、你头、你脚，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "無 所"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为你─挚爱主，我爱，你耶稣！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "人说你若凡事知道，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "顧。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "從 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "必知是谁在摸你脚；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "玉"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是的，我罪实不可告，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "瓶 傾"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不配摸你，还妄想"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "倒 香"
+          "segments": [
+            {
+              "chord": "",
+              "text": "献上香膏。"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "膏，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "為 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但我爱。。。爱你，主耶稣！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "身、 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱深是因多得赦罪之故。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "頭、 你 腳，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "為 你─ 摯"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从我玉瓶倾倒香膏，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "愛 主，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为你身、你头、你脚，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为你─挚爱主，我爱，你耶稣！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我要用我爱洗你足，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "愛，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你脚前，我己可不顾；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "你 耶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你的价值有谁能述？"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "穌！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的爱情并全人"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我将贵重膏油取出，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "都当你属。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "膏抹我所至爱的主；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我爱你！爱你，主耶稣！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在你脚前我今俯伏，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我爱情我全人都为你，主。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "膏油芬芳，因着爱，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "求悦纳我和我香膏，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "漫溢四处。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱主，这是我上好，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我爱你！爱你主耶稣！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为你甘愿枉费，一无所顾。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从我玉瓶倾倒香膏，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为你身、你头、你脚，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为你─挚爱主，我爱，你耶稣！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "人说你若凡事知道，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "必知是谁在摸你脚；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是的，我罪实不可告，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不配摸你，还妄想"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "献上香膏。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但我爱。。。爱你，主耶稣！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱深是因多得赦罪之故。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从我玉瓶倾倒香膏，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为你身、你头、你脚，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为你─挚爱主，我爱，你耶稣！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我要用我爱洗你足，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你脚前，我己可不顾；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你的价值有谁能述？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的爱情并全人"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "都当你属。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我爱你！爱你，主耶稣！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我爱情我全人都为你，主。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "求悦纳我和我香膏，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱主，这是我上好，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为你─挚爱主，我爱，你耶稣！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为你─挚爱主，我爱，你耶稣！"
+            }
+          ]
         }
       ]
     }

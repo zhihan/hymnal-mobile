@@ -1,276 +1,292 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/457",
   "title": "我在这里",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "我 在"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "我 在"
+            },
+            {
+              "chord": "",
+              "text": "這 裏， 天 使 睽"
+            },
+            {
+              "chord": "Dm",
+              "text": "睽 注"
+            },
+            {
+              "chord": "",
+              "text": "目；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "這 裏， 天 使 睽"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主 權"
+            },
+            {
+              "chord": "G7",
+              "text": "已 交"
+            },
+            {
+              "chord": "",
+              "text": "出， 如 釋 重"
+            },
+            {
+              "chord": "C",
+              "text": "負，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "睽 注"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不 再 為"
+            },
+            {
+              "chord": "C7",
+              "text": "世 界"
+            },
+            {
+              "chord": "",
+              "text": "奴"
+            },
+            {
+              "chord": "F",
+              "text": "僕。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "目；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主 權"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 在 這"
+            },
+            {
+              "chord": "C",
+              "text": "裏！ 今"
+            },
+            {
+              "chord": "G7",
+              "text": "全 屬"
+            },
+            {
+              "chord": "",
+              "text": "基"
+            },
+            {
+              "chord": "C",
+              "text": "督，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "已 交"
+          "segments": [
+            {
+              "chord": "",
+              "text": "願"
+            },
+            {
+              "chord": "F",
+              "text": "跟 隨"
+            },
+            {
+              "chord": "G",
+              "text": "卑 微"
+            },
+            {
+              "chord": "",
+              "text": "耶"
+            },
+            {
+              "chord": "C",
+              "text": "穌，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "出， 如 釋 重"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "直"
+            },
+            {
+              "chord": "G",
+              "text": "至 掌"
+            },
+            {
+              "chord": "",
+              "text": "權 國"
+            },
+            {
+              "chord": "C",
+              "text": "度！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我在这里，世人瞠目惊喟："
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "負，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不 再 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"竟如此枉费？\"但我无悔，"
+            }
+          ]
         },
         {
-          "chord": "C7",
-          "text": "世 界"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因知道所信是谁！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "奴"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我在这里！得上好机会，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "僕。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 在 這"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将宝贵玉瓶打碎，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "裏！ 今"
+          "segments": [
+            {
+              "chord": "",
+              "text": "见证祂的甘美。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我在这里，撒但已在抖颤："
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "全 屬"
+          "segments": [
+            {
+              "chord": "",
+              "text": "真相终揭穿─大巴比伦，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "基"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要被神烈火审判。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "督，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "願"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我在这里！永不向后看！"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "跟 隨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "上到楼房来奉献，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "卑 微"
+          "segments": [
+            {
+              "chord": "",
+              "text": "福音地极传遍！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我在这里，我看见祂微笑："
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "耶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂的一声\"好\"，价值何高，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "穌，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "直"
+          "segments": [
+            {
+              "chord": "",
+              "text": "胜一切人的荣耀。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "至 掌"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我在这里！归回为建造；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "權 國"
+          "segments": [
+            {
+              "chord": "",
+              "text": "黑夜已深将破晓，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "度！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我在这里，世人瞠目惊喟："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "\"竟如此枉费？\"但我无悔，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因知道所信是谁！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我在这里！得上好机会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将宝贵玉瓶打碎，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "见证祂的甘美。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我在这里，撒但已在抖颤："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "真相终揭穿─大巴比伦，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要被神烈火审判。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我在这里！永不向后看！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "上到楼房来奉献，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "福音地极传遍！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我在这里，我看见祂微笑："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂的一声\"好\"，价值何高，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "胜一切人的荣耀。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我在这里！归回为建造；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "黑夜已深将破晓，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惟愿祂来得早！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟愿祂来得早！"
+            }
+          ]
         }
       ]
     }

@@ -1,536 +1,552 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/301",
   "title": "耶稣！我爱你",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "耶 穌！"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "耶 穌！"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "Bm",
+              "text": "愛 你，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "Em",
+              "text": "愛 來"
+            },
+            {
+              "chord": "",
+              "text": "吸"
+            },
+            {
+              "chord": "A",
+              "text": "引，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "愛 你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "使 我"
+            },
+            {
+              "chord": "F♯m",
+              "text": "渴 慕"
+            },
+            {
+              "chord": "",
+              "text": "親"
+            },
+            {
+              "chord": "Bm",
+              "text": "近 你，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "愛 來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "快"
+            },
+            {
+              "chord": "G",
+              "text": "跑 跟"
+            },
+            {
+              "chord": "",
+              "text": "隨"
+            },
+            {
+              "chord": "A",
+              "text": "你。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "吸"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "使 我"
+            },
+            {
+              "chord": "D",
+              "text": "渴 慕"
+            },
+            {
+              "chord": "",
+              "text": "親"
+            },
+            {
+              "chord": "Bm",
+              "text": "近 你，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "引，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "使 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "快"
+            },
+            {
+              "chord": "Em",
+              "text": "跑"
+            },
+            {
+              "chord": "A7",
+              "text": "跟 隨"
+            },
+            {
+              "chord": "D",
+              "text": "你。"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "渴 慕"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "Bm",
+              "text": "是 我"
+            },
+            {
+              "chord": "A",
+              "text": "良 人，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "親"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，"
+            },
+            {
+              "chord": "D",
+              "text": "全 然"
+            },
+            {
+              "chord": "",
+              "text": "美 麗"
+            },
+            {
+              "chord": "Bm",
+              "text": "可 愛，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "近 你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "快"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "G",
+              "text": "心 朝"
+            },
+            {
+              "chord": "D",
+              "text": "夕 依"
+            },
+            {
+              "chord": "",
+              "text": "依 戀"
+            },
+            {
+              "chord": "A",
+              "text": "戀"
+            },
+            {
+              "chord": "D",
+              "text": "的。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "跑 跟"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "Bm",
+              "text": "是 我"
+            },
+            {
+              "chord": "A",
+              "text": "良 人，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "隨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，"
+            },
+            {
+              "chord": "D",
+              "text": "全 然"
+            },
+            {
+              "chord": "",
+              "text": "美 麗"
+            },
+            {
+              "chord": "Bm",
+              "text": "可 愛，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "你。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "G",
+              "text": "心 中"
+            },
+            {
+              "chord": "D",
+              "text": "所 依"
+            },
+            {
+              "chord": "",
+              "text": "依 戀"
+            },
+            {
+              "chord": "A",
+              "text": "戀"
+            },
+            {
+              "chord": "D",
+              "text": "的。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A7",
-          "text": "使 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你爱，主耶稣，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "渴 慕"
+          "segments": [
+            {
+              "chord": "",
+              "text": "比酒更甜美，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "親"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你膏油所发香气，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "近 你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "快"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我心欢喜。"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "跑"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你膏油所发香气，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "跟 隨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我心欢喜。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "你。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你是园中泉，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "是 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你又是活水的井，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "良 人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "流自利巴嫩山的溪涧。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "全 然"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你是园中泉，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "美 麗"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你又是活水的井，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "可 愛，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "流自利巴嫩山的溪涧。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来罢，我良人，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "心 朝"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同到园子里，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "夕 依"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使其中各种香气，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "依 戀"
+          "segments": [
+            {
+              "chord": "",
+              "text": "发出并漫溢。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "戀"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使其中各种香气，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "的。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "发出并漫溢。"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "是 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "‘我新妇妹子，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "良 人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我到了我的园子，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "全 然"
+          "segments": [
+            {
+              "chord": "",
+              "text": "尽情享受酒奶和蜂蜜。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "美 麗"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我新妇妹子，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "可 愛，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我到了我的园子，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "心 中"
+          "segments": [
+            {
+              "chord": "",
+              "text": "尽情享受酒奶和蜂蜜。’"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "把我，主耶稣，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "所 依"
+          "segments": [
+            {
+              "chord": "",
+              "text": "铭刻你心上，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "依 戀"
+          "segments": [
+            {
+              "chord": "",
+              "text": "嫉恨残忍如阴间，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "戀"
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱如死坚强。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "的。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "嫉恨残忍如阴间，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "你爱，主耶稣，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱如死坚强。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "比酒更甜美，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "众水不能灭，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "你膏油所发香气，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "大水也不能淹没，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "使我心欢喜。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "你的爱情无何能替换。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "你膏油所发香气，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "众水不能灭，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "使我心欢喜。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "大水也不能淹没，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "你是园中泉，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你又是活水的井，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "流自利巴嫩山的溪涧。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你是园中泉，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你又是活水的井，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "流自利巴嫩山的溪涧。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来罢，我良人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同到园子里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使其中各种香气，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "发出并漫溢。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使其中各种香气，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "发出并漫溢。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "‘我新妇妹子，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我到了我的园子，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "尽情享受酒奶和蜂蜜。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我新妇妹子，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我到了我的园子，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "尽情享受酒奶和蜂蜜。’"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "把我，主耶稣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "铭刻你心上，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "嫉恨残忍如阴间，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱如死坚强。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "嫉恨残忍如阴间，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱如死坚强。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "众水不能灭，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "大水也不能淹没，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你的爱情无何能替换。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "众水不能灭，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "大水也不能淹没，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你的爱情无何能替换。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你的爱情无何能替换。"
+            }
+          ]
         }
       ]
     }
@@ -538,7 +554,16 @@
   "metadata": {
     "category": "爱慕耶稣",
     "time": "4/4",
-    "hymn_code": "5332114432"
+    "hymn_code": "5332114432",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1154",
+        "language": "cn",
+        "category": "h",
+        "number": "1154",
+        "title": "E1154"
+      }
+    ]
   },
   "raw_sections": [
     "耶 穌！我愛 你，",

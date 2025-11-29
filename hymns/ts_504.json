@@ -1,192 +1,196 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/504",
   "title": "我已拣选了锡安",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "我 已"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我 已"
+            },
+            {
+              "chord": "",
+              "text": "揀"
+            },
+            {
+              "chord": "G7",
+              "text": "選 了"
+            },
+            {
+              "chord": "C",
+              "text": "錫 安，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "揀"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "作"
+            },
+            {
+              "chord": "A",
+              "text": "我 的"
+            },
+            {
+              "chord": "",
+              "text": "居"
+            },
+            {
+              "chord": "D7",
+              "text": "所。"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "選 了"
+          "segments": [
+            {
+              "chord": "",
+              "text": "這 是"
+            },
+            {
+              "chord": "G",
+              "text": "我 永"
+            },
+            {
+              "chord": "G7",
+              "text": "遠 安"
+            },
+            {
+              "chord": "",
+              "text": "息"
+            },
+            {
+              "chord": "C",
+              "text": "之 所，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "錫 安，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "作"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 要 住"
+            },
+            {
+              "chord": "G",
+              "text": "這 裡，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "我 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "這"
+            },
+            {
+              "chord": "D",
+              "text": "是 我"
+            },
+            {
+              "chord": "",
+              "text": "願"
+            },
+            {
+              "chord": "D7",
+              "text": "意"
+            },
+            {
+              "chord": "G",
+              "text": "的。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "居"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 要 使"
+            },
+            {
+              "chord": "C",
+              "text": "其 中"
+            },
+            {
+              "chord": "",
+              "text": "的 糧 食 豐"
+            },
+            {
+              "chord": "G",
+              "text": "滿，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "所。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "這 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使 其 中 的"
+            },
+            {
+              "chord": "A7",
+              "text": "窮 人"
+            },
+            {
+              "chord": "",
+              "text": "飽"
+            },
+            {
+              "chord": "D7",
+              "text": "足。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "我 永"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 要"
+            },
+            {
+              "chord": "G",
+              "text": "使 祭"
+            },
+            {
+              "chord": "G7",
+              "text": "司 披"
+            },
+            {
+              "chord": "",
+              "text": "上"
+            },
+            {
+              "chord": "C",
+              "text": "救 恩，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "遠 安"
-        },
-        {
-          "chord": "",
-          "text": "息"
-        },
-        {
-          "chord": "C",
-          "text": "之 所，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 要 住"
-        },
-        {
-          "chord": "G",
-          "text": "這 裡，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "這"
-        },
-        {
-          "chord": "D",
-          "text": "是 我"
-        },
-        {
-          "chord": "",
-          "text": "願"
-        },
-        {
-          "chord": "D7",
-          "text": "意"
-        },
-        {
-          "chord": "G",
-          "text": "的。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 要 使"
-        },
-        {
-          "chord": "C",
-          "text": "其 中"
-        },
-        {
-          "chord": "",
-          "text": "的 糧 食 豐"
-        },
-        {
-          "chord": "G",
-          "text": "滿，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使 其 中 的"
-        },
-        {
-          "chord": "A7",
-          "text": "窮 人"
-        },
-        {
-          "chord": "",
-          "text": "飽"
-        },
-        {
-          "chord": "D7",
-          "text": "足。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 要"
-        },
-        {
-          "chord": "G",
-          "text": "使 祭"
-        },
-        {
-          "chord": "G7",
-          "text": "司 披"
-        },
-        {
-          "chord": "",
-          "text": "上"
-        },
-        {
-          "chord": "C",
-          "text": "救 恩，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使 聖"
-        },
-        {
-          "chord": "G",
-          "text": "民 大"
-        },
-        {
-          "chord": "",
-          "text": "聲 讚"
-        },
-        {
-          "chord": "D7",
-          "text": "美 歡"
-        },
-        {
-          "chord": "G",
-          "text": "呼。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使 聖"
+            },
+            {
+              "chord": "G",
+              "text": "民 大"
+            },
+            {
+              "chord": "",
+              "text": "聲 讚"
+            },
+            {
+              "chord": "D7",
+              "text": "美 歡"
+            },
+            {
+              "chord": "G",
+              "text": "呼。"
+            }
+          ]
         }
       ]
     }
@@ -194,7 +198,16 @@
   "metadata": {
     "category": "教会的异象",
     "time": "6/4",
-    "hymn_code": "555321651232"
+    "hymn_code": "555321651232",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1338",
+        "language": "cn",
+        "category": "h",
+        "number": "1338",
+        "title": "E1338"
+      }
+    ]
   },
   "raw_sections": [
     "我 已揀選 了錫 安，",

@@ -1,300 +1,308 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/137",
   "title": "如今主你就是那灵",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "如 今"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "如 今"
+            },
+            {
+              "chord": "",
+              "text": "主， 你 就 是 那 靈，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "主， 你 就 是 那 靈，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是 那 賜 人 生 命 的 活"
+            },
+            {
+              "chord": "A",
+              "text": "靈，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "為 進"
+            },
+            {
+              "chord": "",
+              "text": "我 靈， 作 我 生 命，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 已"
+            },
+            {
+              "chord": "A",
+              "text": "完 成"
+            },
+            {
+              "chord": "A7",
+              "text": "必 經"
+            },
+            {
+              "chord": "",
+              "text": "的 過"
+            },
+            {
+              "chord": "D",
+              "text": "程："
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 從 天 降 下"
+            },
+            {
+              "chord": "Bm",
+              "text": "成 肉"
+            },
+            {
+              "chord": "",
+              "text": "體，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "從 陰"
+            },
+            {
+              "chord": "",
+              "text": "間 上 來"
+            },
+            {
+              "chord": "A",
+              "text": "又 復"
+            },
+            {
+              "chord": "",
+              "text": "起；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "今 猶"
+            },
+            {
+              "chord": "",
+              "text": "如 空 氣"
+            },
+            {
+              "chord": "G",
+              "text": "在 我"
+            },
+            {
+              "chord": "",
+              "text": "口 裡，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "一 喊"
+            },
+            {
+              "chord": "",
+              "text": "你 名，"
+            },
+            {
+              "chord": "A7",
+              "text": "我 就"
+            },
+            {
+              "chord": "",
+              "text": "將 你"
+            },
+            {
+              "chord": "D",
+              "text": "吸。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "對 我，"
+            },
+            {
+              "chord": "",
+              "text": "你 豐 富 無 比；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "對 我，"
+            },
+            {
+              "chord": "",
+              "text": "你 何 等 實 際；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "豐 富"
+            },
+            {
+              "chord": "",
+              "text": "無 比，"
+            },
+            {
+              "chord": "Bm",
+              "text": "何 等"
+            },
+            {
+              "chord": "",
+              "text": "實 際，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "E7",
+              "text": "你 今"
+            },
+            {
+              "chord": "",
+              "text": "就 在 我 心"
+            },
+            {
+              "chord": "A7",
+              "text": "裡！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "是 那 賜 人 生 命 的 活"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿主多赐我以那灵，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "靈，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "為 進"
+          "segments": [
+            {
+              "chord": "",
+              "text": "以你新鲜生命来供应，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 靈， 作 我 生 命，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 已"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从我中心浸透、充盈，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "完 成"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直达圆周，处处都光明；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "必 經"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你多方运行并工作，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 過"
+          "segments": [
+            {
+              "chord": "",
+              "text": "像神圣膏油在涂抹，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "程："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 從 天 降 下"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将我的心、灵全浸润过，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "成 肉"
+          "segments": [
+            {
+              "chord": "",
+              "text": "且来挑旺我深处爱火。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "體，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "從 陰"
+          "segments": [
+            {
+              "chord": "",
+              "text": "有你，我灵会飞扬；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "間 上 來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "有你，我心会歌唱；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "又 復"
+          "segments": [
+            {
+              "chord": "",
+              "text": "灵会飞扬，心会歌唱，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "起；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "今 猶"
-        },
-        {
-          "chord": "",
-          "text": "如 空 氣"
-        },
-        {
-          "chord": "G",
-          "text": "在 我"
-        },
-        {
-          "chord": "",
-          "text": "口 裡，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "一 喊"
-        },
-        {
-          "chord": "",
-          "text": "你 名，"
-        },
-        {
-          "chord": "A7",
-          "text": "我 就"
-        },
-        {
-          "chord": "",
-          "text": "將 你"
-        },
-        {
-          "chord": "D",
-          "text": "吸。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "對 我，"
-        },
-        {
-          "chord": "",
-          "text": "你 豐 富 無 比；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "對 我，"
-        },
-        {
-          "chord": "",
-          "text": "你 何 等 實 際；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "豐 富"
-        },
-        {
-          "chord": "",
-          "text": "無 比，"
-        },
-        {
-          "chord": "Bm",
-          "text": "何 等"
-        },
-        {
-          "chord": "",
-          "text": "實 際，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "E7",
-          "text": "你 今"
-        },
-        {
-          "chord": "",
-          "text": "就 在 我 心"
-        },
-        {
-          "chord": "A7",
-          "text": "裡！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿主多赐我以那灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "以你新鲜生命来供应，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从我中心浸透、充盈，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直达圆周，处处都光明；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你多方运行并工作，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "像神圣膏油在涂抹，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将我的心、灵全浸润过，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "且来挑旺我深处爱火。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有你，我灵会飞扬；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有你，我心会歌唱；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "灵会飞扬，心会歌唱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生活如同在天上！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生活如同在天上！"
+            }
+          ]
         }
       ]
     }

@@ -1,620 +1,660 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/532",
   "title": "我竟成为你基业",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "何 等"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "何 等"
+            },
+            {
+              "chord": "",
+              "text": "奇 妙"
+            },
+            {
+              "chord": "A",
+              "text": "的 事"
+            },
+            {
+              "chord": "D",
+              "text": "實，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "奇 妙"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 竟 成 為 你"
+            },
+            {
+              "chord": "A7",
+              "text": "基 業，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "的 事"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "你 的"
+            },
+            {
+              "chord": "",
+              "text": "豐 富 原"
+            },
+            {
+              "chord": "A",
+              "text": "無 比，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "實，"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "無 我"
+            },
+            {
+              "chord": "",
+              "text": "卻 仍 有 所"
+            },
+            {
+              "chord": "A7",
+              "text": "缺。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我 竟 成 為 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦！"
+            },
+            {
+              "chord": "D",
+              "text": "我 們"
+            },
+            {
+              "chord": "B7",
+              "text": "竟 成"
+            },
+            {
+              "chord": "",
+              "text": "為"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "基 業，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "你 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "Em",
+              "text": "愛"
+            },
+            {
+              "chord": "A7",
+              "text": "的 對"
+            },
+            {
+              "chord": "",
+              "text": "象，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "豐 富 原"
+          "segments": [
+            {
+              "chord": "",
+              "text": "將"
+            },
+            {
+              "chord": "D",
+              "text": "你"
+            },
+            {
+              "chord": "G",
+              "text": "豐 富"
+            },
+            {
+              "chord": "",
+              "text": "來 彰"
+            },
+            {
+              "chord": "A",
+              "text": "顯，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "無 比，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "無 我"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "你"
+            },
+            {
+              "chord": "D",
+              "text": "榮 耀"
+            },
+            {
+              "chord": "",
+              "text": "得 稱"
+            },
+            {
+              "chord": "A",
+              "text": "讚。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "卻 仍 有 所"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦！"
+            },
+            {
+              "chord": "D",
+              "text": "我"
+            },
+            {
+              "chord": "B7",
+              "text": "們 竟"
+            },
+            {
+              "chord": "",
+              "text": "成 為"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "缺。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦！"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "你"
+            },
+            {
+              "chord": "A7",
+              "text": "愛 的"
+            },
+            {
+              "chord": "",
+              "text": "對 象，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "將"
+            },
+            {
+              "chord": "G",
+              "text": "你 豐"
+            },
+            {
+              "chord": "",
+              "text": "富 來"
+            },
+            {
+              "chord": "A",
+              "text": "彰"
+            },
+            {
+              "chord": "A7",
+              "text": "顯，"
+            }
+          ]
         },
         {
-          "chord": "B7",
-          "text": "竟 成"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "叫 你"
+            },
+            {
+              "chord": "",
+              "text": "榮 耀"
+            },
+            {
+              "chord": "A",
+              "text": "得"
+            },
+            {
+              "chord": "A7",
+              "text": "稱"
+            },
+            {
+              "chord": "D",
+              "text": "讚。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "照你所定的美意，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "為"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我得各样的福气，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "创世以前蒙拣选，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "的 對"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今得救赎成圣洁。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦！我们竟成为"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "象，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "將"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你爱的对象，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将你丰富来彰显，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "豐 富"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你荣耀得称赞。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "來 彰"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦！我们竟成为"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "顯，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你爱的对象，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "榮 耀"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将你丰富来彰显，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "得 稱"
+          "segments": [
+            {
+              "chord": "",
+              "text": "叫你荣耀得称赞。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "借你圣灵作凭质，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "讚。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我得被赎的确据，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "满得智慧和启示，"
+            }
+          ]
         },
         {
-          "chord": "B7",
-          "text": "們 竟"
+          "segments": [
+            {
+              "chord": "",
+              "text": "对你完全有认识。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦！我们竟成为"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "成 為"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你爱的对象，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "愛 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将你丰富来彰显，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "對 象，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "將"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你荣耀得称赞。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "你 豐"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦！我们竟成为"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "富 來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你爱的对象，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "彰"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将你丰富来彰显，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "顯，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "叫你荣耀得称赞。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "叫 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当我心眼被照明，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "榮 耀"
+          "segments": [
+            {
+              "chord": "",
+              "text": "知你恩召满指望，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你复活大能大力，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "稱"
+          "segments": [
+            {
+              "chord": "",
+              "text": "也显在我们身上。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦！我们竟成为"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "讚。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你爱的对象，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "将你丰富来彰显，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你荣耀得称赞。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦！我们竟成为"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你爱的对象，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "将你丰富来彰显，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "叫你荣耀得称赞。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "照你所定的美意，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，我们满心赞美"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们乃是你基业，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "是你召会你身体，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你今是一无所缺。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我得各样的福气，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦！我们竟成为"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "创世以前蒙拣选，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "你爱的对象，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "今得救赎成圣洁。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "将你丰富来彰显，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "哦！我们竟成为"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "你荣耀得称赞。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "你爱的对象，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦！我们竟成为"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "将你丰富来彰显，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "你爱的对象，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "你荣耀得称赞。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "将你丰富来彰显，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "哦！我们竟成为"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你爱的对象，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将你丰富来彰显，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "叫你荣耀得称赞。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借你圣灵作凭质，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我得被赎的确据，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "满得智慧和启示，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "对你完全有认识。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦！我们竟成为"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你爱的对象，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将你丰富来彰显，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你荣耀得称赞。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦！我们竟成为"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你爱的对象，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将你丰富来彰显，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "叫你荣耀得称赞。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当我心眼被照明，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "知你恩召满指望，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你复活大能大力，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "也显在我们身上。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦！我们竟成为"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你爱的对象，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将你丰富来彰显，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你荣耀得称赞。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦！我们竟成为"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你爱的对象，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将你丰富来彰显，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "叫你荣耀得称赞。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，我们满心赞美"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们乃是你基业，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是你召会你身体，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你今是一无所缺。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦！我们竟成为"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你爱的对象，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将你丰富来彰显，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你荣耀得称赞。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦！我们竟成为"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你爱的对象，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将你丰富来彰显，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "叫你荣耀得称赞。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "叫你荣耀得称赞。"
+            }
+          ]
         }
       ]
     }

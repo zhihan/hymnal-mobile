@@ -1,208 +1,224 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/116",
   "title": "在灵里向主歌唱",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "要 在 靈"
+            },
+            {
+              "chord": "A7",
+              "text": "裡 向"
+            },
+            {
+              "chord": "",
+              "text": "主"
+            },
+            {
+              "chord": "D",
+              "text": "歌 唱，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "要 在 靈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們 要 從 裡 面 向 主"
+            },
+            {
+              "chord": "A",
+              "text": "唱，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "裡 向"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "我 們"
+            },
+            {
+              "chord": "D",
+              "text": "要 阿"
+            },
+            {
+              "chord": "",
+              "text": "利"
+            },
+            {
+              "chord": "D7",
+              "text": "路 亞"
+            },
+            {
+              "chord": "",
+              "text": "向"
+            },
+            {
+              "chord": "G",
+              "text": "主 唱，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們"
+            },
+            {
+              "chord": "D",
+              "text": "相 調"
+            },
+            {
+              "chord": "",
+              "text": "為"
+            },
+            {
+              "chord": "A7",
+              "text": "一 向"
+            },
+            {
+              "chord": "",
+              "text": "主"
+            },
+            {
+              "chord": "D",
+              "text": "唱！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们曾多年在宗教里面，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "歌 唱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們 要 從 裡 面 向 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们曾多年在心思里，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "唱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们曾多年在情感里面，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "要 阿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一直追求却在黑暗里。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "今我们操练灵里接触主"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "利"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今我们操练取用基督，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "路 亞"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今我们操练吃喝主耶稣，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "向"
+          "segments": [
+            {
+              "chord": "",
+              "text": "脱离挣扎奋斗的痛苦。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "主 唱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "圣灵里的生命，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "相 調"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "里面的新样。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "一 向"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当我们从心思中转入灵，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "主"
-        },
-        {
-          "chord": "D",
-          "text": "唱！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们曾多年在宗教里面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们曾多年在心思里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们曾多年在情感里面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一直追求却在黑暗里。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今我们操练灵里接触主"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今我们操练取用基督，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今我们操练吃喝主耶稣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "脱离挣扎奋斗的痛苦。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "圣灵里的生命，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "里面的新样。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当我们从心思中转入灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂一切丰富我们全享。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂一切丰富我们全享。"
+            }
+          ]
         }
       ]
     }
@@ -210,7 +226,16 @@
   "metadata": {
     "category": "灵与生命",
     "time": "4/4",
-    "hymn_code": "5133332321"
+    "hymn_code": "5133332321",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1141",
+        "language": "cn",
+        "category": "h",
+        "number": "1141",
+        "title": "E1141"
+      }
+    ]
   },
   "raw_sections": [
     "我 們要 在 靈裡 向主歌 唱，",

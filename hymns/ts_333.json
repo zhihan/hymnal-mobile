@@ -1,188 +1,196 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/333",
   "title": "我爱我主，非用天然之爱",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "我 愛"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我 愛"
+            },
+            {
+              "chord": "",
+              "text": "我 主， 非 用 天"
+            },
+            {
+              "chord": "C",
+              "text": "然 之"
+            },
+            {
+              "chord": "G",
+              "text": "愛；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 主， 非 用 天"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "D",
+              "text": "無 可"
+            },
+            {
+              "chord": "D7",
+              "text": "以 給"
+            },
+            {
+              "chord": "G",
+              "text": "你。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "然 之"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主， 我 愛 你， 這 愛 全"
+            },
+            {
+              "chord": "C",
+              "text": "然 屬"
+            },
+            {
+              "chord": "G",
+              "text": "你，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "愛；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使"
+            },
+            {
+              "chord": "D",
+              "text": "我 活"
+            },
+            {
+              "chord": "D7",
+              "text": "在 你"
+            },
+            {
+              "chord": "G",
+              "text": "裏。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "我 一"
+            },
+            {
+              "chord": "",
+              "text": "無"
+            },
+            {
+              "chord": "G",
+              "text": "所 有，"
+            },
+            {
+              "chord": "C",
+              "text": "卻 歡"
+            },
+            {
+              "chord": "",
+              "text": "然 經"
+            },
+            {
+              "chord": "G",
+              "text": "歷，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "倒 空，"
+            },
+            {
+              "chord": "",
+              "text": "消"
+            },
+            {
+              "chord": "G",
+              "text": "失， 浸"
+            },
+            {
+              "chord": "C",
+              "text": "沒 在"
+            },
+            {
+              "chord": "D",
+              "text": "你"
+            },
+            {
+              "chord": "D7",
+              "text": "愛"
+            },
+            {
+              "chord": "G",
+              "text": "裏。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我主，惟你是我一切所需，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "無 可"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我心别无所愿；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "以 給"
+          "segments": [
+            {
+              "chord": "",
+              "text": "住在你里，经历祝福江河，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "你。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主， 我 愛 你， 這 愛 全"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从你涌流无间。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "然 屬"
+          "segments": [
+            {
+              "chord": "",
+              "text": "饮生命活泉，享你作恩典，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使"
-        },
-        {
-          "chord": "D",
-          "text": "我 活"
-        },
-        {
-          "chord": "D7",
-          "text": "在 你"
-        },
-        {
-          "chord": "G",
-          "text": "裏。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "我 一"
-        },
-        {
-          "chord": "",
-          "text": "無"
-        },
-        {
-          "chord": "G",
-          "text": "所 有，"
-        },
-        {
-          "chord": "C",
-          "text": "卻 歡"
-        },
-        {
-          "chord": "",
-          "text": "然 經"
-        },
-        {
-          "chord": "G",
-          "text": "歷，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "倒 空，"
-        },
-        {
-          "chord": "",
-          "text": "消"
-        },
-        {
-          "chord": "G",
-          "text": "失， 浸"
-        },
-        {
-          "chord": "C",
-          "text": "沒 在"
-        },
-        {
-          "chord": "D",
-          "text": "你"
-        },
-        {
-          "chord": "D7",
-          "text": "愛"
-        },
-        {
-          "chord": "G",
-          "text": "裏。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我主，惟你是我一切所需，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我心别无所愿；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "住在你里，经历祝福江河，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从你涌流无间。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "饮生命活泉，享你作恩典，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作我中心、居所、祝福之源。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作我中心、居所、祝福之源。"
+            }
+          ]
         }
       ]
     }
@@ -190,7 +198,16 @@
   "metadata": {
     "category": "爱慕耶稣",
     "time": "4/4",
-    "hymn_code": "5543531615355443"
+    "hymn_code": "5543531615355443",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/546",
+        "language": "cn",
+        "category": "h",
+        "number": "546",
+        "title": "E546"
+      }
+    ]
   },
   "raw_sections": [
     "我 愛我 主， 非 用 天然 之愛；",

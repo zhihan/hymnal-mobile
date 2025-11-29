@@ -1,292 +1,304 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/913",
   "title": "童女与仆人",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "十 個"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "十 個"
+            },
+            {
+              "chord": "",
+              "text": "童 女"
+            },
+            {
+              "chord": "G",
+              "text": "迎 接"
+            },
+            {
+              "chord": "A",
+              "text": "新"
+            },
+            {
+              "chord": "D",
+              "text": "郎，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "童 女"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "為 何"
+            },
+            {
+              "chord": "",
+              "text": "結 局"
+            },
+            {
+              "chord": "E7",
+              "text": "不 一"
+            },
+            {
+              "chord": "A",
+              "text": "樣？"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "迎 接"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "聰 明"
+            },
+            {
+              "chord": "",
+              "text": "愚 拙"
+            },
+            {
+              "chord": "G",
+              "text": "都 將"
+            },
+            {
+              "chord": "A",
+              "text": "燈"
+            },
+            {
+              "chord": "D",
+              "text": "點，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "新"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "器 皿"
+            },
+            {
+              "chord": "",
+              "text": "的 油"
+            },
+            {
+              "chord": "E7",
+              "text": "是 關"
+            },
+            {
+              "chord": "A",
+              "text": "鍵。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "郎，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "趁 著 今 日 趕 緊 豫 備，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "讓 靈"
+            },
+            {
+              "chord": "",
+              "text": "充 滿"
+            },
+            {
+              "chord": "E7",
+              "text": "魂 浸"
+            },
+            {
+              "chord": "A",
+              "text": "透；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "儆 醒"
+            },
+            {
+              "chord": "",
+              "text": "等 候"
+            },
+            {
+              "chord": "G",
+              "text": "直 到"
+            },
+            {
+              "chord": "D",
+              "text": "主 來，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "可 以"
+            },
+            {
+              "chord": "D",
+              "text": "同 祂"
+            },
+            {
+              "chord": "A",
+              "text": "享"
+            },
+            {
+              "chord": "A7",
+              "text": "愛"
+            },
+            {
+              "chord": "D",
+              "text": "筵。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "為 何"
+          "segments": [
+            {
+              "chord": "",
+              "text": "三个仆人都有银子，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "結 局"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为何结局不一样？"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "不 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因那忠仆随即买卖，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "樣？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "聰 明"
+          "segments": [
+            {
+              "chord": "",
+              "text": "恶仆却将银子埋。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "愚 拙"
+          "segments": [
+            {
+              "chord": "",
+              "text": "快将一千银子摆出，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "都 將"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在召会里同经营；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "燈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "忠心事奉，直到主来，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "點，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "可以从祂得赏赐。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "器 皿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不多时候，要来就来，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 油"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们儆醒齐等待，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "是 關"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不可辜负主的委派，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "鍵。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "趁 著 今 日 趕 緊 豫 備，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "讓 靈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "忠心良善得赏赉。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "充 滿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督台前，审判钟点，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "魂 浸"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主的公义威荣显，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "透；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "儆 醒"
+          "segments": [
+            {
+              "chord": "",
+              "text": "金银宝石能耐火焰，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "等 候"
-        },
-        {
-          "chord": "G",
-          "text": "直 到"
-        },
-        {
-          "chord": "D",
-          "text": "主 來，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "可 以"
-        },
-        {
-          "chord": "D",
-          "text": "同 祂"
-        },
-        {
-          "chord": "A",
-          "text": "享"
-        },
-        {
-          "chord": "A7",
-          "text": "愛"
-        },
-        {
-          "chord": "D",
-          "text": "筵。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "三个仆人都有银子，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为何结局不一样？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因那忠仆随即买卖，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "恶仆却将银子埋。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "快将一千银子摆出，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在召会里同经营；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "忠心事奉，直到主来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "可以从祂得赏赐。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不多时候，要来就来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们儆醒齐等待，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不可辜负主的委派，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "忠心良善得赏赉。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督台前，审判钟点，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主的公义威荣显，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "金银宝石能耐火焰，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "千年国度掌王权。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "千年国度掌王权。"
+            }
+          ]
         }
       ]
     }

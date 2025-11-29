@@ -1,292 +1,320 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/851",
   "title": "让主作工我身",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "求 主"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "求 主"
+            },
+            {
+              "chord": "",
+              "text": "發 言， 教"
+            },
+            {
+              "chord": "D",
+              "text": "導 我"
+            },
+            {
+              "chord": "G",
+              "text": "舌，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "發 言， 教"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使"
+            },
+            {
+              "chord": "C",
+              "text": "我 能"
+            },
+            {
+              "chord": "",
+              "text": "言， 照"
+            },
+            {
+              "chord": "D",
+              "text": "你 心"
+            },
+            {
+              "chord": "",
+              "text": "意；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "導 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "尋"
+            },
+            {
+              "chord": "G",
+              "text": "回 愚"
+            },
+            {
+              "chord": "",
+              "text": "蒙 並"
+            },
+            {
+              "chord": "D",
+              "text": "失 迷"
+            },
+            {
+              "chord": "G",
+              "text": "者，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "舌，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "像"
+            },
+            {
+              "chord": "C",
+              "text": "你 愛"
+            },
+            {
+              "chord": "",
+              "text": "中 細"
+            },
+            {
+              "chord": "D",
+              "text": "細"
+            },
+            {
+              "chord": "D7",
+              "text": "尋"
+            },
+            {
+              "chord": "G",
+              "text": "覓。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "使"
+          "segments": [
+            {
+              "chord": "",
+              "text": "求主引导，使我有光，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "我 能"
+          "segments": [
+            {
+              "chord": "",
+              "text": "领浪荡者归回正途；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "言， 照"
+          "segments": [
+            {
+              "chord": "",
+              "text": "供我饮食，使我有粮，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "你 心"
+          "segments": [
+            {
+              "chord": "",
+              "text": "餧养饥渴之徒无数。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "求主加力，使我得以"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "意；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "尋"
+          "segments": [
+            {
+              "chord": "",
+              "text": "稳踏基督磐石之上，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "回 愚"
+          "segments": [
+            {
+              "chord": "",
+              "text": "且能伸出爱的膀臂，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "蒙 並"
+          "segments": [
+            {
+              "chord": "",
+              "text": "风暴海中救援丧亡。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "求主教我如何将你"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "失 迷"
+          "segments": [
+            {
+              "chord": "",
+              "text": "宝贵救恩向人陈述，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "者，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "像"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我言辞如有双翼，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "你 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "及于人心，触人深处。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "赐我以你甜美安息，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "中 細"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我言语应时如你，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "細"
+          "segments": [
+            {
+              "chord": "",
+              "text": "能施安抚，复苏、加力，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "尋"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使疲乏者都得再起。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "用你丰富充满我心，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "覓。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直至满溢恩典美辞："
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "述说你爱，颂扬你恩，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "分赐生命、亮光不止。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "求主引导，使我有光，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我虽不堪，愿主使用，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "领浪荡者归回正途；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "随时、随处照你喜悦；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "供我饮食，使我有粮，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "直至见你，荣耀之中，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "餧养饥渴之徒无数。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "求主加力，使我得以"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "稳踏基督磐石之上，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "且能伸出爱的膀臂，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "风暴海中救援丧亡。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "求主教我如何将你"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "宝贵救恩向人陈述，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我言辞如有双翼，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "及于人心，触人深处。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赐我以你甜美安息，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我言语应时如你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "能施安抚，复苏、加力，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使疲乏者都得再起。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "用你丰富充满我心，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直至满溢恩典美辞："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "述说你爱，颂扬你恩，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "分赐生命、亮光不止。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我虽不堪，愿主使用，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "随时、随处照你喜悦；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直至见你，荣耀之中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同享安息，喜乐不绝。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同享安息，喜乐不绝。"
+            }
+          ]
         }
       ]
     }
@@ -294,7 +322,16 @@
   "metadata": {
     "category": "事奉与福音",
     "time": "4/4",
-    "hymn_code": "533343212356712765"
+    "hymn_code": "533343212356712765",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/903",
+        "language": "cn",
+        "category": "h",
+        "number": "903",
+        "title": "E903"
+      }
+    ]
   },
   "raw_sections": [
     "求 主發 言， 教導 我舌，",

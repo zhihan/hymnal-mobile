@@ -1,404 +1,424 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/839",
   "title": "云彩",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Dm",
-          "text": "我 的"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "我 的"
+            },
+            {
+              "chord": "",
+              "text": "生 命"
+            },
+            {
+              "chord": "A♯",
+              "text": "不 再"
+            },
+            {
+              "chord": "",
+              "text": "揮"
+            },
+            {
+              "chord": "A7",
+              "text": "霍，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "自 從"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "Gm",
+              "text": "看 見"
+            },
+            {
+              "chord": "",
+              "text": "雲"
+            },
+            {
+              "chord": "A7",
+              "text": "彩，"
+            }
+          ]
         },
         {
-          "chord": "A♯",
-          "text": "不 再"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "越 過"
+            },
+            {
+              "chord": "",
+              "text": "一 片"
+            },
+            {
+              "chord": "A♯",
+              "text": "死 寂"
+            },
+            {
+              "chord": "",
+              "text": "荒"
+            },
+            {
+              "chord": "A7",
+              "text": "漠，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "揮"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "遠 遠"
+            },
+            {
+              "chord": "",
+              "text": "的"
+            },
+            {
+              "chord": "A7",
+              "text": "顯 現"
+            },
+            {
+              "chord": "",
+              "text": "出"
+            },
+            {
+              "chord": "Dm",
+              "text": "來；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "霍，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "它 像"
+            },
+            {
+              "chord": "D7",
+              "text": "光 明"
+            },
+            {
+              "chord": "Gm",
+              "text": "火 柱，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "照"
+            },
+            {
+              "chord": "C",
+              "text": "亮 黑"
+            },
+            {
+              "chord": "C7",
+              "text": "暗 道"
+            },
+            {
+              "chord": "",
+              "text": "路，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "燃"
+            },
+            {
+              "chord": "Dm",
+              "text": "起 人"
+            },
+            {
+              "chord": "Gm",
+              "text": "生 新"
+            },
+            {
+              "chord": "A7",
+              "text": "希 望，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "定"
+            },
+            {
+              "chord": "Gm",
+              "text": "住 我"
+            },
+            {
+              "chord": "A7",
+              "text": "的 腳"
+            },
+            {
+              "chord": "",
+              "text": "步。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Dm",
-          "text": "自 從"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "主，"
+            },
+            {
+              "chord": "Gm",
+              "text": "噢！"
+            },
+            {
+              "chord": "Dm",
+              "text": "主， 噢！"
+            },
+            {
+              "chord": "A",
+              "text": "讓"
+            },
+            {
+              "chord": "A7",
+              "text": "我"
+            },
+            {
+              "chord": "Dm",
+              "text": "放 下"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "各"
+            },
+            {
+              "chord": "A♯",
+              "text": "樣 重"
+            },
+            {
+              "chord": "",
+              "text": "擔，"
+            },
+            {
+              "chord": "A7",
+              "text": "生 活"
+            },
+            {
+              "chord": "Dm",
+              "text": "在"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "看 見"
-        },
-        {
-          "chord": "",
-          "text": "雲"
-        },
-        {
-          "chord": "A7",
-          "text": "彩，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "光"
+            },
+            {
+              "chord": "Gm",
+              "text": "明 的"
+            },
+            {
+              "chord": "A7",
+              "text": "雲 彩。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Dm",
-          "text": "越 過"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的生活何等豪迈，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "一 片"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因我已拥有云彩，"
+            }
+          ]
         },
         {
-          "chord": "A♯",
-          "text": "死 寂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "弟兄姊妹坚强的爱，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "荒"
+          "segments": [
+            {
+              "chord": "",
+              "text": "围绕我不至摇摆；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "漠，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "真理照亮我的灵，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "恩典无穷无尽，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "从此我心有所归，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不再叹息徘徊。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Dm",
-          "text": "遠 遠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我与你们已经融合，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "也化为这朵云彩，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "顯 現"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天空多么灿烂明亮，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "出"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不怕那弯曲世代；"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "來；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "它 像"
+          "segments": [
+            {
+              "chord": "",
+              "text": "让我大步向前去，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "光 明"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将这见证高举，"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "火 柱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "照"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿它光采更壮丽，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "亮 黑"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到永世不渝。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "（尾声）"
+            }
+          ]
         },
         {
-          "chord": "C7",
-          "text": "暗 道"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，噢！主，噢！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "路，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "燃"
+          "segments": [
+            {
+              "chord": "",
+              "text": "让我放下各样重担，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "起 人"
-        },
-        {
-          "chord": "Gm",
-          "text": "生 新"
-        },
-        {
-          "chord": "A7",
-          "text": "希 望，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Dm",
-          "text": "定"
-        },
-        {
-          "chord": "Gm",
-          "text": "住 我"
-        },
-        {
-          "chord": "A7",
-          "text": "的 腳"
-        },
-        {
-          "chord": "",
-          "text": "步。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Dm",
-          "text": "主，"
-        },
-        {
-          "chord": "Gm",
-          "text": "噢！"
-        },
-        {
-          "chord": "Dm",
-          "text": "主， 噢！"
-        },
-        {
-          "chord": "A",
-          "text": "讓"
-        },
-        {
-          "chord": "A7",
-          "text": "我"
-        },
-        {
-          "chord": "Dm",
-          "text": "放 下"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "各"
-        },
-        {
-          "chord": "A♯",
-          "text": "樣 重"
-        },
-        {
-          "chord": "",
-          "text": "擔，"
-        },
-        {
-          "chord": "A7",
-          "text": "生 活"
-        },
-        {
-          "chord": "Dm",
-          "text": "在"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "光"
-        },
-        {
-          "chord": "Gm",
-          "text": "明 的"
-        },
-        {
-          "chord": "A7",
-          "text": "雲 彩。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的生活何等豪迈，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因我已拥有云彩，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "弟兄姊妹坚强的爱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "围绕我不至摇摆；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "真理照亮我的灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "恩典无穷无尽，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从此我心有所归，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不再叹息徘徊。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我与你们已经融合，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "也化为这朵云彩，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天空多么灿烂明亮，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不怕那弯曲世代；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让我大步向前去，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将这见证高举，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿它光采更壮丽，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到永世不渝。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "（尾声）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，噢！主，噢！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让我放下各样重担，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生活在光明的云彩。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生活在光明的云彩。"
+            }
+          ]
         }
       ]
     }
@@ -406,7 +426,16 @@
   "metadata": {
     "category": "事奉与福音",
     "time": "3/4",
-    "hymn_code": "336717636712123"
+    "hymn_code": "336717636712123",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6839",
+        "language": "cn",
+        "category": "h",
+        "number": "6839",
+        "title": "E6839"
+      }
+    ]
   },
   "raw_sections": [
     "我 的生 命不 再揮霍，",

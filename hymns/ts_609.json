@@ -1,328 +1,336 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/609",
   "title": "相调建造",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "相 調"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "相 調"
+            },
+            {
+              "chord": "",
+              "text": "為 一，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "為 一，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "靈 裡 相 調 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "靈 裡 相 調 為"
+            },
+            {
+              "chord": "Am",
+              "text": "一！"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "一！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "相 調 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "相 調 為"
+            },
+            {
+              "chord": "D7",
+              "text": "一，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "一，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "靈 裡 相 調 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "靈 裡 相 調 為"
+            },
+            {
+              "chord": "G",
+              "text": "一！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "一！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "從 個 人、 關 閉 出 來，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "調 入"
+          "segments": [
+            {
+              "chord": "",
+              "text": "從 個 人、 關 閉 出 來，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "靈 裡，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "調 入"
+            },
+            {
+              "chord": "",
+              "text": "靈 裡，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "靈 裡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，"
+            },
+            {
+              "chord": "D",
+              "text": "靈 裡"
+            },
+            {
+              "chord": "",
+              "text": "相 調，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "相 調，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "直 到"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "直 到"
+            },
+            {
+              "chord": "",
+              "text": "調 為"
+            },
+            {
+              "chord": "G",
+              "text": "一。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "調 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "調 罷， 弟 兄！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "一。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "調 罷， 弟 兄！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "調 罷，"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "調 罷，"
+            },
+            {
+              "chord": "",
+              "text": "姊 妹！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "姊 妹！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "靈 裡"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "靈 裡"
+            },
+            {
+              "chord": "",
+              "text": "相 調 為"
+            },
+            {
+              "chord": "D",
+              "text": "一。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "相 調 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "（榮 耀，"
+            },
+            {
+              "chord": "D7",
+              "text": "阿 利"
+            },
+            {
+              "chord": "",
+              "text": "路 亞！）"
+            },
+            {
+              "chord": "G",
+              "text": "追 求、"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "一。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "（榮 耀，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "交 通、 事 奉，"
+            },
+            {
+              "chord": "C",
+              "text": "眾 靈"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "阿 利"
+          "segments": [
+            {
+              "chord": "",
+              "text": "調 為 一 靈。"
+            },
+            {
+              "chord": "G",
+              "text": "調 罷，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "路 亞！）"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "靈 裡"
+            },
+            {
+              "chord": "",
+              "text": "調"
+            },
+            {
+              "chord": "G",
+              "text": "罷！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "同被建造，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "追 求、"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "交 通、 事 奉，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱中同被建造。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "眾 靈"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "調 為 一 靈。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同被建造，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "調 罷，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "靈 裡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱中同被建造。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "調"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要脱离骄傲、不服，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "罷！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "同被建造。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "同被建造，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦！彼此配搭，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "爱中同被建造。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "一同被建造。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "同被建造，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "建造，弟兄！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "爱中同被建造。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "建造，姊妹！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "要脱离骄傲、不服，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱中同被建造。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "同被建造。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "（荣耀，阿利路亚！）"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "哦！彼此配搭，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "肢体彼此相顾，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "一同被建造。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "长幼互相顺服，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "建造，弟兄！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱中"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "建造，姊妹！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱中同被建造。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "（荣耀，阿利路亚！）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "肢体彼此相顾，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "长幼互相顺服，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱中"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同被建造。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同被建造。"
+            }
+          ]
         }
       ]
     }

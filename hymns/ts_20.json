@@ -1,356 +1,396 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/20",
   "title": "加冠祂万有主",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "何"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "何"
+            },
+            {
+              "chord": "G",
+              "text": "等"
+            },
+            {
+              "chord": "D",
+              "text": "權"
+            },
+            {
+              "chord": "G",
+              "text": "能！ 耶"
+            },
+            {
+              "chord": "Am",
+              "text": "穌"
+            },
+            {
+              "chord": "D7",
+              "text": "尊"
+            },
+            {
+              "chord": "G",
+              "text": "名！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "等"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "天"
+            },
+            {
+              "chord": "G",
+              "text": "使 全"
+            },
+            {
+              "chord": "C",
+              "text": "都 俯"
+            },
+            {
+              "chord": "G",
+              "text": "伏，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "權"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天"
+            },
+            {
+              "chord": "C",
+              "text": "使"
+            },
+            {
+              "chord": "Am",
+              "text": "全"
+            },
+            {
+              "chord": "G",
+              "text": "都"
+            },
+            {
+              "chord": "D7",
+              "text": "俯"
+            },
+            {
+              "chord": "G",
+              "text": "伏，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "能！ 耶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "獻 上 冠 冕，"
+            },
+            {
+              "chord": "C",
+              "text": "同"
+            },
+            {
+              "chord": "D",
+              "text": "心"
+            },
+            {
+              "chord": "D7",
+              "text": "尊"
+            },
+            {
+              "chord": "G",
+              "text": "敬。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "加 冠 祂，"
+            },
+            {
+              "chord": "C",
+              "text": "加 冠，"
+            },
+            {
+              "chord": "D",
+              "text": "加 冠，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "穌"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "加 冠，"
+            },
+            {
+              "chord": "D",
+              "text": "加"
+            },
+            {
+              "chord": "G",
+              "text": "冠"
+            },
+            {
+              "chord": "C",
+              "text": "祂"
+            },
+            {
+              "chord": "G",
+              "text": "萬"
+            },
+            {
+              "chord": "D7",
+              "text": "有"
+            },
+            {
+              "chord": "G",
+              "text": "主！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你们堕落亚当后代，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "尊"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今成被赎圣徒，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "名！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "天"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今成被赎圣徒，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "使 全"
+          "segments": [
+            {
+              "chord": "",
+              "text": "靠恩得救，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "都 俯"
+          "segments": [
+            {
+              "chord": "",
+              "text": "应当敬拜。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "加冠祂，加冠，加冠，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "伏，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "加冠，加冠祂万有主！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "天"
+          "segments": [
+            {
+              "chord": "",
+              "text": "罪人，你心永不可忘，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "使"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂的苦胆、酸醋，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "全"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂的苦胆、酸醋，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "都"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今当到祂面前瞻望。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "加冠祂，加冠，加冠，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "俯"
+          "segments": [
+            {
+              "chord": "",
+              "text": "加冠，加冠祂万有主！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "但愿地上万族万民，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "伏，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "獻 上 冠 冕，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "都向救主俯伏。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "同"
+          "segments": [
+            {
+              "chord": "",
+              "text": "都向救主俯伏，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "心"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀、尊贵都归祂名。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "加冠祂，加冠，加冠，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "尊"
+          "segments": [
+            {
+              "chord": "",
+              "text": "加冠，加冠祂万有主！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "亿万群众歌声雷动，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "敬。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "加 冠 祂，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我也一同欢呼，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "加 冠，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我也一同欢呼，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "加 冠，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到永远敬拜称颂。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "加 冠，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "加冠祂，加冠，加冠，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "加"
-        },
-        {
-          "chord": "G",
-          "text": "冠"
-        },
-        {
-          "chord": "C",
-          "text": "祂"
-        },
-        {
-          "chord": "G",
-          "text": "萬"
-        },
-        {
-          "chord": "D7",
-          "text": "有"
-        },
-        {
-          "chord": "G",
-          "text": "主！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你们堕落亚当后代，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今成被赎圣徒，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今成被赎圣徒，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "靠恩得救，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "应当敬拜。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "加冠祂，加冠，加冠，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "加冠，加冠祂万有主！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "罪人，你心永不可忘，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂的苦胆、酸醋，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂的苦胆、酸醋，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今当到祂面前瞻望。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "加冠祂，加冠，加冠，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "加冠，加冠祂万有主！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但愿地上万族万民，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "都向救主俯伏。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "都向救主俯伏，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀、尊贵都归祂名。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "加冠祂，加冠，加冠，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "加冠，加冠祂万有主！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "亿万群众歌声雷动，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我也一同欢呼，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我也一同欢呼，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到永远敬拜称颂。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "加冠祂，加冠，加冠，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "加冠，加冠祂万有主！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "加冠，加冠祂万有主！"
+            }
+          ]
         }
       ]
     }
@@ -358,7 +398,16 @@
   "metadata": {
     "category": "赞美的话",
     "time": "3/4",
-    "hymn_code": "51234512171"
+    "hymn_code": "51234512171",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/139",
+        "language": "cn",
+        "category": "h",
+        "number": "139",
+        "title": "E139"
+      }
+    ]
   },
   "raw_sections": [
     "何等權能！ 耶穌尊名！",

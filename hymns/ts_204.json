@@ -1,132 +1,136 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/204",
   "title": "享受主的丰富",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Dm",
-          "text": "享 受"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "享 受"
+            },
+            {
+              "chord": "",
+              "text": "主， 享 受 主，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "主， 享 受 主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "享 受"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "享 受"
+            },
+            {
+              "chord": "",
+              "text": "祂 的"
+            },
+            {
+              "chord": "Dm",
+              "text": "豐 富。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "祂 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享 受 主， 享"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "豐 富。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享 受 主， 享"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "受 主，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "受 主，"
+            },
+            {
+              "chord": "C",
+              "text": "享 受"
+            },
+            {
+              "chord": "",
+              "text": "祂 的"
+            },
+            {
+              "chord": "Dm",
+              "text": "豐 富。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "享 受"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享 受 主，"
+            },
+            {
+              "chord": "Gm",
+              "text": "享"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "祂 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "受 主，"
+            },
+            {
+              "chord": "A7",
+              "text": "享 受"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "豐 富。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享 受 主，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 的"
+            },
+            {
+              "chord": "Dm",
+              "text": "豐 富。"
+            },
+            {
+              "chord": "",
+              "text": "享 受"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "享"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "受 主，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，"
+            },
+            {
+              "chord": "Gm",
+              "text": "享 受"
+            },
+            {
+              "chord": "",
+              "text": "主，"
+            },
+            {
+              "chord": "A7",
+              "text": "享 受"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "享 受"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 的"
-        },
-        {
-          "chord": "Dm",
-          "text": "豐 富。"
-        },
-        {
-          "chord": "",
-          "text": "享 受"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，"
-        },
-        {
-          "chord": "Gm",
-          "text": "享 受"
-        },
-        {
-          "chord": "",
-          "text": "主，"
-        },
-        {
-          "chord": "A7",
-          "text": "享 受"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 的"
-        },
-        {
-          "chord": "Dm",
-          "text": "豐 富。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 的"
+            },
+            {
+              "chord": "Dm",
+              "text": "豐 富。"
+            }
+          ]
         }
       ]
     }

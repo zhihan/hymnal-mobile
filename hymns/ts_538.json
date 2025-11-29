@@ -1,288 +1,308 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/538",
   "title": "非拉铁非─弟兄相爱",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "在 眾"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "在 眾"
+            },
+            {
+              "chord": "G",
+              "text": "召 會"
+            },
+            {
+              "chord": "",
+              "text": "湧 流"
+            },
+            {
+              "chord": "A",
+              "text": "不 息─"
+            },
+            {
+              "chord": "G",
+              "text": "弟"
+            },
+            {
+              "chord": "A7",
+              "text": "兄 相"
+            },
+            {
+              "chord": "D",
+              "text": "愛； 生"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "召 會"
+          "segments": [
+            {
+              "chord": "",
+              "text": "命、"
+            },
+            {
+              "chord": "G",
+              "text": "光、 愛，"
+            },
+            {
+              "chord": "",
+              "text": "流 通、"
+            },
+            {
+              "chord": "A",
+              "text": "洋 溢─"
+            },
+            {
+              "chord": "G",
+              "text": "弟"
+            },
+            {
+              "chord": "A7",
+              "text": "兄 相"
+            },
+            {
+              "chord": "D",
+              "text": "愛。"
+            },
+            {
+              "chord": "G",
+              "text": "聯 結"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "湧 流"
+          "segments": [
+            {
+              "chord": "",
+              "text": "為 一， 毫 無 猜 忌； 照 神"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "不 息─"
+          "segments": [
+            {
+              "chord": "",
+              "text": "接 納，"
+            },
+            {
+              "chord": "A",
+              "text": "不 憑"
+            },
+            {
+              "chord": "A7",
+              "text": "人 意；"
+            },
+            {
+              "chord": "D",
+              "text": "不 再"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "弟"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "讓 神"
+            },
+            {
+              "chord": "",
+              "text": "聖 靈"
+            },
+            {
+              "chord": "A",
+              "text": "憂 戚─"
+            },
+            {
+              "chord": "G",
+              "text": "弟"
+            },
+            {
+              "chord": "A7",
+              "text": "兄 相"
+            },
+            {
+              "chord": "D",
+              "text": "愛。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱中洗涤，交通无碍─弟兄相爱；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "兄 相"
+          "segments": [
+            {
+              "chord": "",
+              "text": "以爱裹伤，彼此怀搋─弟兄相爱。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "愛； 生"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "命、"
+          "segments": [
+            {
+              "chord": "",
+              "text": "凡事相信，凡事忍耐，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "光、 愛，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "凡事盼望，凡事遮盖；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "流 通、"
+          "segments": [
+            {
+              "chord": "",
+              "text": "彼此担就，恩慈相待─弟兄相爱。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "犹如枝子结果丰盈─弟兄相爱；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "洋 溢─"
+          "segments": [
+            {
+              "chord": "",
+              "text": "又是肢体同命同荣─弟兄相爱。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "弟"
+          "segments": [
+            {
+              "chord": "",
+              "text": "弃绝天然，己命不从，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "兄 相"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只随那灵，狭路前行；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "愛。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "出死入生在此证明─弟兄相爱。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "欢然上行，乐歌四起─弟兄相爱！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "聯 結"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "為 一， 毫 無 猜 忌； 照 神"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "接 納，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惧怕、忧疑尽都绝迹─弟兄相爱！"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "不 憑"
+          "segments": [
+            {
+              "chord": "",
+              "text": "和睦同居，美善无比，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "人 意；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "灵与生命─坚固根基；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "不 再"
+          "segments": [
+            {
+              "chord": "",
+              "text": "建造锡安，达到终极─弟兄相爱。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "讓 神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生命种子生长不已─弟兄相爱；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "聖 靈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"非拉铁非\"涌流、普及─弟兄相爱。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "憂 戚─"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主名、主话，持守不离，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "弟"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神圣之爱浇灌、充溢；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "兄 相"
-        },
-        {
-          "chord": "D",
-          "text": "愛。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱中洗涤，交通无碍─弟兄相爱；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "以爱裹伤，彼此怀搋─弟兄相爱。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "凡事相信，凡事忍耐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "凡事盼望，凡事遮盖；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "彼此担就，恩慈相待─弟兄相爱。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "犹如枝子结果丰盈─弟兄相爱；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "又是肢体同命同荣─弟兄相爱。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "弃绝天然，己命不从，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只随那灵，狭路前行；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "出死入生在此证明─弟兄相爱。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "欢然上行，乐歌四起─弟兄相爱！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惧怕、忧疑尽都绝迹─弟兄相爱！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "和睦同居，美善无比，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "灵与生命─坚固根基；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "建造锡安，达到终极─弟兄相爱。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生命种子生长不已─弟兄相爱；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "\"非拉铁非\"涌流、普及─弟兄相爱。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主名、主话，持守不离，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神圣之爱浇灌、充溢；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得胜有馀，无何能敌─弟兄相爱！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得胜有馀，无何能敌─弟兄相爱！"
+            }
+          ]
         }
       ]
     }
@@ -290,7 +310,16 @@
   "metadata": {
     "category": "教会的异象",
     "time": "4/4",
-    "hymn_code": "176121756771"
+    "hymn_code": "176121756771",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1277",
+        "language": "cn",
+        "category": "h",
+        "number": "1277",
+        "title": "E1277"
+      }
+    ]
   },
   "raw_sections": [
     "在 眾召 會湧 流不 息─弟兄 相愛； 生",

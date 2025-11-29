@@ -1,168 +1,172 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/731",
   "title": "不走宗教仪文错路",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "不 走"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "不 走"
+            },
+            {
+              "chord": "",
+              "text": "宗 教 儀 文 錯"
+            },
+            {
+              "chord": "G7",
+              "text": "路，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "宗 教 儀 文 錯"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不 搞"
+            },
+            {
+              "chord": "C",
+              "text": "字 句"
+            },
+            {
+              "chord": "",
+              "text": "道"
+            },
+            {
+              "chord": "G",
+              "text": "理；"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "路，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不 搞"
+          "segments": [
+            {
+              "chord": "",
+              "text": "轉 到 靈"
+            },
+            {
+              "chord": "D7",
+              "text": "中 纔"
+            },
+            {
+              "chord": "",
+              "text": "是"
+            },
+            {
+              "chord": "G",
+              "text": "正"
+            },
+            {
+              "chord": "Em",
+              "text": "路，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "字 句"
+          "segments": [
+            {
+              "chord": "",
+              "text": "快"
+            },
+            {
+              "chord": "A",
+              "text": "快 投"
+            },
+            {
+              "chord": "A7",
+              "text": "進 流"
+            },
+            {
+              "chord": "D7",
+              "text": "裡！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "道"
+          "segments": [
+            {
+              "chord": "",
+              "text": "活 在"
+            },
+            {
+              "chord": "G",
+              "text": "靈 裡"
+            },
+            {
+              "chord": "",
+              "text": "我 們 合"
+            },
+            {
+              "chord": "G7",
+              "text": "一，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "理；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "轉 到 靈"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "同 心"
+            },
+            {
+              "chord": "",
+              "text": "而 合"
+            },
+            {
+              "chord": "B7",
+              "text": "意。"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "中 纔"
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼 喊："
+            },
+            {
+              "chord": "G",
+              "text": "『哦 主，"
+            },
+            {
+              "chord": "",
+              "text": "阿"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "們， 阿 利 路"
+            },
+            {
+              "chord": "Em",
+              "text": "亞！』"
+            },
+            {
+              "chord": "G",
+              "text": "耶"
+            },
+            {
+              "chord": "D7",
+              "text": "穌"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "正"
-        },
-        {
-          "chord": "Em",
-          "text": "路，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "快"
-        },
-        {
-          "chord": "A",
-          "text": "快 投"
-        },
-        {
-          "chord": "A7",
-          "text": "進 流"
-        },
-        {
-          "chord": "D7",
-          "text": "裡！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "活 在"
-        },
-        {
-          "chord": "G",
-          "text": "靈 裡"
-        },
-        {
-          "chord": "",
-          "text": "我 們 合"
-        },
-        {
-          "chord": "G7",
-          "text": "一，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "同 心"
-        },
-        {
-          "chord": "",
-          "text": "而 合"
-        },
-        {
-          "chord": "B7",
-          "text": "意。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "呼 喊："
-        },
-        {
-          "chord": "G",
-          "text": "『哦 主，"
-        },
-        {
-          "chord": "",
-          "text": "阿"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "們， 阿 利 路"
-        },
-        {
-          "chord": "Em",
-          "text": "亞！』"
-        },
-        {
-          "chord": "G",
-          "text": "耶"
-        },
-        {
-          "chord": "D7",
-          "text": "穌"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是"
-        },
-        {
-          "chord": "G",
-          "text": "主！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是"
+            },
+            {
+              "chord": "G",
+              "text": "主！"
+            }
+          ]
         }
       ]
     }

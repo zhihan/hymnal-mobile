@@ -1,368 +1,400 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/433",
   "title": "踏上更高之地",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "我 今"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我 今"
+            },
+            {
+              "chord": "",
+              "text": "上 行， 毫"
+            },
+            {
+              "chord": "G7",
+              "text": "不 遲"
+            },
+            {
+              "chord": "C",
+              "text": "疑，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "上 行， 毫"
+          "segments": [
+            {
+              "chord": "",
+              "text": "每 日 邁"
+            },
+            {
+              "chord": "G",
+              "text": "向 更"
+            },
+            {
+              "chord": "",
+              "text": "高 境"
+            },
+            {
+              "chord": "D",
+              "text": "地；"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "不 遲"
+          "segments": [
+            {
+              "chord": "",
+              "text": "前"
+            },
+            {
+              "chord": "D7",
+              "text": "行 途"
+            },
+            {
+              "chord": "G",
+              "text": "中， 禱"
+            },
+            {
+              "chord": "G7",
+              "text": "告 不"
+            },
+            {
+              "chord": "C",
+              "text": "息："
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "疑，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"主 使 我"
+            },
+            {
+              "chord": "G",
+              "text": "立 更"
+            },
+            {
+              "chord": "",
+              "text": "高"
+            },
+            {
+              "chord": "D7",
+              "text": "之"
+            },
+            {
+              "chord": "G",
+              "text": "地。\" 主，"
+            },
+            {
+              "chord": "",
+              "text": "加"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "每 日 邁"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 力， 將 我 舉"
+            },
+            {
+              "chord": "D",
+              "text": "起， 使"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "向 更"
+          "segments": [
+            {
+              "chord": "",
+              "text": "踏"
+            },
+            {
+              "chord": "D7",
+              "text": "上 更"
+            },
+            {
+              "chord": "",
+              "text": "高 之"
+            },
+            {
+              "chord": "G",
+              "text": "地； 更"
+            },
+            {
+              "chord": "",
+              "text": "高"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "高 境"
+          "segments": [
+            {
+              "chord": "",
+              "text": "境 地， 憑"
+            },
+            {
+              "chord": "G7",
+              "text": "信 站"
+            },
+            {
+              "chord": "C",
+              "text": "立； 主，"
+            },
+            {
+              "chord": "",
+              "text": "使"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "地；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "G",
+              "text": "立 更"
+            },
+            {
+              "chord": "D7",
+              "text": "高 之"
+            },
+            {
+              "chord": "G",
+              "text": "地。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "前"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我心不愿徘徊旧地，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "行 途"
+          "segments": [
+            {
+              "chord": "",
+              "text": "疑惑四起，恐惧来袭；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "中， 禱"
+          "segments": [
+            {
+              "chord": "",
+              "text": "人虽宁愿姑且安逸，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "告 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我心却在更高之地。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，加我力，将我举起，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "息："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "\"主 使 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我踏上更高之地；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "立 更"
+          "segments": [
+            {
+              "chord": "",
+              "text": "更高境地，凭信站立；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "高"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，使我立更高之地。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "虽有恶者火箭攻击，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "之"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我要安坐诸天界里；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "地。\" 主，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "信心听见乐歌洋溢，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "加"
+          "segments": [
+            {
+              "chord": "",
+              "text": "发自最美，最高之地。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我 力， 將 我 舉"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，加我力，将我举起，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "起， 使"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我踏上更高之地；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "踏"
+          "segments": [
+            {
+              "chord": "",
+              "text": "更高境地，凭信站立；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "上 更"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，使我立更高之地。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "登上山巅，只看见你，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "高 之"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣光将我心眼开启；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "地； 更"
+          "segments": [
+            {
+              "chord": "",
+              "text": "安息在望，仍要求祈："
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "高"
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"主，领我往更高之地。\""
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "境 地， 憑"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，加我力，将我举起，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "信 站"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我踏上更高之地；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "立； 主，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "更高境地，凭信站立；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "使"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
-        },
-        {
-          "chord": "G",
-          "text": "立 更"
-        },
-        {
-          "chord": "D7",
-          "text": "高 之"
-        },
-        {
-          "chord": "G",
-          "text": "地。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我心不愿徘徊旧地，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "疑惑四起，恐惧来袭；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "人虽宁愿姑且安逸，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我心却在更高之地。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，加我力，将我举起，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我踏上更高之地；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "更高境地，凭信站立；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，使我立更高之地。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "虽有恶者火箭攻击，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我要安坐诸天界里；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "信心听见乐歌洋溢，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "发自最美，最高之地。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，加我力，将我举起，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我踏上更高之地；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "更高境地，凭信站立；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，使我立更高之地。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "登上山巅，只看见你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣光将我心眼开启；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "安息在望，仍要求祈："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "\"主，领我往更高之地。\""
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，加我力，将我举起，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我踏上更高之地；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "更高境地，凭信站立；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，使我立更高之地。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，使我立更高之地。"
+            }
+          ]
         }
       ]
     }
@@ -370,7 +402,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "3/4",
-    "hymn_code": "5513321621651312"
+    "hymn_code": "5513321621651312",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/396",
+        "language": "cn",
+        "category": "h",
+        "number": "396",
+        "title": "E396"
+      }
+    ]
   },
   "raw_sections": [
     "我 今上 行， 毫不 遲疑，",

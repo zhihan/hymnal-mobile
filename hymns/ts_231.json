@@ -1,376 +1,392 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/231",
   "title": "每当我喊主耶稣",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "每 當"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "每 當"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "G",
+              "text": "喊 主"
+            },
+            {
+              "chord": "C",
+              "text": "耶"
+            },
+            {
+              "chord": "C7",
+              "text": "穌，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 深"
+            },
+            {
+              "chord": "F",
+              "text": "處 總"
+            },
+            {
+              "chord": "",
+              "text": "覺 發"
+            },
+            {
+              "chord": "C",
+              "text": "燙；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "喊 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 生"
+            },
+            {
+              "chord": "Am",
+              "text": "命 冉"
+            },
+            {
+              "chord": "F",
+              "text": "冉 而"
+            },
+            {
+              "chord": "C",
+              "text": "升"
+            },
+            {
+              "chord": "Am",
+              "text": "上，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "耶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在"
+            },
+            {
+              "chord": "D",
+              "text": "我 裡"
+            },
+            {
+              "chord": "D7",
+              "text": "面 成"
+            },
+            {
+              "chord": "G",
+              "text": "長。"
+            }
+          ]
         },
         {
-          "chord": "C7",
-          "text": "穌，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 深"
+          "segments": [
+            {
+              "chord": "",
+              "text": "請"
+            },
+            {
+              "chord": "C",
+              "text": "來 同"
+            },
+            {
+              "chord": "G",
+              "text": "喊 主"
+            },
+            {
+              "chord": "C",
+              "text": "耶"
+            },
+            {
+              "chord": "C7",
+              "text": "穌，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "處 總"
+          "segments": [
+            {
+              "chord": "",
+              "text": "這 喜"
+            },
+            {
+              "chord": "F",
+              "text": "樂 地"
+            },
+            {
+              "chord": "",
+              "text": "上 無"
+            },
+            {
+              "chord": "C",
+              "text": "雙；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "覺 發"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主 且"
+            },
+            {
+              "chord": "Am",
+              "text": "要 進"
+            },
+            {
+              "chord": "F",
+              "text": "入 你"
+            },
+            {
+              "chord": "C",
+              "text": "裡"
+            },
+            {
+              "chord": "A7",
+              "text": "面，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "燙；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作"
+            },
+            {
+              "chord": "D7",
+              "text": "你 生"
+            },
+            {
+              "chord": "",
+              "text": "命"
+            },
+            {
+              "chord": "G7",
+              "text": "供 你"
+            },
+            {
+              "chord": "C",
+              "text": "享。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "祂 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "请来同喊主耶稣，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "命 冉"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂必使你得释放─"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "冉 而"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不管你的心多疏远，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "升"
+          "segments": [
+            {
+              "chord": "",
+              "text": "或如野马脱缰。"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "上，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只要简单的喊主，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我 裡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不管你在何地方；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "面 成"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一呼喊立刻祂就来，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "長。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂原近在你口旁。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "請"
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼喊我们的救主，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "來 同"
+          "segments": [
+            {
+              "chord": "",
+              "text": "每次祂都必垂听。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "喊 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何不来投靠祂胸怀，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "耶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "重担立变轻盈！"
+            }
+          ]
         },
         {
-          "chord": "C7",
-          "text": "穌，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "這 喜"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是我们的山寨，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "樂 地"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是喜乐、安息、力量；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "上 無"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只要你尝尝便知道，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "雙；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂恩典真是无量。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "主 且"
+          "segments": [
+            {
+              "chord": "",
+              "text": "上好乃是主自己，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "要 進"
+          "segments": [
+            {
+              "chord": "",
+              "text": "等着你白白接受。"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "入 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "让我们向祂全敞开，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "裡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "让祂生命拯救！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当祂再来的时候，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "你 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们不惊惶失措，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "并且要面见祂荣耀，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "供 你"
-        },
-        {
-          "chord": "C",
-          "text": "享。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "请来同喊主耶稣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂必使你得释放─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不管你的心多疏远，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "或如野马脱缰。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只要简单的喊主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不管你在何地方；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一呼喊立刻祂就来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂原近在你口旁。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "呼喊我们的救主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "每次祂都必垂听。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何不来投靠祂胸怀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "重担立变轻盈！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是我们的山寨，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是喜乐、安息、力量；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只要你尝尝便知道，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂恩典真是无量。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "上好乃是主自己，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "等着你白白接受。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让我们向祂全敞开，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让祂生命拯救！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当祂再来的时候，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们不惊惶失措，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "并且要面见祂荣耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "若一直让祂成熟。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "若一直让祂成熟。"
+            }
+          ]
         }
       ]
     }
@@ -378,7 +394,16 @@
   "metadata": {
     "category": "享受基督",
     "time": "3/4",
-    "hymn_code": "53321353146165"
+    "hymn_code": "53321353146165",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6231",
+        "language": "cn",
+        "category": "h",
+        "number": "6231",
+        "title": "E6231"
+      }
+    ]
   },
   "raw_sections": [
     "每 當我喊 主耶穌，",

@@ -1,400 +1,424 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/340",
   "title": "主，我爱你逐日益深挚",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "主， 我"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "主， 我"
+            },
+            {
+              "chord": "",
+              "text": "愛 你 逐"
+            },
+            {
+              "chord": "Em",
+              "text": "日 益"
+            },
+            {
+              "chord": "",
+              "text": "深 摯，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "愛 你 逐"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "主， 我"
+            },
+            {
+              "chord": "A7",
+              "text": "愛 你"
+            },
+            {
+              "chord": "",
+              "text": "今"
+            },
+            {
+              "chord": "D",
+              "text": "日 勝"
+            },
+            {
+              "chord": "",
+              "text": "昨 日。"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "日 益"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 不 能 再 活"
+            },
+            {
+              "chord": "Em",
+              "text": "無 你"
+            },
+            {
+              "chord": "",
+              "text": "之 處，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "深 摯，"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我 不"
+            },
+            {
+              "chord": "A7",
+              "text": "能 重"
+            },
+            {
+              "chord": "",
+              "text": "步 往"
+            },
+            {
+              "chord": "G",
+              "text": "日"
+            },
+            {
+              "chord": "A7",
+              "text": "行"
+            },
+            {
+              "chord": "D",
+              "text": "徑。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦， 在 往 昔 無"
+            },
+            {
+              "chord": "Em",
+              "text": "你 歲"
+            },
+            {
+              "chord": "",
+              "text": "月 中，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "當 我"
+            },
+            {
+              "chord": "A7",
+              "text": "失 喪，"
+            },
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "D",
+              "text": "來 施"
+            },
+            {
+              "chord": "",
+              "text": "拯 救。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 每 憶 過 往"
+            },
+            {
+              "chord": "Em",
+              "text": "其 餘"
+            },
+            {
+              "chord": "",
+              "text": "年 日，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "虛 空"
+            },
+            {
+              "chord": "A7",
+              "text": "心 痛"
+            },
+            {
+              "chord": "",
+              "text": "並 潸"
+            },
+            {
+              "chord": "G",
+              "text": "然"
+            },
+            {
+              "chord": "A7",
+              "text": "淚"
+            },
+            {
+              "chord": "D",
+              "text": "流。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "主， 我"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "主， 我"
+            },
+            {
+              "chord": "",
+              "text": "真"
+            },
+            {
+              "chord": "F♯m",
+              "text": "愛 你，"
+            },
+            {
+              "chord": "G",
+              "text": "日"
+            },
+            {
+              "chord": "A7",
+              "text": "益 深"
+            },
+            {
+              "chord": "D",
+              "text": "摯。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "愛 你"
-        },
-        {
-          "chord": "",
-          "text": "今"
-        },
-        {
-          "chord": "D",
-          "text": "日 勝"
-        },
-        {
-          "chord": "",
-          "text": "昨 日。"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "主， 我"
+            },
+            {
+              "chord": "",
+              "text": "真"
+            },
+            {
+              "chord": "F♯m",
+              "text": "愛 你，"
+            },
+            {
+              "chord": "",
+              "text": "歷"
+            },
+            {
+              "chord": "G",
+              "text": "久 彌"
+            },
+            {
+              "chord": "Em",
+              "text": "新"
+            },
+            {
+              "chord": "A7",
+              "text": "無"
+            },
+            {
+              "chord": "D",
+              "text": "止。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我 不 能 再 活"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦干渴吞噬我心深处，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "無 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "驱使我寻求以得满足。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "之 處，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦我曾尝试许多事物，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "却仍干渴且不得满足。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主你充满我全人深处，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "丰美甘甜最令人满足。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你是那灵，作我的一切，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你灵与我灵洋溢不住。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "我 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，我真爱你，日益深挚。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "能 重"
-        },
-        {
-          "chord": "",
-          "text": "步 往"
-        },
-        {
-          "chord": "G",
-          "text": "日"
-        },
-        {
-          "chord": "A7",
-          "text": "行"
-        },
-        {
-          "chord": "D",
-          "text": "徑。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，我真爱你，历久弥新无止。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "哦， 在 往 昔 無"
+          "segments": [
+            {
+              "chord": "",
+              "text": "追寻新事物总无止境，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "你 歲"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟你才是我终日渴求。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "月 中，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我前盲目且汲汲营营，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "直至饮你作活水源头。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "何感谢！主，你进入我灵，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "今在我里你不断扩展。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "何宝贝！主安家我心房，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "将我里面各部分充满。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "當 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，我真爱你，日益深挚。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "失 喪，"
-        },
-        {
-          "chord": "",
-          "text": "你"
-        },
-        {
-          "chord": "D",
-          "text": "來 施"
-        },
-        {
-          "chord": "",
-          "text": "拯 救。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 每 憶 過 往"
-        },
-        {
-          "chord": "Em",
-          "text": "其 餘"
-        },
-        {
-          "chord": "",
-          "text": "年 日，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "虛 空"
-        },
-        {
-          "chord": "A7",
-          "text": "心 痛"
-        },
-        {
-          "chord": "",
-          "text": "並 潸"
-        },
-        {
-          "chord": "G",
-          "text": "然"
-        },
-        {
-          "chord": "A7",
-          "text": "淚"
-        },
-        {
-          "chord": "D",
-          "text": "流。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Bm",
-          "text": "主， 我"
-        },
-        {
-          "chord": "",
-          "text": "真"
-        },
-        {
-          "chord": "F♯m",
-          "text": "愛 你，"
-        },
-        {
-          "chord": "G",
-          "text": "日"
-        },
-        {
-          "chord": "A7",
-          "text": "益 深"
-        },
-        {
-          "chord": "D",
-          "text": "摯。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Bm",
-          "text": "主， 我"
-        },
-        {
-          "chord": "",
-          "text": "真"
-        },
-        {
-          "chord": "F♯m",
-          "text": "愛 你，"
-        },
-        {
-          "chord": "",
-          "text": "歷"
-        },
-        {
-          "chord": "G",
-          "text": "久 彌"
-        },
-        {
-          "chord": "Em",
-          "text": "新"
-        },
-        {
-          "chord": "A7",
-          "text": "無"
-        },
-        {
-          "chord": "D",
-          "text": "止。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦干渴吞噬我心深处，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "驱使我寻求以得满足。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦我曾尝试许多事物，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "却仍干渴且不得满足。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主你充满我全人深处，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "丰美甘甜最令人满足。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你是那灵，作我的一切，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你灵与我灵洋溢不住。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，我真爱你，日益深挚。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，我真爱你，历久弥新无止。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "追寻新事物总无止境，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惟你才是我终日渴求。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我前盲目且汲汲营营，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直至饮你作活水源头。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何感谢！主，你进入我灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今在我里你不断扩展。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何宝贝！主安家我心房，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将我里面各部分充满。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，我真爱你，日益深挚。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，我真爱你，历久弥新无止。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，我真爱你，历久弥新无止。"
+            }
+          ]
         }
       ]
     }

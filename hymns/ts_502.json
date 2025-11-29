@@ -1,228 +1,232 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/502",
   "title": "神将被掳的带回锡安",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "當 神"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "當 神"
+            },
+            {
+              "chord": "",
+              "text": "將 那 被 擄 的 帶 回 錫 安，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "將 那 被 擄 的 帶 回 錫 安，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們 像 作 夢 的 人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "滿 懷"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們 像 作 夢 的 人，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "感 讚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們 滿 口 的 喜 笑，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "滿 舌"
+          "segments": [
+            {
+              "chord": "",
+              "text": "滿 懷"
+            },
+            {
+              "chord": "Em",
+              "text": "感 讚！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "歡 呼，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神 果"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們 滿 口 的 喜 笑，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "然 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "滿 舌"
+            },
+            {
+              "chord": "A7",
+              "text": "歡 呼，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神 果"
+            },
+            {
+              "chord": "D",
+              "text": "然 為"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "A7",
+              "text": "們 行"
+            },
+            {
+              "chord": "",
+              "text": "大"
+            },
+            {
+              "chord": "D",
+              "text": "事！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "們 行"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "主 阿，"
+            },
+            {
+              "chord": "",
+              "text": "使 歸 回 的"
+            },
+            {
+              "chord": "D",
+              "text": "增 多，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "大"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "像 南"
+            },
+            {
+              "chord": "",
+              "text": "地 河 水 復"
+            },
+            {
+              "chord": "D",
+              "text": "流！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "事！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "主 阿，"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "看 哪！"
+            },
+            {
+              "chord": "",
+              "text": "父 老 們 在"
+            },
+            {
+              "chord": "D",
+              "text": "號 哭，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "使 歸 回 的"
+          "segments": [
+            {
+              "chord": "E7",
+              "text": "聽 哪，"
+            },
+            {
+              "chord": "",
+              "text": "少 年 們 在 歡"
+            },
+            {
+              "chord": "A7",
+              "text": "呼！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "增 多，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "像 南"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如 今 我"
+            },
+            {
+              "chord": "D",
+              "text": "們"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "地 河 水 復"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一 同 經 營 並 唱 歌；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "流！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "看 哪！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "流 淚 撒 種 的 必 歡 呼 收"
+            },
+            {
+              "chord": "Em",
+              "text": "割。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "父 老 們 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿 利 路 亞！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "號 哭，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "E7",
-          "text": "聽 哪，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "將 禾 捆 都 帶"
+            },
+            {
+              "chord": "A7",
+              "text": "回 家；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "少 年 們 在 歡"
-        },
-        {
-          "chord": "A7",
-          "text": "呼！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如 今 我"
-        },
-        {
-          "chord": "D",
-          "text": "們"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一 同 經 營 並 唱 歌；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "流 淚 撒 種 的 必 歡 呼 收"
-        },
-        {
-          "chord": "Em",
-          "text": "割。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿 利 路 亞！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "將 禾 捆 都 帶"
-        },
-        {
-          "chord": "A7",
-          "text": "回 家；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在 錫"
-        },
-        {
-          "chord": "D",
-          "text": "安 榮"
-        },
-        {
-          "chord": "",
-          "text": "耀"
-        },
-        {
-          "chord": "A7",
-          "text": "歸 耶"
-        },
-        {
-          "chord": "",
-          "text": "和"
-        },
-        {
-          "chord": "D",
-          "text": "華！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在 錫"
+            },
+            {
+              "chord": "D",
+              "text": "安 榮"
+            },
+            {
+              "chord": "",
+              "text": "耀"
+            },
+            {
+              "chord": "A7",
+              "text": "歸 耶"
+            },
+            {
+              "chord": "",
+              "text": "和"
+            },
+            {
+              "chord": "D",
+              "text": "華！"
+            }
+          ]
         }
       ]
     }
@@ -230,7 +234,16 @@
   "metadata": {
     "category": "教会的异象",
     "time": "4/4",
-    "hymn_code": "51355654355"
+    "hymn_code": "51355654355",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1337",
+        "language": "cn",
+        "category": "h",
+        "number": "1337",
+        "title": "E1337*"
+      }
+    ]
   },
   "raw_sections": [
     "當 神將 那 被 擄 的 帶 回 錫 安，",

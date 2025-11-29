@@ -1,404 +1,444 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/443",
   "title": "基督乃是真葡萄树",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "基 督"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "基 督"
+            },
+            {
+              "chord": "",
+              "text": "乃 是"
+            },
+            {
+              "chord": "A",
+              "text": "真 葡"
+            },
+            {
+              "chord": "D",
+              "text": "萄 樹，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "乃 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們 是 祂 真 枝"
+            },
+            {
+              "chord": "A",
+              "text": "子；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "真 葡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "住 在"
+            },
+            {
+              "chord": "D",
+              "text": "主 裏，"
+            },
+            {
+              "chord": "",
+              "text": "讓 祂"
+            },
+            {
+              "chord": "G",
+              "text": "內 住，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "萄 樹，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生 命"
+            },
+            {
+              "chord": "D",
+              "text": "流 通"
+            },
+            {
+              "chord": "A7",
+              "text": "永 不"
+            },
+            {
+              "chord": "D",
+              "text": "止。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我 們 是 祂 真 枝"
+          "segments": [
+            {
+              "chord": "",
+              "text": "葡 萄"
+            },
+            {
+              "chord": "A",
+              "text": "樹， 真"
+            },
+            {
+              "chord": "",
+              "text": "住"
+            },
+            {
+              "chord": "D",
+              "text": "處，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "子；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "住 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是 我 主 與 我 聯"
+            },
+            {
+              "chord": "A",
+              "text": "屬；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "主 裏，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "與 主"
+            },
+            {
+              "chord": "D",
+              "text": "互 住"
+            },
+            {
+              "chord": "",
+              "text": "時 刻"
+            },
+            {
+              "chord": "G",
+              "text": "無 阻，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "讓 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 就"
+            },
+            {
+              "chord": "D",
+              "text": "得 識"
+            },
+            {
+              "chord": "A7",
+              "text": "祂 豐"
+            },
+            {
+              "chord": "D",
+              "text": "富。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂乃是话内住我灵，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "內 住，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "说话丰富且应时；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "流 通"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神圣发言儆醒倾听，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "永 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"互住\"经历才真实。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "葡萄树，真住处，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "止。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "葡 萄"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是我主与我联属；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "樹， 真"
+          "segments": [
+            {
+              "chord": "",
+              "text": "与主互住时刻无阻，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "住"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我就得识祂丰富。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们若是全心爱主，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "處，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是 我 主 與 我 聯"
+          "segments": [
+            {
+              "chord": "",
+              "text": "就必遵行祂吩咐；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "屬；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "與 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如此必能实际、深入，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "互 住"
+          "segments": [
+            {
+              "chord": "",
+              "text": "居住祂里享富足。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "葡萄树，真住处，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "時 刻"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是我主与我联属；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "無 阻，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 就"
+          "segments": [
+            {
+              "chord": "",
+              "text": "与主互住时刻无阻，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "得 識"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我就得识祂丰富。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂爱住在我们里面，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "祂 豐"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们也住祂爱里；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "富。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生命交通和谐、甘甜，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "带来喜乐无可比。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "祂乃是话内住我灵，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "葡萄树，真住处，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "是我主与我联属；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "与主互住时刻无阻，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我就得识祂丰富。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "说话丰富且应时；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如此互住何等宝贵，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "亲密、甜美又丰富，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "结出美果丰硕累累，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "神、人喜乐同满足。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "神圣发言儆醒倾听，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "葡萄树，真住处，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "\"互住\"经历才真实。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "是我主与我联属；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "葡萄树，真住处，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "与主互住时刻无阻，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "是我主与我联属；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "与主互住时刻无阻，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我就得识祂丰富。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们若是全心爱主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "就必遵行祂吩咐；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如此必能实际、深入，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "居住祂里享富足。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "葡萄树，真住处，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是我主与我联属；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "与主互住时刻无阻，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我就得识祂丰富。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂爱住在我们里面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们也住祂爱里；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生命交通和谐、甘甜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "带来喜乐无可比。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "葡萄树，真住处，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是我主与我联属；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "与主互住时刻无阻，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我就得识祂丰富。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如此互住何等宝贵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "亲密、甜美又丰富，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "结出美果丰硕累累，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神、人喜乐同满足。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "葡萄树，真住处，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是我主与我联属；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "与主互住时刻无阻，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我就得识祂丰富。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我就得识祂丰富。"
+            }
+          ]
         }
       ]
     }
@@ -406,7 +446,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "3/4",
-    "hymn_code": "513172151353132"
+    "hymn_code": "513172151353132",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1163",
+        "language": "cn",
+        "category": "h",
+        "number": "1163",
+        "title": "E1163"
+      }
+    ]
   },
   "raw_sections": [
     "基 督乃 是真 葡萄 樹，",

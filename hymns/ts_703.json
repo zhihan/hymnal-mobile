@@ -1,268 +1,276 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/703",
   "title": "我已得着归宿",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "前 我"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "前 我"
+            },
+            {
+              "chord": "",
+              "text": "曾 是"
+            },
+            {
+              "chord": "C",
+              "text": "個 孤"
+            },
+            {
+              "chord": "",
+              "text": "單"
+            },
+            {
+              "chord": "G",
+              "text": "的"
+            },
+            {
+              "chord": "C",
+              "text": "人，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "曾 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "追"
+            },
+            {
+              "chord": "G",
+              "text": "求 自"
+            },
+            {
+              "chord": "D7",
+              "text": "己 的"
+            },
+            {
+              "chord": "",
+              "text": "屬"
+            },
+            {
+              "chord": "G",
+              "text": "靈，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "個 孤"
+          "segments": [
+            {
+              "chord": "",
+              "text": "盼 望 我 能"
+            },
+            {
+              "chord": "C",
+              "text": "在 主"
+            },
+            {
+              "chord": "",
+              "text": "前"
+            },
+            {
+              "chord": "G",
+              "text": "侍"
+            },
+            {
+              "chord": "C",
+              "text": "立，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "單"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使"
+            },
+            {
+              "chord": "G",
+              "text": "祂 能"
+            },
+            {
+              "chord": "D7",
+              "text": "歡 喜"
+            },
+            {
+              "chord": "",
+              "text": "滿"
+            },
+            {
+              "chord": "G",
+              "text": "意。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "多"
+            },
+            {
+              "chord": "D",
+              "text": "年 來"
+            },
+            {
+              "chord": "",
+              "text": "雖 屢 覺 得 甜"
+            },
+            {
+              "chord": "A",
+              "text": "美，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "人，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "卻"
+            },
+            {
+              "chord": "Bm",
+              "text": "又 是"
+            },
+            {
+              "chord": "A7",
+              "text": "時 常"
+            },
+            {
+              "chord": "",
+              "text": "淒"
+            },
+            {
+              "chord": "D7",
+              "text": "涼，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "G",
+              "text": "是 已"
+            },
+            {
+              "chord": "",
+              "text": "有"
+            },
+            {
+              "chord": "C",
+              "text": "彀 多"
+            },
+            {
+              "chord": "",
+              "text": "的"
+            },
+            {
+              "chord": "G",
+              "text": "失"
+            },
+            {
+              "chord": "Am",
+              "text": "望，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "知"
+            },
+            {
+              "chord": "C",
+              "text": "道 不"
+            },
+            {
+              "chord": "D7",
+              "text": "能 再"
+            },
+            {
+              "chord": "",
+              "text": "這"
+            },
+            {
+              "chord": "G",
+              "text": "樣。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "追"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在主里我寻见了你们，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "求 自"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如寻见所爱的主，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "己 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我就知我已得着归宿，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "屬"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在家中享受丰富。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "靈，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "盼 望 我 能"
+          "segments": [
+            {
+              "chord": "",
+              "text": "借你们我能得着力量，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "在 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不知不觉的向前，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "前"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我何愿与你们永结联，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "侍"
-        },
-        {
-          "chord": "C",
-          "text": "立，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使"
-        },
-        {
-          "chord": "G",
-          "text": "祂 能"
-        },
-        {
-          "chord": "D7",
-          "text": "歡 喜"
-        },
-        {
-          "chord": "",
-          "text": "滿"
-        },
-        {
-          "chord": "G",
-          "text": "意。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "多"
-        },
-        {
-          "chord": "D",
-          "text": "年 來"
-        },
-        {
-          "chord": "",
-          "text": "雖 屢 覺 得 甜"
-        },
-        {
-          "chord": "A",
-          "text": "美，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "卻"
-        },
-        {
-          "chord": "Bm",
-          "text": "又 是"
-        },
-        {
-          "chord": "A7",
-          "text": "時 常"
-        },
-        {
-          "chord": "",
-          "text": "淒"
-        },
-        {
-          "chord": "D7",
-          "text": "涼，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
-        },
-        {
-          "chord": "G",
-          "text": "是 已"
-        },
-        {
-          "chord": "",
-          "text": "有"
-        },
-        {
-          "chord": "C",
-          "text": "彀 多"
-        },
-        {
-          "chord": "",
-          "text": "的"
-        },
-        {
-          "chord": "G",
-          "text": "失"
-        },
-        {
-          "chord": "Am",
-          "text": "望，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "知"
-        },
-        {
-          "chord": "C",
-          "text": "道 不"
-        },
-        {
-          "chord": "D7",
-          "text": "能 再"
-        },
-        {
-          "chord": "",
-          "text": "這"
-        },
-        {
-          "chord": "G",
-          "text": "樣。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在主里我寻见了你们，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如寻见所爱的主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我就知我已得着归宿，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在家中享受丰富。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借你们我能得着力量，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不知不觉的向前，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我何愿与你们永结联，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只望为你们而活。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只望为你们而活。"
+            }
+          ]
         }
       ]
     }

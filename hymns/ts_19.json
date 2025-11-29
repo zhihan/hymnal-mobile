@@ -1,436 +1,476 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/19",
   "title": "我在拿撒勒人耶稣面前",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "我 在"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我 在"
+            },
+            {
+              "chord": "",
+              "text": "拿 撒 勒 人 耶"
+            },
+            {
+              "chord": "Em",
+              "text": "穌 面"
+            },
+            {
+              "chord": "D",
+              "text": "前"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "拿 撒 勒 人 耶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "驚 異"
+            },
+            {
+              "chord": "D7",
+              "text": "的 站"
+            },
+            {
+              "chord": "G",
+              "text": "立，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "穌 面"
+          "segments": [
+            {
+              "chord": "G7",
+              "text": "希"
+            },
+            {
+              "chord": "C",
+              "text": "奇， 不"
+            },
+            {
+              "chord": "",
+              "text": "潔 罪 人"
+            },
+            {
+              "chord": "G",
+              "text": "如 我，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "前"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "祂"
+            },
+            {
+              "chord": "G",
+              "text": "愛 竟"
+            },
+            {
+              "chord": "",
+              "text": "然"
+            },
+            {
+              "chord": "D7",
+              "text": "能 臨"
+            },
+            {
+              "chord": "G",
+              "text": "及。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "驚 異"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何"
+            },
+            {
+              "chord": "C",
+              "text": "等 希"
+            },
+            {
+              "chord": "",
+              "text": "奇！"
+            },
+            {
+              "chord": "G",
+              "text": "何 等"
+            },
+            {
+              "chord": "",
+              "text": "奇 妙！"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "的 站"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "我 要"
+            },
+            {
+              "chord": "E",
+              "text": "歌 唱"
+            },
+            {
+              "chord": "Am",
+              "text": "到 萬"
+            },
+            {
+              "chord": "D7",
+              "text": "代，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "立，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G7",
-          "text": "希"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "何"
+            },
+            {
+              "chord": "D",
+              "text": "等 希"
+            },
+            {
+              "chord": "",
+              "text": "奇！"
+            },
+            {
+              "chord": "Em",
+              "text": "何"
+            },
+            {
+              "chord": "G",
+              "text": "等 奇"
+            },
+            {
+              "chord": "",
+              "text": "妙！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "奇， 不"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "是 我"
+            },
+            {
+              "chord": "",
+              "text": "救 主"
+            },
+            {
+              "chord": "G",
+              "text": "的"
+            },
+            {
+              "chord": "D7",
+              "text": "大"
+            },
+            {
+              "chord": "G",
+              "text": "愛！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "为我祂在园中祷告："
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "潔 罪 人"
+          "segments": [
+            {
+              "chord": "",
+              "text": "‘只要照你的旨意；’"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "如 我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂无眼泪为己忧伤，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "愛 竟"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为我流汗如血滴。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "何等希奇！何等奇妙！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "然"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我要歌唱到万代，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "能 臨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何等希奇！何等奇妙！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "及。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是我救主的大爱！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "何"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天使看见就怜恤祂，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "等 希"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从光明之中显现；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "奇！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在那极其伤痛晚上，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "何 等"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使祂力量得加添。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "何等希奇！何等奇妙！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "奇 妙！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "我 要"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我要歌唱到万代，"
+            }
+          ]
         },
         {
-          "chord": "E",
-          "text": "歌 唱"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何等希奇！何等奇妙！"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "到 萬"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是我救主的大爱！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂除去我罪与我忧，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "代，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "何"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将其全归祂自己；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "等 希"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂负重担到各各他，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "奇！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "独自受苦并受死。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "何等希奇！何等奇妙！"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "何"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我要歌唱到万代，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "等 奇"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何等希奇！何等奇妙！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "妙！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是我救主的大爱！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "是 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当那日与蒙赎的人，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "救 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在荣耀里见祂面，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何等欢乐歌唱祂爱，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "大"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一直到千万亿年。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "何等希奇！何等奇妙！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "愛！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我要歌唱到万代，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "为我祂在园中祷告："
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "何等希奇！何等奇妙！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "‘只要照你的旨意；’"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂无眼泪为己忧伤，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为我流汗如血滴。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何等希奇！何等奇妙！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我要歌唱到万代，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何等希奇！何等奇妙！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是我救主的大爱！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天使看见就怜恤祂，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从光明之中显现；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在那极其伤痛晚上，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使祂力量得加添。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何等希奇！何等奇妙！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我要歌唱到万代，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何等希奇！何等奇妙！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是我救主的大爱！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂除去我罪与我忧，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将其全归祂自己；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂负重担到各各他，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "独自受苦并受死。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何等希奇！何等奇妙！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我要歌唱到万代，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何等希奇！何等奇妙！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是我救主的大爱！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当那日与蒙赎的人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在荣耀里见祂面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何等欢乐歌唱祂爱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一直到千万亿年。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何等希奇！何等奇妙！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我要歌唱到万代，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何等希奇！何等奇妙！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是我救主的大爱！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是我救主的大爱！"
+            }
+          ]
         }
       ]
     }
@@ -438,7 +478,16 @@
   "metadata": {
     "category": "赞美的话",
     "time": "4/4",
-    "hymn_code": "553512311777121"
+    "hymn_code": "553512311777121",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/290",
+        "language": "cn",
+        "category": "h",
+        "number": "290",
+        "title": "E290"
+      }
+    ]
   },
   "raw_sections": [
     "我 在拿 撒 勒 人 耶穌 面前",

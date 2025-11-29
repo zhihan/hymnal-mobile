@@ -1,388 +1,400 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/841",
   "title": "第一声呼求",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "如 此"
+            },
+            {
+              "chord": "E",
+              "text": "好，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "如 此"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生 存"
+            },
+            {
+              "chord": "Bm",
+              "text": "價 值"
+            },
+            {
+              "chord": "E",
+              "text": "如 此"
+            },
+            {
+              "chord": "A",
+              "text": "高，"
+            }
+          ]
         },
         {
-          "chord": "E",
-          "text": "好，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生 存"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 熱 愛 生"
+            },
+            {
+              "chord": "D",
+              "text": "命，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "價 值"
+          "segments": [
+            {
+              "chord": "",
+              "text": "舉 手"
+            },
+            {
+              "chord": "Bm",
+              "text": "叩 求"
+            },
+            {
+              "chord": "E7",
+              "text": "真 理"
+            },
+            {
+              "chord": "",
+              "text": "之"
+            },
+            {
+              "chord": "A",
+              "text": "門；"
+            }
+          ]
         },
         {
-          "chord": "E",
-          "text": "如 此"
+          "segments": [
+            {
+              "chord": "",
+              "text": "第 一 聲 呼"
+            },
+            {
+              "chord": "D",
+              "text": "求，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "高，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 熱 愛 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "衝"
+            },
+            {
+              "chord": "Bm",
+              "text": "出 我"
+            },
+            {
+              "chord": "",
+              "text": "心"
+            },
+            {
+              "chord": "E",
+              "text": "靈，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "命，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "舉 手"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，"
+            },
+            {
+              "chord": "A",
+              "text": "主 耶"
+            },
+            {
+              "chord": "D",
+              "text": "穌！"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "叩 求"
+          "segments": [
+            {
+              "chord": "",
+              "text": "亮 光 之"
+            },
+            {
+              "chord": "Bm",
+              "text": "名， 自"
+            },
+            {
+              "chord": "",
+              "text": "由 之"
+            },
+            {
+              "chord": "D",
+              "text": "名，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "真 理"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 生 命"
+            },
+            {
+              "chord": "B7",
+              "text": "終 於"
+            },
+            {
+              "chord": "",
+              "text": "破"
+            },
+            {
+              "chord": "E",
+              "text": "曉，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "之"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，"
+            },
+            {
+              "chord": "B7",
+              "text": "開 始"
+            },
+            {
+              "chord": "",
+              "text": "有"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "門；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "了"
+            },
+            {
+              "chord": "E",
+              "text": "日"
+            },
+            {
+              "chord": "A",
+              "text": "出。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "第 一 聲 呼"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生命如此好，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "求，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "衝"
+          "segments": [
+            {
+              "chord": "",
+              "text": "本来就是神创造，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "出 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我热爱生命，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "心"
+          "segments": [
+            {
+              "chord": "",
+              "text": "迫切投入生命泉源；"
+            }
+          ]
         },
         {
-          "chord": "E",
-          "text": "靈，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "第一声呼求，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "主 耶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "冲出我心灵，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "穌！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "亮 光 之"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，主耶稣！"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "名， 自"
+          "segments": [
+            {
+              "chord": "",
+              "text": "活水之源，甘甜之泉，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "由 之"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我生命得到滋润，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "名，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，主耶稣！"
+            }
+          ]
         },
         {
-          "chord": "B7",
-          "text": "終 於"
+          "segments": [
+            {
+              "chord": "",
+              "text": "活水之源，甘甜之泉，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "破"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我生命涌流着活的泉水。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "生命如此好，"
+            }
+          ]
         },
         {
-          "chord": "E",
-          "text": "曉，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "追求真理要趁早，"
+            }
+          ]
         },
         {
-          "chord": "B7",
-          "text": "開 始"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我热爱生命，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "有"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "了"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我热爱生命之主；"
+            }
+          ]
         },
         {
-          "chord": "E",
-          "text": "日"
+          "segments": [
+            {
+              "chord": "",
+              "text": "第一声呼求，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "出。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "冲出我心灵，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "生命如此好，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，主耶稣！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "本来就是神创造，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "进入我心，进入我灵，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我热爱生命，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我生命因你成新人，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "迫切投入生命泉源；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，主耶稣！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "第一声呼求，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "进入我心，进入我灵，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "冲出我心灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，主耶稣！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "活水之源，甘甜之泉，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我生命得到滋润，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，主耶稣！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "活水之源，甘甜之泉，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我生命涌流着活的泉水。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生命如此好，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "追求真理要趁早，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我热爱生命，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我热爱生命之主；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "第一声呼求，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "冲出我心灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，主耶稣！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "进入我心，进入我灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我生命因你成新人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，主耶稣！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "进入我心，进入我灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我生命有了你境界全新。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我生命有了你境界全新。"
+            }
+          ]
         }
       ]
     }

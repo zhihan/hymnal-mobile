@@ -1,512 +1,560 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/258",
   "title": "我在你内，你在我里",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "主， 我"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "主， 我"
+            },
+            {
+              "chord": "A",
+              "text": "在 你"
+            },
+            {
+              "chord": "Bm",
+              "text": "內， 你"
+            },
+            {
+              "chord": "G",
+              "text": "在"
+            },
+            {
+              "chord": "A",
+              "text": "我"
+            },
+            {
+              "chord": "D",
+              "text": "裏；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "在 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "住 在"
+            },
+            {
+              "chord": "Em",
+              "text": "你 裏"
+            },
+            {
+              "chord": "A",
+              "text": "面， 時"
+            },
+            {
+              "chord": "G",
+              "text": "刻"
+            },
+            {
+              "chord": "A",
+              "text": "不"
+            },
+            {
+              "chord": "D",
+              "text": "離；"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "內， 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 與"
+            },
+            {
+              "chord": "A",
+              "text": "我 同"
+            },
+            {
+              "chord": "Bm",
+              "text": "在，"
+            },
+            {
+              "chord": "D",
+              "text": "何"
+            },
+            {
+              "chord": "G",
+              "text": "其"
+            },
+            {
+              "chord": "A",
+              "text": "親"
+            },
+            {
+              "chord": "D",
+              "text": "密；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主， 我"
+            },
+            {
+              "chord": "Em",
+              "text": "們 彼"
+            },
+            {
+              "chord": "A",
+              "text": "此， 聯"
+            },
+            {
+              "chord": "G",
+              "text": "結"
+            },
+            {
+              "chord": "A",
+              "text": "為"
+            },
+            {
+              "chord": "D",
+              "text": "一。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "神 聖"
+            },
+            {
+              "chord": "",
+              "text": "經 綸，"
+            },
+            {
+              "chord": "D",
+              "text": "神 聖"
+            },
+            {
+              "chord": "",
+              "text": "分 賜，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "在 你"
+            },
+            {
+              "chord": "",
+              "text": "三 一"
+            },
+            {
+              "chord": "D",
+              "text": "裏；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "裏；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "住 在"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "向 我"
+            },
+            {
+              "chord": "",
+              "text": "傳 輸，"
+            },
+            {
+              "chord": "D",
+              "text": "與 我"
+            },
+            {
+              "chord": "",
+              "text": "調 和，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "你 裏"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "用 你"
+            },
+            {
+              "chord": "D",
+              "text": "的 自"
+            },
+            {
+              "chord": "A",
+              "text": "己。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我是你枝子，你是真树；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "面， 時"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我在你里面，安然居住；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "刻"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，我心深愿，住留此处；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，我是属你，你也我属。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "神圣经纶，神圣分赐，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "離；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 與"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在你三一里；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "我 同"
+          "segments": [
+            {
+              "chord": "",
+              "text": "向我传输，与我调和，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "在，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "用你的自己。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "橄榄枝与你已经相接，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "何"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得丰富供应，取用不竭；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "其"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享生命涌流，永不停歇；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "親"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在此必成长，因这联结。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "神圣经纶，神圣分赐，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "密；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主， 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在你三一里；"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "們 彼"
+          "segments": [
+            {
+              "chord": "",
+              "text": "向我传输，与我调和，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "此， 聯"
+          "segments": [
+            {
+              "chord": "",
+              "text": "用你的自己。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "当我们内住彼此里面，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "結"
+          "segments": [
+            {
+              "chord": "",
+              "text": "实际的相联真是无间；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当我们停留彼此里面，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "一。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主观的相调才得完全。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A",
-          "text": "神 聖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神圣经纶，神圣分赐，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "經 綸，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在你三一里；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "神 聖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "向我传输，与我调和，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "分 賜，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "用你的自己。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A",
-          "text": "在 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，爱你享你，满足我需；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "三 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你成为我里应时话语；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "裏；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "向 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在我里代求，促我前去；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "傳 輸，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "结常存果子，让你继续。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "神圣经纶，神圣分赐，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "與 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在你三一里；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "調 和，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "用 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "向我传输，与我调和，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "的 自"
+          "segments": [
+            {
+              "chord": "",
+              "text": "用你的自己。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "生命在我里，流通四处；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "己。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你就能充满，洋溢不住；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们成为一，将你显出；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "住在你里面，喜乐满足。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我是你枝子，你是真树；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "神圣经纶，神圣分赐，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我在你里面，安然居住；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "在你三一里；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "主，我心深愿，住留此处；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "向我传输，与我调和，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "主，我是属你，你也我属。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神圣经纶，神圣分赐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在你三一里；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向我传输，与我调和，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "用你的自己。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "橄榄枝与你已经相接，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得丰富供应，取用不竭；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享生命涌流，永不停歇；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在此必成长，因这联结。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神圣经纶，神圣分赐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在你三一里；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向我传输，与我调和，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "用你的自己。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当我们内住彼此里面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "实际的相联真是无间；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当我们停留彼此里面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主观的相调才得完全。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神圣经纶，神圣分赐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在你三一里；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向我传输，与我调和，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "用你的自己。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，爱你享你，满足我需；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你成为我里应时话语；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在我里代求，促我前去；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "结常存果子，让你继续。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神圣经纶，神圣分赐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在你三一里；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向我传输，与我调和，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "用你的自己。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生命在我里，流通四处；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你就能充满，洋溢不住；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们成为一，将你显出；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "住在你里面，喜乐满足。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神圣经纶，神圣分赐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在你三一里；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向我传输，与我调和，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "用你的自己。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "用你的自己。"
+            }
+          ]
         }
       ]
     }

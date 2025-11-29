@@ -1,432 +1,472 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/138",
   "title": "同心渴求赐福的雨",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "\"我 必"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "\"我 必"
+            },
+            {
+              "chord": "",
+              "text": "叫"
+            },
+            {
+              "chord": "D",
+              "text": "雨 按"
+            },
+            {
+              "chord": "",
+              "text": "時"
+            },
+            {
+              "chord": "G",
+              "text": "落 下；"
+            },
+            {
+              "chord": "D",
+              "text": "那"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "叫"
+          "segments": [
+            {
+              "chord": "",
+              "text": "必 是"
+            },
+            {
+              "chord": "D7",
+              "text": "賜 福"
+            },
+            {
+              "chord": "",
+              "text": "的"
+            },
+            {
+              "chord": "G",
+              "text": "雨\"─"
+            },
+            {
+              "chord": "C",
+              "text": "立 約"
+            },
+            {
+              "chord": "",
+              "text": "的"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "雨 按"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神 堅 定"
+            },
+            {
+              "chord": "G",
+              "text": "應 許，"
+            },
+            {
+              "chord": "A",
+              "text": "藉 主"
+            },
+            {
+              "chord": "",
+              "text": "救"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "時"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "贖 而"
+            },
+            {
+              "chord": "",
+              "text": "賜"
+            },
+            {
+              "chord": "D7",
+              "text": "與。"
+            },
+            {
+              "chord": "G",
+              "text": "哦， 賜"
+            },
+            {
+              "chord": "",
+              "text": "福"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "的 雨， 我 們 同"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "落 下；"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "心 所"
+            },
+            {
+              "chord": "",
+              "text": "渴"
+            },
+            {
+              "chord": "D",
+              "text": "求；"
+            },
+            {
+              "chord": "G",
+              "text": "處 處"
+            },
+            {
+              "chord": "",
+              "text": "滴"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "那"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "必 是"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "落 盡"
+            },
+            {
+              "chord": "",
+              "text": "是"
+            },
+            {
+              "chord": "G",
+              "text": "憐 憫，"
+            },
+            {
+              "chord": "D",
+              "text": "哦 求"
+            },
+            {
+              "chord": "",
+              "text": "恩"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "賜 福"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "雨 來"
+            },
+            {
+              "chord": "",
+              "text": "澆"
+            },
+            {
+              "chord": "G",
+              "text": "透。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "赐福的雨必然降临，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "带来生命的复兴；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "雨\"─"
+          "segments": [
+            {
+              "chord": "",
+              "text": "宝贵甘霖滋润大地，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "立 約"
+          "segments": [
+            {
+              "chord": "",
+              "text": "山谷中沛雨充盈。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，赐福的雨，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神 堅 定"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们同心所渴求；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "應 許，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "处处滴落尽是怜悯，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "藉 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦求恩雨来浇透。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "赐福的雨必然降临，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "救"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "贖 而"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因主应许不落空；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "賜"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主命这雨按时落下，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "與。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我们不感力穷！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，赐福的雨，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "哦， 賜"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们同心所渴求；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "福"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "的 雨， 我 們 同"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "心 所"
+          "segments": [
+            {
+              "chord": "",
+              "text": "处处滴落尽是怜悯，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "渴"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦求恩雨来浇透。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "赐福的雨必然降临，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "求；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿主应许今成就；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "處 處"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主必向祂子民仰脸，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "滴"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当我们同心呼求。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "落 盡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，赐福的雨，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们同心所渴求；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "憐 憫，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "处处滴落尽是怜悯，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "哦 求"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦求恩雨来浇透。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "赐福的雨必然降临，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "恩"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "雨 來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "若人肯相信顺从；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "澆"
+          "segments": [
+            {
+              "chord": "",
+              "text": "舒爽时期就要来到，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "透。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "若人愿让神流通。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "赐福的雨必然降临，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，赐福的雨，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "带来生命的复兴；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们同心所渴求；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "宝贵甘霖滋润大地，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "处处滴落尽是怜悯，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "山谷中沛雨充盈。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，赐福的雨，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们同心所渴求；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "处处滴落尽是怜悯，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦求恩雨来浇透。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赐福的雨必然降临，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因主应许不落空；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主命这雨按时落下，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我们不感力穷！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，赐福的雨，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们同心所渴求；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "处处滴落尽是怜悯，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦求恩雨来浇透。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赐福的雨必然降临，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿主应许今成就；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主必向祂子民仰脸，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当我们同心呼求。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，赐福的雨，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们同心所渴求；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "处处滴落尽是怜悯，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦求恩雨来浇透。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赐福的雨必然降临，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "若人肯相信顺从；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "舒爽时期就要来到，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "若人愿让神流通。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，赐福的雨，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们同心所渴求；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "处处滴落尽是怜悯，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦求恩雨来浇透。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦求恩雨来浇透。"
+            }
+          ]
         }
       ]
     }
@@ -434,7 +474,16 @@
   "metadata": {
     "category": "灵与生命",
     "time": "6/8",
-    "hymn_code": "555567157777121"
+    "hymn_code": "555567157777121",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/260",
+        "language": "cn",
+        "category": "h",
+        "number": "260",
+        "title": "E260"
+      }
+    ]
   },
   "raw_sections": [
     "\"我 必叫雨 按時落 下；那",

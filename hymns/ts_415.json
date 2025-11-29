@@ -1,304 +1,316 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/415",
   "title": "来到施恩座",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "坦 然 來"
+            },
+            {
+              "chord": "G",
+              "text": "到 施"
+            },
+            {
+              "chord": "",
+              "text": "恩"
+            },
+            {
+              "chord": "D",
+              "text": "座，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "坦 然 來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得 著 憐"
+            },
+            {
+              "chord": "A",
+              "text": "恤 恩"
+            },
+            {
+              "chord": "",
+              "text": "惠 作 幫"
+            },
+            {
+              "chord": "D",
+              "text": "助；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "到 施"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不 再 環 繞 十"
+            },
+            {
+              "chord": "G",
+              "text": "字 架"
+            },
+            {
+              "chord": "",
+              "text": "敬"
+            },
+            {
+              "chord": "D",
+              "text": "拜，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "恩"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因 為 我"
+            },
+            {
+              "chord": "A",
+              "text": "主 已"
+            },
+            {
+              "chord": "",
+              "text": "不 在"
+            },
+            {
+              "chord": "D",
+              "text": "彼。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "座，"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "祂 已"
+            },
+            {
+              "chord": "",
+              "text": "衝"
+            },
+            {
+              "chord": "A7",
+              "text": "破 了"
+            },
+            {
+              "chord": "",
+              "text": "死"
+            },
+            {
+              "chord": "D",
+              "text": "亡 捆"
+            },
+            {
+              "chord": "",
+              "text": "綁，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "復 活"
+            },
+            {
+              "chord": "",
+              "text": "升 天 得 榮"
+            },
+            {
+              "chord": "D",
+              "text": "耀！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "現 今"
+            },
+            {
+              "chord": "",
+              "text": "祂"
+            },
+            {
+              "chord": "D",
+              "text": "從 施"
+            },
+            {
+              "chord": "Bm",
+              "text": "恩 寶"
+            },
+            {
+              "chord": "D",
+              "text": "座，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "用 祂 生"
+            },
+            {
+              "chord": "A7",
+              "text": "命 供"
+            },
+            {
+              "chord": "",
+              "text": "應"
+            },
+            {
+              "chord": "D",
+              "text": "我。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "得 著 憐"
+          "segments": [
+            {
+              "chord": "",
+              "text": "施恩宝座虽然在天上，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "恤 恩"
+          "segments": [
+            {
+              "chord": "",
+              "text": "借祂天梯通到我灵里；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "惠 作 幫"
+          "segments": [
+            {
+              "chord": "",
+              "text": "所以我不在魂里游荡，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "助；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "时时全人转回灵里。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣是我尊荣大祭司，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "喜欢体恤我软弱！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我靠着祂进到神前，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂必将我救到底。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "不 再 環 繞 十"
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美耶稣是我大祭司，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "字 架"
+          "segments": [
+            {
+              "chord": "",
+              "text": "按着麦基洗德的等次；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "敬"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我今为着神利益争战，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "拜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因 為 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂就代求供我能力。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "主 已"
+          "segments": [
+            {
+              "chord": "",
+              "text": "等我得胜杀败众仇敌，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "不 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂用饼酒供应我！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "彼。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "祂 已"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何等释放得享自由，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "衝"
-        },
-        {
-          "chord": "A7",
-          "text": "破 了"
-        },
-        {
-          "chord": "",
-          "text": "死"
-        },
-        {
-          "chord": "D",
-          "text": "亡 捆"
-        },
-        {
-          "chord": "",
-          "text": "綁，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "復 活"
-        },
-        {
-          "chord": "",
-          "text": "升 天 得 榮"
-        },
-        {
-          "chord": "D",
-          "text": "耀！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "現 今"
-        },
-        {
-          "chord": "",
-          "text": "祂"
-        },
-        {
-          "chord": "D",
-          "text": "從 施"
-        },
-        {
-          "chord": "Bm",
-          "text": "恩 寶"
-        },
-        {
-          "chord": "D",
-          "text": "座，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "用 祂 生"
-        },
-        {
-          "chord": "A7",
-          "text": "命 供"
-        },
-        {
-          "chord": "",
-          "text": "應"
-        },
-        {
-          "chord": "D",
-          "text": "我。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "施恩宝座虽然在天上，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借祂天梯通到我灵里；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "所以我不在魂里游荡，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "时时全人转回灵里。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣是我尊荣大祭司，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "喜欢体恤我软弱！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我靠着祂进到神前，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂必将我救到底。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞美耶稣是我大祭司，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "按着麦基洗德的等次；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我今为着神利益争战，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂就代求供我能力。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "等我得胜杀败众仇敌，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂用饼酒供应我！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何等释放得享自由，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "经历祂完全救恩！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "经历祂完全救恩！"
+            }
+          ]
         }
       ]
     }

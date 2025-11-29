@@ -1,76 +1,80 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/229",
   "title": "主名何甘甜",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "哦， 主"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "哦， 主"
+            },
+            {
+              "chord": "",
+              "text": "耶 穌！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "耶 穌！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦， 主 耶 穌！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "呼 喊 你 名 何 甘"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦， 主 耶 穌！"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "甜！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "比 酒"
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼 喊 你 名 何 甘"
+            },
+            {
+              "chord": "A",
+              "text": "甜！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "更 美，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "比 酒"
+            },
+            {
+              "chord": "A7",
+              "text": "更 美，"
+            },
+            {
+              "chord": "",
+              "text": "比 蜜"
+            },
+            {
+              "chord": "D",
+              "text": "更 甜；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "比 蜜"
-        },
-        {
-          "chord": "D",
-          "text": "更 甜；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦， 主"
-        },
-        {
-          "chord": "A7",
-          "text": "耶 穌！"
-        },
-        {
-          "chord": "",
-          "text": "阿"
-        },
-        {
-          "chord": "D",
-          "text": "們。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦， 主"
+            },
+            {
+              "chord": "A7",
+              "text": "耶 穌！"
+            },
+            {
+              "chord": "",
+              "text": "阿"
+            },
+            {
+              "chord": "D",
+              "text": "們。"
+            }
+          ]
         }
       ]
     }

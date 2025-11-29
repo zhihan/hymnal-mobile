@@ -1,228 +1,236 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/845",
   "title": "至于我和我家",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Gm",
-          "text": "那 些"
+          "segments": [
+            {
+              "chord": "Gm",
+              "text": "那 些"
+            },
+            {
+              "chord": "",
+              "text": "愁 苦、 憂"
+            },
+            {
+              "chord": "D",
+              "text": "慮 的"
+            },
+            {
+              "chord": "",
+              "text": "日 子，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "愁 苦、 憂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "已"
+            },
+            {
+              "chord": "D7",
+              "text": "經 一"
+            },
+            {
+              "chord": "",
+              "text": "去 不 再"
+            },
+            {
+              "chord": "Gm",
+              "text": "回，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "慮 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "喜 樂 活 泉 潺"
+            },
+            {
+              "chord": "D",
+              "text": "潺 流"
+            },
+            {
+              "chord": "",
+              "text": "不 止，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "日 子，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "平"
+            },
+            {
+              "chord": "D7",
+              "text": "安 在"
+            },
+            {
+              "chord": "",
+              "text": "心 間， 不 消"
+            },
+            {
+              "chord": "Gm",
+              "text": "退；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，"
+            },
+            {
+              "chord": "Cm",
+              "text": "主 耶"
+            },
+            {
+              "chord": "",
+              "text": "穌， 我 感 謝"
+            },
+            {
+              "chord": "Gm",
+              "text": "你，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "這 都 是 因"
+            },
+            {
+              "chord": "D",
+              "text": "你 的"
+            },
+            {
+              "chord": "",
+              "text": "憐"
+            },
+            {
+              "chord": "Gm",
+              "text": "憫，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "使"
+            },
+            {
+              "chord": "Cm",
+              "text": "我 全"
+            },
+            {
+              "chord": "",
+              "text": "家 完 全 屬"
+            },
+            {
+              "chord": "Gm",
+              "text": "你，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "滿 享 神 的"
+            },
+            {
+              "chord": "D",
+              "text": "救"
+            },
+            {
+              "chord": "Gm",
+              "text": "恩。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "已"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我要宣告："
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "經 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "至于我和我家，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "去 不 再"
+          "segments": [
+            {
+              "chord": "",
+              "text": "必定事奉耶和华，"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "回，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "喜 樂 活 泉 潺"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从大到小个个尊主为大，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "潺 流"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一心成全神计画；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "不 止，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "平"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，主耶稣，我赞美你，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "安 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的家作你的住处，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "心 間， 不 消"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟愿这家圣别归你，"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "退；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，"
-        },
-        {
-          "chord": "Cm",
-          "text": "主 耶"
-        },
-        {
-          "chord": "",
-          "text": "穌， 我 感 謝"
-        },
-        {
-          "chord": "Gm",
-          "text": "你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "這 都 是 因"
-        },
-        {
-          "chord": "D",
-          "text": "你 的"
-        },
-        {
-          "chord": "",
-          "text": "憐"
-        },
-        {
-          "chord": "Gm",
-          "text": "憫，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使"
-        },
-        {
-          "chord": "Cm",
-          "text": "我 全"
-        },
-        {
-          "chord": "",
-          "text": "家 完 全 屬"
-        },
-        {
-          "chord": "Gm",
-          "text": "你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "滿 享 神 的"
-        },
-        {
-          "chord": "D",
-          "text": "救"
-        },
-        {
-          "chord": "Gm",
-          "text": "恩。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我要宣告："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "至于我和我家，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "必定事奉耶和华，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从大到小个个尊主为大，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一心成全神计画；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，主耶稣，我赞美你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的家作你的住处，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惟愿这家圣别归你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "多人因此蒙福。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "多人因此蒙福。"
+            }
+          ]
         }
       ]
     }

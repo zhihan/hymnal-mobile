@@ -1,644 +1,684 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/33",
   "title": "主耶和华永是我牧者",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "主 耶"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "主 耶"
+            },
+            {
+              "chord": "",
+              "text": "和 華"
+            },
+            {
+              "chord": "D7",
+              "text": "永 是"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "G",
+              "text": "牧 者，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "和 華"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使"
+            },
+            {
+              "chord": "A",
+              "text": "我 躺"
+            },
+            {
+              "chord": "",
+              "text": "臥， 令 我 喜"
+            },
+            {
+              "chord": "D",
+              "text": "樂；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "永 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 領 我 在"
+            },
+            {
+              "chord": "D7",
+              "text": "可 安"
+            },
+            {
+              "chord": "",
+              "text": "歇"
+            },
+            {
+              "chord": "G",
+              "text": "水 邊，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何"
+            },
+            {
+              "chord": "D",
+              "text": "等 滿"
+            },
+            {
+              "chord": "",
+              "text": "足，"
+            },
+            {
+              "chord": "A7",
+              "text": "何 等"
+            },
+            {
+              "chord": "",
+              "text": "甘"
+            },
+            {
+              "chord": "D",
+              "text": "甜！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 一 生 一 世 必 有 恩 惠 慈 愛 隨 著 我，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "牧 者，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使"
+          "segments": [
+            {
+              "chord": "",
+              "text": "必 有"
+            },
+            {
+              "chord": "A",
+              "text": "恩 惠"
+            },
+            {
+              "chord": "",
+              "text": "慈"
+            },
+            {
+              "chord": "A7",
+              "text": "愛 隨"
+            },
+            {
+              "chord": "",
+              "text": "著"
+            },
+            {
+              "chord": "D",
+              "text": "我。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "我 躺"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 一 生 一 世 必 有 恩 惠 慈 愛 隨 著 我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "臥， 令 我 喜"
+          "segments": [
+            {
+              "chord": "",
+              "text": "必 有"
+            },
+            {
+              "chord": "A",
+              "text": "恩 惠"
+            },
+            {
+              "chord": "",
+              "text": "慈"
+            },
+            {
+              "chord": "A7",
+              "text": "愛 隨"
+            },
+            {
+              "chord": "",
+              "text": "著"
+            },
+            {
+              "chord": "D7",
+              "text": "我。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "樂；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 領 我 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 且 要"
+            },
+            {
+              "chord": "G",
+              "text": "住 在"
+            },
+            {
+              "chord": "",
+              "text": "神 的 殿 中，"
+            },
+            {
+              "chord": "D",
+              "text": "直 到"
+            },
+            {
+              "chord": "",
+              "text": "永 遠，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "可 安"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享 受 祂"
+            },
+            {
+              "chord": "Bm",
+              "text": "為 我"
+            },
+            {
+              "chord": "",
+              "text": "擺"
+            },
+            {
+              "chord": "E7",
+              "text": "設 的"
+            },
+            {
+              "chord": "",
+              "text": "筵 席。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "歇"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "我 一"
+            },
+            {
+              "chord": "",
+              "text": "生"
+            },
+            {
+              "chord": "D",
+              "text": "一 世"
+            },
+            {
+              "chord": "",
+              "text": "必 有 恩 惠 慈 愛 隨 著 我，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "水 邊，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "必 有 恩"
+            },
+            {
+              "chord": "A",
+              "text": "惠 慈"
+            },
+            {
+              "chord": "",
+              "text": "愛"
+            },
+            {
+              "chord": "A7",
+              "text": "隨 著"
+            },
+            {
+              "chord": "",
+              "text": "我。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "何"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的牧者是我青草地，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "等 滿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "也是流水 使我安息；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "足，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我在灵中享受祂丰富，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "何 等"
+          "segments": [
+            {
+              "chord": "",
+              "text": "吃喝祂哦！何等蒙福！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我一生一世必有恩惠慈爱随着我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "甘"
+          "segments": [
+            {
+              "chord": "",
+              "text": "必有恩惠慈爱随着我。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "甜！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 一 生 一 世 必 有 恩 惠 慈 愛 隨 著 我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "必 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我一生一世必有恩惠慈爱随着我，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "恩 惠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "必有恩惠慈爱随着我。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "慈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我且要住在神的殿中，直到永远，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "愛 隨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享受祂为我摆设的筵席。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我一生一世必有恩惠慈爱随着我，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "必有恩惠慈爱随着我。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我 一 生 一 世 必 有 恩 惠 慈 愛 隨 著 我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "必 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的牧者使我魂苏醒，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "恩 惠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "行走义路，随祂引领；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "慈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我虽行过死荫的幽谷，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "愛 隨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "有祂同在，我能安渡。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我一生一世必有恩惠慈爱随着我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "必有恩惠慈爱随着我。"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "我。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 且 要"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我一生一世必有恩惠慈爱随着我，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "住 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "必有恩惠慈爱随着我。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "神 的 殿 中，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我且要住在神的殿中，直到永远，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "直 到"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享受祂为我摆设的筵席。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "永 遠，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享 受 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我一生一世必有恩惠慈爱随着我，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "為 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "必有恩惠慈爱随着我。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂在敌前为我设筵席，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "擺"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在筵席间 击败仇敌，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "設 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "丰厚膏油祂抹我头上，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "筵 席。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的福杯 满溢流淌。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A7",
-          "text": "我 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我一生一世必有恩惠慈爱随着我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "必有恩惠慈爱随着我。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "一 世"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我一生一世必有恩惠慈爱随着我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "必 有 恩 惠 慈 愛 隨 著 我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "必 有 恩"
+          "segments": [
+            {
+              "chord": "",
+              "text": "必有恩惠慈爱随着我。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "惠 慈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我且要住在神的殿中，直到永远，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享受祂为我摆设的筵席。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "隨 著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我一生一世必有恩惠慈爱随着我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "必有恩惠慈爱随着我。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我的牧者是我青草地，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我今安住在我神殿里，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "享受神的 美善不已；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的喜乐非口舌能述，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "因主自己 是我满足。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "也是流水 使我安息；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我一生一世必有恩惠慈爱随着我，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我在灵中享受祂丰富，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "必有恩惠慈爱随着我。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "吃喝祂哦！何等蒙福！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我一生一世必有恩惠慈爱随着我，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我一生一世必有恩惠慈爱随着我，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "必有恩惠慈爱随着我。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "必有恩惠慈爱随着我。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我且要住在神的殿中，直到永远，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我一生一世必有恩惠慈爱随着我，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "享受祂为我摆设的筵席。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "必有恩惠慈爱随着我。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我一生一世必有恩惠慈爱随着我，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我且要住在神的殿中，直到永远，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享受祂为我摆设的筵席。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我一生一世必有恩惠慈爱随着我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "必有恩惠慈爱随着我。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的牧者使我魂苏醒，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "行走义路，随祂引领；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我虽行过死荫的幽谷，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有祂同在，我能安渡。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我一生一世必有恩惠慈爱随着我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "必有恩惠慈爱随着我。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我一生一世必有恩惠慈爱随着我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "必有恩惠慈爱随着我。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我且要住在神的殿中，直到永远，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享受祂为我摆设的筵席。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我一生一世必有恩惠慈爱随着我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "必有恩惠慈爱随着我。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂在敌前为我设筵席，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在筵席间 击败仇敌，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "丰厚膏油祂抹我头上，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的福杯 满溢流淌。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我一生一世必有恩惠慈爱随着我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "必有恩惠慈爱随着我。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我一生一世必有恩惠慈爱随着我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "必有恩惠慈爱随着我。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我且要住在神的殿中，直到永远，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享受祂为我摆设的筵席。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我一生一世必有恩惠慈爱随着我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "必有恩惠慈爱随着我。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我今安住在我神殿里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享受神的 美善不已；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的喜乐非口舌能述，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因主自己 是我满足。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我一生一世必有恩惠慈爱随着我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "必有恩惠慈爱随着我。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我一生一世必有恩惠慈爱随着我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "必有恩惠慈爱随着我。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我且要住在神的殿中，直到永远，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享受祂为我摆设的筵席。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我一生一世必有恩惠慈爱随着我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "必有恩惠慈爱随着我。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "必有恩惠慈爱随着我。"
+            }
+          ]
         }
       ]
     }
@@ -646,7 +686,16 @@
   "metadata": {
     "category": "赞美的话",
     "time": "3/4",
-    "hymn_code": "51113216112222123"
+    "hymn_code": "51113216112222123",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1170",
+        "language": "cn",
+        "category": "h",
+        "number": "1170",
+        "title": "E1170"
+      }
+    ]
   },
   "raw_sections": [
     "主 耶和 華永 是我牧 者，",

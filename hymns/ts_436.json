@@ -1,360 +1,376 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/436",
   "title": "惟夸荣耀十架",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "基 督"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "基 督"
+            },
+            {
+              "chord": "Bm",
+              "text": "所 賜"
+            },
+            {
+              "chord": "A",
+              "text": "豐 滿"
+            },
+            {
+              "chord": "D",
+              "text": "福 分，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "所 賜"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是"
+            },
+            {
+              "chord": "A7",
+              "text": "否"
+            },
+            {
+              "chord": "D",
+              "text": "渴 慕"
+            },
+            {
+              "chord": "A7",
+              "text": "能 得"
+            },
+            {
+              "chord": "D",
+              "text": "著？"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "豐 滿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主 所"
+            },
+            {
+              "chord": "Bm",
+              "text": "命 定"
+            },
+            {
+              "chord": "A",
+              "text": "得 勝"
+            },
+            {
+              "chord": "D",
+              "text": "生 活，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "福 分，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祕"
+            },
+            {
+              "chord": "A7",
+              "text": "訣"
+            },
+            {
+              "chord": "D",
+              "text": "是 否"
+            },
+            {
+              "chord": "A7",
+              "text": "已 掌"
+            },
+            {
+              "chord": "D",
+              "text": "握？"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "否"
+          "segments": [
+            {
+              "chord": "",
+              "text": "答 案 明 示"
+            },
+            {
+              "chord": "G",
+              "text": "於 祂"
+            },
+            {
+              "chord": "D",
+              "text": "聖 言："
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "渴 慕"
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"基 督 是 我"
+            },
+            {
+              "chord": "G",
+              "text": "們 生"
+            },
+            {
+              "chord": "A",
+              "text": "命；\""
+            },
+            {
+              "chord": "D",
+              "text": "只 要"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "能 得"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "向 祂"
+            },
+            {
+              "chord": "A",
+              "text": "敞 開"
+            },
+            {
+              "chord": "D",
+              "text": "心 懷，"
+            },
+            {
+              "chord": "",
+              "text": "憑"
+            },
+            {
+              "chord": "A7",
+              "text": "信"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "著？"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "取 用"
+            },
+            {
+              "chord": "A7",
+              "text": "祂 豐"
+            },
+            {
+              "chord": "D",
+              "text": "盛。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "主 所"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督受死将你救赎，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "命 定"
+          "segments": [
+            {
+              "chord": "",
+              "text": "且要居衷掌王权；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "得 勝"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在你里外显祂能力，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "生 活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祕"
+          "segments": [
+            {
+              "chord": "",
+              "text": "日复一日时加添。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "訣"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在你不能，在祂都能─"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "是 否"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂灵要作工你身；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "已 掌"
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"不再是我，乃是基督\"─"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "握？"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你要见证此深恩。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "答 案 明 示"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神的丰满住祂里面，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "於 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你在祂里得丰盛；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "聖 言："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "\"基 督 是 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "起来，取用儿子名分，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "們 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "切勿辜负父恩情。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "命；\""
+          "segments": [
+            {
+              "chord": "",
+              "text": "全是恩典，绝不迟误，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "只 要"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Bm",
-          "text": "向 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只要赞美来领受；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "敞 開"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神圣供备永无不足，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "心 懷，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "凭祂而活何饶优。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主我前来，单纯信靠，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "憑"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你的圣言永不变，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "信"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "取 用"
+          "segments": [
+            {
+              "chord": "",
+              "text": "信你救赎洗罪有能，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "祂 豐"
+          "segments": [
+            {
+              "chord": "",
+              "text": "信你得胜、得荣冕。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "盛。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "但愿你那无穷生命"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "基督受死将你救赎，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "带爱从我流不息，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "且要居衷掌王权；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "临及暗中无望人群，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在你里外显祂能力，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "日复一日时加添。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在你不能，在祂都能─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂灵要作工你身；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "\"不再是我，乃是基督\"─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你要见证此深恩。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神的丰满住祂里面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你在祂里得丰盛；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "起来，取用儿子名分，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "切勿辜负父恩情。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全是恩典，绝不迟误，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只要赞美来领受；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神圣供备永无不足，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "凭祂而活何饶优。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主我前来，单纯信靠，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你的圣言永不变，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "信你救赎洗罪有能，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "信你得胜、得荣冕。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但愿你那无穷生命"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "带爱从我流不息，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "临及暗中无望人群，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "引领多人来归依。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "引领多人来归依。"
+            }
+          ]
         }
       ]
     }
@@ -362,7 +378,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "2/4",
-    "hymn_code": "332112231"
+    "hymn_code": "332112231",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/641",
+        "language": "cn",
+        "category": "h",
+        "number": "641",
+        "title": "E641"
+      }
+    ]
   },
   "raw_sections": [
     "基 督所 賜豐 滿福 分，",

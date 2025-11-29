@@ -1,296 +1,304 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/705",
   "title": "召会是我甜美家",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "恩 主"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "恩 主"
+            },
+            {
+              "chord": "A",
+              "text": "是 我"
+            },
+            {
+              "chord": "Bm",
+              "text": "所 至"
+            },
+            {
+              "chord": "D",
+              "text": "愛，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "是 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "G",
+              "text": "心"
+            },
+            {
+              "chord": "D",
+              "text": "我 命"
+            },
+            {
+              "chord": "",
+              "text": "所"
+            },
+            {
+              "chord": "A",
+              "text": "歸。"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "所 至"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是"
+            },
+            {
+              "chord": "D",
+              "text": "我 時"
+            },
+            {
+              "chord": "",
+              "text": "刻"
+            },
+            {
+              "chord": "G",
+              "text": "扶"
+            },
+            {
+              "chord": "F♯m",
+              "text": "持，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "愛，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "也 是"
+            },
+            {
+              "chord": "Em",
+              "text": "我 體"
+            },
+            {
+              "chord": "A7",
+              "text": "恤 安"
+            },
+            {
+              "chord": "D",
+              "text": "慰。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "前"
+            },
+            {
+              "chord": "A",
+              "text": "捨 命"
+            },
+            {
+              "chord": "",
+              "text": "成"
+            },
+            {
+              "chord": "D",
+              "text": "救 贖，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "今"
+            },
+            {
+              "chord": "F♯m",
+              "text": "是"
+            },
+            {
+              "chord": "Bm",
+              "text": "生 命"
+            },
+            {
+              "chord": "G",
+              "text": "泉"
+            },
+            {
+              "chord": "A",
+              "text": "源，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "成 為"
+            },
+            {
+              "chord": "A7",
+              "text": "我 安"
+            },
+            {
+              "chord": "D",
+              "text": "息，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "是"
+            },
+            {
+              "chord": "A",
+              "text": "我"
+            },
+            {
+              "chord": "E7",
+              "text": "的 喜"
+            },
+            {
+              "chord": "A",
+              "text": "樂。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "恩"
+            },
+            {
+              "chord": "D",
+              "text": "主 阿！"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "G",
+              "text": "愛"
+            },
+            {
+              "chord": "D",
+              "text": "你，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 愛"
+            },
+            {
+              "chord": "Em",
+              "text": "你， 你，"
+            },
+            {
+              "chord": "A7",
+              "text": "到 永"
+            },
+            {
+              "chord": "D",
+              "text": "遠！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "召会是我甜美家，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "心"
+          "segments": [
+            {
+              "chord": "",
+              "text": "满足我的心怀。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是主心爱配偶，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "所"
+          "segments": [
+            {
+              "chord": "",
+              "text": "也是我终生所投。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "歸。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在这家中有爱，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我 時"
+          "segments": [
+            {
+              "chord": "",
+              "text": "扶持供应无限，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "刻"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我有力量，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "扶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "引领我前往。"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "持，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "也 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "召会阿！我爱你，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "我 體"
-        },
-        {
-          "chord": "A7",
-          "text": "恤 安"
-        },
-        {
-          "chord": "D",
-          "text": "慰。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "前"
-        },
-        {
-          "chord": "A",
-          "text": "捨 命"
-        },
-        {
-          "chord": "",
-          "text": "成"
-        },
-        {
-          "chord": "D",
-          "text": "救 贖，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "今"
-        },
-        {
-          "chord": "F♯m",
-          "text": "是"
-        },
-        {
-          "chord": "Bm",
-          "text": "生 命"
-        },
-        {
-          "chord": "G",
-          "text": "泉"
-        },
-        {
-          "chord": "A",
-          "text": "源，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "成 為"
-        },
-        {
-          "chord": "A7",
-          "text": "我 安"
-        },
-        {
-          "chord": "D",
-          "text": "息，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是"
-        },
-        {
-          "chord": "A",
-          "text": "我"
-        },
-        {
-          "chord": "E7",
-          "text": "的 喜"
-        },
-        {
-          "chord": "A",
-          "text": "樂。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "恩"
-        },
-        {
-          "chord": "D",
-          "text": "主 阿！"
-        },
-        {
-          "chord": "",
-          "text": "我"
-        },
-        {
-          "chord": "G",
-          "text": "愛"
-        },
-        {
-          "chord": "D",
-          "text": "你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 愛"
-        },
-        {
-          "chord": "Em",
-          "text": "你， 你，"
-        },
-        {
-          "chord": "A7",
-          "text": "到 永"
-        },
-        {
-          "chord": "D",
-          "text": "遠！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "召会是我甜美家，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "满足我的心怀。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是主心爱配偶，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "也是我终生所投。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在这家中有爱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "扶持供应无限，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我有力量，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "引领我前往。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "召会阿！我爱你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我爱你，你，甜美家！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我爱你，你，甜美家！"
+            }
+          ]
         }
       ]
     }
@@ -298,7 +306,16 @@
   "metadata": {
     "category": "教会的生活",
     "time": "4/4",
-    "hymn_code": "5325321565132"
+    "hymn_code": "5325321565132",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6705",
+        "language": "cn",
+        "category": "h",
+        "number": "6705",
+        "title": "E6705"
+      }
+    ]
   },
   "raw_sections": [
     "恩 主是 我所 至愛，",

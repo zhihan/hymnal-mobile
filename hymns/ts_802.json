@@ -1,348 +1,364 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/802",
   "title": "与王同工",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "有 位 榮 耀 君 王，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "有 位 榮 耀 君 王，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "天"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "天"
+            },
+            {
+              "chord": "D",
+              "text": "上 之"
+            },
+            {
+              "chord": "",
+              "text": "天"
+            },
+            {
+              "chord": "A7",
+              "text": "是 祂"
+            },
+            {
+              "chord": "",
+              "text": "寶"
+            },
+            {
+              "chord": "D",
+              "text": "座，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "上 之"
+          "segments": [
+            {
+              "chord": "",
+              "text": "全 地 都 在 祂 的 腳 下，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "天"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "萬"
+            },
+            {
+              "chord": "D",
+              "text": "國 都"
+            },
+            {
+              "chord": "",
+              "text": "要"
+            },
+            {
+              "chord": "A7",
+              "text": "歸 祂"
+            },
+            {
+              "chord": "",
+              "text": "管"
+            },
+            {
+              "chord": "D",
+              "text": "治。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "是 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 和 祂 的 百 姓 同"
+            },
+            {
+              "chord": "G",
+              "text": "住，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "寶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂"
+            },
+            {
+              "chord": "D",
+              "text": "也 分"
+            },
+            {
+              "chord": "",
+              "text": "擔 一 切 苦"
+            },
+            {
+              "chord": "A7",
+              "text": "楚，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "座，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全 地 都 在 祂 的 腳 下，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "萬"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "D",
+              "text": "們 與"
+            },
+            {
+              "chord": "",
+              "text": "這 位 王 同 工，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "國 都"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "無"
+            },
+            {
+              "chord": "D",
+              "text": "比 榮"
+            },
+            {
+              "chord": "",
+              "text": "耀，"
+            },
+            {
+              "chord": "A7",
+              "text": "那 裡"
+            },
+            {
+              "chord": "",
+              "text": "羞"
+            },
+            {
+              "chord": "D",
+              "text": "恥？"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们与王同工同作，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "要"
+          "segments": [
+            {
+              "chord": "",
+              "text": "工作全归祂不归我，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "歸 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂先用荣耀来搞我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "管"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们再把别人搞活。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "治。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 和 祂 的 百 姓 同"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们能够与王同工，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "住，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "全凭王的能力托着，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "也 分"
+          "segments": [
+            {
+              "chord": "",
+              "text": "所以责任变成喜乐，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "擔 一 切 苦"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祷告变成赞美颂歌。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们与王同工同享，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "楚，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "高品福音不断传扬，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "們 與"
+          "segments": [
+            {
+              "chord": "",
+              "text": "领成千成万人得救，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "這 位 王 同 工，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "無"
+          "segments": [
+            {
+              "chord": "",
+              "text": "把国度带到这地上。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "比 榮"
+          "segments": [
+            {
+              "chord": "",
+              "text": "世界无论甚么酬劳，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "耀，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们连一样也不要，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "那 裡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们的职业是搞人，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "羞"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到把新妇豫备好。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们一直与王同工，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "恥？"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "天天搞人，天天发疯，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我们与王同工同作，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "也许冬天还没有到，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "工作全归祂不归我，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀的王就要来了。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "祂先用荣耀来搞我，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "那时我们要围绕祂，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我们再把别人搞活。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美快乐，欢呼跳跃，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我们能够与王同工，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！同掌王权，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "全凭王的能力托着，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "所以责任变成喜乐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祷告变成赞美颂歌。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们与王同工同享，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "高品福音不断传扬，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "领成千成万人得救，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "把国度带到这地上。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "世界无论甚么酬劳，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们连一样也不要，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们的职业是搞人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到把新妇豫备好。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们一直与王同工，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天天搞人，天天发疯，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "也许冬天还没有到，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀的王就要来了。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "那时我们要围绕祂，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞美快乐，欢呼跳跃，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！同掌王权，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！直到永远。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！直到永远。"
+            }
+          ]
         }
       ]
     }

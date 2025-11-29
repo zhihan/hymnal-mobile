@@ -1,380 +1,396 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/341",
   "title": "愿一生爱你",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "從 前"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "從 前"
+            },
+            {
+              "chord": "",
+              "text": "沉 溺"
+            },
+            {
+              "chord": "G",
+              "text": "罪 惡"
+            },
+            {
+              "chord": "",
+              "text": "地，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "沉 溺"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "良 心"
+            },
+            {
+              "chord": "",
+              "text": "終 日"
+            },
+            {
+              "chord": "G",
+              "text": "無 安"
+            },
+            {
+              "chord": "",
+              "text": "息，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "罪 惡"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "深 感"
+            },
+            {
+              "chord": "",
+              "text": "痛 苦、"
+            },
+            {
+              "chord": "G",
+              "text": "無 能"
+            },
+            {
+              "chord": "",
+              "text": "力 我 知"
+            },
+            {
+              "chord": "D",
+              "text": "罪，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "地，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 自"
+            },
+            {
+              "chord": "A",
+              "text": "責， 因"
+            },
+            {
+              "chord": "",
+              "text": "罪"
+            },
+            {
+              "chord": "G",
+              "text": "污 不"
+            },
+            {
+              "chord": "A",
+              "text": "義。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "良 心"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "悲 慘"
+            },
+            {
+              "chord": "",
+              "text": "人 生"
+            },
+            {
+              "chord": "G",
+              "text": "無 所"
+            },
+            {
+              "chord": "",
+              "text": "期，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "終 日"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "虛 空"
+            },
+            {
+              "chord": "",
+              "text": "世 界"
+            },
+            {
+              "chord": "G",
+              "text": "無 意"
+            },
+            {
+              "chord": "",
+              "text": "義，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "無 安"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "追 求"
+            },
+            {
+              "chord": "",
+              "text": "快 樂"
+            },
+            {
+              "chord": "G",
+              "text": "和 刺"
+            },
+            {
+              "chord": "",
+              "text": "激 如 捕"
+            },
+            {
+              "chord": "D",
+              "text": "風，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "息，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如 捉"
+            },
+            {
+              "chord": "A",
+              "text": "影， 既"
+            },
+            {
+              "chord": "",
+              "text": "虛"
+            },
+            {
+              "chord": "G",
+              "text": "空 又"
+            },
+            {
+              "chord": "A",
+              "text": "無"
+            },
+            {
+              "chord": "D",
+              "text": "益。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "深 感"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神！ 我 曾"
+            },
+            {
+              "chord": "Em",
+              "text": "遠 離"
+            },
+            {
+              "chord": "A",
+              "text": "你，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "痛 苦、"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 至 高、 至"
+            },
+            {
+              "chord": "D",
+              "text": "大、"
+            },
+            {
+              "chord": "A",
+              "text": "獨"
+            },
+            {
+              "chord": "Bm",
+              "text": "一；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "無 能"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦！ 你 竟 然"
+            },
+            {
+              "chord": "F♯m",
+              "text": "成 為"
+            },
+            {
+              "chord": "",
+              "text": "肉"
+            },
+            {
+              "chord": "Em",
+              "text": "體，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "力 我 知"
+          "segments": [
+            {
+              "chord": "",
+              "text": "親"
+            },
+            {
+              "chord": "A7",
+              "text": "來 尋"
+            },
+            {
+              "chord": "Bm",
+              "text": "覓， 血"
+            },
+            {
+              "chord": "",
+              "text": "將 我"
+            },
+            {
+              "chord": "Em",
+              "text": "洗，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "罪，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "釘 死 作"
+            },
+            {
+              "chord": "A",
+              "text": "我"
+            },
+            {
+              "chord": "A7",
+              "text": "代"
+            },
+            {
+              "chord": "D",
+              "text": "替。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我 自"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "願 一"
+            },
+            {
+              "chord": "",
+              "text": "生"
+            },
+            {
+              "chord": "G",
+              "text": "愛"
+            },
+            {
+              "chord": "A",
+              "text": "你，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "責， 因"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "願 與"
+            },
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "F♯m",
+              "text": "更 親"
+            },
+            {
+              "chord": "Bm",
+              "text": "密，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "罪"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "願 將"
+            },
+            {
+              "chord": "",
+              "text": "生"
+            },
+            {
+              "chord": "G",
+              "text": "命 和"
+            },
+            {
+              "chord": "Em",
+              "text": "一 切"
+            },
+            {
+              "chord": "A7",
+              "text": "全 獻"
+            },
+            {
+              "chord": "D",
+              "text": "給 你。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "污 不"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "願 一"
+            },
+            {
+              "chord": "",
+              "text": "生"
+            },
+            {
+              "chord": "A7",
+              "text": "全 獻"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "義。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "悲 慘"
-        },
-        {
-          "chord": "",
-          "text": "人 生"
-        },
-        {
-          "chord": "G",
-          "text": "無 所"
-        },
-        {
-          "chord": "",
-          "text": "期，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "虛 空"
-        },
-        {
-          "chord": "",
-          "text": "世 界"
-        },
-        {
-          "chord": "G",
-          "text": "無 意"
-        },
-        {
-          "chord": "",
-          "text": "義，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "追 求"
-        },
-        {
-          "chord": "",
-          "text": "快 樂"
-        },
-        {
-          "chord": "G",
-          "text": "和 刺"
-        },
-        {
-          "chord": "",
-          "text": "激 如 捕"
-        },
-        {
-          "chord": "D",
-          "text": "風，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如 捉"
-        },
-        {
-          "chord": "A",
-          "text": "影， 既"
-        },
-        {
-          "chord": "",
-          "text": "虛"
-        },
-        {
-          "chord": "G",
-          "text": "空 又"
-        },
-        {
-          "chord": "A",
-          "text": "無"
-        },
-        {
-          "chord": "D",
-          "text": "益。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神！ 我 曾"
-        },
-        {
-          "chord": "Em",
-          "text": "遠 離"
-        },
-        {
-          "chord": "A",
-          "text": "你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 至 高、 至"
-        },
-        {
-          "chord": "D",
-          "text": "大、"
-        },
-        {
-          "chord": "A",
-          "text": "獨"
-        },
-        {
-          "chord": "Bm",
-          "text": "一；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦！ 你 竟 然"
-        },
-        {
-          "chord": "F♯m",
-          "text": "成 為"
-        },
-        {
-          "chord": "",
-          "text": "肉"
-        },
-        {
-          "chord": "Em",
-          "text": "體，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "親"
-        },
-        {
-          "chord": "A7",
-          "text": "來 尋"
-        },
-        {
-          "chord": "Bm",
-          "text": "覓， 血"
-        },
-        {
-          "chord": "",
-          "text": "將 我"
-        },
-        {
-          "chord": "Em",
-          "text": "洗，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "釘 死 作"
-        },
-        {
-          "chord": "A",
-          "text": "我"
-        },
-        {
-          "chord": "A7",
-          "text": "代"
-        },
-        {
-          "chord": "D",
-          "text": "替。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "願 一"
-        },
-        {
-          "chord": "",
-          "text": "生"
-        },
-        {
-          "chord": "G",
-          "text": "愛"
-        },
-        {
-          "chord": "A",
-          "text": "你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "願 與"
-        },
-        {
-          "chord": "",
-          "text": "你"
-        },
-        {
-          "chord": "F♯m",
-          "text": "更 親"
-        },
-        {
-          "chord": "Bm",
-          "text": "密，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "願 將"
-        },
-        {
-          "chord": "",
-          "text": "生"
-        },
-        {
-          "chord": "G",
-          "text": "命 和"
-        },
-        {
-          "chord": "Em",
-          "text": "一 切"
-        },
-        {
-          "chord": "A7",
-          "text": "全 獻"
-        },
-        {
-          "chord": "D",
-          "text": "給 你。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "願 一"
-        },
-        {
-          "chord": "",
-          "text": "生"
-        },
-        {
-          "chord": "A7",
-          "text": "全 獻"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "給"
-        },
-        {
-          "chord": "D",
-          "text": "你。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "給"
+            },
+            {
+              "chord": "D",
+              "text": "你。"
+            }
+          ]
         }
       ]
     }

@@ -1,168 +1,172 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/11",
   "title": "在你有赦免之恩",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "主， 你"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "主， 你"
+            },
+            {
+              "chord": "",
+              "text": "若 究 察"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "若 究 察"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "的 眾"
+            },
+            {
+              "chord": "D",
+              "text": "罪，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 眾"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "誰 還"
+            },
+            {
+              "chord": "",
+              "text": "能"
+            },
+            {
+              "chord": "D",
+              "text": "站 得"
+            },
+            {
+              "chord": "",
+              "text": "住？"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "罪，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "誰 還"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主， 你 若 究 察"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "能"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "的 眾"
+            },
+            {
+              "chord": "D",
+              "text": "罪，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "站 得"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "誰"
+            },
+            {
+              "chord": "D",
+              "text": "能"
+            },
+            {
+              "chord": "A",
+              "text": "站 得"
+            },
+            {
+              "chord": "D",
+              "text": "住？"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "住？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主， 你 若 究 察"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但 在 你 有 赦 免 之"
+            },
+            {
+              "chord": "A",
+              "text": "恩，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 眾"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但 在 你 有"
+            },
+            {
+              "chord": "A7",
+              "text": "赦 免"
+            },
+            {
+              "chord": "",
+              "text": "之"
+            },
+            {
+              "chord": "D",
+              "text": "恩，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "罪，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "誰"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但 在 你 有"
+            },
+            {
+              "chord": "D7",
+              "text": "赦 免"
+            },
+            {
+              "chord": "",
+              "text": "之"
+            },
+            {
+              "chord": "G",
+              "text": "恩，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "能"
-        },
-        {
-          "chord": "A",
-          "text": "站 得"
-        },
-        {
-          "chord": "D",
-          "text": "住？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但 在 你 有 赦 免 之"
-        },
-        {
-          "chord": "A",
-          "text": "恩，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但 在 你 有"
-        },
-        {
-          "chord": "A7",
-          "text": "赦 免"
-        },
-        {
-          "chord": "",
-          "text": "之"
-        },
-        {
-          "chord": "D",
-          "text": "恩，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但 在 你 有"
-        },
-        {
-          "chord": "D7",
-          "text": "赦 免"
-        },
-        {
-          "chord": "",
-          "text": "之"
-        },
-        {
-          "chord": "G",
-          "text": "恩，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要"
-        },
-        {
-          "chord": "D",
-          "text": "人"
-        },
-        {
-          "chord": "A",
-          "text": "敬 畏"
-        },
-        {
-          "chord": "D",
-          "text": "你。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要"
+            },
+            {
+              "chord": "D",
+              "text": "人"
+            },
+            {
+              "chord": "A",
+              "text": "敬 畏"
+            },
+            {
+              "chord": "D",
+              "text": "你。"
+            }
+          ]
         }
       ]
     }

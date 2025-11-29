@@ -1,472 +1,488 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/864",
   "title": "我要飞翔",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "我 看"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我 看"
+            },
+            {
+              "chord": "",
+              "text": "見"
+            },
+            {
+              "chord": "C",
+              "text": "寬 闊"
+            },
+            {
+              "chord": "",
+              "text": "天"
+            },
+            {
+              "chord": "G",
+              "text": "空， 就"
+            },
+            {
+              "chord": "C",
+              "text": "想"
+            },
+            {
+              "chord": "D",
+              "text": "飛"
+            },
+            {
+              "chord": "G",
+              "text": "翔；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "見"
+          "segments": [
+            {
+              "chord": "",
+              "text": "振"
+            },
+            {
+              "chord": "C",
+              "text": "翼"
+            },
+            {
+              "chord": "D",
+              "text": "整"
+            },
+            {
+              "chord": "Bm",
+              "text": "裝，"
+            },
+            {
+              "chord": "Em",
+              "text": "卻"
+            },
+            {
+              "chord": "Am",
+              "text": "常 常"
+            },
+            {
+              "chord": "",
+              "text": "迷"
+            },
+            {
+              "chord": "D",
+              "text": "惘，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "寬 闊"
+          "segments": [
+            {
+              "chord": "",
+              "text": "徧 尋"
+            },
+            {
+              "chord": "C",
+              "text": "不 到"
+            },
+            {
+              "chord": "",
+              "text": "真 方"
+            },
+            {
+              "chord": "D",
+              "text": "向。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "天"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主"
+            },
+            {
+              "chord": "G",
+              "text": "來， 是"
+            },
+            {
+              "chord": "",
+              "text": "真"
+            },
+            {
+              "chord": "D",
+              "text": "光， 帶"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "C",
+              "text": "重 新"
+            },
+            {
+              "chord": "",
+              "text": "啟 航，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "空， 就"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "知 道"
+            },
+            {
+              "chord": "G",
+              "text": "神 造"
+            },
+            {
+              "chord": "",
+              "text": "人 像 神，"
+            },
+            {
+              "chord": "Em",
+              "text": "將 祂"
+            },
+            {
+              "chord": "",
+              "text": "盛 裝，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "想"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "為 要"
+            },
+            {
+              "chord": "",
+              "text": "代 表 管 理，"
+            },
+            {
+              "chord": "Am7",
+              "text": "且 作"
+            },
+            {
+              "chord": "",
+              "text": "團 體 顯"
+            },
+            {
+              "chord": "D7",
+              "text": "彰。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "飛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主"
+            },
+            {
+              "chord": "G",
+              "text": "來， 是"
+            },
+            {
+              "chord": "",
+              "text": "真"
+            },
+            {
+              "chord": "D",
+              "text": "光， 帶"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "C",
+              "text": "重 新"
+            },
+            {
+              "chord": "",
+              "text": "啟 航，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "翔；"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "知 道"
+            },
+            {
+              "chord": "G",
+              "text": "神 造"
+            },
+            {
+              "chord": "",
+              "text": "人 像 神，"
+            },
+            {
+              "chord": "Em",
+              "text": "將 祂"
+            },
+            {
+              "chord": "",
+              "text": "盛 裝，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "為 要"
+            },
+            {
+              "chord": "",
+              "text": "代 表 管 理，"
+            },
+            {
+              "chord": "Am7",
+              "text": "且 作"
+            },
+            {
+              "chord": "",
+              "text": "團 體 顯"
+            },
+            {
+              "chord": "D7",
+              "text": "彰。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "振"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "永 遠"
+            },
+            {
+              "chord": "",
+              "text": "的"
+            },
+            {
+              "chord": "C",
+              "text": "話 成"
+            },
+            {
+              "chord": "",
+              "text": "肉 身，"
+            },
+            {
+              "chord": "D7",
+              "text": "且 成"
+            },
+            {
+              "chord": "",
+              "text": "那"
+            },
+            {
+              "chord": "G",
+              "text": "靈，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "翼"
+          "segments": [
+            {
+              "chord": "",
+              "text": "來 使"
+            },
+            {
+              "chord": "C",
+              "text": "人 變"
+            },
+            {
+              "chord": "",
+              "text": "化， 有"
+            },
+            {
+              "chord": "G",
+              "text": "祂 生"
+            },
+            {
+              "chord": "",
+              "text": "命 性"
+            },
+            {
+              "chord": "D7",
+              "text": "情。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "整"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "這 是"
+            },
+            {
+              "chord": "",
+              "text": "神 新 約 的 經 綸"
+            },
+            {
+              "chord": "Am",
+              "text": "如 同"
+            },
+            {
+              "chord": "",
+              "text": "大"
+            },
+            {
+              "chord": "G",
+              "text": "輪，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "裝，"
-        },
-        {
-          "chord": "Em",
-          "text": "卻"
-        },
-        {
-          "chord": "Am",
-          "text": "常 常"
-        },
-        {
-          "chord": "",
-          "text": "迷"
-        },
-        {
-          "chord": "D",
-          "text": "惘，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "往 全"
+            },
+            {
+              "chord": "C",
+              "text": "地 開"
+            },
+            {
+              "chord": "",
+              "text": "展， 榮"
+            },
+            {
+              "chord": "D7",
+              "text": "耀， 我"
+            },
+            {
+              "chord": "",
+              "text": "竟"
+            },
+            {
+              "chord": "G",
+              "text": "有 分！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "徧 尋"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我今有何等荣景，怀抱雄心；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "不 到"
+          "segments": [
+            {
+              "chord": "",
+              "text": "国度福音，如生命种子，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "真 方"
+          "segments": [
+            {
+              "chord": "",
+              "text": "就要百倍结实。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "向。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我去，是奴仆，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "使人作主门徒，愿祂现在更照耀，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "君王基督那日从天归回，并自我里透出。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我去，是奴仆，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "使人作主门徒，愿祂现在更照耀，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "君王基督那日从天归回，并自我里透出。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永远的话成肉身，且成那灵，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "來， 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来使人变化，有祂生命性情。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "真"
+          "segments": [
+            {
+              "chord": "",
+              "text": "这是神新约的经纶如同大轮，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "光， 帶"
-        },
-        {
-          "chord": "",
-          "text": "我"
-        },
-        {
-          "chord": "C",
-          "text": "重 新"
-        },
-        {
-          "chord": "",
-          "text": "啟 航，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "知 道"
-        },
-        {
-          "chord": "G",
-          "text": "神 造"
-        },
-        {
-          "chord": "",
-          "text": "人 像 神，"
-        },
-        {
-          "chord": "Em",
-          "text": "將 祂"
-        },
-        {
-          "chord": "",
-          "text": "盛 裝，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "為 要"
-        },
-        {
-          "chord": "",
-          "text": "代 表 管 理，"
-        },
-        {
-          "chord": "Am7",
-          "text": "且 作"
-        },
-        {
-          "chord": "",
-          "text": "團 體 顯"
-        },
-        {
-          "chord": "D7",
-          "text": "彰。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主"
-        },
-        {
-          "chord": "G",
-          "text": "來， 是"
-        },
-        {
-          "chord": "",
-          "text": "真"
-        },
-        {
-          "chord": "D",
-          "text": "光， 帶"
-        },
-        {
-          "chord": "",
-          "text": "我"
-        },
-        {
-          "chord": "C",
-          "text": "重 新"
-        },
-        {
-          "chord": "",
-          "text": "啟 航，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "知 道"
-        },
-        {
-          "chord": "G",
-          "text": "神 造"
-        },
-        {
-          "chord": "",
-          "text": "人 像 神，"
-        },
-        {
-          "chord": "Em",
-          "text": "將 祂"
-        },
-        {
-          "chord": "",
-          "text": "盛 裝，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "為 要"
-        },
-        {
-          "chord": "",
-          "text": "代 表 管 理，"
-        },
-        {
-          "chord": "Am7",
-          "text": "且 作"
-        },
-        {
-          "chord": "",
-          "text": "團 體 顯"
-        },
-        {
-          "chord": "D7",
-          "text": "彰。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "永 遠"
-        },
-        {
-          "chord": "",
-          "text": "的"
-        },
-        {
-          "chord": "C",
-          "text": "話 成"
-        },
-        {
-          "chord": "",
-          "text": "肉 身，"
-        },
-        {
-          "chord": "D7",
-          "text": "且 成"
-        },
-        {
-          "chord": "",
-          "text": "那"
-        },
-        {
-          "chord": "G",
-          "text": "靈，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "來 使"
-        },
-        {
-          "chord": "C",
-          "text": "人 變"
-        },
-        {
-          "chord": "",
-          "text": "化， 有"
-        },
-        {
-          "chord": "G",
-          "text": "祂 生"
-        },
-        {
-          "chord": "",
-          "text": "命 性"
-        },
-        {
-          "chord": "D7",
-          "text": "情。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "這 是"
-        },
-        {
-          "chord": "",
-          "text": "神 新 約 的 經 綸"
-        },
-        {
-          "chord": "Am",
-          "text": "如 同"
-        },
-        {
-          "chord": "",
-          "text": "大"
-        },
-        {
-          "chord": "G",
-          "text": "輪，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "往 全"
-        },
-        {
-          "chord": "C",
-          "text": "地 開"
-        },
-        {
-          "chord": "",
-          "text": "展， 榮"
-        },
-        {
-          "chord": "D7",
-          "text": "耀， 我"
-        },
-        {
-          "chord": "",
-          "text": "竟"
-        },
-        {
-          "chord": "G",
-          "text": "有 分！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我今有何等荣景，怀抱雄心；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "国度福音，如生命种子，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "就要百倍结实。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我去，是奴仆，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使人作主门徒，愿祂现在更照耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "君王基督那日从天归回，并自我里透出。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我去，是奴仆，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使人作主门徒，愿祂现在更照耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "君王基督那日从天归回，并自我里透出。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永远的话成肉身，且成那灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来使人变化，有祂生命性情。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "这是神新约的经纶如同大轮，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "往全地开展，荣耀，我竟有分！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "往全地开展，荣耀，我竟有分！"
+            }
+          ]
         }
       ]
     }
@@ -474,7 +490,16 @@
   "metadata": {
     "category": "事奉与福音",
     "time": "4/4",
-    "hymn_code": "345671516715"
+    "hymn_code": "345671516715",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6864",
+        "language": "cn",
+        "category": "h",
+        "number": "6864",
+        "title": "E6864"
+      }
+    ]
   },
   "raw_sections": [
     "我 看見寬 闊天空， 就想飛翔；",

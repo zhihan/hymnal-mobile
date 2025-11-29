@@ -1,256 +1,260 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/227",
   "title": "祂的名是奇妙",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "祂 的"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "祂 的"
+            },
+            {
+              "chord": "",
+              "text": "名 是 奇 妙，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "名 是 奇 妙，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "B7",
-          "text": "祂 的"
+          "segments": [
+            {
+              "chord": "B7",
+              "text": "祂 的"
+            },
+            {
+              "chord": "",
+              "text": "名"
+            },
+            {
+              "chord": "Em",
+              "text": "是 策"
+            },
+            {
+              "chord": "",
+              "text": "士，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "名"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "祂 是"
+            },
+            {
+              "chord": "",
+              "text": "全"
+            },
+            {
+              "chord": "D",
+              "text": "能 的"
+            },
+            {
+              "chord": "",
+              "text": "神，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "是 策"
+          "segments": [
+            {
+              "chord": "E7",
+              "text": "永 在"
+            },
+            {
+              "chord": "",
+              "text": "的"
+            },
+            {
+              "chord": "A",
+              "text": "父；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "士，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "祂 是"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "有 一"
+            },
+            {
+              "chord": "",
+              "text": "嬰 孩 降 生，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "全"
+          "segments": [
+            {
+              "chord": "B7",
+              "text": "一 子"
+            },
+            {
+              "chord": "",
+              "text": "賜"
+            },
+            {
+              "chord": "Em",
+              "text": "給 我"
+            },
+            {
+              "chord": "",
+              "text": "們，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "能 的"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "祂 是"
+            },
+            {
+              "chord": "",
+              "text": "和"
+            },
+            {
+              "chord": "D",
+              "text": "平 的"
+            },
+            {
+              "chord": "",
+              "text": "君，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "神，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "E7",
-          "text": "永 在"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "耶 穌"
+            },
+            {
+              "chord": "A7",
+              "text": "我"
+            },
+            {
+              "chord": "D",
+              "text": "主。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "讚 美"
+            },
+            {
+              "chord": "",
+              "text": "創"
+            },
+            {
+              "chord": "A7",
+              "text": "造 主，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "父；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "有 一"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "耶 穌"
+            },
+            {
+              "chord": "",
+              "text": "我 救 主，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "嬰 孩 降 生，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "B7",
-          "text": "一 子"
+          "segments": [
+            {
+              "chord": "E",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "的"
+            },
+            {
+              "chord": "E7",
+              "text": "靈 內"
+            },
+            {
+              "chord": "A7",
+              "text": "住；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "賜"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "在 靈"
+            },
+            {
+              "chord": "",
+              "text": "裡 敬 拜 祂，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "給 我"
+          "segments": [
+            {
+              "chord": "B7",
+              "text": "愛 祂"
+            },
+            {
+              "chord": "",
+              "text": "並"
+            },
+            {
+              "chord": "Em",
+              "text": "事 奉"
+            },
+            {
+              "chord": "",
+              "text": "祂，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "們，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "祂 是"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "祂 的"
+            },
+            {
+              "chord": "",
+              "text": "名"
+            },
+            {
+              "chord": "D",
+              "text": "是 奇"
+            },
+            {
+              "chord": "",
+              "text": "妙，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "和"
-        },
-        {
-          "chord": "D",
-          "text": "平 的"
-        },
-        {
-          "chord": "",
-          "text": "君，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "耶 穌"
-        },
-        {
-          "chord": "A7",
-          "text": "我"
-        },
-        {
-          "chord": "D",
-          "text": "主。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "讚 美"
-        },
-        {
-          "chord": "",
-          "text": "創"
-        },
-        {
-          "chord": "A7",
-          "text": "造 主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "耶 穌"
-        },
-        {
-          "chord": "",
-          "text": "我 救 主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "E",
-          "text": "生 命"
-        },
-        {
-          "chord": "",
-          "text": "的"
-        },
-        {
-          "chord": "E7",
-          "text": "靈 內"
-        },
-        {
-          "chord": "A7",
-          "text": "住；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "在 靈"
-        },
-        {
-          "chord": "",
-          "text": "裡 敬 拜 祂，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "B7",
-          "text": "愛 祂"
-        },
-        {
-          "chord": "",
-          "text": "並"
-        },
-        {
-          "chord": "Em",
-          "text": "事 奉"
-        },
-        {
-          "chord": "",
-          "text": "祂，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "祂 的"
-        },
-        {
-          "chord": "",
-          "text": "名"
-        },
-        {
-          "chord": "D",
-          "text": "是 奇"
-        },
-        {
-          "chord": "",
-          "text": "妙，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "耶 穌"
-        },
-        {
-          "chord": "",
-          "text": "我"
-        },
-        {
-          "chord": "D",
-          "text": "主。"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "耶 穌"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "D",
+              "text": "主。"
+            }
+          ]
         }
       ]
     }
@@ -258,7 +262,16 @@
   "metadata": {
     "category": "享受基督",
     "time": "3/4",
-    "hymn_code": "333211443322"
+    "hymn_code": "333211443322",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1085",
+        "language": "cn",
+        "category": "h",
+        "number": "1085",
+        "title": "E1085"
+      }
+    ]
   },
   "raw_sections": [
     "祂 的名 是 奇 妙，",

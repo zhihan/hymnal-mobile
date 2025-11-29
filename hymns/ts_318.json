@@ -1,224 +1,228 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/318",
   "title": "头一次的爱",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "當 頭"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "當 頭"
+            },
+            {
+              "chord": "",
+              "text": "一 次 遇 見 了"
+            },
+            {
+              "chord": "Bm",
+              "text": "你，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "一 次 遇 見 了"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 的"
+            },
+            {
+              "chord": "Em",
+              "text": "心 充"
+            },
+            {
+              "chord": "",
+              "text": "滿 歡"
+            },
+            {
+              "chord": "A",
+              "text": "喜。"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿 利 路"
+            },
+            {
+              "chord": "D",
+              "text": "亞， 喜"
+            },
+            {
+              "chord": "",
+              "text": "樂 滿"
+            },
+            {
+              "chord": "Bm",
+              "text": "溢，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "心 充"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主 耶"
+            },
+            {
+              "chord": "Em",
+              "text": "穌 充"
+            },
+            {
+              "chord": "",
+              "text": "滿 在 我"
+            },
+            {
+              "chord": "A",
+              "text": "裡。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "滿 歡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "頭 一"
+            },
+            {
+              "chord": "D",
+              "text": "次 的"
+            },
+            {
+              "chord": "",
+              "text": "愛，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "喜。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿 利 路"
+          "segments": [
+            {
+              "chord": "",
+              "text": "最 甘"
+            },
+            {
+              "chord": "Bm",
+              "text": "甜 的"
+            },
+            {
+              "chord": "",
+              "text": "愛，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "亞， 喜"
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶"
+            },
+            {
+              "chord": "Em",
+              "text": "穌， 耶"
+            },
+            {
+              "chord": "A",
+              "text": "穌， 我"
+            },
+            {
+              "chord": "",
+              "text": "的"
+            },
+            {
+              "chord": "D",
+              "text": "愛。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "樂 滿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "超 過"
+            },
+            {
+              "chord": "G",
+              "text": "一 切"
+            },
+            {
+              "chord": "",
+              "text": "真 實"
+            },
+            {
+              "chord": "D",
+              "text": "的 愛，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "溢，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主 耶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "竟"
+            },
+            {
+              "chord": "Em",
+              "text": "然 臨"
+            },
+            {
+              "chord": "",
+              "text": "及"
+            },
+            {
+              "chord": "A",
+              "text": "我；"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "穌 充"
+          "segments": [
+            {
+              "chord": "",
+              "text": "甘 甜"
+            },
+            {
+              "chord": "D",
+              "text": "的 愛，"
+            },
+            {
+              "chord": "",
+              "text": "最 真"
+            },
+            {
+              "chord": "Bm",
+              "text": "實 的"
+            },
+            {
+              "chord": "",
+              "text": "愛，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "滿 在 我"
-        },
-        {
-          "chord": "A",
-          "text": "裡。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "頭 一"
-        },
-        {
-          "chord": "D",
-          "text": "次 的"
-        },
-        {
-          "chord": "",
-          "text": "愛，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "最 甘"
-        },
-        {
-          "chord": "Bm",
-          "text": "甜 的"
-        },
-        {
-          "chord": "",
-          "text": "愛，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶"
-        },
-        {
-          "chord": "Em",
-          "text": "穌， 耶"
-        },
-        {
-          "chord": "A",
-          "text": "穌， 我"
-        },
-        {
-          "chord": "",
-          "text": "的"
-        },
-        {
-          "chord": "D",
-          "text": "愛。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "超 過"
-        },
-        {
-          "chord": "G",
-          "text": "一 切"
-        },
-        {
-          "chord": "",
-          "text": "真 實"
-        },
-        {
-          "chord": "D",
-          "text": "的 愛，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "竟"
-        },
-        {
-          "chord": "Em",
-          "text": "然 臨"
-        },
-        {
-          "chord": "",
-          "text": "及"
-        },
-        {
-          "chord": "A",
-          "text": "我；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "甘 甜"
-        },
-        {
-          "chord": "D",
-          "text": "的 愛，"
-        },
-        {
-          "chord": "",
-          "text": "最 真"
-        },
-        {
-          "chord": "Bm",
-          "text": "實 的"
-        },
-        {
-          "chord": "",
-          "text": "愛，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶"
-        },
-        {
-          "chord": "Em",
-          "text": "穌， 耶"
-        },
-        {
-          "chord": "A",
-          "text": "穌， 我"
-        },
-        {
-          "chord": "",
-          "text": "的"
-        },
-        {
-          "chord": "D",
-          "text": "愛。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶"
+            },
+            {
+              "chord": "Em",
+              "text": "穌， 耶"
+            },
+            {
+              "chord": "A",
+              "text": "穌， 我"
+            },
+            {
+              "chord": "",
+              "text": "的"
+            },
+            {
+              "chord": "D",
+              "text": "愛。"
+            }
+          ]
         }
       ]
     }
@@ -226,7 +230,16 @@
   "metadata": {
     "category": "爱慕耶稣",
     "time": "4/4",
-    "hymn_code": "334533217123212"
+    "hymn_code": "334533217123212",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/305",
+        "language": "cn",
+        "category": "ns",
+        "number": "305",
+        "title": "NS305"
+      }
+    ]
   },
   "raw_sections": [
     "當 頭一 次 遇 見 了你，",

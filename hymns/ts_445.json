@@ -1,516 +1,540 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/445",
   "title": "新约执事耶稣基督",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "耶"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "耶"
+            },
+            {
+              "chord": "G",
+              "text": "穌 基"
+            },
+            {
+              "chord": "",
+              "text": "督 已"
+            },
+            {
+              "chord": "C",
+              "text": "登 寶"
+            },
+            {
+              "chord": "",
+              "text": "座，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "穌 基"
+          "segments": [
+            {
+              "chord": "E",
+              "text": "我"
+            },
+            {
+              "chord": "Am",
+              "text": "們 與"
+            },
+            {
+              "chord": "",
+              "text": "祂"
+            },
+            {
+              "chord": "D7",
+              "text": "同"
+            },
+            {
+              "chord": "G",
+              "text": "坐；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "督 已"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "世"
+            },
+            {
+              "chord": "G",
+              "text": "界、 撒"
+            },
+            {
+              "chord": "",
+              "text": "但、 罪、"
+            },
+            {
+              "chord": "C",
+              "text": "己 脫"
+            },
+            {
+              "chord": "",
+              "text": "落，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "登 寶"
+          "segments": [
+            {
+              "chord": "E",
+              "text": "不"
+            },
+            {
+              "chord": "Am",
+              "text": "能 再"
+            },
+            {
+              "chord": "",
+              "text": "將"
+            },
+            {
+              "chord": "D7",
+              "text": "我"
+            },
+            {
+              "chord": "G",
+              "text": "迫！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "座，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "E",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "基"
+            },
+            {
+              "chord": "G",
+              "text": "督 一"
+            },
+            {
+              "chord": "",
+              "text": "次 永"
+            },
+            {
+              "chord": "D",
+              "text": "遠 受"
+            },
+            {
+              "chord": "",
+              "text": "死，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "們 與"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "救"
+            },
+            {
+              "chord": "C",
+              "text": "贖 大"
+            },
+            {
+              "chord": "",
+              "text": "工"
+            },
+            {
+              "chord": "A",
+              "text": "完"
+            },
+            {
+              "chord": "D",
+              "text": "成；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "可"
+            },
+            {
+              "chord": "G",
+              "text": "憐 罪"
+            },
+            {
+              "chord": "",
+              "text": "奴 得"
+            },
+            {
+              "chord": "C",
+              "text": "新 地"
+            },
+            {
+              "chord": "",
+              "text": "位，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "同"
+          "segments": [
+            {
+              "chord": "E",
+              "text": "與"
+            },
+            {
+              "chord": "Am",
+              "text": "祂 同"
+            },
+            {
+              "chord": "",
+              "text": "命"
+            },
+            {
+              "chord": "D7",
+              "text": "共"
+            },
+            {
+              "chord": "C",
+              "text": "榮。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "欢然安居活神家中-"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "坐；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "世"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀召会生活；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "界、 撒"
+          "segments": [
+            {
+              "chord": "",
+              "text": "坦然昂首进至圣所，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "但、 罪、"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不再下沉退缩！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "己 脫"
+          "segments": [
+            {
+              "chord": "",
+              "text": "魂的旷野不再留恋，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "落，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "E",
-          "text": "不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "圣所已在身后；"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "能 再"
+          "segments": [
+            {
+              "chord": "",
+              "text": "至圣之处永远住留，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "將"
+          "segments": [
+            {
+              "chord": "",
+              "text": "全人被神浸透。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "更美之约己经立定，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀遗赠有三："
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "迫！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "基"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生命之律大能高超，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "督 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将我变化完全；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "次 永"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我作祂民，祂作我神，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "遠 受"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神圣福分无穷；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "死，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "救"
+          "segments": [
+            {
+              "chord": "",
+              "text": "对神认识深刻主观，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "贖 大"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟凭内里生命。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "此外神已忘记我罪，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "工"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不义一概宽恕；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "完"
+          "segments": [
+            {
+              "chord": "",
+              "text": "皆因救主十架代死，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "成；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "可"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我罪全都清除；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "憐 罪"
+          "segments": [
+            {
+              "chord": "",
+              "text": "罪案全勾，不再追究，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "奴 得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "罪过都己消踪；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "新 地"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生命之律灵中引我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "位，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "救恩路上直行。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "E",
-          "text": "與"
+          "segments": [
+            {
+              "chord": "",
+              "text": "加略妙死双重功绩，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "祂 同"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为神经纶效力："
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生命之律运行无碍，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "共"
+          "segments": [
+            {
+              "chord": "",
+              "text": "罪的拦阻绝迹！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "榮。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "大工完成住入安息，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主今安坐天上；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "新约遗赠我们全享，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "凭祂代祷馨香。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "欢然安居活神家中-"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟愿弃绝老旧观念，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "荣耀召会生活；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "取用遗赠丰富；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "坦然昂首进至圣所，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "主说成了我们享用，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "不再下沉退缩！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "天天赞美不住！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "魂的旷野不再留恋，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "听大祭司幔内呼召-"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "圣所已在身后；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"前进！\"直到路终："
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "至圣之处永远住留，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "直至达成终极目标，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "全人被神浸透。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "更美之约己经立定，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀遗赠有三："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生命之律大能高超，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将我变化完全；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我作祂民，祂作我神，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神圣福分无穷；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "对神认识深刻主观，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惟凭内里生命。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "此外神已忘记我罪，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不义一概宽恕；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "皆因救主十架代死，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我罪全都清除；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "罪案全勾，不再追究，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "罪过都己消踪；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生命之律灵中引我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "救恩路上直行。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "加略妙死双重功绩，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为神经纶效力："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生命之律运行无碍，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "罪的拦阻绝迹！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "大工完成住入安息，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主今安坐天上；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "新约遗赠我们全享，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "凭祂代祷馨香。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惟愿弃绝老旧观念，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "取用遗赠丰富；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主说成了我们享用，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天天赞美不住！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "听大祭司幔内呼召-"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "\"前进！\"直到路终："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直至达成终极目标，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀圣城撒冷！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀圣城撒冷！"
+            }
+          ]
         }
       ]
     }
@@ -518,7 +542,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "3/4",
-    "hymn_code": "55651766642171"
+    "hymn_code": "55651766642171",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1188",
+        "language": "cn",
+        "category": "h",
+        "number": "1188",
+        "title": "E1188"
+      }
+    ]
   },
   "raw_sections": [
     "耶穌 基督 已登 寶座，",

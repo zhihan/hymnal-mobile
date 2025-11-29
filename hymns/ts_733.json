@@ -1,376 +1,392 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/733",
   "title": "享受众圣徒里面的基督",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "現 今 一 同 前 來 享 受"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "現 今 一 同 前 來 享 受"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "眾 聖 徒 裡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "眾 聖 徒 裡"
+            },
+            {
+              "chord": "D7",
+              "text": "面 的"
+            },
+            {
+              "chord": "",
+              "text": "基"
+            },
+            {
+              "chord": "G",
+              "text": "督。"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "面 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "脫 離 自 己 窄 小 天 地，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "基"
+          "segments": [
+            {
+              "chord": "",
+              "text": "以 為 基 督 僅"
+            },
+            {
+              "chord": "D7",
+              "text": "僅 是"
+            },
+            {
+              "chord": "",
+              "text": "屬 我"
+            },
+            {
+              "chord": "G",
+              "text": "的。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "督。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "脫 離 自 己 窄 小 天 地，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "以 為 基 督 僅"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂"
+            },
+            {
+              "chord": "Em",
+              "text": "的 豐"
+            },
+            {
+              "chord": "",
+              "text": "富 已 經 住 在"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "僅 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "A7",
+              "text": "們 的"
+            },
+            {
+              "chord": "",
+              "text": "他 們"
+            },
+            {
+              "chord": "D",
+              "text": "裡。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "屬 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "所"
+            },
+            {
+              "chord": "G",
+              "text": "以 我"
+            },
+            {
+              "chord": "",
+              "text": "們 一 同 前 來 享 受"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "的。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "眾 聖 徒 裡"
+            },
+            {
+              "chord": "D7",
+              "text": "面 的"
+            },
+            {
+              "chord": "",
+              "text": "基"
+            },
+            {
+              "chord": "G",
+              "text": "督。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "弟 兄 們 哪， 快 快 前 來！"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "的 豐"
+          "segments": [
+            {
+              "chord": "",
+              "text": "盡 情"
+            },
+            {
+              "chord": "D7",
+              "text": "享 受"
+            },
+            {
+              "chord": "",
+              "text": "你 的"
+            },
+            {
+              "chord": "G",
+              "text": "所 有；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "富 已 經 住 在"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "當 我 們 能 讓 祂 自 由，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "們 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們"
+            },
+            {
+              "chord": "D7",
+              "text": "就 能"
+            },
+            {
+              "chord": "",
+              "text": "同 得"
+            },
+            {
+              "chord": "G",
+              "text": "享 受。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "他 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 的 經 歷 是 你 豐 富，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "裡。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "所"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 的"
+            },
+            {
+              "chord": "D7",
+              "text": "經 營"
+            },
+            {
+              "chord": "",
+              "text": "是 我"
+            },
+            {
+              "chord": "G",
+              "text": "供 應；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "以 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們 一 同 彼 此 享 受，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "們 一 同 前 來 享 受"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神 人"
+            },
+            {
+              "chord": "D7",
+              "text": "在 此"
+            },
+            {
+              "chord": "",
+              "text": "同 得"
+            },
+            {
+              "chord": "G",
+              "text": "滿 足。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "眾 聖 徒 裡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我享受你，你享受我，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "面 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "才知道基督是何等丰富。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "基"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我供应你，你供应我，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "督。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "弟 兄 們 哪， 快 快 前 來！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "盡 情"
+          "segments": [
+            {
+              "chord": "",
+              "text": "才得着生命一切的实际。"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "享 受"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂赐我的丰富产业"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在我的他们里。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "所 有；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "當 我 們 能 讓 祂 自 由，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "现今我们彼此享受，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "就 能"
+          "segments": [
+            {
+              "chord": "",
+              "text": "就经历生活是何等甜美。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "弟兄们哪，快快前来！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "同 得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "尽情享受你的所有；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "享 受。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 的 經 歷 是 你 豐 富，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当我们能让祂自由，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "經 營"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们就能同得享受。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "是 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的经历是你丰富，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "供 應；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們 一 同 彼 此 享 受，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神 人"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你的经营是我供应；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "在 此"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们一同彼此享受，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "同 得"
-        },
-        {
-          "chord": "G",
-          "text": "滿 足。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我享受你，你享受我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "才知道基督是何等丰富。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我供应你，你供应我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "才得着生命一切的实际。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂赐我的丰富产业"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在我的他们里。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "现今我们彼此享受，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "就经历生活是何等甜美。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "弟兄们哪，快快前来！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "尽情享受你的所有；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当我们能让祂自由，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们就能同得享受。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的经历是你丰富，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你的经营是我供应；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们一同彼此享受，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神人在此同得满足。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神人在此同得满足。"
+            }
+          ]
         }
       ]
     }

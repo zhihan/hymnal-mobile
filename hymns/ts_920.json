@@ -1,484 +1,532 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/920",
   "title": "豫备主来要及时",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "榮 耀"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "榮 耀"
+            },
+            {
+              "chord": "",
+              "text": "新 婦 主 所 期， 喜 樂 婚 筵 祂 備 齊；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "新 婦 主 所 期， 喜 樂 婚 筵 祂 備 齊；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "穿 上"
+          "segments": [
+            {
+              "chord": "",
+              "text": "穿 上"
+            },
+            {
+              "chord": "G",
+              "text": "潔 淨"
+            },
+            {
+              "chord": "",
+              "text": "細 麻 衣─ 要 及"
+            },
+            {
+              "chord": "A",
+              "text": "時！"
+            },
+            {
+              "chord": "A7",
+              "text": "經"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "潔 淨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "過"
+            },
+            {
+              "chord": "D",
+              "text": "苦 難"
+            },
+            {
+              "chord": "",
+              "text": "與 死 地， 基 督"
+            },
+            {
+              "chord": "G",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "緊 憑 倚， 活"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "細 麻 衣─ 要 及"
+          "segments": [
+            {
+              "chord": "",
+              "text": "出"
+            },
+            {
+              "chord": "D",
+              "text": "之 義"
+            },
+            {
+              "chord": "",
+              "text": "成 所"
+            },
+            {
+              "chord": "A7",
+              "text": "披─ 要"
+            },
+            {
+              "chord": "",
+              "text": "及"
+            },
+            {
+              "chord": "D",
+              "text": "時！ 要"
+            },
+            {
+              "chord": "",
+              "text": "及"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "時！ 要 及 時！ 羔 羊"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "時！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "婚 筵 今 在 卽， 要 及"
+            },
+            {
+              "chord": "A",
+              "text": "時！"
+            },
+            {
+              "chord": "A7",
+              "text": "魂 的"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "經"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "過"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "肯 離 棄， 讓 靈"
+            },
+            {
+              "chord": "G",
+              "text": "浸 透"
+            },
+            {
+              "chord": "",
+              "text": "且 漫 溢， 就 必"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "苦 難"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "彀 格"
+            },
+            {
+              "chord": "",
+              "text": "來 坐"
+            },
+            {
+              "chord": "A7",
+              "text": "席─ 要"
+            },
+            {
+              "chord": "",
+              "text": "及"
+            },
+            {
+              "chord": "D",
+              "text": "時！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "精明童女主所期，豫备新油当积极，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "與 死 地， 基 督"
+          "segments": [
+            {
+              "chord": "",
+              "text": "切莫轻忽神心意─要及时！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "买油代价不容易，必须我们对付己，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "緊 憑 倚， 活"
+          "segments": [
+            {
+              "chord": "",
+              "text": "器皿充满且洋溢─要及时！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "出"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要及时！要及时！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "之 義"
+          "segments": [
+            {
+              "chord": "",
+              "text": "羔羊婚筵今在即，要及时！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "成 所"
+          "segments": [
+            {
+              "chord": "",
+              "text": "魂的生命肯离弃，让灵浸透且漫溢，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "披─ 要"
+          "segments": [
+            {
+              "chord": "",
+              "text": "就必够格来坐席─要及时！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "忠信奴仆主所期，运用恩赐作生意，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "及"
+          "segments": [
+            {
+              "chord": "",
+              "text": "莫因懒惰被撇弃─要及时！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "時！ 要"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一他连得不藏匿，克服松懒的己意，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "及"
+          "segments": [
+            {
+              "chord": "",
+              "text": "凭主事奉不乏力─要及时！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "時！ 要 及 時！ 羔 羊"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "婚 筵 今 在 卽， 要 及"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要及时！要及时！"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "時！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "羔羊婚筵今在即，要及时！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "魂 的"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "魂的生命肯离弃，让灵浸透且漫溢，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "肯 離 棄， 讓 靈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "就必够格来坐席─要及时！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "成熟麦子主所期，初熟部分先被提，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "浸 透"
+          "segments": [
+            {
+              "chord": "",
+              "text": "大体庄稼仍在地─要及时！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "且 漫 溢， 就 必"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "彀 格"
+          "segments": [
+            {
+              "chord": "",
+              "text": "勿向世界再寻觅，属地水分不留遗，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "來 坐"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生命成熟讨主喜─要及时！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "要及时！要及时！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "席─ 要"
+          "segments": [
+            {
+              "chord": "",
+              "text": "羔羊婚筵今在即，要及时！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "及"
+          "segments": [
+            {
+              "chord": "",
+              "text": "魂的生命肯离弃，让灵浸透且漫溢，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "時！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "就必够格来坐席─要及时！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "精明童女主所期，豫备新油当积极，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得胜信徒主所期，为祂万事不足惜，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "起初的爱总不弃─要及时！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "与主联结成为一，胜过所有的死寂，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "奔向标竿尽全力─要及时！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "切莫轻忽神心意─要及时！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要及时！要及时！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "羔羊婚筵今在即，要及时！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "魂的生命肯离弃，让灵浸透且漫溢，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "就必够格来坐席─要及时！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "买油代价不容易，必须我们对付己，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "看哪，基督要来地，属天国度将临及，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "服主权柄莫迟疑─要及时！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "悖逆的己须脱离，顺服功课当学习，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "让主掌权登至极─要及时！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "器皿充满且洋溢─要及时！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "要及时！要及时！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "要及时！要及时！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "羔羊婚筵今在即，要及时！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "羔羊婚筵今在即，要及时！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "魂的生命肯离弃，让灵浸透且漫溢，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "魂的生命肯离弃，让灵浸透且漫溢，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "就必够格来坐席─要及时！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "忠信奴仆主所期，运用恩赐作生意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "莫因懒惰被撇弃─要及时！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一他连得不藏匿，克服松懒的己意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "凭主事奉不乏力─要及时！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要及时！要及时！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "羔羊婚筵今在即，要及时！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "魂的生命肯离弃，让灵浸透且漫溢，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "就必够格来坐席─要及时！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "成熟麦子主所期，初熟部分先被提，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "大体庄稼仍在地─要及时！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "勿向世界再寻觅，属地水分不留遗，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生命成熟讨主喜─要及时！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要及时！要及时！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "羔羊婚筵今在即，要及时！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "魂的生命肯离弃，让灵浸透且漫溢，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "就必够格来坐席─要及时！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得胜信徒主所期，为祂万事不足惜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "起初的爱总不弃─要及时！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "与主联结成为一，胜过所有的死寂，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "奔向标竿尽全力─要及时！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要及时！要及时！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "羔羊婚筵今在即，要及时！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "魂的生命肯离弃，让灵浸透且漫溢，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "就必够格来坐席─要及时！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "看哪，基督要来地，属天国度将临及，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "服主权柄莫迟疑─要及时！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "悖逆的己须脱离，顺服功课当学习，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让主掌权登至极─要及时！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要及时！要及时！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "羔羊婚筵今在即，要及时！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "魂的生命肯离弃，让灵浸透且漫溢，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "就必够格来坐席─要及时！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "就必够格来坐席─要及时！"
+            }
+          ]
         }
       ]
     }
@@ -486,7 +534,16 @@
   "metadata": {
     "category": "盼望与豫备",
     "time": "4/4",
-    "hymn_code": "12333331355555"
+    "hymn_code": "12333331355555",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1304",
+        "language": "cn",
+        "category": "h",
+        "number": "1304",
+        "title": "E1304"
+      }
+    ]
   },
   "raw_sections": [
     "榮 耀新 婦 主 所 期， 喜 樂 婚 筵 祂 備 齊；",

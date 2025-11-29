@@ -1,216 +1,224 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/321",
   "title": "我怎能离开主",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我"
+            },
+            {
+              "chord": "C",
+              "text": "怎 能"
+            },
+            {
+              "chord": "G",
+              "text": "離 開"
+            },
+            {
+              "chord": "",
+              "text": "主，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "怎 能"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "怎 能"
+            },
+            {
+              "chord": "",
+              "text": "將"
+            },
+            {
+              "chord": "G",
+              "text": "主 忘"
+            },
+            {
+              "chord": "",
+              "text": "記，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "離 開"
+          "segments": [
+            {
+              "chord": "",
+              "text": "當 主 愛"
+            },
+            {
+              "chord": "C",
+              "text": "情 依"
+            },
+            {
+              "chord": "G",
+              "text": "依，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "主，"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "在 我"
+            },
+            {
+              "chord": "",
+              "text": "胸"
+            },
+            {
+              "chord": "D",
+              "text": "臆；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "萬 事"
+            },
+            {
+              "chord": "",
+              "text": "都"
+            },
+            {
+              "chord": "G",
+              "text": "要 逝"
+            },
+            {
+              "chord": "",
+              "text": "去，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "E",
+              "text": "只 有"
+            },
+            {
+              "chord": "",
+              "text": "愛"
+            },
+            {
+              "chord": "Am",
+              "text": "永 不"
+            },
+            {
+              "chord": "D7",
+              "text": "移，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "除 了"
+            },
+            {
+              "chord": "",
+              "text": "主"
+            },
+            {
+              "chord": "D7",
+              "text": "還 有"
+            },
+            {
+              "chord": "Em",
+              "text": "誰，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "使"
+            },
+            {
+              "chord": "D7",
+              "text": "我 歸"
+            },
+            {
+              "chord": "G",
+              "text": "依。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "怎 能"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我怎能离开主，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "將"
+          "segments": [
+            {
+              "chord": "",
+              "text": "怎能将主忘记，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "主 忘"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当祂爱的泉源，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "記，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "當 主 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "涌流我里；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "情 依"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将我全人浸透，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "依，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "在 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我全人复苏，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "胸"
+          "segments": [
+            {
+              "chord": "",
+              "text": "除了主还有谁，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "臆；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "萬 事"
-        },
-        {
-          "chord": "",
-          "text": "都"
-        },
-        {
-          "chord": "G",
-          "text": "要 逝"
-        },
-        {
-          "chord": "",
-          "text": "去，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "E",
-          "text": "只 有"
-        },
-        {
-          "chord": "",
-          "text": "愛"
-        },
-        {
-          "chord": "Am",
-          "text": "永 不"
-        },
-        {
-          "chord": "D7",
-          "text": "移，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "除 了"
-        },
-        {
-          "chord": "",
-          "text": "主"
-        },
-        {
-          "chord": "D7",
-          "text": "還 有"
-        },
-        {
-          "chord": "Em",
-          "text": "誰，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "使"
-        },
-        {
-          "chord": "D7",
-          "text": "我 歸"
-        },
-        {
-          "chord": "G",
-          "text": "依。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我怎能离开主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "怎能将主忘记，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当祂爱的泉源，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "涌流我里；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将我全人浸透，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我全人复苏，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "除了主还有谁，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我归依。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我归依。"
+            }
+          ]
         }
       ]
     }

@@ -1,396 +1,416 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/224",
   "title": "一呼一吸我吸主",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Dm",
-          "text": "一 呼"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "一 呼"
+            },
+            {
+              "chord": "",
+              "text": "一 吸 我 吸 主，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "一 吸 我 吸 主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿"
+            },
+            {
+              "chord": "F",
+              "text": "們！ 阿"
+            },
+            {
+              "chord": "",
+              "text": "們！"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "們！ 阿"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "一 呼"
+            },
+            {
+              "chord": "",
+              "text": "一 吸 我 就 活，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "們！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Dm",
-          "text": "一 呼"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿"
+            },
+            {
+              "chord": "F",
+              "text": "們！ 阿"
+            },
+            {
+              "chord": "",
+              "text": "們！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "一 吸 我 就 活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，"
+            },
+            {
+              "chord": "Dm",
+              "text": "祂 呼"
+            },
+            {
+              "chord": "",
+              "text": "出 而"
+            },
+            {
+              "chord": "A7",
+              "text": "我 吸"
+            },
+            {
+              "chord": "",
+              "text": "入，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "們！ 阿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂"
+            },
+            {
+              "chord": "Dm",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "從 我"
+            },
+            {
+              "chord": "A7",
+              "text": "裡 流"
+            },
+            {
+              "chord": "",
+              "text": "出，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "們！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因 為"
+            },
+            {
+              "chord": "Dm",
+              "text": "我 已"
+            },
+            {
+              "chord": "A7",
+              "text": "學 會"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "祂 呼"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "深 深"
+            },
+            {
+              "chord": "Gm",
+              "text": "吸 入"
+            },
+            {
+              "chord": "Dm",
+              "text": "主。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "约翰第三章"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "出 而"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是指外面空气，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "我 吸"
+          "segments": [
+            {
+              "chord": "",
+              "text": "风在外面吹呀吹，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "入，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "随意而吹。"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "并不知它来自何方，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "從 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "并不知它吹往何处，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "裡 流"
+          "segments": [
+            {
+              "chord": "",
+              "text": "凡从圣灵生的，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "出，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "也都是如此。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "因 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "约翰二十章"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "我 已"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是指里面空气，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "學 會"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Dm",
-          "text": "深 深"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主耶稣所呼出的"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "吸 入"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生命之气，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "主。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只要我们接受这气─"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不必思虑，只要呼吸；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们经历生命"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "是借着这气。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "约翰第三章"
+          "segments": [
+            {
+              "chord": "",
+              "text": "无论在那里都有"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "空气，空气！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "它包围笼罩我们，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "随时、随地！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "白白赐给，丰富便利，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们生活丰盛无比；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "所以弟兄姊妹，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "同来吸这气。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "是指外面空气，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "只要来呼喊祂名，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "风在外面吹呀吹，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主！哦主！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "随意而吹。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂就成我们气息，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "并不知它来自何方，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主！哦主！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "并不知它吹往何处，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "从最深处吸入祂名，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "凡从圣灵生的，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到我们充满生命，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "也都是如此。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "这位耶稣是"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "约翰二十章"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是指里面空气，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主耶稣所呼出的"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生命之气，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只要我们接受这气─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不必思虑，只要呼吸；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们经历生命"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是借着这气。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "无论在那里都有"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "空气，空气！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "它包围笼罩我们，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "随时、随地！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "白白赐给，丰富便利，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们生活丰盛无比；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "所以弟兄姊妹，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同来吸这气。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只要来呼喊祂名，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主！哦主！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂就成我们气息，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主！哦主！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从最深处吸入祂名，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到我们充满生命，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "这位耶稣是"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何等生命供应！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何等生命供应！"
+            }
+          ]
         }
       ]
     }
@@ -398,7 +418,16 @@
   "metadata": {
     "category": "享受基督",
     "time": "4/4",
-    "hymn_code": "36671716535"
+    "hymn_code": "36671716535",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6224",
+        "language": "cn",
+        "category": "h",
+        "number": "6224",
+        "title": "E6224"
+      }
+    ]
   },
   "raw_sections": [
     "一 呼一 吸 我 吸 主，",

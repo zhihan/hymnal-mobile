@@ -1,156 +1,168 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/708",
   "title": "我们今已在家",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "同"
+            },
+            {
+              "chord": "G",
+              "text": "聲 歌"
+            },
+            {
+              "chord": "",
+              "text": "唱 歡"
+            },
+            {
+              "chord": "D",
+              "text": "呼，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "同"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們 與"
+            },
+            {
+              "chord": "A",
+              "text": "王 一"
+            },
+            {
+              "chord": "",
+              "text": "同 居"
+            },
+            {
+              "chord": "D",
+              "text": "住！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "聲 歌"
+          "segments": [
+            {
+              "chord": "",
+              "text": "異 象 清 楚， 向"
+            },
+            {
+              "chord": "Em",
+              "text": "主 絕"
+            },
+            {
+              "chord": "",
+              "text": "對，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "唱 歡"
-        },
-        {
-          "chord": "D",
-          "text": "呼，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們"
+            },
+            {
+              "chord": "D",
+              "text": "是 祂"
+            },
+            {
+              "chord": "",
+              "text": "揀"
+            },
+            {
+              "chord": "A7",
+              "text": "選 的"
+            },
+            {
+              "chord": "",
+              "text": "召"
+            },
+            {
+              "chord": "D",
+              "text": "會。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我 們 與"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们听见大雷声响，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "王 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "众圣站住地方立场，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "同 居"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！我们欢呼，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "住！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "聚会中赞美主不止住。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "異 象 清 楚， 向"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们不再流荡不定，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "主 絕"
+          "segments": [
+            {
+              "chord": "",
+              "text": "摸索寻找天上的星；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "對，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，明光照亮，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "是 祂"
-        },
-        {
-          "chord": "",
-          "text": "揀"
-        },
-        {
-          "chord": "A7",
-          "text": "選 的"
-        },
-        {
-          "chord": "",
-          "text": "召"
-        },
-        {
-          "chord": "D",
-          "text": "會。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们听见大雷声响，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "众圣站住地方立场，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！我们欢呼，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "聚会中赞美主不止住。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们不再流荡不定，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "摸索寻找天上的星；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚，明光照亮，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们今已在家，已在家！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们今已在家，已在家！"
+            }
+          ]
         }
       ]
     }
@@ -158,7 +170,16 @@
   "metadata": {
     "category": "教会的生活",
     "time": "4/4",
-    "hymn_code": "1111316133335313"
+    "hymn_code": "1111316133335313",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6708",
+        "language": "cn",
+        "category": "h",
+        "number": "6708",
+        "title": "E6708"
+      }
+    ]
   },
   "raw_sections": [
     "我 們同聲 歌唱 歡呼，",

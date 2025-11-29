@@ -1,368 +1,408 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/506",
   "title": "当周游锡安",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "當"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "當"
+            },
+            {
+              "chord": "F",
+              "text": "周 遊，"
+            },
+            {
+              "chord": "",
+              "text": "當 周 遊"
+            },
+            {
+              "chord": "C",
+              "text": "錫 安，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "周 遊，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在"
+            },
+            {
+              "chord": "F",
+              "text": "她 的"
+            },
+            {
+              "chord": "",
+              "text": "四 圍 旋"
+            },
+            {
+              "chord": "C",
+              "text": "繞；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "當 周 遊"
+          "segments": [
+            {
+              "chord": "",
+              "text": "當"
+            },
+            {
+              "chord": "F",
+              "text": "周 遊，"
+            },
+            {
+              "chord": "",
+              "text": "當 周 遊"
+            },
+            {
+              "chord": "C",
+              "text": "錫 安，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "錫 安，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "數"
+            },
+            {
+              "chord": "G",
+              "text": "點 她"
+            },
+            {
+              "chord": "G7",
+              "text": "城 樓"
+            },
+            {
+              "chord": "",
+              "text": "多"
+            },
+            {
+              "chord": "Am",
+              "text": "少。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "數"
+            },
+            {
+              "chord": "Dm",
+              "text": "點 她"
+            },
+            {
+              "chord": "G7",
+              "text": "城 樓"
+            },
+            {
+              "chord": "",
+              "text": "多"
+            },
+            {
+              "chord": "C",
+              "text": "少。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "她在北面居高华美，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "她 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃为全地所喜悦！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "四 圍 旋"
+          "segments": [
+            {
+              "chord": "",
+              "text": "她在北面居高华美，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "繞；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "锡安─价值何超越！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "當"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在锡安有一道河流，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "周 遊，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "具有无数的分汊，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "當 周 遊"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在锡安有一道河流，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "錫 安，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使这城喜乐增加。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "數"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，锡安等候赞美你，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "點 她"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，锡安等候赞你，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "城 樓"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，锡安等候赞美你，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "多"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因锡安充满了你。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶和华在锡安为大，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "少。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "數"
+          "segments": [
+            {
+              "chord": "",
+              "text": "该受何等大赞美，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "點 她"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂在这城中本为大，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "城 樓"
+          "segments": [
+            {
+              "chord": "",
+              "text": "这城地位何高贵。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，当从锡安称颂神，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "多"
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美声音不止息；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "少。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，当从锡安称颂神，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你们凡敬畏神的。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "她在北面居高华美，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神从锡安赐福给你，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "神赐福无量无限；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "神从锡安赐福给你，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "赐生命福到永远！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "乃为全地所喜悦！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "看哪！何等善，何等美，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "弟兄们都在一起！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "看哪！何等善，何等美，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "和睦同居真合一！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "她在北面居高华美，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "当传说给所有后代，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "锡安─价值何超越！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "凡愿意的都可来；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在锡安有一道河流，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "当传说给所有后代，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "具有无数的分汊，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在锡安有一道河流，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使这城喜乐增加。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，锡安等候赞美你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，锡安等候赞你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，锡安等候赞美你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因锡安充满了你。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶和华在锡安为大，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "该受何等大赞美，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂在这城中本为大，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "这城地位何高贵。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，当从锡安称颂神，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞美声音不止息；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，当从锡安称颂神，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你们凡敬畏神的。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神从锡安赐福给你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神赐福无量无限；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神从锡安赐福给你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赐生命福到永远！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "看哪！何等善，何等美，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "弟兄们都在一起！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "看哪！何等善，何等美，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "和睦同居真合一！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当传说给所有后代，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "凡愿意的都可来；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当传说给所有后代，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "灵与新妇都说‘来！’"
+          "segments": [
+            {
+              "chord": "",
+              "text": "灵与新妇都说‘来！’"
+            }
+          ]
         }
       ]
     }
@@ -370,7 +410,16 @@
   "metadata": {
     "category": "教会的异象",
     "time": "6/8",
-    "hymn_code": "566617665"
+    "hymn_code": "566617665",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1223",
+        "language": "cn",
+        "category": "h",
+        "number": "1223",
+        "title": "E1223"
+      }
+    ]
   },
   "raw_sections": [
     "當周 遊，當 周 遊錫 安，",

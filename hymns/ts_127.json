@@ -1,408 +1,428 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/127",
   "title": "国度原是主的自己",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Cm",
-          "text": "主， 給"
+          "segments": [
+            {
+              "chord": "Cm",
+              "text": "主， 給"
+            },
+            {
+              "chord": "",
+              "text": "我 們 看 見 你"
+            },
+            {
+              "chord": "Fm",
+              "text": "心 意，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 們 看 見 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在"
+            },
+            {
+              "chord": "G♯",
+              "text": "於 你"
+            },
+            {
+              "chord": "Gm",
+              "text": "的 國"
+            },
+            {
+              "chord": "Cm",
+              "text": "度。"
+            }
+          ]
         },
         {
-          "chord": "Fm",
-          "text": "心 意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不 需 我 們 愚 昧 的"
+            },
+            {
+              "chord": "Fm",
+              "text": "努 力，"
+            }
+          ]
         },
         {
-          "chord": "G♯",
-          "text": "於 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "卻"
+            },
+            {
+              "chord": "G♯",
+              "text": "需 你"
+            },
+            {
+              "chord": "Gm",
+              "text": "的 恩"
+            },
+            {
+              "chord": "Cm",
+              "text": "典。"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "的 國"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不 必 等"
+            },
+            {
+              "chord": "Fm",
+              "text": "候 那"
+            },
+            {
+              "chord": "A♯",
+              "text": "日 顯"
+            },
+            {
+              "chord": "D♯",
+              "text": "明，"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "度。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不 需 我 們 愚 昧 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "G♯",
+              "text": "把 我"
+            },
+            {
+              "chord": "",
+              "text": "們 已 遷"
+            },
+            {
+              "chord": "Gm",
+              "text": "國 裡；"
+            }
+          ]
         },
         {
-          "chord": "Fm",
-          "text": "努 力，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "卻"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只 要 讓"
+            },
+            {
+              "chord": "Cm",
+              "text": "你 在"
+            },
+            {
+              "chord": "",
+              "text": "裡 面"
+            },
+            {
+              "chord": "Fm",
+              "text": "長 大，"
+            }
+          ]
         },
         {
-          "chord": "G♯",
-          "text": "需 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "國"
+            },
+            {
+              "chord": "G♯",
+              "text": "度 就"
+            },
+            {
+              "chord": "Gm",
+              "text": "得 彰"
+            },
+            {
+              "chord": "Cm",
+              "text": "顯。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "神的国度是基督扩展："
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "的 恩"
+          "segments": [
+            {
+              "chord": "",
+              "text": "种子已撒我里；"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "典。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不 必 等"
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣就是那生命种子─"
+            }
+          ]
         },
         {
-          "chord": "Fm",
-          "text": "候 那"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生长须加留意。"
+            }
+          ]
         },
         {
-          "chord": "A♯",
-          "text": "日 顯"
+          "segments": [
+            {
+              "chord": "",
+              "text": "石头地乃是魂生命，"
+            }
+          ]
         },
         {
-          "chord": "D♯",
-          "text": "明，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荆棘是思虑和财富；"
+            }
+          ]
         },
         {
-          "chord": "G♯",
-          "text": "把 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们不能作路旁硬地，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "們 已 遷"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿祂落在好土。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在好土里麦苗快生长，"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "國 裡；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只 要 讓"
+          "segments": [
+            {
+              "chord": "",
+              "text": "果实麦子结出；"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "你 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "然而麦子须成为细面，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "裡 面"
+          "segments": [
+            {
+              "chord": "",
+              "text": "好作神人食物。"
+            }
+          ]
         },
         {
-          "chord": "Fm",
-          "text": "長 大，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "國"
+          "segments": [
+            {
+              "chord": "",
+              "text": "若要成就神这心意，"
+            }
+          ]
         },
         {
-          "chord": "G♯",
-          "text": "度 就"
+          "segments": [
+            {
+              "chord": "",
+              "text": "就得接受一切磨炼，"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "得 彰"
+          "segments": [
+            {
+              "chord": "",
+              "text": "成为一个圣洁的素祭，"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "顯。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主里紧紧相联。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "神的国度是基督扩展："
+          "segments": [
+            {
+              "chord": "",
+              "text": "从磨炼中变化成活石，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "个个为着建造！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在圣灵里变质而长成─"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "金银、宝石、珍珠。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们接受主作人位，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "占有我们全人生活；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "借此生命长大而变化，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "国度就能显现。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "种子已撒我里；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "珍珠性质纯洁又完美，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "耶稣就是那生命种子─"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "达到最高境界；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "生长须加留意。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "虽然经历百般的痛苦，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "石头地乃是魂生命，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "生命却更长成。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "荆棘是思虑和财富；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "主作我们生命、人位─"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我们不能作路旁硬地，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "国度原是主的自己；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "愿祂落在好土。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂在里面不断的增长，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在好土里麦苗快生长，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "果实麦子结出；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "然而麦子须成为细面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "好作神人食物。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "若要成就神这心意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "就得接受一切磨炼，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "成为一个圣洁的素祭，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主里紧紧相联。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从磨炼中变化成活石，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "个个为着建造！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在圣灵里变质而长成─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "金银、宝石、珍珠。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们接受主作人位，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "占有我们全人生活；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借此生命长大而变化，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "国度就能显现。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "珍珠性质纯洁又完美，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "达到最高境界；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "虽然经历百般的痛苦，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生命却更长成。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主作我们生命、人位─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "国度原是主的自己；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂在里面不断的增长，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到神人合一。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到神人合一。"
+            }
+          ]
         }
       ]
     }

@@ -1,288 +1,292 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/337",
   "title": "一件美事",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "已 過"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "已 過"
+            },
+            {
+              "chord": "",
+              "text": "二 十"
+            },
+            {
+              "chord": "A",
+              "text": "世 紀"
+            },
+            {
+              "chord": "Bm",
+              "text": "以 來，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "二 十"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "千 千"
+            },
+            {
+              "chord": "",
+              "text": "萬"
+            },
+            {
+              "chord": "G",
+              "text": "萬 寶"
+            },
+            {
+              "chord": "",
+              "text": "貴"
+            },
+            {
+              "chord": "D",
+              "text": "的 性"
+            },
+            {
+              "chord": "A",
+              "text": "命，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "世 紀"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "心 愛"
+            },
+            {
+              "chord": "D",
+              "text": "的 奇"
+            },
+            {
+              "chord": "Bm",
+              "text": "珍、 崇"
+            },
+            {
+              "chord": "",
+              "text": "高"
+            },
+            {
+              "chord": "Em",
+              "text": "的 地"
+            },
+            {
+              "chord": "A",
+              "text": "位、"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "以 來，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "千 千"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "以 及"
+            },
+            {
+              "chord": "D",
+              "text": "燦 爛"
+            },
+            {
+              "chord": "",
+              "text": "的 前"
+            },
+            {
+              "chord": "G",
+              "text": "途，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "萬"
+          "segments": [
+            {
+              "chord": "",
+              "text": "都"
+            },
+            {
+              "chord": "F♯m",
+              "text": "曾 枉"
+            },
+            {
+              "chord": "Bm",
+              "text": "費 在"
+            },
+            {
+              "chord": "Em",
+              "text": "主 耶"
+            },
+            {
+              "chord": "A7",
+              "text": "穌 身"
+            },
+            {
+              "chord": "D",
+              "text": "上。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "萬 寶"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "對 這"
+            },
+            {
+              "chord": "G",
+              "text": "些 愛"
+            },
+            {
+              "chord": "A",
+              "text": "主 的"
+            },
+            {
+              "chord": "D",
+              "text": "人，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "貴"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "祂 是"
+            },
+            {
+              "chord": "G",
+              "text": "全"
+            },
+            {
+              "chord": "A",
+              "text": "然 可"
+            },
+            {
+              "chord": "D",
+              "text": "愛，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "的 性"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 是"
+            },
+            {
+              "chord": "Em",
+              "text": "全 然"
+            },
+            {
+              "chord": "",
+              "text": "可"
+            },
+            {
+              "chord": "A",
+              "text": "愛，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "命，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "心 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "配"
+            },
+            {
+              "chord": "Em",
+              "text": "得 我"
+            },
+            {
+              "chord": "",
+              "text": "們"
+            },
+            {
+              "chord": "G",
+              "text": "獻 上"
+            },
+            {
+              "chord": "",
+              "text": "一"
+            },
+            {
+              "chord": "A",
+              "text": "切，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "的 奇"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我"
+            },
+            {
+              "chord": "G",
+              "text": "們 澆"
+            },
+            {
+              "chord": "A7",
+              "text": "在 主"
+            },
+            {
+              "chord": "D",
+              "text": "身 上"
+            },
+            {
+              "chord": "G",
+              "text": "的 不"
+            },
+            {
+              "chord": "",
+              "text": "是"
+            },
+            {
+              "chord": "D",
+              "text": "枉 費，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "珍、 崇"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃 是"
+            },
+            {
+              "chord": "Em",
+              "text": "馨 香"
+            },
+            {
+              "chord": "",
+              "text": "的 見"
+            },
+            {
+              "chord": "A",
+              "text": "證，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "高"
-        },
-        {
-          "chord": "Em",
-          "text": "的 地"
-        },
-        {
-          "chord": "A",
-          "text": "位、"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "以 及"
-        },
-        {
-          "chord": "D",
-          "text": "燦 爛"
-        },
-        {
-          "chord": "",
-          "text": "的 前"
-        },
-        {
-          "chord": "G",
-          "text": "途，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "都"
-        },
-        {
-          "chord": "F♯m",
-          "text": "曾 枉"
-        },
-        {
-          "chord": "Bm",
-          "text": "費 在"
-        },
-        {
-          "chord": "Em",
-          "text": "主 耶"
-        },
-        {
-          "chord": "A7",
-          "text": "穌 身"
-        },
-        {
-          "chord": "D",
-          "text": "上。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "對 這"
-        },
-        {
-          "chord": "G",
-          "text": "些 愛"
-        },
-        {
-          "chord": "A",
-          "text": "主 的"
-        },
-        {
-          "chord": "D",
-          "text": "人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Bm",
-          "text": "祂 是"
-        },
-        {
-          "chord": "G",
-          "text": "全"
-        },
-        {
-          "chord": "A",
-          "text": "然 可"
-        },
-        {
-          "chord": "D",
-          "text": "愛，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 是"
-        },
-        {
-          "chord": "Em",
-          "text": "全 然"
-        },
-        {
-          "chord": "",
-          "text": "可"
-        },
-        {
-          "chord": "A",
-          "text": "愛，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "配"
-        },
-        {
-          "chord": "Em",
-          "text": "得 我"
-        },
-        {
-          "chord": "",
-          "text": "們"
-        },
-        {
-          "chord": "G",
-          "text": "獻 上"
-        },
-        {
-          "chord": "",
-          "text": "一"
-        },
-        {
-          "chord": "A",
-          "text": "切，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "我"
-        },
-        {
-          "chord": "G",
-          "text": "們 澆"
-        },
-        {
-          "chord": "A7",
-          "text": "在 主"
-        },
-        {
-          "chord": "D",
-          "text": "身 上"
-        },
-        {
-          "chord": "G",
-          "text": "的 不"
-        },
-        {
-          "chord": "",
-          "text": "是"
-        },
-        {
-          "chord": "D",
-          "text": "枉 費，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃 是"
-        },
-        {
-          "chord": "Em",
-          "text": "馨 香"
-        },
-        {
-          "chord": "",
-          "text": "的 見"
-        },
-        {
-          "chord": "A",
-          "text": "證，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "見"
-        },
-        {
-          "chord": "G",
-          "text": "證 祂"
-        },
-        {
-          "chord": "A",
-          "text": "的 甘"
-        },
-        {
-          "chord": "D",
-          "text": "甜。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "見"
+            },
+            {
+              "chord": "G",
+              "text": "證 祂"
+            },
+            {
+              "chord": "A",
+              "text": "的 甘"
+            },
+            {
+              "chord": "D",
+              "text": "甜。"
+            }
+          ]
         }
       ]
     }
@@ -290,7 +294,16 @@
   "metadata": {
     "category": "爱慕耶稣",
     "time": "4/4",
-    "hymn_code": "5111235321223432122"
+    "hymn_code": "5111235321223432122",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/309",
+        "language": "cn",
+        "category": "ns",
+        "number": "309",
+        "title": "NS309"
+      }
+    ]
   },
   "raw_sections": [
     "已 過二 十世 紀以 來，",

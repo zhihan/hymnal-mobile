@@ -1,356 +1,372 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/464",
   "title": "随主前行",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Dm",
-          "text": "當 遇"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "當 遇"
+            },
+            {
+              "chord": "",
+              "text": "難 處 使 我 躊 躇，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "難 處 使 我 躊 躇，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A♯",
-          "text": "屬 天"
+          "segments": [
+            {
+              "chord": "A♯",
+              "text": "屬 天"
+            },
+            {
+              "chord": "",
+              "text": "異"
+            },
+            {
+              "chord": "C",
+              "text": "象 漸"
+            },
+            {
+              "chord": "",
+              "text": "糢"
+            },
+            {
+              "chord": "F",
+              "text": "糊，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "異"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "四 圍"
+            },
+            {
+              "chord": "",
+              "text": "充 滿 艱 辛 攔 阻，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "象 漸"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "似 乎"
+            },
+            {
+              "chord": "",
+              "text": "無 力 再 隨"
+            },
+            {
+              "chord": "Dm",
+              "text": "主；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "糢"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但"
+            },
+            {
+              "chord": "A♯",
+              "text": "主 告"
+            },
+            {
+              "chord": "C",
+              "text": "我 祂"
+            },
+            {
+              "chord": "",
+              "text": "曾"
+            },
+            {
+              "chord": "F",
+              "text": "歷 世"
+            },
+            {
+              "chord": "Dm",
+              "text": "途，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "糊，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Dm",
-          "text": "四 圍"
+          "segments": [
+            {
+              "chord": "",
+              "text": "經"
+            },
+            {
+              "chord": "A♯",
+              "text": "憂 患"
+            },
+            {
+              "chord": "C",
+              "text": "無 枕"
+            },
+            {
+              "chord": "",
+              "text": "首"
+            },
+            {
+              "chord": "F",
+              "text": "處，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "充 滿 艱 辛 攔 阻，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "似 乎"
+          "segments": [
+            {
+              "chord": "",
+              "text": "被"
+            },
+            {
+              "chord": "A♯",
+              "text": "掛 木"
+            },
+            {
+              "chord": "C",
+              "text": "上 嘗"
+            },
+            {
+              "chord": "",
+              "text": "苦"
+            },
+            {
+              "chord": "F",
+              "text": "膽 酸"
+            },
+            {
+              "chord": "Dm",
+              "text": "醋，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "無 力 再 隨"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "憂 苦"
+            },
+            {
+              "chord": "",
+              "text": "祂 已 擔"
+            },
+            {
+              "chord": "Dm",
+              "text": "負。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "灵中听主题醒嘱咐，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "主；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但"
+          "segments": [
+            {
+              "chord": "",
+              "text": "需要凭信走窄路；"
+            }
+          ]
         },
         {
-          "chord": "A♯",
-          "text": "主 告"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂的患难要我补足，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "我 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "经历十架学顺服。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "曾"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂话内住，时将我鼓舞，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "歷 世"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我得力再举步，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "途，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "經"
+          "segments": [
+            {
+              "chord": "",
+              "text": "欢然随主历短暂苦楚，"
+            }
+          ]
         },
         {
-          "chord": "A♯",
-          "text": "憂 患"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永远荣耀在目。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "看见建造异象蓝图，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "無 枕"
+          "segments": [
+            {
+              "chord": "",
+              "text": "放胆前行无旁骛；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "首"
+          "segments": [
+            {
+              "chord": "",
+              "text": "所有境遇是为帮助，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "處，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "被"
+          "segments": [
+            {
+              "chord": "",
+              "text": "信徒生命早成熟。"
+            }
+          ]
         },
         {
-          "chord": "A♯",
-          "text": "掛 木"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何等荣耀，有分神建筑，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "上 嘗"
+          "segments": [
+            {
+              "chord": "",
+              "text": "金、银、宝石非草、木，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "苦"
+          "segments": [
+            {
+              "chord": "",
+              "text": "让神安居，且成主新妇，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "膽 酸"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主的再临催促。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "等我行完此生路途，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "醋，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "憂 苦"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我要迎见亲爱主，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "祂 已 擔"
+          "segments": [
+            {
+              "chord": "",
+              "text": "且与众圣同声欢呼，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "負。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "此路原来不孤独。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "灵中听主题醒嘱咐，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"好！你这良善忠信奴仆\"─"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "需要凭信走窄路；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "公义的主要宣布；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "祂的患难要我补足，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "主人快乐得欢然进入，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "经历十架学顺服。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂话内住，时将我鼓舞，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我得力再举步，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "欢然随主历短暂苦楚，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永远荣耀在目。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "看见建造异象蓝图，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "放胆前行无旁骛；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "所有境遇是为帮助，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "信徒生命早成熟。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何等荣耀，有分神建筑，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "金、银、宝石非草、木，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让神安居，且成主新妇，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主的再临催促。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "等我行完此生路途，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我要迎见亲爱主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "且与众圣同声欢呼，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "此路原来不孤独。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "\"好！你这良善忠信奴仆\"─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "公义的主要宣布；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主人快乐得欢然进入，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "才识你恩丰足。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "才识你恩丰足。"
+            }
+          ]
         }
       ]
     }

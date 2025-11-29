@@ -1,440 +1,464 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/812",
   "title": "已经得胜",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "已 經"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "已 經"
+            },
+            {
+              "chord": "",
+              "text": "得 勝！ 基 督 已 經 勝 過 仇 敵，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "得 勝！ 基 督 已 經 勝 過 仇 敵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得"
+            },
+            {
+              "chord": "D",
+              "text": "勝 之"
+            },
+            {
+              "chord": "",
+              "text": "聲 遠"
+            },
+            {
+              "chord": "A7",
+              "text": "近 都"
+            },
+            {
+              "chord": "",
+              "text": "可 聽"
+            },
+            {
+              "chord": "D",
+              "text": "見！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "勝 之"
+          "segments": [
+            {
+              "chord": "",
+              "text": "寶"
+            },
+            {
+              "chord": "G",
+              "text": "血 有"
+            },
+            {
+              "chord": "",
+              "text": "能， 藉"
+            },
+            {
+              "chord": "C",
+              "text": "牠 我"
+            },
+            {
+              "chord": "",
+              "text": "們 必 得 勝 利，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "聲 遠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不"
+            },
+            {
+              "chord": "G",
+              "text": "久 全"
+            },
+            {
+              "chord": "",
+              "text": "能 得"
+            },
+            {
+              "chord": "D7",
+              "text": "勝 主"
+            },
+            {
+              "chord": "",
+              "text": "必 顯"
+            },
+            {
+              "chord": "G",
+              "text": "現！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "已 經 得 勝！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "近 都"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦， 弟 兄 們 哪， 已 經 得 勝，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "可 聽"
+          "segments": [
+            {
+              "chord": "",
+              "text": "當 高 聲"
+            },
+            {
+              "chord": "D",
+              "text": "喊！ 在"
+            },
+            {
+              "chord": "",
+              "text": "錫 安 聖"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "見！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "寶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "城 宣 告 祂 得 勝， 直 到"
+            },
+            {
+              "chord": "D7",
+              "text": "全 地"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "血 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "充 滿 頌"
+            },
+            {
+              "chord": "G",
+              "text": "讚。 已"
+            },
+            {
+              "chord": "",
+              "text": "經 得 勝！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "能， 藉"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦， 姊 妹 們"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "牠 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哪， 基 督 已 經 完"
+            },
+            {
+              "chord": "G7",
+              "text": "成 神"
+            },
+            {
+              "chord": "C",
+              "text": "旨！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "們 必 得 勝 利，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 是 得 勝 主， 將 仇"
+            },
+            {
+              "chord": "G",
+              "text": "敵"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "久 全"
+          "segments": [
+            {
+              "chord": "",
+              "text": "征 服， 永 遠"
+            },
+            {
+              "chord": "D",
+              "text": "之 樂"
+            },
+            {
+              "chord": "",
+              "text": "從"
+            },
+            {
+              "chord": "D7",
+              "text": "今 開"
+            },
+            {
+              "chord": "G",
+              "text": "始。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "已经得胜！我们已经胜过仇敌，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "能 得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因为我们放胆见证主话；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "勝 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神的话语带给我们生命、能力；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "必 顯"
+          "segments": [
+            {
+              "chord": "",
+              "text": "借着这话我们必向敌夸。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "（女声）"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "現！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "已 經 得 勝！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦， 弟 兄 們 哪， 已 經 得 勝，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "當 高 聲"
+          "segments": [
+            {
+              "chord": "",
+              "text": "已经得胜！哦，弟兄们哪，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "喊！ 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "已经得胜，当高声喊！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "錫 安 聖"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "城 宣 告 祂 得 勝， 直 到"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在锡安圣城宣告祂得胜，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "全 地"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "充 滿 頌"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到全地充满颂赞。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "讚。 已"
+          "segments": [
+            {
+              "chord": "",
+              "text": "（男声）"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "經 得 勝！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦， 姊 妹 們"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哪， 基 督 已 經 完"
+          "segments": [
+            {
+              "chord": "",
+              "text": "已经得胜！哦，姊妹们哪，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "成 神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督已经完成神旨！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "旨！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 是 得 勝 主， 將 仇"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是得胜主，将仇敌征服，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "敵"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永远之乐从今开始。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "征 服， 永 遠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "已经得胜！仇敌已在我们脚底，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "之 樂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因我们虽至死不爱性命；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "從"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们高喊：‘主阿，你使我们胜利！’"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "今 開"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀归神！赞颂之声不停。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "（女声）"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "始。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "已经得胜！哦，弟兄们哪，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "已经得胜！我们已经胜过仇敌，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "已经得胜，当高声喊！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "因为我们放胆见证主话；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "在锡安圣城宣告祂得胜，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "神的话语带给我们生命、能力；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到全地充满颂赞。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "借着这话我们必向敌夸。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "（男声）"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "（女声）"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "已经得胜！哦，姊妹们哪，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "已经得胜！哦，弟兄们哪，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督已经完成神旨！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "已经得胜，当高声喊！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是得胜主，将仇敌征服，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在锡安圣城宣告祂得胜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到全地充满颂赞。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "（男声）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "已经得胜！哦，姊妹们哪，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督已经完成神旨！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是得胜主，将仇敌征服，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永远之乐从今开始。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "已经得胜！仇敌已在我们脚底，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因我们虽至死不爱性命；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们高喊：‘主阿，你使我们胜利！’"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀归神！赞颂之声不停。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "（女声）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "已经得胜！哦，弟兄们哪，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "已经得胜，当高声喊！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在锡安圣城宣告祂得胜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到全地充满颂赞。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "（男声）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "已经得胜！哦，姊妹们哪，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督已经完成神旨！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是得胜主，将仇敌征服，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永远之乐从今开始。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永远之乐从今开始。"
+            }
+          ]
         }
       ]
     }
@@ -442,7 +466,16 @@
   "metadata": {
     "category": "事奉与福音",
     "time": "4/4",
-    "hymn_code": "5111565556555"
+    "hymn_code": "5111565556555",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1289",
+        "language": "cn",
+        "category": "h",
+        "number": "1289",
+        "title": "E1289"
+      }
+    ]
   },
   "raw_sections": [
     "已 經得 勝！ 基 督 已 經 勝 過 仇 敵，",

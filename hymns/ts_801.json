@@ -1,372 +1,388 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/801",
   "title": "我们进入身体事奉",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "投"
+            },
+            {
+              "chord": "C",
+              "text": "入 恢"
+            },
+            {
+              "chord": "D7",
+              "text": "復 流"
+            },
+            {
+              "chord": "G",
+              "text": "裡，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "投"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "有 分"
+            },
+            {
+              "chord": "Am",
+              "text": "於 祂"
+            },
+            {
+              "chord": "",
+              "text": "榮"
+            },
+            {
+              "chord": "D7",
+              "text": "耀 經"
+            },
+            {
+              "chord": "G",
+              "text": "營；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "入 恢"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "G7",
+              "text": "們 進"
+            },
+            {
+              "chord": "C",
+              "text": "入 身"
+            },
+            {
+              "chord": "D7",
+              "text": "體 事"
+            },
+            {
+              "chord": "G",
+              "text": "奉，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "復 流"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "被 建"
+            },
+            {
+              "chord": "Am",
+              "text": "造 完"
+            },
+            {
+              "chord": "",
+              "text": "成"
+            },
+            {
+              "chord": "D7",
+              "text": "神 旨"
+            },
+            {
+              "chord": "G",
+              "text": "意。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "裡，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "被 建"
+            },
+            {
+              "chord": "D",
+              "text": "造， 完"
+            },
+            {
+              "chord": "",
+              "text": "成 神 旨"
+            },
+            {
+              "chord": "D7",
+              "text": "意；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "被 建"
+            },
+            {
+              "chord": "G",
+              "text": "造， 完"
+            },
+            {
+              "chord": "",
+              "text": "成 神"
+            },
+            {
+              "chord": "C",
+              "text": "旨"
+            },
+            {
+              "chord": "G",
+              "text": "意；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "被 建"
+            },
+            {
+              "chord": "D",
+              "text": "造， 完"
+            },
+            {
+              "chord": "",
+              "text": "成 神 旨"
+            },
+            {
+              "chord": "D7",
+              "text": "意；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "真 歡"
+            },
+            {
+              "chord": "G",
+              "text": "喜！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Em",
-          "text": "有 分"
+          "segments": [
+            {
+              "chord": "",
+              "text": "世 界"
+            },
+            {
+              "chord": "Bm",
+              "text": "情 慾，"
+            },
+            {
+              "chord": "C",
+              "text": "即 將"
+            },
+            {
+              "chord": "",
+              "text": "過"
+            },
+            {
+              "chord": "Am",
+              "text": "去，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "於 祂"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "神 的"
+            },
+            {
+              "chord": "D7",
+              "text": "旨 意"
+            },
+            {
+              "chord": "",
+              "text": "永"
+            },
+            {
+              "chord": "G",
+              "text": "不 止"
+            },
+            {
+              "chord": "",
+              "text": "息。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "榮"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "不 甘"
+            },
+            {
+              "chord": "C",
+              "text": "隨 流"
+            },
+            {
+              "chord": "",
+              "text": "失"
+            },
+            {
+              "chord": "Am",
+              "text": "去，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "耀 經"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 們"
+            },
+            {
+              "chord": "D7",
+              "text": "願 被"
+            },
+            {
+              "chord": "",
+              "text": "建"
+            },
+            {
+              "chord": "G",
+              "text": "造 在"
+            },
+            {
+              "chord": "",
+              "text": "一"
+            },
+            {
+              "chord": "Am",
+              "text": "起，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "營；"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "永 不"
+            },
+            {
+              "chord": "",
+              "text": "分"
+            },
+            {
+              "chord": "G",
+              "text": "離。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从前浪费在世界中，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "們 進"
+          "segments": [
+            {
+              "chord": "",
+              "text": "全不关心神的行动，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "入 身"
+          "segments": [
+            {
+              "chord": "",
+              "text": "终日追求不过幻梦，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "體 事"
+          "segments": [
+            {
+              "chord": "",
+              "text": "尽都是如捉影、如捕风，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "奉，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "凡事虚空。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Em",
-          "text": "被 建"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今蒙怜悯，未被撇弃，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "造 完"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂爱寻我回伯特利，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "成"
+          "segments": [
+            {
+              "chord": "",
+              "text": "投身在这荣耀经营，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "神 旨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我此生有意义，有目的，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "意。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "被 建"
-        },
-        {
-          "chord": "D",
-          "text": "造， 完"
-        },
-        {
-          "chord": "",
-          "text": "成 神 旨"
-        },
-        {
-          "chord": "D7",
-          "text": "意；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "被 建"
-        },
-        {
-          "chord": "G",
-          "text": "造， 完"
-        },
-        {
-          "chord": "",
-          "text": "成 神"
-        },
-        {
-          "chord": "C",
-          "text": "旨"
-        },
-        {
-          "chord": "G",
-          "text": "意；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "被 建"
-        },
-        {
-          "chord": "D",
-          "text": "造， 完"
-        },
-        {
-          "chord": "",
-          "text": "成 神 旨"
-        },
-        {
-          "chord": "D7",
-          "text": "意；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "真 歡"
-        },
-        {
-          "chord": "G",
-          "text": "喜！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "世 界"
-        },
-        {
-          "chord": "Bm",
-          "text": "情 慾，"
-        },
-        {
-          "chord": "C",
-          "text": "即 將"
-        },
-        {
-          "chord": "",
-          "text": "過"
-        },
-        {
-          "chord": "Am",
-          "text": "去，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "神 的"
-        },
-        {
-          "chord": "D7",
-          "text": "旨 意"
-        },
-        {
-          "chord": "",
-          "text": "永"
-        },
-        {
-          "chord": "G",
-          "text": "不 止"
-        },
-        {
-          "chord": "",
-          "text": "息。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "我 們"
-        },
-        {
-          "chord": "",
-          "text": "不 甘"
-        },
-        {
-          "chord": "C",
-          "text": "隨 流"
-        },
-        {
-          "chord": "",
-          "text": "失"
-        },
-        {
-          "chord": "Am",
-          "text": "去，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "我 們"
-        },
-        {
-          "chord": "D7",
-          "text": "願 被"
-        },
-        {
-          "chord": "",
-          "text": "建"
-        },
-        {
-          "chord": "G",
-          "text": "造 在"
-        },
-        {
-          "chord": "",
-          "text": "一"
-        },
-        {
-          "chord": "Am",
-          "text": "起，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "永 不"
-        },
-        {
-          "chord": "",
-          "text": "分"
-        },
-        {
-          "chord": "G",
-          "text": "離。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从前浪费在世界中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全不关心神的行动，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "终日追求不过幻梦，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "尽都是如捉影、如捕风，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "凡事虚空。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今蒙怜悯，未被撇弃，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂爱寻我回伯特利，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "投身在这荣耀经营，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我此生有意义，有目的，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "满了实际。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "满了实际。"
+            }
+          ]
         }
       ]
     }

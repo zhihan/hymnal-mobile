@@ -1,368 +1,372 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/823",
   "title": "你若感觉孤单",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "你 若"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "你 若"
+            },
+            {
+              "chord": "",
+              "text": "感 覺 孤 單，"
+            },
+            {
+              "chord": "F♯m",
+              "text": "日 子"
+            },
+            {
+              "chord": "",
+              "text": "難"
+            },
+            {
+              "chord": "G",
+              "text": "挨，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "感 覺 孤 單，"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "耶 穌，"
+            },
+            {
+              "chord": "F♯m",
+              "text": "耶 穌，"
+            },
+            {
+              "chord": "Bm",
+              "text": "與 你"
+            },
+            {
+              "chord": "",
+              "text": "同"
+            },
+            {
+              "chord": "Em",
+              "text": "在；"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "日 子"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "A7",
+              "text": "若 覺"
+            },
+            {
+              "chord": "",
+              "text": "人"
+            },
+            {
+              "chord": "D",
+              "text": "生 黑"
+            },
+            {
+              "chord": "",
+              "text": "暗，"
+            },
+            {
+              "chord": "F♯m",
+              "text": "前 途"
+            },
+            {
+              "chord": "",
+              "text": "茫"
+            },
+            {
+              "chord": "G",
+              "text": "茫，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "難"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "耶 穌，"
+            },
+            {
+              "chord": "F♯m",
+              "text": "耶 穌，"
+            },
+            {
+              "chord": "G",
+              "text": "是 你"
+            },
+            {
+              "chord": "",
+              "text": "的"
+            },
+            {
+              "chord": "Em",
+              "text": "光。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "挨，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "耶 穌，"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "你 若"
+            },
+            {
+              "chord": "D",
+              "text": "從 深"
+            },
+            {
+              "chord": "",
+              "text": "處 轉 向 祂，"
+            },
+            {
+              "chord": "G",
+              "text": "重 擔"
+            },
+            {
+              "chord": "",
+              "text": "卸"
+            },
+            {
+              "chord": "E",
+              "text": "下，"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "耶 穌，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂"
+            },
+            {
+              "chord": "A",
+              "text": "必 定"
+            },
+            {
+              "chord": "",
+              "text": "替"
+            },
+            {
+              "chord": "F♯",
+              "text": "你 擔"
+            },
+            {
+              "chord": "",
+              "text": "代─"
+            },
+            {
+              "chord": "Bm",
+              "text": "祂"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "與 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "與"
+            },
+            {
+              "chord": "G",
+              "text": "你 同"
+            },
+            {
+              "chord": "D",
+              "text": "在。 不"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "同"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "要 四"
+            },
+            {
+              "chord": "A",
+              "text": "處"
+            },
+            {
+              "chord": "D",
+              "text": "尋 求"
+            },
+            {
+              "chord": "",
+              "text": "答"
+            },
+            {
+              "chord": "F♯m",
+              "text": "案， 空"
+            },
+            {
+              "chord": "",
+              "text": "等"
+            },
+            {
+              "chord": "G",
+              "text": "待，"
+            },
+            {
+              "chord": "D",
+              "text": "耶"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "在；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "穌，"
+            },
+            {
+              "chord": "Bm",
+              "text": "耶 穌，"
+            },
+            {
+              "chord": "F♯m",
+              "text": "祂 是"
+            },
+            {
+              "chord": "",
+              "text": "『現"
+            },
+            {
+              "chord": "A7",
+              "text": "在』； 你"
+            },
+            {
+              "chord": "",
+              "text": "若"
+            },
+            {
+              "chord": "D",
+              "text": "從"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "若 覺"
+          "segments": [
+            {
+              "chord": "",
+              "text": "深 處 呼 求 祂，"
+            },
+            {
+              "chord": "G",
+              "text": "祂 不"
+            },
+            {
+              "chord": "",
+              "text": "失"
+            },
+            {
+              "chord": "E",
+              "text": "誤！ 當"
+            },
+            {
+              "chord": "A",
+              "text": "你 多"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "人"
+          "segments": [
+            {
+              "chord": "",
+              "text": "方"
+            },
+            {
+              "chord": "F♯",
+              "text": "受 磨"
+            },
+            {
+              "chord": "",
+              "text": "煉，"
+            },
+            {
+              "chord": "Bm",
+              "text": "請 務"
+            },
+            {
+              "chord": "G",
+              "text": "必"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "生 黑"
+          "segments": [
+            {
+              "chord": "",
+              "text": "記"
+            },
+            {
+              "chord": "D",
+              "text": "住： 無"
+            },
+            {
+              "chord": "Em",
+              "text": "論 此"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "暗，"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "世"
+            },
+            {
+              "chord": "D",
+              "text": "有 多"
+            },
+            {
+              "chord": "",
+              "text": "少"
+            },
+            {
+              "chord": "F♯m",
+              "text": "景 況"
+            },
+            {
+              "chord": "",
+              "text": "遭"
+            },
+            {
+              "chord": "G",
+              "text": "遇，"
+            },
+            {
+              "chord": "D",
+              "text": "耶 穌，"
+            },
+            {
+              "chord": "Bm",
+              "text": "耶 穌，"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "前 途"
-        },
-        {
-          "chord": "",
-          "text": "茫"
-        },
-        {
-          "chord": "G",
-          "text": "茫，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "耶 穌，"
-        },
-        {
-          "chord": "F♯m",
-          "text": "耶 穌，"
-        },
-        {
-          "chord": "G",
-          "text": "是 你"
-        },
-        {
-          "chord": "",
-          "text": "的"
-        },
-        {
-          "chord": "Em",
-          "text": "光。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "你 若"
-        },
-        {
-          "chord": "D",
-          "text": "從 深"
-        },
-        {
-          "chord": "",
-          "text": "處 轉 向 祂，"
-        },
-        {
-          "chord": "G",
-          "text": "重 擔"
-        },
-        {
-          "chord": "",
-          "text": "卸"
-        },
-        {
-          "chord": "E",
-          "text": "下，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂"
-        },
-        {
-          "chord": "A",
-          "text": "必 定"
-        },
-        {
-          "chord": "",
-          "text": "替"
-        },
-        {
-          "chord": "F♯",
-          "text": "你 擔"
-        },
-        {
-          "chord": "",
-          "text": "代─"
-        },
-        {
-          "chord": "Bm",
-          "text": "祂"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "與"
-        },
-        {
-          "chord": "G",
-          "text": "你 同"
-        },
-        {
-          "chord": "D",
-          "text": "在。 不"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "要 四"
-        },
-        {
-          "chord": "A",
-          "text": "處"
-        },
-        {
-          "chord": "D",
-          "text": "尋 求"
-        },
-        {
-          "chord": "",
-          "text": "答"
-        },
-        {
-          "chord": "F♯m",
-          "text": "案， 空"
-        },
-        {
-          "chord": "",
-          "text": "等"
-        },
-        {
-          "chord": "G",
-          "text": "待，"
-        },
-        {
-          "chord": "D",
-          "text": "耶"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "穌，"
-        },
-        {
-          "chord": "Bm",
-          "text": "耶 穌，"
-        },
-        {
-          "chord": "F♯m",
-          "text": "祂 是"
-        },
-        {
-          "chord": "",
-          "text": "『現"
-        },
-        {
-          "chord": "A7",
-          "text": "在』； 你"
-        },
-        {
-          "chord": "",
-          "text": "若"
-        },
-        {
-          "chord": "D",
-          "text": "從"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "深 處 呼 求 祂，"
-        },
-        {
-          "chord": "G",
-          "text": "祂 不"
-        },
-        {
-          "chord": "",
-          "text": "失"
-        },
-        {
-          "chord": "E",
-          "text": "誤！ 當"
-        },
-        {
-          "chord": "A",
-          "text": "你 多"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "方"
-        },
-        {
-          "chord": "F♯",
-          "text": "受 磨"
-        },
-        {
-          "chord": "",
-          "text": "煉，"
-        },
-        {
-          "chord": "Bm",
-          "text": "請 務"
-        },
-        {
-          "chord": "G",
-          "text": "必"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "記"
-        },
-        {
-          "chord": "D",
-          "text": "住： 無"
-        },
-        {
-          "chord": "Em",
-          "text": "論 此"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "世"
-        },
-        {
-          "chord": "D",
-          "text": "有 多"
-        },
-        {
-          "chord": "",
-          "text": "少"
-        },
-        {
-          "chord": "F♯m",
-          "text": "景 況"
-        },
-        {
-          "chord": "",
-          "text": "遭"
-        },
-        {
-          "chord": "G",
-          "text": "遇，"
-        },
-        {
-          "chord": "D",
-          "text": "耶 穌，"
-        },
-        {
-          "chord": "Bm",
-          "text": "耶 穌，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "F♯m",
-          "text": "耶 穌"
-        },
-        {
-          "chord": "",
-          "text": "是"
-        },
-        {
-          "chord": "A7",
-          "text": "主。"
+          "segments": [
+            {
+              "chord": "F♯m",
+              "text": "耶 穌"
+            },
+            {
+              "chord": "",
+              "text": "是"
+            },
+            {
+              "chord": "A7",
+              "text": "主。"
+            }
+          ]
         }
       ]
     }
@@ -370,7 +374,16 @@
   "metadata": {
     "category": "事奉与福音",
     "time": "3/4",
-    "hymn_code": "1357351615"
+    "hymn_code": "1357351615",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6823",
+        "language": "cn",
+        "category": "h",
+        "number": "6823",
+        "title": "E6823"
+      }
+    ]
   },
   "raw_sections": [
     "你 若感 覺 孤 單，日 子難挨，",

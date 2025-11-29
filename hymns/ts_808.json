@@ -1,224 +1,228 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/808",
   "title": "到各城市去开展",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "從 臺"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "從 臺"
+            },
+            {
+              "chord": "",
+              "text": "北 市 地 方 召 會，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "北 市 地 方 召 會，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "到 南"
+          "segments": [
+            {
+              "chord": "",
+              "text": "到 南"
+            },
+            {
+              "chord": "A",
+              "text": "部 高"
+            },
+            {
+              "chord": "A7",
+              "text": "雄 海"
+            },
+            {
+              "chord": "D",
+              "text": "岸；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "部 高"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們 在 靈 的 新 樣 中，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "雄 海"
+          "segments": [
+            {
+              "chord": "",
+              "text": "為 主"
+            },
+            {
+              "chord": "A",
+              "text": "的 召"
+            },
+            {
+              "chord": "A7",
+              "text": "會 爭"
+            },
+            {
+              "chord": "D7",
+              "text": "戰。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "岸；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們 在 靈 的 新 樣 中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "為 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "將 地"
+            },
+            {
+              "chord": "G",
+              "text": "方 召"
+            },
+            {
+              "chord": "",
+              "text": "會 的"
+            },
+            {
+              "chord": "D",
+              "text": "見 證，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "的 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在 全"
+            },
+            {
+              "chord": "G",
+              "text": "臺 灣"
+            },
+            {
+              "chord": "",
+              "text": "島 播"
+            },
+            {
+              "chord": "A7",
+              "text": "散；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "會 爭"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們"
+            },
+            {
+              "chord": "D",
+              "text": "不 斷"
+            },
+            {
+              "chord": "",
+              "text": "向 前 移 動，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "戰。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "將 地"
+          "segments": [
+            {
+              "chord": "",
+              "text": "到 各"
+            },
+            {
+              "chord": "A",
+              "text": "城 市"
+            },
+            {
+              "chord": "A7",
+              "text": "去 開"
+            },
+            {
+              "chord": "D7",
+              "text": "展！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "方 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "這 是"
+            },
+            {
+              "chord": "G",
+              "text": "主 今"
+            },
+            {
+              "chord": "",
+              "text": "日 的"
+            },
+            {
+              "chord": "D",
+              "text": "恢 復，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "會 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "這 乃"
+            },
+            {
+              "chord": "G",
+              "text": "是 祂"
+            },
+            {
+              "chord": "",
+              "text": "的 行"
+            },
+            {
+              "chord": "A7",
+              "text": "動；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "見 證，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在 全"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們"
+            },
+            {
+              "chord": "D",
+              "text": "必 須"
+            },
+            {
+              "chord": "",
+              "text": "同 心 合 意，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "臺 灣"
+          "segments": [
+            {
+              "chord": "",
+              "text": "靠 主"
+            },
+            {
+              "chord": "Em",
+              "text": "剛"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "島 播"
-        },
-        {
-          "chord": "A7",
-          "text": "散；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們"
-        },
-        {
-          "chord": "D",
-          "text": "不 斷"
-        },
-        {
-          "chord": "",
-          "text": "向 前 移 動，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "到 各"
-        },
-        {
-          "chord": "A",
-          "text": "城 市"
-        },
-        {
-          "chord": "A7",
-          "text": "去 開"
-        },
-        {
-          "chord": "D7",
-          "text": "展！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "這 是"
-        },
-        {
-          "chord": "G",
-          "text": "主 今"
-        },
-        {
-          "chord": "",
-          "text": "日 的"
-        },
-        {
-          "chord": "D",
-          "text": "恢 復，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "這 乃"
-        },
-        {
-          "chord": "G",
-          "text": "是 祂"
-        },
-        {
-          "chord": "",
-          "text": "的 行"
-        },
-        {
-          "chord": "A7",
-          "text": "動；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們"
-        },
-        {
-          "chord": "D",
-          "text": "必 須"
-        },
-        {
-          "chord": "",
-          "text": "同 心 合 意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "靠 主"
-        },
-        {
-          "chord": "Em",
-          "text": "剛"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "強"
-        },
-        {
-          "chord": "A7",
-          "text": "向 前"
-        },
-        {
-          "chord": "D",
-          "text": "衝。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "強"
+            },
+            {
+              "chord": "A7",
+              "text": "向 前"
+            },
+            {
+              "chord": "D",
+              "text": "衝。"
+            }
+          ]
         }
       ]
     }
@@ -226,7 +230,16 @@
   "metadata": {
     "category": "事奉与福音",
     "time": "2/4",
-    "hymn_code": "1355555153455421"
+    "hymn_code": "1355555153455421",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/8808",
+        "language": "cn",
+        "category": "h",
+        "number": "8808",
+        "title": "E8808"
+      }
+    ]
   },
   "raw_sections": [
     "從 臺北 市 地 方 召 會，",

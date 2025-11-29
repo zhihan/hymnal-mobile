@@ -1,552 +1,584 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/342",
   "title": "爱的交通",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "願 你"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "願 你"
+            },
+            {
+              "chord": "",
+              "text": "用"
+            },
+            {
+              "chord": "A",
+              "text": "口 與"
+            },
+            {
+              "chord": "Bm",
+              "text": "我 親"
+            },
+            {
+              "chord": "F♯m",
+              "text": "嘴，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "用"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因 你"
+            },
+            {
+              "chord": "G",
+              "text": "愛 情"
+            },
+            {
+              "chord": "A",
+              "text": "比 酒"
+            },
+            {
+              "chord": "D",
+              "text": "美；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "口 與"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "G",
+              "text": "雖 然"
+            },
+            {
+              "chord": "A",
+              "text": "黑， 卻"
+            },
+            {
+              "chord": "F♯m",
+              "text": "是 秀"
+            },
+            {
+              "chord": "Bm",
+              "text": "美，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "我 親"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哪 噠"
+            },
+            {
+              "chord": "Em",
+              "text": "香 膏"
+            },
+            {
+              "chord": "A7",
+              "text": "滿 香"
+            },
+            {
+              "chord": "D",
+              "text": "味。"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "嘴，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 嘗 甘 甜， 我 享 筵"
+            },
+            {
+              "chord": "Em",
+              "text": "宴，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "愛 情"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "A7",
+              "text": "的 呼"
+            },
+            {
+              "chord": "",
+              "text": "召 我 聽"
+            },
+            {
+              "chord": "D",
+              "text": "見；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "比 酒"
+          "segments": [
+            {
+              "chord": "",
+              "text": "喚 我 起 來 同"
+            },
+            {
+              "chord": "G",
+              "text": "你 往"
+            },
+            {
+              "chord": "Em",
+              "text": "前，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "美；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 何"
+            },
+            {
+              "chord": "D",
+              "text": "愚 昧"
+            },
+            {
+              "chord": "A",
+              "text": "竟 遲"
+            },
+            {
+              "chord": "D7",
+              "text": "延。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主 阿，"
+            },
+            {
+              "chord": "G",
+              "text": "在 你"
+            },
+            {
+              "chord": "",
+              "text": "與 我 愛 的"
+            },
+            {
+              "chord": "D",
+              "text": "交 通"
+            },
+            {
+              "chord": "",
+              "text": "裏，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "雖 然"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "E",
+              "text": "天 天"
+            },
+            {
+              "chord": "",
+              "text": "吸"
+            },
+            {
+              "chord": "Em",
+              "text": "引， 呼"
+            },
+            {
+              "chord": "",
+              "text": "召"
+            },
+            {
+              "chord": "E",
+              "text": "我 脫"
+            },
+            {
+              "chord": "",
+              "text": "自"
+            },
+            {
+              "chord": "A7",
+              "text": "己；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "黑， 卻"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要"
+            },
+            {
+              "chord": "D",
+              "text": "我 凡"
+            },
+            {
+              "chord": "",
+              "text": "事 與 你 是"
+            },
+            {
+              "chord": "Em",
+              "text": "一，"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "是 秀"
+          "segments": [
+            {
+              "chord": "",
+              "text": "與 你"
+            },
+            {
+              "chord": "D",
+              "text": "同 工"
+            },
+            {
+              "chord": "A7",
+              "text": "等 候"
+            },
+            {
+              "chord": "",
+              "text": "被"
+            },
+            {
+              "chord": "D",
+              "text": "提。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "蓦然醒悟，失去你面，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "美，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哪 噠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "身体里将你寻见；"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "香 膏"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我爱作你华轿坐垫，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "滿 香"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我成你喜乐冠冕。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "味。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 嘗 甘 甜， 我 享 筵"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你召我上真理山岭，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "宴，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同你活在升天境；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "的 呼"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我心答应，我目送情，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "召 我 聽"
+          "segments": [
+            {
+              "chord": "",
+              "text": "甘心作你园、泉、井。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主阿，在你与我爱的交通里，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "見；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "喚 我 起 來 同"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你天天吸引，呼召我脱自己；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "你 往"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要我凡事与你是一，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "前，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "与你同工等候被提。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我 何"
+          "segments": [
+            {
+              "chord": "",
+              "text": "听见柔声，要我开门，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "愚 昧"
+          "segments": [
+            {
+              "chord": "",
+              "text": "上前，你竟已转身；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "竟 遲"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当我述说可爱良人，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "延。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主 阿，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "真实同在又满魂。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "在 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作你佳偶，全因你恩，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "與 我 愛 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "且带盼望如清晨；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "交 通"
+          "segments": [
+            {
+              "chord": "",
+              "text": "书拉密女与所罗门，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "裏，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神人调和永不分。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主阿，在你与我爱的交通里，"
+            }
+          ]
         },
         {
-          "chord": "E",
-          "text": "天 天"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你天天吸引，呼召我脱自己；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "吸"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要我凡事与你是一，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "引， 呼"
+          "segments": [
+            {
+              "chord": "",
+              "text": "与你同工等候被提。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "起来与你同往田间，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "清晨流连葡萄园；"
+            }
+          ]
         },
         {
-          "chord": "E",
-          "text": "我 脫"
+          "segments": [
+            {
+              "chord": "",
+              "text": "风茄见证你我相联，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "自"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我结果佳美新鲜。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "己；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为你旨意，爱你所爱，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我 凡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "豫备新妇趁现在；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "事 與 你 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "殷勤劳苦，盼望等待，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "一，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "良人哪，愿你快来。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "與 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主阿，在你与我爱的交通里，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "同 工"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你天天吸引，呼召我脱自己；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "等 候"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要我凡事与你是一，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "被"
-        },
-        {
-          "chord": "D",
-          "text": "提。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "蓦然醒悟，失去你面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "身体里将你寻见；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我爱作你华轿坐垫，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我成你喜乐冠冕。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你召我上真理山岭，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同你活在升天境；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我心答应，我目送情，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "甘心作你园、泉、井。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主阿，在你与我爱的交通里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你天天吸引，呼召我脱自己；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要我凡事与你是一，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "与你同工等候被提。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "听见柔声，要我开门，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "上前，你竟已转身；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当我述说可爱良人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "真实同在又满魂。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作你佳偶，全因你恩，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "且带盼望如清晨；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "书拉密女与所罗门，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神人调和永不分。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主阿，在你与我爱的交通里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你天天吸引，呼召我脱自己；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要我凡事与你是一，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "与你同工等候被提。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "起来与你同往田间，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "清晨流连葡萄园；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "风茄见证你我相联，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我结果佳美新鲜。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为你旨意，爱你所爱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "豫备新妇趁现在；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "殷勤劳苦，盼望等待，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "良人哪，愿你快来。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主阿，在你与我爱的交通里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你天天吸引，呼召我脱自己；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要我凡事与你是一，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "与你同工等候被提。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "与你同工等候被提。"
+            }
+          ]
         }
       ]
     }

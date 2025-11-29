@@ -1,348 +1,352 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/752",
   "title": "爱使我们相聚一起",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "因 著"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "因 著"
+            },
+            {
+              "chord": "",
+              "text": "愛， 我"
+            },
+            {
+              "chord": "C",
+              "text": "們 又"
+            },
+            {
+              "chord": "",
+              "text": "再 次"
+            },
+            {
+              "chord": "Am",
+              "text": "相 聚，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "愛， 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "訴 說"
+            },
+            {
+              "chord": "Em",
+              "text": "恩 典、"
+            },
+            {
+              "chord": "",
+              "text": "安 慰 和 鼓"
+            },
+            {
+              "chord": "D",
+              "text": "勵；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "們 又"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享 受"
+            },
+            {
+              "chord": "G",
+              "text": "靈 的"
+            },
+            {
+              "chord": "",
+              "text": "交 通、 慈"
+            },
+            {
+              "chord": "Bm",
+              "text": "心、 憐"
+            },
+            {
+              "chord": "Em",
+              "text": "恤，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "再 次"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們"
+            },
+            {
+              "chord": "C",
+              "text": "喜 樂、"
+            },
+            {
+              "chord": "",
+              "text": "滿"
+            },
+            {
+              "chord": "D",
+              "text": "足 且"
+            },
+            {
+              "chord": "",
+              "text": "洋"
+            },
+            {
+              "chord": "G",
+              "text": "溢。"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "相 聚，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "訴 說"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愛 裡 沒 有 懼 怕，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "恩 典、"
+          "segments": [
+            {
+              "chord": "",
+              "text": "完 全 的 愛"
+            },
+            {
+              "chord": "C",
+              "text": "把 懼"
+            },
+            {
+              "chord": "",
+              "text": "怕 驅"
+            },
+            {
+              "chord": "G",
+              "text": "除。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "安 慰 和 鼓"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同 作 肢 體，"
+            },
+            {
+              "chord": "C",
+              "text": "相 互"
+            },
+            {
+              "chord": "",
+              "text": "提"
+            },
+            {
+              "chord": "Bm",
+              "text": "攜、 接"
+            },
+            {
+              "chord": "Em",
+              "text": "納，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "勵；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享 受"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同 蒙"
+            },
+            {
+              "chord": "C",
+              "text": "天 召，"
+            },
+            {
+              "chord": "",
+              "text": "奔"
+            },
+            {
+              "chord": "D",
+              "text": "跑 生"
+            },
+            {
+              "chord": "",
+              "text": "命"
+            },
+            {
+              "chord": "G",
+              "text": "路。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "靈 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愛 使 我 們 相"
+            },
+            {
+              "chord": "C",
+              "text": "聚 一"
+            },
+            {
+              "chord": "G",
+              "text": "起，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "交 通、 慈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "彼 此 相 愛， 心"
+            },
+            {
+              "chord": "Em",
+              "text": "心 相"
+            },
+            {
+              "chord": "Am",
+              "text": "繫，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "心、 憐"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "有 聖"
+            },
+            {
+              "chord": "G",
+              "text": "潔 情"
+            },
+            {
+              "chord": "",
+              "text": "意， 讓 世"
+            },
+            {
+              "chord": "C",
+              "text": "人 都"
+            },
+            {
+              "chord": "",
+              "text": "知 道："
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "恤，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "這 愛"
+            },
+            {
+              "chord": "G",
+              "text": "是 在"
+            },
+            {
+              "chord": "",
+              "text": "基"
+            },
+            {
+              "chord": "D7",
+              "text": "督 耶"
+            },
+            {
+              "chord": "",
+              "text": "穌"
+            },
+            {
+              "chord": "G",
+              "text": "裡！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "喜 樂、"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愛 使 我 們 建"
+            },
+            {
+              "chord": "C",
+              "text": "造 一"
+            },
+            {
+              "chord": "G",
+              "text": "起，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "滿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "持 守 真 實， 聯"
+            },
+            {
+              "chord": "Em",
+              "text": "調 為"
+            },
+            {
+              "chord": "Am",
+              "text": "一，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "足 且"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "有 生"
+            },
+            {
+              "chord": "G",
+              "text": "命 實"
+            },
+            {
+              "chord": "",
+              "text": "際， 讓 世"
+            },
+            {
+              "chord": "C",
+              "text": "人 都"
+            },
+            {
+              "chord": "",
+              "text": "看 見："
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "洋"
-        },
-        {
-          "chord": "G",
-          "text": "溢。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愛 裡 沒 有 懼 怕，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "完 全 的 愛"
-        },
-        {
-          "chord": "C",
-          "text": "把 懼"
-        },
-        {
-          "chord": "",
-          "text": "怕 驅"
-        },
-        {
-          "chord": "G",
-          "text": "除。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同 作 肢 體，"
-        },
-        {
-          "chord": "C",
-          "text": "相 互"
-        },
-        {
-          "chord": "",
-          "text": "提"
-        },
-        {
-          "chord": "Bm",
-          "text": "攜、 接"
-        },
-        {
-          "chord": "Em",
-          "text": "納，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同 蒙"
-        },
-        {
-          "chord": "C",
-          "text": "天 召，"
-        },
-        {
-          "chord": "",
-          "text": "奔"
-        },
-        {
-          "chord": "D",
-          "text": "跑 生"
-        },
-        {
-          "chord": "",
-          "text": "命"
-        },
-        {
-          "chord": "G",
-          "text": "路。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愛 使 我 們 相"
-        },
-        {
-          "chord": "C",
-          "text": "聚 一"
-        },
-        {
-          "chord": "G",
-          "text": "起，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "彼 此 相 愛， 心"
-        },
-        {
-          "chord": "Em",
-          "text": "心 相"
-        },
-        {
-          "chord": "Am",
-          "text": "繫，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "有 聖"
-        },
-        {
-          "chord": "G",
-          "text": "潔 情"
-        },
-        {
-          "chord": "",
-          "text": "意， 讓 世"
-        },
-        {
-          "chord": "C",
-          "text": "人 都"
-        },
-        {
-          "chord": "",
-          "text": "知 道："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "這 愛"
-        },
-        {
-          "chord": "G",
-          "text": "是 在"
-        },
-        {
-          "chord": "",
-          "text": "基"
-        },
-        {
-          "chord": "D7",
-          "text": "督 耶"
-        },
-        {
-          "chord": "",
-          "text": "穌"
-        },
-        {
-          "chord": "G",
-          "text": "裡！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愛 使 我 們 建"
-        },
-        {
-          "chord": "C",
-          "text": "造 一"
-        },
-        {
-          "chord": "G",
-          "text": "起，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "持 守 真 實， 聯"
-        },
-        {
-          "chord": "Em",
-          "text": "調 為"
-        },
-        {
-          "chord": "Am",
-          "text": "一，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "有 生"
-        },
-        {
-          "chord": "G",
-          "text": "命 實"
-        },
-        {
-          "chord": "",
-          "text": "際， 讓 世"
-        },
-        {
-          "chord": "C",
-          "text": "人 都"
-        },
-        {
-          "chord": "",
-          "text": "看 見："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永 遠"
-        },
-        {
-          "chord": "G",
-          "text": "的 愛"
-        },
-        {
-          "chord": "",
-          "text": "就"
-        },
-        {
-          "chord": "D7",
-          "text": "是 神"
-        },
-        {
-          "chord": "",
-          "text": "自"
-        },
-        {
-          "chord": "G",
-          "text": "己！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永 遠"
+            },
+            {
+              "chord": "G",
+              "text": "的 愛"
+            },
+            {
+              "chord": "",
+              "text": "就"
+            },
+            {
+              "chord": "D7",
+              "text": "是 神"
+            },
+            {
+              "chord": "",
+              "text": "自"
+            },
+            {
+              "chord": "G",
+              "text": "己！"
+            }
+          ]
         }
       ]
     }

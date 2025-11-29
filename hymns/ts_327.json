@@ -1,276 +1,280 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/327",
   "title": "主阿，我爱你",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "主 阿！"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "主 阿！"
+            },
+            {
+              "chord": "",
+              "text": "我 愛"
+            },
+            {
+              "chord": "D7",
+              "text": "你，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 實"
+            },
+            {
+              "chord": "G",
+              "text": "在 深"
+            },
+            {
+              "chord": "",
+              "text": "愛"
+            },
+            {
+              "chord": "Gm",
+              "text": "你，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 實"
+          "segments": [
+            {
+              "chord": "",
+              "text": "無"
+            },
+            {
+              "chord": "Em",
+              "text": "你 活"
+            },
+            {
+              "chord": "",
+              "text": "著"
+            },
+            {
+              "chord": "G",
+              "text": "枉 然、"
+            },
+            {
+              "chord": "",
+              "text": "失"
+            },
+            {
+              "chord": "A7",
+              "text": "意。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "在 深"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 是"
+            },
+            {
+              "chord": "D",
+              "text": "富 有"
+            },
+            {
+              "chord": "",
+              "text": "吸"
+            },
+            {
+              "chord": "D7",
+              "text": "引，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "極 其"
+            },
+            {
+              "chord": "G",
+              "text": "引 人"
+            },
+            {
+              "chord": "",
+              "text": "著"
+            },
+            {
+              "chord": "Gm",
+              "text": "迷，"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "無"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "Em",
+              "text": "的 豐"
+            },
+            {
+              "chord": "",
+              "text": "富"
+            },
+            {
+              "chord": "A7",
+              "text": "追 測"
+            },
+            {
+              "chord": "",
+              "text": "不"
+            },
+            {
+              "chord": "D7",
+              "text": "盡。"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "你 活"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "G",
+              "text": "主 名"
+            },
+            {
+              "chord": "",
+              "text": "何 甜 蜜，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼"
+            },
+            {
+              "chord": "D",
+              "text": "求 叫"
+            },
+            {
+              "chord": "",
+              "text": "人 滿"
+            },
+            {
+              "chord": "A7",
+              "text": "意，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "枉 然、"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，"
+            },
+            {
+              "chord": "Bm",
+              "text": "你 屬"
+            },
+            {
+              "chord": "",
+              "text": "我；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "失"
+          "segments": [
+            {
+              "chord": "E7",
+              "text": "主， 我"
+            },
+            {
+              "chord": "",
+              "text": "也"
+            },
+            {
+              "chord": "A",
+              "text": "屬"
+            },
+            {
+              "chord": "A7",
+              "text": "你。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "意。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "聯 結"
+            },
+            {
+              "chord": "D",
+              "text": "調 和"
+            },
+            {
+              "chord": "",
+              "text": "於"
+            },
+            {
+              "chord": "D7",
+              "text": "你，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "富 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神 人"
+            },
+            {
+              "chord": "G",
+              "text": "合 併"
+            },
+            {
+              "chord": "",
+              "text": "為"
+            },
+            {
+              "chord": "Gm",
+              "text": "一，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "吸"
-        },
-        {
-          "chord": "D7",
-          "text": "引，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "極 其"
-        },
-        {
-          "chord": "G",
-          "text": "引 人"
-        },
-        {
-          "chord": "",
-          "text": "著"
-        },
-        {
-          "chord": "Gm",
-          "text": "迷，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你"
-        },
-        {
-          "chord": "Em",
-          "text": "的 豐"
-        },
-        {
-          "chord": "",
-          "text": "富"
-        },
-        {
-          "chord": "A7",
-          "text": "追 測"
-        },
-        {
-          "chord": "",
-          "text": "不"
-        },
-        {
-          "chord": "D7",
-          "text": "盡。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
-        },
-        {
-          "chord": "G",
-          "text": "主 名"
-        },
-        {
-          "chord": "",
-          "text": "何 甜 蜜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "呼"
-        },
-        {
-          "chord": "D",
-          "text": "求 叫"
-        },
-        {
-          "chord": "",
-          "text": "人 滿"
-        },
-        {
-          "chord": "A7",
-          "text": "意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，"
-        },
-        {
-          "chord": "Bm",
-          "text": "你 屬"
-        },
-        {
-          "chord": "",
-          "text": "我；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "E7",
-          "text": "主， 我"
-        },
-        {
-          "chord": "",
-          "text": "也"
-        },
-        {
-          "chord": "A",
-          "text": "屬"
-        },
-        {
-          "chord": "A7",
-          "text": "你。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "聯 結"
-        },
-        {
-          "chord": "D",
-          "text": "調 和"
-        },
-        {
-          "chord": "",
-          "text": "於"
-        },
-        {
-          "chord": "D7",
-          "text": "你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神 人"
-        },
-        {
-          "chord": "G",
-          "text": "合 併"
-        },
-        {
-          "chord": "",
-          "text": "為"
-        },
-        {
-          "chord": "Gm",
-          "text": "一，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "豫 嘗"
-        },
-        {
-          "chord": "Em",
-          "text": "新 耶"
-        },
-        {
-          "chord": "",
-          "text": "路"
-        },
-        {
-          "chord": "A7",
-          "text": "撒 冷"
-        },
-        {
-          "chord": "",
-          "text": "實"
-        },
-        {
-          "chord": "D",
-          "text": "際。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "豫 嘗"
+            },
+            {
+              "chord": "Em",
+              "text": "新 耶"
+            },
+            {
+              "chord": "",
+              "text": "路"
+            },
+            {
+              "chord": "A7",
+              "text": "撒 冷"
+            },
+            {
+              "chord": "",
+              "text": "實"
+            },
+            {
+              "chord": "D",
+              "text": "際。"
+            }
+          ]
         }
       ]
     }
@@ -278,7 +282,16 @@
   "metadata": {
     "category": "爱慕耶稣",
     "time": "3/4",
-    "hymn_code": "345465321721"
+    "hymn_code": "345465321721",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/25",
+        "language": "cn",
+        "category": "ns",
+        "number": "25",
+        "title": "NS25"
+      }
+    ]
   },
   "raw_sections": [
     "主 阿！我 愛你，",

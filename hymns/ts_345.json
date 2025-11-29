@@ -1,624 +1,648 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/345",
   "title": "惟一最爱是你",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "主 耶"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "主 耶"
+            },
+            {
+              "chord": "",
+              "text": "穌， 你 是 我 至"
+            },
+            {
+              "chord": "Em",
+              "text": "愛，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "穌， 你 是 我 至"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 全"
+            },
+            {
+              "chord": "F",
+              "text": "心 歸"
+            },
+            {
+              "chord": "G7",
+              "text": "你 不"
+            },
+            {
+              "chord": "",
+              "text": "他"
+            },
+            {
+              "chord": "C",
+              "text": "依；"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "愛，"
+          "segments": [
+            {
+              "chord": "C7",
+              "text": "天 地"
+            },
+            {
+              "chord": "F",
+              "text": "間 有"
+            },
+            {
+              "chord": "",
+              "text": "何 能 與"
+            },
+            {
+              "chord": "Em",
+              "text": "你 比"
+            },
+            {
+              "chord": "Am",
+              "text": "擬？"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "神 而"
+            },
+            {
+              "chord": "Dm",
+              "text": "人 者，"
+            },
+            {
+              "chord": "F",
+              "text": "你 最"
+            },
+            {
+              "chord": "",
+              "text": "美"
+            },
+            {
+              "chord": "Gsus4",
+              "text": "麗！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G7",
+              "text": "真 渴"
+            },
+            {
+              "chord": "C",
+              "text": "望 消"
+            },
+            {
+              "chord": "",
+              "text": "失 在 你"
+            },
+            {
+              "chord": "Em",
+              "text": "裏，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "當 你"
+            },
+            {
+              "chord": "F",
+              "text": "柔 聲"
+            },
+            {
+              "chord": "G7",
+              "text": "入 我"
+            },
+            {
+              "chord": "",
+              "text": "心"
+            },
+            {
+              "chord": "C",
+              "text": "底；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C7",
+              "text": "前 我"
+            },
+            {
+              "chord": "F",
+              "text": "所 眷"
+            },
+            {
+              "chord": "",
+              "text": "戀， 今 歡"
+            },
+            {
+              "chord": "Em",
+              "text": "然 撇"
+            },
+            {
+              "chord": "Am",
+              "text": "棄，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "只 願"
+            },
+            {
+              "chord": "Dm",
+              "text": "愛 你─"
+            },
+            {
+              "chord": "F",
+              "text": "全 心"
+            },
+            {
+              "chord": "",
+              "text": "全"
+            },
+            {
+              "chord": "Gsus4",
+              "text": "意。"
+            },
+            {
+              "chord": "G7",
+              "text": "世"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我 全"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "上 有"
+            },
+            {
+              "chord": "",
+              "text": "誰 像 你"
+            },
+            {
+              "chord": "G",
+              "text": "如 此"
+            },
+            {
+              "chord": "",
+              "text": "美 麗？ 人"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "心 歸"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "間 有"
+            },
+            {
+              "chord": "",
+              "text": "何 與 你"
+            },
+            {
+              "chord": "Em",
+              "text": "愛 情"
+            },
+            {
+              "chord": "",
+              "text": "能 比？ 哦，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "你 不"
+          "segments": [
+            {
+              "chord": "F",
+              "text": "聖 中"
+            },
+            {
+              "chord": "",
+              "text": "之 聖， 你"
+            },
+            {
+              "chord": "Em",
+              "text": "竟 住"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "Am",
+              "text": "裏； 主"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "他"
+          "segments": [
+            {
+              "chord": "F",
+              "text": "耶 穌，"
+            },
+            {
+              "chord": "D7",
+              "text": "我 深"
+            },
+            {
+              "chord": "",
+              "text": "深"
+            },
+            {
+              "chord": "Gsus4",
+              "text": "愛 你！"
+            },
+            {
+              "chord": "",
+              "text": "不"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "依；"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "願 再"
+            },
+            {
+              "chord": "",
+              "text": "受 欺， 不"
+            },
+            {
+              "chord": "E",
+              "text": "願 再"
+            },
+            {
+              "chord": "",
+              "text": "任"
+            },
+            {
+              "chord": "E7",
+              "text": "意； 惟"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "願 脫"
+            },
+            {
+              "chord": "",
+              "text": "自 己， 只"
+            },
+            {
+              "chord": "Em",
+              "text": "被 你"
+            },
+            {
+              "chord": "",
+              "text": "充 溢； 你"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "F",
+              "text": "以 外，"
+            },
+            {
+              "chord": "",
+              "text": "哦， 讓 一"
+            },
+            {
+              "chord": "C",
+              "text": "切 都"
+            },
+            {
+              "chord": "G",
+              "text": "絕"
+            },
+            {
+              "chord": "Am",
+              "text": "跡；"
+            },
+            {
+              "chord": "C",
+              "text": "我"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "F",
+              "text": "惟 一"
+            },
+            {
+              "chord": "G7",
+              "text": "的 最"
+            },
+            {
+              "chord": "",
+              "text": "愛"
+            },
+            {
+              "chord": "C",
+              "text": "是 你。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C7",
-          "text": "天 地"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主耶稣，你是我至爱，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "間 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "虽我曾顽梗又悖逆，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "何 能 與"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今放下一切，你前来侍立，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "你 比"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只愿像你那样无己。"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "擬？"
+          "segments": [
+            {
+              "chord": "",
+              "text": "真渴望活着就是你，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "顺从神旨，不凭己意；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "与你心合拍，只要你所喜；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "挣扎全停，尽是安息。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "神 而"
+          "segments": [
+            {
+              "chord": "",
+              "text": "世上有谁像你如此美丽？"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "人 者，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "人间有何与你爱情能比？"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "你 最"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，圣中之圣，你竟住我里；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "美"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主耶稣，我深深爱你！"
+            }
+          ]
         },
         {
-          "chord": "Gsus4",
-          "text": "麗！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不愿再受欺，不愿再任意；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟愿脱自己，只被你充溢；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你以外，哦，让一切都绝迹；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我惟一的最爱是你。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G7",
-          "text": "真 渴"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主耶稣，你是我至爱，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "望 消"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你与我永远不分离；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "失 在 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你同在是我气息、"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "裏，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我动力，你的笑脸是我欣喜。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "真渴望你前吐心意，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱你、事你，联结依依；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "亲爱主，我的永分就是你，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你的来临是我所期。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "當 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "世上有谁像你如此美丽？"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "柔 聲"
+          "segments": [
+            {
+              "chord": "",
+              "text": "人间有何与你爱情能比？"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "入 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，圣中之圣，你竟住我里；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "心"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主耶稣，我深深爱你！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "底；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C7",
-          "text": "前 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不愿再受欺，不愿再任意；"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "所 眷"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟愿脱自己，只被你充溢；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "戀， 今 歡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你以外，哦，让一切都绝迹；"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "然 撇"
-        },
-        {
-          "chord": "Am",
-          "text": "棄，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只 願"
-        },
-        {
-          "chord": "Dm",
-          "text": "愛 你─"
-        },
-        {
-          "chord": "F",
-          "text": "全 心"
-        },
-        {
-          "chord": "",
-          "text": "全"
-        },
-        {
-          "chord": "Gsus4",
-          "text": "意。"
-        },
-        {
-          "chord": "G7",
-          "text": "世"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "上 有"
-        },
-        {
-          "chord": "",
-          "text": "誰 像 你"
-        },
-        {
-          "chord": "G",
-          "text": "如 此"
-        },
-        {
-          "chord": "",
-          "text": "美 麗？ 人"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "間 有"
-        },
-        {
-          "chord": "",
-          "text": "何 與 你"
-        },
-        {
-          "chord": "Em",
-          "text": "愛 情"
-        },
-        {
-          "chord": "",
-          "text": "能 比？ 哦，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "F",
-          "text": "聖 中"
-        },
-        {
-          "chord": "",
-          "text": "之 聖， 你"
-        },
-        {
-          "chord": "Em",
-          "text": "竟 住"
-        },
-        {
-          "chord": "",
-          "text": "我"
-        },
-        {
-          "chord": "Am",
-          "text": "裏； 主"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "F",
-          "text": "耶 穌，"
-        },
-        {
-          "chord": "D7",
-          "text": "我 深"
-        },
-        {
-          "chord": "",
-          "text": "深"
-        },
-        {
-          "chord": "Gsus4",
-          "text": "愛 你！"
-        },
-        {
-          "chord": "",
-          "text": "不"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "願 再"
-        },
-        {
-          "chord": "",
-          "text": "受 欺， 不"
-        },
-        {
-          "chord": "E",
-          "text": "願 再"
-        },
-        {
-          "chord": "",
-          "text": "任"
-        },
-        {
-          "chord": "E7",
-          "text": "意； 惟"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "願 脫"
-        },
-        {
-          "chord": "",
-          "text": "自 己， 只"
-        },
-        {
-          "chord": "Em",
-          "text": "被 你"
-        },
-        {
-          "chord": "",
-          "text": "充 溢； 你"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "F",
-          "text": "以 外，"
-        },
-        {
-          "chord": "",
-          "text": "哦， 讓 一"
-        },
-        {
-          "chord": "C",
-          "text": "切 都"
-        },
-        {
-          "chord": "G",
-          "text": "絕"
-        },
-        {
-          "chord": "Am",
-          "text": "跡；"
-        },
-        {
-          "chord": "C",
-          "text": "我"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "F",
-          "text": "惟 一"
-        },
-        {
-          "chord": "G7",
-          "text": "的 最"
-        },
-        {
-          "chord": "",
-          "text": "愛"
-        },
-        {
-          "chord": "C",
-          "text": "是 你。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主耶稣，你是我至爱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "虽我曾顽梗又悖逆，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今放下一切，你前来侍立，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只愿像你那样无己。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "真渴望活着就是你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "顺从神旨，不凭己意；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "与你心合拍，只要你所喜；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "挣扎全停，尽是安息。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "世上有谁像你如此美丽？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "人间有何与你爱情能比？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，圣中之圣，你竟住我里；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主耶稣，我深深爱你！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不愿再受欺，不愿再任意；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惟愿脱自己，只被你充溢；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你以外，哦，让一切都绝迹；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我惟一的最爱是你。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主耶稣，你是我至爱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你与我永远不分离；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你同在是我气息、"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我动力，你的笑脸是我欣喜。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "真渴望你前吐心意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱你、事你，联结依依；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "亲爱主，我的永分就是你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你的来临是我所期。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "世上有谁像你如此美丽？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "人间有何与你爱情能比？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，圣中之圣，你竟住我里；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主耶稣，我深深爱你！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不愿再受欺，不愿再任意；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惟愿脱自己，只被你充溢；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你以外，哦，让一切都绝迹；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我惟一的最爱是你。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我惟一的最爱是你。"
+            }
+          ]
         }
       ]
     }
@@ -626,7 +650,16 @@
   "metadata": {
     "category": "爱慕耶稣",
     "time": "4/4",
-    "hymn_code": "3231116565644325"
+    "hymn_code": "3231116565644325",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/351",
+        "language": "cn",
+        "category": "ns",
+        "number": "351",
+        "title": "NS351"
+      }
+    ]
   },
   "raw_sections": [
     "主 耶穌， 你 是 我 至愛，",

@@ -1,228 +1,240 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/113",
   "title": "回到你灵里",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "回 到"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "回 到"
+            },
+            {
+              "chord": "",
+              "text": "你 靈 裡，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你 靈 裡，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在 靈 中 與"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在 靈 中 與"
+            },
+            {
+              "chord": "D",
+              "text": "主 相"
+            },
+            {
+              "chord": "",
+              "text": "通！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "主 相"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "回 到"
+            },
+            {
+              "chord": "",
+              "text": "你 靈 裡，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "通！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "回 到"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得 著 生"
+            },
+            {
+              "chord": "G",
+              "text": "命 供"
+            },
+            {
+              "chord": "",
+              "text": "應；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你 靈 裡，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得 著 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "回 到 你 靈 裡，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "命 供"
+          "segments": [
+            {
+              "chord": "G7",
+              "text": "時 刻"
+            },
+            {
+              "chord": "",
+              "text": "來 呼"
+            },
+            {
+              "chord": "C",
+              "text": "喊 主"
+            },
+            {
+              "chord": "",
+              "text": "名！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "應；"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "回 到"
+            },
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "Em",
+              "text": "靈 裡，"
+            },
+            {
+              "chord": "Am7",
+              "text": "活"
+            },
+            {
+              "chord": "D7",
+              "text": "在 靈"
+            },
+            {
+              "chord": "G",
+              "text": "中。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "回 到 你 靈 裡，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G7",
-          "text": "時 刻"
+          "segments": [
+            {
+              "chord": "",
+              "text": "回到你灵里，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "來 呼"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在灵中与主相通！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "喊 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "回到你灵里，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "名！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "回 到"
+          "segments": [
+            {
+              "chord": "",
+              "text": "这会使你歌唱；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "回到你灵里，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "靈 裡，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "正当事情在繁忙；"
+            }
+          ]
         },
         {
-          "chord": "Am7",
-          "text": "活"
+          "segments": [
+            {
+              "chord": "",
+              "text": "回到你灵里，活在灵中。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "回到你灵里，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "在 靈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在灵中与主相通！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "中。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "回到你灵里，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "回到你灵里，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "不管下沉、高昂；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在灵中与主相通！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "今日到永远，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "回到你灵里，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "主对你总是一样！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "这会使你歌唱；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "回到你灵里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "正当事情在繁忙；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "回到你灵里，活在灵中。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "回到你灵里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在灵中与主相通！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "回到你灵里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不管下沉、高昂；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今日到永远，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主对你总是一样！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "回到你灵里，活在灵中。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "回到你灵里，活在灵中。"
+            }
+          ]
         }
       ]
     }
@@ -230,7 +242,16 @@
   "metadata": {
     "category": "灵与生命",
     "time": "4/4",
-    "hymn_code": "5321511176712"
+    "hymn_code": "5321511176712",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/187",
+        "language": "cn",
+        "category": "ns",
+        "number": "187",
+        "title": "NS187"
+      }
+    ]
   },
   "raw_sections": [
     "回 到你 靈 裡，",

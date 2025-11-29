@@ -1,704 +1,752 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/110",
   "title": "我有膏油涂抹",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "在 神"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "在 神"
+            },
+            {
+              "chord": "",
+              "text": "話 裡"
+            },
+            {
+              "chord": "A",
+              "text": "我 看"
+            },
+            {
+              "chord": "D",
+              "text": "見，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "話 裡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "膏 油 已 住"
+            },
+            {
+              "chord": "A7",
+              "text": "我 裡"
+            },
+            {
+              "chord": "D",
+              "text": "面！"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "我 看"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不 需 人 為"
+            },
+            {
+              "chord": "A",
+              "text": "的 教"
+            },
+            {
+              "chord": "D",
+              "text": "訓，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "見，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "膏 油 自 然"
+            },
+            {
+              "chord": "A7",
+              "text": "有 引"
+            },
+            {
+              "chord": "D",
+              "text": "領！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "膏 油 已 住"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦！"
+            },
+            {
+              "chord": "B7",
+              "text": "在 我"
+            },
+            {
+              "chord": "",
+              "text": "的 靈"
+            },
+            {
+              "chord": "Em",
+              "text": "裡"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "我 裡"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "祂 是"
+            },
+            {
+              "chord": "",
+              "text": "在 運"
+            },
+            {
+              "chord": "D",
+              "text": "行！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "面！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不 需 人 為"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "膏 油"
+            },
+            {
+              "chord": "",
+              "text": "塗 抹"
+            },
+            {
+              "chord": "A",
+              "text": "常 引"
+            },
+            {
+              "chord": "A7",
+              "text": "領，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "的 教"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "神 在"
+            },
+            {
+              "chord": "",
+              "text": "我 裡"
+            },
+            {
+              "chord": "A",
+              "text": "湧 流！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "訓，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "膏 油 自 然"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "哦，"
+            },
+            {
+              "chord": "B7",
+              "text": "感 謝"
+            },
+            {
+              "chord": "",
+              "text": "讚 美"
+            },
+            {
+              "chord": "Em",
+              "text": "主，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "有 引"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "祂 話"
+            },
+            {
+              "chord": "",
+              "text": "已 說"
+            },
+            {
+              "chord": "D",
+              "text": "出，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "領！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦！"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我 要"
+            },
+            {
+              "chord": "",
+              "text": "不 斷"
+            },
+            {
+              "chord": "A",
+              "text": "的 順"
+            },
+            {
+              "chord": "A7",
+              "text": "服，"
+            }
+          ]
         },
         {
-          "chord": "B7",
-          "text": "在 我"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "靠 膏"
+            },
+            {
+              "chord": "",
+              "text": "油 塗"
+            },
+            {
+              "chord": "A",
+              "text": "抹"
+            },
+            {
+              "chord": "A7",
+              "text": "而"
+            },
+            {
+              "chord": "D",
+              "text": "活。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "为要将基督经历，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 靈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "借取用纯净话语；"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "裡"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "祂 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主灵与我联为一，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "在 運"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永远不会再离去！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦！在我的灵里"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "行！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "膏 油"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是在运行！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "塗 抹"
+          "segments": [
+            {
+              "chord": "",
+              "text": "膏油涂抹常引领，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "常 引"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神在我里涌流！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "領，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "神 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，感谢赞美主，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 裡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂话已说出，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "湧 流！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "哦，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我要不断的顺服，"
+            }
+          ]
         },
         {
-          "chord": "B7",
-          "text": "感 謝"
+          "segments": [
+            {
+              "chord": "",
+              "text": "靠膏油涂抹而活。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "先有宝血的洁净，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "讚 美"
+          "segments": [
+            {
+              "chord": "",
+              "text": "没有间隔没距离；"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "祂 話"
+          "segments": [
+            {
+              "chord": "",
+              "text": "接着膏油来涂抹，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "已 說"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我得着神自己。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦！在我的灵里"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "出，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "我 要"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是在运行！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "不 斷"
+          "segments": [
+            {
+              "chord": "",
+              "text": "膏油涂抹常引领，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "的 順"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神在我里涌流！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "服，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "靠 膏"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，感谢赞美主，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "油 塗"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂话已说出，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "抹"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我要不断的顺服，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "而"
+          "segments": [
+            {
+              "chord": "",
+              "text": "靠膏油涂抹而活。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督是生命的灵，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "活。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "进入我的灵里头；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "神，那圣者涂抹我，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到神人全调和。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "为要将基督经历，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦！在我的灵里"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是在运行！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "膏油涂抹常引领，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "神在我里涌流！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，感谢赞美主，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂话已说出，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我要不断的顺服，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "靠膏油涂抹而活。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "借取用纯净话语；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神是灵，我可摸着；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是在我灵里流；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "更深、更广、更丰盛；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "膏油叫我认识神！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "主灵与我联为一，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦！在我的灵里"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是在运行！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "膏油涂抹常引领，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "神在我里涌流！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，感谢赞美主，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂话已说出，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我要不断的顺服，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "靠膏油涂抹而活。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "永远不会再离去！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "按照膏油的教导，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "经常住在主里面；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂边教导边展伸，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到占有我全人。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "哦！在我的灵里"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦！在我的灵里"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "祂是在运行！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是在运行！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "膏油涂抹常引领，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "膏油涂抹常引领，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "神在我里涌流！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "神在我里涌流！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "哦，感谢赞美主，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，感谢赞美主，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "祂话已说出，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂话已说出，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我要不断的顺服，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我要不断的顺服，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "靠膏油涂抹而活。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "先有宝血的洁净，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "没有间隔没距离；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "接着膏油来涂抹，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我得着神自己。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦！在我的灵里"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是在运行！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "膏油涂抹常引领，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神在我里涌流！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，感谢赞美主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂话已说出，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我要不断的顺服，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "靠膏油涂抹而活。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督是生命的灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "进入我的灵里头；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神，那圣者涂抹我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到神人全调和。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦！在我的灵里"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是在运行！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "膏油涂抹常引领，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神在我里涌流！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，感谢赞美主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂话已说出，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我要不断的顺服，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "靠膏油涂抹而活。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神是灵，我可摸着；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是在我灵里流；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "更深、更广、更丰盛；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "膏油叫我认识神！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦！在我的灵里"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是在运行！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "膏油涂抹常引领，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神在我里涌流！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，感谢赞美主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂话已说出，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我要不断的顺服，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "靠膏油涂抹而活。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "按照膏油的教导，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "经常住在主里面；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂边教导边展伸，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到占有我全人。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦！在我的灵里"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是在运行！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "膏油涂抹常引领，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神在我里涌流！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，感谢赞美主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂话已说出，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我要不断的顺服，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "靠膏油涂抹而活。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "靠膏油涂抹而活。"
+            }
+          ]
         }
       ]
     }
@@ -706,7 +754,16 @@
   "metadata": {
     "category": "灵与生命",
     "time": "4/4",
-    "hymn_code": "33355433235321"
+    "hymn_code": "33355433235321",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1119",
+        "language": "cn",
+        "category": "h",
+        "number": "1119",
+        "title": "E1119"
+      }
+    ]
   },
   "raw_sections": [
     "在 神話 裡我 看見，",

@@ -1,372 +1,404 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/834",
   "title": "各样都齐备",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "『各 樣"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "『各 樣"
+            },
+            {
+              "chord": "",
+              "text": "都 齊 備』，"
+            },
+            {
+              "chord": "D7",
+              "text": "請 來"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "都 齊 備』，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "赴"
+            },
+            {
+              "chord": "G",
+              "text": "席！"
+            },
+            {
+              "chord": "C",
+              "text": "來， 桌"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "請 來"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赴"
+          "segments": [
+            {
+              "chord": "",
+              "text": "上 已 擺 滿 美"
+            },
+            {
+              "chord": "G",
+              "text": "物； 哦，"
+            },
+            {
+              "chord": "D",
+              "text": "飢"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "席！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "餓 者， 疲"
+            },
+            {
+              "chord": "G",
+              "text": "倦 者，"
+            },
+            {
+              "chord": "",
+              "text": "來， 你"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "來， 桌"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "們 就"
+            },
+            {
+              "chord": "",
+              "text": "必"
+            },
+            {
+              "chord": "A7",
+              "text": "得 飽"
+            },
+            {
+              "chord": "D7",
+              "text": "足。"
+            },
+            {
+              "chord": "G",
+              "text": "聽， 主"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "上 已 擺 滿 美"
+          "segments": [
+            {
+              "chord": "",
+              "text": "正 在 邀 請， 無"
+            },
+            {
+              "chord": "D7",
+              "text": "論"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "物； 哦，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何 人 願"
+            },
+            {
+              "chord": "G",
+              "text": "意，"
+            },
+            {
+              "chord": "G7",
+              "text": "來"
+            },
+            {
+              "chord": "C",
+              "text": "得"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "飢"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "餓 者， 疲"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神 完 全"
+            },
+            {
+              "chord": "G",
+              "text": "救 恩，"
+            },
+            {
+              "chord": "",
+              "text": "無 論"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "倦 者，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何"
+            },
+            {
+              "chord": "D7",
+              "text": "人 願"
+            },
+            {
+              "chord": "G",
+              "text": "意。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "‘各样都齐备’，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "來， 你"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "們 就"
+          "segments": [
+            {
+              "chord": "",
+              "text": "请来赴席！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "必"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来，恩门现在正大开；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "得 飽"
+          "segments": [
+            {
+              "chord": "",
+              "text": "尊贵之位为你保留，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "足。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "靠近主人的胸怀。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "听，主正在邀请，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "聽， 主"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "正 在 邀 請， 無"
+          "segments": [
+            {
+              "chord": "",
+              "text": "无论何人愿意，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "論"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何 人 願"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来得神完全救恩，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "意，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "无论何人愿意。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "‘各样都齐备’，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "请来赴席！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "得"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神 完 全"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来，祂等着你尝恩典；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "救 恩，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今天是时候，莫迟延，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "無 論"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因不一定有明天。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "何"
+          "segments": [
+            {
+              "chord": "",
+              "text": "听，主正在邀请，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "人 願"
+          "segments": [
+            {
+              "chord": "",
+              "text": "无论何人愿意，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "意。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来得神完全救恩，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "无论何人愿意。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "‘各样都齐备’，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "‘各样都齐备’，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "请来赴席！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "脱去罣虑，属世争竞，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "来，吃神所赐的基督，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "并喝永远的生命。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "请来赴席！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "听，主正在邀请，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "来，恩门现在正大开；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "无论何人愿意，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "尊贵之位为你保留，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "来得神完全救恩，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "靠近主人的胸怀。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "听，主正在邀请，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "无论何人愿意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来得神完全救恩，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "无论何人愿意。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "‘各样都齐备’，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "请来赴席！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来，祂等着你尝恩典；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今天是时候，莫迟延，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因不一定有明天。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "听，主正在邀请，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "无论何人愿意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来得神完全救恩，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "无论何人愿意。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "‘各样都齐备’，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "请来赴席！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "脱去罣虑，属世争竞，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来，吃神所赐的基督，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "并喝永远的生命。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "听，主正在邀请，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "无论何人愿意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来得神完全救恩，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "无论何人愿意。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "无论何人愿意。"
+            }
+          ]
         }
       ]
     }
@@ -374,7 +406,16 @@
   "metadata": {
     "category": "事奉与福音",
     "time": "4/4",
-    "hymn_code": "55565322116711765"
+    "hymn_code": "55565322116711765",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1330",
+        "language": "cn",
+        "category": "h",
+        "number": "1330",
+        "title": "E1330"
+      }
+    ]
   },
   "raw_sections": [
     "『各 樣都 齊 備』，請 來",

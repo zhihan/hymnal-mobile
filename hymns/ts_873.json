@@ -1,404 +1,428 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/873",
   "title": "同祂步武，迈向荣耀",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "看 哪！"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "看 哪！"
+            },
+            {
+              "chord": "",
+              "text": "我 王 坐 車"
+            },
+            {
+              "chord": "Bm",
+              "text": "前 往，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 王 坐 車"
+          "segments": [
+            {
+              "chord": "",
+              "text": "剛 強"
+            },
+            {
+              "chord": "F♯m",
+              "text": "無 不"
+            },
+            {
+              "chord": "G",
+              "text": "得"
+            },
+            {
+              "chord": "D",
+              "text": "勝；"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "前 往，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "光 輝"
+            },
+            {
+              "chord": "G",
+              "text": "奪 人，"
+            },
+            {
+              "chord": "",
+              "text": "引 我"
+            },
+            {
+              "chord": "F♯m",
+              "text": "跟 隨，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "就"
+            },
+            {
+              "chord": "Em",
+              "text": "此 一"
+            },
+            {
+              "chord": "",
+              "text": "定 永"
+            },
+            {
+              "chord": "A",
+              "text": "定。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "凱"
+            },
+            {
+              "chord": "D",
+              "text": "旋 行"
+            },
+            {
+              "chord": "",
+              "text": "列， 撒 香"
+            },
+            {
+              "chord": "Bm",
+              "text": "俘 虜，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "歡 呼"
+            },
+            {
+              "chord": "D",
+              "text": "同 祂"
+            },
+            {
+              "chord": "G",
+              "text": "前"
+            },
+            {
+              "chord": "D",
+              "text": "行；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "世 途"
+            },
+            {
+              "chord": "G",
+              "text": "捨 棄"
+            },
+            {
+              "chord": "",
+              "text": "竭 力"
+            },
+            {
+              "chord": "F♯m",
+              "text": "拚 上，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "作"
+            },
+            {
+              "chord": "Em",
+              "text": "祂 行"
+            },
+            {
+              "chord": "",
+              "text": "動 見"
+            },
+            {
+              "chord": "A",
+              "text": "證。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "剛 強"
+          "segments": [
+            {
+              "chord": "",
+              "text": "站"
+            },
+            {
+              "chord": "D",
+              "text": "勝； 諸"
+            },
+            {
+              "chord": "",
+              "text": "王、"
+            },
+            {
+              "chord": "G",
+              "text": "萬 國"
+            },
+            {
+              "chord": "",
+              "text": "無 不"
+            },
+            {
+              "chord": "F♯m",
+              "text": "俯 伏，"
+            },
+            {
+              "chord": "",
+              "text": "和"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "無 不"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "聲 尊"
+            },
+            {
+              "chord": "",
+              "text": "大 主"
+            },
+            {
+              "chord": "A",
+              "text": "名。 站"
+            },
+            {
+              "chord": "D",
+              "text": "住 奉"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "得"
-        },
-        {
-          "chord": "D",
-          "text": "勝；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "獻"
+            },
+            {
+              "chord": "G",
+              "text": "地 位，"
+            },
+            {
+              "chord": "",
+              "text": "只"
+            },
+            {
+              "chord": "D",
+              "text": "聽 主"
+            },
+            {
+              "chord": "",
+              "text": "號"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "光 輝"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "令； 作"
+            },
+            {
+              "chord": "",
+              "text": "初"
+            },
+            {
+              "chord": "D",
+              "text": "熟 果，"
+            },
+            {
+              "chord": "F♯",
+              "text": "邁 向"
+            },
+            {
+              "chord": "Bm",
+              "text": "榮"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "奪 人，"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "耀， 建"
+            },
+            {
+              "chord": "",
+              "text": "成"
+            },
+            {
+              "chord": "D",
+              "text": "新 耶"
+            },
+            {
+              "chord": "A7",
+              "text": "路"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "引 我"
-        },
-        {
-          "chord": "F♯m",
-          "text": "跟 隨，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "撒"
+            },
+            {
+              "chord": "D",
+              "text": "冷。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "就"
+          "segments": [
+            {
+              "chord": "",
+              "text": "站住奉献地位，只听主号令；"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "此 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作初熟果，迈向荣耀，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "定 永"
-        },
-        {
-          "chord": "A",
-          "text": "定。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "建成新耶路撒冷。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "凱"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神圣经纶，独一异象，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "旋 行"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我今投身其中。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "列， 撒 香"
+          "segments": [
+            {
+              "chord": "",
+              "text": "海口启程，宣扬佳音，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "俘 虜，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "全地灯台照明。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "作主新妇，荣耀军队，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "敌前显祂得胜；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "诸王、万国无不俯伏，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "和声尊大主名。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "歡 呼"
+          "segments": [
+            {
+              "chord": "",
+              "text": "站住奉献地位，只听主号令；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "同 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作初熟果，迈向荣耀，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "前"
-        },
-        {
-          "chord": "D",
-          "text": "行；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "世 途"
-        },
-        {
-          "chord": "G",
-          "text": "捨 棄"
-        },
-        {
-          "chord": "",
-          "text": "竭 力"
-        },
-        {
-          "chord": "F♯m",
-          "text": "拚 上，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作"
-        },
-        {
-          "chord": "Em",
-          "text": "祂 行"
-        },
-        {
-          "chord": "",
-          "text": "動 見"
-        },
-        {
-          "chord": "A",
-          "text": "證。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "站"
-        },
-        {
-          "chord": "D",
-          "text": "勝； 諸"
-        },
-        {
-          "chord": "",
-          "text": "王、"
-        },
-        {
-          "chord": "G",
-          "text": "萬 國"
-        },
-        {
-          "chord": "",
-          "text": "無 不"
-        },
-        {
-          "chord": "F♯m",
-          "text": "俯 伏，"
-        },
-        {
-          "chord": "",
-          "text": "和"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "聲 尊"
-        },
-        {
-          "chord": "",
-          "text": "大 主"
-        },
-        {
-          "chord": "A",
-          "text": "名。 站"
-        },
-        {
-          "chord": "D",
-          "text": "住 奉"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "獻"
-        },
-        {
-          "chord": "G",
-          "text": "地 位，"
-        },
-        {
-          "chord": "",
-          "text": "只"
-        },
-        {
-          "chord": "D",
-          "text": "聽 主"
-        },
-        {
-          "chord": "",
-          "text": "號"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "令； 作"
-        },
-        {
-          "chord": "",
-          "text": "初"
-        },
-        {
-          "chord": "D",
-          "text": "熟 果，"
-        },
-        {
-          "chord": "F♯",
-          "text": "邁 向"
-        },
-        {
-          "chord": "Bm",
-          "text": "榮"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "耀， 建"
-        },
-        {
-          "chord": "",
-          "text": "成"
-        },
-        {
-          "chord": "D",
-          "text": "新 耶"
-        },
-        {
-          "chord": "A7",
-          "text": "路"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "撒"
-        },
-        {
-          "chord": "D",
-          "text": "冷。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "站住奉献地位，只听主号令；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作初熟果，迈向荣耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "建成新耶路撒冷。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神圣经纶，独一异象，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我今投身其中。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "海口启程，宣扬佳音，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全地灯台照明。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作主新妇，荣耀军队，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "敌前显祂得胜；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "诸王、万国无不俯伏，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "和声尊大主名。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "站住奉献地位，只听主号令；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作初熟果，迈向荣耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "建成新耶路撒冷。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "建成新耶路撒冷。"
+            }
+          ]
         }
       ]
     }

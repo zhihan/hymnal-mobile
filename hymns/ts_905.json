@@ -1,640 +1,672 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/905",
   "title": "新郎快来到",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "喜 樂，"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "喜 樂，"
+            },
+            {
+              "chord": "",
+              "text": "喜 樂，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "喜 樂，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "新"
+          "segments": [
+            {
+              "chord": "",
+              "text": "新"
+            },
+            {
+              "chord": "C",
+              "text": "郎 快"
+            },
+            {
+              "chord": "",
+              "text": "來 到，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "郎 快"
+          "segments": [
+            {
+              "chord": "",
+              "text": "時 候"
+            },
+            {
+              "chord": "G",
+              "text": "必 不"
+            },
+            {
+              "chord": "A",
+              "text": "再 耽"
+            },
+            {
+              "chord": "D",
+              "text": "擱。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "來 到，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "時 候"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "不"
+            },
+            {
+              "chord": "G",
+              "text": "久 那"
+            },
+            {
+              "chord": "G7",
+              "text": "婚 娶"
+            },
+            {
+              "chord": "C",
+              "text": "之 晨"
+            },
+            {
+              "chord": "",
+              "text": "臨 到，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "必 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們"
+            },
+            {
+              "chord": "G",
+              "text": "歡 唱"
+            },
+            {
+              "chord": "D7",
+              "text": "新 詩"
+            },
+            {
+              "chord": "G",
+              "text": "歌。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，"
+            },
+            {
+              "chord": "D",
+              "text": "美 妙"
+            },
+            {
+              "chord": "",
+              "text": "日！"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "再 耽"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦， 榮 耀 之 晨！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "擱。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "當 基"
+            },
+            {
+              "chord": "A",
+              "text": "督 我"
+            },
+            {
+              "chord": "A7",
+              "text": "愛 來"
+            },
+            {
+              "chord": "D",
+              "text": "臨，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "久 那"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們 器 皿 充 滿，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "婚 娶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "燈 都 發 光，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "之 晨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "出 去"
+            },
+            {
+              "chord": "A",
+              "text": "迎 接"
+            },
+            {
+              "chord": "A7",
+              "text": "祂 回"
+            },
+            {
+              "chord": "D",
+              "text": "來。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "臨 到，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "喜"
+            },
+            {
+              "chord": "G",
+              "text": "樂， 喜"
+            },
+            {
+              "chord": "",
+              "text": "樂，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "歡 唱"
+          "segments": [
+            {
+              "chord": "",
+              "text": "新"
+            },
+            {
+              "chord": "C",
+              "text": "郎 快"
+            },
+            {
+              "chord": "",
+              "text": "來 到，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "新 詩"
+          "segments": [
+            {
+              "chord": "",
+              "text": "時 候"
+            },
+            {
+              "chord": "G",
+              "text": "必 不"
+            },
+            {
+              "chord": "A",
+              "text": "再 耽"
+            },
+            {
+              "chord": "D",
+              "text": "擱；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "歌。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "不"
+            },
+            {
+              "chord": "G",
+              "text": "久 那"
+            },
+            {
+              "chord": "G7",
+              "text": "婚 娶"
+            },
+            {
+              "chord": "C",
+              "text": "之 晨"
+            },
+            {
+              "chord": "",
+              "text": "臨 到，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "美 妙"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們"
+            },
+            {
+              "chord": "G",
+              "text": "歡 唱"
+            },
+            {
+              "chord": "D7",
+              "text": "新 詩"
+            },
+            {
+              "chord": "G",
+              "text": "歌。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "让我们赎回每寸光阴，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "日！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦， 榮 耀 之 晨！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "當 基"
+          "segments": [
+            {
+              "chord": "",
+              "text": "买更多贵重的油；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "督 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当夜半呼声响起时候，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "愛 來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "全人已被主浸透。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，美妙日！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "臨，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們 器 皿 充 滿，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "燈 都 發 光，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "出 去"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，荣耀之晨！"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "迎 接"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当基督我爱来临，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "祂 回"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们器皿充满，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "來。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "喜"
+          "segments": [
+            {
+              "chord": "",
+              "text": "灯都发光，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "樂， 喜"
+          "segments": [
+            {
+              "chord": "",
+              "text": "出去迎接祂回来。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "樂，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "新"
+          "segments": [
+            {
+              "chord": "",
+              "text": "喜乐，喜乐，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "郎 快"
+          "segments": [
+            {
+              "chord": "",
+              "text": "新郎快来到，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "來 到，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "時 候"
+          "segments": [
+            {
+              "chord": "",
+              "text": "时候必不再耽搁；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "必 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不久那婚娶之晨临到，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "再 耽"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们欢唱新诗歌。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，何等欢乐！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "擱；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们豫备，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "久 那"
+          "segments": [
+            {
+              "chord": "",
+              "text": "等候基督来迎娶；"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "婚 娶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为着这样荣耀的奖赏，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "之 晨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "痛苦试炼不介意！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，美妙日！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "臨 到，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，荣耀之晨！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "歡 唱"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当基督我爱来临，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "新 詩"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们器皿充满，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "歌。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "灯都发光，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "出去迎接祂回来。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "喜乐，喜乐，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "新郎快来到，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "时候必不再耽搁；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不久那婚娶之晨临到，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们欢唱新诗歌。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "让我们赎回每寸光阴，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，当那婚娶之日临到，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "将是何等大欢乐。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "与主一同作王一千年，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "饱享羔羊的婚筵。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "买更多贵重的油；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，美妙日！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "当夜半呼声响起时候，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，荣耀之晨！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "全人已被主浸透。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "当基督我爱来临，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "哦，美妙日！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们器皿充满，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "哦，荣耀之晨！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "灯都发光，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "当基督我爱来临，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "出去迎接祂回来。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我们器皿充满，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "喜乐，喜乐，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "灯都发光，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "新郎快来到，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "出去迎接祂回来。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "时候必不再耽搁；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "喜乐，喜乐，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "不久那婚娶之晨临到，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "新郎快来到，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "时候必不再耽搁；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不久那婚娶之晨临到，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们欢唱新诗歌。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，何等欢乐！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们豫备，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "等候基督来迎娶；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为着这样荣耀的奖赏，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "痛苦试炼不介意！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，美妙日！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，荣耀之晨！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当基督我爱来临，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们器皿充满，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "灯都发光，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "出去迎接祂回来。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "喜乐，喜乐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "新郎快来到，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "时候必不再耽搁；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不久那婚娶之晨临到，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们欢唱新诗歌。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，当那婚娶之日临到，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将是何等大欢乐。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "与主一同作王一千年，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "饱享羔羊的婚筵。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，美妙日！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，荣耀之晨！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当基督我爱来临，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们器皿充满，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "灯都发光，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "出去迎接祂回来。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "喜乐，喜乐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "新郎快来到，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "时候必不再耽搁；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不久那婚娶之晨临到，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们欢唱新诗歌。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们欢唱新诗歌。"
+            }
+          ]
         }
       ]
     }
@@ -642,7 +674,16 @@
   "metadata": {
     "category": "盼望与豫备",
     "time": "4/4",
-    "hymn_code": "55321766176551712"
+    "hymn_code": "55321766176551712",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1315",
+        "language": "cn",
+        "category": "h",
+        "number": "1315",
+        "title": "E1315"
+      }
+    ]
   },
   "raw_sections": [
     "喜 樂，喜 樂，",

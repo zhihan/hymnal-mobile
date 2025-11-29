@@ -1,476 +1,488 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/136",
   "title": "祂的生命在流通",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "在 我"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "在 我"
+            },
+            {
+              "chord": "",
+              "text": "靈"
+            },
+            {
+              "chord": "D7",
+              "text": "中，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "靈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 的"
+            },
+            {
+              "chord": "G",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "在 流 通，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 的"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "流 通"
+            },
+            {
+              "chord": "D",
+              "text": "不"
+            },
+            {
+              "chord": "Bm",
+              "text": "停，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "光 照、"
+            },
+            {
+              "chord": "E7",
+              "text": "運 行"
+            },
+            {
+              "chord": "",
+              "text": "又 感"
+            },
+            {
+              "chord": "A7",
+              "text": "動，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "在 流 通，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "流 通"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使 我"
+            },
+            {
+              "chord": "D",
+              "text": "潔"
+            },
+            {
+              "chord": "D7",
+              "text": "淨，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享 受"
+            },
+            {
+              "chord": "G",
+              "text": "神 聖"
+            },
+            {
+              "chord": "",
+              "text": "的 供"
+            },
+            {
+              "chord": "Em",
+              "text": "應，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "停，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "光 照、"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 得"
+            },
+            {
+              "chord": "D",
+              "text": "復 興"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "運 行"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在 祂"
+            },
+            {
+              "chord": "A7",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "滋 潤"
+            },
+            {
+              "chord": "D",
+              "text": "中；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "又 感"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "滋 潤"
+            },
+            {
+              "chord": "D",
+              "text": "我， 滋"
+            },
+            {
+              "chord": "",
+              "text": "潤 我，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "動，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 的"
+            },
+            {
+              "chord": "Em",
+              "text": "生 命"
+            },
+            {
+              "chord": "Em7",
+              "text": "時 時"
+            },
+            {
+              "chord": "",
+              "text": "滋 潤"
+            },
+            {
+              "chord": "A",
+              "text": "我，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "潔"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "使 我"
+            },
+            {
+              "chord": "D",
+              "text": "靈 中"
+            },
+            {
+              "chord": "",
+              "text": "新 又"
+            },
+            {
+              "chord": "D7",
+              "text": "活，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "淨，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享 受"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得 著"
+            },
+            {
+              "chord": "G",
+              "text": "基 督"
+            },
+            {
+              "chord": "",
+              "text": "多 又"
+            },
+            {
+              "chord": "Em",
+              "text": "多，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "神 聖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何 等"
+            },
+            {
+              "chord": "D",
+              "text": "甘 甜，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 供"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 以"
+            },
+            {
+              "chord": "A7",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "滋 潤"
+            },
+            {
+              "chord": "D",
+              "text": "我。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在我魂间，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "應，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂的生命在溢漫，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "復 興"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不断扩展，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "带来生命和平安，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "滋 潤"
+          "segments": [
+            {
+              "chord": "",
+              "text": "进入我心，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "中；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "滋 潤"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂要浸透并充填，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我， 滋"
+          "segments": [
+            {
+              "chord": "",
+              "text": "更新、变化，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "潤 我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我属土成属天；"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "浸透我，浸透我，"
+            }
+          ]
         },
         {
-          "chord": "Em7",
-          "text": "時 時"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂的生命深深浸透我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "滋 潤"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将我全魂更新过，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "使 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "自己、天然都消没，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "靈 中"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何等释放，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "新 又"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂以生命浸透我。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我心盼望"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得 著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂的生命得显彰，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "基 督"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我脸瞻仰，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "多 又"
+          "segments": [
+            {
+              "chord": "",
+              "text": "返照基督的荣光，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "多，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何 等"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生命作王，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "甘 甜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 以"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我得模成主形像，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "有日身体改变，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "滋 潤"
+          "segments": [
+            {
+              "chord": "",
+              "text": "完全像祂样；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "变化我，变化我，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在我魂间，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂的生命逐部变化我，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "祂的生命在溢漫，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "在我建造神居所，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "不断扩展，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "完成神中心工作，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "带来生命和平安，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "何等荣耀，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "进入我心，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂要浸透并充填，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "更新、变化，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我属土成属天；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "浸透我，浸透我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂的生命深深浸透我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将我全魂更新过，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自己、天然都消没，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何等释放，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂以生命浸透我。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我心盼望"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂的生命得显彰，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我脸瞻仰，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "返照基督的荣光，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生命作王，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我得模成主形像，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有日身体改变，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "完全像祂样；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "变化我，变化我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂的生命逐部变化我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在我建造神居所，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "完成神中心工作，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何等荣耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂以生命变化我。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂以生命变化我。"
+            }
+          ]
         }
       ]
     }
@@ -478,7 +490,16 @@
   "metadata": {
     "category": "灵与生命",
     "time": "4/4",
-    "hymn_code": "12332121161"
+    "hymn_code": "12332121161",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/75",
+        "language": "cn",
+        "category": "ns",
+        "number": "75",
+        "title": "NS75"
+      }
+    ]
   },
   "raw_sections": [
     "在 我靈中，",

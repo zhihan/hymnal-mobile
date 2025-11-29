@@ -1,164 +1,168 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/232",
   "title": "当你说‘主’",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "當 你"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "當 你"
+            },
+            {
+              "chord": "",
+              "text": "說"
+            },
+            {
+              "chord": "G",
+              "text": "『主』， 你"
+            },
+            {
+              "chord": "",
+              "text": "是 把 難 以"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "說"
+          "segments": [
+            {
+              "chord": "",
+              "text": "形 容 的 一 語 道"
+            },
+            {
+              "chord": "D",
+              "text": "出； 當"
+            },
+            {
+              "chord": "",
+              "text": "你"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "『主』， 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "說"
+            },
+            {
+              "chord": "G",
+              "text": "『主』， 你"
+            },
+            {
+              "chord": "",
+              "text": "宣 告 你"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "是 把 難 以"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "形 容 的 一 語 道"
+          "segments": [
+            {
+              "chord": "",
+              "text": "所 要 的 只 是 那 『萬"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "出； 當"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "主 之"
+            },
+            {
+              "chord": "",
+              "text": "主』。 除 祂 再"
+            },
+            {
+              "chord": "C♯♭",
+              "text": "無 愛"
+            },
+            {
+              "chord": "",
+              "text": "慕，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "說"
+          "segments": [
+            {
+              "chord": "",
+              "text": "萬 事 盡"
+            },
+            {
+              "chord": "D",
+              "text": "是 虛"
+            },
+            {
+              "chord": "",
+              "text": "無；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "『主』， 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 是 一"
+            },
+            {
+              "chord": "G",
+              "text": "切 一"
+            },
+            {
+              "chord": "A7",
+              "text": "切，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "宣 告 你"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "所 要 的 只 是 那 『萬"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "主 之"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在 祂 一"
+            },
+            {
+              "chord": "D",
+              "text": "無 所"
+            },
+            {
+              "chord": "",
+              "text": "缺。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "主』。 除 祂 再"
+          "segments": [
+            {
+              "chord": "",
+              "text": "當 你 說"
+            },
+            {
+              "chord": "G",
+              "text": "『主"
+            },
+            {
+              "chord": "A",
+              "text": "耶 穌』，"
+            }
+          ]
         },
         {
-          "chord": "C♯♭",
-          "text": "無 愛"
-        },
-        {
-          "chord": "",
-          "text": "慕，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "萬 事 盡"
-        },
-        {
-          "chord": "D",
-          "text": "是 虛"
-        },
-        {
-          "chord": "",
-          "text": "無；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 是 一"
-        },
-        {
-          "chord": "G",
-          "text": "切 一"
-        },
-        {
-          "chord": "A7",
-          "text": "切，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在 祂 一"
-        },
-        {
-          "chord": "D",
-          "text": "無 所"
-        },
-        {
-          "chord": "",
-          "text": "缺。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "當 你 說"
-        },
-        {
-          "chord": "G",
-          "text": "『主"
-        },
-        {
-          "chord": "A",
-          "text": "耶 穌』，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "你 說"
-        },
-        {
-          "chord": "",
-          "text": "出 一"
-        },
-        {
-          "chord": "D",
-          "text": "切。"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "你 說"
+            },
+            {
+              "chord": "",
+              "text": "出 一"
+            },
+            {
+              "chord": "D",
+              "text": "切。"
+            }
+          ]
         }
       ]
     }
@@ -166,7 +170,16 @@
   "metadata": {
     "category": "享受基督",
     "time": "4/4",
-    "hymn_code": "3456671211776655"
+    "hymn_code": "3456671211776655",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/560",
+        "language": "cn",
+        "category": "ns",
+        "number": "560",
+        "title": "NS560"
+      }
+    ]
   },
   "raw_sections": [
     "當 你說『主』， 你是 把 難 以",

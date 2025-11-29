@@ -1,152 +1,192 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/126",
   "title": "我要让祂长大",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "的 種 子 撒 我 裡，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 種 子 撒 我 裡，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 要 讓 祂 長 大；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "F",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 要 讓 祂 長 大；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 種 子 撒 我 裡，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 要 讓 祂 長"
+          "segments": [
+            {
+              "chord": "F",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "的 種 子 撒 我 裡，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "大， 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 要 讓 祂 長"
+            },
+            {
+              "chord": "C",
+              "text": "大， 祂"
+            },
+            {
+              "chord": "",
+              "text": "長 大，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "長 大，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 長"
+            },
+            {
+              "chord": "G",
+              "text": "大， 祂"
+            },
+            {
+              "chord": "",
+              "text": "長"
+            },
+            {
+              "chord": "C",
+              "text": "大！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "祂 長"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不让魂生命挤住祂，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "大， 祂"
-        },
-        {
-          "chord": "",
-          "text": "長"
-        },
-        {
-          "chord": "C",
-          "text": "大！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我要让祂长大；…"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "不让魂生命挤住祂，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "借着祷读来浇灌祂，…"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我要让祂长大；…"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天天呼喊‘哦，主耶稣，’…"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "借着祷读来浇灌祂，…"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同众圣徒一起交通，…"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "天天呼喊‘哦，主耶稣，’…"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要站起来为神说话，…"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "同众圣徒一起交通，…"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当主说话我就阿们，…"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "要站起来为神说话，…"
+          "segments": [
+            {
+              "chord": "",
+              "text": "与众圣徒一起长大，…"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "当主说话我就阿们，…"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到长成基督身量，…"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "与众圣徒一起长大，…"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到长成基督身量，…"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到国度完全实现，…"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到国度完全实现，…"
+            }
+          ]
         }
       ]
     }
@@ -154,7 +194,16 @@
   "metadata": {
     "category": "灵与生命",
     "time": "4/4",
-    "hymn_code": "55556531555531"
+    "hymn_code": "55556531555531",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6126",
+        "language": "cn",
+        "category": "h",
+        "number": "6126",
+        "title": "E6126"
+      }
+    ]
   },
   "raw_sections": [
     "生 命的 種 子 撒 我 裡，",

@@ -1,152 +1,172 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/903",
   "title": "主随时随刻都可能回来",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "主 隨"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "主 隨"
+            },
+            {
+              "chord": "",
+              "text": "時 隨 刻 都 可 能 回 來，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "時 隨 刻 都 可 能 回 來，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主 隨 時"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主 隨 時"
+            },
+            {
+              "chord": "F",
+              "text": "隨 刻"
+            },
+            {
+              "chord": "",
+              "text": "都 可 能"
+            },
+            {
+              "chord": "C",
+              "text": "回 來，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "隨 刻"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主 隨 時 隨 刻 都 可 能 回 來，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "都 可 能"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦， 讓 我 們"
+            },
+            {
+              "chord": "G7",
+              "text": "儆 醒"
+            },
+            {
+              "chord": "",
+              "text": "等"
+            },
+            {
+              "chord": "C",
+              "text": "待！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督是我们可爱的新郎，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "回 來，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主 隨 時 隨 刻 都 可 能 回 來，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦， 讓 我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "（重复三次，下同）"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "儆 醒"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们乃是祂的新妇！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们已定意转眼注视主，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "等"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永不回头，永不回头！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "路程在前头，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "待！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "缠累丢背后，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "加速向前！加速向前！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "基督是我们可爱的新郎，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们正快跑，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "（重复三次，下同）"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "迎接主来到，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我们乃是祂的新妇！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们已定意转眼注视主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永不回头，永不回头！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "路程在前头，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "缠累丢背后，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "加速向前！加速向前！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们正快跑，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "迎接主来到，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不久就要与主相遇！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不久就要与主相遇！"
+            }
+          ]
         }
       ]
     }
@@ -154,7 +174,16 @@
   "metadata": {
     "category": "盼望与豫备",
     "time": "4/4",
-    "hymn_code": "11355565321"
+    "hymn_code": "11355565321",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6903",
+        "language": "cn",
+        "category": "h",
+        "number": "6903",
+        "title": "E6903"
+      }
+    ]
   },
   "raw_sections": [
     "主 隨時 隨 刻 都 可 能 回 來，",

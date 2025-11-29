@@ -1,340 +1,356 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/617",
   "title": "我们聚在一起来吃主的晚餐",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "聚 在 一 起"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "聚 在 一 起"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "來"
+            },
+            {
+              "chord": "G",
+              "text": "喫 主"
+            },
+            {
+              "chord": "G7",
+              "text": "的"
+            },
+            {
+              "chord": "C",
+              "text": "晚 餐；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "喫 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "藉"
+            },
+            {
+              "chord": "G",
+              "text": "著 這"
+            },
+            {
+              "chord": "",
+              "text": "喫"
+            },
+            {
+              "chord": "C",
+              "text": "喝，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "來 把"
+            },
+            {
+              "chord": "D",
+              "text": "合 一"
+            },
+            {
+              "chord": "",
+              "text": "展"
+            },
+            {
+              "chord": "G",
+              "text": "覽。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "晚 餐；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "藉"
+          "segments": [
+            {
+              "chord": "",
+              "text": "越 發 宣 告"
+            },
+            {
+              "chord": "C",
+              "text": "合 一，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "著 這"
+          "segments": [
+            {
+              "chord": "",
+              "text": "越"
+            },
+            {
+              "chord": "G",
+              "text": "發 有"
+            },
+            {
+              "chord": "G7",
+              "text": "主"
+            },
+            {
+              "chord": "C",
+              "text": "同 在，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "喫"
+          "segments": [
+            {
+              "chord": "",
+              "text": "深"
+            },
+            {
+              "chord": "F",
+              "text": "知 如"
+            },
+            {
+              "chord": "",
+              "text": "此 喫"
+            },
+            {
+              "chord": "C",
+              "text": "喝，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "喝，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "蒙 主"
+            },
+            {
+              "chord": "G",
+              "text": "祝"
+            },
+            {
+              "chord": "G7",
+              "text": "福 眷"
+            },
+            {
+              "chord": "C",
+              "text": "愛。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "來 把"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们所吃的饼"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "合 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃是主的身体，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "展"
+          "segments": [
+            {
+              "chord": "",
+              "text": "擘开吃进去，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "覽。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "越 發 宣 告"
+          "segments": [
+            {
+              "chord": "",
+              "text": "加起来仍是一。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "合 一，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "越"
+          "segments": [
+            {
+              "chord": "",
+              "text": "桌上只有一饼─"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "發 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只有一个身体，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为着向人表明，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "同 在，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们主里是一。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "深"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们所喝的杯"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "知 如"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃是主的新约，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "此 喫"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们今一同"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "喝，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "蒙 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "交通于主的血。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "祝"
+          "segments": [
+            {
+              "chord": "",
+              "text": "接纳所有圣徒─"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "福 眷"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只要因血得赎，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "愛。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在神面前称谢"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们如何蒙福。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我们所吃的饼"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们别无可说，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "乃是主的身体，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "除说，‘阿利路亚，’"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "擘开吃进去，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "因主给我们"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "加起来仍是一。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "经历了这实际。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "桌上只有一饼─"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "取用主的宝血，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "只有一个身体，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "享受主的身体，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "为着向人表明，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "主就得着召会，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我们主里是一。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们所喝的杯"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃是主的新约，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们今一同"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "交通于主的血。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "接纳所有圣徒─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只要因血得赎，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在神面前称谢"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们如何蒙福。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们别无可说，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "除说，‘阿利路亚，’"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因主给我们"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "经历了这实际。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "取用主的宝血，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享受主的身体，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主就得着召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀归祂自己。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀归祂自己。"
+            }
+          ]
         }
       ]
     }
@@ -342,7 +358,16 @@
   "metadata": {
     "category": "建造与合一",
     "time": "3/4",
-    "hymn_code": "556534543231"
+    "hymn_code": "556534543231",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1106",
+        "language": "cn",
+        "category": "h",
+        "number": "1106",
+        "title": "E1106"
+      }
+    ]
   },
   "raw_sections": [
     "我 們聚 在 一 起",

@@ -1,408 +1,440 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/930",
   "title": "日近一日",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G7",
-          "text": "日 近"
+          "segments": [
+            {
+              "chord": "G7",
+              "text": "日 近"
+            },
+            {
+              "chord": "",
+              "text": "一"
+            },
+            {
+              "chord": "C",
+              "text": "日， 恩"
+            },
+            {
+              "chord": "",
+              "text": "主 耶 穌 快"
+            },
+            {
+              "chord": "F",
+              "text": "回"
+            },
+            {
+              "chord": "G",
+              "text": "來；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "贖 回 光"
+            },
+            {
+              "chord": "Am",
+              "text": "陰， 勿"
+            },
+            {
+              "chord": "Dm",
+              "text": "讓 今"
+            },
+            {
+              "chord": "C",
+              "text": "生 空"
+            },
+            {
+              "chord": "Dm",
+              "text": "白。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "日， 恩"
+          "segments": [
+            {
+              "chord": "G7",
+              "text": "精 明"
+            },
+            {
+              "chord": "",
+              "text": "童"
+            },
+            {
+              "chord": "C",
+              "text": "女 儆"
+            },
+            {
+              "chord": "",
+              "text": "醒 豫 備 不"
+            },
+            {
+              "chord": "Am",
+              "text": "稍"
+            },
+            {
+              "chord": "F",
+              "text": "怠，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "主 耶 穌 快"
-        },
-        {
-          "chord": "F",
-          "text": "回"
-        },
-        {
-          "chord": "G",
-          "text": "來；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "切 切 等"
+            },
+            {
+              "chord": "C",
+              "text": "候 面"
+            },
+            {
+              "chord": "Dm7",
+              "text": "見 新"
+            },
+            {
+              "chord": "",
+              "text": "郎 風"
+            },
+            {
+              "chord": "G",
+              "text": "采。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "贖 回 光"
+          "segments": [
+            {
+              "chord": "",
+              "text": "當 祂 來"
+            },
+            {
+              "chord": "Am",
+              "text": "臨， 我"
+            },
+            {
+              "chord": "F",
+              "text": "們 是"
+            },
+            {
+              "chord": "",
+              "text": "否 正"
+            },
+            {
+              "chord": "G",
+              "text": "等 待？"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "陰， 勿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "己 的 糾"
+            },
+            {
+              "chord": "Am",
+              "text": "纏， 是"
+            },
+            {
+              "chord": "F",
+              "text": "否 脫"
+            },
+            {
+              "chord": "",
+              "text": "離 無"
+            },
+            {
+              "chord": "G",
+              "text": "礙？"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "讓 今"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何"
+            },
+            {
+              "chord": "E7",
+              "text": "等 巴"
+            },
+            {
+              "chord": "Am",
+              "text": "望 被"
+            },
+            {
+              "chord": "F",
+              "text": "提 進"
+            },
+            {
+              "chord": "",
+              "text": "入 祂"
+            },
+            {
+              "chord": "C",
+              "text": "同"
+            },
+            {
+              "chord": "Am",
+              "text": "在，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "生 空"
-        },
-        {
-          "chord": "Dm",
-          "text": "白。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享"
+            },
+            {
+              "chord": "Dm7",
+              "text": "受 婚"
+            },
+            {
+              "chord": "C",
+              "text": "筵， 作"
+            },
+            {
+              "chord": "G7",
+              "text": "祂 新"
+            },
+            {
+              "chord": "",
+              "text": "婦、 至"
+            },
+            {
+              "chord": "C",
+              "text": "愛！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G7",
-          "text": "精 明"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，助我们，黄金岁月全赎回；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "童"
+          "segments": [
+            {
+              "chord": "",
+              "text": "属天膏油，器皿里常豫备。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "女 儆"
+          "segments": [
+            {
+              "chord": "",
+              "text": "每一试炼，都知是你所量给，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "醒 豫 備 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使你加多，你爱更显丰沛。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主必快来，现今每刻都宝贵；"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "稍"
+          "segments": [
+            {
+              "chord": "",
+              "text": "被灵充满，买油应当加倍。"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "怠，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "切 切 等"
+          "segments": [
+            {
+              "chord": "",
+              "text": "苦难试炼，放胆迎接毫不畏；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "候 面"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今虽伤痛，那日国度甘美。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，转我们，属魂享乐不留恋，"
+            }
+          ]
         },
         {
-          "chord": "Dm7",
-          "text": "見 新"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟注视你温柔，美丽荣脸。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "郎 風"
+          "segments": [
+            {
+              "chord": "",
+              "text": "保守我们，奔跑赛程不困倦，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "采。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "忍耐到底，直至见你显现。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "當 祂 來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当主来临，能否被提到祂前？"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "臨， 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "能否见祂，坐席享受婚筵？"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "們 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "应当儆醒，无一刻松懒随便；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "否 正"
+          "segments": [
+            {
+              "chord": "",
+              "text": "朝思暮想，惟盼新郎归旋。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "同众童女，欢喜出去迎新郎；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "等 待？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "己 的 糾"
+          "segments": [
+            {
+              "chord": "",
+              "text": "灵里焚烧，灯都发光剔亮；"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "纏， 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "器皿充满，眼目注视祂荣光，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "否 脫"
+          "segments": [
+            {
+              "chord": "",
+              "text": "与祂同在，完全满足欢畅。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "完全满足─新郎新妇永同享；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "離 無"
+          "segments": [
+            {
+              "chord": "",
+              "text": "完全满足─直到永世无疆！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "礙？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何等安息！喜乐、恩爱又辉煌，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "等 巴"
-        },
-        {
-          "chord": "Am",
-          "text": "望 被"
-        },
-        {
-          "chord": "F",
-          "text": "提 進"
-        },
-        {
-          "chord": "",
-          "text": "入 祂"
-        },
-        {
-          "chord": "C",
-          "text": "同"
-        },
-        {
-          "chord": "Am",
-          "text": "在，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享"
-        },
-        {
-          "chord": "Dm7",
-          "text": "受 婚"
-        },
-        {
-          "chord": "C",
-          "text": "筵， 作"
-        },
-        {
-          "chord": "G7",
-          "text": "祂 新"
-        },
-        {
-          "chord": "",
-          "text": "婦、 至"
-        },
-        {
-          "chord": "C",
-          "text": "愛！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，助我们，黄金岁月全赎回；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "属天膏油，器皿里常豫备。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "每一试炼，都知是你所量给，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使你加多，你爱更显丰沛。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主必快来，现今每刻都宝贵；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "被灵充满，买油应当加倍。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "苦难试炼，放胆迎接毫不畏；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今虽伤痛，那日国度甘美。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，转我们，属魂享乐不留恋，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惟注视你温柔，美丽荣脸。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "保守我们，奔跑赛程不困倦，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "忍耐到底，直至见你显现。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当主来临，能否被提到祂前？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "能否见祂，坐席享受婚筵？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "应当儆醒，无一刻松懒随便；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "朝思暮想，惟盼新郎归旋。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同众童女，欢喜出去迎新郎；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "灵里焚烧，灯都发光剔亮；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "器皿充满，眼目注视祂荣光，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "与祂同在，完全满足欢畅。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "完全满足─新郎新妇永同享；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "完全满足─直到永世无疆！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何等安息！喜乐、恩爱又辉煌，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永世对耦，福乐盈溢无上！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永世对耦，福乐盈溢无上！"
+            }
+          ]
         }
       ]
     }
@@ -410,7 +442,16 @@
   "metadata": {
     "category": "盼望与豫备",
     "time": "4/4",
-    "hymn_code": "71233432165"
+    "hymn_code": "71233432165",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1307",
+        "language": "cn",
+        "category": "h",
+        "number": "1307",
+        "title": "E1307"
+      }
+    ]
   },
   "raw_sections": [
     "日 近一日， 恩主 耶 穌 快回來；",

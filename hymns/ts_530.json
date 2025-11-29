@@ -1,364 +1,380 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/530",
   "title": "焚烧，焚烧",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "焚 燒，"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "焚 燒，"
+            },
+            {
+              "chord": "",
+              "text": "焚 燒， 日 夜 焚 燒，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "焚 燒， 日 夜 焚 燒，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不 斷 回 到 我 們 靈 裡；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "F",
-          "text": "為 著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不 斷 回 到 我 們 靈 裡；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你 永"
+          "segments": [
+            {
+              "chord": "F",
+              "text": "為 著"
+            },
+            {
+              "chord": "",
+              "text": "你 永"
+            },
+            {
+              "chord": "C",
+              "text": "遠 的"
+            },
+            {
+              "chord": "",
+              "text": "旨 意，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "遠 的"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "靈 裡"
+            },
+            {
+              "chord": "",
+              "text": "合"
+            },
+            {
+              "chord": "G",
+              "text": "一。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "旨 意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "靈 裡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們"
+            },
+            {
+              "chord": "C",
+              "text": "站 住"
+            },
+            {
+              "chord": "",
+              "text": "地 方 立 場，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "合"
+          "segments": [
+            {
+              "chord": "",
+              "text": "召 會 合 一 在 此 顯 彰；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "一。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "F",
+              "text": "肢 體"
+            },
+            {
+              "chord": "",
+              "text": "雖 多，"
+            },
+            {
+              "chord": "C",
+              "text": "仍 是"
+            },
+            {
+              "chord": "",
+              "text": "一 身，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "站 住"
+          "segments": [
+            {
+              "chord": "G7",
+              "text": "基 督"
+            },
+            {
+              "chord": "",
+              "text": "為"
+            },
+            {
+              "chord": "C",
+              "text": "首。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "基 督"
+            },
+            {
+              "chord": "",
+              "text": "與 祂 召 會，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "地 方 立 場，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "召 會 合 一 在 此 顯 彰；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "F",
-          "text": "肢 體"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "基 督"
+            },
+            {
+              "chord": "",
+              "text": "與 祂 召 會，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "雖 多，"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "乃 是"
+            },
+            {
+              "chord": "",
+              "text": "我 們"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "仍 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一 切"
+            },
+            {
+              "chord": "D7",
+              "text": "實 際"
+            },
+            {
+              "chord": "",
+              "text": "和 生"
+            },
+            {
+              "chord": "G7",
+              "text": "活。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "一 身，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G7",
-          "text": "基 督"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "阿 利"
+            },
+            {
+              "chord": "",
+              "text": "路 亞， 阿 利 路 亞，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主， 我 們 將 命 獻 給 你，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "首。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "基 督"
+          "segments": [
+            {
+              "chord": "F",
+              "text": "為 建"
+            },
+            {
+              "chord": "",
+              "text": "造 你"
+            },
+            {
+              "chord": "C",
+              "text": "的 身"
+            },
+            {
+              "chord": "",
+              "text": "體，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "與 祂 召 會，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "並"
+            },
+            {
+              "chord": "G7",
+              "text": "愛 中"
+            },
+            {
+              "chord": "",
+              "text": "被 建"
+            },
+            {
+              "chord": "C",
+              "text": "立。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "基 督"
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼吸，呼吸，我们呼吸，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "與 祂 召 會，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "乃 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "每一呼吸得新气息，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 們"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一 切"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何等的变化，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "實 際"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一切陈旧全更新。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "和 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼出我们老旧自己，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "活。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "阿 利"
+          "segments": [
+            {
+              "chord": "",
+              "text": "吸入新生命与合一，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "路 亞， 阿 利 路 亞，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主， 我 們 將 命 獻 給 你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "F",
-          "text": "為 建"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们今吸入主耶稣，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "造 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "吸入生命。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督与祂召会，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "的 身"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督与祂召会，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "體，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "並"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃是我们"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "愛 中"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一切实际和生活。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "被 建"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，阿利路亚，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "立。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，我们将命献给你，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "呼吸，呼吸，我们呼吸，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "为建造你的身体，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "每一呼吸得新气息，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何等的变化，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一切陈旧全更新。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "呼出我们老旧自己，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "吸入新生命与合一，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们今吸入主耶稣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "吸入生命。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督与祂召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督与祂召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃是我们"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一切实际和生活。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚，阿利路亚，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，我们将命献给你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为建造你的身体，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "并爱中被建立。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "并爱中被建立。"
+            }
+          ]
         }
       ]
     }
@@ -366,7 +382,16 @@
   "metadata": {
     "category": "教会的异象",
     "time": "4/4",
-    "hymn_code": "1111113511111531"
+    "hymn_code": "1111113511111531",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1266",
+        "language": "cn",
+        "category": "h",
+        "number": "1266",
+        "title": "E1266"
+      }
+    ]
   },
   "raw_sections": [
     "焚 燒，焚 燒， 日 夜 焚 燒，",

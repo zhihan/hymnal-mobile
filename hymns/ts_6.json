@@ -1,404 +1,424 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/6",
   "title": "涌出美辞",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "從 我"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "從 我"
+            },
+            {
+              "chord": "",
+              "text": "們"
+            },
+            {
+              "chord": "G",
+              "text": "心 的"
+            },
+            {
+              "chord": "D",
+              "text": "深 處，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不 斷 湧 出 美"
+            },
+            {
+              "chord": "A",
+              "text": "辭─ 論"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "心 的"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "到 我"
+            },
+            {
+              "chord": "G",
+              "text": "們 至"
+            },
+            {
+              "chord": "D",
+              "text": "高 王，"
+            },
+            {
+              "chord": "",
+              "text": "論"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "深 處，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不 斷 湧 出 美"
+          "segments": [
+            {
+              "chord": "",
+              "text": "到 祂"
+            },
+            {
+              "chord": "E7",
+              "text": "的 所"
+            },
+            {
+              "chord": "A",
+              "text": "是。 我"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "辭─ 論"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "到 我"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "們 舌"
+            },
+            {
+              "chord": "",
+              "text": "如 快"
+            },
+            {
+              "chord": "G",
+              "text": "手"
+            },
+            {
+              "chord": "D",
+              "text": "筆， 篇"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "們 至"
+          "segments": [
+            {
+              "chord": "",
+              "text": "篇 見 證 待"
+            },
+            {
+              "chord": "A",
+              "text": "寫─ 我"
+            },
+            {
+              "chord": "D",
+              "text": "們"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "高 王，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "新"
+            },
+            {
+              "chord": "G",
+              "text": "郎 的"
+            },
+            {
+              "chord": "D",
+              "text": "榮 美，"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "A",
+              "text": "們"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "論"
+          "segments": [
+            {
+              "chord": "",
+              "text": "所"
+            },
+            {
+              "chord": "A7",
+              "text": "愛 所"
+            },
+            {
+              "chord": "D",
+              "text": "悅。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "到 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主耶稣，你的美丽"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "的 所"
+          "segments": [
+            {
+              "chord": "",
+              "text": "超过所有世人；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "是。 我"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "們 舌"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你的良善真无比─"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "如 快"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你是人中之人。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "手"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从你圣洁的嘴里，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "筆， 篇"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "篇 見 證 待"
+          "segments": [
+            {
+              "chord": "",
+              "text": "流出丰盛恩惠；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "寫─ 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "所以神赐福给你，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "赐福直到永远。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "新"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你是大能的勇士，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "郎 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "赫然坐车前往；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "榮 美，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "大有荣耀和得胜，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "所向显你雄威！"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "們"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "所"
+          "segments": [
+            {
+              "chord": "",
+              "text": "万民倒在你以下，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "愛 所"
+          "segments": [
+            {
+              "chord": "",
+              "text": "谁能阻你前进？"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "悅。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你的箭极其锋利，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "射中撒但之心。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "主耶稣，你的美丽"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神阿，你坐的宝座，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "是永永远远的；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你的国度与王权，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "是完全正直的。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "所以神，就是你神，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "用喜乐油膏你，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "胜过膏你的同伴─"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你是何等的配！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "超过所有世人；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "没药、沉香和肉桂，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "你的良善真无比─"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "是你衣服香气；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "你是人中之人。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "你的受死与复活，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "从你圣洁的嘴里，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "表明你的功绩。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "流出丰盛恩惠；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "从众地方召会中，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "所以神赐福给你，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美之声四起，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "赐福直到永远。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美再加上赞美，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "你是大能的勇士，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赫然坐车前往；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "大有荣耀和得胜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "所向显你雄威！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "万民倒在你以下，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "谁能阻你前进？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你的箭极其锋利，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "射中撒但之心。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神阿，你坐的宝座，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是永永远远的；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你的国度与王权，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是完全正直的。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "所以神，就是你神，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "用喜乐油膏你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "胜过膏你的同伴─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你是何等的配！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "没药、沉香和肉桂，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是你衣服香气；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你的受死与复活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "表明你的功绩。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从众地方召会中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞美之声四起，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞美再加上赞美，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使你称心如意。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使你称心如意。"
+            }
+          ]
         }
       ]
     }
@@ -406,7 +426,16 @@
   "metadata": {
     "category": "赞美的话",
     "time": "4/4",
-    "hymn_code": "13556531714332"
+    "hymn_code": "13556531714332",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1098",
+        "language": "cn",
+        "category": "h",
+        "number": "1098",
+        "title": "E1098"
+      }
+    ]
   },
   "raw_sections": [
     "從 我們心 的深 處，",

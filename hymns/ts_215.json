@@ -1,232 +1,240 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/215",
   "title": "你们来吃",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "『你 們"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "『你 們"
+            },
+            {
+              "chord": "",
+              "text": "來"
+            },
+            {
+              "chord": "D",
+              "text": "喫，』 主"
+            },
+            {
+              "chord": "",
+              "text": "正"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在"
+            },
+            {
+              "chord": "D7",
+              "text": "呼 召，"
+            },
+            {
+              "chord": "",
+              "text": "『你 們"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "喫，』 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "來"
+            },
+            {
+              "chord": "G",
+              "text": "喫。』 我"
+            },
+            {
+              "chord": "",
+              "text": "們"
+            },
+            {
+              "chord": "A",
+              "text": "可 以"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "正"
+          "segments": [
+            {
+              "chord": "",
+              "text": "隨 時"
+            },
+            {
+              "chord": "A7",
+              "text": "隨 刻"
+            },
+            {
+              "chord": "",
+              "text": "喫 喝"
+            },
+            {
+              "chord": "D",
+              "text": "主！"
+            },
+            {
+              "chord": "D7",
+              "text": "祂"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "是"
+            },
+            {
+              "chord": "G",
+              "text": "『日 用"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "的 飲 食，』 祂 纔"
+            },
+            {
+              "chord": "C",
+              "text": "能 叫"
+            },
+            {
+              "chord": "",
+              "text": "人 滿"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "足。 『你 們 來"
+            },
+            {
+              "chord": "D",
+              "text": "喫，』 主"
+            },
+            {
+              "chord": "",
+              "text": "正"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在"
+            },
+            {
+              "chord": "D7",
+              "text": "呼 召，"
+            },
+            {
+              "chord": "",
+              "text": "『你 們 來"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "喫。』"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "‘你们来吃，’"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "呼 召，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主正在呼召，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "『你 們"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "‘你们来吃。’"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "喫。』 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们若是随时随刻"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "吃喝主，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "可 以"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "隨 時"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂就作我们生命，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "隨 刻"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一直到生命满出！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "喫 喝"
+          "segments": [
+            {
+              "chord": "",
+              "text": "‘你们来吃，’"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "主！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主正在呼召，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "祂"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是"
-        },
-        {
-          "chord": "G",
-          "text": "『日 用"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "的 飲 食，』 祂 纔"
-        },
-        {
-          "chord": "C",
-          "text": "能 叫"
-        },
-        {
-          "chord": "",
-          "text": "人 滿"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "足。 『你 們 來"
-        },
-        {
-          "chord": "D",
-          "text": "喫，』 主"
-        },
-        {
-          "chord": "",
-          "text": "正"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在"
-        },
-        {
-          "chord": "D7",
-          "text": "呼 召，"
-        },
-        {
-          "chord": "",
-          "text": "『你 們 來"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "喫。』"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "‘你们来吃，’"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主正在呼召，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "‘你们来吃。’"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们若是随时随刻"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "吃喝主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂就作我们生命，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一直到生命满出！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "‘你们来吃，’"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主正在呼召，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "‘你们来吃。’"
+          "segments": [
+            {
+              "chord": "",
+              "text": "‘你们来吃。’"
+            }
+          ]
         }
       ]
     }
@@ -234,7 +242,16 @@
   "metadata": {
     "category": "享受基督",
     "time": "4/4",
-    "hymn_code": "51777775465"
+    "hymn_code": "51777775465",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1148",
+        "language": "cn",
+        "category": "h",
+        "number": "1148",
+        "title": "E1148"
+      }
+    ]
   },
   "raw_sections": [
     "『你 們來喫，』 主正",

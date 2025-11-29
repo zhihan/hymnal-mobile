@@ -1,404 +1,420 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/816",
   "title": "你为何被造",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "你 知"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "你 知"
+            },
+            {
+              "chord": "G",
+              "text": "道 你"
+            },
+            {
+              "chord": "",
+              "text": "為 何"
+            },
+            {
+              "chord": "D",
+              "text": "被 造？"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "道 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "有 否"
+            },
+            {
+              "chord": "Em",
+              "text": "想 過"
+            },
+            {
+              "chord": "",
+              "text": "這 問"
+            },
+            {
+              "chord": "A",
+              "text": "題？"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "為 何"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "你 的"
+            },
+            {
+              "chord": "",
+              "text": "生 存 有 何"
+            },
+            {
+              "chord": "D",
+              "text": "目 的？"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "被 造？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有 否"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "你 今"
+            },
+            {
+              "chord": "Em",
+              "text": "活"
+            },
+            {
+              "chord": "Em7",
+              "text": "著 何"
+            },
+            {
+              "chord": "",
+              "text": "意"
+            },
+            {
+              "chord": "Asus4",
+              "text": "義！"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "想 過"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "你 知"
+            },
+            {
+              "chord": "",
+              "text": "道 神"
+            },
+            {
+              "chord": "Em",
+              "text": "願 作"
+            },
+            {
+              "chord": "",
+              "text": "你 生 命？"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "這 問"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂"
+            },
+            {
+              "chord": "A",
+              "text": "願 作"
+            },
+            {
+              "chord": "",
+              "text": "你 生"
+            },
+            {
+              "chord": "A7",
+              "text": "命，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "題？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "你 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂"
+            },
+            {
+              "chord": "D",
+              "text": "願 作"
+            },
+            {
+              "chord": "",
+              "text": "你 生"
+            },
+            {
+              "chord": "G",
+              "text": "命！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "生 存 有 何"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "你 乃"
+            },
+            {
+              "chord": "",
+              "text": "是 祂"
+            },
+            {
+              "chord": "Em",
+              "text": "所 造"
+            },
+            {
+              "chord": "",
+              "text": "的 器 皿，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "目 的？"
+          "segments": [
+            {
+              "chord": "",
+              "text": "為"
+            },
+            {
+              "chord": "A",
+              "text": "了 裝"
+            },
+            {
+              "chord": "",
+              "text": "祂， 將"
+            },
+            {
+              "chord": "A7",
+              "text": "祂 表"
+            },
+            {
+              "chord": "D",
+              "text": "明。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Bm",
-          "text": "你 今"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你有灵，在你最深处，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "活"
+          "segments": [
+            {
+              "chord": "",
+              "text": "比你的心更深入；"
+            }
+          ]
         },
         {
-          "chord": "Em7",
-          "text": "著 何"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你的心装许多事物，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "意"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但你的灵仍缺如！"
+            }
+          ]
         },
         {
-          "chord": "Asus4",
-          "text": "義！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "你 知"
+          "segments": [
+            {
+              "chord": "",
+              "text": "多少年来，你虚空度日；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "道 神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "虽然到处尝试，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "願 作"
+          "segments": [
+            {
+              "chord": "",
+              "text": "总是不得满足。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你 生 命？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你的深处岂不觉渴慕；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "願 作"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿意敞开，尝尝耶稣？"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不管你的看法如何，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在神面前谁无过？"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "命，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主耶稣已为你流血，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "願 作"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使你过错得解决。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "救主耶稣已成全一切，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "命！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "你 乃"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不需你再努力─"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "是 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "功过全无差别；"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "所 造"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂乃是灵，你接受就行，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 器 皿，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂愿进来作你生命。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "犹如你外面的身子，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "了 裝"
+          "segments": [
+            {
+              "chord": "",
+              "text": "容纳自己正合式，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "祂， 將"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你的灵─在你的深处，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "祂 表"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃是专为容纳主。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "明。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "何不现在从深处敞开，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "你有灵，在你最深处，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "现在让主进来，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "比你的心更深入；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "充满你的心怀；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "你的心装许多事物，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "何不现在从深处敞开，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "但你的灵仍缺如！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "多少年来，你虚空度日；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "虽然到处尝试，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "总是不得满足。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你的深处岂不觉渴慕；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿意敞开，尝尝耶稣？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不管你的看法如何，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在神面前谁无过？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主耶稣已为你流血，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使你过错得解决。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "救主耶稣已成全一切，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不需你再努力─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "功过全无差别；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂乃是灵，你接受就行，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂愿进来作你生命。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "犹如你外面的身子，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "容纳自己正合式，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你的灵─在你的深处，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃是专为容纳主。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何不现在从深处敞开，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "现在让主进来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "充满你的心怀；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何不现在从深处敞开，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "呼喊主名，祂必进来。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼喊主名，祂必进来。"
+            }
+          ]
         }
       ]
     }
@@ -406,7 +422,16 @@
   "metadata": {
     "category": "事奉与福音",
     "time": "4/4",
-    "hymn_code": "3453231533216332"
+    "hymn_code": "3453231533216332",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/164",
+        "language": "cn",
+        "category": "ns",
+        "number": "164",
+        "title": "NS164"
+      }
+    ]
   },
   "raw_sections": [
     "你 知道 你為 何被 造？",

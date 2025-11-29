@@ -1,520 +1,560 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/202",
   "title": "哦，说不出的喜乐",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "已 得 到 萬"
+            },
+            {
+              "chord": "C",
+              "text": "有 基"
+            },
+            {
+              "chord": "G",
+              "text": "督，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "已 得 到 萬"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 是"
+            },
+            {
+              "chord": "D",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "的 一"
+            },
+            {
+              "chord": "D7",
+              "text": "切；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "有 基"
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼 喊"
+            },
+            {
+              "chord": "G",
+              "text": "祂 的"
+            },
+            {
+              "chord": "",
+              "text": "名， 何"
+            },
+            {
+              "chord": "C",
+              "text": "等 有"
+            },
+            {
+              "chord": "G",
+              "text": "福，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "督，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何 等"
+            },
+            {
+              "chord": "A",
+              "text": "神 聖，"
+            },
+            {
+              "chord": "A7",
+              "text": "何 超"
+            },
+            {
+              "chord": "D",
+              "text": "越！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "祂 是"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "哦， 說"
+            },
+            {
+              "chord": "G",
+              "text": "不 出"
+            },
+            {
+              "chord": "C",
+              "text": "的 喜"
+            },
+            {
+              "chord": "",
+              "text": "樂，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "且"
+            },
+            {
+              "chord": "G",
+              "text": "滿 了"
+            },
+            {
+              "chord": "",
+              "text": "榮 耀，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 一"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "滿 了"
+            },
+            {
+              "chord": "D7",
+              "text": "榮 耀，"
+            },
+            {
+              "chord": "G",
+              "text": "滿 了"
+            },
+            {
+              "chord": "",
+              "text": "榮 耀，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "切；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "呼 喊"
+          "segments": [
+            {
+              "chord": "",
+              "text": "說 不 出"
+            },
+            {
+              "chord": "C",
+              "text": "的 喜"
+            },
+            {
+              "chord": "",
+              "text": "樂，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "祂 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "且"
+            },
+            {
+              "chord": "G",
+              "text": "滿 了"
+            },
+            {
+              "chord": "",
+              "text": "榮 耀，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "名， 何"
+          "segments": [
+            {
+              "chord": "",
+              "text": "甚 至"
+            },
+            {
+              "chord": "C",
+              "text": "一 半"
+            },
+            {
+              "chord": "D7",
+              "text": "都 未"
+            },
+            {
+              "chord": "",
+              "text": "能 說"
+            },
+            {
+              "chord": "G",
+              "text": "出。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们已知道那灵基督，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "等 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "住在我们的灵里，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "福，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何 等"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何等便利又亲近的主，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "神 聖，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂的甘甜无可比。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，说不出的喜乐，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "何 超"
+          "segments": [
+            {
+              "chord": "",
+              "text": "且满了荣耀，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "越！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "哦， 說"
+          "segments": [
+            {
+              "chord": "",
+              "text": "满了荣耀，满了荣耀，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "不 出"
+          "segments": [
+            {
+              "chord": "",
+              "text": "说不出的喜乐，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "的 喜"
+          "segments": [
+            {
+              "chord": "",
+              "text": "且满了荣耀，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "樂，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "甚至一半都未能说出。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "且"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们已得到生活秘诀，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "滿 了"
+          "segments": [
+            {
+              "chord": "",
+              "text": "读祂话并喊祂名！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "榮 耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "滿 了"
+          "segments": [
+            {
+              "chord": "",
+              "text": "借此吃喝主，必无所缺，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "榮 耀，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "它的价值真显明。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，说不出的喜乐，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "滿 了"
+          "segments": [
+            {
+              "chord": "",
+              "text": "且满了荣耀，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "榮 耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "說 不 出"
+          "segments": [
+            {
+              "chord": "",
+              "text": "满了荣耀，满了荣耀，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "的 喜"
+          "segments": [
+            {
+              "chord": "",
+              "text": "说不出的喜乐，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "樂，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "且"
+          "segments": [
+            {
+              "chord": "",
+              "text": "且满了荣耀，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "滿 了"
+          "segments": [
+            {
+              "chord": "",
+              "text": "甚至一半都未能说出。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们已寻到地方召会，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "榮 耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "甚 至"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们已经回到家！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "一 半"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永不再在巴比伦徘徊，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "都 未"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在召会里美而佳。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，说不出的喜乐，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "能 說"
+          "segments": [
+            {
+              "chord": "",
+              "text": "且满了荣耀，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "出。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "满了荣耀，满了荣耀，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "说不出的喜乐，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "且满了荣耀，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "甚至一半都未能说出。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我们已知道那灵基督，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们已经历圣徒同聚，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "是地上最乐的事；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "借此我们的灵不忧郁，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "且使生活有价值。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "住在我们的灵里，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，说不出的喜乐，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "何等便利又亲近的主，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "且满了荣耀，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "祂的甘甜无可比。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "满了荣耀，满了荣耀，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "哦，说不出的喜乐，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "说不出的喜乐，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "且满了荣耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "且满了荣耀，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "满了荣耀，满了荣耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "说不出的喜乐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "且满了荣耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "甚至一半都未能说出。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们已得到生活秘诀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "读祂话并喊祂名！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借此吃喝主，必无所缺，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "它的价值真显明。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，说不出的喜乐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "且满了荣耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "满了荣耀，满了荣耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "说不出的喜乐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "且满了荣耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "甚至一半都未能说出。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们已寻到地方召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们已经回到家！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永不再在巴比伦徘徊，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在召会里美而佳。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，说不出的喜乐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "且满了荣耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "满了荣耀，满了荣耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "说不出的喜乐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "且满了荣耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "甚至一半都未能说出。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们已经历圣徒同聚，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是地上最乐的事；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借此我们的灵不忧郁，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "且使生活有价值。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，说不出的喜乐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "且满了荣耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "满了荣耀，满了荣耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "说不出的喜乐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "且满了荣耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "甚至一半都未能说出。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "甚至一半都未能说出。"
+            }
+          ]
         }
       ]
     }
@@ -522,7 +562,16 @@
   "metadata": {
     "category": "享受基督",
     "time": "4/4",
-    "hymn_code": "5511311655556712"
+    "hymn_code": "5511311655556712",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1153",
+        "language": "cn",
+        "category": "h",
+        "number": "1153",
+        "title": "E1153"
+      }
+    ]
   },
   "raw_sections": [
     "我 們已 得 到 萬有 基督，",

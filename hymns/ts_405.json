@@ -1,196 +1,200 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/405",
   "title": "心归向主",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "但 他"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "但 他"
+            },
+            {
+              "chord": "",
+              "text": "們 的 心 幾"
+            },
+            {
+              "chord": "G",
+              "text": "時 歸"
+            },
+            {
+              "chord": "",
+              "text": "向"
+            },
+            {
+              "chord": "D",
+              "text": "主，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "們 的 心 幾"
+          "segments": [
+            {
+              "chord": "",
+              "text": "帕 子 就 幾"
+            },
+            {
+              "chord": "A",
+              "text": "時 除"
+            },
+            {
+              "chord": "",
+              "text": "去"
+            },
+            {
+              "chord": "A7",
+              "text": "了。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "時 歸"
+          "segments": [
+            {
+              "chord": "",
+              "text": "所"
+            },
+            {
+              "chord": "D",
+              "text": "以 你"
+            },
+            {
+              "chord": "",
+              "text": "的 心 終"
+            },
+            {
+              "chord": "G",
+              "text": "日 歸"
+            },
+            {
+              "chord": "",
+              "text": "向"
+            },
+            {
+              "chord": "D",
+              "text": "主，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "向"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 的 帕 子"
+            },
+            {
+              "chord": "A",
+              "text": "就 除"
+            },
+            {
+              "chord": "A7",
+              "text": "去"
+            },
+            {
+              "chord": "D7",
+              "text": "了。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "帕 子 就 幾"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如 今"
+            },
+            {
+              "chord": "G",
+              "text": "主 就"
+            },
+            {
+              "chord": "",
+              "text": "是 那 靈，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "時 除"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主 的"
+            },
+            {
+              "chord": "D",
+              "text": "靈 若"
+            },
+            {
+              "chord": "",
+              "text": "是 在 那 裡，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "去"
+          "segments": [
+            {
+              "chord": "",
+              "text": "那 裡"
+            },
+            {
+              "chord": "E7",
+              "text": "就 得"
+            },
+            {
+              "chord": "",
+              "text": "以 釋 放 自"
+            },
+            {
+              "chord": "A7",
+              "text": "由。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "了。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "所"
+          "segments": [
+            {
+              "chord": "",
+              "text": "所"
+            },
+            {
+              "chord": "D",
+              "text": "以 你"
+            },
+            {
+              "chord": "",
+              "text": "的 心 終"
+            },
+            {
+              "chord": "G",
+              "text": "日 歸"
+            },
+            {
+              "chord": "",
+              "text": "向"
+            },
+            {
+              "chord": "D",
+              "text": "主，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "以 你"
-        },
-        {
-          "chord": "",
-          "text": "的 心 終"
-        },
-        {
-          "chord": "G",
-          "text": "日 歸"
-        },
-        {
-          "chord": "",
-          "text": "向"
-        },
-        {
-          "chord": "D",
-          "text": "主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 的 帕 子"
-        },
-        {
-          "chord": "A",
-          "text": "就 除"
-        },
-        {
-          "chord": "A7",
-          "text": "去"
-        },
-        {
-          "chord": "D7",
-          "text": "了。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如 今"
-        },
-        {
-          "chord": "G",
-          "text": "主 就"
-        },
-        {
-          "chord": "",
-          "text": "是 那 靈，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主 的"
-        },
-        {
-          "chord": "D",
-          "text": "靈 若"
-        },
-        {
-          "chord": "",
-          "text": "是 在 那 裡，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "那 裡"
-        },
-        {
-          "chord": "E7",
-          "text": "就 得"
-        },
-        {
-          "chord": "",
-          "text": "以 釋 放 自"
-        },
-        {
-          "chord": "A7",
-          "text": "由。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "所"
-        },
-        {
-          "chord": "D",
-          "text": "以 你"
-        },
-        {
-          "chord": "",
-          "text": "的 心 終"
-        },
-        {
-          "chord": "G",
-          "text": "日 歸"
-        },
-        {
-          "chord": "",
-          "text": "向"
-        },
-        {
-          "chord": "D",
-          "text": "主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 的 帕 子"
-        },
-        {
-          "chord": "A",
-          "text": "就 除"
-        },
-        {
-          "chord": "A7",
-          "text": "去"
-        },
-        {
-          "chord": "D",
-          "text": "了。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 的 帕 子"
+            },
+            {
+              "chord": "A",
+              "text": "就 除"
+            },
+            {
+              "chord": "A7",
+              "text": "去"
+            },
+            {
+              "chord": "D",
+              "text": "了。"
+            }
+          ]
         }
       ]
     }
@@ -198,7 +202,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "3/4",
-    "hymn_code": "51113332123"
+    "hymn_code": "51113332123",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1345",
+        "language": "cn",
+        "category": "h",
+        "number": "1345",
+        "title": "E1345"
+      }
+    ]
   },
   "raw_sections": [
     "但 他們 的 心 幾時 歸向主，",

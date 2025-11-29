@@ -1,312 +1,328 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/349",
   "title": "先是园子，终为圣城",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "對 主"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "對 主"
+            },
+            {
+              "chord": "",
+              "text": "我 們 如 同"
+            },
+            {
+              "chord": "Em",
+              "text": "園 子，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 們 如 同"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "流 露"
+            },
+            {
+              "chord": "",
+              "text": "各 種 的 馨"
+            },
+            {
+              "chord": "D",
+              "text": "香；"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "園 子，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "流 露"
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶 穌 所 有 寶 貴"
+            },
+            {
+              "chord": "G",
+              "text": "果 子，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "各 種 的 馨"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "園 中"
+            },
+            {
+              "chord": "",
+              "text": "自 由"
+            },
+            {
+              "chord": "A",
+              "text": "的"
+            },
+            {
+              "chord": "A7",
+              "text": "生"
+            },
+            {
+              "chord": "D",
+              "text": "長。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "香；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶 穌 所 有 寶 貴"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哪 噠 鳳 仙、 並 番 紅 花，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "果 子，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "園 中"
+          "segments": [
+            {
+              "chord": "",
+              "text": "菖 蒲、 肉 桂、 乳 香"
+            },
+            {
+              "chord": "A",
+              "text": "木、"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "自 由"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "沒 藥"
+            },
+            {
+              "chord": "",
+              "text": "沉 香 在 此 長 出，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "甜 美 芬 芳 全 為"
+            },
+            {
+              "chord": "A",
+              "text": "歸 給"
+            },
+            {
+              "chord": "D",
+              "text": "主。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"主请进入你的园子；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "良人请来随意尝，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "長。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哪 噠 鳳 仙、 並 番 紅 花，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "菖 蒲、 肉 桂、 乳 香"
+          "segments": [
+            {
+              "chord": "",
+              "text": "佳美果子上等香品，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "木、"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "沒 藥"
+          "segments": [
+            {
+              "chord": "",
+              "text": "甘美丰盈供你享。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "沉 香 在 此 長 出，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "甜 美 芬 芳 全 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"我的妹子，我的新妇，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "歸 給"
+          "segments": [
+            {
+              "chord": "",
+              "text": "园中蜂房滴甘蜜，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "主。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "还有酒奶丰美、滋养，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在此吃喝，满足实无比。\""
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "\"主请进入你的园子；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "园内所产复活果品，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "经过变化成珍宝，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不仅甘美，更为建造，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "成为圣城主所要。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "先是园子，终为圣城，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "生长变化何美妙；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督在此得着彰显，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "神的荣光辉煌全显耀。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "良人请来随意尝，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "如今这城美丽、秀美，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "佳美果子上等香品，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "得胜如晨光显明，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "甘美丰盈供你享。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "且是军队刚强有能，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "\"我的妹子，我的新妇，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "在得胜里向前行。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "园中蜂房滴甘蜜，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "城与军队─团体圣徒，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "还有酒奶丰美、滋养，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "变化、建造成为一；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在此吃喝，满足实无比。\""
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "向着仇敌，何等威武，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "园内所产复活果品，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "经过变化成珍宝，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不仅甘美，更为建造，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "成为圣城主所要。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "先是园子，终为圣城，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生长变化何美妙；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督在此得着彰显，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神的荣光辉煌全显耀。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如今这城美丽、秀美，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得胜如晨光显明，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "且是军队刚强有能，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在得胜里向前行。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "城与军队─团体圣徒，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "变化、建造成为一；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向着仇敌，何等威武，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向着主又是何等美丽！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "向着主又是何等美丽！"
+            }
+          ]
         }
       ]
     }

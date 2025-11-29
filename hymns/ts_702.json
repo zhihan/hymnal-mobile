@@ -1,688 +1,728 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/702",
   "title": "是你吗？",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Am",
-          "text": "為 何"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "為 何"
+            },
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "Dm",
+              "text": "常 是"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "F",
+              "text": "沒 有"
+            },
+            {
+              "chord": "",
+              "text": "喜"
+            },
+            {
+              "chord": "Em",
+              "text": "樂，"
+            },
+            {
+              "chord": "Am",
+              "text": "天 天"
+            },
+            {
+              "chord": "",
+              "text": "都"
+            },
+            {
+              "chord": "Dm",
+              "text": "平 淡"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "缺"
+            },
+            {
+              "chord": "Am",
+              "text": "少 音"
+            },
+            {
+              "chord": "E7",
+              "text": "樂？"
+            },
+            {
+              "chord": "Am",
+              "text": "是 否"
+            },
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "G",
+              "text": "自 己"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "常 是"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "F",
-          "text": "沒 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "把"
+            },
+            {
+              "chord": "Em",
+              "text": "你 捆"
+            },
+            {
+              "chord": "Am",
+              "text": "綁，"
+            },
+            {
+              "chord": "Dm",
+              "text": "生 活"
+            },
+            {
+              "chord": "",
+              "text": "的"
+            },
+            {
+              "chord": "G7",
+              "text": "圈 子"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "喜"
+          "segments": [
+            {
+              "chord": "",
+              "text": "窄"
+            },
+            {
+              "chord": "C",
+              "text": "小 無"
+            },
+            {
+              "chord": "E7",
+              "text": "望，"
+            },
+            {
+              "chord": "Am",
+              "text": "所 以"
+            },
+            {
+              "chord": "",
+              "text": "纔"
+            },
+            {
+              "chord": "Dm",
+              "text": "這 樣"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "樂，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惆"
+            },
+            {
+              "chord": "E7",
+              "text": "悵？ （哎"
+            },
+            {
+              "chord": "Am",
+              "text": "阿！） 我"
+            },
+            {
+              "chord": "",
+              "text": "心 所 愛， 我 心 所"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "天 天"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愛，"
+            },
+            {
+              "chord": "Dm",
+              "text": "快 快"
+            },
+            {
+              "chord": "",
+              "text": "前"
+            },
+            {
+              "chord": "Am",
+              "text": "來！ 享"
+            },
+            {
+              "chord": "",
+              "text": "受 我 們，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "都"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享 受 我 們，"
+            },
+            {
+              "chord": "Dm",
+              "text": "就 是"
+            },
+            {
+              "chord": "",
+              "text": "現"
+            },
+            {
+              "chord": "Am",
+              "text": "在！ 神"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "平 淡"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "缺"
+          "segments": [
+            {
+              "chord": "",
+              "text": "的 需 要， 你 的 需 要， 都 得"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "少 音"
+          "segments": [
+            {
+              "chord": "",
+              "text": "著 滿"
+            },
+            {
+              "chord": "F",
+              "text": "足。"
+            },
+            {
+              "chord": "Am",
+              "text": "當 你"
+            },
+            {
+              "chord": "",
+              "text": "投 流"
+            },
+            {
+              "chord": "Dm",
+              "text": "中， 只"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "樂？"
+          "segments": [
+            {
+              "chord": "",
+              "text": "為 著 召"
+            },
+            {
+              "chord": "E7",
+              "text": "會，"
+            },
+            {
+              "chord": "Am",
+              "text": "必 得"
+            },
+            {
+              "chord": "",
+              "text": "著"
+            },
+            {
+              "chord": "Dm",
+              "text": "榮 耀"
+            },
+            {
+              "chord": "",
+              "text": "冠"
+            },
+            {
+              "chord": "E7",
+              "text": "冕。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿 利"
+            },
+            {
+              "chord": "Am",
+              "text": "路 亞！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你常对别人诉说愁苦："
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "是 否"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为何我常是走投无路，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "总不能冲破愁云惨雾，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "自 己"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "把"
+          "segments": [
+            {
+              "chord": "",
+              "text": "奋斗又挣扎却不明朗。"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "你 捆"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦！何日方能刚强！（哎阿！）"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "綁，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是因你不知何为自由，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "生 活"
+          "segments": [
+            {
+              "chord": "",
+              "text": "常常把自己陷在泥淖！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是因你不知宝贵生命，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "圈 子"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "窄"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是因你不肯把祂释放！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "小 無"
+          "segments": [
+            {
+              "chord": "",
+              "text": "所以才凄凄凉凉！（哎阿！）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "（二）追寻"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你常在那里寻寻觅觅，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "望，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "也曾觉主是那样甜蜜，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "所 以"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你却不让主占你心房，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "纔"
+          "segments": [
+            {
+              "chord": "",
+              "text": "总要留一点为你着想。"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "這 樣"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惆"
+          "segments": [
+            {
+              "chord": "",
+              "text": "所以才时变刻翻！（哎阿！）"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "悵？ （哎"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你也在主前立定心志，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "阿！） 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "除了祂之外别无所知，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "心 所 愛， 我 心 所"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愛，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但当祂向你有所要求，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "快 快"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你就觉为难畏缩退后，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "前"
+          "segments": [
+            {
+              "chord": "",
+              "text": "担不起损失剥夺！（哎阿！）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你也是常常感到困惑，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "來！ 享"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为何你自己这样软弱，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "受 我 們，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享 受 我 們，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是因你羡慕得些‘权能，’"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "就 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "还是你只望为祂‘工作，’"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "現"
+          "segments": [
+            {
+              "chord": "",
+              "text": "失去了单纯生活！（哎阿！）"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "在！ 神"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "的 需 要， 你 的 需 要， 都 得"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "著 滿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你或有‘得胜’你就骄傲，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "足。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不然就满了灰心叹息，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "當 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只因你仍要自己属灵，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "投 流"
+          "segments": [
+            {
+              "chord": "",
+              "text": "忘却了来向‘他们’投依，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "中， 只"
+          "segments": [
+            {
+              "chord": "",
+              "text": "失去了供应能力！（哎阿！）"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "為 著 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "（三）生活"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你也曾多次向主说过，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "會，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不来是不安，来又不妥，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "必 得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "盼望在会中得点甚么，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "补满自己的贫穷软弱，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "榮 耀"
+          "segments": [
+            {
+              "chord": "",
+              "text": "却不知如何得着！（哎阿！）"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "冠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "也许你却是逢会必到，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "冕。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿 利"
+          "segments": [
+            {
+              "chord": "",
+              "text": "也跟着别人‘阿们’喊叫，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "路 亞！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但你确又是虚空无聊，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "只因你是在履行‘宗教，’"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不知道生命逍遥！（哎阿！）"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "你常对别人诉说愁苦："
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "当你见别人投身流中，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "为何我常是走投无路，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "你也曾多次隔岸观望，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "总不能冲破愁云惨雾，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "见主在祝福你就拍掌，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "奋斗又挣扎却不明朗。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "见别人失败你也失望，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "哦！何日方能刚强！（哎阿！）"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "但你却总是这样！（哎阿！）"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "是因你不知何为自由，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "你私下盼望多些责任，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "常常把自己陷在泥淖！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "好叫你名声远播四方，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "是因你不知宝贵生命，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "常给人‘帮助’得着‘赞赏，’"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "是因你不肯把祂释放！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "常流出‘关切’得着‘颂扬，’"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "所以才凄凄凉凉！（哎阿！）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "（二）追寻"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你常在那里寻寻觅觅，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "也曾觉主是那样甜蜜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你却不让主占你心房，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "总要留一点为你着想。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "所以才时变刻翻！（哎阿！）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你也在主前立定心志，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "除了祂之外别无所知，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但当祂向你有所要求，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你就觉为难畏缩退后，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "担不起损失剥夺！（哎阿！）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你也是常常感到困惑，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为何你自己这样软弱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是因你羡慕得些‘权能，’"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "还是你只望为祂‘工作，’"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "失去了单纯生活！（哎阿！）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你或有‘得胜’你就骄傲，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不然就满了灰心叹息，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只因你仍要自己属灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "忘却了来向‘他们’投依，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "失去了供应能力！（哎阿！）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "（三）生活"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你也曾多次向主说过，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不来是不安，来又不妥，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "盼望在会中得点甚么，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "补满自己的贫穷软弱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "却不知如何得着！（哎阿！）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "也许你却是逢会必到，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "也跟着别人‘阿们’喊叫，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但你确又是虚空无聊，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只因你是在履行‘宗教，’"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不知道生命逍遥！（哎阿！）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当你见别人投身流中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你也曾多次隔岸观望，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "见主在祝福你就拍掌，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "见别人失败你也失望，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但你却总是这样！（哎阿！）"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你私下盼望多些责任，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "好叫你名声远播四方，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "常给人‘帮助’得着‘赞赏，’"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "常流出‘关切’得着‘颂扬，’"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你的主却不这样！（哎阿！）"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你的主却不这样！（哎阿！）"
+            }
+          ]
         }
       ]
     }

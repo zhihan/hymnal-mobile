@@ -1,256 +1,264 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/830",
   "title": "呼喊主名必得救",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "呼 喊"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "呼 喊"
+            },
+            {
+              "chord": "",
+              "text": "主 的 名，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "主 的 名，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "呼 喊"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "呼 喊"
+            },
+            {
+              "chord": "",
+              "text": "主 的"
+            },
+            {
+              "chord": "G",
+              "text": "名，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "主 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼 喊 主 的 名 必 得"
+            },
+            {
+              "chord": "D",
+              "text": "救！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "名，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "呼 喊 主 的 名 必 得"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "呼 喊"
+            },
+            {
+              "chord": "",
+              "text": "主 的 名，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "救！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "呼 喊"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "呼 喊"
+            },
+            {
+              "chord": "",
+              "text": "主 的"
+            },
+            {
+              "chord": "G",
+              "text": "名，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "主 的 名，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "呼 喊"
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼 喊 主 的"
+            },
+            {
+              "chord": "D7",
+              "text": "名 必"
+            },
+            {
+              "chord": "",
+              "text": "得"
+            },
+            {
+              "chord": "G",
+              "text": "救！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "主 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦， 主 耶 穌！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "名，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "呼 喊 主 的"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "哦， 主"
+            },
+            {
+              "chord": "G",
+              "text": "耶 穌！"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "名 必"
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼 喊 主 的 名 必 得 救！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦， 主 耶 穌！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "救！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦， 主 耶 穌！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "哦， 主"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "哦， 主"
+            },
+            {
+              "chord": "G",
+              "text": "耶 穌！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "耶 穌！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼 喊 主 的"
+            },
+            {
+              "chord": "D7",
+              "text": "名 必"
+            },
+            {
+              "chord": "",
+              "text": "得"
+            },
+            {
+              "chord": "G",
+              "text": "救！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "呼 喊 主 的 名 必 得 救！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦， 主 耶 穌！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "哦， 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼喊主的名，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "耶 穌！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "呼 喊 主 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼喊主的名，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "名 必"
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼喊主的名必得救！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼喊主的名，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "救！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼喊主的名，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "呼喊主的名，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼喊主的名必得救！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "呼喊主的名，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，主耶稣！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "呼喊主的名必得救！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，主耶稣！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "呼喊主的名，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚我已得救！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "呼喊主的名，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，主耶稣！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "呼喊主的名必得救！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，主耶稣！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "哦，主耶稣！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，主耶稣！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚我已得救！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，主耶稣！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，主耶稣！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚我已得救！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚我已得救！"
+            }
+          ]
         }
       ]
     }
@@ -258,7 +266,16 @@
   "metadata": {
     "category": "事奉与福音",
     "time": "4/4",
-    "hymn_code": "5512312165"
+    "hymn_code": "5512312165",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6830",
+        "language": "cn",
+        "category": "h",
+        "number": "6830",
+        "title": "E6830"
+      }
+    ]
   },
   "raw_sections": [
     "呼 喊主 的 名，",

@@ -1,356 +1,368 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/139",
   "title": "膏油与馨香",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "沒 藥"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "沒 藥"
+            },
+            {
+              "chord": "",
+              "text": "與 香 肉 桂，"
+            },
+            {
+              "chord": "B7",
+              "text": "香 菖"
+            },
+            {
+              "chord": "",
+              "text": "蒲"
+            },
+            {
+              "chord": "Em",
+              "text": "與 桂"
+            },
+            {
+              "chord": "",
+              "text": "皮─"
+            },
+            {
+              "chord": "A7",
+              "text": "你"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "與 香 肉 桂，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "成 分"
+            },
+            {
+              "chord": "D",
+              "text": "何 包"
+            },
+            {
+              "chord": "",
+              "text": "羅，"
+            },
+            {
+              "chord": "E7",
+              "text": "耶 穌"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "A",
+              "text": "主！"
+            },
+            {
+              "chord": "D",
+              "text": "橄"
+            }
+          ]
         },
         {
-          "chord": "B7",
-          "text": "香 菖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "欖 油 中 相 調，"
+            },
+            {
+              "chord": "B7",
+              "text": "分 量"
+            },
+            {
+              "chord": "",
+              "text": "完"
+            },
+            {
+              "chord": "Em",
+              "text": "整 奇"
+            },
+            {
+              "chord": "",
+              "text": "妙─"
+            },
+            {
+              "chord": "A7",
+              "text": "寶 貴"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "蒲"
+          "segments": [
+            {
+              "chord": "",
+              "text": "膏"
+            },
+            {
+              "chord": "D",
+              "text": "油 塗"
+            },
+            {
+              "chord": "",
+              "text": "抹，"
+            },
+            {
+              "chord": "A",
+              "text": "供 應"
+            },
+            {
+              "chord": "A7",
+              "text": "豐"
+            },
+            {
+              "chord": "D",
+              "text": "富！"
+            },
+            {
+              "chord": "A",
+              "text": "香 料"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "與 桂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "加"
+            },
+            {
+              "chord": "A7",
+              "text": "上 油，"
+            },
+            {
+              "chord": "D",
+              "text": "四 調"
+            },
+            {
+              "chord": "",
+              "text": "和 於 一，"
+            },
+            {
+              "chord": "E",
+              "text": "終 成"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "皮─"
+          "segments": [
+            {
+              "chord": "",
+              "text": "複"
+            },
+            {
+              "chord": "E7",
+              "text": "合 之"
+            },
+            {
+              "chord": "A7",
+              "text": "靈；"
+            },
+            {
+              "chord": "D",
+              "text": "基 督"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "之 死 甜 美，"
+            },
+            {
+              "chord": "B7",
+              "text": "基 督"
+            },
+            {
+              "chord": "",
+              "text": "復"
+            },
+            {
+              "chord": "Em",
+              "text": "活 馨"
+            },
+            {
+              "chord": "",
+              "text": "香，"
+            },
+            {
+              "chord": "A7",
+              "text": "複 合"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "成"
+            },
+            {
+              "chord": "D",
+              "text": "為 膏"
+            },
+            {
+              "chord": "",
+              "text": "油，"
+            },
+            {
+              "chord": "A7",
+              "text": "流 進"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "D",
+              "text": "靈！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "成 分"
+          "segments": [
+            {
+              "chord": "",
+              "text": "苏合香与香螺，白松香与乳香─"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "何 包"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你成分何包罗，耶稣我主！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "羅，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生命产生众子，救赎使罪脱落，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "耶 穌"
+          "segments": [
+            {
+              "chord": "",
+              "text": "驱逐死亡鬼魔，功效全足！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "分量各相等，复活里调和，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "主！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "加盐制成香物；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "橄"
+          "segments": [
+            {
+              "chord": "",
+              "text": "捣细置于柜前，供神圣火焚烧，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "至纯至圣之香，耶稣我主！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "欖 油 中 相 調，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "膏油是为我们，馨香完全为神，"
+            }
+          ]
         },
         {
-          "chord": "B7",
-          "text": "分 量"
+          "segments": [
+            {
+              "chord": "",
+              "text": "人神同享基督，荣耀丰富！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "完"
+          "segments": [
+            {
+              "chord": "",
+              "text": "膏油流至我们，带来福分全备，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "整 奇"
+          "segments": [
+            {
+              "chord": "",
+              "text": "馨香升达宝座，使神满足！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "妙─"
+          "segments": [
+            {
+              "chord": "",
+              "text": "先涂抹膏油，后焚烧馨香，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "寶 貴"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "膏"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如此经历基督；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "油 塗"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祷告赞美高举，出自我们经历，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "抹，"
-        },
-        {
-          "chord": "A",
-          "text": "供 應"
-        },
-        {
-          "chord": "A7",
-          "text": "豐"
-        },
-        {
-          "chord": "D",
-          "text": "富！"
-        },
-        {
-          "chord": "A",
-          "text": "香 料"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "加"
-        },
-        {
-          "chord": "A7",
-          "text": "上 油，"
-        },
-        {
-          "chord": "D",
-          "text": "四 調"
-        },
-        {
-          "chord": "",
-          "text": "和 於 一，"
-        },
-        {
-          "chord": "E",
-          "text": "終 成"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "複"
-        },
-        {
-          "chord": "E7",
-          "text": "合 之"
-        },
-        {
-          "chord": "A7",
-          "text": "靈；"
-        },
-        {
-          "chord": "D",
-          "text": "基 督"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "之 死 甜 美，"
-        },
-        {
-          "chord": "B7",
-          "text": "基 督"
-        },
-        {
-          "chord": "",
-          "text": "復"
-        },
-        {
-          "chord": "Em",
-          "text": "活 馨"
-        },
-        {
-          "chord": "",
-          "text": "香，"
-        },
-        {
-          "chord": "A7",
-          "text": "複 合"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "成"
-        },
-        {
-          "chord": "D",
-          "text": "為 膏"
-        },
-        {
-          "chord": "",
-          "text": "油，"
-        },
-        {
-          "chord": "A7",
-          "text": "流 進"
-        },
-        {
-          "chord": "",
-          "text": "我"
-        },
-        {
-          "chord": "D",
-          "text": "靈！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "苏合香与香螺，白松香与乳香─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你成分何包罗，耶稣我主！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生命产生众子，救赎使罪脱落，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "驱逐死亡鬼魔，功效全足！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "分量各相等，复活里调和，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "加盐制成香物；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "捣细置于柜前，供神圣火焚烧，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "至纯至圣之香，耶稣我主！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "膏油是为我们，馨香完全为神，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "人神同享基督，荣耀丰富！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "膏油流至我们，带来福分全备，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "馨香升达宝座，使神满足！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "先涂抹膏油，后焚烧馨香，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如此经历基督；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祷告赞美高举，出自我们经历，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "珍贵蒙神悦纳─全是基督！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "珍贵蒙神悦纳─全是基督！"
+            }
+          ]
         }
       ]
     }
@@ -358,7 +370,16 @@
   "metadata": {
     "category": "灵与生命",
     "time": "3/4",
-    "hymn_code": "333211443322"
+    "hymn_code": "333211443322",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1116",
+        "language": "cn",
+        "category": "h",
+        "number": "1116",
+        "title": "E1116"
+      }
+    ]
   },
   "raw_sections": [
     "沒 藥與 香 肉 桂，香 菖蒲與 桂皮─你",

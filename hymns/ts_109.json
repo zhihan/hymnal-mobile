@@ -1,360 +1,380 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/109",
   "title": "膏油在此",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "膏 油"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "膏 油"
+            },
+            {
+              "chord": "",
+              "text": "在 此！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "在 此！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主 在 我 們 裡 面 運 行，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "寶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主 在 我 們 裡 面 運 行，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "貝 膏"
+          "segments": [
+            {
+              "chord": "",
+              "text": "寶"
+            },
+            {
+              "chord": "D",
+              "text": "貝 膏"
+            },
+            {
+              "chord": "",
+              "text": "油 一"
+            },
+            {
+              "chord": "A7",
+              "text": "直 塗"
+            },
+            {
+              "chord": "",
+              "text": "抹 不"
+            },
+            {
+              "chord": "D",
+              "text": "停。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "油 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "寶"
+            },
+            {
+              "chord": "G",
+              "text": "血 有"
+            },
+            {
+              "chord": "",
+              "text": "能！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "直 塗"
+          "segments": [
+            {
+              "chord": "",
+              "text": "牠"
+            },
+            {
+              "chord": "C",
+              "text": "為 我"
+            },
+            {
+              "chord": "",
+              "text": "們 帶 進 交 通，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "抹 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如"
+            },
+            {
+              "chord": "G",
+              "text": "今 我"
+            },
+            {
+              "chord": "",
+              "text": "們 活"
+            },
+            {
+              "chord": "D7",
+              "text": "在 生"
+            },
+            {
+              "chord": "",
+              "text": "命 流"
+            },
+            {
+              "chord": "G",
+              "text": "中。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "膏 油 在 此！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "停。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "寶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦， 弟 兄 們"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "血 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哪！ 膏 油 在 此"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "能！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "牠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們 相"
+            },
+            {
+              "chord": "D",
+              "text": "信！ 我"
+            },
+            {
+              "chord": "",
+              "text": "們 已 從"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "為 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主 得 著 這 膏 油， 聖 靈"
+            },
+            {
+              "chord": "D7",
+              "text": "在 靈"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "們 帶 進 交 通，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "裡 面 運"
+            },
+            {
+              "chord": "G",
+              "text": "行！ 膏"
+            },
+            {
+              "chord": "",
+              "text": "油 在 此！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "如"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦， 姊 妹 們"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "今 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哪！ 膏 油 塗"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "們 活"
+          "segments": [
+            {
+              "chord": "",
+              "text": "抹 永"
+            },
+            {
+              "chord": "G7",
+              "text": "遠 不"
+            },
+            {
+              "chord": "C",
+              "text": "停，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "在 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "藉 祂 的 塗 抹 住 在"
+            },
+            {
+              "chord": "G",
+              "text": "祂"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "命 流"
+          "segments": [
+            {
+              "chord": "",
+              "text": "裡 面， 哦， 阿"
+            },
+            {
+              "chord": "D",
+              "text": "利 路"
+            },
+            {
+              "chord": "",
+              "text": "亞，"
+            },
+            {
+              "chord": "D7",
+              "text": "何 豐"
+            },
+            {
+              "chord": "G",
+              "text": "盛！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "膏油在此！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "中。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "膏 油 在 此！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦， 弟 兄 們"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哪！ 膏 油 在 此"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們 相"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是神自己与人调和，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "信！ 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如今二者相调成为一个！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "們 已 從"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主 得 著 這 膏 油， 聖 靈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "时时刻刻，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "在 靈"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "裡 面 運"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们生活、动作、存留"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "行！ 膏"
+          "segments": [
+            {
+              "chord": "",
+              "text": "都在乎祂─"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "油 在 此！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神在我们里头。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "哦， 姊 妹 們"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哪！ 膏 油 塗"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "抹 永"
+          "segments": [
+            {
+              "chord": "",
+              "text": "膏油在此！"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "遠 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "膏油教导我们一切，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "停，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "藉 祂 的 塗 抹 住 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们经常有这生命感觉；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "祂"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "裡 面， 哦， 阿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "顺这感觉，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "利 路"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们知道如何行事，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "亞，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "凭祂而活，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "何 豐"
-        },
-        {
-          "chord": "G",
-          "text": "盛！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "膏油在此！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是神自己与人调和，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如今二者相调成为一个！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "时时刻刻，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们生活、动作、存留"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "都在乎祂─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神在我们里头。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "膏油在此！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "膏油教导我们一切，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们经常有这生命感觉；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "顺这感觉，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们知道如何行事，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "凭祂而活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "凡事无不清楚。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "凡事无不清楚。"
+            }
+          ]
         }
       ]
     }
@@ -362,7 +382,16 @@
   "metadata": {
     "category": "灵与生命",
     "time": "4/4",
-    "hymn_code": "5111565556555"
+    "hymn_code": "5111565556555",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1118",
+        "language": "cn",
+        "category": "h",
+        "number": "1118",
+        "title": "E1118"
+      }
+    ]
   },
   "raw_sections": [
     "膏 油在 此！",

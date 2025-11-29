@@ -1,628 +1,664 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/31",
   "title": "赞美主是平安祭",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "哦 主，"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "哦 主，"
+            },
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "A",
+              "text": "是 平"
+            },
+            {
+              "chord": "D",
+              "text": "安 祭，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們 按"
+            },
+            {
+              "chord": "A",
+              "text": "手 於"
+            },
+            {
+              "chord": "D",
+              "text": "你；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "是 平"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "G",
+              "text": "的 事"
+            },
+            {
+              "chord": "",
+              "text": "實 我"
+            },
+            {
+              "chord": "D",
+              "text": "經 歷，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "安 祭，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們 按"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因"
+            },
+            {
+              "chord": "E7",
+              "text": "為 你"
+            },
+            {
+              "chord": "",
+              "text": "我 是"
+            },
+            {
+              "chord": "A",
+              "text": "一。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "手 於"
+          "segments": [
+            {
+              "chord": "",
+              "text": "眾"
+            },
+            {
+              "chord": "D",
+              "text": "聖 歡"
+            },
+            {
+              "chord": "",
+              "text": "聚 會 幕 裏，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "你；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "以"
+            },
+            {
+              "chord": "A",
+              "text": "你 向"
+            },
+            {
+              "chord": "",
+              "text": "神 獻"
+            },
+            {
+              "chord": "D",
+              "text": "祭；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "的 事"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "同"
+            },
+            {
+              "chord": "G",
+              "text": "父 喫"
+            },
+            {
+              "chord": "",
+              "text": "喝 享"
+            },
+            {
+              "chord": "D",
+              "text": "受 你，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "實 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "豐"
+            },
+            {
+              "chord": "A",
+              "text": "富 有"
+            },
+            {
+              "chord": "A7",
+              "text": "何 能"
+            },
+            {
+              "chord": "D",
+              "text": "比。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "讚"
+            },
+            {
+              "chord": "A",
+              "text": "美 基"
+            },
+            {
+              "chord": "",
+              "text": "督 是"
+            },
+            {
+              "chord": "D",
+              "text": "平 安"
+            },
+            {
+              "chord": "",
+              "text": "祭，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "經 歷，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使"
+            },
+            {
+              "chord": "G",
+              "text": "神 與"
+            },
+            {
+              "chord": "B7",
+              "text": "人 滿"
+            },
+            {
+              "chord": "Em",
+              "text": "意；"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "為 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "距"
+            },
+            {
+              "chord": "A",
+              "text": "離 全"
+            },
+            {
+              "chord": "A7",
+              "text": "去， 交"
+            },
+            {
+              "chord": "D",
+              "text": "通 甜"
+            },
+            {
+              "chord": "",
+              "text": "蜜，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "平"
+            },
+            {
+              "chord": "G",
+              "text": "安 永"
+            },
+            {
+              "chord": "A7",
+              "text": "遠 堅"
+            },
+            {
+              "chord": "D",
+              "text": "立！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "血洒于坛何有能，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "一。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "眾"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神圣平安得成；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "聖 歡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "宝血功效永坚定，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "聚 會 幕 裏，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "以"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神前我享安宁。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "你 向"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们放胆齐颂称"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "神 獻"
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"和平借血己成！\""
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "祭；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "同"
+          "segments": [
+            {
+              "chord": "",
+              "text": "仇敌闻之惊又恐，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "父 喫"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们昂然夸胜。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "燔祭馨香使神喜，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "喝 享"
+          "segments": [
+            {
+              "chord": "",
+              "text": "素祭叫人满意，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "受 你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "豐"
+          "segments": [
+            {
+              "chord": "",
+              "text": "据此再献平安祭─"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "富 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "全是基督自己。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "何 能"
+          "segments": [
+            {
+              "chord": "",
+              "text": "救主人性何柔细，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "比。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "讚"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们吃喝不已；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "美 基"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如此享受真可喜，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "督 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "每逢我们聚集。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "交通何美筵席何富，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "平 安"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神人同得饱足！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "祭，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使"
+          "segments": [
+            {
+              "chord": "",
+              "text": "喜乐盈盈，平安处处，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "神 與"
+          "segments": [
+            {
+              "chord": "",
+              "text": "圣民怎不欢呼！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "内脏、脂油最甘美，"
+            }
+          ]
         },
         {
-          "chord": "B7",
-          "text": "人 滿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当先归神回味；"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "意；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "距"
+          "segments": [
+            {
+              "chord": "",
+              "text": "摇祭的胸何宝贝，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "離 全"
+          "segments": [
+            {
+              "chord": "",
+              "text": "全体祭司受惠；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "去， 交"
+          "segments": [
+            {
+              "chord": "",
+              "text": "无酵饼同举祭腿，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "通 甜"
+          "segments": [
+            {
+              "chord": "",
+              "text": "纯全有能宝贵，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "蜜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "平"
+          "segments": [
+            {
+              "chord": "",
+              "text": "供职祭司受无愧，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "安 永"
+          "segments": [
+            {
+              "chord": "",
+              "text": "福分拔尖全备。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美基督是平安祭，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "遠 堅"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使神与人满足！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "立！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "喜乐盈盈，平安处处，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "圣民怎不欢呼！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "血洒于坛何有能，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "胸作摇祭何丰富，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "豫表复活基督，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "以爱围绕且照护，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我超越脱俗。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "腿作举祭何充足，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "描绘升天救主，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我有能历世途，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "活出他命无误。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "神圣平安得成；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "得洁众圣聚一堂，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "宝血功效永坚定，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督爱筵饱尝；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "神前我享安宁。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "如此享受真无双，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我们放胆齐颂称"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "带来交通无量。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "\"和平借血己成！\""
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "心存感恩来歌唱，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "仇敌闻之惊又恐，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "因主恩典深广；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我们昂然夸胜。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "为使主旨得显彰，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "燔祭馨香使神喜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "素祭叫人满意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "据此再献平安祭─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全是基督自己。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "救主人性何柔细，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们吃喝不已；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如此享受真可喜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "每逢我们聚集。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "交通何美筵席何富，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神人同得饱足！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "喜乐盈盈，平安处处，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "圣民怎不欢呼！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "内脏、脂油最甘美，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当先归神回味；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "摇祭的胸何宝贝，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全体祭司受惠；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "无酵饼同举祭腿，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "纯全有能宝贵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "供职祭司受无愧，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "福分拔尖全备。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞美基督是平安祭，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使神与人满足！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "喜乐盈盈，平安处处，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "圣民怎不欢呼！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "胸作摇祭何丰富，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "豫表复活基督，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "以爱围绕且照护，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我超越脱俗。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "腿作举祭何充足，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "描绘升天救主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我有能历世途，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "活出他命无误。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得洁众圣聚一堂，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督爱筵饱尝；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如此享受真无双，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "带来交通无量。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "心存感恩来歌唱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因主恩典深广；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为使主旨得显彰，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿将全人献上。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿将全人献上。"
+            }
+          ]
         }
       ]
     }
@@ -630,7 +666,16 @@
   "metadata": {
     "category": "赞美的话",
     "time": "4/4",
-    "hymn_code": "5543215511223"
+    "hymn_code": "5543215511223",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1104",
+        "language": "cn",
+        "category": "h",
+        "number": "1104",
+        "title": "E1104"
+      }
+    ]
   },
   "raw_sections": [
     "哦 主，你是 平安 祭，",

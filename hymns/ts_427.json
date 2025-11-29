@@ -1,644 +1,676 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/427",
   "title": "为神永远的经纶",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "主 呼"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "主 呼"
+            },
+            {
+              "chord": "",
+              "text": "召 我 們 在"
+            },
+            {
+              "chord": "Bm",
+              "text": "這 裡，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "召 我 們 在"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "是 為"
+            },
+            {
+              "chord": "",
+              "text": "神 永 遠 的"
+            },
+            {
+              "chord": "A",
+              "text": "經 綸，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "這 裡，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "是 為"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "這 是"
+            },
+            {
+              "chord": "",
+              "text": "我 人 生 的"
+            },
+            {
+              "chord": "F♯m",
+              "text": "目"
+            },
+            {
+              "chord": "Bm",
+              "text": "的，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "神 永 遠 的"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "是 我"
+            },
+            {
+              "chord": "",
+              "text": "生 活 的 中"
+            },
+            {
+              "chord": "A7",
+              "text": "心！"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "經 綸，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "這 是"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "三 一"
+            },
+            {
+              "chord": "",
+              "text": "神 化 身 成"
+            },
+            {
+              "chord": "Bm",
+              "text": "為 人，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 人 生 的"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "為 使"
+            },
+            {
+              "chord": "",
+              "text": "人 變 化 成"
+            },
+            {
+              "chord": "A",
+              "text": "為 神，"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "目"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "祂 釘"
+            },
+            {
+              "chord": "",
+              "text": "死、 復 活 成"
+            },
+            {
+              "chord": "F♯m",
+              "text": "為 那"
+            },
+            {
+              "chord": "Bm",
+              "text": "靈，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "的，"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "今 在"
+            },
+            {
+              "chord": "",
+              "text": "我 靈"
+            },
+            {
+              "chord": "A7",
+              "text": "裡 作"
+            },
+            {
+              "chord": "D",
+              "text": "我 分。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Em",
-          "text": "是 我"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "願 神"
+            },
+            {
+              "chord": "",
+              "text": "這"
+            },
+            {
+              "chord": "G",
+              "text": "永 遠"
+            },
+            {
+              "chord": "",
+              "text": "經 綸 異"
+            },
+            {
+              "chord": "A",
+              "text": "象，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "生 活 的 中"
+          "segments": [
+            {
+              "chord": "",
+              "text": "定 住 我"
+            },
+            {
+              "chord": "F♯m",
+              "text": "心 中"
+            },
+            {
+              "chord": "",
+              "text": "每 個 方"
+            },
+            {
+              "chord": "Bm",
+              "text": "向，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "心！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "三 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "光 照 我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "神 化 身 成"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "使 我"
+            },
+            {
+              "chord": "",
+              "text": "靈 裡 發"
+            },
+            {
+              "chord": "A",
+              "text": "旺，"
+            },
+            {
+              "chord": "A7",
+              "text": "更 剛"
+            },
+            {
+              "chord": "D",
+              "text": "強，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "為 人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "為 使"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "好 模"
+            },
+            {
+              "chord": "",
+              "text": "成"
+            },
+            {
+              "chord": "G",
+              "text": "基 督"
+            },
+            {
+              "chord": "",
+              "text": "榮 耀 形"
+            },
+            {
+              "chord": "A",
+              "text": "像，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "人 變 化 成"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在 生 命"
+            },
+            {
+              "chord": "F♯m",
+              "text": "中 作"
+            },
+            {
+              "chord": "Bm",
+              "text": "王，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "為 神，"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "將 聖"
+            },
+            {
+              "chord": "",
+              "text": "城 撒"
+            },
+            {
+              "chord": "A",
+              "text": "冷 帶"
+            },
+            {
+              "chord": "",
+              "text": "到 地"
+            },
+            {
+              "chord": "D",
+              "text": "上。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "祂 釘"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，在这蒙福的境地，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "死、 復 活 成"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神与人联调成为一，"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "為 那"
+          "segments": [
+            {
+              "chord": "",
+              "text": "留在基督这美地里，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "靈，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "今 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享受基督作实际；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 靈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "珍惜这无上的权利，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "裡 作"
+          "segments": [
+            {
+              "chord": "",
+              "text": "建造主生机的身体，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我 分。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "願 神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作基督显身团体大器，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "這"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将见证普及在各地。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿神这永远经纶异象，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "永 遠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "定住我心中每个方向，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "經 綸 異"
+          "segments": [
+            {
+              "chord": "",
+              "text": "光照我，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "象，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "定 住 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我灵里发旺，更刚强，"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "心 中"
+          "segments": [
+            {
+              "chord": "",
+              "text": "好模成基督荣耀形像，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "每 個 方"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在生命中作王，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "向，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将圣城撒冷带到地上。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "光 照 我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "使 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "站在这异象的高峰，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "靈 裡 發"
+          "segments": [
+            {
+              "chord": "",
+              "text": "心里真欢欣，灵却重："
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "旺，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我需要复活的大能，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "更 剛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "需要真实的复兴；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "強，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "好 模"
+          "segments": [
+            {
+              "chord": "",
+              "text": "时时照着那灵而行动，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "成"
+          "segments": [
+            {
+              "chord": "",
+              "text": "处处为那灵来撒种，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "基 督"
+          "segments": [
+            {
+              "chord": "",
+              "text": "成为神在地团体模型，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "榮 耀 形"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如同主当日所实行。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿神这永远经纶异象，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "像，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在 生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "定住我心中每个方向，"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "中 作"
+          "segments": [
+            {
+              "chord": "",
+              "text": "光照我，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "王，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "將 聖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我灵里发旺，更刚强，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "城 撒"
+          "segments": [
+            {
+              "chord": "",
+              "text": "好模成基督荣耀形像，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "冷 帶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在生命中作王，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "到 地"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将圣城撒冷带到地上。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我向自己死，向神活，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "上。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "凭调和的灵而活着，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "旧生命从此全摆脱，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "罪、肉体、世界消没；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，我愿作个得胜者，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "以此为目标、为警策，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "与众圣徒过神人生活，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "同基督显于神的国。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "哦，在这蒙福的境地，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿神这永远经纶异象，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "神与人联调成为一，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "定住我心中每个方向，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "留在基督这美地里，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "光照我，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "享受基督作实际；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我灵里发旺，更刚强，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "珍惜这无上的权利，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "好模成基督荣耀形像，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "建造主生机的身体，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "在生命中作王，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "作基督显身团体大器，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将见证普及在各地。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿神这永远经纶异象，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "定住我心中每个方向，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "光照我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我灵里发旺，更刚强，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "好模成基督荣耀形像，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在生命中作王，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将圣城撒冷带到地上。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "站在这异象的高峰，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "心里真欢欣，灵却重："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我需要复活的大能，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "需要真实的复兴；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "时时照着那灵而行动，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "处处为那灵来撒种，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "成为神在地团体模型，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如同主当日所实行。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿神这永远经纶异象，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "定住我心中每个方向，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "光照我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我灵里发旺，更刚强，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "好模成基督荣耀形像，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在生命中作王，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将圣城撒冷带到地上。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我向自己死，向神活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "凭调和的灵而活着，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "旧生命从此全摆脱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "罪、肉体、世界消没；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，我愿作个得胜者，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "以此为目标、为警策，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "与众圣徒过神人生活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同基督显于神的国。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿神这永远经纶异象，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "定住我心中每个方向，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "光照我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我灵里发旺，更刚强，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "好模成基督荣耀形像，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在生命中作王，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将圣城撒冷带到地上。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将圣城撒冷带到地上。"
+            }
+          ]
         }
       ]
     }
@@ -646,7 +678,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "4/4",
-    "hymn_code": "5555543144424275"
+    "hymn_code": "5555543144424275",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/28",
+        "language": "cn",
+        "category": "ns",
+        "number": "28",
+        "title": "NS28"
+      }
+    ]
   },
   "raw_sections": [
     "主 呼召 我 們 在這 裡，",

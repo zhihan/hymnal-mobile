@@ -1,496 +1,520 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/15",
   "title": "我要不住赞美称颂神",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "我 要"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我 要"
+            },
+            {
+              "chord": "",
+              "text": "不 住 讚 美 稱 頌 神，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "不 住 讚 美 稱 頌 神，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因 祂 活"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因 祂 活"
+            },
+            {
+              "chord": "Em",
+              "text": "在 我"
+            },
+            {
+              "chord": "",
+              "text": "裡，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "在 我"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "祂 是"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "D",
+              "text": "的 一"
+            },
+            {
+              "chord": "",
+              "text": "切，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "裡，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "祂 是"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "不 斷"
+            },
+            {
+              "chord": "",
+              "text": "供 應 生 命。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 要 不 住 讚 美 稱 頌 神，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "的 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因 祂 活"
+            },
+            {
+              "chord": "Em",
+              "text": "在 我"
+            },
+            {
+              "chord": "",
+              "text": "裡，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "切，"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "與 我"
+            },
+            {
+              "chord": "",
+              "text": "永"
+            },
+            {
+              "chord": "D7",
+              "text": "不 分"
+            },
+            {
+              "chord": "G",
+              "text": "離。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "不 斷"
+          "segments": [
+            {
+              "chord": "G7",
+              "text": "今 在"
+            },
+            {
+              "chord": "",
+              "text": "靈"
+            },
+            {
+              "chord": "C",
+              "text": "裡 我"
+            },
+            {
+              "chord": "",
+              "text": "能 享 受"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "供 應 生 命。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 要 不 住 讚 美 稱 頌 神，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因 祂 活"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基 督"
+            },
+            {
+              "chord": "G",
+              "text": "作 我"
+            },
+            {
+              "chord": "",
+              "text": "的 一"
+            },
+            {
+              "chord": "Em",
+              "text": "切"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "在 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼 求"
+            },
+            {
+              "chord": "Am",
+              "text": "祂 名"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "裡，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "與 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 就"
+            },
+            {
+              "chord": "D7",
+              "text": "成 了"
+            },
+            {
+              "chord": "",
+              "text": "我 實"
+            },
+            {
+              "chord": "G",
+              "text": "際。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "永"
+          "segments": [
+            {
+              "chord": "G7",
+              "text": "敞 開"
+            },
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "C",
+              "text": "口 就"
+            },
+            {
+              "chord": "",
+              "text": "能 嘗"
+            },
+            {
+              "chord": "Cm",
+              "text": "到"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "不 分"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主 是"
+            },
+            {
+              "chord": "G",
+              "text": "何 等"
+            },
+            {
+              "chord": "",
+              "text": "的 豐"
+            },
+            {
+              "chord": "Em",
+              "text": "富，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "離。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G7",
-          "text": "今 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 是"
+            },
+            {
+              "chord": "Am",
+              "text": "奇 妙"
+            },
+            {
+              "chord": "",
+              "text": "全 備"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "靈"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "的 供"
+            },
+            {
+              "chord": "G",
+              "text": "應。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "现今我因生命树而活，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "裡 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "其美果餧养我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "能 享 受"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基 督"
+          "segments": [
+            {
+              "chord": "",
+              "text": "其生命刚强我，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "作 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我要永远活着。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "现今我因生命树而活，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "切"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "呼 求"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我天天取用祂，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "祂 名"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是我生命粮。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "祂 就"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今在灵里我能享受"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "成 了"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督作我的一切"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 實"
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼求祂名"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "際。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G7",
-          "text": "敞 開"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂就成了我实际。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "敞开你口就能尝到"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "口 就"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主是何等的丰富，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "能 嘗"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是奇妙全备"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "到"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生命的供应。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "主 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在我里面有生命水流，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "何 等"
+          "segments": [
+            {
+              "chord": "",
+              "text": "时刻都在涌流，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 豐"
+          "segments": [
+            {
+              "chord": "",
+              "text": "处处都要流通，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "富，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "把我全人浸透。"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "奇 妙"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在我里面有生命水流，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "全 備"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是生命泉源，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 供"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一直涌到永生。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "今在灵里我能享受"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "應。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督作我的一切"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "现今我因生命树而活，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼求祂名"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "其美果餧养我，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂就成了我实际。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "其生命刚强我，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "敞开你口就能尝到"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我要永远活着。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "主是何等的丰富，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "现今我因生命树而活，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是奇妙全备"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我天天取用祂，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是我生命粮。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今在灵里我能享受"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督作我的一切"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "呼求祂名"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂就成了我实际。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "敞开你口就能尝到"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主是何等的丰富，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是奇妙全备"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生命的供应。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在我里面有生命水流，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "时刻都在涌流，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "处处都要流通，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "把我全人浸透。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在我里面有生命水流，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是生命泉源，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一直涌到永生。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今在灵里我能享受"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督作我的一切"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "呼求祂名"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂就成了我实际。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "敞开你口就能尝到"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主是何等的丰富，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是奇妙全备"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生命的供应。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生命的供应。"
+            }
+          ]
         }
       ]
     }
@@ -498,7 +522,16 @@
   "metadata": {
     "category": "赞美的话",
     "time": "4/4",
-    "hymn_code": "332356113"
+    "hymn_code": "332356113",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/131",
+        "language": "cn",
+        "category": "ns",
+        "number": "131",
+        "title": "NS131"
+      }
+    ]
   },
   "raw_sections": [
     "我 要不 住 讚 美 稱 頌 神，",

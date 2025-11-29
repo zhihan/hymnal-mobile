@@ -1,132 +1,136 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/130",
   "title": "主耶稣作了我人位",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "主 耶"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "主 耶"
+            },
+            {
+              "chord": "",
+              "text": "穌， 作 了 我 人"
+            },
+            {
+              "chord": "A",
+              "text": "位；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "穌， 作 了 我 人"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "主 耶"
+            },
+            {
+              "chord": "",
+              "text": "穌， 作 了 我 人"
+            },
+            {
+              "chord": "D",
+              "text": "位。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "位；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "主 耶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦， 我 接 受"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "穌， 作 了 我 人"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基"
+            },
+            {
+              "chord": "A7",
+              "text": "督 作"
+            },
+            {
+              "chord": "",
+              "text": "我 人"
+            },
+            {
+              "chord": "D",
+              "text": "位。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "位。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦， 我 接 受"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基 督"
+            },
+            {
+              "chord": "G",
+              "text": "安 家"
+            },
+            {
+              "chord": "D",
+              "text": "在 我"
+            },
+            {
+              "chord": "",
+              "text": "心 裡，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "督 作"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神 的"
+            },
+            {
+              "chord": "G",
+              "text": "豐 滿"
+            },
+            {
+              "chord": "D",
+              "text": "充 滿"
+            },
+            {
+              "chord": "",
+              "text": "了 我。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 人"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦， 我 接 受"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "位。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基 督"
-        },
-        {
-          "chord": "G",
-          "text": "安 家"
-        },
-        {
-          "chord": "D",
-          "text": "在 我"
-        },
-        {
-          "chord": "",
-          "text": "心 裡，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神 的"
-        },
-        {
-          "chord": "G",
-          "text": "豐 滿"
-        },
-        {
-          "chord": "D",
-          "text": "充 滿"
-        },
-        {
-          "chord": "",
-          "text": "了 我。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦， 我 接 受"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基"
-        },
-        {
-          "chord": "A7",
-          "text": "督 作"
-        },
-        {
-          "chord": "",
-          "text": "我 人"
-        },
-        {
-          "chord": "D",
-          "text": "位。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基"
+            },
+            {
+              "chord": "A7",
+              "text": "督 作"
+            },
+            {
+              "chord": "",
+              "text": "我 人"
+            },
+            {
+              "chord": "D",
+              "text": "位。"
+            }
+          ]
         }
       ]
     }

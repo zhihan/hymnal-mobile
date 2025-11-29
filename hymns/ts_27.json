@@ -1,436 +1,452 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/27",
   "title": "在荣耀里有一人",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "在 榮"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "在 榮"
+            },
+            {
+              "chord": "",
+              "text": "耀 裡 有"
+            },
+            {
+              "chord": "D",
+              "text": "一 人，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "耀 裡 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂"
+            },
+            {
+              "chord": "G",
+              "text": "的 生"
+            },
+            {
+              "chord": "",
+              "text": "命 是 為"
+            },
+            {
+              "chord": "D",
+              "text": "我。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "一 人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂"
+            },
+            {
+              "chord": "Em",
+              "text": "是 完"
+            },
+            {
+              "chord": "",
+              "text": "全"
+            },
+            {
+              "chord": "D",
+              "text": "聖 潔，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "的 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "自"
+            },
+            {
+              "chord": "A",
+              "text": "由"
+            },
+            {
+              "chord": "A7",
+              "text": "且 超"
+            },
+            {
+              "chord": "D",
+              "text": "脫，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "命 是 為"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "祂"
+            },
+            {
+              "chord": "G",
+              "text": "是 全"
+            },
+            {
+              "chord": "",
+              "text": "智、"
+            },
+            {
+              "chord": "C",
+              "text": "仁"
+            },
+            {
+              "chord": "G",
+              "text": "慈，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂"
+            },
+            {
+              "chord": "A7",
+              "text": "是 何"
+            },
+            {
+              "chord": "",
+              "text": "溫"
+            },
+            {
+              "chord": "D7",
+              "text": "柔！"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "是 完"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂"
+            },
+            {
+              "chord": "G",
+              "text": "榮 耀"
+            },
+            {
+              "chord": "",
+              "text": "裡 的 生 命"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "全"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃 是 為 著"
+            },
+            {
+              "chord": "D",
+              "text": "我。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "聖 潔，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂"
+            },
+            {
+              "chord": "C",
+              "text": "榮 耀"
+            },
+            {
+              "chord": "",
+              "text": "裡 的"
+            },
+            {
+              "chord": "D7",
+              "text": "生"
+            },
+            {
+              "chord": "G",
+              "text": "命"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "由"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃"
+            },
+            {
+              "chord": "D",
+              "text": "是"
+            },
+            {
+              "chord": "D7",
+              "text": "為 著"
+            },
+            {
+              "chord": "G",
+              "text": "我。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在荣耀里有一人，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "且 超"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂的生命是为我。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "脫，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在祂全无疾病，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "是 全"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂毫无软弱，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "智、"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是刚强、有力，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "仁"
+          "segments": [
+            {
+              "chord": "",
+              "text": "且能往上浮！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "慈，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂荣耀里的生命"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "是 何"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃是为着我。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "溫"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂荣耀里的生命"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "柔！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃是为着我。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在荣耀里有一人，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "榮 耀"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂的生命是为我。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "裡 的 生 命"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃 是 為 著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂胜过了死亡，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "拘禁全脱落，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "榮 耀"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在复活里作王，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "裡 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "权柄手中握！"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂荣耀里的生命"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "命"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃是为着我。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂荣耀里的生命"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "為 著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃是为着我。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在荣耀里有一人，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "我。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂的生命是为我。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在荣耀里有一人，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂的平安长存，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "祂的生命是为我。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "不怕何风波，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在祂全无疾病，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂喜乐，发光辉，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "祂毫无软弱，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "盼望而等着，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "祂是刚强、有力，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂荣耀里的生命"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "且能往上浮！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "从我里透过。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "祂荣耀里的生命"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂荣耀里的生命"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "乃是为着我。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂荣耀里的生命"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃是为着我。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在荣耀里有一人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂的生命是为我。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂胜过了死亡，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "拘禁全脱落，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在复活里作王，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "权柄手中握！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂荣耀里的生命"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃是为着我。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂荣耀里的生命"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃是为着我。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在荣耀里有一人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂的生命是为我。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂的平安长存，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不怕何风波，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂喜乐，发光辉，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "盼望而等着，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂荣耀里的生命"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从我里透过。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂荣耀里的生命"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从我里透过。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从我里透过。"
+            }
+          ]
         }
       ]
     }
@@ -438,7 +454,16 @@
   "metadata": {
     "category": "赞美的话",
     "time": "4/4",
-    "hymn_code": "11151255323432"
+    "hymn_code": "11151255323432",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/505",
+        "language": "cn",
+        "category": "h",
+        "number": "505",
+        "title": "E505"
+      }
+    ]
   },
   "raw_sections": [
     "在 榮耀 裡 有一 人，",

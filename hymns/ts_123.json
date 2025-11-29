@@ -1,96 +1,100 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/123",
   "title": "耶稣活在我里面",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "阿 利"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "阿 利"
+            },
+            {
+              "chord": "G",
+              "text": "路 亞！"
+            },
+            {
+              "chord": "",
+              "text": "阿 利"
+            },
+            {
+              "chord": "D",
+              "text": "路 亞！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "路 亞！"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "耶 穌"
+            },
+            {
+              "chord": "",
+              "text": "如"
+            },
+            {
+              "chord": "A7",
+              "text": "今 活"
+            },
+            {
+              "chord": "",
+              "text": "在"
+            },
+            {
+              "chord": "D",
+              "text": "我 的"
+            },
+            {
+              "chord": "",
+              "text": "裡 面。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "阿 利"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿 利"
+            },
+            {
+              "chord": "G",
+              "text": "路 亞！"
+            },
+            {
+              "chord": "",
+              "text": "阿 利"
+            },
+            {
+              "chord": "D",
+              "text": "路 亞！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "路 亞！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "耶 穌"
-        },
-        {
-          "chord": "",
-          "text": "如"
-        },
-        {
-          "chord": "A7",
-          "text": "今 活"
-        },
-        {
-          "chord": "",
-          "text": "在"
-        },
-        {
-          "chord": "D",
-          "text": "我 的"
-        },
-        {
-          "chord": "",
-          "text": "裡 面。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿 利"
-        },
-        {
-          "chord": "G",
-          "text": "路 亞！"
-        },
-        {
-          "chord": "",
-          "text": "阿 利"
-        },
-        {
-          "chord": "D",
-          "text": "路 亞！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "耶 穌"
-        },
-        {
-          "chord": "",
-          "text": "活"
-        },
-        {
-          "chord": "A7",
-          "text": "在 我"
-        },
-        {
-          "chord": "",
-          "text": "裡"
-        },
-        {
-          "chord": "D",
-          "text": "面。"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "耶 穌"
+            },
+            {
+              "chord": "",
+              "text": "活"
+            },
+            {
+              "chord": "A7",
+              "text": "在 我"
+            },
+            {
+              "chord": "",
+              "text": "裡"
+            },
+            {
+              "chord": "D",
+              "text": "面。"
+            }
+          ]
         }
       ]
     }
@@ -98,7 +102,16 @@
   "metadata": {
     "category": "灵与生命",
     "time": "4/4",
-    "hymn_code": "556466535234323445"
+    "hymn_code": "556466535234323445",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6123",
+        "language": "cn",
+        "category": "h",
+        "number": "6123",
+        "title": "E6123"
+      }
+    ]
   },
   "raw_sections": [
     "阿 利路 亞！阿 利路 亞！",

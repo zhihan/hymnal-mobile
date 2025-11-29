@@ -1,296 +1,304 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/463",
   "title": "成为圣别",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "創 世"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "創 世"
+            },
+            {
+              "chord": "",
+              "text": "之"
+            },
+            {
+              "chord": "F♯m",
+              "text": "前，"
+            },
+            {
+              "chord": "Bm",
+              "text": "蒙 神"
+            },
+            {
+              "chord": "",
+              "text": "揀"
+            },
+            {
+              "chord": "A",
+              "text": "選，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "之"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在 你"
+            },
+            {
+              "chord": "D",
+              "text": "愛 裏，"
+            },
+            {
+              "chord": "",
+              "text": "在"
+            },
+            {
+              "chord": "G",
+              "text": "你 面"
+            },
+            {
+              "chord": "",
+              "text": "前 成 為 聖"
+            },
+            {
+              "chord": "A",
+              "text": "別。"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "前，"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "雖 然"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "G",
+              "text": "們"
+            },
+            {
+              "chord": "D",
+              "text": "常 是"
+            },
+            {
+              "chord": "",
+              "text": "善"
+            },
+            {
+              "chord": "A",
+              "text": "變，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "蒙 神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但 你"
+            },
+            {
+              "chord": "Bm",
+              "text": "憐 憫"
+            },
+            {
+              "chord": "",
+              "text": "和"
+            },
+            {
+              "chord": "Em",
+              "text": "恩 典"
+            },
+            {
+              "chord": "",
+              "text": "卻"
+            },
+            {
+              "chord": "A",
+              "text": "仍 然"
+            },
+            {
+              "chord": "",
+              "text": "眷"
+            },
+            {
+              "chord": "D",
+              "text": "憐。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "揀"
+          "segments": [
+            {
+              "chord": "",
+              "text": "心 清、 心"
+            },
+            {
+              "chord": "F♯m",
+              "text": "輭、 心"
+            },
+            {
+              "chord": "G",
+              "text": "愛 與"
+            },
+            {
+              "chord": "",
+              "text": "心"
+            },
+            {
+              "chord": "A",
+              "text": "安，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "選，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 要"
+            },
+            {
+              "chord": "Bm",
+              "text": "運 用"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "F♯m",
+              "text": "靈， 照"
+            },
+            {
+              "chord": "",
+              "text": "著"
+            },
+            {
+              "chord": "G",
+              "text": "你 的"
+            },
+            {
+              "chord": "",
+              "text": "心"
+            },
+            {
+              "chord": "A",
+              "text": "意，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "心 得"
+            },
+            {
+              "chord": "",
+              "text": "堅 固， 使 我"
+            },
+            {
+              "chord": "D",
+              "text": "活 你"
+            },
+            {
+              "chord": "",
+              "text": "面"
+            },
+            {
+              "chord": "Bm",
+              "text": "前，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "全 然"
+            },
+            {
+              "chord": "G",
+              "text": "聖 別，"
+            },
+            {
+              "chord": "",
+              "text": "得"
+            },
+            {
+              "chord": "A7",
+              "text": "以 完"
+            },
+            {
+              "chord": "",
+              "text": "全。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "在 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们蒙召，虽然年幼，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "愛 裏，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "却受吸引，愿在你前成为圣别。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "信心工作、爱心劳苦"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "你 面"
+          "segments": [
+            {
+              "chord": "",
+              "text": "并盼望忍耐，是我们属灵特质。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "前 成 為 聖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我主，我灵、我心、我全人，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "別。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "雖 然"
+          "segments": [
+            {
+              "chord": "",
+              "text": "全然倾倒你前，竭力操练敬虔，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "靠你宝血，使我履败履站，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "們"
-        },
-        {
-          "chord": "D",
-          "text": "常 是"
-        },
-        {
-          "chord": "",
-          "text": "善"
-        },
-        {
-          "chord": "A",
-          "text": "變，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但 你"
-        },
-        {
-          "chord": "Bm",
-          "text": "憐 憫"
-        },
-        {
-          "chord": "",
-          "text": "和"
-        },
-        {
-          "chord": "Em",
-          "text": "恩 典"
-        },
-        {
-          "chord": "",
-          "text": "卻"
-        },
-        {
-          "chord": "A",
-          "text": "仍 然"
-        },
-        {
-          "chord": "",
-          "text": "眷"
-        },
-        {
-          "chord": "D",
-          "text": "憐。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "心 清、 心"
-        },
-        {
-          "chord": "F♯m",
-          "text": "輭、 心"
-        },
-        {
-          "chord": "G",
-          "text": "愛 與"
-        },
-        {
-          "chord": "",
-          "text": "心"
-        },
-        {
-          "chord": "A",
-          "text": "安，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 要"
-        },
-        {
-          "chord": "Bm",
-          "text": "運 用"
-        },
-        {
-          "chord": "",
-          "text": "我"
-        },
-        {
-          "chord": "F♯m",
-          "text": "靈， 照"
-        },
-        {
-          "chord": "",
-          "text": "著"
-        },
-        {
-          "chord": "G",
-          "text": "你 的"
-        },
-        {
-          "chord": "",
-          "text": "心"
-        },
-        {
-          "chord": "A",
-          "text": "意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Bm",
-          "text": "心 得"
-        },
-        {
-          "chord": "",
-          "text": "堅 固， 使 我"
-        },
-        {
-          "chord": "D",
-          "text": "活 你"
-        },
-        {
-          "chord": "",
-          "text": "面"
-        },
-        {
-          "chord": "Bm",
-          "text": "前，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全 然"
-        },
-        {
-          "chord": "G",
-          "text": "聖 別，"
-        },
-        {
-          "chord": "",
-          "text": "得"
-        },
-        {
-          "chord": "A7",
-          "text": "以 完"
-        },
-        {
-          "chord": "",
-          "text": "全。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们蒙召，虽然年幼，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "却受吸引，愿在你前成为圣别。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "信心工作、爱心劳苦"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "并盼望忍耐，是我们属灵特质。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我主，我灵、我心、我全人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全然倾倒你前，竭力操练敬虔，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "靠你宝血，使我履败履站，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "胜过肉体，全然圣别。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "胜过肉体，全然圣别。"
+            }
+          ]
         }
       ]
     }

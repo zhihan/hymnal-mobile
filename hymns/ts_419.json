@@ -1,340 +1,356 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/419",
   "title": "使我得以走正路",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "求 主"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "求 主"
+            },
+            {
+              "chord": "",
+              "text": "不 要"
+            },
+            {
+              "chord": "D7",
+              "text": "向 我"
+            },
+            {
+              "chord": "G",
+              "text": "掩 面，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "不 要"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使 我"
+            },
+            {
+              "chord": "D",
+              "text": "得 以"
+            },
+            {
+              "chord": "Bm",
+              "text": "走 正"
+            },
+            {
+              "chord": "A7",
+              "text": "路；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "向 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "求 主"
+            },
+            {
+              "chord": "D",
+              "text": "不 斷"
+            },
+            {
+              "chord": "D7",
+              "text": "向 我"
+            },
+            {
+              "chord": "G",
+              "text": "顯 現，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "掩 面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使 我"
+            },
+            {
+              "chord": "D",
+              "text": "能 以"
+            },
+            {
+              "chord": "A7",
+              "text": "盡 旅"
+            },
+            {
+              "chord": "D",
+              "text": "途。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "得 以"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟 有 你 的 面 光 指 引，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "走 正"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 纔 能 放 膽"
+            },
+            {
+              "chord": "Bm",
+              "text": "不 畏"
+            },
+            {
+              "chord": "A7",
+              "text": "懼；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "路；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "求 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "所 以"
+            },
+            {
+              "chord": "D",
+              "text": "求 主"
+            },
+            {
+              "chord": "D7",
+              "text": "你 的"
+            },
+            {
+              "chord": "G",
+              "text": "面 光，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "不 斷"
+          "segments": [
+            {
+              "chord": "",
+              "text": "照 耀"
+            },
+            {
+              "chord": "D",
+              "text": "我 裡"
+            },
+            {
+              "chord": "A7",
+              "text": "常 明"
+            },
+            {
+              "chord": "D",
+              "text": "亮。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "每一举步都是犹豫，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "向 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "四围荆棘与蒺藜；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "顯 現，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "每一定意都是可疑，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "能 以"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不知你隐藏何地。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "盡 旅"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟有你的亲切同在，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "途。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惟 有 你 的 面 光 指 引，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 纔 能 放 膽"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我能放胆往前去；"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "不 畏"
+          "segments": [
+            {
+              "chord": "",
+              "text": "所以求主：你的同在"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "懼；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "显在我身不稍离。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "所 以"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当我要求你的上好，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "求 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我才认识我邪僻；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "你 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当我要行你的旨意，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "面 光，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "照 耀"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我才经历无能力。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我 裡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟有你的荣耀自己，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "常 明"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我能消失在你里；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "亮。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "所以求主：你的荣耀"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "时刻吸引我离地。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "每一举步都是犹豫，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "求主赐我一个心志，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "四围荆棘与蒺藜；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "只要得着你自己；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "每一定意都是可疑，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "求主赐我一个盼望，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "不知你隐藏何地。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "不再让你心忧戚。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "惟有你的亲切同在，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦我的主，我今求你，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "使我能放胆往前去；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "紧紧拥我在你怀里；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "所以求主：你的同在"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "好叫你的甜美自己，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "显在我身不稍离。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当我要求你的上好，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我才认识我邪僻；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当我要行你的旨意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我才经历无能力。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惟有你的荣耀自己，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我能消失在你里；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "所以求主：你的荣耀"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "时刻吸引我离地。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "求主赐我一个心志，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只要得着你自己；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "求主赐我一个盼望，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不再让你心忧戚。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦我的主，我今求你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "紧紧拥我在你怀里；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "好叫你的甜美自己，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "成我力量我安息。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "成我力量我安息。"
+            }
+          ]
         }
       ]
     }

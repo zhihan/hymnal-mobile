@@ -1,276 +1,280 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/10",
   "title": "当向耶和华大声欢呼",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "普 天"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "普 天"
+            },
+            {
+              "chord": "",
+              "text": "之 下 當 向 耶 和 華"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "之 下 當 向 耶 和 華"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "大 聲"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "大 聲"
+            },
+            {
+              "chord": "D",
+              "text": "喧"
+            },
+            {
+              "chord": "A7",
+              "text": "嚷 歡"
+            },
+            {
+              "chord": "D",
+              "text": "呼！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "喧"
+          "segments": [
+            {
+              "chord": "",
+              "text": "應 當 樂 意 事 奉 耶 和 華，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "嚷 歡"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "當 來"
+            },
+            {
+              "chord": "D",
+              "text": "向"
+            },
+            {
+              "chord": "A7",
+              "text": "祂 歌"
+            },
+            {
+              "chord": "D",
+              "text": "頌。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "呼！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "應 當 樂 意 事 奉 耶 和 華，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "當 來"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "你 們"
+            },
+            {
+              "chord": "",
+              "text": "當 曉 得 祂 是 神，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "向"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "乃 是 祂 造 的，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "祂 歌"
+          "segments": [
+            {
+              "chord": "",
+              "text": "也"
+            },
+            {
+              "chord": "G",
+              "text": "是 屬"
+            },
+            {
+              "chord": "",
+              "text": "祂 的；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "頌。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "你 們"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "是 祂 民，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "當 曉 得 祂 是 神，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "也 是"
+            },
+            {
+              "chord": "",
+              "text": "祂 草 場"
+            },
+            {
+              "chord": "A",
+              "text": "的"
+            },
+            {
+              "chord": "D",
+              "text": "羊。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "乃 是 祂 造 的，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "也"
+          "segments": [
+            {
+              "chord": "",
+              "text": "應 當 稱 謝 進 入 祂 的 門，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "是 屬"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "讚 美"
+            },
+            {
+              "chord": "D",
+              "text": "進"
+            },
+            {
+              "chord": "A7",
+              "text": "入 祂"
+            },
+            {
+              "chord": "D",
+              "text": "的 院。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "祂 的；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "應 當 同 聲 感 謝 耶 和"
+            },
+            {
+              "chord": "G",
+              "text": "華，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "是 祂 民，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "也 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "稱"
+            },
+            {
+              "chord": "D",
+              "text": "頌"
+            },
+            {
+              "chord": "A7",
+              "text": "祂 的"
+            },
+            {
+              "chord": "D",
+              "text": "名。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "祂 草 場"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因 祂 本 為"
+            },
+            {
+              "chord": "G",
+              "text": "善；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂"
+            },
+            {
+              "chord": "E",
+              "text": "的 慈"
+            },
+            {
+              "chord": "",
+              "text": "愛"
+            },
+            {
+              "chord": "E7",
+              "text": "是 存"
+            },
+            {
+              "chord": "A",
+              "text": "到 永"
+            },
+            {
+              "chord": "",
+              "text": "遠，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "羊。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "應 當 稱 謝 進 入 祂 的 門，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "讚 美"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "祂 的"
+            },
+            {
+              "chord": "",
+              "text": "信 實"
+            },
+            {
+              "chord": "G",
+              "text": "向 我"
+            },
+            {
+              "chord": "Em",
+              "text": "們"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "進"
-        },
-        {
-          "chord": "A7",
-          "text": "入 祂"
-        },
-        {
-          "chord": "D",
-          "text": "的 院。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "應 當 同 聲 感 謝 耶 和"
-        },
-        {
-          "chord": "G",
-          "text": "華，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "稱"
-        },
-        {
-          "chord": "D",
-          "text": "頌"
-        },
-        {
-          "chord": "A7",
-          "text": "祂 的"
-        },
-        {
-          "chord": "D",
-          "text": "名。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因 祂 本 為"
-        },
-        {
-          "chord": "G",
-          "text": "善；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂"
-        },
-        {
-          "chord": "E",
-          "text": "的 慈"
-        },
-        {
-          "chord": "",
-          "text": "愛"
-        },
-        {
-          "chord": "E7",
-          "text": "是 存"
-        },
-        {
-          "chord": "A",
-          "text": "到 永"
-        },
-        {
-          "chord": "",
-          "text": "遠，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "祂 的"
-        },
-        {
-          "chord": "",
-          "text": "信 實"
-        },
-        {
-          "chord": "G",
-          "text": "向 我"
-        },
-        {
-          "chord": "Em",
-          "text": "們"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一"
-        },
-        {
-          "chord": "D",
-          "text": "直"
-        },
-        {
-          "chord": "A7",
-          "text": "到 萬"
-        },
-        {
-          "chord": "D",
-          "text": "代。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一"
+            },
+            {
+              "chord": "D",
+              "text": "直"
+            },
+            {
+              "chord": "A7",
+              "text": "到 萬"
+            },
+            {
+              "chord": "D",
+              "text": "代。"
+            }
+          ]
         }
       ]
     }

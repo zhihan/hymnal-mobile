@@ -1,304 +1,320 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/316",
   "title": "恩主你是我至爱",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "恩 主，"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "恩 主，"
+            },
+            {
+              "chord": "",
+              "text": "你 是 我 至 愛，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你 是 我 至 愛，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 的"
+            },
+            {
+              "chord": "B",
+              "text": "愛 情"
+            },
+            {
+              "chord": "",
+              "text": "都 歸"
+            },
+            {
+              "chord": "Em",
+              "text": "你，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em7",
+              "text": "當 你"
+            },
+            {
+              "chord": "",
+              "text": "愛 充 滿 我"
+            },
+            {
+              "chord": "A",
+              "text": "心，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "我 在"
+            },
+            {
+              "chord": "",
+              "text": "愛 裡 得 安"
+            },
+            {
+              "chord": "D",
+              "text": "息。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主， 我 愛 你 的 自 己，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不 是"
+            },
+            {
+              "chord": "B",
+              "text": "你 所"
+            },
+            {
+              "chord": "",
+              "text": "作 所"
+            },
+            {
+              "chord": "Em",
+              "text": "賜，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em7",
+              "text": "無 一"
+            },
+            {
+              "chord": "",
+              "text": "能 與 你 相"
+            },
+            {
+              "chord": "A",
+              "text": "匹，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "我 今"
+            },
+            {
+              "chord": "",
+              "text": "歡 樂 的 愛"
+            },
+            {
+              "chord": "D",
+              "text": "你。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我 的"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "主， 我"
+            },
+            {
+              "chord": "",
+              "text": "曾 享 受 許"
+            },
+            {
+              "chord": "A",
+              "text": "多 事"
+            },
+            {
+              "chord": "",
+              "text": "物，"
+            }
+          ]
         },
         {
-          "chord": "B",
-          "text": "愛 情"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "但 我"
+            },
+            {
+              "chord": "",
+              "text": "現 今 歡 然"
+            },
+            {
+              "chord": "G",
+              "text": "全 丟"
+            },
+            {
+              "chord": "Gm",
+              "text": "棄；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "都 歸"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 不"
+            },
+            {
+              "chord": "",
+              "text": "再 愛 戀 別 的 事"
+            },
+            {
+              "chord": "B7",
+              "text": "物，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "你，"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "我 將"
+            },
+            {
+              "chord": "",
+              "text": "上 好"
+            },
+            {
+              "chord": "A7",
+              "text": "愛 情"
+            },
+            {
+              "chord": "",
+              "text": "歸"
+            },
+            {
+              "chord": "D",
+              "text": "你。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Em7",
-          "text": "當 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "有何能使我眷恋，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "愛 充 滿 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "若非你作它实际；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "心，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我心单纯的祈求，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "只望全人充满你。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "恩主，你是我至爱，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的爱情都归你，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "当你爱充满我心，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我在爱里得安息。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A7",
-          "text": "我 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，我曾享受许多事物，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "愛 裡 得 安"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但我现今欢然全丢弃；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "息。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主， 我 愛 你 的 自 己，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我不再爱恋别的事物，"
+            }
+          ]
         },
         {
-          "chord": "B",
-          "text": "你 所"
-        },
-        {
-          "chord": "",
-          "text": "作 所"
-        },
-        {
-          "chord": "Em",
-          "text": "賜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em7",
-          "text": "無 一"
-        },
-        {
-          "chord": "",
-          "text": "能 與 你 相"
-        },
-        {
-          "chord": "A",
-          "text": "匹，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "我 今"
-        },
-        {
-          "chord": "",
-          "text": "歡 樂 的 愛"
-        },
-        {
-          "chord": "D",
-          "text": "你。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Bm",
-          "text": "主， 我"
-        },
-        {
-          "chord": "",
-          "text": "曾 享 受 許"
-        },
-        {
-          "chord": "A",
-          "text": "多 事"
-        },
-        {
-          "chord": "",
-          "text": "物，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "但 我"
-        },
-        {
-          "chord": "",
-          "text": "現 今 歡 然"
-        },
-        {
-          "chord": "G",
-          "text": "全 丟"
-        },
-        {
-          "chord": "Gm",
-          "text": "棄；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "我 不"
-        },
-        {
-          "chord": "",
-          "text": "再 愛 戀 別 的 事"
-        },
-        {
-          "chord": "B7",
-          "text": "物，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "我 將"
-        },
-        {
-          "chord": "",
-          "text": "上 好"
-        },
-        {
-          "chord": "A7",
-          "text": "愛 情"
-        },
-        {
-          "chord": "",
-          "text": "歸"
-        },
-        {
-          "chord": "D",
-          "text": "你。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有何能使我眷恋，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "若非你作它实际；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我心单纯的祈求，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只望全人充满你。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "恩主，你是我至爱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的爱情都归你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当你爱充满我心，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我在爱里得安息。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，我曾享受许多事物，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但我现今欢然全丢弃；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我不再爱恋别的事物，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我将上好爱情归你。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我将上好爱情归你。"
+            }
+          ]
         }
       ]
     }
@@ -306,7 +322,16 @@
   "metadata": {
     "category": "爱慕耶稣",
     "time": "4/4",
-    "hymn_code": "54312351234562"
+    "hymn_code": "54312351234562",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/118",
+        "language": "cn",
+        "category": "ns",
+        "number": "118",
+        "title": "NS118"
+      }
+    ]
   },
   "raw_sections": [
     "恩 主，你 是 我 至 愛，",

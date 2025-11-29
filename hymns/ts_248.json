@@ -1,364 +1,384 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/248",
   "title": "与神和好，由神而生",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "興 起！"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "興 起！"
+            },
+            {
+              "chord": "",
+              "text": "我 魂， 興"
+            },
+            {
+              "chord": "D",
+              "text": "起！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 魂， 興"
+          "segments": [
+            {
+              "chord": "",
+              "text": "擺"
+            },
+            {
+              "chord": "Em",
+              "text": "脫 懼"
+            },
+            {
+              "chord": "D",
+              "text": "怕 蒙"
+            },
+            {
+              "chord": "G",
+              "text": "蔽；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "起！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "擺"
+          "segments": [
+            {
+              "chord": "",
+              "text": "救 主 流 血 作"
+            },
+            {
+              "chord": "D",
+              "text": "祭，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "脫 懼"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神"
+            },
+            {
+              "chord": "Em",
+              "text": "前 我"
+            },
+            {
+              "chord": "D",
+              "text": "蒙 稱"
+            },
+            {
+              "chord": "G",
+              "text": "義。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "怕 蒙"
+          "segments": [
+            {
+              "chord": "",
+              "text": "寶 座 之 前 擔"
+            },
+            {
+              "chord": "C",
+              "text": "保 確"
+            },
+            {
+              "chord": "",
+              "text": "立，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "蔽；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "救 主 流 血 作"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "Am",
+              "text": "得 安"
+            },
+            {
+              "chord": "D",
+              "text": "穩 在"
+            },
+            {
+              "chord": "Em",
+              "text": "神 手"
+            },
+            {
+              "chord": "G",
+              "text": "裏，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "祭，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "C",
+              "text": "得 安"
+            },
+            {
+              "chord": "",
+              "text": "穩 在"
+            },
+            {
+              "chord": "Am",
+              "text": "神"
+            },
+            {
+              "chord": "D7",
+              "text": "手"
+            },
+            {
+              "chord": "G",
+              "text": "裏。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "救主活到永久，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "前 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在天为我代求；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "蒙 稱"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂爱赎回万有，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "義。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "寶 座 之 前 擔"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂血满足要求；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "保 確"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为救万族、万民而流，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "立，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "施恩座前功效不朽，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "得 安"
+          "segments": [
+            {
+              "chord": "",
+              "text": "施恩座前功效不朽。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "加略十字架上，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "穩 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "手足、肋旁受创；"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "神 手"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂行父旨不忘，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "裏，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "代求，将罪担当；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "得 安"
+          "segments": [
+            {
+              "chord": "",
+              "text": "宽容、赦免无知顶撞，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "穩 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "蒙赎罪人免去死亡，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "蒙赎罪人免去死亡。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祷告蒙父垂听，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "手"
+          "segments": [
+            {
+              "chord": "",
+              "text": "受膏基督高升；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "裏。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "救赎大功完成，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "父来称许、印证；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂灵应允宝血之声，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "宣告我已由神而生，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "宣告我已由神而生。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "救主活到永久，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我今与神和好，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在天为我代求；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "知祂赦免、宽饶；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "祂爱赎回万有，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "儿女将父倚靠，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "祂血满足要求；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "忧虑不再搅扰；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "为救万族、万民而流，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "凭信坦然进前宣告："
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "施恩座前功效不朽，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿爸，父阿，与你和好，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "施恩座前功效不朽。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "加略十字架上，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "手足、肋旁受创；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂行父旨不忘，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "代求，将罪担当；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "宽容、赦免无知顶撞，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "蒙赎罪人免去死亡，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "蒙赎罪人免去死亡。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祷告蒙父垂听，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "受膏基督高升；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "救赎大功完成，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "父来称许、印证；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂灵应允宝血之声，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "宣告我已由神而生，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "宣告我已由神而生。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我今与神和好，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "知祂赦免、宽饶；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "儿女将父倚靠，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "忧虑不再搅扰；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "凭信坦然进前宣告："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿爸，父阿，与你和好，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿爸，父阿，与你和好。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿爸，父阿，与你和好。"
+            }
+          ]
         }
       ]
     }

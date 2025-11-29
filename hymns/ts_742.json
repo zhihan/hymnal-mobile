@@ -1,460 +1,484 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/742",
   "title": "为着祂的见证",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "今 日"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "今 日"
+            },
+            {
+              "chord": "",
+              "text": "的 基"
+            },
+            {
+              "chord": "F",
+              "text": "督 教，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 基"
+          "segments": [
+            {
+              "chord": "",
+              "text": "死"
+            },
+            {
+              "chord": "D",
+              "text": "沉， 分"
+            },
+            {
+              "chord": "D7",
+              "text": "裂， 無"
+            },
+            {
+              "chord": "G",
+              "text": "望，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "督 教，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "死"
+          "segments": [
+            {
+              "chord": "",
+              "text": "它 的"
+            },
+            {
+              "chord": "C",
+              "text": "一 切"
+            },
+            {
+              "chord": "",
+              "text": "光 景，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "沉， 分"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不"
+            },
+            {
+              "chord": "F",
+              "text": "過 證"
+            },
+            {
+              "chord": "",
+              "text": "實 指"
+            },
+            {
+              "chord": "G",
+              "text": "明："
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "裂， 無"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只 有"
+            },
+            {
+              "chord": "Am",
+              "text": "基 督"
+            },
+            {
+              "chord": "F",
+              "text": "自 己，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "望，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "它 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "顯"
+            },
+            {
+              "chord": "G",
+              "text": "在 真"
+            },
+            {
+              "chord": "",
+              "text": "實 合"
+            },
+            {
+              "chord": "C",
+              "text": "一，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "一 切"
+          "segments": [
+            {
+              "chord": "",
+              "text": "能 使 我 們 生 活"
+            },
+            {
+              "chord": "G",
+              "text": "充 實"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "光 景，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "而"
+            },
+            {
+              "chord": "G7",
+              "text": "有 意"
+            },
+            {
+              "chord": "C",
+              "text": "義。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们清楚看见："
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "過 證"
+          "segments": [
+            {
+              "chord": "",
+              "text": "思想，情感，意志，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "實 指"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一切从魂东西，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "明："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不能事奉基督。"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "基 督"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们被神创造，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "自 己，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "顯"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为作神的器皿，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "在 真"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不断灵被充满，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "實 合"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今活着是基督。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，我们在老旧宗教里"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "一，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "能 使 我 們 生 活"
+          "segments": [
+            {
+              "chord": "",
+              "text": "已够久，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "充 實"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "而"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生活好像‘属灵’，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "有 意"
+          "segments": [
+            {
+              "chord": "",
+              "text": "起初爱心却失，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "義。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但主仍许悔改，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "活在生命里面，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "成为‘疯狂爱人’，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "只为着你召会。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我们清楚看见："
+          "segments": [
+            {
+              "chord": "",
+              "text": "为着主的恢复，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们须被分别，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "脱离世界迷惑，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "弃绝今生骄傲；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们须为基督，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "作透亮的器皿，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "使全地上的人，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "都看见神荣耀！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "思想，情感，意志，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "巴比伦已倾倒，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "这是无可置疑，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "快快从她出来，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "弟兄们，留心听！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "守住地方立场，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "为着基督站住；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们绑在一起，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "为着祂的见证。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "一切从魂东西，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "在混乱的今日，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "不能事奉基督。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "层云依旧密布，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我们被神创造，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主！求赐晴天，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "为作神的器皿，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "带进你的国度；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "不断灵被充满，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣，惟一太阳；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "今活着是基督。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "召会，惟一月亮，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "主，我们在老旧宗教里"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦！新耶路撒冷，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "已够久，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生活好像‘属灵’，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "起初爱心却失，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但主仍许悔改，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "活在生命里面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "成为‘疯狂爱人’，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只为着你召会。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为着主的恢复，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们须被分别，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "脱离世界迷惑，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "弃绝今生骄傲；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们须为基督，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作透亮的器皿，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使全地上的人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "都看见神荣耀！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "巴比伦已倾倒，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "这是无可置疑，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "快快从她出来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "弟兄们，留心听！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "守住地方立场，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为着基督站住；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们绑在一起，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为着祂的见证。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在混乱的今日，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "层云依旧密布，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主！求赐晴天，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "带进你的国度；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣，惟一太阳；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "召会，惟一月亮，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦！新耶路撒冷，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今显出她荣耀。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今显出她荣耀。"
+            }
+          ]
         }
       ]
     }

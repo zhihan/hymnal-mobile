@@ -1,324 +1,332 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/709",
   "title": "安家在召会",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "安 家"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "安 家"
+            },
+            {
+              "chord": "",
+              "text": "在 召"
+            },
+            {
+              "chord": "G7",
+              "text": "會，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "在 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不 再"
+            },
+            {
+              "chord": "C",
+              "text": "無 家"
+            },
+            {
+              "chord": "",
+              "text": "可 歸，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "會，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 心"
+            },
+            {
+              "chord": "G",
+              "text": "終 日"
+            },
+            {
+              "chord": "",
+              "text": "喜"
+            },
+            {
+              "chord": "A",
+              "text": "樂 又"
+            },
+            {
+              "chord": "",
+              "text": "滿"
+            },
+            {
+              "chord": "D7",
+              "text": "足；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "基"
+            },
+            {
+              "chord": "G",
+              "text": "督 作"
+            },
+            {
+              "chord": "",
+              "text": "生"
+            },
+            {
+              "chord": "G7",
+              "text": "命，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "一 切"
+            },
+            {
+              "chord": "C",
+              "text": "掙 扎"
+            },
+            {
+              "chord": "",
+              "text": "全 停，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿 利"
+            },
+            {
+              "chord": "G",
+              "text": "路 亞！"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "D7",
+              "text": "在 家"
+            },
+            {
+              "chord": "",
+              "text": "居"
+            },
+            {
+              "chord": "G",
+              "text": "住！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "D7",
+              "text": "有 家─"
+            },
+            {
+              "chord": "",
+              "text": "召"
+            },
+            {
+              "chord": "G",
+              "text": "會， 我"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "今"
+            },
+            {
+              "chord": "Em",
+              "text": "不 再"
+            },
+            {
+              "chord": "",
+              "text": "感"
+            },
+            {
+              "chord": "A7",
+              "text": "無 家"
+            },
+            {
+              "chord": "",
+              "text": "可"
+            },
+            {
+              "chord": "D7",
+              "text": "歸； 我"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "一 生"
+            },
+            {
+              "chord": "",
+              "text": "一"
+            },
+            {
+              "chord": "G7",
+              "text": "世 高"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "聲"
+            },
+            {
+              "chord": "C",
+              "text": "頌 讚"
+            },
+            {
+              "chord": "",
+              "text": "不 止， 阿"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "利"
+            },
+            {
+              "chord": "G",
+              "text": "路 亞！"
+            },
+            {
+              "chord": "",
+              "text": "基"
+            },
+            {
+              "chord": "D7",
+              "text": "督 與"
+            },
+            {
+              "chord": "",
+              "text": "召"
+            },
+            {
+              "chord": "G",
+              "text": "會！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "不 再"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神已得安息，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "無 家"
+          "segments": [
+            {
+              "chord": "",
+              "text": "这是祂的住处，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "可 歸，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 心"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂心终日喜乐又满足；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "終 日"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂家已恢复，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "喜"
+          "segments": [
+            {
+              "chord": "",
+              "text": "撒但别想来侵，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "樂 又"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在此祂的荣耀全显出。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "滿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神有家─召会，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "足；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神今不再感无家可归；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "督 作"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我一生一世"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "高声颂赞不止，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "命，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一 切"
-        },
-        {
-          "chord": "C",
-          "text": "掙 扎"
-        },
-        {
-          "chord": "",
-          "text": "全 停，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿 利"
-        },
-        {
-          "chord": "G",
-          "text": "路 亞！"
-        },
-        {
-          "chord": "",
-          "text": "我"
-        },
-        {
-          "chord": "D7",
-          "text": "在 家"
-        },
-        {
-          "chord": "",
-          "text": "居"
-        },
-        {
-          "chord": "G",
-          "text": "住！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
-        },
-        {
-          "chord": "D7",
-          "text": "有 家─"
-        },
-        {
-          "chord": "",
-          "text": "召"
-        },
-        {
-          "chord": "G",
-          "text": "會， 我"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今"
-        },
-        {
-          "chord": "Em",
-          "text": "不 再"
-        },
-        {
-          "chord": "",
-          "text": "感"
-        },
-        {
-          "chord": "A7",
-          "text": "無 家"
-        },
-        {
-          "chord": "",
-          "text": "可"
-        },
-        {
-          "chord": "D7",
-          "text": "歸； 我"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "一 生"
-        },
-        {
-          "chord": "",
-          "text": "一"
-        },
-        {
-          "chord": "G7",
-          "text": "世 高"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "聲"
-        },
-        {
-          "chord": "C",
-          "text": "頌 讚"
-        },
-        {
-          "chord": "",
-          "text": "不 止， 阿"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "利"
-        },
-        {
-          "chord": "G",
-          "text": "路 亞！"
-        },
-        {
-          "chord": "",
-          "text": "基"
-        },
-        {
-          "chord": "D7",
-          "text": "督 與"
-        },
-        {
-          "chord": "",
-          "text": "召"
-        },
-        {
-          "chord": "G",
-          "text": "會！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神已得安息，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "这是祂的住处，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂心终日喜乐又满足；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂家已恢复，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "撒但别想来侵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在此祂的荣耀全显出。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神有家─召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神今不再感无家可归；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我一生一世"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "高声颂赞不止，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！基督与召会！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！基督与召会！"
+            }
+          ]
         }
       ]
     }
@@ -326,7 +334,16 @@
   "metadata": {
     "category": "教会的生活",
     "time": "3/4",
-    "hymn_code": "55123176444"
+    "hymn_code": "55123176444",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1233",
+        "language": "cn",
+        "category": "h",
+        "number": "1233",
+        "title": "E1233"
+      }
+    ]
   },
   "raw_sections": [
     "安 家在 召會，",

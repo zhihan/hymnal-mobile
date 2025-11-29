@@ -1,548 +1,568 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/824",
   "title": "人生宛如走马看花",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "有 所"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "有 所"
+            },
+            {
+              "chord": "",
+              "text": "得─"
+            },
+            {
+              "chord": "C♯m7",
+              "text": "多"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "得─"
+          "segments": [
+            {
+              "chord": "",
+              "text": "少"
+            },
+            {
+              "chord": "F♯7",
+              "text": "東 西"
+            },
+            {
+              "chord": "",
+              "text": "你 夢"
+            },
+            {
+              "chord": "Bm",
+              "text": "寐 以"
+            },
+            {
+              "chord": "",
+              "text": "求，"
+            },
+            {
+              "chord": "G",
+              "text": "衣"
+            }
+          ]
         },
         {
-          "chord": "C♯m7",
-          "text": "多"
+          "segments": [
+            {
+              "chord": "",
+              "text": "食"
+            },
+            {
+              "chord": "A7",
+              "text": "住 行"
+            },
+            {
+              "chord": "",
+              "text": "育 樂"
+            },
+            {
+              "chord": "D",
+              "text": "樣 樣"
+            },
+            {
+              "chord": "",
+              "text": "有； 等"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "到 得"
+            },
+            {
+              "chord": "Em",
+              "text": "手， 不"
+            },
+            {
+              "chord": "G",
+              "text": "過 如"
+            },
+            {
+              "chord": "D",
+              "text": "此。 有"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "少"
+          "segments": [
+            {
+              "chord": "",
+              "text": "所 事─"
+            },
+            {
+              "chord": "C♯m7",
+              "text": "興 高"
+            }
+          ]
         },
         {
-          "chord": "F♯7",
-          "text": "東 西"
+          "segments": [
+            {
+              "chord": "F♯7",
+              "text": "采 烈"
+            },
+            {
+              "chord": "",
+              "text": "不 過"
+            },
+            {
+              "chord": "Bm",
+              "text": "一 陣"
+            },
+            {
+              "chord": "",
+              "text": "子，"
+            },
+            {
+              "chord": "G",
+              "text": "喜 新"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你 夢"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "厭 舊"
+            },
+            {
+              "chord": "",
+              "text": "又 再"
+            },
+            {
+              "chord": "D",
+              "text": "絞 腦"
+            },
+            {
+              "chord": "",
+              "text": "汁； 日"
+            },
+            {
+              "chord": "Bm",
+              "text": "光"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "寐 以"
-        },
-        {
-          "chord": "",
-          "text": "求，"
-        },
-        {
-          "chord": "G",
-          "text": "衣"
+          "segments": [
+            {
+              "chord": "",
+              "text": "之"
+            },
+            {
+              "chord": "Em",
+              "text": "下， 並"
+            },
+            {
+              "chord": "G",
+              "text": "無 新"
+            },
+            {
+              "chord": "D",
+              "text": "事。"
+            },
+            {
+              "chord": "C♯m7",
+              "text": "人"
+            },
+            {
+              "chord": "F♯7",
+              "text": "生"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "食"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "宛"
+            },
+            {
+              "chord": "A",
+              "text": "如"
+            },
+            {
+              "chord": "G",
+              "text": "走 馬"
+            },
+            {
+              "chord": "",
+              "text": "看"
+            },
+            {
+              "chord": "Em",
+              "text": "花， 來"
+            },
+            {
+              "chord": "A",
+              "text": "去"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "住 行"
+          "segments": [
+            {
+              "chord": "",
+              "text": "匆"
+            },
+            {
+              "chord": "D",
+              "text": "匆，"
+            },
+            {
+              "chord": "C♯m7",
+              "text": "天"
+            },
+            {
+              "chord": "F♯7",
+              "text": "天"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "育 樂"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "忙"
+            },
+            {
+              "chord": "A",
+              "text": "西"
+            },
+            {
+              "chord": "G",
+              "text": "忙 東，"
+            },
+            {
+              "chord": "",
+              "text": "到"
+            },
+            {
+              "chord": "Em",
+              "text": "頭"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "樣 樣"
+          "segments": [
+            {
+              "chord": "",
+              "text": "來"
+            },
+            {
+              "chord": "A",
+              "text": "是 虛"
+            },
+            {
+              "chord": "D",
+              "text": "空 的"
+            },
+            {
+              "chord": "",
+              "text": "虛 空。 你 尋"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "有； 等"
+          "segments": [
+            {
+              "chord": "",
+              "text": "求─"
+            },
+            {
+              "chord": "C♯m7",
+              "text": "要 看"
+            },
+            {
+              "chord": "F♯7",
+              "text": "有"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "何 能 叫"
+            },
+            {
+              "chord": "Bm",
+              "text": "你 滿"
+            },
+            {
+              "chord": "",
+              "text": "足，"
+            },
+            {
+              "chord": "G",
+              "text": "扎 扎"
+            },
+            {
+              "chord": "A7",
+              "text": "實"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "實 非 敷"
+            },
+            {
+              "chord": "D",
+              "text": "衍 了"
+            },
+            {
+              "chord": "",
+              "text": "事， 能"
+            },
+            {
+              "chord": "Bm",
+              "text": "解 決"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "你 心"
+            },
+            {
+              "chord": "G",
+              "text": "中 苦"
+            },
+            {
+              "chord": "D",
+              "text": "楚。"
+            },
+            {
+              "chord": "C♯m7",
+              "text": "不"
+            },
+            {
+              "chord": "F♯7",
+              "text": "錯，"
+            },
+            {
+              "chord": "Bm",
+              "text": "是"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Bm",
-          "text": "到 得"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "有"
+            },
+            {
+              "chord": "G",
+              "text": "一"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "手， 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "樣 你"
+            },
+            {
+              "chord": "Em",
+              "text": "從 來"
+            },
+            {
+              "chord": "A",
+              "text": "沒 有"
+            },
+            {
+              "chord": "D",
+              "text": "過，"
+            },
+            {
+              "chord": "C♯m7",
+              "text": "你"
+            },
+            {
+              "chord": "F♯7",
+              "text": "所"
+            },
+            {
+              "chord": "Bm",
+              "text": "可"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "過 如"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "能"
+            },
+            {
+              "chord": "G",
+              "text": "企 求"
+            },
+            {
+              "chord": "",
+              "text": "的"
+            },
+            {
+              "chord": "Em",
+              "text": "都 可"
+            },
+            {
+              "chord": "A",
+              "text": "在"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "此。 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂"
+            },
+            {
+              "chord": "D",
+              "text": "身 上"
+            },
+            {
+              "chord": "",
+              "text": "得 著。 祂 是 主─"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C♯m7",
+              "text": "祂 是"
+            },
+            {
+              "chord": "F♯7",
+              "text": "何 等"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "的 豐"
+            },
+            {
+              "chord": "Bm",
+              "text": "富 實"
+            },
+            {
+              "chord": "",
+              "text": "際，"
+            },
+            {
+              "chord": "G",
+              "text": "我 的"
+            },
+            {
+              "chord": "A7",
+              "text": "無 聊"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "已 消"
+            },
+            {
+              "chord": "D",
+              "text": "蹤 匿"
+            },
+            {
+              "chord": "",
+              "text": "跡。 祂"
+            },
+            {
+              "chord": "Bm",
+              "text": "填 滿"
+            },
+            {
+              "chord": "Em",
+              "text": "了"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "G",
+              "text": "的 空"
+            },
+            {
+              "chord": "D",
+              "text": "虛。"
+            },
+            {
+              "chord": "Bm",
+              "text": "哦 主"
+            },
+            {
+              "chord": "",
+              "text": "耶"
+            },
+            {
+              "chord": "Em",
+              "text": "穌，"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
-        {
-          "chord": "",
-          "text": "所 事─"
-        },
-        {
-          "chord": "C♯m7",
-          "text": "興 高"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "F♯7",
-          "text": "采 烈"
-        },
-        {
-          "chord": "",
-          "text": "不 過"
-        },
-        {
-          "chord": "Bm",
-          "text": "一 陣"
-        },
-        {
-          "chord": "",
-          "text": "子，"
-        },
-        {
-          "chord": "G",
-          "text": "喜 新"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "厭 舊"
-        },
-        {
-          "chord": "",
-          "text": "又 再"
-        },
-        {
-          "chord": "D",
-          "text": "絞 腦"
-        },
-        {
-          "chord": "",
-          "text": "汁； 日"
-        },
-        {
-          "chord": "Bm",
-          "text": "光"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "之"
-        },
-        {
-          "chord": "Em",
-          "text": "下， 並"
-        },
-        {
-          "chord": "G",
-          "text": "無 新"
-        },
-        {
-          "chord": "D",
-          "text": "事。"
-        },
-        {
-          "chord": "C♯m7",
-          "text": "人"
-        },
-        {
-          "chord": "F♯7",
-          "text": "生"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Bm",
-          "text": "宛"
-        },
-        {
-          "chord": "A",
-          "text": "如"
-        },
-        {
-          "chord": "G",
-          "text": "走 馬"
-        },
-        {
-          "chord": "",
-          "text": "看"
-        },
-        {
-          "chord": "Em",
-          "text": "花， 來"
-        },
-        {
-          "chord": "A",
-          "text": "去"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "匆"
-        },
-        {
-          "chord": "D",
-          "text": "匆，"
-        },
-        {
-          "chord": "C♯m7",
-          "text": "天"
-        },
-        {
-          "chord": "F♯7",
-          "text": "天"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Bm",
-          "text": "忙"
-        },
-        {
-          "chord": "A",
-          "text": "西"
-        },
-        {
-          "chord": "G",
-          "text": "忙 東，"
-        },
-        {
-          "chord": "",
-          "text": "到"
-        },
-        {
-          "chord": "Em",
-          "text": "頭"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "來"
-        },
-        {
-          "chord": "A",
-          "text": "是 虛"
-        },
-        {
-          "chord": "D",
-          "text": "空 的"
-        },
-        {
-          "chord": "",
-          "text": "虛 空。 你 尋"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "求─"
-        },
-        {
-          "chord": "C♯m7",
-          "text": "要 看"
-        },
-        {
-          "chord": "F♯7",
-          "text": "有"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何 能 叫"
-        },
-        {
-          "chord": "Bm",
-          "text": "你 滿"
-        },
-        {
-          "chord": "",
-          "text": "足，"
-        },
-        {
-          "chord": "G",
-          "text": "扎 扎"
-        },
-        {
-          "chord": "A7",
-          "text": "實"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "實 非 敷"
-        },
-        {
-          "chord": "D",
-          "text": "衍 了"
-        },
-        {
-          "chord": "",
-          "text": "事， 能"
-        },
-        {
-          "chord": "Bm",
-          "text": "解 決"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "你 心"
-        },
-        {
-          "chord": "G",
-          "text": "中 苦"
-        },
-        {
-          "chord": "D",
-          "text": "楚。"
-        },
-        {
-          "chord": "C♯m7",
-          "text": "不"
-        },
-        {
-          "chord": "F♯7",
-          "text": "錯，"
-        },
-        {
-          "chord": "Bm",
-          "text": "是"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "有"
-        },
-        {
-          "chord": "G",
-          "text": "一"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "樣 你"
-        },
-        {
-          "chord": "Em",
-          "text": "從 來"
-        },
-        {
-          "chord": "A",
-          "text": "沒 有"
-        },
-        {
-          "chord": "D",
-          "text": "過，"
-        },
-        {
-          "chord": "C♯m7",
-          "text": "你"
-        },
-        {
-          "chord": "F♯7",
-          "text": "所"
-        },
-        {
-          "chord": "Bm",
-          "text": "可"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "能"
-        },
-        {
-          "chord": "G",
-          "text": "企 求"
-        },
-        {
-          "chord": "",
-          "text": "的"
-        },
-        {
-          "chord": "Em",
-          "text": "都 可"
-        },
-        {
-          "chord": "A",
-          "text": "在"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂"
-        },
-        {
-          "chord": "D",
-          "text": "身 上"
-        },
-        {
-          "chord": "",
-          "text": "得 著。 祂 是 主─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C♯m7",
-          "text": "祂 是"
-        },
-        {
-          "chord": "F♯7",
-          "text": "何 等"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "的 豐"
-        },
-        {
-          "chord": "Bm",
-          "text": "富 實"
-        },
-        {
-          "chord": "",
-          "text": "際，"
-        },
-        {
-          "chord": "G",
-          "text": "我 的"
-        },
-        {
-          "chord": "A7",
-          "text": "無 聊"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "已 消"
-        },
-        {
-          "chord": "D",
-          "text": "蹤 匿"
-        },
-        {
-          "chord": "",
-          "text": "跡。 祂"
-        },
-        {
-          "chord": "Bm",
-          "text": "填 滿"
-        },
-        {
-          "chord": "Em",
-          "text": "了"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
-        },
-        {
-          "chord": "G",
-          "text": "的 空"
-        },
-        {
-          "chord": "D",
-          "text": "虛。"
-        },
-        {
-          "chord": "Bm",
-          "text": "哦 主"
-        },
-        {
-          "chord": "",
-          "text": "耶"
-        },
-        {
-          "chord": "Em",
-          "text": "穌，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你"
-        },
-        {
-          "chord": "G",
-          "text": "是 實"
-        },
-        {
-          "chord": "D",
-          "text": "際！"
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "G",
+              "text": "是 實"
+            },
+            {
+              "chord": "D",
+              "text": "際！"
+            }
+          ]
         }
       ]
     }
@@ -550,7 +570,16 @@
   "metadata": {
     "category": "事奉与福音",
     "time": "4/4",
-    "hymn_code": "211345671766"
+    "hymn_code": "211345671766",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6824",
+        "language": "cn",
+        "category": "h",
+        "number": "6824",
+        "title": "E6824"
+      }
+    ]
   },
   "raw_sections": [
     "有 所得─多",

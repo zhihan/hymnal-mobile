@@ -1,484 +1,508 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/723",
   "title": "又新又活的聚集",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "我 們"
+            },
+            {
+              "chord": "D",
+              "text": "今 日"
+            },
+            {
+              "chord": "",
+              "text": "的 聚 會"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "今 日"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃 是 又 新 又 活，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 聚 會"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃 是 又 新 又 活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "靈 裡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "靈 裡"
+            },
+            {
+              "chord": "G",
+              "text": "聚 集"
+            },
+            {
+              "chord": "",
+              "text": "並"
+            },
+            {
+              "chord": "D",
+              "text": "敬 拜，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "聚 集"
+          "segments": [
+            {
+              "chord": "",
+              "text": "完 全"
+            },
+            {
+              "chord": "E7",
+              "text": "自 由"
+            },
+            {
+              "chord": "",
+              "text": "超"
+            },
+            {
+              "chord": "A",
+              "text": "脫。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "並"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們"
+            },
+            {
+              "chord": "D",
+              "text": "享 受"
+            },
+            {
+              "chord": "",
+              "text": "基 督"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "敬 拜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "完 全"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作 一 切"
+            },
+            {
+              "chord": "D7",
+              "text": "的 實"
+            },
+            {
+              "chord": "G",
+              "text": "際，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "自 由"
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼 喊"
+            },
+            {
+              "chord": "D",
+              "text": "主 名"
+            },
+            {
+              "chord": "",
+              "text": "時，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "超"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "儀 文"
+            },
+            {
+              "chord": "",
+              "text": "『影 兒』"
+            },
+            {
+              "chord": "A7",
+              "text": "全 都"
+            },
+            {
+              "chord": "",
+              "text": "撇"
+            },
+            {
+              "chord": "D",
+              "text": "棄。"
+            },
+            {
+              "chord": "A",
+              "text": "又 新"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "又 活"
+            },
+            {
+              "chord": "",
+              "text": "的 聚 集， 又 新"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "脫。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "又 活 樣 式， 學 校、"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "享 受"
+          "segments": [
+            {
+              "chord": "",
+              "text": "公 園、 或"
+            },
+            {
+              "chord": "Bm",
+              "text": "海 邊，"
+            },
+            {
+              "chord": "",
+              "text": "那 裡"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "基 督"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作 一 切"
+          "segments": [
+            {
+              "chord": "E7",
+              "text": "都 不"
+            },
+            {
+              "chord": "",
+              "text": "在"
+            },
+            {
+              "chord": "A",
+              "text": "乎！ 我"
+            },
+            {
+              "chord": "",
+              "text": "們"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "的 實"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "棄 絕"
+            },
+            {
+              "chord": "",
+              "text": "一 切 的 規 條、"
+            },
+            {
+              "chord": "D7",
+              "text": "死 宗"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "際，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "呼 喊"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "教， 阿"
+            },
+            {
+              "chord": "",
+              "text": "利"
+            },
+            {
+              "chord": "D",
+              "text": "路 亞！"
+            },
+            {
+              "chord": "",
+              "text": "主"
+            },
+            {
+              "chord": "Bm",
+              "text": "的"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "主 名"
+          "segments": [
+            {
+              "chord": "",
+              "text": "靈 衝 破"
+            },
+            {
+              "chord": "A7",
+              "text": "一 切"
+            },
+            {
+              "chord": "",
+              "text": "限"
+            },
+            {
+              "chord": "D",
+              "text": "制！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不要任何死宗教，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "時，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Bm",
-          "text": "儀 文"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不要任何形式，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "『影 兒』"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不要任何的规条，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "全 都"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不要人的意思，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "撇"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不要那杀死人的字句"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "棄。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "与道理，阿利路亚！"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "又 新"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在灵里我们自由无比！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "又 活"
+          "segments": [
+            {
+              "chord": "",
+              "text": "又新又活的聚集，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 聚 集， 又 新"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "又 活 樣 式， 學 校、"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "公 園、 或"
+          "segments": [
+            {
+              "chord": "",
+              "text": "又新又活样式，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "海 邊，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "学校、公园、或海边，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "那 裡"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "E7",
-          "text": "都 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "那里都不在乎！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们弃绝一切的规条、"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "乎！ 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "死宗教，阿利路亚！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主的灵冲破一切限制！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "棄 絕"
+          "segments": [
+            {
+              "chord": "",
+              "text": "又新又活的聚集，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "一 切 的 規 條、"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一切老旧全除；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "死 宗"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "教， 阿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "唱诗祷读的时候"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "利"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们分享基督。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "路 亞！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "老而又老的光景"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "已无处可找，阿利路亚！"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主今日乃是在作新事！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "靈 衝 破"
+          "segments": [
+            {
+              "chord": "",
+              "text": "又新又活的聚集，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "一 切"
+          "segments": [
+            {
+              "chord": "",
+              "text": "又新又活样式，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "限"
+          "segments": [
+            {
+              "chord": "",
+              "text": "学校、公园、或海边，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "制！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "那里都不在乎！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "不要任何死宗教，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们弃绝一切的规条、"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "不要任何形式，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "死宗教，阿利路亚！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "不要任何的规条，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不要人的意思，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不要那杀死人的字句"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "与道理，阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在灵里我们自由无比！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "又新又活的聚集，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "又新又活样式，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "学校、公园、或海边，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "那里都不在乎！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们弃绝一切的规条、"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "死宗教，阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主的灵冲破一切限制！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "又新又活的聚集，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一切老旧全除；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "唱诗祷读的时候"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们分享基督。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "老而又老的光景"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "已无处可找，阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主今日乃是在作新事！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "又新又活的聚集，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "又新又活样式，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "学校、公园、或海边，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "那里都不在乎！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们弃绝一切的规条、"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "死宗教，阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主的灵冲破一切限制！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主的灵冲破一切限制！"
+            }
+          ]
         }
       ]
     }
@@ -486,7 +510,16 @@
   "metadata": {
     "category": "教会的生活",
     "time": "4/4",
-    "hymn_code": "5533321135535"
+    "hymn_code": "5533321135535",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6723",
+        "language": "cn",
+        "category": "h",
+        "number": "6723",
+        "title": "E6723"
+      }
+    ]
   },
   "raw_sections": [
     "我 們今 日的 聚 會",

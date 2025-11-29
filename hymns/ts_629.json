@@ -1,344 +1,352 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/629",
   "title": "建造神的家",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "榮 耀"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "榮 耀"
+            },
+            {
+              "chord": "",
+              "text": "基 督 顯"
+            },
+            {
+              "chord": "Em",
+              "text": "現， 引"
+            },
+            {
+              "chord": "F",
+              "text": "我 全"
+            },
+            {
+              "chord": "",
+              "text": "然 奉"
+            },
+            {
+              "chord": "Em",
+              "text": "獻；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "基 督 顯"
+          "segments": [
+            {
+              "chord": "",
+              "text": "渴"
+            },
+            {
+              "chord": "F",
+              "text": "望 以"
+            },
+            {
+              "chord": "G7",
+              "text": "嘴 親"
+            },
+            {
+              "chord": "Am",
+              "text": "子， 投"
+            },
+            {
+              "chord": "Dm",
+              "text": "奔 入"
+            },
+            {
+              "chord": "D7",
+              "text": "你 裡"
+            },
+            {
+              "chord": "Gsus4",
+              "text": "面。"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "現， 引"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "神"
+            },
+            {
+              "chord": "C",
+              "text": "家 是"
+            },
+            {
+              "chord": "",
+              "text": "我 心"
+            },
+            {
+              "chord": "Em",
+              "text": "願， 伯"
+            },
+            {
+              "chord": "F",
+              "text": "特 利"
+            },
+            {
+              "chord": "",
+              "text": "夢 實"
+            },
+            {
+              "chord": "Em",
+              "text": "現；"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "我 全"
+          "segments": [
+            {
+              "chord": "",
+              "text": "孤"
+            },
+            {
+              "chord": "F",
+              "text": "獨 者"
+            },
+            {
+              "chord": "",
+              "text": "有 居"
+            },
+            {
+              "chord": "Am",
+              "text": "所， 伯"
+            },
+            {
+              "chord": "Dm",
+              "text": "大 尼"
+            },
+            {
+              "chord": "D7",
+              "text": "家 筵"
+            },
+            {
+              "chord": "Gsus4",
+              "text": "宴。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "然 奉"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "赦 免、"
+            },
+            {
+              "chord": "",
+              "text": "相 愛、 相"
+            },
+            {
+              "chord": "Am",
+              "text": "依，"
+            },
+            {
+              "chord": "F",
+              "text": "國 度"
+            },
+            {
+              "chord": "G",
+              "text": "生 活"
+            },
+            {
+              "chord": "",
+              "text": "實"
+            },
+            {
+              "chord": "C",
+              "text": "際；"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "獻；"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "和 平、"
+            },
+            {
+              "chord": "G",
+              "text": "喜 樂、"
+            },
+            {
+              "chord": "Am",
+              "text": "公 義，"
+            },
+            {
+              "chord": "Dm",
+              "text": "城 中"
+            },
+            {
+              "chord": "",
+              "text": "頌"
+            },
+            {
+              "chord": "G",
+              "text": "讚 洋"
+            },
+            {
+              "chord": "C",
+              "text": "溢。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "校 園、"
+            },
+            {
+              "chord": "",
+              "text": "家 與"
+            },
+            {
+              "chord": "G",
+              "text": "邦 國，"
+            },
+            {
+              "chord": "Em",
+              "text": "開 展"
+            },
+            {
+              "chord": "",
+              "text": "遍 及"
+            },
+            {
+              "chord": "Am",
+              "text": "全 地；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "主 名"
+            },
+            {
+              "chord": "",
+              "text": "尊"
+            },
+            {
+              "chord": "G",
+              "text": "崇 不"
+            },
+            {
+              "chord": "C",
+              "text": "已，"
+            },
+            {
+              "chord": "Em",
+              "text": "見 證"
+            },
+            {
+              "chord": "",
+              "text": "直 到 地"
+            },
+            {
+              "chord": "Am",
+              "text": "極。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "渴"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主， 我 願 獻 上 自"
+            },
+            {
+              "chord": "Dm",
+              "text": "己，"
+            },
+            {
+              "chord": "G",
+              "text": "建 造"
+            },
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "Em",
+              "text": "生 機"
+            },
+            {
+              "chord": "",
+              "text": "身"
+            },
+            {
+              "chord": "Am",
+              "text": "體； 打"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "望 以"
+          "segments": [
+            {
+              "chord": "",
+              "text": "開 家，"
+            },
+            {
+              "chord": "Em",
+              "text": "得 青"
+            },
+            {
+              "chord": "",
+              "text": "年，"
+            },
+            {
+              "chord": "Dm",
+              "text": "牧 養"
+            },
+            {
+              "chord": "",
+              "text": "人，"
+            },
+            {
+              "chord": "Em",
+              "text": "同 成"
+            },
+            {
+              "chord": "",
+              "text": "全，"
+            },
+            {
+              "chord": "Dm",
+              "text": "帶"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "嘴 親"
-        },
-        {
-          "chord": "Am",
-          "text": "子， 投"
-        },
-        {
-          "chord": "Dm",
-          "text": "奔 入"
-        },
-        {
-          "chord": "D7",
-          "text": "你 裡"
-        },
-        {
-          "chord": "Gsus4",
-          "text": "面。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "神"
-        },
-        {
-          "chord": "C",
-          "text": "家 是"
-        },
-        {
-          "chord": "",
-          "text": "我 心"
-        },
-        {
-          "chord": "Em",
-          "text": "願， 伯"
-        },
-        {
-          "chord": "F",
-          "text": "特 利"
-        },
-        {
-          "chord": "",
-          "text": "夢 實"
-        },
-        {
-          "chord": "Em",
-          "text": "現；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "孤"
-        },
-        {
-          "chord": "F",
-          "text": "獨 者"
-        },
-        {
-          "chord": "",
-          "text": "有 居"
-        },
-        {
-          "chord": "Am",
-          "text": "所， 伯"
-        },
-        {
-          "chord": "Dm",
-          "text": "大 尼"
-        },
-        {
-          "chord": "D7",
-          "text": "家 筵"
-        },
-        {
-          "chord": "Gsus4",
-          "text": "宴。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "赦 免、"
-        },
-        {
-          "chord": "",
-          "text": "相 愛、 相"
-        },
-        {
-          "chord": "Am",
-          "text": "依，"
-        },
-        {
-          "chord": "F",
-          "text": "國 度"
-        },
-        {
-          "chord": "G",
-          "text": "生 活"
-        },
-        {
-          "chord": "",
-          "text": "實"
-        },
-        {
-          "chord": "C",
-          "text": "際；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Dm",
-          "text": "和 平、"
-        },
-        {
-          "chord": "G",
-          "text": "喜 樂、"
-        },
-        {
-          "chord": "Am",
-          "text": "公 義，"
-        },
-        {
-          "chord": "Dm",
-          "text": "城 中"
-        },
-        {
-          "chord": "",
-          "text": "頌"
-        },
-        {
-          "chord": "G",
-          "text": "讚 洋"
-        },
-        {
-          "chord": "C",
-          "text": "溢。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "校 園、"
-        },
-        {
-          "chord": "",
-          "text": "家 與"
-        },
-        {
-          "chord": "G",
-          "text": "邦 國，"
-        },
-        {
-          "chord": "Em",
-          "text": "開 展"
-        },
-        {
-          "chord": "",
-          "text": "遍 及"
-        },
-        {
-          "chord": "Am",
-          "text": "全 地；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Dm",
-          "text": "主 名"
-        },
-        {
-          "chord": "",
-          "text": "尊"
-        },
-        {
-          "chord": "G",
-          "text": "崇 不"
-        },
-        {
-          "chord": "C",
-          "text": "已，"
-        },
-        {
-          "chord": "Em",
-          "text": "見 證"
-        },
-        {
-          "chord": "",
-          "text": "直 到 地"
-        },
-        {
-          "chord": "Am",
-          "text": "極。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主， 我 願 獻 上 自"
-        },
-        {
-          "chord": "Dm",
-          "text": "己，"
-        },
-        {
-          "chord": "G",
-          "text": "建 造"
-        },
-        {
-          "chord": "",
-          "text": "你"
-        },
-        {
-          "chord": "Em",
-          "text": "生 機"
-        },
-        {
-          "chord": "",
-          "text": "身"
-        },
-        {
-          "chord": "Am",
-          "text": "體； 打"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "開 家，"
-        },
-        {
-          "chord": "Em",
-          "text": "得 青"
-        },
-        {
-          "chord": "",
-          "text": "年，"
-        },
-        {
-          "chord": "Dm",
-          "text": "牧 養"
-        },
-        {
-          "chord": "",
-          "text": "人，"
-        },
-        {
-          "chord": "Em",
-          "text": "同 成"
-        },
-        {
-          "chord": "",
-          "text": "全，"
-        },
-        {
-          "chord": "Dm",
-          "text": "帶"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "進 榮 耀 召"
-        },
-        {
-          "chord": "C",
-          "text": "會，"
-        },
-        {
-          "chord": "Em",
-          "text": "讓 你"
-        },
-        {
-          "chord": "",
-          "text": "能 早 歸"
-        },
-        {
-          "chord": "Am",
-          "text": "回。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "進 榮 耀 召"
+            },
+            {
+              "chord": "C",
+              "text": "會，"
+            },
+            {
+              "chord": "Em",
+              "text": "讓 你"
+            },
+            {
+              "chord": "",
+              "text": "能 早 歸"
+            },
+            {
+              "chord": "Am",
+              "text": "回。"
+            }
+          ]
         }
       ]
     }
@@ -346,7 +354,16 @@
   "metadata": {
     "category": "建造与合一",
     "time": "4/4",
-    "hymn_code": "3211123535666735"
+    "hymn_code": "3211123535666735",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/367",
+        "language": "cn",
+        "category": "ns",
+        "number": "367",
+        "title": "NS367"
+      }
+    ]
   },
   "raw_sections": [
     "榮 耀基 督 顯現， 引我 全然 奉獻；",

@@ -1,408 +1,428 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/750",
   "title": "背起十架为召会",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "我 今"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我 今"
+            },
+            {
+              "chord": "",
+              "text": "撇 下"
+            },
+            {
+              "chord": "C",
+              "text": "一 切"
+            },
+            {
+              "chord": "G",
+              "text": "事 物，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "撇 下"
+          "segments": [
+            {
+              "chord": "",
+              "text": "背 起 十 架 為 召"
+            },
+            {
+              "chord": "D",
+              "text": "會；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "一 切"
+          "segments": [
+            {
+              "chord": "",
+              "text": "甘 受"
+            },
+            {
+              "chord": "G",
+              "text": "藐 視"
+            },
+            {
+              "chord": "C",
+              "text": "厭 棄"
+            },
+            {
+              "chord": "G",
+              "text": "貧 苦，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "事 物，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "背 起 十 架 為 召"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "一 心"
+            },
+            {
+              "chord": "G",
+              "text": "跟 主"
+            },
+            {
+              "chord": "D7",
+              "text": "走 窄"
+            },
+            {
+              "chord": "G",
+              "text": "路。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "會；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "甘 受"
+          "segments": [
+            {
+              "chord": "",
+              "text": "前 我 所 愛"
+            },
+            {
+              "chord": "C",
+              "text": "所 慕"
+            },
+            {
+              "chord": "G",
+              "text": "所 求，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "藐 視"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今 與"
+            },
+            {
+              "chord": "C",
+              "text": "雄 心"
+            },
+            {
+              "chord": "A7",
+              "text": "同 歸"
+            },
+            {
+              "chord": "D",
+              "text": "盡；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "厭 棄"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "但 我"
+            },
+            {
+              "chord": "G",
+              "text": "又 是"
+            },
+            {
+              "chord": "C",
+              "text": "何 等"
+            },
+            {
+              "chord": "G",
+              "text": "饒 優，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "貧 苦，"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "基 督"
+            },
+            {
+              "chord": "G",
+              "text": "召 會"
+            },
+            {
+              "chord": "D7",
+              "text": "是 我"
+            },
+            {
+              "chord": "G",
+              "text": "分。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "一 心"
+          "segments": [
+            {
+              "chord": "",
+              "text": "让这世界弃我嫌我，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "跟 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "召会原不属尘世；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "走 窄"
+          "segments": [
+            {
+              "chord": "",
+              "text": "人面人心欺我骗我，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "路。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "前 我 所 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "召会却是我实际。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "所 慕"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当我生活在召会中，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "所 求，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今 與"
+          "segments": [
+            {
+              "chord": "",
+              "text": "友虽生疏敌虽险，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "雄 心"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但我心安处之泰然，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "同 歸"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀召会我看见。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "去罢！今世名利福乐，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "盡；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "但 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来罢！痛苦和嘲讥。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "又 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为主旨意苦是喜乐，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "何 等"
+          "segments": [
+            {
+              "chord": "",
+              "text": "与主同工损是益。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "饒 優，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "基 督"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我既称祂阿爸父亲，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "召 會"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我既将心注于你，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "是 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "怒吼暴风密集厚云，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "分。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "都该效力成我益。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "让这世界弃我嫌我，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "人虽逼我使我苦痛，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不能改变我心愿，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "世间苦难压我越重，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "召会生活越甘甜。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "有何忧苦能将我袭，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "当你荣耀向我显；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "有何快乐能将我迷，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "若它不在召会里。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "召会原不属尘世；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "向前！由恩进入荣耀，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "人面人心欺我骗我，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "经历身体是能力，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "召会却是我实际。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "她的丰满是我实际，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "当我生活在召会中，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "为她活着直到底。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "友虽生疏敌虽险，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到地上职事停止，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "但我心安处之泰然，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到奔跑到路终；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "荣耀召会我看见。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到盼望成为事实，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "去罢！今世名利福乐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来罢！痛苦和嘲讥。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为主旨意苦是喜乐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "与主同工损是益。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我既称祂阿爸父亲，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我既将心注于你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "怒吼暴风密集厚云，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "都该效力成我益。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "人虽逼我使我苦痛，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不能改变我心愿，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "世间苦难压我越重，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "召会生活越甘甜。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有何忧苦能将我袭，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当你荣耀向我显；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有何快乐能将我迷，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "若它不在召会里。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向前！由恩进入荣耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "经历身体是能力，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "她的丰满是我实际，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为她活着直到底。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到地上职事停止，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到奔跑到路终；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到盼望成为事实，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "围绕宝座同赞颂。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "围绕宝座同赞颂。"
+            }
+          ]
         }
       ]
     }

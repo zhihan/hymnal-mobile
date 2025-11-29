@@ -1,268 +1,280 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/710",
   "title": "出所多玛进方舟",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "人 人"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "人 人"
+            },
+            {
+              "chord": "",
+              "text": "要 出 所 多 瑪，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "要 出 所 多 瑪，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "人 人 要 出 所 多 瑪，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "人 人 要 出 所 多"
+          "segments": [
+            {
+              "chord": "",
+              "text": "人 人 要 出 所 多 瑪，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "瑪，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "人 人 要 出 所 多"
+            },
+            {
+              "chord": "Em",
+              "text": "瑪，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "必 快"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "主"
+            },
+            {
+              "chord": "A7",
+              "text": "必 快"
+            },
+            {
+              "chord": "D",
+              "text": "來！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "來！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "世 界"
+          "segments": [
+            {
+              "chord": "",
+              "text": "世 界"
+            },
+            {
+              "chord": "G",
+              "text": "都 快"
+            },
+            {
+              "chord": "",
+              "text": "要 過"
+            },
+            {
+              "chord": "D",
+              "text": "去"
+            },
+            {
+              "chord": "A7",
+              "text": "了，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "都 快"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "你 還"
+            },
+            {
+              "chord": "D7",
+              "text": "在 留"
+            },
+            {
+              "chord": "",
+              "text": "戀 甚"
+            },
+            {
+              "chord": "G",
+              "text": "麼？"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "要 過"
+          "segments": [
+            {
+              "chord": "F♯m",
+              "text": "我 們"
+            },
+            {
+              "chord": "Bm",
+              "text": "被 提"
+            },
+            {
+              "chord": "",
+              "text": "日 子"
+            },
+            {
+              "chord": "Em",
+              "text": "近"
+            },
+            {
+              "chord": "A7",
+              "text": "了，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "去"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "你 要"
+            },
+            {
+              "chord": "D7",
+              "text": "被 提"
+            },
+            {
+              "chord": "",
+              "text": "或 留"
+            },
+            {
+              "chord": "G",
+              "text": "下？"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在主被钉死地方，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "了，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "你 還"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在主被钉死地方，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "在 留"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在主被钉死地方，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "戀 甚"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你要死透！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "麼？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "F♯m",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们已经与主同钉，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "被 提"
+          "segments": [
+            {
+              "chord": "",
+              "text": "世界对我是空白；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "日 子"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们如今活在地上，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "近"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只为迎接祂再来！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "人人都要进方舟，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "了，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "你 要"
+          "segments": [
+            {
+              "chord": "",
+              "text": "人人都要进方舟，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "被 提"
+          "segments": [
+            {
+              "chord": "",
+              "text": "人人都要进方舟，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "或 留"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同过召会！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "下？"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "方舟里头，我们享受"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在主被钉死地方，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "主作我们的一切；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在主被钉死地方，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "多多经历，多多分享，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在主被钉死地方，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你要死透！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们已经与主同钉，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "世界对我是空白；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们如今活在地上，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只为迎接祂再来！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "人人都要进方舟，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "人人都要进方舟，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "人人都要进方舟，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同过召会！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "方舟里头，我们享受"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主作我们的一切；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "多多经历，多多分享，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不知枯燥不觉累！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不知枯燥不觉累！"
+            }
+          ]
         }
       ]
     }

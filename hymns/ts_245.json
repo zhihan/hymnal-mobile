@@ -1,244 +1,252 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/245",
   "title": "我们在美地",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "在 美 地，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "在 美 地，"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "我 們"
+            },
+            {
+              "chord": "D",
+              "text": "在 美"
+            },
+            {
+              "chord": "",
+              "text": "地！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦， 阿 利"
+            },
+            {
+              "chord": "A",
+              "text": "路 亞！"
+            },
+            {
+              "chord": "D",
+              "text": "在 美"
+            },
+            {
+              "chord": "",
+              "text": "地！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "基 督 是 美 地，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "基 督"
+            },
+            {
+              "chord": "D",
+              "text": "是 美"
+            },
+            {
+              "chord": "",
+              "text": "地！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦， 讚 美"
+            },
+            {
+              "chord": "A",
+              "text": "主， 祂"
+            },
+            {
+              "chord": "D",
+              "text": "是 美"
+            },
+            {
+              "chord": "",
+              "text": "地！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 就 是"
+            },
+            {
+              "chord": "B7",
+              "text": "奶， 祂"
+            },
+            {
+              "chord": "Em",
+              "text": "也 是"
+            },
+            {
+              "chord": "",
+              "text": "蜜；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "五 穀 和"
+            },
+            {
+              "chord": "A7",
+              "text": "油、 新"
+            },
+            {
+              "chord": "D",
+              "text": "酒 無"
+            },
+            {
+              "chord": "",
+              "text": "比。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們 在 美 地，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "我 們"
+            },
+            {
+              "chord": "D",
+              "text": "在 美"
+            },
+            {
+              "chord": "",
+              "text": "地！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦， 阿 利"
+            },
+            {
+              "chord": "A",
+              "text": "路 亞！"
+            },
+            {
+              "chord": "D",
+              "text": "在 美"
+            },
+            {
+              "chord": "",
+              "text": "地！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "美地之上有许多的丰富：小麦、大麦、各种果树；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "在 美"
+          "segments": [
+            {
+              "chord": "",
+              "text": "有泉、源、水流，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "地！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦， 阿 利"
+          "segments": [
+            {
+              "chord": "",
+              "text": "涌流到永远，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "路 亞！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何等美地摆在眼前！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "在 美"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为要得着地里出产，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "地！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基 督 是 美 地，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "基 督"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们天天经营无间；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "是 美"
+          "segments": [
+            {
+              "chord": "",
+              "text": "每逢同聚集都带来基督─"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "地！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦， 讚 美"
-        },
-        {
-          "chord": "A",
-          "text": "主， 祂"
-        },
-        {
-          "chord": "D",
-          "text": "是 美"
-        },
-        {
-          "chord": "",
-          "text": "地！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 就 是"
-        },
-        {
-          "chord": "B7",
-          "text": "奶， 祂"
-        },
-        {
-          "chord": "Em",
-          "text": "也 是"
-        },
-        {
-          "chord": "",
-          "text": "蜜；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "五 穀 和"
-        },
-        {
-          "chord": "A7",
-          "text": "油、 新"
-        },
-        {
-          "chord": "D",
-          "text": "酒 無"
-        },
-        {
-          "chord": "",
-          "text": "比。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們 在 美 地，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "我 們"
-        },
-        {
-          "chord": "D",
-          "text": "在 美"
-        },
-        {
-          "chord": "",
-          "text": "地！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦， 阿 利"
-        },
-        {
-          "chord": "A",
-          "text": "路 亞！"
-        },
-        {
-          "chord": "D",
-          "text": "在 美"
-        },
-        {
-          "chord": "",
-          "text": "地！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "美地之上有许多的丰富：小麦、大麦、各种果树；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有泉、源、水流，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "涌流到永远，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何等美地摆在眼前！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为要得着地里出产，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们天天经营无间；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "每逢同聚集都带来基督─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "‘上好’基督作为供物！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "‘上好’基督作为供物！"
+            }
+          ]
         }
       ]
     }
@@ -246,7 +254,16 @@
   "metadata": {
     "category": "享受基督",
     "time": "3/4",
-    "hymn_code": "5111233332347211"
+    "hymn_code": "5111233332347211",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1165",
+        "language": "cn",
+        "category": "h",
+        "number": "1165",
+        "title": "E1165"
+      }
+    ]
   },
   "raw_sections": [
     "我 們在 美 地，",

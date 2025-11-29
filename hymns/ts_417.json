@@ -1,484 +1,524 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/417",
   "title": "祂是主",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "四 周"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "四 周"
+            },
+            {
+              "chord": "",
+              "text": "滿 艱 辛，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "滿 艱 辛，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "無 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "無 一"
+            },
+            {
+              "chord": "G",
+              "text": "處 可"
+            },
+            {
+              "chord": "",
+              "text": "安"
+            },
+            {
+              "chord": "C",
+              "text": "息，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "處 可"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 心 似 乎"
+            },
+            {
+              "chord": "D7",
+              "text": "消 化"
+            },
+            {
+              "chord": "",
+              "text": "如"
+            },
+            {
+              "chord": "G",
+              "text": "水；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "安"
+          "segments": [
+            {
+              "chord": "G7",
+              "text": "但"
+            },
+            {
+              "chord": "C",
+              "text": "是 在"
+            },
+            {
+              "chord": "",
+              "text": "深"
+            },
+            {
+              "chord": "F",
+              "text": "處"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "息，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 心 似 乎"
+          "segments": [
+            {
+              "chord": "",
+              "text": "有 微 聲 輕 輕"
+            },
+            {
+              "chord": "G",
+              "text": "訴，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "消 化"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 是"
+            },
+            {
+              "chord": "C",
+              "text": "否 真"
+            },
+            {
+              "chord": "",
+              "text": "知 道"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "如"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "『祂 是"
+            },
+            {
+              "chord": "C",
+              "text": "主』？ 哦"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "心， 當 肅"
+            },
+            {
+              "chord": "G",
+              "text": "穆！ 祂"
+            },
+            {
+              "chord": "",
+              "text": "是"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "水；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G7",
-          "text": "但"
+          "segments": [
+            {
+              "chord": "F",
+              "text": "主， 祂"
+            },
+            {
+              "chord": "",
+              "text": "是"
+            },
+            {
+              "chord": "G",
+              "text": "主，"
+            },
+            {
+              "chord": "G7",
+              "text": "祂 是"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "是 在"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "主！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "试探常临及，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "深"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如花在梦中现，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "處"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有 微 聲 輕 輕"
+          "segments": [
+            {
+              "chord": "",
+              "text": "花容既美丽又鲜艳，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "訴，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生姿的微笑，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "否 真"
+          "segments": [
+            {
+              "chord": "",
+              "text": "招我回世界中，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "知 道"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "『祂 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "深处却有声说："
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "主』？ 哦"
+          "segments": [
+            {
+              "chord": "",
+              "text": "‘祂是主！’"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦我心，当肃穆！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "心， 當 肅"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是主，祂是主，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "穆！ 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是主！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "全人已破碎，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "是"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "F",
-          "text": "主， 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "无一处是完整，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但是黑影笼罩愈深；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "主，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "双手尽伸出，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "祂 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "却不见何依倾，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在深处却涌出："
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "‘祂是主！’"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "主！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦我心，当肃穆！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是主，祂是主，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是主！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "试探常临及，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "雄心和壮志，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "皆已随风而去，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂所给苦刺似过重；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "轻声问我主，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "是否已被你弃，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "却听祂爱中说："
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "‘我是主！’"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "如花在梦中现，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦我心，当肃穆！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是主，祂是主，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是主！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "花容既美丽又鲜艳，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "心头满羞惭，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "泪眼向心所爱─"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "多年来祂一再赏赉，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "顽梗又不贞，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "似不能显祂荣，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "钉痕手却见证："
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "‘祂是主！’"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "生姿的微笑，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦我心，当肃穆！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "招我回世界中，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是主，祂是主，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "深处却有声说："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "‘祂是主！’"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦我心，当肃穆！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是主，祂是主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是主！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全人已破碎，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "无一处是完整，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但是黑影笼罩愈深；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "双手尽伸出，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "却不见何依倾，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在深处却涌出："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "‘祂是主！’"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦我心，当肃穆！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是主，祂是主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是主！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "雄心和壮志，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "皆已随风而去，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂所给苦刺似过重；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "轻声问我主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是否已被你弃，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "却听祂爱中说："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "‘我是主！’"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦我心，当肃穆！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是主，祂是主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是主！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "心头满羞惭，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "泪眼向心所爱─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "多年来祂一再赏赉，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "顽梗又不贞，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "似不能显祂荣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "钉痕手却见证："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "‘祂是主！’"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦我心，当肃穆！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是主，祂是主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是主！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是主！"
+            }
+          ]
         }
       ]
     }

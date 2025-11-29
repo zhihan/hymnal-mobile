@@ -1,168 +1,172 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/516",
   "title": "在地方召会中",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "在 地"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "在 地"
+            },
+            {
+              "chord": "",
+              "text": "方"
+            },
+            {
+              "chord": "Am",
+              "text": "召 會"
+            },
+            {
+              "chord": "",
+              "text": "中─"
+            },
+            {
+              "chord": "C",
+              "text": "神"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "方"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "所 揀"
+            },
+            {
+              "chord": "C",
+              "text": "選；"
+            },
+            {
+              "chord": "F",
+              "text": "在"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "召 會"
+          "segments": [
+            {
+              "chord": "",
+              "text": "此 基"
+            },
+            {
+              "chord": "C",
+              "text": "督 作"
+            },
+            {
+              "chord": "",
+              "text": "生 命，"
+            },
+            {
+              "chord": "D",
+              "text": "聖"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "中─"
+          "segments": [
+            {
+              "chord": "",
+              "text": "靈 有"
+            },
+            {
+              "chord": "D7",
+              "text": "主"
+            },
+            {
+              "chord": "G",
+              "text": "權。 （阿"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "神"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "所 揀"
+          "segments": [
+            {
+              "chord": "",
+              "text": "利"
+            },
+            {
+              "chord": "G7",
+              "text": "路 亞）"
+            },
+            {
+              "chord": "C",
+              "text": "在 靈"
+            },
+            {
+              "chord": "",
+              "text": "中，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "選；"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "站 立"
+            },
+            {
+              "chord": "",
+              "text": "場，"
+            },
+            {
+              "chord": "C",
+              "text": "為"
+            },
+            {
+              "chord": "G",
+              "text": "主 爭"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "在"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "此 基"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "戰！"
+            },
+            {
+              "chord": "F",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "必"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "督 作"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "勝 過"
+            },
+            {
+              "chord": "",
+              "text": "仇 敵， 帶 進 神"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "生 命，"
-        },
-        {
-          "chord": "D",
-          "text": "聖"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "靈 有"
-        },
-        {
-          "chord": "D7",
-          "text": "主"
-        },
-        {
-          "chord": "G",
-          "text": "權。 （阿"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "利"
-        },
-        {
-          "chord": "G7",
-          "text": "路 亞）"
-        },
-        {
-          "chord": "C",
-          "text": "在 靈"
-        },
-        {
-          "chord": "",
-          "text": "中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "站 立"
-        },
-        {
-          "chord": "",
-          "text": "場，"
-        },
-        {
-          "chord": "C",
-          "text": "為"
-        },
-        {
-          "chord": "G",
-          "text": "主 爭"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "戰！"
-        },
-        {
-          "chord": "F",
-          "text": "我 們"
-        },
-        {
-          "chord": "",
-          "text": "必"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "勝 過"
-        },
-        {
-          "chord": "",
-          "text": "仇 敵， 帶 進 神"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "國"
-        },
-        {
-          "chord": "G",
-          "text": "度─ 基"
-        },
-        {
-          "chord": "G7",
-          "text": "督 作"
-        },
-        {
-          "chord": "C",
-          "text": "王。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "國"
+            },
+            {
+              "chord": "G",
+              "text": "度─ 基"
+            },
+            {
+              "chord": "G7",
+              "text": "督 作"
+            },
+            {
+              "chord": "C",
+              "text": "王。"
+            }
+          ]
         }
       ]
     }
@@ -170,7 +174,16 @@
   "metadata": {
     "category": "教会的异象",
     "time": "4/4",
-    "hymn_code": "1356361251"
+    "hymn_code": "1356361251",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1260",
+        "language": "cn",
+        "category": "h",
+        "number": "1260",
+        "title": "E1260"
+      }
+    ]
   },
   "raw_sections": [
     "在 地方召 會中─神",

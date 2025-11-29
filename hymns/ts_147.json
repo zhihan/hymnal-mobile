@@ -1,280 +1,304 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/147",
   "title": "神成那灵，话作实际",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "我 神"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 神"
+            },
+            {
+              "chord": "",
+              "text": "如"
+            },
+            {
+              "chord": "A",
+              "text": "今 你"
+            },
+            {
+              "chord": "D",
+              "text": "已 成"
+            },
+            {
+              "chord": "",
+              "text": "那 靈，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "如"
+          "segments": [
+            {
+              "chord": "",
+              "text": "藉 你 話 語 實 化 我 靈"
+            },
+            {
+              "chord": "A",
+              "text": "裏；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "今 你"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "運 用"
+            },
+            {
+              "chord": "",
+              "text": "我 靈 來 接 觸 你"
+            },
+            {
+              "chord": "A",
+              "text": "話，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "已 成"
+          "segments": [
+            {
+              "chord": "",
+              "text": "話 中 之"
+            },
+            {
+              "chord": "D",
+              "text": "靈 我"
+            },
+            {
+              "chord": "A",
+              "text": "就 能"
+            },
+            {
+              "chord": "",
+              "text": "經"
+            },
+            {
+              "chord": "D",
+              "text": "歷。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主 阿！ 你 話 離 我 並 不 遠，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "那 靈，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "藉 你 話 語 實 化 我 靈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在 我 口"
+            },
+            {
+              "chord": "A",
+              "text": "裏 也"
+            },
+            {
+              "chord": "A7",
+              "text": "在 我"
+            },
+            {
+              "chord": "",
+              "text": "心"
+            },
+            {
+              "chord": "D",
+              "text": "裏，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "裏；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "運 用"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 靈 藉 話 來 作 你 實"
+            },
+            {
+              "chord": "Bm",
+              "text": "際，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 靈 來 接 觸 你"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "你 我"
+            },
+            {
+              "chord": "",
+              "text": "聯"
+            },
+            {
+              "chord": "D",
+              "text": "調 合"
+            },
+            {
+              "chord": "A7",
+              "text": "併 永"
+            },
+            {
+              "chord": "",
+              "text": "為"
+            },
+            {
+              "chord": "D",
+              "text": "一。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你之所是及一切属性，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "話，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "話 中 之"
+          "segments": [
+            {
+              "chord": "",
+              "text": "全都具体实化基督里；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "靈 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我享你灵、你话、你自己，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "就 能"
+          "segments": [
+            {
+              "chord": "",
+              "text": "经历中作我爱光圣义。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主阿！你话离我并不远，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "經"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在我口里也在我心里，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "歷。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主 阿！ 你 話 離 我 並 不 遠，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在 我 口"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你灵借话来作你实际，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "裏 也"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你我联调合并永为一。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "住你话里就是住你里，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "在 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我在爱里借话享受你；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "心"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你住我里与我成为一，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "裏，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我活出你，彰显你秘密。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "你 靈 藉 話 來 作 你 實"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主阿！你话离我并不远，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "際，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "你 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在我口里也在我心里，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "聯"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你灵借话来作你实际，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "調 合"
-        },
-        {
-          "chord": "A7",
-          "text": "併 永"
-        },
-        {
-          "chord": "",
-          "text": "為"
-        },
-        {
-          "chord": "D",
-          "text": "一。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你之所是及一切属性，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全都具体实化基督里；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我享你灵、你话、你自己，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "经历中作我爱光圣义。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主阿！你话离我并不远，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在我口里也在我心里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你灵借话来作你实际，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你我联调合并永为一。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "住你话里就是住你里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我在爱里借话享受你；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你住我里与我成为一，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我活出你，彰显你秘密。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主阿！你话离我并不远，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在我口里也在我心里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你灵借话来作你实际，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你我联调合并永为一。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你我联调合并永为一。"
+            }
+          ]
         }
       ]
     }

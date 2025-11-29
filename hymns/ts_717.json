@@ -1,152 +1,164 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/717",
   "title": "豫尝那日",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Em",
-          "text": "自 從"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "自 從"
+            },
+            {
+              "chord": "",
+              "text": "『過 召 會』， 生"
+            },
+            {
+              "chord": "C",
+              "text": "活"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "『過 召 會』， 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何 美"
+            },
+            {
+              "chord": "Em",
+              "text": "麗， 豫"
+            },
+            {
+              "chord": "",
+              "text": "嘗 那 日； 新 耶"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "活"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何 美"
+          "segments": [
+            {
+              "chord": "",
+              "text": "路 撒"
+            },
+            {
+              "chord": "C",
+              "text": "冷， 新"
+            },
+            {
+              "chord": "B",
+              "text": "耶"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "麗， 豫"
+          "segments": [
+            {
+              "chord": "",
+              "text": "路 撒"
+            },
+            {
+              "chord": "Em",
+              "text": "冷， 安"
+            },
+            {
+              "chord": "Am",
+              "text": "息"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "嘗 那 日； 新 耶"
+          "segments": [
+            {
+              "chord": "B7",
+              "text": "的 滿"
+            },
+            {
+              "chord": "Em",
+              "text": "足。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "路 撒"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今日的召会就是那美地"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "冷， 新"
+          "segments": [
+            {
+              "chord": "",
+              "text": "─流奶与蜜。"
+            }
+          ]
         },
         {
-          "chord": "B",
-          "text": "耶"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "路 撒"
+          "segments": [
+            {
+              "chord": "",
+              "text": "尽情的享受，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "冷， 安"
+          "segments": [
+            {
+              "chord": "",
+              "text": "尽情的享受，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "息"
+          "segments": [
+            {
+              "chord": "",
+              "text": "丰盛的生命。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "B7",
-          "text": "的 滿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "建造的召会就是神居所，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "足。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "让祂安息；为祂掌王权，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "今日的召会就是那美地"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "为祂掌王权，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "─流奶与蜜。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "尽情的享受，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "尽情的享受，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "丰盛的生命。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "建造的召会就是神居所，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让祂安息；为祂掌王权，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为祂掌王权，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "完成神旨意。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "完成神旨意。"
+            }
+          ]
         }
       ]
     }

@@ -1,384 +1,408 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/212",
   "title": "你何微小",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "哦， 主"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "哦， 主"
+            },
+            {
+              "chord": "",
+              "text": "耶 穌，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "耶 穌，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們 在 你 前"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們 在 你 前"
+            },
+            {
+              "chord": "C",
+              "text": "稱 頌，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "稱 頌，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "為 著 杯"
+          "segments": [
+            {
+              "chord": "",
+              "text": "為 著 杯"
+            },
+            {
+              "chord": "G",
+              "text": "餅 我"
+            },
+            {
+              "chord": "D7",
+              "text": "們 感"
+            },
+            {
+              "chord": "",
+              "text": "激 不"
+            },
+            {
+              "chord": "G",
+              "text": "已；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "餅 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同 心 讚 美，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "們 感"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 竟 然 成 為"
+            },
+            {
+              "chord": "C",
+              "text": "食 物，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "激 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "叫 人 多"
+            },
+            {
+              "chord": "G",
+              "text": "方 享"
+            },
+            {
+              "chord": "D7",
+              "text": "受 你"
+            },
+            {
+              "chord": "",
+              "text": "的 自"
+            },
+            {
+              "chord": "G",
+              "text": "己。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 心 我 靈 立"
+            },
+            {
+              "chord": "C",
+              "text": "即 興"
+            },
+            {
+              "chord": "",
+              "text": "起 讚"
+            },
+            {
+              "chord": "G",
+              "text": "美，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "已；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同 心 讚 美，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 竟 然 成 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 何 微"
+            },
+            {
+              "chord": "D",
+              "text": "小，"
+            },
+            {
+              "chord": "D7",
+              "text": "你 何"
+            },
+            {
+              "chord": "",
+              "text": "微"
+            },
+            {
+              "chord": "G",
+              "text": "小。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "食 物，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "叫 人 多"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直 至 永 世 還"
+            },
+            {
+              "chord": "C",
+              "text": "要 喫"
+            },
+            {
+              "chord": "",
+              "text": "喝 不"
+            },
+            {
+              "chord": "G",
+              "text": "已，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "方 享"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 何 微"
+            },
+            {
+              "chord": "D",
+              "text": "小，"
+            },
+            {
+              "chord": "D7",
+              "text": "你 何"
+            },
+            {
+              "chord": "",
+              "text": "微"
+            },
+            {
+              "chord": "G",
+              "text": "小。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "何等可怜─"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "受 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当基督来到人群，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 自"
+          "segments": [
+            {
+              "chord": "",
+              "text": "满带丰盛，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "己。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 心 我 靈 立"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来作生命供应，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "即 興"
+          "segments": [
+            {
+              "chord": "",
+              "text": "人竟拒绝，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "起 讚"
+          "segments": [
+            {
+              "chord": "",
+              "text": "反倚靠道理教训，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "美，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不懂如何取用祂的丰盛。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "你 何 微"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们所需乃是把你吃了，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "小，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何等奇妙，何等逍遥！"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "你 何"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们吃主，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "微"
+          "segments": [
+            {
+              "chord": "",
+              "text": "里面就被复苏。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "小。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "长大成人，活出基督。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "直 至 永 世 還"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主耶稣，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "要 喫"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你降卑来到世上，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "喝 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "并非为着在外面作君王；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "已，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 何 微"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃作食物"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "小，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "供我们享受饱足，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "你 何"
+          "segments": [
+            {
+              "chord": "",
+              "text": "里面生命引导我们成熟。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，赞美你，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "微"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你实在伟大荣耀，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "小。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "能力无穷，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "何等可怜─"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "威严、丰富无限，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "当基督来到人群，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "但你竟成"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "满带丰盛，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "微小食物真奇妙，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "来作生命供应，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "人竟拒绝，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "反倚靠道理教训，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不懂如何取用祂的丰盛。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们所需乃是把你吃了，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何等奇妙，何等逍遥！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们吃主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "里面就被复苏。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "长大成人，活出基督。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主耶稣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你降卑来到世上，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "并非为着在外面作君王；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃作食物"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "供我们享受饱足，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "里面生命引导我们成熟。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，赞美你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你实在伟大荣耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "能力无穷，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "威严、丰富无限，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但你竟成"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "微小食物真奇妙，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们更要高唱直到永远。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们更要高唱直到永远。"
+            }
+          ]
         }
       ]
     }
@@ -386,7 +410,16 @@
   "metadata": {
     "category": "享受基督",
     "time": "4/4",
-    "hymn_code": "55535556646"
+    "hymn_code": "55535556646",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1110",
+        "language": "cn",
+        "category": "h",
+        "number": "1110",
+        "title": "E1110"
+      }
+    ]
   },
   "raw_sections": [
     "哦， 主耶 穌，",

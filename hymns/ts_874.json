@@ -1,320 +1,336 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/874",
   "title": "等候耶和华，重新得力",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "等 候"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "等 候"
+            },
+            {
+              "chord": "",
+              "text": "耶"
+            },
+            {
+              "chord": "F",
+              "text": "和 華，"
+            },
+            {
+              "chord": "",
+              "text": "重"
+            },
+            {
+              "chord": "G",
+              "text": "新 得"
+            },
+            {
+              "chord": "C",
+              "text": "力；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "耶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "必 如 鷹"
+            },
+            {
+              "chord": "F",
+              "text": "展 翅，"
+            },
+            {
+              "chord": "",
+              "text": "上"
+            },
+            {
+              "chord": "D",
+              "text": "騰 離"
+            },
+            {
+              "chord": "G",
+              "text": "地。"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "和 華，"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "憑 復"
+            },
+            {
+              "chord": "",
+              "text": "活"
+            },
+            {
+              "chord": "F",
+              "text": "大 能，"
+            },
+            {
+              "chord": "",
+              "text": "翱"
+            },
+            {
+              "chord": "G",
+              "text": "翔 天"
+            },
+            {
+              "chord": "C",
+              "text": "際；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "重"
+          "segments": [
+            {
+              "chord": "",
+              "text": "奔 跑 不"
+            },
+            {
+              "chord": "F",
+              "text": "困 倦，"
+            },
+            {
+              "chord": "",
+              "text": "行"
+            },
+            {
+              "chord": "G",
+              "text": "走 不"
+            },
+            {
+              "chord": "C",
+              "text": "疲。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "新 得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "飛 向 蔚"
+            },
+            {
+              "chord": "F",
+              "text": "藍 天，"
+            },
+            {
+              "chord": "",
+              "text": "遠 離"
+            },
+            {
+              "chord": "C",
+              "text": "家 鄉；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "力；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "脫 世 俗"
+            },
+            {
+              "chord": "G",
+              "text": "羈 絆，"
+            },
+            {
+              "chord": "",
+              "text": "去 地"
+            },
+            {
+              "chord": "C",
+              "text": "捆 綁。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "願 受 主"
+            },
+            {
+              "chord": "F",
+              "text": "差 遣，"
+            },
+            {
+              "chord": "",
+              "text": "同 祂"
+            },
+            {
+              "chord": "Am",
+              "text": "前 往；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "將 國 度"
+            },
+            {
+              "chord": "D",
+              "text": "福 音，"
+            },
+            {
+              "chord": "",
+              "text": "帶"
+            },
+            {
+              "chord": "D7",
+              "text": "給 萬"
+            },
+            {
+              "chord": "G",
+              "text": "邦。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "必 如 鷹"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "神 的"
+            },
+            {
+              "chord": "G",
+              "text": "飛 鷹，"
+            },
+            {
+              "chord": "F",
+              "text": "展 翅"
+            },
+            {
+              "chord": "C",
+              "text": "翱 翔，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "展 翅，"
-        },
-        {
-          "chord": "",
-          "text": "上"
-        },
-        {
-          "chord": "D",
-          "text": "騰 離"
-        },
-        {
-          "chord": "G",
-          "text": "地。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直 到 錫"
+            },
+            {
+              "chord": "F",
+              "text": "安，"
+            },
+            {
+              "chord": "D",
+              "text": "永 遠"
+            },
+            {
+              "chord": "",
+              "text": "同"
+            },
+            {
+              "chord": "G7",
+              "text": "主 作"
+            },
+            {
+              "chord": "C",
+              "text": "王。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "憑 復"
+          "segments": [
+            {
+              "chord": "",
+              "text": "顾到神权益，不为自己；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "活"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我被取代，让主顶替。"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "大 能，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "与主成为一，有如飞鹰；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "翱"
+          "segments": [
+            {
+              "chord": "",
+              "text": "成为得胜者，击败仇敌。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "翔 天"
+          "segments": [
+            {
+              "chord": "",
+              "text": "往普天下去，传扬福音；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "際；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "栽种召会树，开展移民。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "作耶稣见证，跟随七灵；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "金灯台照亮，国度降临。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "奔 跑 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神的飞鹰，展翅翱翔，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "困 倦，"
-        },
-        {
-          "chord": "",
-          "text": "行"
-        },
-        {
-          "chord": "G",
-          "text": "走 不"
-        },
-        {
-          "chord": "C",
-          "text": "疲。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "飛 向 蔚"
-        },
-        {
-          "chord": "F",
-          "text": "藍 天，"
-        },
-        {
-          "chord": "",
-          "text": "遠 離"
-        },
-        {
-          "chord": "C",
-          "text": "家 鄉；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "脫 世 俗"
-        },
-        {
-          "chord": "G",
-          "text": "羈 絆，"
-        },
-        {
-          "chord": "",
-          "text": "去 地"
-        },
-        {
-          "chord": "C",
-          "text": "捆 綁。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "願 受 主"
-        },
-        {
-          "chord": "F",
-          "text": "差 遣，"
-        },
-        {
-          "chord": "",
-          "text": "同 祂"
-        },
-        {
-          "chord": "Am",
-          "text": "前 往；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "將 國 度"
-        },
-        {
-          "chord": "D",
-          "text": "福 音，"
-        },
-        {
-          "chord": "",
-          "text": "帶"
-        },
-        {
-          "chord": "D7",
-          "text": "給 萬"
-        },
-        {
-          "chord": "G",
-          "text": "邦。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "神 的"
-        },
-        {
-          "chord": "G",
-          "text": "飛 鷹，"
-        },
-        {
-          "chord": "F",
-          "text": "展 翅"
-        },
-        {
-          "chord": "C",
-          "text": "翱 翔，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直 到 錫"
-        },
-        {
-          "chord": "F",
-          "text": "安，"
-        },
-        {
-          "chord": "D",
-          "text": "永 遠"
-        },
-        {
-          "chord": "",
-          "text": "同"
-        },
-        {
-          "chord": "G7",
-          "text": "主 作"
-        },
-        {
-          "chord": "C",
-          "text": "王。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "顾到神权益，不为自己；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我被取代，让主顶替。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "与主成为一，有如飞鹰；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "成为得胜者，击败仇敌。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "往普天下去，传扬福音；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "栽种召会树，开展移民。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作耶稣见证，跟随七灵；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "金灯台照亮，国度降临。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神的飞鹰，展翅翱翔，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到锡安，永远同主作王。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到锡安，永远同主作王。"
+            }
+          ]
         }
       ]
     }
@@ -322,7 +338,16 @@
   "metadata": {
     "category": "事奉与福音",
     "time": "4/4",
-    "hymn_code": "3356617753353253262"
+    "hymn_code": "3356617753353253262",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6874",
+        "language": "cn",
+        "category": "h",
+        "number": "6874",
+        "title": "E6874"
+      }
+    ]
   },
   "raw_sections": [
     "等 候耶和 華，重新 得力；",

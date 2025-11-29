@@ -1,224 +1,244 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/857",
   "title": "宣扬直到国度临",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "應 當"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "應 當"
+            },
+            {
+              "chord": "",
+              "text": "宣 揚， 宣 揚 主 話 使 國"
+            },
+            {
+              "chord": "C",
+              "text": "度 來"
+            },
+            {
+              "chord": "G",
+              "text": "臨；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "宣 揚， 宣 揚 主 話 使 國"
+          "segments": [
+            {
+              "chord": "",
+              "text": "盡 力 宣 揚， 宣 揚 主 話 直 到"
+            },
+            {
+              "chord": "A",
+              "text": "國 度"
+            },
+            {
+              "chord": "D",
+              "text": "臨。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "度 來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "和 平 福"
+            },
+            {
+              "chord": "G",
+              "text": "音， 不"
+            },
+            {
+              "chord": "",
+              "text": "該 藏"
+            },
+            {
+              "chord": "C",
+              "text": "隱；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "臨；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "盡 力 宣 揚， 宣 揚 主 話 直 到"
+          "segments": [
+            {
+              "chord": "",
+              "text": "應 當"
+            },
+            {
+              "chord": "G",
+              "text": "宣 揚，"
+            },
+            {
+              "chord": "",
+              "text": "宣 揚"
+            },
+            {
+              "chord": "D",
+              "text": "主 話"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "國 度"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直 到"
+            },
+            {
+              "chord": "D7",
+              "text": "國 度"
+            },
+            {
+              "chord": "G",
+              "text": "臨。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主话有能，尽管释放，必不归徒然；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "臨。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "和 平 福"
+          "segments": [
+            {
+              "chord": "",
+              "text": "凭信撒种，必有结果，绝不归徒然。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "音， 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "殷勤撒种，必得亨通；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "該 藏"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主话有能，尽管撒种，必不归徒然。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "这是时候！我们传扬福音遍人间；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "隱；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "應 當"
+          "segments": [
+            {
+              "chord": "",
+              "text": "把握今日，传扬福音不怕人弃嫌。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "宣 揚，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不必畏缩，主已工作！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "宣 揚"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天程旅客与主合作，不怕人弃嫌。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "只管传讲，基督必在人心作见证。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "主 話"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直 到"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们传讲，基督就在人心作见证。"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "國 度"
+          "segments": [
+            {
+              "chord": "",
+              "text": "宣扬主恩，为主得人；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "臨。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们传讲，基督就在人心作见证。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "主话有能，尽管释放，必不归徒然；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "庄稼已熟！前去收割不必再等候！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "凭信撒种，必有结果，绝不归徒然。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "田已发白！前去收割不必再等候！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "殷勤撒种，必得亨通；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督、召会，丰满全备─"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "主话有能，尽管撒种，必不归徒然。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "这是时候！我们传扬福音遍人间；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "把握今日，传扬福音不怕人弃嫌。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不必畏缩，主已工作！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天程旅客与主合作，不怕人弃嫌。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只管传讲，基督必在人心作见证。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们传讲，基督就在人心作见证。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "宣扬主恩，为主得人；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们传讲，基督就在人心作见证。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "庄稼已熟！前去收割不必再等候！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "田已发白！前去收割不必再等候！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督、召会，丰满全备─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "完满福音速速传扬，满足人所求。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "完满福音速速传扬，满足人所求。"
+            }
+          ]
         }
       ]
     }
@@ -226,7 +246,16 @@
   "metadata": {
     "category": "事奉与福音",
     "time": "2/2",
-    "hymn_code": "5671651165161"
+    "hymn_code": "5671651165161",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1294",
+        "language": "cn",
+        "category": "h",
+        "number": "1294",
+        "title": "E1294"
+      }
+    ]
   },
   "raw_sections": [
     "應 當宣 揚， 宣 揚 主 話 使 國度 來臨；",

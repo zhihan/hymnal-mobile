@@ -1,236 +1,248 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/402",
   "title": "吸引",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "吸 引、"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "吸 引、"
+            },
+            {
+              "chord": "",
+              "text": "吸 引，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "吸 引，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "C",
+              "text": "們 被"
+            },
+            {
+              "chord": "G",
+              "text": "吸 引"
+            },
+            {
+              "chord": "",
+              "text": "轉 向"
+            },
+            {
+              "chord": "D",
+              "text": "主，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "們 被"
+          "segments": [
+            {
+              "chord": "",
+              "text": "再 好 的 前 途"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "吸 引"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們"
+            },
+            {
+              "chord": "D7",
+              "text": "也 不"
+            },
+            {
+              "chord": "",
+              "text": "屑 一"
+            },
+            {
+              "chord": "G",
+              "text": "顧。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "轉 向"
+          "segments": [
+            {
+              "chord": "",
+              "text": "情 願 趁 著 現"
+            },
+            {
+              "chord": "C",
+              "text": "在，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "再 好 的 前 途"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "把"
+            },
+            {
+              "chord": "G",
+              "text": "上 好"
+            },
+            {
+              "chord": "G7",
+              "text": "的 年"
+            },
+            {
+              "chord": "C",
+              "text": "歲，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "也 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "全 然 奉"
+            },
+            {
+              "chord": "G",
+              "text": "獻 給"
+            },
+            {
+              "chord": "",
+              "text": "基 督"
+            },
+            {
+              "chord": "D7",
+              "text": "與 召"
+            },
+            {
+              "chord": "G",
+              "text": "會！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "吸引、吸引，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "屑 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "召会生活满了丰富；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "顧。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "情 願 趁 著 現"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从岁首到年终，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "在，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "把"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神眼目常看顾，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "上 好"
+          "segments": [
+            {
+              "chord": "",
+              "text": "百花开放，百鸟鸣叫，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "的 年"
+          "segments": [
+            {
+              "chord": "",
+              "text": "满了生命，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "歲，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荫下尝甘甜显出祂秀美。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "全 然 奉"
+          "segments": [
+            {
+              "chord": "",
+              "text": "吸引、吸引，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "獻 給"
+          "segments": [
+            {
+              "chord": "",
+              "text": "可爱新郎步步临近；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "基 督"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂正在侧耳倾听，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "與 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要题我的名。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "會！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "有天祂要回到半空中，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "吸引、吸引，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "悄悄的，一刹那之间"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "召会生活满了丰富；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从岁首到年终，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神眼目常看顾，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "百花开放，百鸟鸣叫，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "满了生命，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荫下尝甘甜显出祂秀美。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "吸引、吸引，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "可爱新郎步步临近；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂正在侧耳倾听，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要题我的名。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有天祂要回到半空中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "悄悄的，一刹那之间"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "把我吸上去！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "把我吸上去！"
+            }
+          ]
         }
       ]
     }

@@ -1,292 +1,304 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/850",
   "title": "不愿自由外出",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "我 愛，"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "我 愛，"
+            },
+            {
+              "chord": "",
+              "text": "我 愛 我"
+            },
+            {
+              "chord": "G",
+              "text": "恩"
+            },
+            {
+              "chord": "C",
+              "text": "主，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 愛 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不 願 自"
+            },
+            {
+              "chord": "E7",
+              "text": "由 外"
+            },
+            {
+              "chord": "F",
+              "text": "出；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "恩"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因"
+            },
+            {
+              "chord": "C",
+              "text": "祂 是"
+            },
+            {
+              "chord": "E7",
+              "text": "我 救"
+            },
+            {
+              "chord": "Am",
+              "text": "贖 主，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "主，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "為"
+            },
+            {
+              "chord": "D",
+              "text": "我 贖"
+            },
+            {
+              "chord": "",
+              "text": "價 已"
+            },
+            {
+              "chord": "G",
+              "text": "付。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "愛"
+            },
+            {
+              "chord": "E7",
+              "text": "祂、 事"
+            },
+            {
+              "chord": "",
+              "text": "祂 永"
+            },
+            {
+              "chord": "Am",
+              "text": "不"
+            },
+            {
+              "chord": "G",
+              "text": "離，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "何"
+            },
+            {
+              "chord": "C",
+              "text": "其 甘"
+            },
+            {
+              "chord": "",
+              "text": "甜、 蒙"
+            },
+            {
+              "chord": "G",
+              "text": "福；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "雖"
+            },
+            {
+              "chord": "C",
+              "text": "然 有"
+            },
+            {
+              "chord": "E7",
+              "text": "時 會"
+            },
+            {
+              "chord": "Am",
+              "text": "困 倦，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂"
+            },
+            {
+              "chord": "F",
+              "text": "賜 安"
+            },
+            {
+              "chord": "G7",
+              "text": "息 穩"
+            },
+            {
+              "chord": "C",
+              "text": "固。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "不 願 自"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我主舍命流宝血，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "由 外"
+          "segments": [
+            {
+              "chord": "",
+              "text": "重价买我归属；"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "出；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因"
+          "segments": [
+            {
+              "chord": "",
+              "text": "救我脱离罪权势，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "祂 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "脱离己的束缚。"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "我 救"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂既召我来事奉，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "贖 主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我愿甘心顺服；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我 贖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如此永享真自由─"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "價 已"
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱中作祂奴仆。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "全心事奉不半途，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "付。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟有祂是我主；"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "祂、 事"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是爱我将命舍，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "祂 永"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我愿永远祂属。"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我心感戴、灵欢腾，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "離，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何"
+          "segments": [
+            {
+              "chord": "",
+              "text": "口中高歌不住："
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "其 甘"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我爱，我爱我恩主，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "甜、 蒙"
-        },
-        {
-          "chord": "G",
-          "text": "福；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "雖"
-        },
-        {
-          "chord": "C",
-          "text": "然 有"
-        },
-        {
-          "chord": "E7",
-          "text": "時 會"
-        },
-        {
-          "chord": "Am",
-          "text": "困 倦，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂"
-        },
-        {
-          "chord": "F",
-          "text": "賜 安"
-        },
-        {
-          "chord": "G7",
-          "text": "息 穩"
-        },
-        {
-          "chord": "C",
-          "text": "固。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我主舍命流宝血，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "重价买我归属；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "救我脱离罪权势，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "脱离己的束缚。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂既召我来事奉，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我愿甘心顺服；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如此永享真自由─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱中作祂奴仆。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全心事奉不半途，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惟有祂是我主；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是爱我将命舍，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我愿永远祂属。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我心感戴、灵欢腾，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "口中高歌不住："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我爱，我爱我恩主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不愿自由外出。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不愿自由外出。"
+            }
+          ]
         }
       ]
     }
@@ -294,7 +306,16 @@
   "metadata": {
     "category": "事奉与福音",
     "time": "4/4",
-    "hymn_code": "1214321351756"
+    "hymn_code": "1214321351756",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/463",
+        "language": "cn",
+        "category": "h",
+        "number": "463",
+        "title": "E463"
+      }
+    ]
   },
   "raw_sections": [
     "我 愛，我 愛 我恩主，",

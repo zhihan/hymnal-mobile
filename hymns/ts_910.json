@@ -1,444 +1,456 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/910",
   "title": "改变",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "曾 頂 羨"
+            },
+            {
+              "chord": "D7",
+              "text": "慕"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "曾 頂 羨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "門 徒"
+            },
+            {
+              "chord": "G",
+              "text": "在 高"
+            },
+            {
+              "chord": "",
+              "text": "山 上，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "慕"
+          "segments": [
+            {
+              "chord": "",
+              "text": "親 眼"
+            },
+            {
+              "chord": "D",
+              "text": "看 見"
+            },
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "A",
+              "text": "改 變"
+            },
+            {
+              "chord": "",
+              "text": "形"
+            },
+            {
+              "chord": "A7",
+              "text": "像，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 面"
+            },
+            {
+              "chord": "D",
+              "text": "貌 像"
+            },
+            {
+              "chord": "",
+              "text": "日"
+            },
+            {
+              "chord": "D7",
+              "text": "頭"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "顯 出"
+            },
+            {
+              "chord": "G",
+              "text": "何 等"
+            },
+            {
+              "chord": "",
+              "text": "榮 光，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 衣"
+            },
+            {
+              "chord": "D",
+              "text": "裳 潔"
+            },
+            {
+              "chord": "",
+              "text": "白"
+            },
+            {
+              "chord": "A7",
+              "text": "何 等"
+            },
+            {
+              "chord": "",
+              "text": "明"
+            },
+            {
+              "chord": "D",
+              "text": "亮！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "現 在 我 們"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "每"
+            },
+            {
+              "chord": "D7",
+              "text": "當 想"
+            },
+            {
+              "chord": "",
+              "text": "到"
+            },
+            {
+              "chord": "G",
+              "text": "你 快"
+            },
+            {
+              "chord": "",
+              "text": "回 來，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們"
+            },
+            {
+              "chord": "D",
+              "text": "就 立"
+            },
+            {
+              "chord": "",
+              "text": "刻"
+            },
+            {
+              "chord": "A",
+              "text": "喜 樂"
+            },
+            {
+              "chord": "",
+              "text": "滿"
+            },
+            {
+              "chord": "A7",
+              "text": "懷，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "因 為"
+            },
+            {
+              "chord": "D",
+              "text": "在 還"
+            },
+            {
+              "chord": "",
+              "text": "沒"
+            },
+            {
+              "chord": "D7",
+              "text": "有"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "嘗 到"
+            },
+            {
+              "chord": "G",
+              "text": "死 味"
+            },
+            {
+              "chord": "",
+              "text": "之 先，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "同 樣"
+            },
+            {
+              "chord": "D",
+              "text": "要 看"
+            },
+            {
+              "chord": "",
+              "text": "見"
+            },
+            {
+              "chord": "A7",
+              "text": "你 的"
+            },
+            {
+              "chord": "",
+              "text": "顯"
+            },
+            {
+              "chord": "D",
+              "text": "現！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "門 徒"
+          "segments": [
+            {
+              "chord": "",
+              "text": "那一次门徒们"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "在 高"
+          "segments": [
+            {
+              "chord": "",
+              "text": "看见你的改变，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "山 上，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "虽然是真好，却是有限，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "因为你那时候，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "还没有经过死，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不过是父怀中的爱子。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "如今你再来到，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "要得完全荣耀；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "千万的圣徒，赞赏不置！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你是万王之王，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你是万主之主，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你要与你的百姓同住。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "親 眼"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，我们赞美你，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "看 見"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不只你得荣耀，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "也要把众子带进荣耀！"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "改 變"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们原是罪人，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "形"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在你眼中蒙恩，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "像，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 面"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为要变成你爱的标本。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "貌 像"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们原是泥土，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "日"
+          "segments": [
+            {
+              "chord": "",
+              "text": "竟然要变宝石，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "頭"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "顯 出"
+          "segments": [
+            {
+              "chord": "",
+              "text": "等候着在荣耀里显出。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "何 等"
+          "segments": [
+            {
+              "chord": "",
+              "text": "即使在永世里，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "榮 光，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 衣"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们也唱不尽，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "裳 潔"
-        },
-        {
-          "chord": "",
-          "text": "白"
-        },
-        {
-          "chord": "A7",
-          "text": "何 等"
-        },
-        {
-          "chord": "",
-          "text": "明"
-        },
-        {
-          "chord": "D",
-          "text": "亮！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "現 在 我 們"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "每"
-        },
-        {
-          "chord": "D7",
-          "text": "當 想"
-        },
-        {
-          "chord": "",
-          "text": "到"
-        },
-        {
-          "chord": "G",
-          "text": "你 快"
-        },
-        {
-          "chord": "",
-          "text": "回 來，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們"
-        },
-        {
-          "chord": "D",
-          "text": "就 立"
-        },
-        {
-          "chord": "",
-          "text": "刻"
-        },
-        {
-          "chord": "A",
-          "text": "喜 樂"
-        },
-        {
-          "chord": "",
-          "text": "滿"
-        },
-        {
-          "chord": "A7",
-          "text": "懷，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因 為"
-        },
-        {
-          "chord": "D",
-          "text": "在 還"
-        },
-        {
-          "chord": "",
-          "text": "沒"
-        },
-        {
-          "chord": "D7",
-          "text": "有"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "嘗 到"
-        },
-        {
-          "chord": "G",
-          "text": "死 味"
-        },
-        {
-          "chord": "",
-          "text": "之 先，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同 樣"
-        },
-        {
-          "chord": "D",
-          "text": "要 看"
-        },
-        {
-          "chord": "",
-          "text": "見"
-        },
-        {
-          "chord": "A7",
-          "text": "你 的"
-        },
-        {
-          "chord": "",
-          "text": "顯"
-        },
-        {
-          "chord": "D",
-          "text": "現！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "那一次门徒们"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "看见你的改变，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "虽然是真好，却是有限，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因为你那时候，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "还没有经过死，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不过是父怀中的爱子。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如今你再来到，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要得完全荣耀；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "千万的圣徒，赞赏不置！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你是万王之王，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你是万主之主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你要与你的百姓同住。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，我们赞美你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不只你得荣耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "也要把众子带进荣耀！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们原是罪人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在你眼中蒙恩，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为要变成你爱的标本。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们原是泥土，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "竟然要变宝石，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "等候着在荣耀里显出。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "即使在永世里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们也唱不尽，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱戴之情与感激之心！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱戴之情与感激之心！"
+            }
+          ]
         }
       ]
     }

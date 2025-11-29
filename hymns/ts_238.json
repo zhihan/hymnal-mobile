@@ -1,136 +1,140 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/238",
   "title": "在主耶稣名下就必得胜",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "在 主"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "在 主"
+            },
+            {
+              "chord": "",
+              "text": "耶 穌 名 下，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "耶 穌 名 下，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在 主 耶 穌 名 下，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們 就 必 得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在 主 耶 穌 名 下，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "勝！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "在 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們 就 必 得"
+            },
+            {
+              "chord": "A",
+              "text": "勝！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "耶 穌 名 下，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在 主 耶 穌 名 下，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "撒 但 懼 怕 無"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "在 主"
+            },
+            {
+              "chord": "",
+              "text": "耶 穌 名 下，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "能。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "在 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在 主 耶 穌 名 下，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "們 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "撒 但 懼 怕 無"
+            },
+            {
+              "chord": "D",
+              "text": "能。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "耶 穌"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "在 我"
+            },
+            {
+              "chord": "",
+              "text": "們 主"
+            },
+            {
+              "chord": "D",
+              "text": "耶 穌"
+            },
+            {
+              "chord": "",
+              "text": "名 下，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "名 下，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "無 人"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "無 人"
+            },
+            {
+              "chord": "",
+              "text": "能 彀 抵"
+            },
+            {
+              "chord": "D7",
+              "text": "擋；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "能 彀 抵"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "在 主"
+            },
+            {
+              "chord": "",
+              "text": "耶 穌"
+            },
+            {
+              "chord": "D",
+              "text": "名 下，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "擋；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "在 主"
-        },
-        {
-          "chord": "",
-          "text": "耶 穌"
-        },
-        {
-          "chord": "D",
-          "text": "名 下，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "我 們"
-        },
-        {
-          "chord": "",
-          "text": "就 必 得"
-        },
-        {
-          "chord": "D",
-          "text": "勝！"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "就 必 得"
+            },
+            {
+              "chord": "D",
+              "text": "勝！"
+            }
+          ]
         }
       ]
     }

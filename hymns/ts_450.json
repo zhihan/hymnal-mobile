@@ -1,408 +1,428 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/450",
   "title": "盼望何等坚定",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "神 話"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "神 話"
+            },
+            {
+              "chord": "",
+              "text": "語 賜 盼 望 何 等"
+            },
+            {
+              "chord": "Em",
+              "text": "堅 定："
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "語 賜 盼 望 何 等"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主 來"
+            },
+            {
+              "chord": "A",
+              "text": "時， 我"
+            },
+            {
+              "chord": "A7",
+              "text": "全 人"
+            },
+            {
+              "chord": "",
+              "text": "必 得"
+            },
+            {
+              "chord": "D",
+              "text": "贖；"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "堅 定："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主 來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但 患 難 帶 來 疑 惑 與"
+            },
+            {
+              "chord": "Em",
+              "text": "憂 懼，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "時， 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "盼 望"
+            },
+            {
+              "chord": "A",
+              "text": "隱， 異"
+            },
+            {
+              "chord": "A7",
+              "text": "象 逐"
+            },
+            {
+              "chord": "",
+              "text": "漸 糢"
+            },
+            {
+              "chord": "D",
+              "text": "糊。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "全 人"
+          "segments": [
+            {
+              "chord": "",
+              "text": "磨 難 間， 本 不 知 如 何"
+            },
+            {
+              "chord": "G",
+              "text": "禱 告，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "必 得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "無 言"
+            },
+            {
+              "chord": "A",
+              "text": "中， 只"
+            },
+            {
+              "chord": "A7",
+              "text": "有 深"
+            },
+            {
+              "chord": "",
+              "text": "處 歎"
+            },
+            {
+              "chord": "D",
+              "text": "息；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "贖；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但 患 難 帶 來 疑 惑 與"
+          "segments": [
+            {
+              "chord": "",
+              "text": "雖 輭 弱， 有 那 靈 幫 同"
+            },
+            {
+              "chord": "Em",
+              "text": "擔 負，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "憂 懼，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "照 著"
+            },
+            {
+              "chord": "A",
+              "text": "神， 為"
+            },
+            {
+              "chord": "A7",
+              "text": "我 代"
+            },
+            {
+              "chord": "",
+              "text": "禱 求"
+            },
+            {
+              "chord": "D",
+              "text": "祈。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "盼 望"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，我是不敢求受苦更深，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "隱， 異"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只望能免去试炼袭击；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "象 逐"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你若许，求将苦杯速撤去，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "漸 糢"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但必须是你旨，非我意。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "糊。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "磨 難 間， 本 不 知 如 何"
+          "segments": [
+            {
+              "chord": "",
+              "text": "真希奇！此时艰难虽四布，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "禱 告，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "無 言"
+          "segments": [
+            {
+              "chord": "",
+              "text": "深处竟安然一无罣虑；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "中， 只"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因有神大爱浇灌我心内，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "有 深"
+          "segments": [
+            {
+              "chord": "",
+              "text": "溢我魂，驱尽所有疑惧。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "何稳妥！神主宰调度万有，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "處 歎"
+          "segments": [
+            {
+              "chord": "",
+              "text": "全为使爱祂者得益处；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "息；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "雖 輭 弱， 有 那 靈 幫 同"
+          "segments": [
+            {
+              "chord": "",
+              "text": "勿让我因眼瞎竟不知悉，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "擔 負，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "照 著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "无一事非祂爱所部署。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "神， 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃是父答应那灵的代求，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "我 代"
+          "segments": [
+            {
+              "chord": "",
+              "text": "赐我以诸般试炼、煎熬；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "禱 求"
+          "segments": [
+            {
+              "chord": "",
+              "text": "患难中，愿主扩增我减少，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "祈。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到我充满基督荣耀。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "主，我是不敢求受苦更深，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神儿女既有神儿子生命，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂岂不借管教施成全？"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "如器皿在窑匠甄陶手中，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "岂不经琢磨使荣美现？"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "神衷心所渴望是得众子，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "模成祂长子荣耀形像；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们既是基督许多弟兄，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "岂能不与祂一式一样？"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "只望能免去试炼袭击；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "何盼望！同基督作神后嗣；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "你若许，求将苦杯速撤去，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "何辉煌！救恩要达至极。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "但必须是你旨，非我意。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "今时的苦楚似沉痛难当，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "真希奇！此时艰难虽四布，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "不配与将来荣耀相比。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "深处竟安然一无罣虑；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "凡事上，我们已得胜有馀，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "因有神大爱浇灌我心内，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃借祂-那爱我们的主；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "溢我魂，驱尽所有疑惧。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀日，神众子就要显出，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "何稳妥！神主宰调度万有，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全为使爱祂者得益处；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "勿让我因眼瞎竟不知悉，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "无一事非祂爱所部署。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃是父答应那灵的代求，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赐我以诸般试炼、煎熬；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "患难中，愿主扩增我减少，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到我充满基督荣耀。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神儿女既有神儿子生命，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂岂不借管教施成全？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如器皿在窑匠甄陶手中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "岂不经琢磨使荣美现？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神衷心所渴望是得众子，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "模成祂长子荣耀形像；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们既是基督许多弟兄，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "岂能不与祂一式一样？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何盼望！同基督作神后嗣；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何辉煌！救恩要达至极。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今时的苦楚似沉痛难当，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不配与将来荣耀相比。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "凡事上，我们已得胜有馀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃借祂-那爱我们的主；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀日，神众子就要显出，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "受造物享自由何满足！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "受造物享自由何满足！"
+            }
+          ]
         }
       ]
     }
@@ -410,7 +430,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "4/4",
-    "hymn_code": "3211112332"
+    "hymn_code": "3211112332",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1210",
+        "language": "cn",
+        "category": "h",
+        "number": "1210",
+        "title": "E1210"
+      }
+    ]
   },
   "raw_sections": [
     "神 話語 賜 盼 望 何 等堅 定：",

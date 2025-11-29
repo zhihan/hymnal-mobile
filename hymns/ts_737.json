@@ -1,148 +1,152 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/737",
   "title": "要将供物送仓库",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "萬 軍"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "萬 軍"
+            },
+            {
+              "chord": "",
+              "text": "之 耶 和"
+            },
+            {
+              "chord": "A",
+              "text": "華 神"
+            },
+            {
+              "chord": "D",
+              "text": "說，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "之 耶 和"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 們 要 將 當"
+            },
+            {
+              "chord": "G",
+              "text": "納 供"
+            },
+            {
+              "chord": "A",
+              "text": "物，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "華 神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "十 分 之"
+            },
+            {
+              "chord": "D",
+              "text": "一 全"
+            },
+            {
+              "chord": "",
+              "text": "送 倉"
+            },
+            {
+              "chord": "A",
+              "text": "庫，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "說，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 們 要 將 當"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使"
+            },
+            {
+              "chord": "D",
+              "text": "我 有"
+            },
+            {
+              "chord": "",
+              "text": "糧， 以"
+            },
+            {
+              "chord": "A",
+              "text": "此 試"
+            },
+            {
+              "chord": "D",
+              "text": "我，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "納 供"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是 否 為 你 敞 開 天 窗，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "物，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "十 分 之"
+          "segments": [
+            {
+              "chord": "",
+              "text": "傾 福 於 你 無 處 可 容。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "一 全"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 必 為 你 斥 責 蝗 蟲，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "送 倉"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不 容 它 毀 壞 你 土 產，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "庫，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 們 田 間 的 葡 萄 樹，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "未 熟 之 先 不 掉 果 子；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "糧， 以"
+          "segments": [
+            {
+              "chord": "",
+              "text": "萬 國 必 稱 你 們 有 福，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "此 試"
-        },
-        {
-          "chord": "D",
-          "text": "我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是 否 為 你 敞 開 天 窗，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "傾 福 於 你 無 處 可 容。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 必 為 你 斥 責 蝗 蟲，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不 容 它 毀 壞 你 土 產，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 們 田 間 的 葡 萄 樹，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "未 熟 之 先 不 掉 果 子；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "萬 國 必 稱 你 們 有 福，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 地 必 成 喜 樂 之 地。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 地 必 成 喜 樂 之 地。"
+            }
+          ]
         }
       ]
     }

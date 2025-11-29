@@ -1,340 +1,372 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/423",
   "title": "向前直跑",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "向 前"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "向 前"
+            },
+            {
+              "chord": "",
+              "text": "直 跑， 向 前 直 跑！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "直 跑， 向 前 直 跑！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "標 竿 是 萬 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "標 竿 是 萬 有"
+            },
+            {
+              "chord": "G",
+              "text": "主；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "主；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "為 得 獎"
+          "segments": [
+            {
+              "chord": "",
+              "text": "為 得 獎"
+            },
+            {
+              "chord": "G7",
+              "text": "賞， 別"
+            },
+            {
+              "chord": "C",
+              "text": "無 旁"
+            },
+            {
+              "chord": "",
+              "text": "顧，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "賞， 別"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一"
+            },
+            {
+              "chord": "F",
+              "text": "直 跑"
+            },
+            {
+              "chord": "G7",
+              "text": "向 基"
+            },
+            {
+              "chord": "C",
+              "text": "督。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "向 前"
+            },
+            {
+              "chord": "G7",
+              "text": "跑， 向"
+            },
+            {
+              "chord": "",
+              "text": "前"
+            },
+            {
+              "chord": "C",
+              "text": "跑，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "無 旁"
+          "segments": [
+            {
+              "chord": "",
+              "text": "向 前"
+            },
+            {
+              "chord": "G7",
+              "text": "跑！ 阿"
+            },
+            {
+              "chord": "",
+              "text": "利"
+            },
+            {
+              "chord": "C",
+              "text": "路 亞，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "顧，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要 得 獎 賞 向 前"
+            },
+            {
+              "chord": "G7",
+              "text": "跑，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "直 跑"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一 直"
+            },
+            {
+              "chord": "C",
+              "text": "跑！ 為"
+            },
+            {
+              "chord": "F",
+              "text": "要 得"
+            },
+            {
+              "chord": "G",
+              "text": "著"
+            },
+            {
+              "chord": "G7",
+              "text": "基"
+            },
+            {
+              "chord": "C",
+              "text": "督。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "向前直跑！丢弃万事，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "向 基"
+          "segments": [
+            {
+              "chord": "",
+              "text": "看万物如粪土！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "督。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向 前"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神的基督，荣耀奖赏，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "跑， 向"
+          "segments": [
+            {
+              "chord": "",
+              "text": "吸引我的脚步！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "向前跑，向前跑，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "前"
+          "segments": [
+            {
+              "chord": "",
+              "text": "向前跑！阿利路亚，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "跑，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向 前"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要得奖赏向前跑，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "跑！ 阿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一直跑！为要得着基督。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "向前直跑！认识基督，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "利"
+          "segments": [
+            {
+              "chord": "",
+              "text": "经历复活高超，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "路 亞，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要 得 獎 賞 向 前"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，这乃是上好奖赏─"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "跑，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "若先进入荣耀！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "一 直"
+          "segments": [
+            {
+              "chord": "",
+              "text": "向前跑，向前跑，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "跑！ 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "向前跑！阿利路亚，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "要 得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要得奖赏向前跑，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一直跑！为要得着基督。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "向前直跑！只有一事："
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "基"
+          "segments": [
+            {
+              "chord": "",
+              "text": "就是忘记背后，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "督。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "向着前头基督直跑，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "向前永不回头！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "向前直跑！丢弃万事，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "向前跑，向前跑，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "看万物如粪土！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "向前跑！阿利路亚，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "神的基督，荣耀奖赏，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "要得奖赏向前跑，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "吸引我的脚步！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向前跑，向前跑，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向前跑！阿利路亚，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要得奖赏向前跑，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一直跑！为要得着基督。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向前直跑！认识基督，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "经历复活高超，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，这乃是上好奖赏─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "若先进入荣耀！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向前跑，向前跑，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向前跑！阿利路亚，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要得奖赏向前跑，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一直跑！为要得着基督。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向前直跑！只有一事："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "就是忘记背后，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向着前头基督直跑，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向前永不回头！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向前跑，向前跑，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向前跑！阿利路亚，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要得奖赏向前跑，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一直跑！为要得着基督。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一直跑！为要得着基督。"
+            }
+          ]
         }
       ]
     }
@@ -342,7 +374,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "4/4",
-    "hymn_code": "55554433333534"
+    "hymn_code": "55554433333534",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1205",
+        "language": "cn",
+        "category": "h",
+        "number": "1205",
+        "title": "E1205"
+      }
+    ]
   },
   "raw_sections": [
     "向 前直 跑， 向 前 直 跑！",

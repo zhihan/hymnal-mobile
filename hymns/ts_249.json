@@ -1,604 +1,636 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/249",
   "title": "耶稣是首先，耶稣是末后",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "一 切"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "一 切"
+            },
+            {
+              "chord": "G",
+              "text": "變 遷"
+            },
+            {
+              "chord": "",
+              "text": "中 有 一 位，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "變 遷"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永"
+            },
+            {
+              "chord": "C",
+              "text": "遠 屹"
+            },
+            {
+              "chord": "",
+              "text": "立 不"
+            },
+            {
+              "chord": "G",
+              "text": "朽；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "中 有 一 位，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟 祂"
+            },
+            {
+              "chord": "D",
+              "text": "昔 是、"
+            },
+            {
+              "chord": "",
+              "text": "今 是、 永 是，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "遠 屹"
+          "segments": [
+            {
+              "chord": "",
+              "text": "包"
+            },
+            {
+              "chord": "A7",
+              "text": "羅 萬"
+            },
+            {
+              "chord": "",
+              "text": "有， 永"
+            },
+            {
+              "chord": "D",
+              "text": "久！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "立 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "這 是"
+            },
+            {
+              "chord": "G",
+              "text": "基 督─"
+            },
+            {
+              "chord": "",
+              "text": "永 久 磐 石， 哦，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "朽；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惟 祂"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "祂 是"
+            },
+            {
+              "chord": "",
+              "text": "首"
+            },
+            {
+              "chord": "Am",
+              "text": "先， 祂"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "昔 是、"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "也"
+            },
+            {
+              "chord": "D7",
+              "text": "是 末"
+            },
+            {
+              "chord": "G",
+              "text": "後。 耶"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "穌 是 首"
+            },
+            {
+              "chord": "G7",
+              "text": "先，"
+            },
+            {
+              "chord": "C",
+              "text": "耶"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "今 是、 永 是，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "包"
+          "segments": [
+            {
+              "chord": "",
+              "text": "穌 是 末"
+            },
+            {
+              "chord": "G",
+              "text": "後，"
+            },
+            {
+              "chord": "D",
+              "text": "已"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "羅 萬"
+          "segments": [
+            {
+              "chord": "",
+              "text": "往 交 祂 擔 去，"
+            },
+            {
+              "chord": "A7",
+              "text": "將"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "有， 永"
+          "segments": [
+            {
+              "chord": "",
+              "text": "來 祂 保"
+            },
+            {
+              "chord": "D",
+              "text": "守；"
+            },
+            {
+              "chord": "G",
+              "text": "耶"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "久！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "這 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "穌 是 首"
+            },
+            {
+              "chord": "G7",
+              "text": "先，"
+            },
+            {
+              "chord": "C",
+              "text": "耶"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "基 督─"
+          "segments": [
+            {
+              "chord": "",
+              "text": "穌 是 末 後，"
+            },
+            {
+              "chord": "Am",
+              "text": "基"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "永 久 磐 石， 哦，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "祂 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "督─ 永 久"
+            },
+            {
+              "chord": "G",
+              "text": "磐"
+            },
+            {
+              "chord": "C",
+              "text": "石， 首"
+            },
+            {
+              "chord": "G",
+              "text": "先"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "首"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "與 末"
+            },
+            {
+              "chord": "G",
+              "text": "後。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "这位用祂大能膀臂，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "先， 祂"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "也"
+          "segments": [
+            {
+              "chord": "",
+              "text": "托住宇宙万有，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "是 末"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但祂向人敞开胸臆，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "後。 耶"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "穌 是 首"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要人向祂倚投；"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "先，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "忧疑尽可带来归祂，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "耶"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "穌 是 末"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因祂是首先，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "後，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂也是末后。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣是首先，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "已"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "往 交 祂 擔 去，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣是末后，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "將"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "來 祂 保"
+          "segments": [
+            {
+              "chord": "",
+              "text": "已往交祂担去，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "守；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将来祂保守；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "耶"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "穌 是 首"
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣是首先，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "先，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣是末后，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "耶"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "穌 是 末 後，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督─永久磐石，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "基"
+          "segments": [
+            {
+              "chord": "",
+              "text": "首先与末后。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "督─ 永 久"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惊涛骇浪不过证明："
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "磐"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂爱永无尽头；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "石， 首"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到所有风波过去，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "先"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "與 末"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂手仍必保守；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "後。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "信靠耶稣绝不蒙羞，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "因祂是首先，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂也是末后。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "这位用祂大能膀臂，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣是首先，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣是末后，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "已往交祂担去，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "将来祂保守；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣是首先，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣是末后，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督─永久磐石，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "首先与末后。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "托住宇宙万有，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们加冠至爱基督，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是首先、末后。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "万主之主，你脚凳前，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "冠冕都当倾投。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "那日快临，万有拜叩："
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟你是首先，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你也是末后。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "但祂向人敞开胸臆，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣是首先，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "要人向祂倚投；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣是末后，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "忧疑尽可带来归祂，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "已往交祂担去，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "因祂是首先，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "将来祂保守；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "祂也是末后。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣是首先，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "耶稣是首先，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣是末后，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "耶稣是末后，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督─永久磐石，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "已往交祂担去，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将来祂保守；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣是首先，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣是末后，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督─永久磐石，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "首先与末后。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惊涛骇浪不过证明："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂爱永无尽头；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到所有风波过去，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂手仍必保守；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "信靠耶稣绝不蒙羞，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因祂是首先，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂也是末后。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣是首先，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣是末后，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "已往交祂担去，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将来祂保守；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣是首先，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣是末后，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督─永久磐石，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "首先与末后。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们加冠至爱基督，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是首先、末后。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "万主之主，你脚凳前，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "冠冕都当倾投。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "那日快临，万有拜叩："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惟你是首先，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你也是末后。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣是首先，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣是末后，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "已往交祂担去，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将来祂保守；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣是首先，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣是末后，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督─永久磐石，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "首先与末后。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "首先与末后。"
+            }
+          ]
         }
       ]
     }
@@ -606,7 +638,16 @@
   "metadata": {
     "category": "享受基督",
     "time": "4/4",
-    "hymn_code": "34555565112165"
+    "hymn_code": "34555565112165",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/514",
+        "language": "cn",
+        "category": "h",
+        "number": "514",
+        "title": "E514"
+      }
+    ]
   },
   "raw_sections": [
     "一 切變 遷中 有 一 位，",

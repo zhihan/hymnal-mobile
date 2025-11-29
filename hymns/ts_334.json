@@ -1,548 +1,576 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/334",
   "title": "与主情深",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "哦， 主"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "哦， 主"
+            },
+            {
+              "chord": "",
+              "text": "耶 穌 願 你"
+            },
+            {
+              "chord": "G",
+              "text": "吸 引"
+            },
+            {
+              "chord": "D",
+              "text": "我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "耶 穌 願 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 就"
+            },
+            {
+              "chord": "Bm",
+              "text": "快 跑"
+            },
+            {
+              "chord": "G",
+              "text": "來 跟"
+            },
+            {
+              "chord": "A",
+              "text": "隨，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "吸 引"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享 受"
+            },
+            {
+              "chord": "D",
+              "text": "你 的"
+            },
+            {
+              "chord": "",
+              "text": "名 如 倒"
+            },
+            {
+              "chord": "G",
+              "text": "出 香"
+            },
+            {
+              "chord": "D",
+              "text": "膏，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 就"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 的 愛 比"
+            },
+            {
+              "chord": "A7",
+              "text": "酒 更"
+            },
+            {
+              "chord": "D",
+              "text": "美！"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "快 跑"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 是 我 王， 帶 我"
+            },
+            {
+              "chord": "Bm",
+              "text": "進 你"
+            },
+            {
+              "chord": "",
+              "text": "內 室，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "來 跟"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享 受"
+            },
+            {
+              "chord": "G",
+              "text": "你 甜"
+            },
+            {
+              "chord": "",
+              "text": "美 的 同"
+            },
+            {
+              "chord": "A",
+              "text": "在；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "隨，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享 受"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "我"
+            },
+            {
+              "chord": "D",
+              "text": "要 稱"
+            },
+            {
+              "chord": "",
+              "text": "讚 你 寶"
+            },
+            {
+              "chord": "Bm",
+              "text": "貴 愛"
+            },
+            {
+              "chord": "G",
+              "text": "情，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "你 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "價"
+            },
+            {
+              "chord": "D",
+              "text": "值 存"
+            },
+            {
+              "chord": "A7",
+              "text": "到 萬"
+            },
+            {
+              "chord": "D",
+              "text": "代。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我原顽强如法老骏马，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "名 如 倒"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你使我变化如鸽，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "出 香"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在你面光中，纯一来仰望，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "膏，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 的 愛 比"
+          "segments": [
+            {
+              "chord": "",
+              "text": "信靠你，犹似百合。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "酒 更"
+          "segments": [
+            {
+              "chord": "",
+              "text": "以你性情构成我的妆饰，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "美！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 是 我 王， 帶 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我两腮因金辫秀美；"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "進 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "倔强颈项因珠串美丽，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "內 室，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "甘服你旨不违。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "享 受"
+          "segments": [
+            {
+              "chord": "",
+              "text": "蹿山越岭，你如同羚羊，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "你 甜"
+          "segments": [
+            {
+              "chord": "",
+              "text": "召我脱\"自己\"拘禁："
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "美 的 同"
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"冬天已过去雨水也止住，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "在；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "佳偶，来与我同去！\""
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "要 稱"
+          "segments": [
+            {
+              "chord": "",
+              "text": "百鸟鸣叫，地上百花开放，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "讚 你 寶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "复活的丰富何繁茂，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "貴 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "深深吸引我脱离自己，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "情，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "进入你的高超。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "價"
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"我的佳偶，你在磐穴中，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "值 存"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在陡岩的隐密处，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "到 萬"
+          "segments": [
+            {
+              "chord": "",
+              "text": "让我见你面，得听你声音-"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "代。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我死里你当留驻。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "声音柔和，面貌更显秀美-"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "复活里新造何饶优！\""
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主我宝贵你十架模型，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿在此永住留。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我原顽强如法老骏马，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"我的妹子，你夺了我心，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你全然美丽可珍，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "用你眼一看，用你项上炼，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "深深夺取了我心；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的新妇，你爱情何其美，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你膏油香气无可比，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "嘴唇滴蜜，舌下有奶、蜜，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "衣服香气盈溢。\""
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "你使我变化如鸽，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我愿成为关锁的园子，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "只供良人你享乐；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "又如利巴嫩，在你升天里，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "流出溪水解干渴。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "南风吹来，北风阿快醒起，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "吹在我心中的园地，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "好，使香气从园中溢出，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "叫我良人满意。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "在你面光中，纯一来仰望，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "亲爱良人，我只属于你，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "信靠你，犹似百合。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱中联调永不移，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "以你性情构成我的妆饰，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "求将我如同印记放心上"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我两腮因金辫秀美；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "带在臂上如戳记！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "倔强颈项因珠串美丽，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，我深知爱情如死坚强，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "甘服你旨不违。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "众水也不能来熄灭；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "蹿山越岭，你如同羚羊，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到永世仍要唱不尽，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "召我脱\"自己\"拘禁："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "\"冬天已过去雨水也止住，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "佳偶，来与我同去！\""
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "百鸟鸣叫，地上百花开放，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "复活的丰富何繁茂，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "深深吸引我脱离自己，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "进入你的高超。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "\"我的佳偶，你在磐穴中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在陡岩的隐密处，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让我见你面，得听你声音-"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我死里你当留驻。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "声音柔和，面貌更显秀美-"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "复活里新造何饶优！\""
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主我宝贵你十架模型，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿在此永住留。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "\"我的妹子，你夺了我心，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你全然美丽可珍，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "用你眼一看，用你项上炼，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "深深夺取了我心；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的新妇，你爱情何其美，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你膏油香气无可比，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "嘴唇滴蜜，舌下有奶、蜜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "衣服香气盈溢。\""
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我愿成为关锁的园子，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只供良人你享乐；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "又如利巴嫩，在你升天里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "流出溪水解干渴。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "南风吹来，北风阿快醒起，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "吹在我心中的园地，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "好，使香气从园中溢出，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "叫我良人满意。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "亲爱良人，我只属于你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱中联调永不移，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "求将我如同印记放心上"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "带在臂上如戳记！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，我深知爱情如死坚强，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "众水也不能来熄灭；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到永世仍要唱不尽，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你我情深联结！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你我情深联结！"
+            }
+          ]
         }
       ]
     }

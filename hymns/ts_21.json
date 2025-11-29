@@ -1,108 +1,112 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/21",
   "title": "祂是主",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "祂 是"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "祂 是"
+            },
+            {
+              "chord": "Em",
+              "text": "主，"
+            },
+            {
+              "chord": "A7",
+              "text": "祂 是"
+            },
+            {
+              "chord": "D",
+              "text": "主，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "主，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 已 從 死 復 活，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "祂 是"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "如 今"
+            },
+            {
+              "chord": "",
+              "text": "祂 是"
+            },
+            {
+              "chord": "Em7",
+              "text": "主！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 已 從 死 復 活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Bm",
-          "text": "如 今"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "萬 膝"
+            },
+            {
+              "chord": "D",
+              "text": "莫 不"
+            },
+            {
+              "chord": "",
+              "text": "屈"
+            },
+            {
+              "chord": "D7",
+              "text": "服，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "祂 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "萬 口"
+            },
+            {
+              "chord": "G",
+              "text": "莫 不"
+            },
+            {
+              "chord": "",
+              "text": "稱"
+            },
+            {
+              "chord": "Gm",
+              "text": "呼，"
+            }
+          ]
         },
         {
-          "chord": "Em7",
-          "text": "主！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "萬 膝"
-        },
-        {
-          "chord": "D",
-          "text": "莫 不"
-        },
-        {
-          "chord": "",
-          "text": "屈"
-        },
-        {
-          "chord": "D7",
-          "text": "服，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "萬 口"
-        },
-        {
-          "chord": "G",
-          "text": "莫 不"
-        },
-        {
-          "chord": "",
-          "text": "稱"
-        },
-        {
-          "chord": "Gm",
-          "text": "呼，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶"
-        },
-        {
-          "chord": "D",
-          "text": "穌 基"
-        },
-        {
-          "chord": "A7",
-          "text": "督 為"
-        },
-        {
-          "chord": "D",
-          "text": "主。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶"
+            },
+            {
+              "chord": "D",
+              "text": "穌 基"
+            },
+            {
+              "chord": "A7",
+              "text": "督 為"
+            },
+            {
+              "chord": "D",
+              "text": "主。"
+            }
+          ]
         }
       ]
     }
@@ -110,7 +114,16 @@
   "metadata": {
     "category": "赞美的话",
     "time": "4/4",
-    "hymn_code": "71232112333343212"
+    "hymn_code": "71232112333343212",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/269",
+        "language": "cn",
+        "category": "ns",
+        "number": "269",
+        "title": "NS269"
+      }
+    ]
   },
   "raw_sections": [
     "祂 是主，祂 是主，",

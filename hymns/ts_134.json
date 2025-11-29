@@ -1,412 +1,436 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/134",
   "title": "永活救主",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "神 子"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "神 子"
+            },
+            {
+              "chord": "",
+              "text": "耶"
+            },
+            {
+              "chord": "G7",
+              "text": "穌 為"
+            },
+            {
+              "chord": "",
+              "text": "我 離"
+            },
+            {
+              "chord": "C",
+              "text": "寶 座，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "耶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "降 世 為"
+            },
+            {
+              "chord": "Em",
+              "text": "人， 歷"
+            },
+            {
+              "chord": "",
+              "text": "盡 憂"
+            },
+            {
+              "chord": "D7",
+              "text": "苦；"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "穌 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "捨 了 自"
+            },
+            {
+              "chord": "G7",
+              "text": "己， 流"
+            },
+            {
+              "chord": "",
+              "text": "血 救"
+            },
+            {
+              "chord": "C",
+              "text": "贖"
+            },
+            {
+              "chord": "Am7",
+              "text": "我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 離"
+          "segments": [
+            {
+              "chord": "",
+              "text": "從 死 復 活，"
+            },
+            {
+              "chord": "G",
+              "text": "化 身"
+            },
+            {
+              "chord": "",
+              "text": "那 靈，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "寶 座，"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "作 我"
+            },
+            {
+              "chord": "",
+              "text": "拯 救 主。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "降 世 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永 活 救"
+            },
+            {
+              "chord": "G7",
+              "text": "主，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "人， 歷"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是 我 榮 耀"
+            },
+            {
+              "chord": "C",
+              "text": "盼"
+            },
+            {
+              "chord": "Am",
+              "text": "望，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "盡 憂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "點 活 我"
+            },
+            {
+              "chord": "Em",
+              "text": "靈， 聖"
+            },
+            {
+              "chord": "",
+              "text": "化 我"
+            },
+            {
+              "chord": "D7",
+              "text": "情；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "苦；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "捨 了 自"
+          "segments": [
+            {
+              "chord": "",
+              "text": "安 家 我"
+            },
+            {
+              "chord": "G",
+              "text": "心"
+            },
+            {
+              "chord": "G7",
+              "text": "房，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "己， 流"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使 我 有"
+            },
+            {
+              "chord": "C",
+              "text": "力"
+            },
+            {
+              "chord": "Am7",
+              "text": "量，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "血 救"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同 眾 聖"
+            },
+            {
+              "chord": "G",
+              "text": "享 主"
+            },
+            {
+              "chord": "",
+              "text": "大 愛，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "贖"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "神 豐"
+            },
+            {
+              "chord": "",
+              "text": "滿 顯"
+            },
+            {
+              "chord": "G",
+              "text": "明。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在主里面我获得新生，"
+            }
+          ]
         },
         {
-          "chord": "Am7",
-          "text": "我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "從 死 復 活，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "旧事已过，全都更新；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "化 身"
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱中生活，新造何光明；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "那 靈，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "作 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生机拯救来自那灵，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "拯 救 主。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "救恩何丰盛。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "永 活 救"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永活救主，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是 我 榮 耀"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是我荣耀盼望，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "盼"
+          "segments": [
+            {
+              "chord": "",
+              "text": "点活我灵，圣化我情；"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "望，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "點 活 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "安家我心房，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "靈， 聖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我有力量，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "化 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同众圣享主大爱，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "情；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神丰满显明。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "安 家 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，我爱你，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "心"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿跟随你行，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "房，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使 我 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "奔跑赛程，讨你欢心；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "力"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我忠诚，紧联于你灵，"
+            }
+          ]
         },
         {
-          "chord": "Am7",
-          "text": "量，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同 眾 聖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到路终，完全得胜，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "享 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "与你永相亲。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "永活救主，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "大 愛，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "神 豐"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是我荣耀盼望，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "滿 顯"
+          "segments": [
+            {
+              "chord": "",
+              "text": "点活我灵，圣化我情；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "明。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "安家我心房，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在主里面我获得新生，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我有力量，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "旧事已过，全都更新；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "同众圣享主大爱，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "爱中生活，新造何光明；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生机拯救来自那灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "救恩何丰盛。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永活救主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是我荣耀盼望，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "点活我灵，圣化我情；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "安家我心房，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我有力量，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同众圣享主大爱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神丰满显明。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，我爱你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿跟随你行，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "奔跑赛程，讨你欢心；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我忠诚，紧联于你灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到路终，完全得胜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "与你永相亲。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永活救主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是我荣耀盼望，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "点活我灵，圣化我情；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "安家我心房，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我有力量，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同众圣享主大爱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神丰满显明。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神丰满显明。"
+            }
+          ]
         }
       ]
     }

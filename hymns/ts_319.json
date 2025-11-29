@@ -1,220 +1,228 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/319",
   "title": "你，你，你常在我心中",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "你， 你，"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "你， 你，"
+            },
+            {
+              "chord": "",
+              "text": "你 常 在 我 心 中，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你 常 在 我 心 中，"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "夢， 夢，"
+            },
+            {
+              "chord": "A7",
+              "text": "夢 裡"
+            },
+            {
+              "chord": "",
+              "text": "縈"
+            },
+            {
+              "chord": "D",
+              "text": "繞；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你， 你， 你 愛 情 何 其 甜，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "你 是"
+            },
+            {
+              "chord": "",
+              "text": "比"
+            },
+            {
+              "chord": "A7",
+              "text": "一 切"
+            },
+            {
+              "chord": "",
+              "text": "都"
+            },
+            {
+              "chord": "D",
+              "text": "好。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "耶"
+            },
+            {
+              "chord": "D",
+              "text": "穌！"
+            },
+            {
+              "chord": "A7",
+              "text": "耶"
+            },
+            {
+              "chord": "D",
+              "text": "穌！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "你 是"
+            },
+            {
+              "chord": "",
+              "text": "比"
+            },
+            {
+              "chord": "A7",
+              "text": "一 切"
+            },
+            {
+              "chord": "",
+              "text": "都"
+            },
+            {
+              "chord": "D7",
+              "text": "好。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "耶"
+            },
+            {
+              "chord": "D",
+              "text": "穌！"
+            },
+            {
+              "chord": "A7",
+              "text": "耶"
+            },
+            {
+              "chord": "D",
+              "text": "穌！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "你 是"
+            },
+            {
+              "chord": "",
+              "text": "比"
+            },
+            {
+              "chord": "A7",
+              "text": "一 切"
+            },
+            {
+              "chord": "",
+              "text": "都"
+            },
+            {
+              "chord": "D",
+              "text": "好。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A",
-          "text": "夢， 夢，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱，爱，爱是丰盛无边，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "夢 裡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "甜，甜，甜过蜂蜜；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "縈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "流，流，流遍我的心田，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "繞；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你， 你， 你 愛 情 何 其 甜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "你 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "饱尝你爱情新鲜。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "比"
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣！耶稣！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "一 切"
+          "segments": [
+            {
+              "chord": "",
+              "text": "饱尝你爱情新鲜。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "都"
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣！耶稣！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "好。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "耶"
-        },
-        {
-          "chord": "D",
-          "text": "穌！"
-        },
-        {
-          "chord": "A7",
-          "text": "耶"
-        },
-        {
-          "chord": "D",
-          "text": "穌！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "你 是"
-        },
-        {
-          "chord": "",
-          "text": "比"
-        },
-        {
-          "chord": "A7",
-          "text": "一 切"
-        },
-        {
-          "chord": "",
-          "text": "都"
-        },
-        {
-          "chord": "D7",
-          "text": "好。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "耶"
-        },
-        {
-          "chord": "D",
-          "text": "穌！"
-        },
-        {
-          "chord": "A7",
-          "text": "耶"
-        },
-        {
-          "chord": "D",
-          "text": "穌！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "你 是"
-        },
-        {
-          "chord": "",
-          "text": "比"
-        },
-        {
-          "chord": "A7",
-          "text": "一 切"
-        },
-        {
-          "chord": "",
-          "text": "都"
-        },
-        {
-          "chord": "D",
-          "text": "好。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱，爱，爱是丰盛无边，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "甜，甜，甜过蜂蜜；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "流，流，流遍我的心田，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "饱尝你爱情新鲜。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣！耶稣！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "饱尝你爱情新鲜。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣！耶稣！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "饱尝你爱情新鲜。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "饱尝你爱情新鲜。"
+            }
+          ]
         }
       ]
     }

@@ -1,512 +1,536 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/714",
   "title": "我爱召会生活",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "有 些"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "有 些"
+            },
+            {
+              "chord": "",
+              "text": "宗 教"
+            },
+            {
+              "chord": "G",
+              "text": "人 士"
+            },
+            {
+              "chord": "",
+              "text": "會 說："
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "宗 教"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "『耶 穌"
+            },
+            {
+              "chord": "",
+              "text": "不 可 喫；"
+            },
+            {
+              "chord": "G",
+              "text": "我"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "人 士"
+          "segments": [
+            {
+              "chord": "",
+              "text": "們 只 要"
+            },
+            {
+              "chord": "D",
+              "text": "明 白"
+            },
+            {
+              "chord": "",
+              "text": "道 理，"
+            },
+            {
+              "chord": "E7",
+              "text": "努"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "會 說："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "『耶 穌"
+          "segments": [
+            {
+              "chord": "",
+              "text": "力 作 好"
+            },
+            {
+              "chord": "A",
+              "text": "事。』"
+            },
+            {
+              "chord": "D",
+              "text": "親 愛"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "不 可 喫；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "弟 兄，"
+            },
+            {
+              "chord": "G",
+              "text": "請 聽"
+            },
+            {
+              "chord": "",
+              "text": "主 說："
+            },
+            {
+              "chord": "D",
+              "text": "『我 是"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "我"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "們 只 要"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生 命 糧。』"
+            },
+            {
+              "chord": "G",
+              "text": "喫 主"
+            },
+            {
+              "chord": "",
+              "text": "的 人"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "明 白"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "憑 祂"
+            },
+            {
+              "chord": "G",
+              "text": "活 著，"
+            },
+            {
+              "chord": "D",
+              "text": "天 天"
+            },
+            {
+              "chord": "A7",
+              "text": "喜 洋"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "道 理，"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "洋。 我"
+            },
+            {
+              "chord": "",
+              "text": "愛 召 會"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "生 活，"
+            },
+            {
+              "chord": "G",
+              "text": "喫 主，"
+            },
+            {
+              "chord": "",
+              "text": "喝 主，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "努"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "力 作 好"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "並 呼"
+            },
+            {
+              "chord": "",
+              "text": "吸 主； 我 愛 召"
+            },
+            {
+              "chord": "Bm",
+              "text": "會"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "事。』"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生 活，"
+            },
+            {
+              "chord": "E7",
+              "text": "接 受"
+            },
+            {
+              "chord": "",
+              "text": "神 的"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "親 愛"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "弟 兄，"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "話。"
+            },
+            {
+              "chord": "D",
+              "text": "我 愛"
+            },
+            {
+              "chord": "",
+              "text": "聽 見"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "請 聽"
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼 喊："
+            },
+            {
+              "chord": "G",
+              "text": "哦 主，"
+            },
+            {
+              "chord": "",
+              "text": "阿 們，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "主 說："
+          "segments": [
+            {
+              "chord": "D",
+              "text": "阿 利"
+            },
+            {
+              "chord": "",
+              "text": "路 亞！ 我 愛 召"
+            },
+            {
+              "chord": "Bm",
+              "text": "會"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "『我 是"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生 命 糧。』"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生 活，"
+            },
+            {
+              "chord": "E7",
+              "text": "與 主"
+            },
+            {
+              "chord": "A7",
+              "text": "同 坐"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "喫 主"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "席。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们时常呼喊主名，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 人"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "憑 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享用祂丰富，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "活 著，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂就充满我们"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "天 天"
+          "segments": [
+            {
+              "chord": "",
+              "text": "全人里面每一部。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "喜 洋"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "洋。 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天天聚会，交通，歌颂，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "愛 召 會"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生 活，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "与圣徒一起，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "喫 主，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如此生活直到主来，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "喝 主，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "活着同被提。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "並 呼"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我爱召会生活，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "吸 主； 我 愛 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "吃主，喝主，并呼吸主；"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "會"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生 活，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我爱召会生活，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "接 受"
+          "segments": [
+            {
+              "chord": "",
+              "text": "接受神的话。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "神 的"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "話。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我爱听见呼喊："
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，阿们，阿利路亚！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "聽 見"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "呼 喊："
+          "segments": [
+            {
+              "chord": "",
+              "text": "我爱召会生活，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "哦 主，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "与主同坐席。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "末后日子，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "阿 們，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "阿 利"
+          "segments": [
+            {
+              "chord": "",
+              "text": "社会生活处处是邪恶，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "路 亞！ 我 愛 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使你觉得"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "會"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生 活，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "好像跌落危险的漩涡；"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "與 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "速速投入召会生活，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "同 坐"
+          "segments": [
+            {
+              "chord": "",
+              "text": "倾听圣灵说：‘这是今日"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "地上惟一有福的生活。’"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "席。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我爱召会生活，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我们时常呼喊主名，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "吃主，喝主，并呼吸主；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "享用祂丰富，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我爱召会生活，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "祂就充满我们"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "接受神的话。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "全人里面每一部。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我爱听见呼喊："
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "天天聚会，交通，歌颂，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，阿们，阿利路亚！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "与圣徒一起，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我爱召会生活，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "如此生活直到主来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "活着同被提。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我爱召会生活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "吃主，喝主，并呼吸主；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我爱召会生活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "接受神的话。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我爱听见呼喊："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，阿们，阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我爱召会生活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "与主同坐席。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "末后日子，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "社会生活处处是邪恶，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使你觉得"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "好像跌落危险的漩涡；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "速速投入召会生活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "倾听圣灵说：‘这是今日"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "地上惟一有福的生活。’"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我爱召会生活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "吃主，喝主，并呼吸主；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我爱召会生活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "接受神的话。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我爱听见呼喊："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，阿们，阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我爱召会生活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "与主同坐席。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "与主同坐席。"
+            }
+          ]
         }
       ]
     }
@@ -514,7 +538,16 @@
   "metadata": {
     "category": "教会的生活",
     "time": "4/4",
-    "hymn_code": "3332121656535"
+    "hymn_code": "3332121656535",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/192",
+        "language": "cn",
+        "category": "ns",
+        "number": "192",
+        "title": "NS192"
+      }
+    ]
   },
   "raw_sections": [
     "有 些宗 教人 士會 說：",

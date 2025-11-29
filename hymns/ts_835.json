@@ -1,236 +1,248 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/835",
   "title": "全家得救",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "何 大"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "何 大"
+            },
+            {
+              "chord": "",
+              "text": "憐 憫，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "憐 憫，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 眼 得 開 識"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 眼 得 開 識"
+            },
+            {
+              "chord": "Am",
+              "text": "真 神，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "真 神，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "喜 脫"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "喜 脫"
+            },
+            {
+              "chord": "",
+              "text": "黑 暗，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "黑 暗，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得"
+            },
+            {
+              "chord": "D7",
+              "text": "享 光"
+            },
+            {
+              "chord": "",
+              "text": "明 自"
+            },
+            {
+              "chord": "G",
+              "text": "由！"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "享 光"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何 奇 恩 典，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "明 自"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "G7",
+              "text": "能 白"
+            },
+            {
+              "chord": "",
+              "text": "白 得"
+            },
+            {
+              "chord": "C",
+              "text": "救 恩，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "由！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何 奇 恩 典，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "不 需"
+            },
+            {
+              "chord": "",
+              "text": "善"
+            },
+            {
+              "chord": "Em",
+              "text": "行，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "能 白"
+          "segments": [
+            {
+              "chord": "",
+              "text": "也"
+            },
+            {
+              "chord": "Am7",
+              "text": "不 需"
+            },
+            {
+              "chord": "D7",
+              "text": "我 苦"
+            },
+            {
+              "chord": "G",
+              "text": "修！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主已救我；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "白 得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "求也记念我家人，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "救 恩，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "不 需"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你已担当他们罪过愆尤；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "善"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我今切求，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "行，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "也"
+          "segments": [
+            {
+              "chord": "",
+              "text": "求你应许成为真："
+            }
+          ]
         },
         {
-          "chord": "Am7",
-          "text": "不 需"
+          "segments": [
+            {
+              "chord": "",
+              "text": "‘信主耶稣，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "我 苦"
+          "segments": [
+            {
+              "chord": "",
+              "text": "全家都必得救。’"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，你听我："
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "修！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "切要得着我全家！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "主已救我；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "也要垂顾，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "求也记念我家人，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我心为此如焚："
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "你已担当他们罪过愆尤；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "‘我和我家，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我今切求，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "都要事奉耶和华！’"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "求你应许成为真："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "‘信主耶稣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全家都必得救。’"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，你听我："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "切要得着我全家！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "也要垂顾，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我心为此如焚："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "‘我和我家，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "都要事奉耶和华！’"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "世世代代敬拜我真活神！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "世世代代敬拜我真活神！"
+            }
+          ]
         }
       ]
     }
@@ -238,7 +250,16 @@
   "metadata": {
     "category": "事奉与福音",
     "time": "2/4",
-    "hymn_code": "35131215176"
+    "hymn_code": "35131215176",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1351",
+        "language": "cn",
+        "category": "h",
+        "number": "1351",
+        "title": "E1351"
+      }
+    ]
   },
   "raw_sections": [
     "何 大憐 憫，",

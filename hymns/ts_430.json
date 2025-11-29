@@ -1,232 +1,244 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/430",
   "title": "主，你得胜",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "主， 你"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "主， 你"
+            },
+            {
+              "chord": "",
+              "text": "得"
+            },
+            {
+              "chord": "A",
+              "text": "勝， 我"
+            },
+            {
+              "chord": "",
+              "text": "今 服"
+            },
+            {
+              "chord": "D",
+              "text": "矣；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "恩 典 迫 使 我 心 決"
+            },
+            {
+              "chord": "G",
+              "text": "意，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "勝， 我"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "奉"
+            },
+            {
+              "chord": "D",
+              "text": "獻 一"
+            },
+            {
+              "chord": "A",
+              "text": "切"
+            },
+            {
+              "chord": "E7",
+              "text": "於"
+            },
+            {
+              "chord": "A",
+              "text": "你；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "今 服"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "D",
+              "text": "的 可"
+            },
+            {
+              "chord": "",
+              "text": "畏 我"
+            },
+            {
+              "chord": "A",
+              "text": "能 久"
+            },
+            {
+              "chord": "D",
+              "text": "抗，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "矣；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但 你 大 愛 有"
+            },
+            {
+              "chord": "G",
+              "text": "誰"
+            },
+            {
+              "chord": "A7",
+              "text": "能"
+            },
+            {
+              "chord": "D",
+              "text": "擋？"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "愛"
+            },
+            {
+              "chord": "G",
+              "text": "大，"
+            },
+            {
+              "chord": "Em",
+              "text": "我"
+            },
+            {
+              "chord": "D",
+              "text": "無"
+            },
+            {
+              "chord": "A7",
+              "text": "能"
+            },
+            {
+              "chord": "D",
+              "text": "力。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "恩 典 迫 使 我 心 決"
+          "segments": [
+            {
+              "chord": "",
+              "text": "即使你命万钧雷霆，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "意，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "轰击我魂向我施刑，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我仍固执不悔；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "但你怜悯征服我心，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "当我见主流血情景，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我今恨恶我罪！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A",
-          "text": "奉"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，我羡慕只属于你；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "獻 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "速来释放我这容器，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "切"
+          "segments": [
+            {
+              "chord": "",
+              "text": "完全归你占有；"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "於"
+          "segments": [
+            {
+              "chord": "",
+              "text": "撒但暴政我既得脱，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "你；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "就愿全人向你而活，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "的 可"
-        },
-        {
-          "chord": "",
-          "text": "畏 我"
-        },
-        {
-          "chord": "A",
-          "text": "能 久"
-        },
-        {
-          "chord": "D",
-          "text": "抗，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但 你 大 愛 有"
-        },
-        {
-          "chord": "G",
-          "text": "誰"
-        },
-        {
-          "chord": "A7",
-          "text": "能"
-        },
-        {
-          "chord": "D",
-          "text": "擋？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愛"
-        },
-        {
-          "chord": "G",
-          "text": "大，"
-        },
-        {
-          "chord": "Em",
-          "text": "我"
-        },
-        {
-          "chord": "D",
-          "text": "無"
-        },
-        {
-          "chord": "A7",
-          "text": "能"
-        },
-        {
-          "chord": "D",
-          "text": "力。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "即使你命万钧雷霆，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "轰击我魂向我施刑，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我仍固执不悔；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但你怜悯征服我心，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当我见主流血情景，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我今恨恶我罪！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，我羡慕只属于你；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "速来释放我这容器，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "完全归你占有；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "撒但暴政我既得脱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "就愿全人向你而活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "服事你到永久。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "服事你到永久。"
+            }
+          ]
         }
       ]
     }
@@ -234,7 +246,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "4/4",
-    "hymn_code": "15171231"
+    "hymn_code": "15171231",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/434",
+        "language": "cn",
+        "category": "h",
+        "number": "434",
+        "title": "E434"
+      }
+    ]
   },
   "raw_sections": [
     "主， 你得勝， 我今 服矣；",

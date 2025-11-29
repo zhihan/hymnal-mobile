@@ -1,104 +1,108 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/707",
   "title": "何喜乐",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "何 喜"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "何 喜"
+            },
+            {
+              "chord": "D7",
+              "text": "樂，"
+            },
+            {
+              "chord": "G",
+              "text": "神 的"
+            },
+            {
+              "chord": "",
+              "text": "眾 兒 女，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "樂，"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "在 家"
+            },
+            {
+              "chord": "Bm",
+              "text": "裡 主"
+            },
+            {
+              "chord": "E7",
+              "text": "面 前"
+            },
+            {
+              "chord": "",
+              "text": "同 歡"
+            },
+            {
+              "chord": "A",
+              "text": "聚，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "神 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同"
+            },
+            {
+              "chord": "D",
+              "text": "述 說"
+            },
+            {
+              "chord": "D7",
+              "text": "蒙 主"
+            },
+            {
+              "chord": "G",
+              "text": "奇 恩"
+            },
+            {
+              "chord": "",
+              "text": "的 故 事，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "眾 兒 女，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "在 家"
+          "segments": [
+            {
+              "chord": "",
+              "text": "靈 裡"
+            },
+            {
+              "chord": "D",
+              "text": "高 昂"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "裡 主"
-        },
-        {
-          "chord": "E7",
-          "text": "面 前"
-        },
-        {
-          "chord": "",
-          "text": "同 歡"
-        },
-        {
-          "chord": "A",
-          "text": "聚，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同"
-        },
-        {
-          "chord": "D",
-          "text": "述 說"
-        },
-        {
-          "chord": "D7",
-          "text": "蒙 主"
-        },
-        {
-          "chord": "G",
-          "text": "奇 恩"
-        },
-        {
-          "chord": "",
-          "text": "的 故 事，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "靈 裡"
-        },
-        {
-          "chord": "D",
-          "text": "高 昂"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "引 聲"
-        },
-        {
-          "chord": "A7",
-          "text": "頌 揚"
-        },
-        {
-          "chord": "",
-          "text": "永 不"
-        },
-        {
-          "chord": "D",
-          "text": "止。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "引 聲"
+            },
+            {
+              "chord": "A7",
+              "text": "頌 揚"
+            },
+            {
+              "chord": "",
+              "text": "永 不"
+            },
+            {
+              "chord": "D",
+              "text": "止。"
+            }
+          ]
         }
       ]
     }
@@ -106,7 +110,16 @@
   "metadata": {
     "category": "教会的生活",
     "time": "4/4",
-    "hymn_code": "56321161563122232"
+    "hymn_code": "56321161563122232",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6707",
+        "language": "cn",
+        "category": "h",
+        "number": "6707",
+        "title": "E6707"
+      }
+    ]
   },
   "raw_sections": [
     "何 喜樂，神 的眾 兒 女，",

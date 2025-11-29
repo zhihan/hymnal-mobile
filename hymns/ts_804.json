@@ -1,496 +1,520 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/804",
   "title": "赶工",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "早 上"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "早 上"
+            },
+            {
+              "chord": "",
+              "text": "有 人 作 工，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "有 人 作 工，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "晌 午"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "晌 午"
+            },
+            {
+              "chord": "",
+              "text": "有 人 作 工，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "有 人 作 工，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "但 我"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "但 我"
+            },
+            {
+              "chord": "",
+              "text": "整 天"
+            },
+            {
+              "chord": "Em",
+              "text": "閒 站，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "整 天"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "五 點"
+            },
+            {
+              "chord": "",
+              "text": "纔 被"
+            },
+            {
+              "chord": "D",
+              "text": "召。"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "閒 站，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "五 點"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我 虛"
+            },
+            {
+              "chord": "",
+              "text": "度 了"
+            },
+            {
+              "chord": "G7",
+              "text": "早 上，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "纔 被"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "枉 費"
+            },
+            {
+              "chord": "",
+              "text": "晌 午"
+            },
+            {
+              "chord": "Am",
+              "text": "時 光，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "召。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "我 虛"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "仍 舊"
+            },
+            {
+              "chord": "",
+              "text": "被 你"
+            },
+            {
+              "chord": "Em",
+              "text": "選 上，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "度 了"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "怎 能"
+            },
+            {
+              "chord": "D7",
+              "text": "不 感"
+            },
+            {
+              "chord": "G",
+              "text": "激？"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "愛， 作 得 最"
+            },
+            {
+              "chord": "G7",
+              "text": "快，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "早 上，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "枉 費"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "愛， 作"
+            },
+            {
+              "chord": "",
+              "text": "得 最"
+            },
+            {
+              "chord": "G",
+              "text": "好！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "晌 午"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們 格 外"
+            },
+            {
+              "chord": "Em",
+              "text": "蒙 愛，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "時 光，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "仍 舊"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "並 不"
+            },
+            {
+              "chord": "",
+              "text": "覺 辛"
+            },
+            {
+              "chord": "D",
+              "text": "苦！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "被 你"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "加 緊"
+            },
+            {
+              "chord": "",
+              "text": "罷， 姊"
+            },
+            {
+              "chord": "G7",
+              "text": "妹！"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "選 上，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "怎 能"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "加 緊"
+            },
+            {
+              "chord": "",
+              "text": "罷， 弟"
+            },
+            {
+              "chord": "G",
+              "text": "兄！"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "不 感"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只 剩 一 個"
+            },
+            {
+              "chord": "Em",
+              "text": "鐘 頭，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "激？"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "讓 我"
+            },
+            {
+              "chord": "D7",
+              "text": "們 趕"
+            },
+            {
+              "chord": "G",
+              "text": "工！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "愛， 作 得 最"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我原来是在后，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "快，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "愛， 作"
+          "segments": [
+            {
+              "chord": "",
+              "text": "没甚么好夸口；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "得 最"
+          "segments": [
+            {
+              "chord": "",
+              "text": "若论忠心追求，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "好！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們 格 外"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我不敢抬头。"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "蒙 愛，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "並 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但你满有怜恤，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "覺 辛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "叫我从新起头；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "苦！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "加 緊"
+          "segments": [
+            {
+              "chord": "",
+              "text": "‘爱’实在摸着我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "罷， 姊"
+          "segments": [
+            {
+              "chord": "",
+              "text": "怎能再保守？"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱，作得最快，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "妹！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "加 緊"
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱，作得最好！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "罷， 弟"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们格外蒙爱，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "兄！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只 剩 一 個"
+          "segments": [
+            {
+              "chord": "",
+              "text": "并不觉辛苦！"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "鐘 頭，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "讓 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "加紧罢，姊妹！"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "們 趕"
+          "segments": [
+            {
+              "chord": "",
+              "text": "加紧罢，弟兄！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "工！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只剩一个钟头，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "让我们赶工！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我原来是在后，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不用我们流汗，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "别人已经耕好；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不必我们流泪，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "圣灵已动工。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "时间这么短暂，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "工作这么轻松，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "别人种我们收，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "加紧来赶工！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "没甚么好夸口；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱，作得最快，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "若论忠心追求，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱，作得最好！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我不敢抬头。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们格外蒙爱，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "但你满有怜恤，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "并不觉辛苦！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "叫我从新起头；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "加紧罢，姊妹！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "‘爱’实在摸着我，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "加紧罢，弟兄！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "怎能再保守？"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "只剩一个钟头，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "爱，作得最快，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱，作得最好！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们格外蒙爱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "并不觉辛苦！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "加紧罢，姊妹！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "加紧罢，弟兄！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只剩一个钟头，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让我们赶工！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不用我们流汗，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "别人已经耕好；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不必我们流泪，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "圣灵已动工。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "时间这么短暂，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "工作这么轻松，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "别人种我们收，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "加紧来赶工！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱，作得最快，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱，作得最好！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们格外蒙爱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "并不觉辛苦！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "加紧罢，姊妹！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "加紧罢，弟兄！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只剩一个钟头，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让我们赶工！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "让我们赶工！"
+            }
+          ]
         }
       ]
     }

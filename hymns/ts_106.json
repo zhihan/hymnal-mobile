@@ -1,84 +1,88 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/106",
   "title": "祂是赐生命的灵",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "我 愛"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 愛"
+            },
+            {
+              "chord": "",
+              "text": "我 的"
+            },
+            {
+              "chord": "Em",
+              "text": "主 耶"
+            },
+            {
+              "chord": "",
+              "text": "穌，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 的"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "祂 是"
+            },
+            {
+              "chord": "",
+              "text": "賜 生"
+            },
+            {
+              "chord": "D",
+              "text": "命 的"
+            },
+            {
+              "chord": "",
+              "text": "靈；"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "主 耶"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "我 已"
+            },
+            {
+              "chord": "",
+              "text": "與 祂"
+            },
+            {
+              "chord": "G",
+              "text": "合 為"
+            },
+            {
+              "chord": "Em",
+              "text": "一，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "穌，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "祂 是"
-        },
-        {
-          "chord": "",
-          "text": "賜 生"
-        },
-        {
-          "chord": "D",
-          "text": "命 的"
-        },
-        {
-          "chord": "",
-          "text": "靈；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "我 已"
-        },
-        {
-          "chord": "",
-          "text": "與 祂"
-        },
-        {
-          "chord": "G",
-          "text": "合 為"
-        },
-        {
-          "chord": "Em",
-          "text": "一，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "二 靈"
-        },
-        {
-          "chord": "A7",
-          "text": "成 為"
-        },
-        {
-          "chord": "",
-          "text": "一"
-        },
-        {
-          "chord": "D",
-          "text": "靈！"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "二 靈"
+            },
+            {
+              "chord": "A7",
+              "text": "成 為"
+            },
+            {
+              "chord": "",
+              "text": "一"
+            },
+            {
+              "chord": "D",
+              "text": "靈！"
+            }
+          ]
         }
       ]
     }

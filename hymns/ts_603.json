@@ -1,372 +1,388 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/603",
   "title": "建造当趁今日",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "記 得"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "記 得"
+            },
+            {
+              "chord": "",
+              "text": "大 衛 起"
+            },
+            {
+              "chord": "F♯m",
+              "text": "誓："
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "大 衛 起"
+          "segments": [
+            {
+              "chord": "",
+              "text": "『我"
+            },
+            {
+              "chord": "G",
+              "text": "不 進"
+            },
+            {
+              "chord": "",
+              "text": "我 的"
+            },
+            {
+              "chord": "A",
+              "text": "帳"
+            },
+            {
+              "chord": "A7",
+              "text": "幕， 不"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "誓："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "『我"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "上 我"
+            },
+            {
+              "chord": "",
+              "text": "的 床"
+            },
+            {
+              "chord": "F♯m",
+              "text": "榻， 不"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "不 進"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "容 我"
+            },
+            {
+              "chord": "",
+              "text": "打 盹"
+            },
+            {
+              "chord": "A",
+              "text": "閉"
+            },
+            {
+              "chord": "A7",
+              "text": "目， 直"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 的"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "等 到"
+            },
+            {
+              "chord": "",
+              "text": "我 為"
+            },
+            {
+              "chord": "D",
+              "text": "耶 和"
+            },
+            {
+              "chord": "",
+              "text": "華，"
+            },
+            {
+              "chord": "Em",
+              "text": "尋"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "帳"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "得 安"
+            },
+            {
+              "chord": "F♯m",
+              "text": "息 之"
+            },
+            {
+              "chord": "Bm",
+              "text": "處。』 全"
+            },
+            {
+              "chord": "G",
+              "text": "能"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "幕， 不"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "上 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "的"
+            },
+            {
+              "chord": "D",
+              "text": "神 巴"
+            },
+            {
+              "chord": "G",
+              "text": "望"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 床"
+          "segments": [
+            {
+              "chord": "",
+              "text": "有"
+            },
+            {
+              "chord": "D",
+              "text": "家 使"
+            },
+            {
+              "chord": "G",
+              "text": "屬 祂"
+            },
+            {
+              "chord": "A7",
+              "text": "者 可"
+            },
+            {
+              "chord": "D",
+              "text": "住。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们何等眼瞎，"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "榻， 不"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "容 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只顾自己的事务，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "打 盹"
+          "segments": [
+            {
+              "chord": "",
+              "text": "任凭神殿荒凉─"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "閉"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，你必须有路！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "目， 直"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "等 到"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们情愿上山取木，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为建你殿劳碌；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "耶 和"
+          "segments": [
+            {
+              "chord": "",
+              "text": "绝不再说："
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "華，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "‘且等明日，’"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "尋"
+          "segments": [
+            {
+              "chord": "",
+              "text": "建造当趁今日！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A",
-          "text": "得 安"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，此时此境，"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "息 之"
+          "segments": [
+            {
+              "chord": "",
+              "text": "激动人起来建造，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "處。』 全"
+          "segments": [
+            {
+              "chord": "",
+              "text": "正如大卫之日，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "能"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "自动答应你呼召。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "神 巴"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同心合意，配搭一起，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "望"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "受此托付，多好！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "家 使"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们所喜，是你心意，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "屬 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，我们来建造。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，为着你召会，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "者 可"
+          "segments": [
+            {
+              "chord": "",
+              "text": "叫我们废寝忘食，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "住。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "为建造献一切─"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我们何等眼瞎，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "专心豫备你居所！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "只顾自己的事务，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "阴间的门不能胜过"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "任凭神殿荒凉─"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "已建成的召会。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "哦主，你必须有路！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "时候不多，建造我们，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我们情愿上山取木，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "让你能早归回！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "为建你殿劳碌；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "绝不再说："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "‘且等明日，’"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "建造当趁今日！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，此时此境，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "激动人起来建造，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "正如大卫之日，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自动答应你呼召。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同心合意，配搭一起，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "受此托付，多好！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们所喜，是你心意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，我们来建造。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，为着你召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "叫我们废寝忘食，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为建造献一切─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "专心豫备你居所！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阴间的门不能胜过"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "已建成的召会。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "时候不多，建造我们，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让你能早归回！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "（重复最后两行）"
+          "segments": [
+            {
+              "chord": "",
+              "text": "（重复最后两行）"
+            }
+          ]
         }
       ]
     }
@@ -374,7 +390,16 @@
   "metadata": {
     "category": "建造与合一",
     "time": "4/4",
-    "hymn_code": "53234532171432"
+    "hymn_code": "53234532171432",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1248",
+        "language": "cn",
+        "category": "h",
+        "number": "1248",
+        "title": "E1248"
+      }
+    ]
   },
   "raw_sections": [
     "記 得大 衛 起誓：",

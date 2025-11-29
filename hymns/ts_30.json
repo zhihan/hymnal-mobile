@@ -1,408 +1,428 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/30",
   "title": "祂是君王、战士、祭司和得胜者",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "耶 和"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "耶 和"
+            },
+            {
+              "chord": "",
+              "text": "華"
+            },
+            {
+              "chord": "G",
+              "text": "對 我"
+            },
+            {
+              "chord": "D",
+              "text": "主 說，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "華"
+          "segments": [
+            {
+              "chord": "",
+              "text": "“你 坐 在"
+            },
+            {
+              "chord": "G",
+              "text": "我 右"
+            },
+            {
+              "chord": "A",
+              "text": "邊， 等"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "對 我"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 使"
+            },
+            {
+              "chord": "E",
+              "text": "你 眾"
+            },
+            {
+              "chord": "A",
+              "text": "仇 敵"
+            },
+            {
+              "chord": "",
+              "text": "作"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "主 說，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "“你 坐 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "腳 凳"
+            },
+            {
+              "chord": "E",
+              "text": "伏 你"
+            },
+            {
+              "chord": "A",
+              "text": "前。” 耶"
+            },
+            {
+              "chord": "",
+              "text": "和"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "我 右"
+          "segments": [
+            {
+              "chord": "",
+              "text": "華"
+            },
+            {
+              "chord": "A7",
+              "text": "必 從"
+            },
+            {
+              "chord": "D",
+              "text": "錫 安"
+            },
+            {
+              "chord": "",
+              "text": "伸"
+            },
+            {
+              "chord": "B7",
+              "text": "出"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "邊， 等"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "我 使"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 大 能"
+            },
+            {
+              "chord": "Em",
+              "text": "仗： 列"
+            },
+            {
+              "chord": "A",
+              "text": "國"
+            }
+          ]
         },
         {
-          "chord": "E",
-          "text": "你 眾"
+          "segments": [
+            {
+              "chord": "",
+              "text": "必 歸 你 管 治， 直"
+            },
+            {
+              "chord": "G",
+              "text": "到"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "仇 敵"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永"
+            },
+            {
+              "chord": "A",
+              "text": "世"
+            },
+            {
+              "chord": "A7",
+              "text": "無"
+            },
+            {
+              "chord": "D",
+              "text": "疆。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "当你争战的日子，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "作"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "腳 凳"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你民献上自己；"
+            }
+          ]
         },
         {
-          "chord": "E",
-          "text": "伏 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "甘心奉献为彩饰，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "前。” 耶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣美有何能比！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "和"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "華"
+          "segments": [
+            {
+              "chord": "",
+              "text": "畅爽、滋润如甘露，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "必 從"
+          "segments": [
+            {
+              "chord": "",
+              "text": "新鲜，孕于清晨，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "錫 安"
+          "segments": [
+            {
+              "chord": "",
+              "text": "少年人分别归你，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "伸"
+          "segments": [
+            {
+              "chord": "",
+              "text": "于你如宝如珍。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶和华必不后悔，"
+            }
+          ]
         },
         {
-          "chord": "B7",
-          "text": "出"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 大 能"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂已明确起誓："
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "仗： 列"
+          "segments": [
+            {
+              "chord": "",
+              "text": "“照麦基洗德等次，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "國"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "必 歸 你 管 治， 直"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你必永为祭司。”"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "到"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你既无时日之始，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "世"
+          "segments": [
+            {
+              "chord": "",
+              "text": "也无生命之终；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "無"
+          "segments": [
+            {
+              "chord": "",
+              "text": "凭你代求供圣职，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "疆。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们受恩无穷。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "当你争战的日子，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在神右边你是主，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "列邦受你审判；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "当你发怒伤列王，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "敌权尽都溃散。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "路旁河水供你饮，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你必抬头胜敌；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们如此解你渴，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "同你收复全地。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "你民献上自己；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，你已升高天，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "甘心奉献为彩饰，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "登极安坐神右；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "荣美有何能比！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "神已使你将敌剿，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "畅爽、滋润如甘露，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "万有之上居首。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "新鲜，孕于清晨，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "你是君王施权柄，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "少年人分别归你，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "又是祭司代求，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "于你如宝如珍。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "且是荣耀得胜者，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "耶和华必不后悔，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂已明确起誓："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "“照麦基洗德等次，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你必永为祭司。”"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你既无时日之始，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "也无生命之终；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "凭你代求供圣职，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们受恩无穷。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在神右边你是主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "列邦受你审判；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当你发怒伤列王，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "敌权尽都溃散。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "路旁河水供你饮，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你必抬头胜敌；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们如此解你渴，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同你收复全地。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，你已升高天，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "登极安坐神右；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神已使你将敌剿，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "万有之上居首。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你是君王施权柄，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "又是祭司代求，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "且是荣耀得胜者，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "配得我们所有。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "配得我们所有。"
+            }
+          ]
         }
       ]
     }
@@ -410,7 +430,16 @@
   "metadata": {
     "category": "赞美的话",
     "time": "4/4",
-    "hymn_code": "135654532123462"
+    "hymn_code": "135654532123462",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1102",
+        "language": "cn",
+        "category": "h",
+        "number": "1102",
+        "title": "E1102"
+      }
+    ]
   },
   "raw_sections": [
     "耶 和華對 我主 說，",

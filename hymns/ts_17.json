@@ -1,312 +1,332 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/17",
   "title": "乐！乐！乐",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "樂，"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "樂，"
+            },
+            {
+              "chord": "D",
+              "text": "樂，"
+            },
+            {
+              "chord": "G",
+              "text": "樂， 我"
+            },
+            {
+              "chord": "",
+              "text": "心 充 滿"
+            },
+            {
+              "chord": "D",
+              "text": "喜 樂；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "樂，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "樂， 樂， 樂，"
+            },
+            {
+              "chord": "D7",
+              "text": "耶 穌"
+            },
+            {
+              "chord": "",
+              "text": "使 我"
+            },
+            {
+              "chord": "G",
+              "text": "唱 歌；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "樂， 我"
+          "segments": [
+            {
+              "chord": "G7",
+              "text": "唱 祂"
+            },
+            {
+              "chord": "",
+              "text": "奇 妙 大 愛"
+            },
+            {
+              "chord": "C",
+              "text": "為 著"
+            },
+            {
+              "chord": "",
+              "text": "我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "心 充 滿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "說 祂 如 何 受 死"
+            },
+            {
+              "chord": "G",
+              "text": "釋 放"
+            },
+            {
+              "chord": "",
+              "text": "我，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "喜 樂；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "樂， 樂， 樂，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使 我 全 人 自 由"
+            },
+            {
+              "chord": "C",
+              "text": "且 超"
+            },
+            {
+              "chord": "",
+              "text": "脫，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "耶 穌"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 心"
+            },
+            {
+              "chord": "G",
+              "text": "樂，"
+            },
+            {
+              "chord": "D7",
+              "text": "樂，"
+            },
+            {
+              "chord": "G",
+              "text": "樂！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，主，主，在我灵中流通；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "使 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，主，主，在我魂中扩充；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "唱 歌；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G7",
-          "text": "唱 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将我里面陈旧全烧尽，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "奇 妙 大 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将我全人变化且更新，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "為 著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我成熟迎接祂再临，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是我主，主，主！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "說 祂 如 何 受 死"
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞，赞，赞，将神心意发表，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "釋 放"
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞，赞，赞，使我灵里发烧，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使 我 全 人 自 由"
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美满心满口满全人，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "且 超"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将神计画到处告诉人，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "脫，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 心"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将流荡者带回归向神，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "樂，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "高声赞，赞，赞！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "召会，一地一个出现，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "樂，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "召会，分裂何等可怜，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "樂！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "大巴比伦今正在倾倒，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主在耶路撒冷为至高；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们站住立场同建造，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "地方的召会。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "主，主，主，在我灵中流通；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "地方召会，我们已经看见；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "主，主，主，在我魂中扩充；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "地方召会，我们已在里面。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "将我里面陈旧全烧尽，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "光明的城造在圣山上，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "将我全人变化且更新，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督、召会同得着显彰；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "使我成熟迎接祂再临，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "终于完成了神的愿望，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "是我主，主，主！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞，赞，赞，将神心意发表，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞，赞，赞，使我灵里发烧，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞美满心满口满全人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将神计画到处告诉人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将流荡者带回归向神，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "高声赞，赞，赞！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "召会，一地一个出现，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "召会，分裂何等可怜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "大巴比伦今正在倾倒，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主在耶路撒冷为至高；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们站住立场同建造，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "地方的召会。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "地方召会，我们已经看见；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "地方召会，我们已在里面。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "光明的城造在圣山上，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督、召会同得着显彰；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "终于完成了神的愿望，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在地方召会！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在地方召会！"
+            }
+          ]
         }
       ]
     }
@@ -314,7 +334,16 @@
   "metadata": {
     "category": "赞美的话",
     "time": "4/4",
-    "hymn_code": "321332172432221231"
+    "hymn_code": "321332172432221231",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6017",
+        "language": "cn",
+        "category": "h",
+        "number": "6017",
+        "title": "E6017"
+      }
+    ]
   },
   "raw_sections": [
     "樂，樂，樂， 我心 充 滿喜 樂；",

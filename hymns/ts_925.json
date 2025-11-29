@@ -1,472 +1,496 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/925",
   "title": "永远之神荣耀定旨",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "永 遠"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "永 遠"
+            },
+            {
+              "chord": "",
+              "text": "之 神"
+            },
+            {
+              "chord": "A7",
+              "text": "榮 耀"
+            },
+            {
+              "chord": "D",
+              "text": "定 旨，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "之 神"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "已 過"
+            },
+            {
+              "chord": "",
+              "text": "永 遠"
+            },
+            {
+              "chord": "A7",
+              "text": "早 立"
+            },
+            {
+              "chord": "D",
+              "text": "定，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "榮 耀"
+          "segments": [
+            {
+              "chord": "",
+              "text": "跨 越 時 間"
+            },
+            {
+              "chord": "A",
+              "text": "作 為"
+            },
+            {
+              "chord": "D",
+              "text": "橋 梁，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "定 旨，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "已 過"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "將 來"
+            },
+            {
+              "chord": "",
+              "text": "永 遠"
+            },
+            {
+              "chord": "A7",
+              "text": "必 達"
+            },
+            {
+              "chord": "D",
+              "text": "成。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "永 遠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "漫 長 歲 月 乃 是"
+            },
+            {
+              "chord": "D7",
+              "text": "過 程，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "早 立"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "全 為"
+            },
+            {
+              "chord": "D",
+              "text": "成 功"
+            },
+            {
+              "chord": "",
+              "text": "祂 心"
+            },
+            {
+              "chord": "A7",
+              "text": "意；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "定，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "跨 越 時 間"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "居 此"
+            },
+            {
+              "chord": "A7",
+              "text": "不 過"
+            },
+            {
+              "chord": "D",
+              "text": "客 旅，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "作 為"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "無 終"
+            },
+            {
+              "chord": "",
+              "text": "永 世"
+            },
+            {
+              "chord": "A7",
+              "text": "為 目"
+            },
+            {
+              "chord": "D",
+              "text": "的。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "一个新人是神所要，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "橋 梁，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "將 來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "照祂计画被建造；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "永 遠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们在此相联相调─"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "必 達"
+          "segments": [
+            {
+              "chord": "",
+              "text": "团体器皿何荣耀！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "成。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "漫 長 歲 月 乃 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神的生命、神的性情"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "過 程，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "全 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "调进其中时增添；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "成 功"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神灵、人灵调为一灵，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "祂 心"
+          "segments": [
+            {
+              "chord": "",
+              "text": "叫祂荣耀得称赞。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "三一之神三方工作，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "意；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃为达成祂定旨；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "居 此"
+          "segments": [
+            {
+              "chord": "",
+              "text": "父、子、圣灵何等奥妙，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "不 過"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将神自己来分赐。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "客 旅，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "無 終"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天地宏伟不过背景，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "永 世"
+          "segments": [
+            {
+              "chord": "",
+              "text": "三部分人是标的─"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "為 目"
+          "segments": [
+            {
+              "chord": "",
+              "text": "灵、魂、身体何等美妙，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "的。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为盛装神作实际。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "一个新人是神所要，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们的灵乃是中心，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "是神计画的关键；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣大名敞开呼求，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "人灵与祂就结联。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "心中各房让祂安家，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "始于中心达圆周；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "更新心思、情感、意志，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "每一部分祂浸透。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "照祂计画被建造；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在生命中同被建造，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱里联结成为一；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "如此成就祂的善工，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "成全祂心爱美意。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿主扩长，我们衰减，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "让祂建造我们里；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到长成团体大器，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "充满祂荣耀自己。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我们在此相联相调─"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "最终召会，身体，新人，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "团体器皿何荣耀！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "要显现于荣耀里；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "神的生命、神的性情"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "永世计画终极完成，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "调进其中时增添；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "神的智慧显无遗。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "神灵、人灵调为一灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "神终得着团体器皿，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "叫祂荣耀得称赞。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "将祂荣耀尽显明─"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "三一之神三方工作，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "为此我们奉献自己，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "乃为达成祂定旨；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "父、子、圣灵何等奥妙，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将神自己来分赐。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天地宏伟不过背景，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "三部分人是标的─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "灵、魂、身体何等美妙，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为盛装神作实际。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们的灵乃是中心，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是神计画的关键；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣大名敞开呼求，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "人灵与祂就结联。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "心中各房让祂安家，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "始于中心达圆周；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "更新心思、情感、意志，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "每一部分祂浸透。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在生命中同被建造，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱里联结成为一；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如此成就祂的善工，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "成全祂心爱美意。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿主扩长，我们衰减，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让祂建造我们里；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到长成团体大器，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "充满祂荣耀自己。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "最终召会，身体，新人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要显现于荣耀里；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永世计画终极完成，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神的智慧显无遗。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神终得着团体器皿，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将祂荣耀尽显明─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为此我们奉献自己，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "求使主旨速完成。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "求使主旨速完成。"
+            }
+          ]
         }
       ]
     }
@@ -474,7 +498,16 @@
   "metadata": {
     "category": "盼望与豫备",
     "time": "2/4",
-    "hymn_code": "565354432613543"
+    "hymn_code": "565354432613543",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1325",
+        "language": "cn",
+        "category": "h",
+        "number": "1325",
+        "title": "E1325"
+      }
+    ]
   },
   "raw_sections": [
     "永 遠之 神榮 耀定 旨，",

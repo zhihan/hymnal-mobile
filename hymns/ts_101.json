@@ -1,312 +1,328 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/101",
   "title": "基督的灵",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "神， 我"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "神， 我"
+            },
+            {
+              "chord": "",
+              "text": "讚 美 你，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "讚 美 你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "賜 下 基 督 的 靈，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 今 來 住 我 裡 面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作"
+          "segments": [
+            {
+              "chord": "",
+              "text": "賜 下 基 督 的 靈，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "我 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 今 來 住 我 裡 面，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "生 命。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿 利"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作"
+            },
+            {
+              "chord": "A",
+              "text": "我 的"
+            },
+            {
+              "chord": "",
+              "text": "生 命。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "路 亞，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿 利"
+            },
+            {
+              "chord": "D",
+              "text": "路 亞，"
+            },
+            {
+              "chord": "",
+              "text": "基 督 的 靈！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "基 督 的 靈！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿 利"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿 利"
+            },
+            {
+              "chord": "G",
+              "text": "路 亞，"
+            },
+            {
+              "chord": "",
+              "text": "內"
+            },
+            {
+              "chord": "A",
+              "text": "住！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "路 亞，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿 利"
+            },
+            {
+              "chord": "D",
+              "text": "路 亞，"
+            },
+            {
+              "chord": "",
+              "text": "豐 盛 生 命！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "內"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永"
+            },
+            {
+              "chord": "A",
+              "text": "遠 不"
+            },
+            {
+              "chord": "A7",
+              "text": "止"
+            },
+            {
+              "chord": "D",
+              "text": "住！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在灵里歌唱，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "住！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿 利"
+          "segments": [
+            {
+              "chord": "",
+              "text": "末后亚当已经"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "路 亞，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "成为赐生命的灵，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "豐 盛 生 命！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永"
+          "segments": [
+            {
+              "chord": "",
+              "text": "与我合为一。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "遠 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，这是耶稣！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "止"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，那灵！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "住！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，与祂联合！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "二灵成一灵！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "在灵里歌唱，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在灵里重生，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们今被变化，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "模成神儿子形像，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "成熟并长大。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，分赐生命！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，变化！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，改变形状！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "模成祂形像！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "末后亚当已经"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "模成祂形像，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "成为赐生命的灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃借灵得餧养，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "与我合为一。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "时刻吃喝生命主，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "阿利路亚，这是耶稣！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂供应无量。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "阿利路亚，那灵！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，完全救恩！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "阿利路亚，与祂联合！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，属我！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "二灵成一灵！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，够我应用！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在灵里重生，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们今被变化，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "模成神儿子形像，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "成熟并长大。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚，分赐生命！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚，变化！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚，改变形状！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "模成祂形像！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "模成祂形像，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃借灵得餧养，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "时刻吃喝生命主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂供应无量。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚，完全救恩！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚，属我！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚，够我应用！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生活何超脱！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生活何超脱！"
+            }
+          ]
         }
       ]
     }
@@ -314,7 +330,16 @@
   "metadata": {
     "category": "灵与生命",
     "time": "3/4",
-    "hymn_code": "51111123333"
+    "hymn_code": "51111123333",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1117",
+        "language": "cn",
+        "category": "h",
+        "number": "1117",
+        "title": "E1117"
+      }
+    ]
   },
   "raw_sections": [
     "神， 我讚 美 你，",

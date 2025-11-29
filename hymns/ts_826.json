@@ -1,120 +1,124 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/826",
   "title": "前我生活",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "前 我"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "前 我"
+            },
+            {
+              "chord": "",
+              "text": "生 活， 滿 了 愁 苦，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "生 活， 滿 了 愁 苦，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 的 奮"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 的 奮"
+            },
+            {
+              "chord": "A7",
+              "text": "鬥， 都"
+            },
+            {
+              "chord": "G",
+              "text": "歸 虛"
+            },
+            {
+              "chord": "D",
+              "text": "無。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "鬥， 都"
+          "segments": [
+            {
+              "chord": "",
+              "text": "自 從 耶 穌， 進 我 心 府，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "歸 虛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 作 了"
+            },
+            {
+              "chord": "A7",
+              "text": "我 喜"
+            },
+            {
+              "chord": "G",
+              "text": "樂 滿"
+            },
+            {
+              "chord": "D",
+              "text": "足。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "無。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自 從 耶 穌， 進 我 心 府，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 作 了"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦， 何 等 奇 妙，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "我 喜"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是 我 主 耶 穌！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "樂 滿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "請 你 接 受 耶 穌 作 救 主，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "足。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦， 何 等 奇 妙，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是 我 主 耶 穌！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "請 你 接 受 耶 穌 作 救 主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "呼 求"
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼 求"
+            },
+            {
+              "chord": "Bm",
+              "text": "祂 的"
+            },
+            {
+              "chord": "A7",
+              "text": "名，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "祂 的"
-        },
-        {
-          "chord": "A7",
-          "text": "名，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 就"
-        },
-        {
-          "chord": "G",
-          "text": "必 得"
-        },
-        {
-          "chord": "D",
-          "text": "救！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 就"
+            },
+            {
+              "chord": "G",
+              "text": "必 得"
+            },
+            {
+              "chord": "D",
+              "text": "救！"
+            }
+          ]
         }
       ]
     }

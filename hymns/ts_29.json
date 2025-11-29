@@ -1,412 +1,432 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/29",
   "title": "赞美\"狮子羔羊\"",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "歷"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "歷"
+            },
+            {
+              "chord": "C",
+              "text": "代 聖"
+            },
+            {
+              "chord": "D",
+              "text": "徒 都"
+            },
+            {
+              "chord": "G",
+              "text": "頌 讚："
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "代 聖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"美 哉， 神"
+            },
+            {
+              "chord": "D",
+              "text": "的 羔"
+            },
+            {
+              "chord": "G",
+              "text": "羊！ 捨"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "徒 都"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "命 救"
+            },
+            {
+              "chord": "",
+              "text": "人 脫"
+            },
+            {
+              "chord": "A7",
+              "text": "罪 孽，"
+            },
+            {
+              "chord": "",
+              "text": "將"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "頌 讚："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "\"美 哉， 神"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "人 罪"
+            },
+            {
+              "chord": "A7",
+              "text": "債 清"
+            },
+            {
+              "chord": "D",
+              "text": "償。\" 救"
+            },
+            {
+              "chord": "",
+              "text": "贖"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "的 羔"
+          "segments": [
+            {
+              "chord": "",
+              "text": "大 恩 多"
+            },
+            {
+              "chord": "G",
+              "text": "人 識，"
+            },
+            {
+              "chord": "",
+              "text": "卻"
+            },
+            {
+              "chord": "Am",
+              "text": "鮮"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "羊！ 捨"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "命 救"
+          "segments": [
+            {
+              "chord": "",
+              "text": "有"
+            },
+            {
+              "chord": "G",
+              "text": "人 歌"
+            },
+            {
+              "chord": "D",
+              "text": "唱： \"爭"
+            },
+            {
+              "chord": "C",
+              "text": "戰"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "人 脫"
+          "segments": [
+            {
+              "chord": "",
+              "text": "獅"
+            },
+            {
+              "chord": "Em",
+              "text": "子 已"
+            },
+            {
+              "chord": "Am",
+              "text": "得 捷，"
+            },
+            {
+              "chord": "",
+              "text": "配"
+            },
+            {
+              "chord": "G",
+              "text": "得 永"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "罪 孽，"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "遠 稱"
+            },
+            {
+              "chord": "G",
+              "text": "揚！\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "坐宝座者右手中，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "將"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "人 罪"
+          "segments": [
+            {
+              "chord": "",
+              "text": "书卷七印封严；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "債 清"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天上、地下、地底下，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "償。\" 救"
+          "segments": [
+            {
+              "chord": "",
+              "text": "谁配展开书卷？"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "贖"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "大 恩 多"
+          "segments": [
+            {
+              "chord": "",
+              "text": "约翰以为无人配，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "人 識，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为此痛哭掩面；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "卻"
+          "segments": [
+            {
+              "chord": "",
+              "text": "奥秘若真不得启，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "鮮"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们能不悲叹？"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "宇宙奥秘深难测，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "人 歌"
+          "segments": [
+            {
+              "chord": "",
+              "text": "须借启示照明；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "唱： \"爭"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神的旨意若不彰，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "戰"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "獅"
+          "segments": [
+            {
+              "chord": "",
+              "text": "万有都归虚空。"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "子 已"
+          "segments": [
+            {
+              "chord": "",
+              "text": "看哪，犹大的狮子！"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "得 捷，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂已争战得胜，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "配"
+          "segments": [
+            {
+              "chord": "",
+              "text": "配展书卷揭七印，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "得 永"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将神经纶完成。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D7",
-          "text": "遠 稱"
+          "segments": [
+            {
+              "chord": "",
+              "text": "前在暗中无亮光，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "揚！\""
+          "segments": [
+            {
+              "chord": "",
+              "text": "未识神心秘密；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "今蒙光照，心眼开，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "异象辉煌无比；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "只愿活着为神旨，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "此心坚定不移；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"狮子羔羊\"揭奥秘，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们赞美不已！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "坐宝座者右手中，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "长老、活物齐俯伏，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "书卷七印封严；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "座前敬拜歌唱；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "天上、地下、地底下，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美昼夜不歇息，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "谁配展开书卷？"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "都归\"狮子羔羊\""
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "约翰以为无人配，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们和声同响应，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "为此痛哭掩面；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "高声欢呼颂扬："
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "奥秘若真不得启，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "神圣计画已显明，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我们能不悲叹？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "宇宙奥秘深难测，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "须借启示照明；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神的旨意若不彰，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "万有都归虚空。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "看哪，犹大的狮子！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂已争战得胜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "配展书卷揭七印，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将神经纶完成。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "前在暗中无亮光，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "未识神心秘密；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今蒙光照，心眼开，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "异象辉煌无比；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只愿活着为神旨，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "此心坚定不移；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "\"狮子羔羊\"揭奥秘，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们赞美不已！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "长老、活物齐俯伏，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "座前敬拜歌唱；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞美昼夜不歇息，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "都归\"狮子羔羊\""
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们和声同响应，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "高声欢呼颂扬："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神圣计画已显明，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞美\"狮子羔羊\"！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美\"狮子羔羊\"！"
+            }
+          ]
         }
       ]
     }
@@ -414,7 +434,16 @@
   "metadata": {
     "category": "赞美的话",
     "time": "4/4",
-    "hymn_code": "3441231353121"
+    "hymn_code": "3441231353121",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1092",
+        "language": "cn",
+        "category": "h",
+        "number": "1092",
+        "title": "E1092"
+      }
+    ]
   },
   "raw_sections": [
     "歷代 聖徒 都頌 讚：",

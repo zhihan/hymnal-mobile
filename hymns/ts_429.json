@@ -1,384 +1,404 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/429",
   "title": "主到我这里来",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "主 阿，"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "主 阿，"
+            },
+            {
+              "chord": "",
+              "text": "在 那 清"
+            },
+            {
+              "chord": "A",
+              "text": "晨， 你"
+            },
+            {
+              "chord": "A7",
+              "text": "去 海"
+            },
+            {
+              "chord": "",
+              "text": "邊 等 待 彼"
+            },
+            {
+              "chord": "D",
+              "text": "得； 主"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "在 那 清"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "阿， 在"
+            },
+            {
+              "chord": "",
+              "text": "那 正"
+            },
+            {
+              "chord": "D",
+              "text": "午， 你"
+            },
+            {
+              "chord": "",
+              "text": "在 路"
+            },
+            {
+              "chord": "A7",
+              "text": "上 等"
+            },
+            {
+              "chord": "",
+              "text": "待 保"
+            },
+            {
+              "chord": "D",
+              "text": "羅； 在"
+            },
+            {
+              "chord": "G",
+              "text": "我"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "晨， 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "的 日 子"
+            },
+            {
+              "chord": "D",
+              "text": "裡， 你"
+            },
+            {
+              "chord": "",
+              "text": "忽 來"
+            },
+            {
+              "chord": "A7",
+              "text": "到 我"
+            },
+            {
+              "chord": "",
+              "text": "的 生"
+            },
+            {
+              "chord": "D",
+              "text": "命。 你"
+            },
+            {
+              "chord": "",
+              "text": "來 臨"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "去 海"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如 強"
+            },
+            {
+              "chord": "A",
+              "text": "光， 那"
+            },
+            {
+              "chord": "A7",
+              "text": "片 光"
+            },
+            {
+              "chord": "",
+              "text": "明 不 能 抵"
+            },
+            {
+              "chord": "D",
+              "text": "擋； 我"
+            },
+            {
+              "chord": "G",
+              "text": "真 無"
+            },
+            {
+              "chord": "",
+              "text": "法"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "邊 等 待 彼"
+          "segments": [
+            {
+              "chord": "",
+              "text": "解"
+            },
+            {
+              "chord": "D",
+              "text": "釋， 天"
+            },
+            {
+              "chord": "",
+              "text": "天 疑"
+            },
+            {
+              "chord": "A7",
+              "text": "惑， 天"
+            },
+            {
+              "chord": "",
+              "text": "天 相"
+            },
+            {
+              "chord": "D",
+              "text": "信， 我"
+            },
+            {
+              "chord": "G",
+              "text": "真 無"
+            },
+            {
+              "chord": "",
+              "text": "法 解"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "得； 主"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "釋， 天"
+            },
+            {
+              "chord": "",
+              "text": "天 疑"
+            },
+            {
+              "chord": "A7",
+              "text": "惑， 天"
+            },
+            {
+              "chord": "",
+              "text": "天 相"
+            },
+            {
+              "chord": "D",
+              "text": "信。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "阿， 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "时走在大草原， 听见亲爱牧者柔声；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "那 正"
+          "segments": [
+            {
+              "chord": "",
+              "text": "时走在山谷间， 智慧领路暂时离开；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "午， 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "时被带到海上， 爱我的主竟然睡着。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "在 路"
+          "segments": [
+            {
+              "chord": "",
+              "text": "往前的每一步， 常在冒险、惊喜之中；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "上 等"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从来没见过祂， 天天糢糊，天天清明，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "待 保"
-        },
-        {
-          "chord": "D",
-          "text": "羅； 在"
-        },
-        {
-          "chord": "G",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从来没见过祂， 天天糢糊，天天清明。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "的 日 子"
+          "segments": [
+            {
+              "chord": "",
+              "text": "每天非我所愿， 日子多么富于挑战，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "裡， 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不许安逸、自怜， 与人同情，与人同行；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "忽 來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂供应生命粮、 生命活水、一切动力。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "到 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "带人走出黑暗， 多少生命因此转换；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂能力来覆庇， 天天怯场，天天强壮，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "命。 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂能力来覆庇， 天天怯场，天天强壮。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你许凡爱你者， 一生充满多少矛盾，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "來 臨"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如 強"
+          "segments": [
+            {
+              "chord": "",
+              "text": "似乎不为人知， 却是诚实，人所共知，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "光， 那"
+          "segments": [
+            {
+              "chord": "",
+              "text": "似乎即将丧命， 却是复活，欢呼得生。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "片 光"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在己里有痛楚， 在你里面无量丰富；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "明 不 能 抵"
+          "segments": [
+            {
+              "chord": "",
+              "text": "瓦器里有宝贝， 天天羞辱，天天荣耀，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "擋； 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "瓦器里有宝贝， 天天羞辱，天天荣耀。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "从来不曾估量， 平凡的我得此上好，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "真 無"
+          "segments": [
+            {
+              "chord": "",
+              "text": "以你生命活你， 以你性情行事为人，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "法"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "解"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天天罗曼蒂克， 多采多姿，可泣可歌。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "釋， 天"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是你极大怜悯， 今生到我这里来过；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "天 疑"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，主阿，谢谢你， 今生到我这里来过，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "惑， 天"
-        },
-        {
-          "chord": "",
-          "text": "天 相"
-        },
-        {
-          "chord": "D",
-          "text": "信， 我"
-        },
-        {
-          "chord": "G",
-          "text": "真 無"
-        },
-        {
-          "chord": "",
-          "text": "法 解"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "釋， 天"
-        },
-        {
-          "chord": "",
-          "text": "天 疑"
-        },
-        {
-          "chord": "A7",
-          "text": "惑， 天"
-        },
-        {
-          "chord": "",
-          "text": "天 相"
-        },
-        {
-          "chord": "D",
-          "text": "信。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "时走在大草原， 听见亲爱牧者柔声；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "时走在山谷间， 智慧领路暂时离开；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "时被带到海上， 爱我的主竟然睡着。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "往前的每一步， 常在冒险、惊喜之中；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从来没见过祂， 天天糢糊，天天清明，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从来没见过祂， 天天糢糊，天天清明。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "每天非我所愿， 日子多么富于挑战，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不许安逸、自怜， 与人同情，与人同行；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂供应生命粮、 生命活水、一切动力。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "带人走出黑暗， 多少生命因此转换；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂能力来覆庇， 天天怯场，天天强壮，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂能力来覆庇， 天天怯场，天天强壮。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你许凡爱你者， 一生充满多少矛盾，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "似乎不为人知， 却是诚实，人所共知，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "似乎即将丧命， 却是复活，欢呼得生。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在己里有痛楚， 在你里面无量丰富；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "瓦器里有宝贝， 天天羞辱，天天荣耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "瓦器里有宝贝， 天天羞辱，天天荣耀。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从来不曾估量， 平凡的我得此上好，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "以你生命活你， 以你性情行事为人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天天罗曼蒂克， 多采多姿，可泣可歌。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是你极大怜悯， 今生到我这里来过；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，主阿，谢谢你， 今生到我这里来过，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，主阿，谢谢你， 今生到我这里来过。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，主阿，谢谢你， 今生到我这里来过。"
+            }
+          ]
         }
       ]
     }
@@ -386,7 +406,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "4/4",
-    "hymn_code": "53345752123453"
+    "hymn_code": "53345752123453",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6429",
+        "language": "cn",
+        "category": "h",
+        "number": "6429",
+        "title": "E6429"
+      }
+    ]
   },
   "raw_sections": [
     "主 阿，在 那 清晨， 你去 海邊 等 待 彼得； 主",

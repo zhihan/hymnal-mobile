@@ -1,268 +1,284 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/346",
   "title": "用我的诗歌向我所爱的主",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "用 我"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "用 我"
+            },
+            {
+              "chord": "",
+              "text": "的 詩"
+            },
+            {
+              "chord": "Am",
+              "text": "歌，"
+            },
+            {
+              "chord": "D",
+              "text": "向 我"
+            },
+            {
+              "chord": "",
+              "text": "所 愛 的"
+            },
+            {
+              "chord": "G",
+              "text": "主，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 詩"
+          "segments": [
+            {
+              "chord": "F",
+              "text": "唱 出"
+            },
+            {
+              "chord": "",
+              "text": "我 心"
+            },
+            {
+              "chord": "Dm",
+              "text": "聲，"
+            },
+            {
+              "chord": "G",
+              "text": "也 唱"
+            },
+            {
+              "chord": "",
+              "text": "出 我 愁"
+            },
+            {
+              "chord": "C",
+              "text": "楚。"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "歌，"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "年 來"
+            },
+            {
+              "chord": "Em",
+              "text": "所 行"
+            },
+            {
+              "chord": "Am",
+              "text": "路，"
+            },
+            {
+              "chord": "F",
+              "text": "是 備"
+            },
+            {
+              "chord": "",
+              "text": "嘗 人 世"
+            },
+            {
+              "chord": "Em",
+              "text": "苦，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "向 我"
+          "segments": [
+            {
+              "chord": "F",
+              "text": "除 了"
+            },
+            {
+              "chord": "Em",
+              "text": "我 的"
+            },
+            {
+              "chord": "",
+              "text": "主，"
+            },
+            {
+              "chord": "Dm",
+              "text": "還 有"
+            },
+            {
+              "chord": "",
+              "text": "誰 可 傾"
+            },
+            {
+              "chord": "G",
+              "text": "訴？"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "所 愛 的"
-        },
-        {
-          "chord": "G",
-          "text": "主，"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "除 了"
+            },
+            {
+              "chord": "",
+              "text": "我 的"
+            },
+            {
+              "chord": "Am",
+              "text": "主，"
+            },
+            {
+              "chord": "Dm",
+              "text": "還 有"
+            },
+            {
+              "chord": "",
+              "text": "誰"
+            },
+            {
+              "chord": "G",
+              "text": "可 傾"
+            },
+            {
+              "chord": "C",
+              "text": "訴？"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "F",
-          "text": "唱 出"
+          "segments": [
+            {
+              "chord": "",
+              "text": "用我的诗歌，向我所爱的主，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 心"
+          "segments": [
+            {
+              "chord": "",
+              "text": "献上我赞美，也倾吐我思慕。"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "聲，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "虽然所行路，是凄酸多云雾，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "也 唱"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但主手领我，仍前进不后顾。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "出 我 愁"
-        },
-        {
-          "chord": "C",
-          "text": "楚。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但主手领我，仍前进不后顾。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Dm",
-          "text": "年 來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "用我的诗歌，向我所爱的主，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "所 行"
+          "segments": [
+            {
+              "chord": "",
+              "text": "表示我愿意，一直走此窄路。"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "路，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "虽然所饮杯，是苦胆调酸醋，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "是 備"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我亦无怨言，我亦乐意顺服。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "嘗 人 世"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我亦无怨言，我亦乐意顺服。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "用我的诗歌，向我所爱的主，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "苦，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "F",
-          "text": "除 了"
+          "segments": [
+            {
+              "chord": "",
+              "text": "唱这十架路，是我惟一归途。"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "我 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "虽然所经过，是伤心流泪谷，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "主，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但主却领我，由此路通国度。"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "還 有"
-        },
-        {
-          "chord": "",
-          "text": "誰 可 傾"
-        },
-        {
-          "chord": "G",
-          "text": "訴？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "除 了"
-        },
-        {
-          "chord": "",
-          "text": "我 的"
-        },
-        {
-          "chord": "Am",
-          "text": "主，"
-        },
-        {
-          "chord": "Dm",
-          "text": "還 有"
-        },
-        {
-          "chord": "",
-          "text": "誰"
-        },
-        {
-          "chord": "G",
-          "text": "可 傾"
-        },
-        {
-          "chord": "C",
-          "text": "訴？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "用我的诗歌，向我所爱的主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "献上我赞美，也倾吐我思慕。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "虽然所行路，是凄酸多云雾，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但主手领我，仍前进不后顾。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但主手领我，仍前进不后顾。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "用我的诗歌，向我所爱的主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "表示我愿意，一直走此窄路。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "虽然所饮杯，是苦胆调酸醋，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我亦无怨言，我亦乐意顺服。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我亦无怨言，我亦乐意顺服。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "用我的诗歌，向我所爱的主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "唱这十架路，是我惟一归途。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "虽然所经过，是伤心流泪谷，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但主却领我，由此路通国度。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但主却领我，由此路通国度。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但主却领我，由此路通国度。"
+            }
+          ]
         }
       ]
     }

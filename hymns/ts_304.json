@@ -1,208 +1,220 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/304",
   "title": "同往葡萄园去",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "我 屬"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 屬"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "A7",
+              "text": "的 良"
+            },
+            {
+              "chord": "D",
+              "text": "人，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 也 是"
+            },
+            {
+              "chord": "A7",
+              "text": "戀 慕"
+            },
+            {
+              "chord": "D",
+              "text": "我。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "的 良"
+          "segments": [
+            {
+              "chord": "",
+              "text": "來 罷， 我 們 同 往"
+            },
+            {
+              "chord": "G",
+              "text": "田 間"
+            },
+            {
+              "chord": "A7",
+              "text": "去；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 也 是"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "要 在 愛"
+            },
+            {
+              "chord": "A",
+              "text": "裡，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "戀 慕"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同 在 村"
+            },
+            {
+              "chord": "A7",
+              "text": "莊 住"
+            },
+            {
+              "chord": "D",
+              "text": "宿，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享 受 你"
+            },
+            {
+              "chord": "G",
+              "text": "我 之"
+            },
+            {
+              "chord": "A",
+              "text": "間"
+            },
+            {
+              "chord": "A7",
+              "text": "愛"
+            },
+            {
+              "chord": "D",
+              "text": "情。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "來 罷， 我 們 同 往"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们早晨起来，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "田 間"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同往葡萄园去，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "去；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同享受我们劳苦果实；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "要 在 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "葡萄是否开花，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "裡，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同 在 村"
+          "segments": [
+            {
+              "chord": "",
+              "text": "石榴是否放蕊，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "莊 住"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我在那里将爱给你。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "风茄是在放香，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "宿，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享 受 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "新陈果子佳美，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "我 之"
+          "segments": [
+            {
+              "chord": "",
+              "text": "良人哪！这是为你存留；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "間"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的爱都归你，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "也把你全享受，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "情。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们早晨起来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同往葡萄园去，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同享受我们劳苦果实；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "葡萄是否开花，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "石榴是否放蕊，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我在那里将爱给你。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "风茄是在放香，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "新陈果子佳美，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "良人哪！这是为你存留；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的爱都归你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "也把你全享受，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因爱情是如死坚强。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因爱情是如死坚强。"
+            }
+          ]
         }
       ]
     }
@@ -210,7 +222,16 @@
   "metadata": {
     "category": "爱慕耶稣",
     "time": "4/4",
-    "hymn_code": "1112713333423"
+    "hymn_code": "1112713333423",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6304",
+        "language": "cn",
+        "category": "h",
+        "number": "6304",
+        "title": "E6304"
+      }
+    ]
   },
   "raw_sections": [
     "我 屬我的 良人，",

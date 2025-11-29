@@ -1,396 +1,420 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/408",
   "title": "挖透我",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "挖 透"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "挖 透"
+            },
+            {
+              "chord": "",
+              "text": "我， 挖 透"
+            },
+            {
+              "chord": "D",
+              "text": "我， 挖"
+            },
+            {
+              "chord": "",
+              "text": "透"
+            },
+            {
+              "chord": "G",
+              "text": "我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我， 挖 透"
+          "segments": [
+            {
+              "chord": "",
+              "text": "挖 去"
+            },
+            {
+              "chord": "C",
+              "text": "我 心"
+            },
+            {
+              "chord": "",
+              "text": "裡 所"
+            },
+            {
+              "chord": "D7",
+              "text": "有 硬"
+            },
+            {
+              "chord": "",
+              "text": "石"
+            },
+            {
+              "chord": "G",
+              "text": "頭！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我， 挖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "挖 透 我， 挖 透"
+            },
+            {
+              "chord": "D",
+              "text": "我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "透"
+          "segments": [
+            {
+              "chord": "",
+              "text": "挖 透"
+            },
+            {
+              "chord": "G",
+              "text": "我， 挖"
+            },
+            {
+              "chord": "",
+              "text": "去"
+            },
+            {
+              "chord": "C",
+              "text": "我 心"
+            },
+            {
+              "chord": "",
+              "text": "裡 所"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "我，"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "有 硬"
+            },
+            {
+              "chord": "",
+              "text": "石"
+            },
+            {
+              "chord": "G",
+              "text": "頭！"
+            },
+            {
+              "chord": "G7",
+              "text": "所 有"
+            },
+            {
+              "chord": "C",
+              "text": "罪， 皆"
+            },
+            {
+              "chord": "",
+              "text": "脫"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "落， 讓"
+            },
+            {
+              "chord": "",
+              "text": "生"
+            },
+            {
+              "chord": "C",
+              "text": "命 湧"
+            },
+            {
+              "chord": "D",
+              "text": "流！ 阿"
+            },
+            {
+              "chord": "",
+              "text": "利"
+            },
+            {
+              "chord": "D7",
+              "text": "路 亞！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "挖 去"
+          "segments": [
+            {
+              "chord": "",
+              "text": "挖 透"
+            },
+            {
+              "chord": "G",
+              "text": "我， 挖"
+            },
+            {
+              "chord": "",
+              "text": "透"
+            },
+            {
+              "chord": "D",
+              "text": "我， 挖"
+            },
+            {
+              "chord": "",
+              "text": "透"
+            },
+            {
+              "chord": "G",
+              "text": "我，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "我 心"
-        },
-        {
-          "chord": "",
-          "text": "裡 所"
-        },
-        {
-          "chord": "D7",
-          "text": "有 硬"
-        },
-        {
-          "chord": "",
-          "text": "石"
-        },
-        {
-          "chord": "G",
-          "text": "頭！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "挖 去"
+            },
+            {
+              "chord": "C",
+              "text": "我 心"
+            },
+            {
+              "chord": "",
+              "text": "裡 所"
+            },
+            {
+              "chord": "D7",
+              "text": "有 硬"
+            },
+            {
+              "chord": "",
+              "text": "石"
+            },
+            {
+              "chord": "G",
+              "text": "頭！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "挖 透 我， 挖 透"
+          "segments": [
+            {
+              "chord": "",
+              "text": "挖透我，挖透我，挖透我，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "挖 透"
+          "segments": [
+            {
+              "chord": "",
+              "text": "挖去所有困扰我的感情！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "我， 挖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "己所爱，须撇弃，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "去"
+          "segments": [
+            {
+              "chord": "",
+              "text": "让生命涌流…阿利路亚！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "我 心"
+          "segments": [
+            {
+              "chord": "",
+              "text": "挖透我，挖透我，挖透我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "裡 所"
+          "segments": [
+            {
+              "chord": "",
+              "text": "挖去所有困扰我的感情！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D7",
-          "text": "有 硬"
+          "segments": [
+            {
+              "chord": "",
+              "text": "挖透我，挖透我，挖透我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "石"
+          "segments": [
+            {
+              "chord": "",
+              "text": "挖去所有意志里的悖逆！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "頭！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "己所愿，须平息，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "所 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "让生命涌流…阿利路亚！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "罪， 皆"
+          "segments": [
+            {
+              "chord": "",
+              "text": "挖透我，挖透我，挖透我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "脫"
+          "segments": [
+            {
+              "chord": "",
+              "text": "挖去所有意志里的背逆！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "落， 讓"
+          "segments": [
+            {
+              "chord": "",
+              "text": "挖透我，挖透我，挖透我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "挖去我所有自己的追求！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "命 湧"
+          "segments": [
+            {
+              "chord": "",
+              "text": "己所望，须扑灭，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "流！ 阿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "让生命涌流…阿利路亚！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "利"
+          "segments": [
+            {
+              "chord": "",
+              "text": "挖透我，挖透我，挖透我，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "路 亞！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "挖去我所有自己的追求！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "挖 透"
+          "segments": [
+            {
+              "chord": "",
+              "text": "涌流出！赞美主！涌流出！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "我， 挖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生命从心中活泉涌流出！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "透"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的心全释放，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我， 挖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "灵就能‘赞美’…阿利路亚！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "透"
+          "segments": [
+            {
+              "chord": "",
+              "text": "涌流出！赞美主！涌流出！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "挖 去"
-        },
-        {
-          "chord": "C",
-          "text": "我 心"
-        },
-        {
-          "chord": "",
-          "text": "裡 所"
-        },
-        {
-          "chord": "D7",
-          "text": "有 硬"
-        },
-        {
-          "chord": "",
-          "text": "石"
-        },
-        {
-          "chord": "G",
-          "text": "頭！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "挖透我，挖透我，挖透我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "挖去所有困扰我的感情！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "己所爱，须撇弃，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让生命涌流…阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "挖透我，挖透我，挖透我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "挖去所有困扰我的感情！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "挖透我，挖透我，挖透我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "挖去所有意志里的悖逆！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "己所愿，须平息，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让生命涌流…阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "挖透我，挖透我，挖透我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "挖去所有意志里的背逆！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "挖透我，挖透我，挖透我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "挖去我所有自己的追求！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "己所望，须扑灭，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让生命涌流…阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "挖透我，挖透我，挖透我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "挖去我所有自己的追求！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "涌流出！赞美主！涌流出！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生命从心中活泉涌流出！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的心全释放，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "灵就能‘赞美’…阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "涌流出！赞美主！涌流出！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生命从心中活泉涌流出！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生命从心中活泉涌流出！"
+            }
+          ]
         }
       ]
     }
@@ -398,7 +422,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "4/4",
-    "hymn_code": "345565123"
+    "hymn_code": "345565123",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1214",
+        "language": "cn",
+        "category": "h",
+        "number": "1214",
+        "title": "E1214"
+      }
+    ]
   },
   "raw_sections": [
     "挖 透我， 挖 透我， 挖透我，",

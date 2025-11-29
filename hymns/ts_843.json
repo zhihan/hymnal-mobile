@@ -1,196 +1,208 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/843",
   "title": "活神的家",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "天 起"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "天 起"
+            },
+            {
+              "chord": "",
+              "text": "了 涼 風，"
+            },
+            {
+              "chord": "Em",
+              "text": "人 陷"
+            },
+            {
+              "chord": "D",
+              "text": "罪 惡"
+            },
+            {
+              "chord": "G",
+              "text": "中；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "了 涼 風，"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "神 在"
+            },
+            {
+              "chord": "",
+              "text": "天 地"
+            },
+            {
+              "chord": "D",
+              "text": "間，"
+            },
+            {
+              "chord": "G",
+              "text": "聲 聲"
+            },
+            {
+              "chord": "D7",
+              "text": "呼"
+            },
+            {
+              "chord": "G",
+              "text": "喚："
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "人 陷"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 在 那"
+            },
+            {
+              "chord": "Am",
+              "text": "裏？ 人"
+            },
+            {
+              "chord": "",
+              "text": "哪，"
+            },
+            {
+              "chord": "G",
+              "text": "你 在"
+            },
+            {
+              "chord": "",
+              "text": "何 地？"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "罪 惡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神 的"
+            },
+            {
+              "chord": "D",
+              "text": "愛 情，"
+            },
+            {
+              "chord": "Em",
+              "text": "祂 的"
+            },
+            {
+              "chord": "",
+              "text": "安 息，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "中；"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "全 都"
+            },
+            {
+              "chord": "D7",
+              "text": "在 於"
+            },
+            {
+              "chord": "G",
+              "text": "你。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Am",
-          "text": "神 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享受主救恩，满足人和神，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "天 地"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神、人同建造，居所何荣耀；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "間，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "团体新人，大哉！神显于肉身，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "聲 聲"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天使看见，世人信服，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "呼"
-        },
-        {
-          "chord": "G",
-          "text": "喚："
+          "segments": [
+            {
+              "chord": "",
+              "text": "活神住人间。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "你 在 那"
+          "segments": [
+            {
+              "chord": "",
+              "text": "畅饮生命河，欢唱恩爱歌，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "裏？ 人"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同享主肥甘，荣光溢漫；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "哪，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天地相系，神、人永远合一，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "你 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "人的住处，神的安息，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "何 地？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神 的"
-        },
-        {
-          "chord": "D",
-          "text": "愛 情，"
-        },
-        {
-          "chord": "Em",
-          "text": "祂 的"
-        },
-        {
-          "chord": "",
-          "text": "安 息，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "全 都"
-        },
-        {
-          "chord": "D7",
-          "text": "在 於"
-        },
-        {
-          "chord": "G",
-          "text": "你。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享受主救恩，满足人和神，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神、人同建造，居所何荣耀；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "团体新人，大哉！神显于肉身，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天使看见，世人信服，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "活神住人间。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "畅饮生命河，欢唱恩爱歌，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同享主肥甘，荣光溢漫；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天地相系，神、人永远合一，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "人的住处，神的安息，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "显在荣耀里！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "显在荣耀里！"
+            }
+          ]
         }
       ]
     }

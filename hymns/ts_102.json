@@ -1,572 +1,620 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/102",
   "title": "七灵",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "看 哪，"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "看 哪，"
+            },
+            {
+              "chord": "",
+              "text": "時 代 已 轉 移，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "時 代 已 轉 移，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "隨 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "隨 主"
+            },
+            {
+              "chord": "A",
+              "text": "轉 入"
+            },
+            {
+              "chord": "A7",
+              "text": "聖 靈"
+            },
+            {
+              "chord": "D",
+              "text": "裡，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "轉 入"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神 寶 座 前 的 七 靈，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "聖 靈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "奉 差"
+            },
+            {
+              "chord": "A",
+              "text": "遣 到"
+            },
+            {
+              "chord": "E7",
+              "text": "全 地"
+            },
+            {
+              "chord": "A",
+              "text": "去。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦， 神"
+            },
+            {
+              "chord": "G",
+              "text": "七 靈，"
+            },
+            {
+              "chord": "",
+              "text": "我 懇"
+            },
+            {
+              "chord": "A",
+              "text": "求，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "裡，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神 寶 座 前 的 七 靈，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "奉 差"
+          "segments": [
+            {
+              "chord": "",
+              "text": "願 你"
+            },
+            {
+              "chord": "A7",
+              "text": "工 作"
+            },
+            {
+              "chord": "",
+              "text": "得 成"
+            },
+            {
+              "chord": "D",
+              "text": "就！"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "遣 到"
+          "segments": [
+            {
+              "chord": "",
+              "text": "將 我 鑒 察 並 焚"
+            },
+            {
+              "chord": "G",
+              "text": "燒，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "全 地"
+          "segments": [
+            {
+              "chord": "",
+              "text": "為 著"
+            },
+            {
+              "chord": "D",
+              "text": "召 會"
+            },
+            {
+              "chord": "A7",
+              "text": "的 建"
+            },
+            {
+              "chord": "D",
+              "text": "造，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "去。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦， 神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "鑒"
+            },
+            {
+              "chord": "G",
+              "text": "察， 焚"
+            },
+            {
+              "chord": "D",
+              "text": "燒，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "七 靈，"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "為 著"
+            },
+            {
+              "chord": "",
+              "text": "召 會"
+            },
+            {
+              "chord": "A7",
+              "text": "的 建"
+            },
+            {
+              "chord": "D",
+              "text": "造。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "圣灵乃是七倍灵，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 懇"
+          "segments": [
+            {
+              "chord": "",
+              "text": "应付召会死光景，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "求，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "願 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "圣徒转回得复苏，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "工 作"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使主召会得恢复。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，神七灵，我恳求，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "得 成"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿你工作得成就！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "就！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "將 我 鑒 察 並 焚"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将我鉴察并焚烧，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "燒，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "為 著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为着召会的建造，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "召 會"
+          "segments": [
+            {
+              "chord": "",
+              "text": "鉴察，焚烧，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "的 建"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为着召会的建造。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "现今我们神的灵，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "造，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "鑒"
+          "segments": [
+            {
+              "chord": "",
+              "text": "成为召会的供应，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "察， 焚"
+          "segments": [
+            {
+              "chord": "",
+              "text": "而且加强成七倍，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "燒，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何等丰富又全备！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A",
-          "text": "為 著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，神七灵，我恳求，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "召 會"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿你工作得成就！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "的 建"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将我鉴察并焚烧，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "造。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为着召会的建造，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "鉴察，焚烧，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "为着召会的建造。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "圣灵乃是七倍灵，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神的七灵是七灯，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "七盏烧着的火灯，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "并不是为着教导，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃是为将我焚烧。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "应付召会死光景，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，神七灵，我恳求，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿你工作得成就！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "将我鉴察并焚烧，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "为着召会的建造，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "鉴察，焚烧，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "为着召会的建造。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "圣徒转回得复苏，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "看哪！现在神七灵，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "七眼如火焰照明，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "洁净召会每角落，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "肉体情欲都脱落。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "使主召会得恢复。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，神七灵，我恳求，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿你工作得成就！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "将我鉴察并焚烧，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "为着召会的建造，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "鉴察，焚烧，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "为着召会的建造。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "哦，神七灵，我恳求，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主今赐下祂七灵，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "带着丰盛的生命，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "今在地方召会里，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "供我享受并经历。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "愿你工作得成就！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，神七灵，我恳求，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "将我鉴察并焚烧，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿你工作得成就！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "为着召会的建造，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "将我鉴察并焚烧，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "鉴察，焚烧，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "为着召会的建造，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "为着召会的建造。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "鉴察，焚烧，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "现今我们神的灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "成为召会的供应，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "而且加强成七倍，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何等丰富又全备！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，神七灵，我恳求，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿你工作得成就！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将我鉴察并焚烧，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为着召会的建造，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "鉴察，焚烧，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为着召会的建造。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神的七灵是七灯，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "七盏烧着的火灯，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "并不是为着教导，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃是为将我焚烧。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，神七灵，我恳求，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿你工作得成就！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将我鉴察并焚烧，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为着召会的建造，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "鉴察，焚烧，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为着召会的建造。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "看哪！现在神七灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "七眼如火焰照明，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "洁净召会每角落，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "肉体情欲都脱落。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，神七灵，我恳求，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿你工作得成就！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将我鉴察并焚烧，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为着召会的建造，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "鉴察，焚烧，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为着召会的建造。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主今赐下祂七灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "带着丰盛的生命，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今在地方召会里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "供我享受并经历。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，神七灵，我恳求，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿你工作得成就！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将我鉴察并焚烧，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为着召会的建造，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "鉴察，焚烧，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为着召会的建造。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为着召会的建造。"
+            }
+          ]
         }
       ]
     }
@@ -574,7 +622,16 @@
   "metadata": {
     "category": "灵与生命",
     "time": "6/8",
-    "hymn_code": "55172133425231"
+    "hymn_code": "55172133425231",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1122",
+        "language": "cn",
+        "category": "h",
+        "number": "1122",
+        "title": "E1122"
+      }
+    ]
   },
   "raw_sections": [
     "看 哪，時 代 已 轉 移，",

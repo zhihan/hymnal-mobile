@@ -1,132 +1,136 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/208",
   "title": "靠耶和华得的喜乐",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "靠 耶"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "靠 耶"
+            },
+            {
+              "chord": "",
+              "text": "和 華 得 的 喜 樂"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "和 華 得 的 喜 樂"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "是"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "是"
+            },
+            {
+              "chord": "D",
+              "text": "你"
+            },
+            {
+              "chord": "A7",
+              "text": "的 力"
+            },
+            {
+              "chord": "D",
+              "text": "量。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "靠 耶 和 華 得 的 喜 樂"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "的 力"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "是"
+            },
+            {
+              "chord": "D",
+              "text": "你"
+            },
+            {
+              "chord": "A7",
+              "text": "的 力"
+            },
+            {
+              "chord": "D",
+              "text": "量。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "量。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "靠 耶 和 華 得 的 喜 樂"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "喫 肥 美 的， 喝"
+            },
+            {
+              "chord": "G",
+              "text": "甘 甜"
+            },
+            {
+              "chord": "D",
+              "text": "的，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今 日 是 我 們 主"
+            },
+            {
+              "chord": "G",
+              "text": "的 聖"
+            },
+            {
+              "chord": "A",
+              "text": "日。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "的 力"
+          "segments": [
+            {
+              "chord": "",
+              "text": "靠"
+            },
+            {
+              "chord": "D",
+              "text": "耶 和"
+            },
+            {
+              "chord": "",
+              "text": "華 得 的 喜 樂"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "量。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "喫 肥 美 的， 喝"
-        },
-        {
-          "chord": "G",
-          "text": "甘 甜"
-        },
-        {
-          "chord": "D",
-          "text": "的，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今 日 是 我 們 主"
-        },
-        {
-          "chord": "G",
-          "text": "的 聖"
-        },
-        {
-          "chord": "A",
-          "text": "日。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "靠"
-        },
-        {
-          "chord": "D",
-          "text": "耶 和"
-        },
-        {
-          "chord": "",
-          "text": "華 得 的 喜 樂"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "是"
-        },
-        {
-          "chord": "D",
-          "text": "你"
-        },
-        {
-          "chord": "A7",
-          "text": "的 力"
-        },
-        {
-          "chord": "D",
-          "text": "量。"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "是"
+            },
+            {
+              "chord": "D",
+              "text": "你"
+            },
+            {
+              "chord": "A7",
+              "text": "的 力"
+            },
+            {
+              "chord": "D",
+              "text": "量。"
+            }
+          ]
         }
       ]
     }

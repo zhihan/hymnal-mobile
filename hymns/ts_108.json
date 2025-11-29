@@ -1,592 +1,632 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/108",
   "title": "祂是奇妙之灵住我里",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "如 今"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "如 今"
+            },
+            {
+              "chord": "",
+              "text": "三 一 神"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "三 一 神"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "已"
+          "segments": [
+            {
+              "chord": "",
+              "text": "已"
+            },
+            {
+              "chord": "A",
+              "text": "住 在"
+            },
+            {
+              "chord": "",
+              "text": "我 裡 面，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "住 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 是 奇 妙 之"
+            },
+            {
+              "chord": "A7",
+              "text": "靈 在"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "D",
+              "text": "裡。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 裡 面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 是 奇 妙 之"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 已 與 主"
+            },
+            {
+              "chord": "Bm",
+              "text": "調 和"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "靈 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "聯 成"
+            },
+            {
+              "chord": "F♯",
+              "text": "為 一"
+            },
+            {
+              "chord": "Bm",
+              "text": "靈，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 是"
+            },
+            {
+              "chord": "A",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "之"
+            },
+            {
+              "chord": "E7",
+              "text": "靈 在"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "A",
+              "text": "裡。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，"
+            },
+            {
+              "chord": "A7",
+              "text": "祂 是"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "裡。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 已 與 主"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "奇 妙"
+            },
+            {
+              "chord": "",
+              "text": "之 靈 住 我"
+            },
+            {
+              "chord": "A",
+              "text": "裡，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "調 和"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "聯 成"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 是 奇 妙 之"
+            },
+            {
+              "chord": "A7",
+              "text": "靈 住"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "D",
+              "text": "裡。"
+            }
+          ]
         },
         {
-          "chord": "F♯",
-          "text": "為 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如 今 神 在 子 裡，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "靈，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 是"
+          "segments": [
+            {
+              "chord": "B7",
+              "text": "子 就"
+            },
+            {
+              "chord": "",
+              "text": "是 那"
+            },
+            {
+              "chord": "Em",
+              "text": "靈─ 祂"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是"
+            },
+            {
+              "chord": "A",
+              "text": "奇 妙"
+            },
+            {
+              "chord": "",
+              "text": "之"
+            },
+            {
+              "chord": "A7",
+              "text": "靈 住"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "D",
+              "text": "裡。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "‘阿爸父’我今"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "之"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从深处呼喊你，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "靈 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "喊自奇妙之灵在我里；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "也就是子之灵"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "裡。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "向父神呼喊，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "祂 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是生命之灵在我里。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "奇 妙"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，祂是"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "之 靈 住 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "奇妙之灵住我里，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "裡，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 是 奇 妙 之"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是奇妙之灵住我里。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "靈 住"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如今神在子里，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "子就是那灵─"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "裡。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是奇妙之灵住我里。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "如 今 神 在 子 裡，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "B7",
-          "text": "子 就"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如今主耶稣基督"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "是 那"
+          "segments": [
+            {
+              "chord": "",
+              "text": "住在我里，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "靈─ 祂"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是奇妙之灵住我里；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "奇 妙"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂已经过变化，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "之"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我可享受祂，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "靈 住"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是生命之灵住我里。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，祂是"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "奇妙之灵住我里，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "裡。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是奇妙之灵住我里。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "如今神在子里，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "子就是那灵─"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是奇妙之灵住我里。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "‘阿爸父’我今"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如今那实际之灵"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "已经来到，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是奇妙之灵住我里；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "今基督的一切，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "明亮又实际，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "借着生命之灵住我里。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "从深处呼喊你，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，祂是"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "奇妙之灵住我里，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是奇妙之灵住我里。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "如今神在子里，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "子就是那灵─"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是奇妙之灵住我里。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "喊自奇妙之灵在我里；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我愿常挑旺"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "这深处的恩赐，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "这是奇妙之灵住我里；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "喊‘哦！主耶稣，’"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "这使我灵跳跃，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "因着生命之灵在我里。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "也就是子之灵"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，祂是"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "向父神呼喊，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "奇妙之灵住我里，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "祂是生命之灵在我里。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是奇妙之灵住我里。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "哦，祂是"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "如今神在子里，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "奇妙之灵住我里，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "子就是那灵─"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "祂是奇妙之灵住我里。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如今神在子里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "子就是那灵─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是奇妙之灵住我里。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如今主耶稣基督"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "住在我里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是奇妙之灵住我里；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂已经过变化，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我可享受祂，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是生命之灵住我里。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，祂是"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "奇妙之灵住我里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是奇妙之灵住我里。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如今神在子里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "子就是那灵─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是奇妙之灵住我里。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如今那实际之灵"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "已经来到，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是奇妙之灵住我里；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今基督的一切，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "明亮又实际，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借着生命之灵住我里。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，祂是"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "奇妙之灵住我里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是奇妙之灵住我里。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如今神在子里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "子就是那灵─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是奇妙之灵住我里。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我愿常挑旺"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "这深处的恩赐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "这是奇妙之灵住我里；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "喊‘哦！主耶稣，’"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "这使我灵跳跃，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因着生命之灵在我里。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，祂是"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "奇妙之灵住我里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是奇妙之灵住我里。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如今神在子里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "子就是那灵─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是奇妙之灵住我里。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是奇妙之灵住我里。"
+            }
+          ]
         }
       ]
     }
@@ -594,7 +634,16 @@
   "metadata": {
     "category": "灵与生命",
     "time": "4/4",
-    "hymn_code": "33336543432"
+    "hymn_code": "33336543432",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1113",
+        "language": "cn",
+        "category": "h",
+        "number": "1113",
+        "title": "E1113"
+      }
+    ]
   },
   "raw_sections": [
     "如 今三 一 神",

@@ -1,152 +1,156 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/422",
   "title": "奔跑生命路",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "向 標"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "向 標"
+            },
+            {
+              "chord": "",
+              "text": "竿， 豫 備，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "竿， 豫 備，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "奔 跑 生 命 路；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "上 頭 獎 賞 來 接"
+          "segments": [
+            {
+              "chord": "",
+              "text": "奔 跑 生 命 路；"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "受。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "放 下 各 樣 重 擔"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "和 纏 累 的 罪，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "屬 天"
+          "segments": [
+            {
+              "chord": "",
+              "text": "上 頭 獎 賞 來 接"
+            },
+            {
+              "chord": "Dm",
+              "text": "受。"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "異 象"
+          "segments": [
+            {
+              "chord": "",
+              "text": "放 下 各 樣 重 擔"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "不 違"
+          "segments": [
+            {
+              "chord": "",
+              "text": "和 纏 累 的 罪，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "背，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "見 證 人 圍 繞 著"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "觀 看 我 奔 跑，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "屬 天"
+            },
+            {
+              "chord": "G7",
+              "text": "異 象"
+            },
+            {
+              "chord": "",
+              "text": "不 違"
+            },
+            {
+              "chord": "C",
+              "text": "背，"
+            }
+          ]
         },
         {
-          "chord": "C7",
-          "text": "退 後"
+          "segments": [
+            {
+              "chord": "",
+              "text": "見 證 人 圍 繞 著"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "永 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "觀 看 我 奔 跑，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "倒！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向 標 竿， 豫 備，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "奔 跑"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永 不"
+            },
+            {
+              "chord": "C7",
+              "text": "退 後"
+            },
+            {
+              "chord": "",
+              "text": "永 不"
+            },
+            {
+              "chord": "F",
+              "text": "倒！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "向 標 竿， 豫 備，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "路；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "上 頭"
+          "segments": [
+            {
+              "chord": "",
+              "text": "奔 跑"
+            },
+            {
+              "chord": "C",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "路；"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "獎 賞"
-        },
-        {
-          "chord": "G7",
-          "text": "來 接"
-        },
-        {
-          "chord": "C",
-          "text": "受。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "上 頭"
+            },
+            {
+              "chord": "Dm",
+              "text": "獎 賞"
+            },
+            {
+              "chord": "G7",
+              "text": "來 接"
+            },
+            {
+              "chord": "C",
+              "text": "受。"
+            }
+          ]
         }
       ]
     }

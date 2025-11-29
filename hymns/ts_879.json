@@ -1,288 +1,300 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/879",
   "title": "真神是我耶稣",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "我 一"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我 一"
+            },
+            {
+              "chord": "",
+              "text": "直 尋 求 平"
+            },
+            {
+              "chord": "Am",
+              "text": "安， 或"
+            },
+            {
+              "chord": "D7",
+              "text": "能 有"
+            },
+            {
+              "chord": "",
+              "text": "喜 樂 半"
+            },
+            {
+              "chord": "G",
+              "text": "點，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "直 尋 求 平"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 所 有 不 過 愁"
+            },
+            {
+              "chord": "C",
+              "text": "煩， 人"
+            },
+            {
+              "chord": "",
+              "text": "生"
+            },
+            {
+              "chord": "G",
+              "text": "坎 坷"
+            },
+            {
+              "chord": "A",
+              "text": "艱"
+            },
+            {
+              "chord": "D",
+              "text": "難；"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "安， 或"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 怨"
+            },
+            {
+              "chord": "G",
+              "text": "歎："
+            },
+            {
+              "chord": "C",
+              "text": "奮 鬬"
+            },
+            {
+              "chord": "G",
+              "text": "努 力"
+            },
+            {
+              "chord": "",
+              "text": "竟 換"
+            },
+            {
+              "chord": "D",
+              "text": "得 失"
+            },
+            {
+              "chord": "G",
+              "text": "望，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "能 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 感"
+            },
+            {
+              "chord": "Em",
+              "text": "傷： 為"
+            },
+            {
+              "chord": "",
+              "text": "何"
+            },
+            {
+              "chord": "B",
+              "text": "前 景"
+            },
+            {
+              "chord": "",
+              "text": "始 終"
+            },
+            {
+              "chord": "Em",
+              "text": "淒"
+            },
+            {
+              "chord": "D",
+              "text": "涼！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "喜 樂 半"
+          "segments": [
+            {
+              "chord": "",
+              "text": "真 的 神"
+            },
+            {
+              "chord": "G",
+              "text": "阿， 你"
+            },
+            {
+              "chord": "",
+              "text": "今 何"
+            },
+            {
+              "chord": "Em",
+              "text": "在？ 我"
+            },
+            {
+              "chord": "Am",
+              "text": "需 要"
+            },
+            {
+              "chord": "",
+              "text": "你 理"
+            },
+            {
+              "chord": "D",
+              "text": "睬，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "點，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦， 我 真"
+            },
+            {
+              "chord": "G",
+              "text": "想 投"
+            },
+            {
+              "chord": "",
+              "text": "入 你"
+            },
+            {
+              "chord": "Em",
+              "text": "懷。 還"
+            },
+            {
+              "chord": "",
+              "text": "是"
+            },
+            {
+              "chord": "Am",
+              "text": "你"
+            },
+            {
+              "chord": "D7",
+              "text": "不 存"
+            },
+            {
+              "chord": "G",
+              "text": "在？"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我 所 有 不 過 愁"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是耶稣将我寻回，正当我万念俱灰，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "煩， 人"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂平安入我心内，涌出喜乐眼泪；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的信终于有了生命的回响，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "坎 坷"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的心流进神圣安息、盼望！"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "艱"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，主耶稣，我感谢你，与我联结为一，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "難；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "无人像你真情实意，我馀生都给你。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我 怨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何喜乐，不再是我，是基督在我活着，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "歎："
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂救我脱罪、死、魔，经历死而复活；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "奮 鬬"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我高喊：耶稣，耶稣，祂真是爱我，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "努 力"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我颂赞：祂赐救恩这大！这博！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "竟 換"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，真的神是我耶稣，神是万主之主，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "得 失"
-        },
-        {
-          "chord": "G",
-          "text": "望，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 感"
-        },
-        {
-          "chord": "Em",
-          "text": "傷： 為"
-        },
-        {
-          "chord": "",
-          "text": "何"
-        },
-        {
-          "chord": "B",
-          "text": "前 景"
-        },
-        {
-          "chord": "",
-          "text": "始 終"
-        },
-        {
-          "chord": "Em",
-          "text": "淒"
-        },
-        {
-          "chord": "D",
-          "text": "涼！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "真 的 神"
-        },
-        {
-          "chord": "G",
-          "text": "阿， 你"
-        },
-        {
-          "chord": "",
-          "text": "今 何"
-        },
-        {
-          "chord": "Em",
-          "text": "在？ 我"
-        },
-        {
-          "chord": "Am",
-          "text": "需 要"
-        },
-        {
-          "chord": "",
-          "text": "你 理"
-        },
-        {
-          "chord": "D",
-          "text": "睬，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦， 我 真"
-        },
-        {
-          "chord": "G",
-          "text": "想 投"
-        },
-        {
-          "chord": "",
-          "text": "入 你"
-        },
-        {
-          "chord": "Em",
-          "text": "懷。 還"
-        },
-        {
-          "chord": "",
-          "text": "是"
-        },
-        {
-          "chord": "Am",
-          "text": "你"
-        },
-        {
-          "chord": "D7",
-          "text": "不 存"
-        },
-        {
-          "chord": "G",
-          "text": "在？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是耶稣将我寻回，正当我万念俱灰，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂平安入我心内，涌出喜乐眼泪；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的信终于有了生命的回响，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的心流进神圣安息、盼望！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，主耶稣，我感谢你，与我联结为一，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "无人像你真情实意，我馀生都给你。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何喜乐，不再是我，是基督在我活着，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂救我脱罪、死、魔，经历死而复活；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我高喊：耶稣，耶稣，祂真是爱我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我颂赞：祂赐救恩这大！这博！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，真的神是我耶稣，神是万主之主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我心、我命为你倾注，爱着你就满足。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我心、我命为你倾注，爱着你就满足。"
+            }
+          ]
         }
       ]
     }

@@ -1,380 +1,400 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/878",
   "title": "祂来过",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Dm",
-          "text": "人 生"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "人 生"
+            },
+            {
+              "chord": "",
+              "text": "不 定 無 長 久，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "不 定 無 長 久，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 的"
+            },
+            {
+              "chord": "A♯",
+              "text": "所 有"
+            },
+            {
+              "chord": "",
+              "text": "遭 剝"
+            },
+            {
+              "chord": "Am",
+              "text": "奪，"
+            }
+          ]
         },
         {
-          "chord": "A♯",
-          "text": "所 有"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "無 奈"
+            },
+            {
+              "chord": "",
+              "text": "承 受 痛 與 羞，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "遭 剝"
+          "segments": [
+            {
+              "chord": "",
+              "text": "獨 自"
+            },
+            {
+              "chord": "A♯",
+              "text": "絕 望"
+            },
+            {
+              "chord": "Am",
+              "text": "中 倒"
+            },
+            {
+              "chord": "Dm",
+              "text": "臥，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "奪，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Dm",
-          "text": "無 奈"
+          "segments": [
+            {
+              "chord": "Gm",
+              "text": "深 深"
+            },
+            {
+              "chord": "",
+              "text": "苦 情 無 人"
+            },
+            {
+              "chord": "F",
+              "text": "憐，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "承 受 痛 與 羞，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "獨 自"
+          "segments": [
+            {
+              "chord": "",
+              "text": "重 重"
+            },
+            {
+              "chord": "Am",
+              "text": "患 難"
+            },
+            {
+              "chord": "A♯",
+              "text": "誰 來"
+            },
+            {
+              "chord": "C7",
+              "text": "遣，"
+            }
+          ]
         },
         {
-          "chord": "A♯",
-          "text": "絕 望"
+          "segments": [
+            {
+              "chord": "",
+              "text": "以 為"
+            },
+            {
+              "chord": "F",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "即 消"
+            },
+            {
+              "chord": "Dm",
+              "text": "散，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "中 倒"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 竟"
+            },
+            {
+              "chord": "A♯",
+              "text": "出 現"
+            },
+            {
+              "chord": "C7",
+              "text": "在 眼"
+            },
+            {
+              "chord": "F",
+              "text": "前。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "今 生 今 世 我 口 最"
+            },
+            {
+              "chord": "Dm",
+              "text": "愛 提"
+            },
+            {
+              "chord": "F",
+              "text": "說，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "臥，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Gm",
-          "text": "深 深"
+          "segments": [
+            {
+              "chord": "",
+              "text": "就 是 我"
+            },
+            {
+              "chord": "A♯",
+              "text": "主 祂"
+            },
+            {
+              "chord": "",
+              "text": "來"
+            },
+            {
+              "chord": "C7",
+              "text": "過，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "苦 情 無 人"
+          "segments": [
+            {
+              "chord": "F",
+              "text": "驅 走"
+            },
+            {
+              "chord": "",
+              "text": "黑 暗，"
+            },
+            {
+              "chord": "Dm",
+              "text": "擔 我"
+            },
+            {
+              "chord": "",
+              "text": "輭 弱，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "憐，"
+          "segments": [
+            {
+              "chord": "A♯",
+              "text": "作 我"
+            },
+            {
+              "chord": "",
+              "text": "平 安"
+            },
+            {
+              "chord": "C7",
+              "text": "永 穩"
+            },
+            {
+              "chord": "F",
+              "text": "妥。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "重 重"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂用油酒来敷裹，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "患 難"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我心伤痛与坎坷，"
+            }
+          ]
         },
         {
-          "chord": "A♯",
-          "text": "誰 來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "怀我、肩我、扶助我，"
+            }
+          ]
         },
         {
-          "chord": "C7",
-          "text": "遣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "以 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "那有一点我配得，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我这才知何为爱，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "即 消"
+          "segments": [
+            {
+              "chord": "",
+              "text": "竟然施与我无赖，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "散，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 竟"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为使一生都开怀，"
+            }
+          ]
         },
         {
-          "chord": "A♯",
-          "text": "出 現"
+          "segments": [
+            {
+              "chord": "",
+              "text": "接我到神家里来。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "别看今我有何长，"
+            }
+          ]
         },
         {
-          "chord": "C7",
-          "text": "在 眼"
+          "segments": [
+            {
+              "chord": "",
+              "text": "若非主我早崩溃，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "前。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今 生 今 世 我 口 最"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我命、我爱、我力量，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "愛 提"
+          "segments": [
+            {
+              "chord": "",
+              "text": "全都属祂不别归，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "說，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "就 是 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "喜乐、盼望真显明，"
+            }
+          ]
         },
         {
-          "chord": "A♯",
-          "text": "主 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "救恩全备又有能，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我口颂赞心感铭，"
+            }
+          ]
         },
         {
-          "chord": "C7",
-          "text": "過，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一生因祂乐欢腾。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "F",
-          "text": "驅 走"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我心歌唱主爱高深长阔，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "黑 暗，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂必永不离开我，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "擔 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作我生命，与我同活，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "輭 弱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A♯",
-          "text": "作 我"
-        },
-        {
-          "chord": "",
-          "text": "平 安"
-        },
-        {
-          "chord": "C7",
-          "text": "永 穩"
-        },
-        {
-          "chord": "F",
-          "text": "妥。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂用油酒来敷裹，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我心伤痛与坎坷，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "怀我、肩我、扶助我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "那有一点我配得，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我这才知何为爱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "竟然施与我无赖，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为使一生都开怀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "接我到神家里来。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "别看今我有何长，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "若非主我早崩溃，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我命、我爱、我力量，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全都属祂不别归，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "喜乐、盼望真显明，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "救恩全备又有能，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我口颂赞心感铭，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一生因祂乐欢腾。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我心歌唱主爱高深长阔，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂必永不离开我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作我生命，与我同活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "伴我此生共度过。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "伴我此生共度过。"
+            }
+          ]
         }
       ]
     }

@@ -1,356 +1,380 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/410",
   "title": "主，我宝贝这生命的流",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "從 我"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "從 我"
+            },
+            {
+              "chord": "",
+              "text": "靈 裡 深 處，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "靈 裡 深 處，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "有 生"
+            },
+            {
+              "chord": "C",
+              "text": "命 水"
+            },
+            {
+              "chord": "",
+              "text": "湧 流，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "命 水"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是 三"
+            },
+            {
+              "chord": "D",
+              "text": "一 神"
+            },
+            {
+              "chord": "",
+              "text": "在"
+            },
+            {
+              "chord": "D7",
+              "text": "我 裡"
+            },
+            {
+              "chord": "",
+              "text": "面 流。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "湧 流，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是 三"
+          "segments": [
+            {
+              "chord": "",
+              "text": "父 神"
+            },
+            {
+              "chord": "G",
+              "text": "乃 是"
+            },
+            {
+              "chord": "",
+              "text": "源 頭，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "一 神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主 基"
+            },
+            {
+              "chord": "C",
+              "text": "督 乃"
+            },
+            {
+              "chord": "",
+              "text": "是 河，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "靈 是"
+            },
+            {
+              "chord": "D",
+              "text": "流， 分"
+            },
+            {
+              "chord": "",
+              "text": "賜"
+            },
+            {
+              "chord": "D7",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "給"
+            },
+            {
+              "chord": "G",
+              "text": "我。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主， 我"
+            },
+            {
+              "chord": "D",
+              "text": "寶 貝"
+            },
+            {
+              "chord": "",
+              "text": "這 生 命 的"
+            },
+            {
+              "chord": "G",
+              "text": "流，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "我 裡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 的"
+            },
+            {
+              "chord": "C",
+              "text": "魂 生"
+            },
+            {
+              "chord": "",
+              "text": "命 不 再 保"
+            },
+            {
+              "chord": "G",
+              "text": "留；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "面 流。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "父 神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦 主， 加 深 這 生 命 的"
+            },
+            {
+              "chord": "C",
+              "text": "流，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "乃 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "願 你"
+            },
+            {
+              "chord": "G",
+              "text": "來 時"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "D7",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "成"
+            },
+            {
+              "chord": "G",
+              "text": "熟。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在鲜嫩草地上，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "源 頭，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主 基"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在可安歇水边，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "督 乃"
+          "segments": [
+            {
+              "chord": "",
+              "text": "跟羊群的脚踪享受主。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "是 河，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "靈 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不用勉强挣扎，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "流， 分"
+          "segments": [
+            {
+              "chord": "",
+              "text": "徒然自讨苦吃，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "賜"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在流里我就全然蒙福！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，我宝贝这生命的流，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的魂生命不再保留；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "給"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，加深这生命的流，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "我。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿你来时我生命成熟。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "主， 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "借着血我坦然"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "寶 貝"
+          "segments": [
+            {
+              "chord": "",
+              "text": "进前到至圣所，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "這 生 命 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "活在祂面前─联于源头。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "流，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，祂说，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "魂 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "切不可离开我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "命 不 再 保"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当住我里头─一直交流。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，我宝贝这生命的流，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "留；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦 主， 加 深 這 生 命 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的魂生命不再保留；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "流，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "願 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，加深这生命的流，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "來 時"
-        },
-        {
-          "chord": "",
-          "text": "我"
-        },
-        {
-          "chord": "D7",
-          "text": "生 命"
-        },
-        {
-          "chord": "",
-          "text": "成"
-        },
-        {
-          "chord": "G",
-          "text": "熟。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在鲜嫩草地上，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在可安歇水边，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "跟羊群的脚踪享受主。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不用勉强挣扎，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "徒然自讨苦吃，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在流里我就全然蒙福！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，我宝贝这生命的流，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的魂生命不再保留；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，加深这生命的流，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿你来时我生命成熟。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借着血我坦然"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "进前到至圣所，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "活在祂面前─联于源头。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚，祂说，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "切不可离开我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当住我里头─一直交流。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，我宝贝这生命的流，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的魂生命不再保留；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，加深这生命的流，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿你来时我生命成熟。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿你来时我生命成熟。"
+            }
+          ]
         }
       ]
     }
@@ -358,7 +382,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "3/4",
-    "hymn_code": "345465556576"
+    "hymn_code": "345465556576",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1191",
+        "language": "cn",
+        "category": "h",
+        "number": "1191",
+        "title": "E1191"
+      }
+    ]
   },
   "raw_sections": [
     "從 我靈 裡 深 處，",

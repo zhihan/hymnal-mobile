@@ -1,444 +1,476 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/332",
   "title": "仅仅一摸，亲爱主",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "僅 僅"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "僅 僅"
+            },
+            {
+              "chord": "G",
+              "text": "一 摸，"
+            },
+            {
+              "chord": "",
+              "text": "親 愛"
+            },
+            {
+              "chord": "D",
+              "text": "主，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "一 摸，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "僅 僅 一 望 便 知"
+            },
+            {
+              "chord": "A",
+              "text": "足，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "親 愛"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "你 與"
+            },
+            {
+              "chord": "",
+              "text": "我 親 嘴， 我"
+            },
+            {
+              "chord": "D",
+              "text": "心 別"
+            },
+            {
+              "chord": "",
+              "text": "無 所"
+            },
+            {
+              "chord": "A",
+              "text": "歸。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "僅 僅 一 望 便 知"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "讓 我"
+            },
+            {
+              "chord": "G",
+              "text": "再 聽"
+            },
+            {
+              "chord": "",
+              "text": "你 慈"
+            },
+            {
+              "chord": "D",
+              "text": "聲，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "足，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "你 與"
+          "segments": [
+            {
+              "chord": "",
+              "text": "最 後 選 擇 不 變"
+            },
+            {
+              "chord": "A",
+              "text": "更，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 親 嘴， 我"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "向 我"
+            },
+            {
+              "chord": "",
+              "text": "愛 語 陳， 我"
+            },
+            {
+              "chord": "D",
+              "text": "就 枉"
+            },
+            {
+              "chord": "",
+              "text": "費 你"
+            },
+            {
+              "chord": "A",
+              "text": "身。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "無 人"
+            },
+            {
+              "chord": "",
+              "text": "無 物 能 滿"
+            },
+            {
+              "chord": "D",
+              "text": "足 我"
+            },
+            {
+              "chord": "",
+              "text": "情 我 意，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "心 別"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "愛 主，"
+            },
+            {
+              "chord": "",
+              "text": "惟"
+            },
+            {
+              "chord": "D",
+              "text": "你。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "無 所"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "耶 穌，"
+            },
+            {
+              "chord": "",
+              "text": "我 愛 你， 我"
+            },
+            {
+              "chord": "D",
+              "text": "心 惟"
+            },
+            {
+              "chord": "",
+              "text": "一"
+            },
+            {
+              "chord": "Bm",
+              "text": "所"
+            },
+            {
+              "chord": "D",
+              "text": "要 愛"
+            },
+            {
+              "chord": "Em",
+              "text": "你，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "歸。"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "直"
+            },
+            {
+              "chord": "Gm",
+              "text": "到"
+            },
+            {
+              "chord": "A7",
+              "text": "天"
+            },
+            {
+              "chord": "D",
+              "text": "曉。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "讓 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "让我摸你如昨曾，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "再 聽"
+          "segments": [
+            {
+              "chord": "",
+              "text": "渴慕之情日添增，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你 慈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "至宝我已得，为你，一切愿舍！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "聲，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "最 後 選 擇 不 變"
+          "segments": [
+            {
+              "chord": "",
+              "text": "与我亲嘴爱何深，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "更，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "向 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "颂赞欢呼溢我唇，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "愛 語 陳， 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，你满恩惠，何等甜美滋味！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "无人无物能满足我情我意，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "就 枉"
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱主惟你。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "費 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣，起初爱，将，我全人焚烧"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "身。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我心惟一所要！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "無 人"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你的爱眼来注目，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "無 物 能 滿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，这联结何稳固。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "足 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "每当我凝视，我被充满，消失。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "情 我 意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "愛 主，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟有你才能满足，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "惟"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我不能活无你处，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "你。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "让我你身倚，与你联结为一。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "耶 穌，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "无人无物能满足我情我意，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 愛 你， 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱主惟你。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "心 惟"
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣，我爱你我，心惟一所要"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱主，将我焚烧！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "今我悔改归向神，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "所"
+          "segments": [
+            {
+              "chord": "",
+              "text": "求让我心为你焚！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "要 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿你这热火，我里真实烧着。"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "直"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今我悔改归向神，"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "到"
+          "segments": [
+            {
+              "chord": "",
+              "text": "求让我心为你焚！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "天"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿你这热火，我里真实烧着。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣，起初爱！哦，耶稣，上好爱！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "曉。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我全归来！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "让我摸你如昨曾，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣，起初爱！哦，耶稣，上好爱！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "渴慕之情日添增，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "至宝我已得，为你，一切愿舍！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "与我亲嘴爱何深，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "颂赞欢呼溢我唇，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，你满恩惠，何等甜美滋味！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "无人无物能满足我情我意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱主惟你。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣，起初爱，将，我全人焚烧"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我心惟一所要！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你的爱眼来注目，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，这联结何稳固。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "每当我凝视，我被充满，消失。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惟有你才能满足，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我不能活无你处，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让我你身倚，与你联结为一。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "无人无物能满足我情我意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱主惟你。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣，我爱你我，心惟一所要"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱主，将我焚烧！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今我悔改归向神，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "求让我心为你焚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿你这热火，我里真实烧着。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今我悔改归向神，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "求让我心为你焚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿你这热火，我里真实烧着。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣，起初爱！哦，耶稣，上好爱！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我全归来！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣，起初爱！哦，耶稣，上好爱！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我爱！求听此籁！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我爱！求听此籁！"
+            }
+          ]
         }
       ]
     }

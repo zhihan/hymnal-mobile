@@ -1,348 +1,364 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/914",
   "title": "十个童女拿着灯",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "這 個"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "這 個"
+            },
+            {
+              "chord": "",
+              "text": "世 代 已 將 結 束，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "世 代 已 將 結 束，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "十"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "十"
+            },
+            {
+              "chord": "D",
+              "text": "個 童"
+            },
+            {
+              "chord": "",
+              "text": "女"
+            },
+            {
+              "chord": "A7",
+              "text": "手 拿"
+            },
+            {
+              "chord": "",
+              "text": "著"
+            },
+            {
+              "chord": "D",
+              "text": "燈，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "個 童"
+          "segments": [
+            {
+              "chord": "",
+              "text": "出 去 迎 接 可 愛 新 郎，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "女"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "五"
+            },
+            {
+              "chord": "D",
+              "text": "個 愚"
+            },
+            {
+              "chord": "",
+              "text": "拙，"
+            },
+            {
+              "chord": "A7",
+              "text": "五 個"
+            },
+            {
+              "chord": "",
+              "text": "聰"
+            },
+            {
+              "chord": "D",
+              "text": "明。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "手 拿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "那 聰 明 的 油 是 充"
+            },
+            {
+              "chord": "G",
+              "text": "滿，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "那"
+            },
+            {
+              "chord": "D",
+              "text": "愚 拙"
+            },
+            {
+              "chord": "",
+              "text": "的 油 卻 將"
+            },
+            {
+              "chord": "A7",
+              "text": "盡；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "燈，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "出 去 迎 接 可 愛 新 郎，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "五"
+          "segments": [
+            {
+              "chord": "",
+              "text": "及"
+            },
+            {
+              "chord": "D",
+              "text": "時 買"
+            },
+            {
+              "chord": "",
+              "text": "油 纔 是 聰 明，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "個 愚"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "勿"
+            },
+            {
+              "chord": "D",
+              "text": "成 愚"
+            },
+            {
+              "chord": "",
+              "text": "拙，"
+            },
+            {
+              "chord": "A7",
+              "text": "到 時"
+            },
+            {
+              "chord": "",
+              "text": "飲"
+            },
+            {
+              "chord": "D",
+              "text": "恨。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主耶稣，你话够清楚，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "拙，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你为聪明童女而来。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "五 個"
+          "segments": [
+            {
+              "chord": "",
+              "text": "他们趁着今天买油，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "聰"
+          "segments": [
+            {
+              "chord": "",
+              "text": "对付所有捆绑阻碍；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "明。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "那 聰 明 的 油 是 充"
+          "segments": [
+            {
+              "chord": "",
+              "text": "他们的全魂已被变化，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "滿，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "那"
+          "segments": [
+            {
+              "chord": "",
+              "text": "灵充满了他们全人，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "愚 拙"
+          "segments": [
+            {
+              "chord": "",
+              "text": "他们在此儆醒等候，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 油 卻 將"
+          "segments": [
+            {
+              "chord": "",
+              "text": "就必得享你的婚筵。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "灯是我灵须修明亮，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "盡；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "及"
+          "segments": [
+            {
+              "chord": "",
+              "text": "借着每日呼喊你名。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "時 買"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天天操练活在灵中，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "油 纔 是 聰 明，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "勿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "烧去所有老旧光景。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "成 愚"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，求你扎根生长，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "拙，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "扩展到我的魂里去；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "到 時"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到你安家在我心，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "飲"
+          "segments": [
+            {
+              "chord": "",
+              "text": "油自器皿充满洋溢。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "看！这世代何等黑暗，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "恨。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "有福日子已经接近。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "主耶稣，你话够清楚，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们新郎随时会来，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "你为聪明童女而来。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "须快豫备为那时辰。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "他们趁着今天买油，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "何等蒙福，得享婚筵，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "对付所有捆绑阻碍；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "看见新妇与主合一！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "他们的全魂已被变化，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，使我们活你面前，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "灵充满了他们全人，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "他们在此儆醒等候，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "就必得享你的婚筵。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "灯是我灵须修明亮，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借着每日呼喊你名。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天天操练活在灵中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "烧去所有老旧光景。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，求你扎根生长，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "扩展到我的魂里去；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到你安家在我心，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "油自器皿充满洋溢。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "看！这世代何等黑暗，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有福日子已经接近。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们新郎随时会来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "须快豫备为那时辰。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何等蒙福，得享婚筵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "看见新妇与主合一！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，使我们活你面前，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如同那些聪明童女！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如同那些聪明童女！"
+            }
+          ]
         }
       ]
     }
@@ -350,7 +366,16 @@
   "metadata": {
     "category": "盼望与豫备",
     "time": "6/8",
-    "hymn_code": "1151313543532121"
+    "hymn_code": "1151313543532121",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1303",
+        "language": "cn",
+        "category": "h",
+        "number": "1303",
+        "title": "E1303"
+      }
+    ]
   },
   "raw_sections": [
     "這 個世 代 已 將 結 束，",

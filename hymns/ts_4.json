@@ -1,124 +1,128 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/4",
   "title": "你的恩典一生之久",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "你"
+            },
+            {
+              "chord": "D7",
+              "text": "的 怒"
+            },
+            {
+              "chord": "G",
+              "text": "氣，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "的 怒"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不 過 是"
+            },
+            {
+              "chord": "C",
+              "text": "轉 眼"
+            },
+            {
+              "chord": "",
+              "text": "之"
+            },
+            {
+              "chord": "G",
+              "text": "間；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "氣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不 過 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "D",
+              "text": "的 恩"
+            },
+            {
+              "chord": "Em",
+              "text": "典，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "轉 眼"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "乃 是"
+            },
+            {
+              "chord": "",
+              "text": "一"
+            },
+            {
+              "chord": "A7",
+              "text": "生 之"
+            },
+            {
+              "chord": "D",
+              "text": "久。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "之"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "一 宿"
+            },
+            {
+              "chord": "",
+              "text": "雖"
+            },
+            {
+              "chord": "Em",
+              "text": "然"
+            },
+            {
+              "chord": "C",
+              "text": "有 哭"
+            },
+            {
+              "chord": "G",
+              "text": "泣，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "間；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你"
-        },
-        {
-          "chord": "D",
-          "text": "的 恩"
-        },
-        {
-          "chord": "Em",
-          "text": "典，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "乃 是"
-        },
-        {
-          "chord": "",
-          "text": "一"
-        },
-        {
-          "chord": "A7",
-          "text": "生 之"
-        },
-        {
-          "chord": "D",
-          "text": "久。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "一 宿"
-        },
-        {
-          "chord": "",
-          "text": "雖"
-        },
-        {
-          "chord": "Em",
-          "text": "然"
-        },
-        {
-          "chord": "C",
-          "text": "有 哭"
-        },
-        {
-          "chord": "G",
-          "text": "泣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "早 晨"
-        },
-        {
-          "chord": "",
-          "text": "便"
-        },
-        {
-          "chord": "G",
-          "text": "必"
-        },
-        {
-          "chord": "D7",
-          "text": "歡"
-        },
-        {
-          "chord": "G",
-          "text": "呼。"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "早 晨"
+            },
+            {
+              "chord": "",
+              "text": "便"
+            },
+            {
+              "chord": "G",
+              "text": "必"
+            },
+            {
+              "chord": "D7",
+              "text": "歡"
+            },
+            {
+              "chord": "G",
+              "text": "呼。"
+            }
+          ]
         }
       ]
     }

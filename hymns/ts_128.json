@@ -1,356 +1,376 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/128",
   "title": "国度就是基督作生命",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "國 度"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "國 度"
+            },
+            {
+              "chord": "",
+              "text": "就 是 基 督 作"
+            },
+            {
+              "chord": "Dm",
+              "text": "生 命，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "就 是 基 督 作"
+          "segments": [
+            {
+              "chord": "",
+              "text": "滿"
+            },
+            {
+              "chord": "G",
+              "text": "帶 著"
+            },
+            {
+              "chord": "",
+              "text": "豐 富"
+            },
+            {
+              "chord": "G7",
+              "text": "在 我"
+            },
+            {
+              "chord": "C",
+              "text": "裡，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "生 命，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "復 活 裡 成 長 運 行"
+            },
+            {
+              "chord": "Dm",
+              "text": "不 息，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "基"
+            },
+            {
+              "chord": "G",
+              "text": "督 能"
+            },
+            {
+              "chord": "",
+              "text": "成 為"
+            },
+            {
+              "chord": "G7",
+              "text": "我 新"
+            },
+            {
+              "chord": "C",
+              "text": "人。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "滿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦， 願 你 無 限"
+            },
+            {
+              "chord": "Dm",
+              "text": "豐 富，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "帶 著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "成 我 的"
+            },
+            {
+              "chord": "G7",
+              "text": "供 應"
+            },
+            {
+              "chord": "C",
+              "text": "能 力，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "豐 富"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使 我 得 天 天"
+            },
+            {
+              "chord": "G",
+              "text": "享 受"
+            },
+            {
+              "chord": "",
+              "text": "你 的，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "在 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享 受 你 的，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "裡，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享 受 你 的"
+            },
+            {
+              "chord": "G7",
+              "text": "一 切"
+            },
+            {
+              "chord": "",
+              "text": "的 豐"
+            },
+            {
+              "chord": "C",
+              "text": "富。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "復 活 裡 成 長 運 行"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦， 願 你 榮 耀"
+            },
+            {
+              "chord": "Dm",
+              "text": "權 能，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "不 息，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在 我 裡"
+            },
+            {
+              "chord": "G7",
+              "text": "運 行"
+            },
+            {
+              "chord": "C",
+              "text": "不 息，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "好 叫 我 天 天"
+            },
+            {
+              "chord": "G",
+              "text": "變 化"
+            },
+            {
+              "chord": "",
+              "text": "成 長，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "變 化 成 長， 變 化 成 長，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G7",
+              "text": "長 成"
+            },
+            {
+              "chord": "",
+              "text": "你 形"
+            },
+            {
+              "chord": "C",
+              "text": "像。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "基"
+          "segments": [
+            {
+              "chord": "",
+              "text": "願 我"
+            },
+            {
+              "chord": "Dm",
+              "text": "有 國"
+            },
+            {
+              "chord": "",
+              "text": "度 的 實"
+            },
+            {
+              "chord": "G7",
+              "text": "際，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "督 能"
+          "segments": [
+            {
+              "chord": "",
+              "text": "有 召"
+            },
+            {
+              "chord": "C",
+              "text": "會 生"
+            },
+            {
+              "chord": "",
+              "text": "活 的 經"
+            },
+            {
+              "chord": "Am",
+              "text": "歷，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "成 為"
-        },
-        {
-          "chord": "G7",
-          "text": "我 新"
-        },
-        {
-          "chord": "C",
-          "text": "人。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "與 眾"
+            },
+            {
+              "chord": "Dm",
+              "text": "聖 徒"
+            },
+            {
+              "chord": "",
+              "text": "同 被 建"
+            },
+            {
+              "chord": "G7",
+              "text": "造 在"
+            },
+            {
+              "chord": "",
+              "text": "一"
+            },
+            {
+              "chord": "C",
+              "text": "起。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "哦， 願 你 無 限"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦， 願 你 國 度"
+            },
+            {
+              "chord": "Dm",
+              "text": "權 柄"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "豐 富，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "成 我 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使 我 住"
+            },
+            {
+              "chord": "G7",
+              "text": "屬 天"
+            },
+            {
+              "chord": "C",
+              "text": "境 地，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "供 應"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 能 彀 天 天"
+            },
+            {
+              "chord": "G",
+              "text": "自 由"
+            },
+            {
+              "chord": "",
+              "text": "運 行，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "能 力，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使 我 得 天 天"
+          "segments": [
+            {
+              "chord": "",
+              "text": "自 由 運 行， 自 由 運 行，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "享 受"
-        },
-        {
-          "chord": "",
-          "text": "你 的，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享 受 你 的，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享 受 你 的"
-        },
-        {
-          "chord": "G7",
-          "text": "一 切"
-        },
-        {
-          "chord": "",
-          "text": "的 豐"
-        },
-        {
-          "chord": "C",
-          "text": "富。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦， 願 你 榮 耀"
-        },
-        {
-          "chord": "Dm",
-          "text": "權 能，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在 我 裡"
-        },
-        {
-          "chord": "G7",
-          "text": "運 行"
-        },
-        {
-          "chord": "C",
-          "text": "不 息，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "好 叫 我 天 天"
-        },
-        {
-          "chord": "G",
-          "text": "變 化"
-        },
-        {
-          "chord": "",
-          "text": "成 長，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "變 化 成 長， 變 化 成 長，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G7",
-          "text": "長 成"
-        },
-        {
-          "chord": "",
-          "text": "你 形"
-        },
-        {
-          "chord": "C",
-          "text": "像。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "願 我"
-        },
-        {
-          "chord": "Dm",
-          "text": "有 國"
-        },
-        {
-          "chord": "",
-          "text": "度 的 實"
-        },
-        {
-          "chord": "G7",
-          "text": "際，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有 召"
-        },
-        {
-          "chord": "C",
-          "text": "會 生"
-        },
-        {
-          "chord": "",
-          "text": "活 的 經"
-        },
-        {
-          "chord": "Am",
-          "text": "歷，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "與 眾"
-        },
-        {
-          "chord": "Dm",
-          "text": "聖 徒"
-        },
-        {
-          "chord": "",
-          "text": "同 被 建"
-        },
-        {
-          "chord": "G7",
-          "text": "造 在"
-        },
-        {
-          "chord": "",
-          "text": "一"
-        },
-        {
-          "chord": "C",
-          "text": "起。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦， 願 你 國 度"
-        },
-        {
-          "chord": "Dm",
-          "text": "權 柄"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使 我 住"
-        },
-        {
-          "chord": "G7",
-          "text": "屬 天"
-        },
-        {
-          "chord": "C",
-          "text": "境 地，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 能 彀 天 天"
-        },
-        {
-          "chord": "G",
-          "text": "自 由"
-        },
-        {
-          "chord": "",
-          "text": "運 行，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自 由 運 行， 自 由 運 行，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G7",
-          "text": "我 住"
-        },
-        {
-          "chord": "",
-          "text": "榮 耀"
-        },
-        {
-          "chord": "C",
-          "text": "裡。"
+          "segments": [
+            {
+              "chord": "G7",
+              "text": "我 住"
+            },
+            {
+              "chord": "",
+              "text": "榮 耀"
+            },
+            {
+              "chord": "C",
+              "text": "裡。"
+            }
+          ]
         }
       ]
     }

@@ -1,156 +1,160 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/524",
   "title": "我们一生一定永定",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Am",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "一 生 一"
+            },
+            {
+              "chord": "E",
+              "text": "定 永"
+            },
+            {
+              "chord": "",
+              "text": "定，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "一 生 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿 利"
+            },
+            {
+              "chord": "Am",
+              "text": "路 亞！"
+            },
+            {
+              "chord": "E",
+              "text": "阿 利"
+            },
+            {
+              "chord": "Am",
+              "text": "路 亞！"
+            }
+          ]
         },
         {
-          "chord": "E",
-          "text": "定 永"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基 督 召 會 是"
+            },
+            {
+              "chord": "E",
+              "text": "我 永"
+            },
+            {
+              "chord": "",
+              "text": "分。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "定，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿 利"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿 利"
+            },
+            {
+              "chord": "Am",
+              "text": "路 亞！"
+            },
+            {
+              "chord": "E",
+              "text": "阿 利"
+            },
+            {
+              "chord": "Am",
+              "text": "路 亞！"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "路 亞！"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "不"
+            },
+            {
+              "chord": "C",
+              "text": "在 世"
+            },
+            {
+              "chord": "",
+              "text": "界 流"
+            },
+            {
+              "chord": "G",
+              "text": "蕩 飄"
+            },
+            {
+              "chord": "",
+              "text": "泊，"
+            }
+          ]
         },
         {
-          "chord": "E",
-          "text": "阿 利"
+          "segments": [
+            {
+              "chord": "",
+              "text": "安"
+            },
+            {
+              "chord": "Am",
+              "text": "家 在"
+            },
+            {
+              "chord": "",
+              "text": "召 會，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "路 亞！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基 督 召 會 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享 受"
+            },
+            {
+              "chord": "E",
+              "text": "祂 豐"
+            },
+            {
+              "chord": "",
+              "text": "富。"
+            }
+          ]
         },
         {
-          "chord": "E",
-          "text": "我 永"
-        },
-        {
-          "chord": "",
-          "text": "分。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿 利"
-        },
-        {
-          "chord": "Am",
-          "text": "路 亞！"
-        },
-        {
-          "chord": "E",
-          "text": "阿 利"
-        },
-        {
-          "chord": "Am",
-          "text": "路 亞！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "不"
-        },
-        {
-          "chord": "C",
-          "text": "在 世"
-        },
-        {
-          "chord": "",
-          "text": "界 流"
-        },
-        {
-          "chord": "G",
-          "text": "蕩 飄"
-        },
-        {
-          "chord": "",
-          "text": "泊，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "安"
-        },
-        {
-          "chord": "Am",
-          "text": "家 在"
-        },
-        {
-          "chord": "",
-          "text": "召 會，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享 受"
-        },
-        {
-          "chord": "E",
-          "text": "祂 豐"
-        },
-        {
-          "chord": "",
-          "text": "富。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿 利"
-        },
-        {
-          "chord": "Am",
-          "text": "路 亞！"
-        },
-        {
-          "chord": "E",
-          "text": "阿 利"
-        },
-        {
-          "chord": "Am",
-          "text": "路 亞！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿 利"
+            },
+            {
+              "chord": "Am",
+              "text": "路 亞！"
+            },
+            {
+              "chord": "E",
+              "text": "阿 利"
+            },
+            {
+              "chord": "Am",
+              "text": "路 亞！"
+            }
+          ]
         }
       ]
     }

@@ -1,352 +1,384 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/446",
   "title": "进入我心",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "用 你"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "用 你"
+            },
+            {
+              "chord": "",
+              "text": "大 能 將 我 加"
+            },
+            {
+              "chord": "A",
+              "text": "強，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "大 能 將 我 加"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主， 使"
+            },
+            {
+              "chord": "A7",
+              "text": "我 進"
+            },
+            {
+              "chord": "",
+              "text": "入 全 人"
+            },
+            {
+              "chord": "D",
+              "text": "深 處，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "強，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主， 使"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使 我 靈"
+            },
+            {
+              "chord": "D7",
+              "text": "剛 強、"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "G",
+              "text": "心 順"
+            },
+            {
+              "chord": "",
+              "text": "服，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "我 進"
+          "segments": [
+            {
+              "chord": "E",
+              "text": "讓 你"
+            },
+            {
+              "chord": "",
+              "text": "能"
+            },
+            {
+              "chord": "E7",
+              "text": "安 家"
+            },
+            {
+              "chord": "A7",
+              "text": "無"
+            },
+            {
+              "chord": "D",
+              "text": "阻。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "進 入 我 心！ 進 入 我 心！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "入 全 人"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "來 安"
+            },
+            {
+              "chord": "",
+              "text": "家 我 心，"
+            },
+            {
+              "chord": "A7",
+              "text": "主"
+            },
+            {
+              "chord": "D",
+              "text": "耶 穌！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "深 處，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使 我 靈"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "滿 帶"
+            },
+            {
+              "chord": "D",
+              "text": "豐 富，"
+            },
+            {
+              "chord": "A",
+              "text": "恩 主，"
+            },
+            {
+              "chord": "D",
+              "text": "請 進！"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "剛 強、"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "來 安"
+            },
+            {
+              "chord": "",
+              "text": "家"
+            },
+            {
+              "chord": "Em",
+              "text": "我 心，"
+            },
+            {
+              "chord": "A7",
+              "text": "主"
+            },
+            {
+              "chord": "D",
+              "text": "耶"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在我心房开展，主耶稣，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你的安家是我所慕；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "心 順"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从我灵中向外开展，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "服，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，占有我全心各部。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "E",
-          "text": "讓 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "进入我心！进入我心！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "能"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来安家我心，主耶稣！"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "安 家"
+          "segments": [
+            {
+              "chord": "",
+              "text": "满带丰富，恩主，请进！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "無"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来安家我心，主耶稣！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "来安家我心中，主耶稣，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "阻。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "進 入 我 心！ 進 入 我 心！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "來 安"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我全心成你住处；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "家 我 心，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿你充满，显明你丰足，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来安家我心，恩主。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "进入我心！进入我心！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "耶 穌！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "滿 帶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来安家我心，主耶稣！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "豐 富，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "满带丰富，恩主，请进！"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "恩 主，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来安家我心，主耶稣！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你必运行，充盈成就，主，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "請 進！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "來 安"
+          "segments": [
+            {
+              "chord": "",
+              "text": "超我所想、所能求诉；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "家"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我今敞开，切求主进入，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "我 心，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "现在就进来居住。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "进入我心！进入我心！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来安家我心，主耶稣！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "耶"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "满带丰富，恩主，请进！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在我心房开展，主耶稣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你的安家是我所慕；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从我灵中向外开展，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，占有我全心各部。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "进入我心！进入我心！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来安家我心，主耶稣！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "满带丰富，恩主，请进！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来安家我心，主耶稣！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来安家我心中，主耶稣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我全心成你住处；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿你充满，显明你丰足，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来安家我心，恩主。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "进入我心！进入我心！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来安家我心，主耶稣！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "满带丰富，恩主，请进！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来安家我心，主耶稣！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你必运行，充盈成就，主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "超我所想、所能求诉；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我今敞开，切求主进入，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "现在就进来居住。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "进入我心！进入我心！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来安家我心，主耶稣！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "满带丰富，恩主，请进！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来安家我心，主耶稣！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来安家我心，主耶稣！"
+            }
+          ]
         }
       ]
     }
@@ -354,7 +386,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "6/4",
-    "hymn_code": "13333211724444323"
+    "hymn_code": "13333211724444323",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1134",
+        "language": "cn",
+        "category": "h",
+        "number": "1134",
+        "title": "E1134"
+      }
+    ]
   },
   "raw_sections": [
     "用 你大 能 將 我 加強，",

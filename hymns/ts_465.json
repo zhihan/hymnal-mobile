@@ -1,480 +1,520 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/465",
   "title": "达到锡安",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "神 心"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "神 心"
+            },
+            {
+              "chord": "",
+              "text": "所"
+            },
+            {
+              "chord": "F♯m",
+              "text": "傾，"
+            },
+            {
+              "chord": "G",
+              "text": "撒"
+            },
+            {
+              "chord": "A",
+              "text": "冷 美"
+            },
+            {
+              "chord": "D",
+              "text": "麗；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "所"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "錫 安"
+            },
+            {
+              "chord": "",
+              "text": "高"
+            },
+            {
+              "chord": "F♯m",
+              "text": "峯，"
+            },
+            {
+              "chord": "G",
+              "text": "滿"
+            },
+            {
+              "chord": "A",
+              "text": "祂 情"
+            },
+            {
+              "chord": "D",
+              "text": "衷。"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "傾，"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "神 人"
+            },
+            {
+              "chord": "",
+              "text": "合"
+            },
+            {
+              "chord": "F♯m",
+              "text": "併，"
+            },
+            {
+              "chord": "D",
+              "text": "互 為"
+            },
+            {
+              "chord": "",
+              "text": "安"
+            },
+            {
+              "chord": "G",
+              "text": "息，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "撒"
-        },
-        {
-          "chord": "A",
-          "text": "冷 美"
-        },
-        {
-          "chord": "D",
-          "text": "麗；"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "至 深"
+            },
+            {
+              "chord": "",
+              "text": "美 意， 願 否"
+            },
+            {
+              "chord": "A",
+              "text": "響 應？"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Bm",
-          "text": "錫 安"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "親 愛"
+            },
+            {
+              "chord": "",
+              "text": "良"
+            },
+            {
+              "chord": "A",
+              "text": "人，"
+            },
+            {
+              "chord": "G",
+              "text": "我 願"
+            },
+            {
+              "chord": "",
+              "text": "隨"
+            },
+            {
+              "chord": "D",
+              "text": "你 同"
+            },
+            {
+              "chord": "",
+              "text": "行；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "高"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "榮 耀"
+            },
+            {
+              "chord": "",
+              "text": "君"
+            },
+            {
+              "chord": "D",
+              "text": "王， 今"
+            },
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "Em",
+              "text": "據 我"
+            },
+            {
+              "chord": "",
+              "text": "全"
+            },
+            {
+              "chord": "A",
+              "text": "心。"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "峯，"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "作 得"
+            },
+            {
+              "chord": "",
+              "text": "勝"
+            },
+            {
+              "chord": "A",
+              "text": "者， 被"
+            },
+            {
+              "chord": "",
+              "text": "提"
+            },
+            {
+              "chord": "Bm",
+              "text": "滿"
+            },
+            {
+              "chord": "A",
+              "text": "足 你"
+            },
+            {
+              "chord": "G",
+              "text": "意，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "滿"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "錫 安"
+            },
+            {
+              "chord": "",
+              "text": "山"
+            },
+            {
+              "chord": "G",
+              "text": "上 同"
+            },
+            {
+              "chord": "A",
+              "text": "你 站"
+            },
+            {
+              "chord": "D",
+              "text": "立。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "平凡如我，竟入圣城；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "祂 情"
+          "segments": [
+            {
+              "chord": "",
+              "text": "心羡锡安：得胜赤诚。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "衷。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Bm",
-          "text": "神 人"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀异象，引我脚踪，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "合"
+          "segments": [
+            {
+              "chord": "",
+              "text": "撇下缠累，踏上旅程。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "亲爱良人，我愿随你同行；"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "併，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀君王，今你据我全心。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "互 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作得胜者，被提满足你意，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "安"
+          "segments": [
+            {
+              "chord": "",
+              "text": "锡安山上同你站立。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主恩眷临，祂爱激励；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "息，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "至 深"
+          "segments": [
+            {
+              "chord": "",
+              "text": "凭信筑坛，\"以撒\"为祭。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "美 意， 願 否"
+          "segments": [
+            {
+              "chord": "",
+              "text": "世途成烬，馨香盈溢，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "響 應？"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神圣经纶，此生意义。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "親 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "亲爱良人，我愿随你同行；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "良"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀君王，今你据我全心。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "人，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作得胜者，被提满足你意，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "我 願"
+          "segments": [
+            {
+              "chord": "",
+              "text": "锡安山上同你站立。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "云彩围绕，同奔向前；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "隨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "灵中争战，配搭无间。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "你 同"
+          "segments": [
+            {
+              "chord": "",
+              "text": "己意弃绝，身体得建，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "行；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "高峯在望，实际出现。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "榮 耀"
+          "segments": [
+            {
+              "chord": "",
+              "text": "亲爱良人，我愿随你同行；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "君"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀君王，今你据我全心。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "王， 今"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作得胜者，被提满足你意，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "锡安山上同你站立。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱里同工，劳苦不息；"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "據 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "流中跟随，同魂同心。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "全"
+          "segments": [
+            {
+              "chord": "",
+              "text": "国度福音，遍传全地，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "心。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "建造锡安，迎你再临。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "作 得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "亲爱良人，我愿随你同行；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "勝"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀君王，今你据我全心。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "者， 被"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作得胜者，被提满足你意，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "提"
-        },
-        {
-          "chord": "Bm",
-          "text": "滿"
-        },
-        {
-          "chord": "A",
-          "text": "足 你"
-        },
-        {
-          "chord": "G",
-          "text": "意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "錫 安"
-        },
-        {
-          "chord": "",
-          "text": "山"
-        },
-        {
-          "chord": "G",
-          "text": "上 同"
-        },
-        {
-          "chord": "A",
-          "text": "你 站"
-        },
-        {
-          "chord": "D",
-          "text": "立。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "平凡如我，竟入圣城；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "心羡锡安：得胜赤诚。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀异象，引我脚踪，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "撇下缠累，踏上旅程。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "亲爱良人，我愿随你同行；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀君王，今你据我全心。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作得胜者，被提满足你意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "锡安山上同你站立。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主恩眷临，祂爱激励；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "凭信筑坛，\"以撒\"为祭。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "世途成烬，馨香盈溢，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神圣经纶，此生意义。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "亲爱良人，我愿随你同行；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀君王，今你据我全心。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作得胜者，被提满足你意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "锡安山上同你站立。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "云彩围绕，同奔向前；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "灵中争战，配搭无间。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "己意弃绝，身体得建，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "高峯在望，实际出现。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "亲爱良人，我愿随你同行；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀君王，今你据我全心。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作得胜者，被提满足你意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "锡安山上同你站立。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱里同工，劳苦不息；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "流中跟随，同魂同心。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "国度福音，遍传全地，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "建造锡安，迎你再临。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "亲爱良人，我愿随你同行；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀君王，今你据我全心。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作得胜者，被提满足你意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "锡安山上同你站立。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "锡安山上同你站立。"
+            }
+          ]
         }
       ]
     }
@@ -482,7 +522,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "4/4",
-    "hymn_code": "1237671512354323"
+    "hymn_code": "1237671512354323",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6465",
+        "language": "cn",
+        "category": "h",
+        "number": "6465",
+        "title": "E6465"
+      }
+    ]
   },
   "raw_sections": [
     "神 心所傾，撒冷 美麗；",

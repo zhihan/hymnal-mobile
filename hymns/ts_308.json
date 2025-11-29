@@ -1,460 +1,476 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/308",
   "title": "专一爱你",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "主， 每"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "主， 每"
+            },
+            {
+              "chord": "",
+              "text": "代 你 有"
+            },
+            {
+              "chord": "G",
+              "text": "一"
+            },
+            {
+              "chord": "D",
+              "text": "人："
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "代 你 有"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "如 朋"
+            },
+            {
+              "chord": "",
+              "text": "友， 亞 伯"
+            },
+            {
+              "chord": "D",
+              "text": "拉"
+            },
+            {
+              "chord": "A",
+              "text": "罕；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼 喊"
+            },
+            {
+              "chord": "F♯m",
+              "text": "者，"
+            },
+            {
+              "chord": "Bm",
+              "text": "如 撒"
+            },
+            {
+              "chord": "",
+              "text": "母"
+            },
+            {
+              "chord": "F♯m",
+              "text": "耳；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "人："
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "又"
+            },
+            {
+              "chord": "F♯m7",
+              "text": "如 大"
+            },
+            {
+              "chord": "Bm7",
+              "text": "衛， 滿"
+            },
+            {
+              "chord": "F♯m7",
+              "text": "了 頌"
+            },
+            {
+              "chord": "Bm7",
+              "text": "讚，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "但"
+            },
+            {
+              "chord": "Em",
+              "text": "你 要"
+            },
+            {
+              "chord": "Em7",
+              "text": "得 一"
+            },
+            {
+              "chord": "Asus4",
+              "text": "班。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Em",
-          "text": "如 朋"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "A7",
+              "text": "們 要"
+            },
+            {
+              "chord": "",
+              "text": "頌"
+            },
+            {
+              "chord": "D",
+              "text": "讚，"
+            },
+            {
+              "chord": "Em7",
+              "text": "我 們"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "友， 亞 伯"
+          "segments": [
+            {
+              "chord": "",
+              "text": "要 呼"
+            },
+            {
+              "chord": "F♯m7",
+              "text": "喊， 一"
+            },
+            {
+              "chord": "",
+              "text": "心 轉 向"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "拉"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "你， 讓"
+            },
+            {
+              "chord": "",
+              "text": "你 來 掌"
+            },
+            {
+              "chord": "G",
+              "text": "管， 專"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "罕；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一 的"
+            },
+            {
+              "chord": "A",
+              "text": "愛"
+            },
+            {
+              "chord": "D",
+              "text": "你， 一"
+            },
+            {
+              "chord": "",
+              "text": "直 愛"
+            },
+            {
+              "chord": "Am",
+              "text": "到"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "底，"
+            },
+            {
+              "chord": "G",
+              "text": "願 此"
+            },
+            {
+              "chord": "",
+              "text": "情"
+            },
+            {
+              "chord": "D",
+              "text": "不 移。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "主， 你"
+            },
+            {
+              "chord": "Em7",
+              "text": "的 豐"
+            },
+            {
+              "chord": "Asus4",
+              "text": "盛"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "呼 喊"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "憐 憫，"
+            },
+            {
+              "chord": "",
+              "text": "向 我 們"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "者，"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "毫"
+            },
+            {
+              "chord": "D",
+              "text": "不"
+            },
+            {
+              "chord": "Em",
+              "text": "吝 惜！"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "如 撒"
+          "segments": [
+            {
+              "chord": "",
+              "text": "們 是"
+            },
+            {
+              "chord": "D",
+              "text": "團"
+            },
+            {
+              "chord": "A",
+              "text": "體 新"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "母"
+          "segments": [
+            {
+              "chord": "",
+              "text": "人，"
+            },
+            {
+              "chord": "F♯m",
+              "text": "為"
+            },
+            {
+              "chord": "Bm",
+              "text": "著 你"
+            },
+            {
+              "chord": "",
+              "text": "的"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "耳；"
+          "segments": [
+            {
+              "chord": "F♯m",
+              "text": "永"
+            },
+            {
+              "chord": "Bm",
+              "text": "遠"
+            },
+            {
+              "chord": "F♯m7",
+              "text": "旨 意，"
+            },
+            {
+              "chord": "Bm7",
+              "text": "只"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "望"
+            },
+            {
+              "chord": "F♯m7",
+              "text": "能 愛"
+            },
+            {
+              "chord": "Bm7",
+              "text": "到 底，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "堅 定"
+            },
+            {
+              "chord": "Em7",
+              "text": "不 移……"
+            },
+            {
+              "chord": "Asus4",
+              "text": "我"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "們 要"
+            },
+            {
+              "chord": "",
+              "text": "頌"
+            },
+            {
+              "chord": "D",
+              "text": "讚，"
+            },
+            {
+              "chord": "Em7",
+              "text": "我"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Bm",
-          "text": "又"
+          "segments": [
+            {
+              "chord": "",
+              "text": "們 要 呼"
+            },
+            {
+              "chord": "F♯m7",
+              "text": "喊， 一"
+            },
+            {
+              "chord": "",
+              "text": "心 轉"
+            }
+          ]
         },
         {
-          "chord": "F♯m7",
-          "text": "如 大"
+          "segments": [
+            {
+              "chord": "",
+              "text": "向"
+            },
+            {
+              "chord": "Bm",
+              "text": "你， 讓"
+            },
+            {
+              "chord": "",
+              "text": "你 來 掌"
+            },
+            {
+              "chord": "G",
+              "text": "管，"
+            }
+          ]
         },
         {
-          "chord": "Bm7",
-          "text": "衛， 滿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "專 一 的"
+            },
+            {
+              "chord": "A",
+              "text": "愛"
+            },
+            {
+              "chord": "D",
+              "text": "你， 一"
+            },
+            {
+              "chord": "",
+              "text": "直"
+            }
+          ]
         },
         {
-          "chord": "F♯m7",
-          "text": "了 頌"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愛"
+            },
+            {
+              "chord": "Am",
+              "text": "到 底，"
+            },
+            {
+              "chord": "G",
+              "text": "願 此"
+            },
+            {
+              "chord": "",
+              "text": "情"
+            },
+            {
+              "chord": "D",
+              "text": "不 移。"
+            }
+          ]
         },
         {
-          "chord": "Bm7",
-          "text": "讚，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但"
-        },
-        {
-          "chord": "Em",
-          "text": "你 要"
-        },
-        {
-          "chord": "Em7",
-          "text": "得 一"
-        },
-        {
-          "chord": "Asus4",
-          "text": "班。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
-        },
-        {
-          "chord": "A7",
-          "text": "們 要"
-        },
-        {
-          "chord": "",
-          "text": "頌"
-        },
-        {
-          "chord": "D",
-          "text": "讚，"
-        },
-        {
-          "chord": "Em7",
-          "text": "我 們"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要 呼"
-        },
-        {
-          "chord": "F♯m7",
-          "text": "喊， 一"
-        },
-        {
-          "chord": "",
-          "text": "心 轉 向"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Bm",
-          "text": "你， 讓"
-        },
-        {
-          "chord": "",
-          "text": "你 來 掌"
-        },
-        {
-          "chord": "G",
-          "text": "管， 專"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一 的"
-        },
-        {
-          "chord": "A",
-          "text": "愛"
-        },
-        {
-          "chord": "D",
-          "text": "你， 一"
-        },
-        {
-          "chord": "",
-          "text": "直 愛"
-        },
-        {
-          "chord": "Am",
-          "text": "到"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "底，"
-        },
-        {
-          "chord": "G",
-          "text": "願 此"
-        },
-        {
-          "chord": "",
-          "text": "情"
-        },
-        {
-          "chord": "D",
-          "text": "不 移。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "主， 你"
-        },
-        {
-          "chord": "Em7",
-          "text": "的 豐"
-        },
-        {
-          "chord": "Asus4",
-          "text": "盛"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "憐 憫，"
-        },
-        {
-          "chord": "",
-          "text": "向 我 們"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "毫"
-        },
-        {
-          "chord": "D",
-          "text": "不"
-        },
-        {
-          "chord": "Em",
-          "text": "吝 惜！"
-        },
-        {
-          "chord": "",
-          "text": "我"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "們 是"
-        },
-        {
-          "chord": "D",
-          "text": "團"
-        },
-        {
-          "chord": "A",
-          "text": "體 新"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "人，"
-        },
-        {
-          "chord": "F♯m",
-          "text": "為"
-        },
-        {
-          "chord": "Bm",
-          "text": "著 你"
-        },
-        {
-          "chord": "",
-          "text": "的"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "F♯m",
-          "text": "永"
-        },
-        {
-          "chord": "Bm",
-          "text": "遠"
-        },
-        {
-          "chord": "F♯m7",
-          "text": "旨 意，"
-        },
-        {
-          "chord": "Bm7",
-          "text": "只"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "望"
-        },
-        {
-          "chord": "F♯m7",
-          "text": "能 愛"
-        },
-        {
-          "chord": "Bm7",
-          "text": "到 底，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "堅 定"
-        },
-        {
-          "chord": "Em7",
-          "text": "不 移……"
-        },
-        {
-          "chord": "Asus4",
-          "text": "我"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "們 要"
-        },
-        {
-          "chord": "",
-          "text": "頌"
-        },
-        {
-          "chord": "D",
-          "text": "讚，"
-        },
-        {
-          "chord": "Em7",
-          "text": "我"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "們 要 呼"
-        },
-        {
-          "chord": "F♯m7",
-          "text": "喊， 一"
-        },
-        {
-          "chord": "",
-          "text": "心 轉"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向"
-        },
-        {
-          "chord": "Bm",
-          "text": "你， 讓"
-        },
-        {
-          "chord": "",
-          "text": "你 來 掌"
-        },
-        {
-          "chord": "G",
-          "text": "管，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "專 一 的"
-        },
-        {
-          "chord": "A",
-          "text": "愛"
-        },
-        {
-          "chord": "D",
-          "text": "你， 一"
-        },
-        {
-          "chord": "",
-          "text": "直"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愛"
-        },
-        {
-          "chord": "Am",
-          "text": "到 底，"
-        },
-        {
-          "chord": "G",
-          "text": "願 此"
-        },
-        {
-          "chord": "",
-          "text": "情"
-        },
-        {
-          "chord": "D",
-          "text": "不 移。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "堅 定"
-        },
-        {
-          "chord": "Em7",
-          "text": "不 移……"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "堅 定"
+            },
+            {
+              "chord": "Em7",
+              "text": "不 移……"
+            }
+          ]
         }
       ]
     }
@@ -462,7 +478,16 @@
   "metadata": {
     "category": "爱慕耶稣",
     "time": "4/4",
-    "hymn_code": "33432165443234322"
+    "hymn_code": "33432165443234322",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/175",
+        "language": "cn",
+        "category": "ns",
+        "number": "175",
+        "title": "NS175"
+      }
+    ]
   },
   "raw_sections": [
     "主， 每代 你 有一人：",

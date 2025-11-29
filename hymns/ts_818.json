@@ -1,196 +1,200 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/818",
   "title": "人生意义",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "人 生"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "人 生"
+            },
+            {
+              "chord": "F",
+              "text": "意 義"
+            },
+            {
+              "chord": "C",
+              "text": "是 何"
+            },
+            {
+              "chord": "G",
+              "text": "在？"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "意 義"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "答 案"
+            },
+            {
+              "chord": "F",
+              "text": "今"
+            },
+            {
+              "chord": "E",
+              "text": "已"
+            },
+            {
+              "chord": "Am",
+              "text": "找"
+            },
+            {
+              "chord": "G",
+              "text": "出"
+            },
+            {
+              "chord": "C",
+              "text": "來！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "是 何"
+          "segments": [
+            {
+              "chord": "",
+              "text": "喊 主 耶 穌 嘗 嘗 看！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "在？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "答 案"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "祂 是"
+            },
+            {
+              "chord": "",
+              "text": "實 際 真 無"
+            },
+            {
+              "chord": "G7",
+              "text": "限！"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "今"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "祂 賜"
+            },
+            {
+              "chord": "",
+              "text": "豐 盛 的 生 命─"
+            },
+            {
+              "chord": "F",
+              "text": "活"
+            }
+          ]
         },
         {
-          "chord": "E",
-          "text": "已"
+          "segments": [
+            {
+              "chord": "",
+              "text": "水 江 河 流 不 停，"
+            },
+            {
+              "chord": "C",
+              "text": "新"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "找"
+          "segments": [
+            {
+              "chord": "",
+              "text": "的 生 命 今 開"
+            },
+            {
+              "chord": "F",
+              "text": "始，"
+            },
+            {
+              "chord": "D7",
+              "text": "喜"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "出"
+          "segments": [
+            {
+              "chord": "",
+              "text": "樂 湧 出 永 無"
+            },
+            {
+              "chord": "G",
+              "text": "止；"
+            },
+            {
+              "chord": "E",
+              "text": "愛"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "來！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "喊 主 耶 穌 嘗 嘗 看！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Dm",
-          "text": "祂 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在 裡 面 時 增"
+            },
+            {
+              "chord": "C",
+              "text": "加。 這"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "實 際 真 無"
+          "segments": [
+            {
+              "chord": "",
+              "text": "全"
+            },
+            {
+              "chord": "F",
+              "text": "都 是"
+            },
+            {
+              "chord": "G",
+              "text": "因 著"
+            },
+            {
+              "chord": "C",
+              "text": "祂！ 阿"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "限！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "祂 賜"
+          "segments": [
+            {
+              "chord": "",
+              "text": "利"
+            },
+            {
+              "chord": "G7",
+              "text": "路 亞！"
+            },
+            {
+              "chord": "C",
+              "text": "喊"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "豐 盛 的 生 命─"
-        },
-        {
-          "chord": "F",
-          "text": "活"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "水 江 河 流 不 停，"
-        },
-        {
-          "chord": "C",
-          "text": "新"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "的 生 命 今 開"
-        },
-        {
-          "chord": "F",
-          "text": "始，"
-        },
-        {
-          "chord": "D7",
-          "text": "喜"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "樂 湧 出 永 無"
-        },
-        {
-          "chord": "G",
-          "text": "止；"
-        },
-        {
-          "chord": "E",
-          "text": "愛"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在 裡 面 時 增"
-        },
-        {
-          "chord": "C",
-          "text": "加。 這"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全"
-        },
-        {
-          "chord": "F",
-          "text": "都 是"
-        },
-        {
-          "chord": "G",
-          "text": "因 著"
-        },
-        {
-          "chord": "C",
-          "text": "祂！ 阿"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "利"
-        },
-        {
-          "chord": "G7",
-          "text": "路 亞！"
-        },
-        {
-          "chord": "C",
-          "text": "喊"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主 耶 穌 嘗 嘗 看！"
-        },
-        {
-          "chord": "Dm",
-          "text": "祂 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主 耶 穌 嘗 嘗 看！"
+            },
+            {
+              "chord": "Dm",
+              "text": "祂 是"
+            }
+          ]
         }
       ]
     }
@@ -198,7 +202,16 @@
   "metadata": {
     "category": "事奉与福音",
     "time": "2/4",
-    "hymn_code": "51643123167121"
+    "hymn_code": "51643123167121",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1326",
+        "language": "cn",
+        "category": "h",
+        "number": "1326",
+        "title": "E1326"
+      }
+    ]
   },
   "raw_sections": [
     "人 生意 義是 何在？",

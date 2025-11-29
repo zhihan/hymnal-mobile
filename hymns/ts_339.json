@@ -1,388 +1,412 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/339",
   "title": "主，你保守我心",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "主， 你"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "主， 你"
+            },
+            {
+              "chord": "",
+              "text": "保"
+            },
+            {
+              "chord": "Bm",
+              "text": "守 我"
+            },
+            {
+              "chord": "",
+              "text": "心"
+            },
+            {
+              "chord": "Em",
+              "text": "永 真"
+            },
+            {
+              "chord": "A",
+              "text": "誠，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "保"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "絕 不"
+            },
+            {
+              "chord": "",
+              "text": "稍"
+            },
+            {
+              "chord": "Bm",
+              "text": "退 後，"
+            },
+            {
+              "chord": "",
+              "text": "時 見"
+            },
+            {
+              "chord": "Em",
+              "text": "你 面"
+            },
+            {
+              "chord": "A",
+              "text": "容。"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "守 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一"
+            },
+            {
+              "chord": "D",
+              "text": "心 單"
+            },
+            {
+              "chord": "",
+              "text": "純、"
+            },
+            {
+              "chord": "Bm",
+              "text": "清 潔，"
+            },
+            {
+              "chord": "",
+              "text": "只"
+            },
+            {
+              "chord": "Em",
+              "text": "願 面"
+            },
+            {
+              "chord": "",
+              "text": "見"
+            },
+            {
+              "chord": "A",
+              "text": "你。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "心"
-        },
-        {
-          "chord": "Em",
-          "text": "永 真"
-        },
-        {
-          "chord": "A",
-          "text": "誠，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一"
+            },
+            {
+              "chord": "D",
+              "text": "心 只"
+            },
+            {
+              "chord": "Bm",
+              "text": "愛 你，"
+            },
+            {
+              "chord": "",
+              "text": "只"
+            },
+            {
+              "chord": "Em",
+              "text": "寶 貝"
+            },
+            {
+              "chord": "A7",
+              "text": "你 自"
+            },
+            {
+              "chord": "D",
+              "text": "己。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "絕 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 愛"
+            },
+            {
+              "chord": "A",
+              "text": "困"
+            },
+            {
+              "chord": "Bm",
+              "text": "迫， 我"
+            },
+            {
+              "chord": "",
+              "text": "願"
+            },
+            {
+              "chord": "Em",
+              "text": "奉 獻"
+            },
+            {
+              "chord": "",
+              "text": "我 所"
+            },
+            {
+              "chord": "A",
+              "text": "有，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "稍"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "你 愛"
+            },
+            {
+              "chord": "A",
+              "text": "吸"
+            },
+            {
+              "chord": "Bm",
+              "text": "引， 我"
+            },
+            {
+              "chord": "",
+              "text": "心"
+            },
+            {
+              "chord": "Em",
+              "text": "全 向"
+            },
+            {
+              "chord": "",
+              "text": "你 倚"
+            },
+            {
+              "chord": "A",
+              "text": "投，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "退 後，"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "哦， 何"
+            },
+            {
+              "chord": "",
+              "text": "等"
+            },
+            {
+              "chord": "Bm",
+              "text": "權 利，"
+            },
+            {
+              "chord": "",
+              "text": "能"
+            },
+            {
+              "chord": "Em",
+              "text": "將 自"
+            },
+            {
+              "chord": "",
+              "text": "己 給"
+            },
+            {
+              "chord": "A7",
+              "text": "你，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "時 見"
-        },
-        {
-          "chord": "Em",
-          "text": "你 面"
-        },
-        {
-          "chord": "A",
-          "text": "容。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，"
+            },
+            {
+              "chord": "D",
+              "text": "我 愛"
+            },
+            {
+              "chord": "",
+              "text": "你！"
+            },
+            {
+              "chord": "Bm",
+              "text": "親 愛"
+            },
+            {
+              "chord": "",
+              "text": "主！ 我"
+            },
+            {
+              "chord": "Em",
+              "text": "只 願"
+            },
+            {
+              "chord": "A7",
+              "text": "深 愛"
+            },
+            {
+              "chord": "D",
+              "text": "你。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，使我爱向着你焚烧！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "心 單"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从来不熄灭，火热不减少，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "純、"
+          "segments": [
+            {
+              "chord": "",
+              "text": "深愿这爱向你，一生都显耀；"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "清 潔，"
-        },
-        {
-          "chord": "",
-          "text": "只"
-        },
-        {
-          "chord": "Em",
-          "text": "願 面"
-        },
-        {
-          "chord": "",
-          "text": "見"
-        },
-        {
-          "chord": "A",
-          "text": "你。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "新鲜如当日，初尝你的上好。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你爱困迫，我愿奉献我所有，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "心 只"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你爱吸引，我心全向你倚投，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "愛 你，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，何等权利，能将自己给你，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "只"
-        },
-        {
-          "chord": "Em",
-          "text": "寶 貝"
-        },
-        {
-          "chord": "A7",
-          "text": "你 自"
-        },
-        {
-          "chord": "D",
-          "text": "己。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，我爱你！亲爱主！我只愿深爱你。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "你 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，得着我一生献给你，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "困"
+          "segments": [
+            {
+              "chord": "",
+              "text": "纵有命成千，归你也愿意。"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "迫， 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "无何保留为己，一切全为你，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "願"
-        },
-        {
-          "chord": "Em",
-          "text": "奉 獻"
-        },
-        {
-          "chord": "",
-          "text": "我 所"
-        },
-        {
-          "chord": "A",
-          "text": "有，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我命、我一生，爱主，愿都为你。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "你 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你爱困迫，我愿奉献我所有，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "吸"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你爱吸引，我心全向你倚投，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "引， 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，何等权利，能将自己给你，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "心"
-        },
-        {
-          "chord": "Em",
-          "text": "全 向"
-        },
-        {
-          "chord": "",
-          "text": "你 倚"
-        },
-        {
-          "chord": "A",
-          "text": "投，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "哦， 何"
-        },
-        {
-          "chord": "",
-          "text": "等"
-        },
-        {
-          "chord": "Bm",
-          "text": "權 利，"
-        },
-        {
-          "chord": "",
-          "text": "能"
-        },
-        {
-          "chord": "Em",
-          "text": "將 自"
-        },
-        {
-          "chord": "",
-          "text": "己 給"
-        },
-        {
-          "chord": "A7",
-          "text": "你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，"
-        },
-        {
-          "chord": "D",
-          "text": "我 愛"
-        },
-        {
-          "chord": "",
-          "text": "你！"
-        },
-        {
-          "chord": "Bm",
-          "text": "親 愛"
-        },
-        {
-          "chord": "",
-          "text": "主！ 我"
-        },
-        {
-          "chord": "Em",
-          "text": "只 願"
-        },
-        {
-          "chord": "A7",
-          "text": "深 愛"
-        },
-        {
-          "chord": "D",
-          "text": "你。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，使我爱向着你焚烧！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从来不熄灭，火热不减少，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "深愿这爱向你，一生都显耀；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "新鲜如当日，初尝你的上好。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你爱困迫，我愿奉献我所有，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你爱吸引，我心全向你倚投，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，何等权利，能将自己给你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，我爱你！亲爱主！我只愿深爱你。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，得着我一生献给你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "纵有命成千，归你也愿意。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "无何保留为己，一切全为你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我命、我一生，爱主，愿都为你。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你爱困迫，我愿奉献我所有，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你爱吸引，我心全向你倚投，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，何等权利，能将自己给你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，我爱你！亲爱主！我只愿深爱你。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，我爱你！亲爱主！我只愿深爱你。"
+            }
+          ]
         }
       ]
     }

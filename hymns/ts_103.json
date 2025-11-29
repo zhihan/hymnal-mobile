@@ -1,280 +1,308 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/103",
   "title": "以赛亚书中的灵",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "哦 主，"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "哦 主，"
+            },
+            {
+              "chord": "A",
+              "text": "以 審"
+            },
+            {
+              "chord": "A7",
+              "text": "判 的"
+            },
+            {
+              "chord": "D",
+              "text": "靈，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "以 審"
+          "segments": [
+            {
+              "chord": "",
+              "text": "審 判"
+            },
+            {
+              "chord": "G",
+              "text": "我 一"
+            },
+            {
+              "chord": "D",
+              "text": "切 惡"
+            },
+            {
+              "chord": "A7",
+              "text": "行！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "判 的"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 不"
+            },
+            {
+              "chord": "A",
+              "text": "憑 自"
+            },
+            {
+              "chord": "A7",
+              "text": "己 搜"
+            },
+            {
+              "chord": "D",
+              "text": "尋，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "靈，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只 等"
+            },
+            {
+              "chord": "G",
+              "text": "你 靈"
+            },
+            {
+              "chord": "A",
+              "text": "來"
+            },
+            {
+              "chord": "A7",
+              "text": "顯"
+            },
+            {
+              "chord": "D",
+              "text": "明。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "審 判"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，以焚烧的灵，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "我 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "烧去我所有污秽；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "切 惡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "把世界一烧而空，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "行！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到我爆炸发疯。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "我 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，以智慧的灵，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "憑 自"
+          "segments": [
+            {
+              "chord": "",
+              "text": "启示你一切奥秘；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "己 搜"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你是根、枝子、果实，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "尋，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你是内容和丰富。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "只 等"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，以谋略的灵，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "你 靈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "显出你奇妙带领；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "新旧办法都无用，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "顯"
+          "segments": [
+            {
+              "chord": "",
+              "text": "有灵能力才成功。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，以知识的灵，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "明。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "非凭眼见或耳闻；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我明白你心意，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "战兢活出你救恩。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "哦主，以焚烧的灵，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，以公正的灵，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "带我学习走正路；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不因人情而退却，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不因艰难而变节。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "烧去我所有污秽；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，去我沉睡的灵，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "把世界一烧而空，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "开我眼使我儆醒；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "直到我爆炸发疯。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "你来的日子近了，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "哦主，以智慧的灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "启示你一切奥秘；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你是根、枝子、果实，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你是内容和丰富。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，以谋略的灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "显出你奇妙带领；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "新旧办法都无用，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有灵能力才成功。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，以知识的灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "非凭眼见或耳闻；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我明白你心意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "战兢活出你救恩。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，以公正的灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "带我学习走正路；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不因人情而退却，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不因艰难而变节。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，去我沉睡的灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "开我眼使我儆醒；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你来的日子近了，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让我随时准备好。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "让我随时准备好。"
+            }
+          ]
         }
       ]
     }

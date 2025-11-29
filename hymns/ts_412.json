@@ -1,176 +1,180 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/412",
   "title": "在话的水里泡",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "喫 喝"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "喫 喝"
+            },
+            {
+              "chord": "",
+              "text": "主 的"
+            },
+            {
+              "chord": "G",
+              "text": "話 就"
+            },
+            {
+              "chord": "",
+              "text": "不 萎"
+            },
+            {
+              "chord": "D",
+              "text": "縮，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "主 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "歡 喜 阿 們， 不 是 受 強"
+            },
+            {
+              "chord": "A",
+              "text": "迫！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "話 就"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "在 話"
+            },
+            {
+              "chord": "",
+              "text": "的 水 裡 泡，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "不 萎"
+          "segments": [
+            {
+              "chord": "",
+              "text": "泡 到 全 人"
+            },
+            {
+              "chord": "Bm",
+              "text": "快 活；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "縮，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "歡 喜 阿 們， 不 是 受 強"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "無 論"
+            },
+            {
+              "chord": "",
+              "text": "我 們"
+            },
+            {
+              "chord": "A7",
+              "text": "時 間"
+            },
+            {
+              "chord": "",
+              "text": "多 難"
+            },
+            {
+              "chord": "D",
+              "text": "得！"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "迫！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "在 話"
+          "segments": [
+            {
+              "chord": "",
+              "text": "經 常 來 禱"
+            },
+            {
+              "chord": "G",
+              "text": "讀 就"
+            },
+            {
+              "chord": "",
+              "text": "不 退"
+            },
+            {
+              "chord": "D",
+              "text": "後，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 水 裡 泡，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "泡 到 全 人"
+          "segments": [
+            {
+              "chord": "",
+              "text": "歡 喜 禱 讀， 不 是 受 強"
+            },
+            {
+              "chord": "A",
+              "text": "迫！"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "快 活；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "無 論"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "大 家"
+            },
+            {
+              "chord": "",
+              "text": "一 起 焚 燒，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "燒 到 全 人"
+            },
+            {
+              "chord": "Bm",
+              "text": "發 熱；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "時 間"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "無 論"
+            },
+            {
+              "chord": "",
+              "text": "我 們"
+            },
+            {
+              "chord": "A7",
+              "text": "環 境"
+            },
+            {
+              "chord": "",
+              "text": "多 難"
+            },
+            {
+              "chord": "D",
+              "text": "受，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "多 難"
-        },
-        {
-          "chord": "D",
-          "text": "得！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "經 常 來 禱"
-        },
-        {
-          "chord": "G",
-          "text": "讀 就"
-        },
-        {
-          "chord": "",
-          "text": "不 退"
-        },
-        {
-          "chord": "D",
-          "text": "後，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "歡 喜 禱 讀， 不 是 受 強"
-        },
-        {
-          "chord": "A",
-          "text": "迫！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "大 家"
-        },
-        {
-          "chord": "",
-          "text": "一 起 焚 燒，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "燒 到 全 人"
-        },
-        {
-          "chord": "Bm",
-          "text": "發 熱；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "無 論"
-        },
-        {
-          "chord": "",
-          "text": "我 們"
-        },
-        {
-          "chord": "A7",
-          "text": "環 境"
-        },
-        {
-          "chord": "",
-          "text": "多 難"
-        },
-        {
-          "chord": "D",
-          "text": "受，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不 退 後！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不 退 後！"
+            }
+          ]
         }
       ]
     }

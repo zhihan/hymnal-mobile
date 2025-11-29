@@ -1,400 +1,416 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/37",
   "title": "赞美荣耀王",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Dm",
-          "text": "當 向"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "當 向"
+            },
+            {
+              "chord": "",
+              "text": "萬 有 之 主"
+            },
+            {
+              "chord": "Gm",
+              "text": "高 聲"
+            },
+            {
+              "chord": "",
+              "text": "來 頌"
+            },
+            {
+              "chord": "Dm",
+              "text": "揚；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "萬 有 之 主"
+          "segments": [
+            {
+              "chord": "Gm",
+              "text": "祂 作"
+            },
+            {
+              "chord": "",
+              "text": "為"
+            },
+            {
+              "chord": "Dm",
+              "text": "奇 妙，"
+            },
+            {
+              "chord": "A",
+              "text": "當 傳"
+            },
+            {
+              "chord": "",
+              "text": "佈 四"
+            },
+            {
+              "chord": "Dm",
+              "text": "方；"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "高 聲"
+          "segments": [
+            {
+              "chord": "",
+              "text": "諸 天 是 祂 座 位，"
+            },
+            {
+              "chord": "Gm",
+              "text": "祂 竟"
+            },
+            {
+              "chord": "",
+              "text": "臨 地"
+            },
+            {
+              "chord": "Dm",
+              "text": "上，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "來 頌"
+          "segments": [
+            {
+              "chord": "Gm",
+              "text": "與 百"
+            },
+            {
+              "chord": "",
+              "text": "姓"
+            },
+            {
+              "chord": "Dm",
+              "text": "同 住，"
+            },
+            {
+              "chord": "A",
+              "text": "在 撒"
+            },
+            {
+              "chord": "",
+              "text": "冷 為"
+            },
+            {
+              "chord": "Dm",
+              "text": "王。"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "揚；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "從 錫 安"
+            },
+            {
+              "chord": "A♯",
+              "text": "而 出，"
+            },
+            {
+              "chord": "C",
+              "text": "救 恩"
+            },
+            {
+              "chord": "",
+              "text": "何 深"
+            },
+            {
+              "chord": "Dm",
+              "text": "廣；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "被 擄 者"
+            },
+            {
+              "chord": "Gm",
+              "text": "歸 回，"
+            },
+            {
+              "chord": "C",
+              "text": "怎 能"
+            },
+            {
+              "chord": "",
+              "text": "不 歡"
+            },
+            {
+              "chord": "F",
+              "text": "唱？"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Gm",
+              "text": "當 喜"
+            },
+            {
+              "chord": "",
+              "text": "樂"
+            },
+            {
+              "chord": "Dm",
+              "text": "歡 騰，"
+            },
+            {
+              "chord": "Gm",
+              "text": "唱 祂"
+            },
+            {
+              "chord": "",
+              "text": "恩 無"
+            },
+            {
+              "chord": "Dm",
+              "text": "量！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Gm",
+              "text": "當 喜"
+            },
+            {
+              "chord": "",
+              "text": "樂"
+            },
+            {
+              "chord": "Dm",
+              "text": "歡 騰，"
+            },
+            {
+              "chord": "A",
+              "text": "唱 祂"
+            },
+            {
+              "chord": "",
+              "text": "恩 無"
+            },
+            {
+              "chord": "Dm",
+              "text": "量！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Gm",
-          "text": "祂 作"
+          "segments": [
+            {
+              "chord": "",
+              "text": "圣城为祂居所，圣民同欢唱；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主名何尊大，全地当称扬；"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "奇 妙，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美为祂宝座，欢呼应明朗；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "當 傳"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂独爱锡安，倾福于其上。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "佈 四"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在地方召会，神行动刚强；"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "方；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享祂作永分，满足又欢畅；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "产业何丰富，我们竟得享！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "产业何丰富，我们竟得享！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "諸 天 是 祂 座 位，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "谁能登上圣山，国权来执掌？"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "祂 竟"
+          "segments": [
+            {
+              "chord": "",
+              "text": "谁能住圣所，使神家彰显？"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "臨 地"
+          "segments": [
+            {
+              "chord": "",
+              "text": "必须手洁心清，寻求主面光，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "上，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Gm",
-          "text": "與 百"
+          "segments": [
+            {
+              "chord": "",
+              "text": "迎接祂进来，居衷作君王。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "姓"
+          "segments": [
+            {
+              "chord": "",
+              "text": "让我们抬头，寻求主面光，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "同 住，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "向荣耀君王，心门全开放；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "在 撒"
+          "segments": [
+            {
+              "chord": "",
+              "text": "让基督进来，居衷永作王；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "冷 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "让基督进来，居衷永作王。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "看哪神的帐幕降临在地上；"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "王。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "從 錫 安"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦以马内利！\"众圣齐欢唱。"
+            }
+          ]
         },
         {
-          "chord": "A♯",
-          "text": "而 出，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一切都已完成，神人永同享；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "救 恩"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督与召会─美妙的诗章！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "何 深"
+          "segments": [
+            {
+              "chord": "",
+              "text": "众城要抬头，注目主荣光！"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "廣；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "被 擄 者"
+          "segments": [
+            {
+              "chord": "",
+              "text": "门户要举起，迎祂来作王！"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "歸 回，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美荣耀王，欢呼声要强！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "怎 能"
-        },
-        {
-          "chord": "",
-          "text": "不 歡"
-        },
-        {
-          "chord": "F",
-          "text": "唱？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Gm",
-          "text": "當 喜"
-        },
-        {
-          "chord": "",
-          "text": "樂"
-        },
-        {
-          "chord": "Dm",
-          "text": "歡 騰，"
-        },
-        {
-          "chord": "Gm",
-          "text": "唱 祂"
-        },
-        {
-          "chord": "",
-          "text": "恩 無"
-        },
-        {
-          "chord": "Dm",
-          "text": "量！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Gm",
-          "text": "當 喜"
-        },
-        {
-          "chord": "",
-          "text": "樂"
-        },
-        {
-          "chord": "Dm",
-          "text": "歡 騰，"
-        },
-        {
-          "chord": "A",
-          "text": "唱 祂"
-        },
-        {
-          "chord": "",
-          "text": "恩 無"
-        },
-        {
-          "chord": "Dm",
-          "text": "量！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "圣城为祂居所，圣民同欢唱；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主名何尊大，全地当称扬；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞美为祂宝座，欢呼应明朗；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂独爱锡安，倾福于其上。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在地方召会，神行动刚强；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享祂作永分，满足又欢畅；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "产业何丰富，我们竟得享！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "产业何丰富，我们竟得享！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "谁能登上圣山，国权来执掌？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "谁能住圣所，使神家彰显？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "必须手洁心清，寻求主面光，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "迎接祂进来，居衷作君王。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让我们抬头，寻求主面光，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向荣耀君王，心门全开放；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让基督进来，居衷永作王；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让基督进来，居衷永作王。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "看哪神的帐幕降临在地上；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦以马内利！\"众圣齐欢唱。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一切都已完成，神人永同享；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督与召会─美妙的诗章！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "众城要抬头，注目主荣光！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "门户要举起，迎祂来作王！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞美荣耀王，欢呼声要强！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞美荣耀王，欢呼声要强！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美荣耀王，欢呼声要强！"
+            }
+          ]
         }
       ]
     }
@@ -402,7 +418,16 @@
   "metadata": {
     "category": "赞美的话",
     "time": "4/4",
-    "hymn_code": "671233343463"
+    "hymn_code": "671233343463",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1222",
+        "language": "cn",
+        "category": "h",
+        "number": "1222",
+        "title": "E1222"
+      }
+    ]
   },
   "raw_sections": [
     "當 向萬 有 之 主高 聲來 頌揚；",

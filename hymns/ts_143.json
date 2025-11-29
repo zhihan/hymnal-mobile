@@ -1,424 +1,464 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/143",
   "title": "吹动！覆罩！焚烧！显耀！",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "看 哪，"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "看 哪，"
+            },
+            {
+              "chord": "",
+              "text": "暴 風 颳 自 北 方， 力 無 窮；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "暴 風 颳 自 北 方， 力 無 窮；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "來 吹"
+          "segments": [
+            {
+              "chord": "",
+              "text": "來 吹"
+            },
+            {
+              "chord": "Em",
+              "text": "動！"
+            },
+            {
+              "chord": "A7",
+              "text": "來 吹"
+            },
+            {
+              "chord": "D",
+              "text": "動！"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "動！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是 神 眷 臨"
+            },
+            {
+              "chord": "A",
+              "text": "使 人"
+            },
+            {
+              "chord": "",
+              "text": "翻 轉"
+            },
+            {
+              "chord": "Bm",
+              "text": "得 復"
+            },
+            {
+              "chord": "D",
+              "text": "興；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "來 吹"
+          "segments": [
+            {
+              "chord": "",
+              "text": "來 吹"
+            },
+            {
+              "chord": "Em",
+              "text": "動！"
+            },
+            {
+              "chord": "A7",
+              "text": "來 吹"
+            },
+            {
+              "chord": "D",
+              "text": "動！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "來 吹"
+            },
+            {
+              "chord": "G",
+              "text": "動！ 聖"
+            },
+            {
+              "chord": "",
+              "text": "靈 強"
+            },
+            {
+              "chord": "D",
+              "text": "風 吹"
+            },
+            {
+              "chord": "Bm",
+              "text": "動，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "動！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是 神 眷 臨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使 我"
+            },
+            {
+              "chord": "A7",
+              "text": "悔 改"
+            },
+            {
+              "chord": "",
+              "text": "得 生"
+            },
+            {
+              "chord": "D",
+              "text": "命！"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "使 人"
+          "segments": [
+            {
+              "chord": "",
+              "text": "來 吹"
+            },
+            {
+              "chord": "A",
+              "text": "動！ 恩"
+            },
+            {
+              "chord": "",
+              "text": "典 大"
+            },
+            {
+              "chord": "Bm",
+              "text": "風 吹"
+            },
+            {
+              "chord": "D",
+              "text": "動，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "翻 轉"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使 我"
+            },
+            {
+              "chord": "A7",
+              "text": "主 裏"
+            },
+            {
+              "chord": "",
+              "text": "得 復"
+            },
+            {
+              "chord": "D",
+              "text": "興！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "看哪，还有一朵大云随风到；"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "得 復"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来覆罩！来覆罩！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "興；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "來 吹"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主同在如云满足所有需要；"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "動！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来覆罩！来覆罩！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "来覆罩！神来与人相交，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "來 吹"
+          "segments": [
+            {
+              "chord": "",
+              "text": "覆庇、加力又照料！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "動！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "來 吹"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来覆罩！神恩如云围绕，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "動！ 聖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "带来安慰和荣耀！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "云中又有烈火不断的闪烁；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "靈 強"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来焚烧！来焚烧！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "風 吹"
+          "segments": [
+            {
+              "chord": "",
+              "text": "罪肉体魂生命再无处可躲；"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "動，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来焚烧！来焚烧！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "使 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来焚烧！神圣嫉妒烈火"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "悔 改"
+          "segments": [
+            {
+              "chord": "",
+              "text": "烧遍全人每角落！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "得 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来焚烧！神外一切尽脱，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "命！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天然、旧造都灭没！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "來 吹"
+          "segments": [
+            {
+              "chord": "",
+              "text": "火中发出金银合金显光耀；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "動！ 恩"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在显耀！在显耀！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "典 大"
+          "segments": [
+            {
+              "chord": "",
+              "text": "救赎之神经历宝贵又高超；"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "風 吹"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在显耀！在显耀！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在显耀！我们今已尝到"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "動，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "羔羊神丰美味道！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "主 裏"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在显耀！救赎之神荣耀，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "得 復"
+          "segments": [
+            {
+              "chord": "",
+              "text": "彰显于人何奇妙！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "风云、火金的经历将人点活；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "興！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "多又多！多又多！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿这循环将我重构永不辍；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "多又多！多又多！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "看哪，还有一朵大云随风到；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "风吹到！云覆罩！火焚烧！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "来覆罩！来覆罩！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "金银合金显荣耀！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "主同在如云满足所有需要；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿与主如此全然相调，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "来覆罩！来覆罩！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来覆罩！神来与人相交，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "覆庇、加力又照料！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来覆罩！神恩如云围绕，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "带来安慰和荣耀！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "云中又有烈火不断的闪烁；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来焚烧！来焚烧！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "罪肉体魂生命再无处可躲；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来焚烧！来焚烧！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来焚烧！神圣嫉妒烈火"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "烧遍全人每角落！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来焚烧！神外一切尽脱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天然、旧造都灭没！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "火中发出金银合金显光耀；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在显耀！在显耀！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "救赎之神经历宝贵又高超；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在显耀！在显耀！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在显耀！我们今已尝到"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "羔羊神丰美味道！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在显耀！救赎之神荣耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "彰显于人何奇妙！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "风云、火金的经历将人点活；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "多又多！多又多！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿这循环将我重构永不辍；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "多又多！多又多！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "风吹到！云覆罩！火焚烧！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "金银合金显荣耀！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿与主如此全然相调，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使主荣形得显照！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使主荣形得显照！"
+            }
+          ]
         }
       ]
     }
@@ -426,7 +466,16 @@
   "metadata": {
     "category": "灵与生命",
     "time": "4/4",
-    "hymn_code": "55111512333432321"
+    "hymn_code": "55111512333432321",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1200",
+        "language": "cn",
+        "category": "h",
+        "number": "1200",
+        "title": "E1200"
+      }
+    ]
   },
   "raw_sections": [
     "看 哪，暴 風 颳 自 北 方， 力 無 窮；",

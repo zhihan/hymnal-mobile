@@ -1,508 +1,532 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/456",
   "title": "转",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Em",
-          "text": "轉！ 黑"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "轉！ 黑"
+            },
+            {
+              "chord": "",
+              "text": "暗 丟 在"
+            },
+            {
+              "chord": "Bm",
+              "text": "背 後，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "暗 丟 在"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "光， 在"
+            },
+            {
+              "chord": "",
+              "text": "前"
+            },
+            {
+              "chord": "G",
+              "text": "頭。"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "背 後，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "光， 在"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "轉！ 虛"
+            },
+            {
+              "chord": "",
+              "text": "空 世 界"
+            },
+            {
+              "chord": "G",
+              "text": "脫 落，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "前"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "愛， 在"
+            },
+            {
+              "chord": "",
+              "text": "左"
+            },
+            {
+              "chord": "D",
+              "text": "右。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "歡 然"
+            },
+            {
+              "chord": "",
+              "text": "邁 入 新 境"
+            },
+            {
+              "chord": "D",
+              "text": "地，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "頭。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "轉！ 虛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "憑"
+            },
+            {
+              "chord": "C",
+              "text": "神 脫"
+            },
+            {
+              "chord": "",
+              "text": "去 陳"
+            },
+            {
+              "chord": "G",
+              "text": "舊，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "空 世 界"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "神 調"
+            },
+            {
+              "chord": "",
+              "text": "人 新"
+            },
+            {
+              "chord": "G",
+              "text": "生"
+            },
+            {
+              "chord": "Em",
+              "text": "活，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "脫 落，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "愛， 在"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "盼 望"
+            },
+            {
+              "chord": "",
+              "text": "得 榮"
+            },
+            {
+              "chord": "D",
+              "text": "時 候。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "左"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "走， 跟"
+            },
+            {
+              "chord": "",
+              "text": "耶 穌 腳"
+            },
+            {
+              "chord": "Bm",
+              "text": "踨！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "右。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "歡 然"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "今 我"
+            },
+            {
+              "chord": "",
+              "text": "們 得 神 聖"
+            },
+            {
+              "chord": "G",
+              "text": "生 命"
+            },
+            {
+              "chord": "Em",
+              "text": "不 朽，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "邁 入 新 境"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "享 受"
+            },
+            {
+              "chord": "",
+              "text": "神 兒 子"
+            },
+            {
+              "chord": "D",
+              "text": "自 由；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "地，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "憑"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "走， 同"
+            },
+            {
+              "chord": "",
+              "text": "基 督 行"
+            },
+            {
+              "chord": "D",
+              "text": "動！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "神 脫"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "流， 隨"
+            },
+            {
+              "chord": "",
+              "text": "聖 靈 湧"
+            },
+            {
+              "chord": "Bm",
+              "text": "流！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "去 陳"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "經 綸"
+            },
+            {
+              "chord": "",
+              "text": "的 神"
+            },
+            {
+              "chord": "Em",
+              "text": "正 在"
+            },
+            {
+              "chord": "",
+              "text": "呼 召，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "舊，"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "一 個"
+            },
+            {
+              "chord": "",
+              "text": "新 人─"
+            },
+            {
+              "chord": "Am",
+              "text": "我 人"
+            },
+            {
+              "chord": "D7",
+              "text": "生 所"
+            },
+            {
+              "chord": "G",
+              "text": "投。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "神 調"
+          "segments": [
+            {
+              "chord": "",
+              "text": "转！往新方向寻求，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "人 新"
+          "segments": [
+            {
+              "chord": "",
+              "text": "进入方舟。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "转！公义、和平、喜乐，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "活，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是神的国。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Am",
-          "text": "盼 望"
+          "segments": [
+            {
+              "chord": "",
+              "text": "欢然迈入新境地，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "得 榮"
+          "segments": [
+            {
+              "chord": "",
+              "text": "凭神脱去陈旧，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "時 候。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "走， 跟"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神调人新生活，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "耶 穌 腳"
+          "segments": [
+            {
+              "chord": "",
+              "text": "盼望得荣时候。"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "踨！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "今 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "走，跟耶稣脚踨！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "們 得 神 聖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今我们得神圣生命不朽，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享受神儿子自由；"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "不 朽，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "享 受"
+          "segments": [
+            {
+              "chord": "",
+              "text": "走，同基督行动！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "神 兒 子"
+          "segments": [
+            {
+              "chord": "",
+              "text": "流，随圣灵涌流！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "自 由；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "走， 同"
+          "segments": [
+            {
+              "chord": "",
+              "text": "经纶的神正在呼召，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "基 督 行"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一个新人─我人生所投。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "转！离弃狭窄自我，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "動！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "流， 隨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神旨承托。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "聖 靈 湧"
+          "segments": [
+            {
+              "chord": "",
+              "text": "转！国度福音展扩，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "流！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "刚强开拓。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "經 綸"
+          "segments": [
+            {
+              "chord": "",
+              "text": "欢然迈入新境地，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "凭神脱去陈旧，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "正 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神调人新生活，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "呼 召，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "一 個"
+          "segments": [
+            {
+              "chord": "",
+              "text": "盼望得荣时候。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "新 人─"
+          "segments": [
+            {
+              "chord": "",
+              "text": "走，跟耶稣脚踨！"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "我 人"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今我们得神圣生命不朽，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "生 所"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享受神儿子自由；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "投。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "走，同基督行动！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "转！往新方向寻求，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "流，随圣灵涌流！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "进入方舟。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "经纶的神正在呼召，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "转！公义、和平、喜乐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是神的国。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "欢然迈入新境地，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "凭神脱去陈旧，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神调人新生活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "盼望得荣时候。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "走，跟耶稣脚踨！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今我们得神圣生命不朽，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享受神儿子自由；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "走，同基督行动！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "流，随圣灵涌流！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "经纶的神正在呼召，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一个新人─我人生所投。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "转！离弃狭窄自我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神旨承托。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "转！国度福音展扩，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "刚强开拓。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "欢然迈入新境地，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "凭神脱去陈旧，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神调人新生活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "盼望得荣时候。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "走，跟耶稣脚踨！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今我们得神圣生命不朽，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享受神儿子自由；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "走，同基督行动！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "流，随圣灵涌流！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "经纶的神正在呼召，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一个新人─我人生所投。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一个新人─我人生所投。"
+            }
+          ]
         }
       ]
     }

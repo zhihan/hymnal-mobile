@@ -1,340 +1,356 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/344",
   "title": "爱中牧养",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "祂 尋"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "祂 尋"
+            },
+            {
+              "chord": "",
+              "text": "我 如 同 尋"
+            },
+            {
+              "chord": "C",
+              "text": "找 迷"
+            },
+            {
+              "chord": "",
+              "text": "羊，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 如 同 尋"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 贖"
+            },
+            {
+              "chord": "D7",
+              "text": "我 捨"
+            },
+            {
+              "chord": "",
+              "text": "了 性"
+            },
+            {
+              "chord": "G",
+              "text": "命；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "找 迷"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使 我 能 得 祂 生"
+            },
+            {
+              "chord": "Am",
+              "text": "命，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "羊，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 贖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "經 歷"
+            },
+            {
+              "chord": "D7",
+              "text": "祂 享"
+            },
+            {
+              "chord": "",
+              "text": "受 不"
+            },
+            {
+              "chord": "G",
+              "text": "盡。"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "我 捨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦， 我 主， 我 真 愛"
+            },
+            {
+              "chord": "C",
+              "text": "你，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "了 性"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不 自"
+            },
+            {
+              "chord": "A7",
+              "text": "禁 消"
+            },
+            {
+              "chord": "",
+              "text": "失 你"
+            },
+            {
+              "chord": "D7",
+              "text": "裡，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "命；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使 我 能 得 祂 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因 你 的"
+            },
+            {
+              "chord": "G7",
+              "text": "愛 困"
+            },
+            {
+              "chord": "",
+              "text": "迫 激"
+            },
+            {
+              "chord": "C",
+              "text": "勵，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "命，"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "願 一"
+            },
+            {
+              "chord": "D7",
+              "text": "生 奉"
+            },
+            {
+              "chord": "",
+              "text": "獻 給"
+            },
+            {
+              "chord": "G",
+              "text": "你。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "經 歷"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你甘美如草场、如溪水，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "祂 享"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我苏醒来走义路；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "受 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "凭信心生活有力，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "盡。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦， 我 主， 我 真 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "引导我能活出义。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不 自"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但世界时来搅扰，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "禁 消"
+          "segments": [
+            {
+              "chord": "",
+              "text": "世代流行如浪潮，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "失 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "而你的爱永不动摇，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "裡，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "牧养顾惜不减少。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "因 你 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "忽不觉你宝贵的同在，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "愛 困"
+          "segments": [
+            {
+              "chord": "",
+              "text": "摸不着可爱的你，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "迫 激"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的心不住犹疑，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "勵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "願 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你杖竿安慰不已。"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "生 奉"
+          "segments": [
+            {
+              "chord": "",
+              "text": "深领会凭信而活，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "獻 給"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我牧人引我行走，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "你。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "面对仇敌享你筵席，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "真经历福杯满溢。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "你甘美如草场、如溪水，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我牧长，我愿意跟随你，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我苏醒来走义路；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "牧养你托付羊群，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "凭信心生活有力，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "体贴你心中美意，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "引导我能活出义。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "永远活在经纶里。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "但世界时来搅扰，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，我主，我感谢你，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "世代流行如浪潮，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "你恩慈随我不离，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "而你的爱永不动摇，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿永住在你的殿里，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "牧养顾惜不减少。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "忽不觉你宝贵的同在，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "摸不着可爱的你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的心不住犹疑，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你杖竿安慰不已。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "深领会凭信而活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我牧人引我行走，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "面对仇敌享你筵席，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "真经历福杯满溢。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我牧长，我愿意跟随你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "牧养你托付羊群，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "体贴你心中美意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永远活在经纶里。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，我主，我感谢你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你恩慈随我不离，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿永住在你的殿里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "彰显你荣耀身体。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "彰显你荣耀身体。"
+            }
+          ]
         }
       ]
     }
@@ -342,7 +358,16 @@
   "metadata": {
     "category": "爱慕耶稣",
     "time": "4/4",
-    "hymn_code": "3455176542342543"
+    "hymn_code": "3455176542342543",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/359",
+        "language": "cn",
+        "category": "ns",
+        "number": "359",
+        "title": "NS359"
+      }
+    ]
   },
   "raw_sections": [
     "祂 尋我 如 同 尋找 迷羊，",

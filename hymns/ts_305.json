@@ -1,464 +1,480 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/305",
   "title": "主耶稣，你美丽夺了我心",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "主 耶"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "主 耶"
+            },
+            {
+              "chord": "",
+              "text": "穌，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "穌，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 美 麗 奪 了"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 美 麗 奪 了"
+            },
+            {
+              "chord": "Em",
+              "text": "我 心，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "我 心，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 全"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 全"
+            },
+            {
+              "chord": "A",
+              "text": "心 向"
+            },
+            {
+              "chord": "A7",
+              "text": "你 完"
+            },
+            {
+              "chord": "",
+              "text": "全 敞"
+            },
+            {
+              "chord": "D",
+              "text": "開；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "心 向"
+          "segments": [
+            {
+              "chord": "",
+              "text": "釋 放 我，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "你 完"
+          "segments": [
+            {
+              "chord": "",
+              "text": "脫 離 宗 教 的"
+            },
+            {
+              "chord": "Em",
+              "text": "義 務，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "全 敞"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只 讓"
+            },
+            {
+              "chord": "A",
+              "text": "我 永"
+            },
+            {
+              "chord": "A7",
+              "text": "遠 享"
+            },
+            {
+              "chord": "",
+              "text": "你 同"
+            },
+            {
+              "chord": "D",
+              "text": "在。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "開；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "釋 放 我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "脫 離 宗 教 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "當 我 在 此 注 視 你 的"
+            },
+            {
+              "chord": "G",
+              "text": "榮 耀，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "義 務，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只 讓"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 的"
+            },
+            {
+              "chord": "A",
+              "text": "心 充"
+            },
+            {
+              "chord": "A7",
+              "text": "滿 了"
+            },
+            {
+              "chord": "",
+              "text": "你 榮"
+            },
+            {
+              "chord": "D",
+              "text": "耀；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "我 永"
+          "segments": [
+            {
+              "chord": "",
+              "text": "浸 透 我， 主，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "遠 享"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 今 懇 切"
+            },
+            {
+              "chord": "Em",
+              "text": "求 禱，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你 同"
+          "segments": [
+            {
+              "chord": "",
+              "text": "以 你"
+            },
+            {
+              "chord": "A",
+              "text": "靈 與"
+            },
+            {
+              "chord": "A7",
+              "text": "我 靈"
+            },
+            {
+              "chord": "",
+              "text": "永 相"
+            },
+            {
+              "chord": "D",
+              "text": "調。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "光照者─"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "在。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "當 我 在 此 注 視 你 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的天何等明亮，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "榮 耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我看见人子在宝座上；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "心 充"
+          "segments": [
+            {
+              "chord": "",
+              "text": "圣别者，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "滿 了"
+          "segments": [
+            {
+              "chord": "",
+              "text": "以神的火焰烧我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你 榮"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直等我因你灼灼发亮！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "耀；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "浸 透 我， 主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 今 懇 切"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，当我初次"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "求 禱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "以 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "看见你荣耀，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "靈 與"
+          "segments": [
+            {
+              "chord": "",
+              "text": "自爱与夸耀同归羞惭；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "我 靈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今我心涌出爱戴与颂赞，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "永 相"
+          "segments": [
+            {
+              "chord": "",
+              "text": "品尝你名里一切肥甘。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "宝贝主，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "調。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我将真哪哒香膏，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "为你爱，欣然打破倾倒，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的主，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我前来膏你的头，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "看哪，主，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "为你我献上好。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "亲爱主，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我甘愿为你枉费，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱着你，我深处就满足。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "为着你，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "贵重油我早豫备，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "要将爱从心深处倒出。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "光照者─"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "良人哪，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我的天何等明亮，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "快来到香草山上，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我看见人子在宝座上；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我切慕与你早面对面。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "圣别者，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，请喝"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "以神的火焰烧我，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我心所流出之泉，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "直等我因你灼灼发亮！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我巴望永远在你身边。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "主，当我初次"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我并非单独的来爱你，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "看见你荣耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，乃是与"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "自爱与夸耀同归羞惭；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "众圣作你新妇；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "今我心涌出爱戴与颂赞，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "快来罢，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "品尝你名里一切肥甘。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们爱已经久等，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "宝贝主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我将真哪哒香膏，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为你爱，欣然打破倾倒，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我前来膏你的头，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "看哪，主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为你我献上好。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "亲爱主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我甘愿为你枉费，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱着你，我深处就满足。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为着你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "贵重油我早豫备，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "要将爱从心深处倒出。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "良人哪，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "快来到香草山上，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我切慕与你早面对面。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，请喝"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我心所流出之泉，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我巴望永远在你身边。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我并非单独的来爱你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，乃是与"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "众圣作你新妇；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "快来罢，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们爱已经久等，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主耶稣，愿意你得满足。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主耶稣，愿意你得满足。"
+            }
+          ]
         }
       ]
     }
@@ -466,7 +482,16 @@
   "metadata": {
     "category": "爱慕耶稣",
     "time": "4/4",
-    "hymn_code": "3211112332"
+    "hymn_code": "3211112332",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1159",
+        "language": "cn",
+        "category": "h",
+        "number": "1159",
+        "title": "E1159"
+      }
+    ]
   },
   "raw_sections": [
     "主 耶穌，",

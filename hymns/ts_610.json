@@ -1,352 +1,376 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/610",
   "title": "荣耀，荣耀，今看见",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "藉 主"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "藉 主"
+            },
+            {
+              "chord": "",
+              "text": "寶 血， 我 們"
+            },
+            {
+              "chord": "A7",
+              "text": "已 被"
+            },
+            {
+              "chord": "",
+              "text": "贖"
+            },
+            {
+              "chord": "D",
+              "text": "回。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "寶 血， 我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "藉 主 寶"
+            },
+            {
+              "chord": "A",
+              "text": "血， 我"
+            },
+            {
+              "chord": "",
+              "text": "們 已 被 贖"
+            },
+            {
+              "chord": "D",
+              "text": "回。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "已 被"
+          "segments": [
+            {
+              "chord": "",
+              "text": "藉"
+            },
+            {
+              "chord": "G",
+              "text": "主 寶"
+            },
+            {
+              "chord": "",
+              "text": "血， 我 們 已 被 贖 回。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "贖"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "榮 耀，"
+            },
+            {
+              "chord": "D",
+              "text": "榮 耀，"
+            },
+            {
+              "chord": "",
+              "text": "今 看"
+            },
+            {
+              "chord": "Bm",
+              "text": "見！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "回。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "藉 主 寶"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "罪 惡 全 得 赦 免，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "血， 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "全"
+            },
+            {
+              "chord": "A7",
+              "text": "得 赦"
+            },
+            {
+              "chord": "D",
+              "text": "免。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "蒙主拣选，我们都是祭司。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "們 已 被 贖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "蒙主拣选，我们都是祭司。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "回。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "藉"
+          "segments": [
+            {
+              "chord": "",
+              "text": "蒙主拣选，我们都是祭司。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "主 寶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀，荣耀，今看见！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "血， 我 們 已 被 贖 回。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "榮 耀，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们侍立在神面前，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "榮 耀，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在神面前。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在基督里，我们都是弟兄。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "今 看"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在基督里，我们都是弟兄。"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "見！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在基督里，我们都是弟兄。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "罪 惡 全 得 赦 免，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀，荣耀，今看见！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "得 赦"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在主爱里一同向前，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "免。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一同向前。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "蒙主拣选，我们都是祭司。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在基督里，我们都是姊妹。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在基督里，我们都是姊妹。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在基督里，我们都是姊妹。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀，荣耀，今看见！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在主爱里一同向前，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "一同向前。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "蒙主拣选，我们都是祭司。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "弟兄姊妹，我们彼此相爱。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "弟兄姊妹，我们彼此相爱。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "弟兄姊妹，我们彼此相爱。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀，荣耀，今看见！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "‘非拉铁非’在此出现，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在此出现。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "蒙主拣选，我们都是祭司。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们站住地方一的立场。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "荣耀，荣耀，今看见！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们站住地方一的立场。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我们侍立在神面前，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们站住地方一的立场。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在神面前。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀，荣耀，今看见！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在基督里，我们都是弟兄。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "主的恢复完全实现，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在基督里，我们都是弟兄。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在基督里，我们都是弟兄。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀，荣耀，今看见！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在主爱里一同向前，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一同向前。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在基督里，我们都是姊妹。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在基督里，我们都是姊妹。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在基督里，我们都是姊妹。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀，荣耀，今看见！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在主爱里一同向前，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一同向前。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "弟兄姊妹，我们彼此相爱。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "弟兄姊妹，我们彼此相爱。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "弟兄姊妹，我们彼此相爱。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀，荣耀，今看见！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "‘非拉铁非’在此出现，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在此出现。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们站住地方一的立场。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们站住地方一的立场。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们站住地方一的立场。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀，荣耀，今看见！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主的恢复完全实现，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "完全实现。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "完全实现。"
+            }
+          ]
         }
       ]
     }

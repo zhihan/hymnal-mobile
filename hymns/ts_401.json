@@ -1,224 +1,244 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/401",
   "title": "生命之主向我吹气",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Dm",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "之 主，"
+            },
+            {
+              "chord": "Am",
+              "text": "向 我"
+            },
+            {
+              "chord": "",
+              "text": "吹"
+            },
+            {
+              "chord": "Dm",
+              "text": "氣，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "之 主，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "將 你 活 泉"
+            },
+            {
+              "chord": "F",
+              "text": "向 我"
+            },
+            {
+              "chord": "G",
+              "text": "開"
+            },
+            {
+              "chord": "A7",
+              "text": "啟，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "向 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "從"
+            },
+            {
+              "chord": "Dm",
+              "text": "我 裡"
+            },
+            {
+              "chord": "F",
+              "text": "面 將"
+            },
+            {
+              "chord": "",
+              "text": "我 推"
+            },
+            {
+              "chord": "C",
+              "text": "動，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "吹"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "生 命"
+            },
+            {
+              "chord": "Gm",
+              "text": "之 光"
+            },
+            {
+              "chord": "Am",
+              "text": "照 我"
+            },
+            {
+              "chord": "",
+              "text": "心"
+            },
+            {
+              "chord": "Dm",
+              "text": "中。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，何希奇，你在我里，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "氣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "將 你 活 泉"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不必天上阴间寻你，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "向 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一回灵里就得见你，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "開"
+          "segments": [
+            {
+              "chord": "",
+              "text": "灵灵接触毫无距离。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你是我的在天中保，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "啟，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "從"
+          "segments": [
+            {
+              "chord": "",
+              "text": "又是我的灵中恩膏；"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "我 裡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "凡你神前为我所作，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "面 將"
+          "segments": [
+            {
+              "chord": "",
+              "text": "都在我灵给我摸着。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "但是我心何等不忠，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 推"
+          "segments": [
+            {
+              "chord": "",
+              "text": "常虽深感仍不顺从；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "動，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Dm",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "求主眷怜、吹气、推动，"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "之 光"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我全人都尽功用。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "当我灵里憋气，下沉，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "照 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "难将你恩向人言陈，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "心"
+          "segments": [
+            {
+              "chord": "",
+              "text": "求你从我里面吹气，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "中。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，何希奇，你在我里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不必天上阴间寻你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一回灵里就得见你，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "灵灵接触毫无距离。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你是我的在天中保，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "又是我的灵中恩膏；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "凡你神前为我所作，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "都在我灵给我摸着。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但是我心何等不忠，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "常虽深感仍不顺从；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "求主眷怜、吹气、推动，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我全人都尽功用。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当我灵里憋气，下沉，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "难将你恩向人言陈，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "求你从我里面吹气，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我完全充满了你。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我完全充满了你。"
+            }
+          ]
         }
       ]
     }

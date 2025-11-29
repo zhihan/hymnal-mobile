@@ -1,192 +1,208 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/704",
   "title": "你如今活在召会里",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Dm",
-          "text": "你 如"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "你 如"
+            },
+            {
+              "chord": "",
+              "text": "今 活"
+            },
+            {
+              "chord": "Am",
+              "text": "在 召"
+            },
+            {
+              "chord": "",
+              "text": "會"
+            },
+            {
+              "chord": "Dm",
+              "text": "裡，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "今 活"
+          "segments": [
+            {
+              "chord": "",
+              "text": "豈 不 令 你"
+            },
+            {
+              "chord": "F",
+              "text": "歡 天"
+            },
+            {
+              "chord": "G",
+              "text": "喜"
+            },
+            {
+              "chord": "A7",
+              "text": "地！？"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "在 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "讚"
+            },
+            {
+              "chord": "Dm",
+              "text": "美 主，"
+            },
+            {
+              "chord": "F",
+              "text": "實 在"
+            },
+            {
+              "chord": "",
+              "text": "是 榮"
+            },
+            {
+              "chord": "C",
+              "text": "耀，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "會"
-        },
-        {
-          "chord": "Dm",
-          "text": "裡，"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "我 們"
+            },
+            {
+              "chord": "Gm",
+              "text": "終 於"
+            },
+            {
+              "chord": "Am",
+              "text": "找 著"
+            },
+            {
+              "chord": "",
+              "text": "目"
+            },
+            {
+              "chord": "Dm",
+              "text": "標。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "豈 不 令 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从此不再寻寻觅觅，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "歡 天"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们已经回到家里。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "喜"
+          "segments": [
+            {
+              "chord": "",
+              "text": "弟兄们和睦的同居，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "地！？"
+          "segments": [
+            {
+              "chord": "",
+              "text": "真正天伦之乐无比！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "讚"
+          "segments": [
+            {
+              "chord": "",
+              "text": "这是神拣选的地方，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "美 主，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神荣脸得以常瞻仰；"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "實 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神的名是摆在这里，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "是 榮"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你住些时，就不一样。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，别无拣选─"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Dm",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从听见祂声音那天。"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "終 於"
+          "segments": [
+            {
+              "chord": "",
+              "text": "自深处我们说：‘阿们，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "找 著"
-        },
-        {
-          "chord": "",
-          "text": "目"
-        },
-        {
-          "chord": "Dm",
-          "text": "標。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从此不再寻寻觅觅，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们已经回到家里。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "弟兄们和睦的同居，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "真正天伦之乐无比！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "这是神拣选的地方，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神荣脸得以常瞻仰；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神的名是摆在这里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你住些时，就不一样。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚，别无拣选─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从听见祂声音那天。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自深处我们说：‘阿们，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们乐意，投身其间。’"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们乐意，投身其间。’"
+            }
+          ]
         }
       ]
     }
@@ -194,7 +210,16 @@
   "metadata": {
     "category": "教会的生活",
     "time": "3/4",
-    "hymn_code": "6633717635653423"
+    "hymn_code": "6633717635653423",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6704",
+        "language": "cn",
+        "category": "h",
+        "number": "6704",
+        "title": "E6704"
+      }
+    ]
   },
   "raw_sections": [
     "你 如今 活在 召會裡，",

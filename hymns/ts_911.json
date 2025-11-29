@@ -1,356 +1,380 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/911",
   "title": "作初熟的果子",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A",
-          "text": "時 候"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "時 候"
+            },
+            {
+              "chord": "",
+              "text": "快 要 到 了，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "快 要 到 了，"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "主 要"
+            },
+            {
+              "chord": "",
+              "text": "醡"
+            },
+            {
+              "chord": "A",
+              "text": "葡 萄！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "E",
+              "text": "吸 滿"
+            },
+            {
+              "chord": "",
+              "text": "地"
+            },
+            {
+              "chord": "F♯m",
+              "text": "汁， 滴"
+            },
+            {
+              "chord": "",
+              "text": "滴"
+            },
+            {
+              "chord": "B7",
+              "text": "都 要"
+            },
+            {
+              "chord": "",
+              "text": "醡"
+            },
+            {
+              "chord": "E",
+              "text": "出！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "主 是"
+            },
+            {
+              "chord": "",
+              "text": "一 無 所 有，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "如 根"
+            },
+            {
+              "chord": "",
+              "text": "出"
+            },
+            {
+              "chord": "A",
+              "text": "乾 地，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "E",
+              "text": "你 怎"
+            },
+            {
+              "chord": "",
+              "text": "能"
+            },
+            {
+              "chord": "F♯m",
+              "text": "彀 與"
+            },
+            {
+              "chord": "",
+              "text": "『地』"
+            },
+            {
+              "chord": "Bm",
+              "text": "這"
+            },
+            {
+              "chord": "E7",
+              "text": "麼 親"
+            },
+            {
+              "chord": "A",
+              "text": "密？"
+            },
+            {
+              "chord": "E",
+              "text": "快 起"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "主 要"
+          "segments": [
+            {
+              "chord": "",
+              "text": "來"
+            },
+            {
+              "chord": "A",
+              "text": "脫 離"
+            },
+            {
+              "chord": "",
+              "text": "『地』，"
+            },
+            {
+              "chord": "E",
+              "text": "快 搶"
+            },
+            {
+              "chord": "",
+              "text": "救"
+            },
+            {
+              "chord": "A",
+              "text": "自"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "醡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "己，"
+            },
+            {
+              "chord": "D",
+              "text": "作 初"
+            },
+            {
+              "chord": "",
+              "text": "熟"
+            },
+            {
+              "chord": "A",
+              "text": "的"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "葡 萄！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "果 子，"
+            },
+            {
+              "chord": "Bm",
+              "text": "歸"
+            },
+            {
+              "chord": "E7",
+              "text": "神 與"
+            },
+            {
+              "chord": "A",
+              "text": "主。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "E",
-          "text": "吸 滿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "时候快要满足，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "地"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主要收麦子！"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "汁， 滴"
+          "segments": [
+            {
+              "chord": "",
+              "text": "麦子要熟，需断‘地’的享受；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "滴"
+          "segments": [
+            {
+              "chord": "",
+              "text": "它的里头饱满，"
+            }
+          ]
         },
         {
-          "chord": "B7",
-          "text": "都 要"
+          "segments": [
+            {
+              "chord": "",
+              "text": "外面却枯干；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "醡"
-        },
-        {
-          "chord": "E",
-          "text": "出！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主作一切，就不需要世界。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A",
-          "text": "主 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "快起来脱离‘地’，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "一 無 所 有，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "如 根"
+          "segments": [
+            {
+              "chord": "",
+              "text": "快抢救自己，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "出"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作初熟的果子，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "乾 地，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "归神与主。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "E",
-          "text": "你 怎"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作初熟的果子，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "能"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是何等有福！"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "彀 與"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得享婚筵，又得同掌王权！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "『地』"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不要等待世界"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "這"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来把你对付，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "麼 親"
+          "segments": [
+            {
+              "chord": "",
+              "text": "趁有今日，自动丢弃粪土。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "快起来脱离‘地’，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "密？"
+          "segments": [
+            {
+              "chord": "",
+              "text": "快抢救自己，"
+            }
+          ]
         },
         {
-          "chord": "E",
-          "text": "快 起"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作初熟的果子，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "脫 離"
-        },
-        {
-          "chord": "",
-          "text": "『地』，"
-        },
-        {
-          "chord": "E",
-          "text": "快 搶"
-        },
-        {
-          "chord": "",
-          "text": "救"
-        },
-        {
-          "chord": "A",
-          "text": "自"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "己，"
-        },
-        {
-          "chord": "D",
-          "text": "作 初"
-        },
-        {
-          "chord": "",
-          "text": "熟"
-        },
-        {
-          "chord": "A",
-          "text": "的"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "果 子，"
-        },
-        {
-          "chord": "Bm",
-          "text": "歸"
-        },
-        {
-          "chord": "E7",
-          "text": "神 與"
-        },
-        {
-          "chord": "A",
-          "text": "主。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "时候快要满足，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主要收麦子！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "麦子要熟，需断‘地’的享受；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "它的里头饱满，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "外面却枯干；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主作一切，就不需要世界。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "快起来脱离‘地’，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "快抢救自己，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作初熟的果子，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "归神与主。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作初熟的果子，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是何等有福！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得享婚筵，又得同掌王权！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不要等待世界"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来把你对付，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "趁有今日，自动丢弃粪土。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "快起来脱离‘地’，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "快抢救自己，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作初熟的果子，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "归神与主。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "归神与主。"
+            }
+          ]
         }
       ]
     }

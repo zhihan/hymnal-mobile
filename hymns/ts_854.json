@@ -1,328 +1,352 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/854",
   "title": "洗罪之泉何其深广",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "洗 罪"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "洗 罪"
+            },
+            {
+              "chord": "",
+              "text": "之 泉 何"
+            },
+            {
+              "chord": "G",
+              "text": "其 深"
+            },
+            {
+              "chord": "",
+              "text": "廣，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "之 泉 何"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "湧"
+            },
+            {
+              "chord": "D",
+              "text": "自 耶"
+            },
+            {
+              "chord": "Bm",
+              "text": "穌"
+            },
+            {
+              "chord": "D",
+              "text": "肋"
+            },
+            {
+              "chord": "Em",
+              "text": "旁！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "其 深"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "大"
+            },
+            {
+              "chord": "D",
+              "text": "能 救"
+            },
+            {
+              "chord": "",
+              "text": "主 為"
+            },
+            {
+              "chord": "G",
+              "text": "我 受"
+            },
+            {
+              "chord": "",
+              "text": "戕，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "廣，"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "將"
+            },
+            {
+              "chord": "D",
+              "text": "我 罪"
+            },
+            {
+              "chord": "",
+              "text": "債"
+            },
+            {
+              "chord": "A7",
+              "text": "清"
+            },
+            {
+              "chord": "D",
+              "text": "償。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Em",
-          "text": "湧"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "G",
+              "text": "見 血"
+            },
+            {
+              "chord": "",
+              "text": "泉 流"
+            },
+            {
+              "chord": "D",
+              "text": "自 加"
+            },
+            {
+              "chord": "",
+              "text": "畧，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "自 耶"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "立"
+            },
+            {
+              "chord": "Em",
+              "text": "投 此"
+            },
+            {
+              "chord": "",
+              "text": "泉，"
+            },
+            {
+              "chord": "A7",
+              "text": "使"
+            },
+            {
+              "chord": "D",
+              "text": "罪 得"
+            },
+            {
+              "chord": "",
+              "text": "潔！"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "穌"
+          "segments": [
+            {
+              "chord": "",
+              "text": "讚"
+            },
+            {
+              "chord": "G",
+              "text": "美 救"
+            },
+            {
+              "chord": "",
+              "text": "主 為"
+            },
+            {
+              "chord": "D",
+              "text": "我 流"
+            },
+            {
+              "chord": "Bm",
+              "text": "血，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "肋"
-        },
-        {
-          "chord": "Em",
-          "text": "旁！"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "罪"
+            },
+            {
+              "chord": "Em",
+              "text": "魁 如"
+            },
+            {
+              "chord": "",
+              "text": "我，"
+            },
+            {
+              "chord": "A7",
+              "text": "竟"
+            },
+            {
+              "chord": "G",
+              "text": "也 得"
+            },
+            {
+              "chord": "D",
+              "text": "潔！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A7",
-          "text": "大"
+          "segments": [
+            {
+              "chord": "",
+              "text": "复活救主，我得看见，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "能 救"
+          "segments": [
+            {
+              "chord": "",
+              "text": "听祂美言甘甜；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "主 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "更美之血为我美言，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "我 受"
-        },
-        {
-          "chord": "",
-          "text": "戕，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我灵苏醒、感赞。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Em",
-          "text": "將"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我见血泉流自加略，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我 罪"
+          "segments": [
+            {
+              "chord": "",
+              "text": "立投此泉，使罪得洁！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "債"
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美救主为我流血，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "清"
-        },
-        {
-          "chord": "D",
-          "text": "償。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "罪魁如我，竟也得洁！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神前行走，光明无比，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "見 血"
+          "segments": [
+            {
+              "chord": "",
+              "text": "世俗罪污远离；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "泉 流"
+          "segments": [
+            {
+              "chord": "",
+              "text": "内得新心，外有白衣，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "自 加"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督居衷登极。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我见血泉流自加略，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "畧，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Bm",
-          "text": "立"
+          "segments": [
+            {
+              "chord": "",
+              "text": "立投此泉，使罪得洁！"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "投 此"
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美救主为我流血，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "泉，"
-        },
-        {
-          "chord": "A7",
-          "text": "使"
-        },
-        {
-          "chord": "D",
-          "text": "罪 得"
-        },
-        {
-          "chord": "",
-          "text": "潔！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "讚"
-        },
-        {
-          "chord": "G",
-          "text": "美 救"
-        },
-        {
-          "chord": "",
-          "text": "主 為"
-        },
-        {
-          "chord": "D",
-          "text": "我 流"
-        },
-        {
-          "chord": "Bm",
-          "text": "血，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "罪"
-        },
-        {
-          "chord": "Em",
-          "text": "魁 如"
-        },
-        {
-          "chord": "",
-          "text": "我，"
-        },
-        {
-          "chord": "A7",
-          "text": "竟"
-        },
-        {
-          "chord": "G",
-          "text": "也 得"
-        },
-        {
-          "chord": "D",
-          "text": "潔！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "复活救主，我得看见，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "听祂美言甘甜；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "更美之血为我美言，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我灵苏醒、感赞。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我见血泉流自加略，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "立投此泉，使罪得洁！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞美救主为我流血，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "罪魁如我，竟也得洁！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神前行走，光明无比，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "世俗罪污远离；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "内得新心，外有白衣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督居衷登极。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我见血泉流自加略，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "立投此泉，使罪得洁！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞美救主为我流血，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "罪魁如我，竟也得洁！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "罪魁如我，竟也得洁！"
+            }
+          ]
         }
       ]
     }
@@ -330,7 +354,16 @@
   "metadata": {
     "category": "事奉与福音",
     "time": "3/2",
-    "hymn_code": "13531611665532"
+    "hymn_code": "13531611665532",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1010",
+        "language": "cn",
+        "category": "h",
+        "number": "1010",
+        "title": "E1010"
+      }
+    ]
   },
   "raw_sections": [
     "洗 罪之 泉 何其 深廣，",

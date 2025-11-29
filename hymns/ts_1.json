@@ -1,336 +1,352 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/1",
   "title": "开口赞美",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "當 我"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "當 我"
+            },
+            {
+              "chord": "",
+              "text": "們 開 口"
+            },
+            {
+              "chord": "D",
+              "text": "讚"
+            },
+            {
+              "chord": "D7",
+              "text": "美，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "們 開 口"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主"
+            },
+            {
+              "chord": "G",
+              "text": "就 得"
+            },
+            {
+              "chord": "",
+              "text": "著 榮"
+            },
+            {
+              "chord": "D",
+              "text": "耀；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "讚"
+          "segments": [
+            {
+              "chord": "",
+              "text": "當"
+            },
+            {
+              "chord": "G",
+              "text": "歡 聲"
+            },
+            {
+              "chord": "G7",
+              "text": "響 徹"
+            },
+            {
+              "chord": "C",
+              "text": "雲 霄，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "美，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天"
+            },
+            {
+              "chord": "D",
+              "text": "使 拍"
+            },
+            {
+              "chord": "D7",
+              "text": "手 叫"
+            },
+            {
+              "chord": "G",
+              "text": "好！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "就 得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們 是 活 神"
+            },
+            {
+              "chord": "D",
+              "text": "見 證，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "著 榮"
+          "segments": [
+            {
+              "chord": "",
+              "text": "該 讓 世 人 知"
+            },
+            {
+              "chord": "G",
+              "text": "道；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "耀；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "當"
+          "segments": [
+            {
+              "chord": "",
+              "text": "撒 但 全"
+            },
+            {
+              "chord": "G7",
+              "text": "軍 必"
+            },
+            {
+              "chord": "C",
+              "text": "潰 散，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "歡 聲"
+          "segments": [
+            {
+              "chord": "",
+              "text": "聞"
+            },
+            {
+              "chord": "G",
+              "text": "聲 四"
+            },
+            {
+              "chord": "D7",
+              "text": "處 竄"
+            },
+            {
+              "chord": "G",
+              "text": "逃。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们闭口就失败，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "響 徹"
+          "segments": [
+            {
+              "chord": "",
+              "text": "换来魔鬼嘲笑；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "雲 霄，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因此为何不开火，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "使 拍"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到把他赶跑？"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "手 叫"
+          "segments": [
+            {
+              "chord": "",
+              "text": "以‘赞美为祭’献上，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "好！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們 是 活 神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "大大欢呼释放，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "見 證，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "該 讓 世 人 知"
+          "segments": [
+            {
+              "chord": "",
+              "text": "怎能说这是丢脸？"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "道；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为神应该发狂！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "撒 但 全"
+          "segments": [
+            {
+              "chord": "",
+              "text": "世界从未助我们"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "軍 必"
+          "segments": [
+            {
+              "chord": "",
+              "text": "向主献赞美祭，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "潰 散，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "聞"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从未向祂归荣耀，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "聲 四"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从未向祂感激。"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "處 竄"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因此我们岂需要，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "逃。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得允许而赞美？"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "喊出！释放你的灵！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂赐无限恩惠。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我们闭口就失败，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "弟兄们，不要静默！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "换来魔鬼嘲笑；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "姊妹们，大声喊！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "因此为何不开火，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "将神的得胜祝福，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "直到把他赶跑？"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "传遍远近四方。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "以‘赞美为祭’献上，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "现在是赞美之时，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "大大欢呼释放，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "任何代价不顾！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "怎能说这是丢脸？"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "因祂救恩而喜乐，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "为神应该发狂！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "世界从未助我们"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向主献赞美祭，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从未向祂归荣耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从未向祂感激。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因此我们岂需要，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得允许而赞美？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "喊出！释放你的灵！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂赐无限恩惠。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "弟兄们，不要静默！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "姊妹们，大声喊！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将神的得胜祝福，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "传遍远近四方。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "现在是赞美之时，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "任何代价不顾！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因祂救恩而喜乐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因祂怜悯欢呼！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因祂怜悯欢呼！"
+            }
+          ]
         }
       ]
     }
@@ -338,7 +354,16 @@
   "metadata": {
     "category": "赞美的话",
     "time": "4/4",
-    "hymn_code": "5565117711432"
+    "hymn_code": "5565117711432",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1095",
+        "language": "cn",
+        "category": "h",
+        "number": "1095",
+        "title": "E1095"
+      }
+    ]
   },
   "raw_sections": [
     "當 我們 開 口讚美，",

@@ -1,200 +1,216 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/439",
   "title": "神的大爱将我围困",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "神 阿，"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "神 阿，"
+            },
+            {
+              "chord": "",
+              "text": "你 的 大"
+            },
+            {
+              "chord": "A",
+              "text": "愛 將"
+            },
+            {
+              "chord": "A7",
+              "text": "我 圍"
+            },
+            {
+              "chord": "D",
+              "text": "困，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你 的 大"
+          "segments": [
+            {
+              "chord": "",
+              "text": "有 如 強 潮 澎"
+            },
+            {
+              "chord": "E7",
+              "text": "湃 迫"
+            },
+            {
+              "chord": "",
+              "text": "我 而"
+            },
+            {
+              "chord": "A",
+              "text": "來；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "愛 將"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "不 再"
+            },
+            {
+              "chord": "",
+              "text": "自 縛， 全"
+            },
+            {
+              "chord": "G",
+              "text": "人 歡"
+            },
+            {
+              "chord": "",
+              "text": "然 投"
+            },
+            {
+              "chord": "D",
+              "text": "順，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "我 圍"
-        },
-        {
-          "chord": "D",
-          "text": "困，"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "好 讓"
+            },
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "D",
+              "text": "愛 流"
+            },
+            {
+              "chord": "",
+              "text": "過， 毫"
+            },
+            {
+              "chord": "A",
+              "text": "無"
+            },
+            {
+              "chord": "A7",
+              "text": "阻"
+            },
+            {
+              "chord": "D",
+              "text": "礙。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "有 如 強 潮 澎"
+          "segments": [
+            {
+              "chord": "",
+              "text": "困迫之爱，大能有谁能档？"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "湃 迫"
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱潮汹涌，我岂能再顽固？"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 而"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我神，你的恩慈有谁能抗？"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "來；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我今投诚不再依然如故。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "不 再"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天上之爱攻破我的天然，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "自 縛， 全"
+          "segments": [
+            {
+              "chord": "",
+              "text": "修直心思、意念所有途径，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "人 歡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "漫溢我情，纯净所有意愿，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "然 投"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使你纯洁生命流通不停。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "如此，我神在我居衷掌权，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "順，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "好 讓"
+          "segments": [
+            {
+              "chord": "",
+              "text": "恩典带爱缓缓涌自心怀；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "恩爱江河从今流到永远，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "愛 流"
-        },
-        {
-          "chord": "",
-          "text": "過， 毫"
-        },
-        {
-          "chord": "A",
-          "text": "無"
-        },
-        {
-          "chord": "A7",
-          "text": "阻"
-        },
-        {
-          "chord": "D",
-          "text": "礙。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "困迫之爱，大能有谁能档？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱潮汹涌，我岂能再顽固？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我神，你的恩慈有谁能抗？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我今投诚不再依然如故。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天上之爱攻破我的天然，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "修直心思、意念所有途径，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "漫溢我情，纯净所有意愿，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使你纯洁生命流通不停。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如此，我神在我居衷掌权，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "恩典带爱缓缓涌自心怀；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "恩爱江河从今流到永远，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "能爱，是因满享我神大爱。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "能爱，是因满享我神大爱。"
+            }
+          ]
         }
       ]
     }
@@ -202,7 +218,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "4/4",
-    "hymn_code": "3231123453"
+    "hymn_code": "3231123453",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/431",
+        "language": "cn",
+        "category": "h",
+        "number": "431",
+        "title": "E431"
+      }
+    ]
   },
   "raw_sections": [
     "神 阿，你 的 大愛 將我 圍困，",

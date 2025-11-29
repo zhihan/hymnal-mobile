@@ -1,212 +1,216 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/722",
   "title": "何等的享受",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "何 等"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "何 等"
+            },
+            {
+              "chord": "",
+              "text": "的 享 受，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 享 受，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 活 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 活 在"
+            },
+            {
+              "chord": "C",
+              "text": "祂 家"
+            },
+            {
+              "chord": "",
+              "text": "中，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "祂 家"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "召 會"
+            },
+            {
+              "chord": "",
+              "text": "生 活"
+            },
+            {
+              "chord": "C",
+              "text": "何 等"
+            },
+            {
+              "chord": "",
+              "text": "甘"
+            },
+            {
+              "chord": "D",
+              "text": "甜。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "召 會"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "呼 吸"
+            },
+            {
+              "chord": "",
+              "text": "祂 的 聖 名，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "生 活"
+          "segments": [
+            {
+              "chord": "",
+              "text": "喫 喝"
+            },
+            {
+              "chord": "C",
+              "text": "祂 話"
+            },
+            {
+              "chord": "",
+              "text": "語，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "何 等"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "為 著"
+            },
+            {
+              "chord": "",
+              "text": "祂 的"
+            },
+            {
+              "chord": "D7",
+              "text": "榮 耀"
+            },
+            {
+              "chord": "",
+              "text": "恢"
+            },
+            {
+              "chord": "G",
+              "text": "復。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "甘"
+          "segments": [
+            {
+              "chord": "",
+              "text": "行 走， 我 們 今 行 走"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "甜。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "呼 吸"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在"
+            },
+            {
+              "chord": "C",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "的 光 中，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "祂 的 聖 名，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "喫 喝"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "生 活，"
+            },
+            {
+              "chord": "",
+              "text": "我 們 是 生 活 在"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "祂 話"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "神 的"
+            },
+            {
+              "chord": "",
+              "text": "召 會"
+            },
+            {
+              "chord": "D",
+              "text": "中。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "語，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "為 著"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "祂 愛"
+            },
+            {
+              "chord": "",
+              "text": "保 守 我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "祂 的"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "祂 光"
+            },
+            {
+              "chord": "",
+              "text": "照 亮"
+            },
+            {
+              "chord": "G",
+              "text": "我，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "榮 耀"
-        },
-        {
-          "chord": "",
-          "text": "恢"
-        },
-        {
-          "chord": "G",
-          "text": "復。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "行 走， 我 們 今 行 走"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在"
-        },
-        {
-          "chord": "C",
-          "text": "生 命"
-        },
-        {
-          "chord": "",
-          "text": "的 光 中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "生 活，"
-        },
-        {
-          "chord": "",
-          "text": "我 們 是 生 活 在"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "神 的"
-        },
-        {
-          "chord": "",
-          "text": "召 會"
-        },
-        {
-          "chord": "D",
-          "text": "中。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "祂 愛"
-        },
-        {
-          "chord": "",
-          "text": "保 守 我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "祂 光"
-        },
-        {
-          "chord": "",
-          "text": "照 亮"
-        },
-        {
-          "chord": "G",
-          "text": "我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "肢 體"
-        },
-        {
-          "chord": "",
-          "text": "相 愛"
-        },
-        {
-          "chord": "D7",
-          "text": "一 同"
-        },
-        {
-          "chord": "",
-          "text": "被 建"
-        },
-        {
-          "chord": "G",
-          "text": "造。"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "肢 體"
+            },
+            {
+              "chord": "",
+              "text": "相 愛"
+            },
+            {
+              "chord": "D7",
+              "text": "一 同"
+            },
+            {
+              "chord": "",
+              "text": "被 建"
+            },
+            {
+              "chord": "G",
+              "text": "造。"
+            }
+          ]
         }
       ]
     }
@@ -214,7 +218,16 @@
   "metadata": {
     "category": "教会的生活",
     "time": "4/4",
-    "hymn_code": "32123555611"
+    "hymn_code": "32123555611",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/737",
+        "language": "cn",
+        "category": "ns",
+        "number": "737",
+        "title": "NS737"
+      }
+    ]
   },
   "raw_sections": [
     "何 等的 享 受，",

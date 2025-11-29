@@ -1,172 +1,176 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/403",
   "title": "主耶稣！我渴慕摸着你",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "主 耶"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "主 耶"
+            },
+            {
+              "chord": "G7",
+              "text": "穌！"
+            },
+            {
+              "chord": "C",
+              "text": "主 耶"
+            },
+            {
+              "chord": "Cm",
+              "text": "穌！"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "穌！"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我 渴"
+            },
+            {
+              "chord": "Em",
+              "text": "慕 摸"
+            },
+            {
+              "chord": "Am7",
+              "text": "著"
+            },
+            {
+              "chord": "D7",
+              "text": "你！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "主 耶"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "多 又"
+            },
+            {
+              "chord": "G7",
+              "text": "多，"
+            },
+            {
+              "chord": "C",
+              "text": "多 又"
+            },
+            {
+              "chord": "Cm",
+              "text": "多，"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "穌！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "我 渴"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "你 長"
+            },
+            {
+              "chord": "D7",
+              "text": "大 在"
+            },
+            {
+              "chord": "C",
+              "text": "我"
+            },
+            {
+              "chord": "G",
+              "text": "裡。"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "慕 摸"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "願 你"
+            },
+            {
+              "chord": "",
+              "text": "的"
+            },
+            {
+              "chord": "D7",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "不"
+            },
+            {
+              "chord": "G",
+              "text": "斷 成"
+            },
+            {
+              "chord": "G7",
+              "text": "長，"
+            }
+          ]
         },
         {
-          "chord": "Am7",
-          "text": "著"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "『榮 耀"
+            },
+            {
+              "chord": "A7",
+              "text": "之 花』"
+            },
+            {
+              "chord": "D",
+              "text": "盛"
+            },
+            {
+              "chord": "D7",
+              "text": "放！"
+            },
+            {
+              "chord": "G",
+              "text": "叫 世"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "你！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "多 又"
+          "segments": [
+            {
+              "chord": "G7",
+              "text": "人"
+            },
+            {
+              "chord": "C",
+              "text": "看 見"
+            },
+            {
+              "chord": "Cm",
+              "text": "你"
+            },
+            {
+              "chord": "G",
+              "text": "顯 在"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "多，"
-        },
-        {
-          "chord": "C",
-          "text": "多 又"
-        },
-        {
-          "chord": "Cm",
-          "text": "多，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "你 長"
-        },
-        {
-          "chord": "D7",
-          "text": "大 在"
-        },
-        {
-          "chord": "C",
-          "text": "我"
-        },
-        {
-          "chord": "G",
-          "text": "裡。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "願 你"
-        },
-        {
-          "chord": "",
-          "text": "的"
-        },
-        {
-          "chord": "D7",
-          "text": "生 命"
-        },
-        {
-          "chord": "",
-          "text": "不"
-        },
-        {
-          "chord": "G",
-          "text": "斷 成"
-        },
-        {
-          "chord": "G7",
-          "text": "長，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "『榮 耀"
-        },
-        {
-          "chord": "A7",
-          "text": "之 花』"
-        },
-        {
-          "chord": "D",
-          "text": "盛"
-        },
-        {
-          "chord": "D7",
-          "text": "放！"
-        },
-        {
-          "chord": "G",
-          "text": "叫 世"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G7",
-          "text": "人"
-        },
-        {
-          "chord": "C",
-          "text": "看 見"
-        },
-        {
-          "chord": "Cm",
-          "text": "你"
-        },
-        {
-          "chord": "G",
-          "text": "顯 在"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "我 的"
-        },
-        {
-          "chord": "C",
-          "text": "身"
-        },
-        {
-          "chord": "G",
-          "text": "上。"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "我 的"
+            },
+            {
+              "chord": "C",
+              "text": "身"
+            },
+            {
+              "chord": "G",
+              "text": "上。"
+            }
+          ]
         }
       ]
     }
@@ -174,7 +178,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "3/4",
-    "hymn_code": "3521543334565"
+    "hymn_code": "3521543334565",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/200",
+        "language": "cn",
+        "category": "ns",
+        "number": "200",
+        "title": "NS200"
+      }
+    ]
   },
   "raw_sections": [
     "主 耶穌！主 耶穌！",

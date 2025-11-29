@@ -1,360 +1,376 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/759",
   "title": "在复活里聚集",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A",
-          "text": "當 主"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "當 主"
+            },
+            {
+              "chord": "D",
+              "text": "在 地"
+            },
+            {
+              "chord": "A7",
+              "text": "與 人"
+            },
+            {
+              "chord": "D",
+              "text": "同 聚，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "在 地"
+          "segments": [
+            {
+              "chord": "",
+              "text": "宗 教、"
+            },
+            {
+              "chord": "Em",
+              "text": "老 套"
+            },
+            {
+              "chord": "",
+              "text": "全 撇"
+            },
+            {
+              "chord": "A",
+              "text": "棄；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "與 人"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "我 們"
+            },
+            {
+              "chord": "D",
+              "text": "今 日"
+            },
+            {
+              "chord": "G",
+              "text": "主 裏"
+            },
+            {
+              "chord": "F♯m",
+              "text": "聚 集，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "同 聚，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "宗 教、"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "儀 文"
+            },
+            {
+              "chord": "G",
+              "text": "豈 可"
+            },
+            {
+              "chord": "A7",
+              "text": "再 憑"
+            },
+            {
+              "chord": "D",
+              "text": "倚？"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "老 套"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "哦， 讓"
+            },
+            {
+              "chord": "D",
+              "text": "我 們"
+            },
+            {
+              "chord": "G",
+              "text": "在 復"
+            },
+            {
+              "chord": "D",
+              "text": "活 裏，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "全 撇"
+          "segments": [
+            {
+              "chord": "",
+              "text": "以 主"
+            },
+            {
+              "chord": "A",
+              "text": "基 督"
+            },
+            {
+              "chord": "E7",
+              "text": "為 實"
+            },
+            {
+              "chord": "A",
+              "text": "際，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "棄；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "每 逢"
+            },
+            {
+              "chord": "D",
+              "text": "聚 集"
+            },
+            {
+              "chord": "A7",
+              "text": "都 是"
+            },
+            {
+              "chord": "D",
+              "text": "新 樣，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "今 日"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "死 沉、"
+            },
+            {
+              "chord": "D",
+              "text": "虛 儀"
+            },
+            {
+              "chord": "",
+              "text": "無"
+            },
+            {
+              "chord": "A7",
+              "text": "蹤"
+            },
+            {
+              "chord": "G",
+              "text": "迹。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主已复活，桎梏全除，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "主 裏"
+          "segments": [
+            {
+              "chord": "",
+              "text": "宗教事物已过时；"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "聚 集，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Bm",
-          "text": "儀 文"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是活殿，是真供物，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "豈 可"
+          "segments": [
+            {
+              "chord": "",
+              "text": "凭祂敬拜才真实。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "再 憑"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，同主复活，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "倚？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "哦， 讓"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何等释放，何超脱！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "聚集过节，享受盛筵，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "在 復"
+          "segments": [
+            {
+              "chord": "",
+              "text": "贫穷、老旧都消没。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "唉呀！宗教何其狡猾，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "活 裏，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "以 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "堕落血轮中藏着；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "基 督"
+          "segments": [
+            {
+              "chord": "",
+              "text": "求主启示，大光照亮，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "為 實"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使那，恶魔无处躲。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "際，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "每 逢"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，救我脱离宗教，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "聚 集"
+          "segments": [
+            {
+              "chord": "",
+              "text": "脱开魂中的囚牢；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "都 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "每逢聚集将灵释放，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "新 樣，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "满足神、人的需要。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "死 沉、"
+          "segments": [
+            {
+              "chord": "",
+              "text": "山上、海边，处处可聚，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "虛 儀"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主作实际当持守；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "無"
+          "segments": [
+            {
+              "chord": "",
+              "text": "活的基督，我们至爱，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "蹤"
+          "segments": [
+            {
+              "chord": "",
+              "text": "有祂同在复何求？"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "迹。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "埋葬宗教，除去老旧，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "主已复活，桎梏全除，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "灵中新样神所宝；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "宗教事物已过时；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "非\"基督教，\"乃是基督，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "祂是活殿，是真供物，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "凭祂敬拜才真实。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚，同主复活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何等释放，何超脱！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "聚集过节，享受盛筵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "贫穷、老旧都消没。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "唉呀！宗教何其狡猾，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "堕落血轮中藏着；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "求主启示，大光照亮，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使那，恶魔无处躲。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，救我脱离宗教，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "脱开魂中的囚牢；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "每逢聚集将灵释放，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "满足神、人的需要。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "山上、海边，处处可聚，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主作实际当持守；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "活的基督，我们至爱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有祂同在复何求？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "埋葬宗教，除去老旧，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "灵中新样神所宝；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "非\"基督教，\"乃是基督，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "才是实际神所要。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "才是实际神所要。"
+            }
+          ]
         }
       ]
     }
@@ -362,7 +378,16 @@
   "metadata": {
     "category": "教会的生活",
     "time": "3/4",
-    "hymn_code": "123124313346532"
+    "hymn_code": "123124313346532",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1281",
+        "language": "cn",
+        "category": "h",
+        "number": "1281",
+        "title": "E1281"
+      }
+    ]
   },
   "raw_sections": [
     "當 主在 地與 人同 聚，",

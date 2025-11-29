@@ -1,348 +1,356 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/338",
   "title": "主耶稣，我是真爱你",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A",
-          "text": "主 耶"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "主 耶"
+            },
+            {
+              "chord": "",
+              "text": "穌，"
+            },
+            {
+              "chord": "Bm",
+              "text": "我 是"
+            },
+            {
+              "chord": "",
+              "text": "真 愛"
+            },
+            {
+              "chord": "A",
+              "text": "你， 願"
+            },
+            {
+              "chord": "D",
+              "text": "意 單"
+            },
+            {
+              "chord": "A",
+              "text": "純，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "穌，"
+          "segments": [
+            {
+              "chord": "E",
+              "text": "贖 回"
+            },
+            {
+              "chord": "F♯m",
+              "text": "我 所"
+            },
+            {
+              "chord": "",
+              "text": "有 的"
+            },
+            {
+              "chord": "C♯m7",
+              "text": "光"
+            },
+            {
+              "chord": "F♯m7",
+              "text": "陰，"
+            },
+            {
+              "chord": "Bm",
+              "text": "享"
+            },
+            {
+              "chord": "Bm7",
+              "text": "你 愛"
+            },
+            {
+              "chord": "Esus4",
+              "text": "恩。"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "我 是"
+          "segments": [
+            {
+              "chord": "E7",
+              "text": "喔 看"
+            },
+            {
+              "chord": "A",
+              "text": "哪！"
+            },
+            {
+              "chord": "E7",
+              "text": "我 能"
+            },
+            {
+              "chord": "",
+              "text": "在 今"
+            },
+            {
+              "chord": "A",
+              "text": "天 全"
+            },
+            {
+              "chord": "D",
+              "text": "然 奉"
+            },
+            {
+              "chord": "A",
+              "text": "獻，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "真 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是 因"
+            },
+            {
+              "chord": "F♯m",
+              "text": "你 始"
+            },
+            {
+              "chord": "",
+              "text": "終 的"
+            },
+            {
+              "chord": "C♯m",
+              "text": "恩"
+            },
+            {
+              "chord": "F♯m",
+              "text": "眷，"
+            },
+            {
+              "chord": "B",
+              "text": "奇"
+            },
+            {
+              "chord": "B7",
+              "text": "妙 成"
+            },
+            {
+              "chord": "Esus4",
+              "text": "全。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "你， 願"
+          "segments": [
+            {
+              "chord": "E",
+              "text": "求"
+            },
+            {
+              "chord": "A",
+              "text": "你 開"
+            },
+            {
+              "chord": "",
+              "text": "通 我"
+            },
+            {
+              "chord": "C♯m",
+              "text": "耳， 在"
+            },
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "D",
+              "text": "這 神"
+            },
+            {
+              "chord": "",
+              "text": "家 的"
+            },
+            {
+              "chord": "A",
+              "text": "門，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "意 單"
+          "segments": [
+            {
+              "chord": "",
+              "text": "當"
+            },
+            {
+              "chord": "D",
+              "text": "你 發"
+            },
+            {
+              "chord": "",
+              "text": "出 呼"
+            },
+            {
+              "chord": "A",
+              "text": "聲， 我"
+            },
+            {
+              "chord": "",
+              "text": "願 意"
+            },
+            {
+              "chord": "B7",
+              "text": "永 遠"
+            },
+            {
+              "chord": "",
+              "text": "向 你"
+            },
+            {
+              "chord": "E",
+              "text": "忠 誠。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "純，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "把"
+            },
+            {
+              "chord": "A",
+              "text": "我 印"
+            },
+            {
+              "chord": "",
+              "text": "在 你"
+            },
+            {
+              "chord": "C♯m",
+              "text": "心， 以"
+            },
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "D",
+              "text": "愛 甚"
+            },
+            {
+              "chord": "",
+              "text": "至 你"
+            },
+            {
+              "chord": "A",
+              "text": "嫉"
+            },
+            {
+              "chord": "E",
+              "text": "恨；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "F♯m",
+              "text": "讓 我"
+            },
+            {
+              "chord": "",
+              "text": "一 生"
+            },
+            {
+              "chord": "C♯m7",
+              "text": "作"
+            },
+            {
+              "chord": "F♯m7",
+              "text": "你"
+            },
+            {
+              "chord": "Bm7",
+              "text": "瘋"
+            },
+            {
+              "chord": "E7",
+              "text": "狂 愛"
+            },
+            {
+              "chord": "A",
+              "text": "人。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "E",
-          "text": "贖 回"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀神，今愿在这里，向你屈膝，"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "我 所"
+          "segments": [
+            {
+              "chord": "",
+              "text": "赐我们智慧启示灵，得见奥秘。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "有 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "这一生只愿投身你神圣经纶，"
+            }
+          ]
         },
         {
-          "chord": "C♯m7",
-          "text": "光"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只为你永远的心意︰基督身体。"
+            }
+          ]
         },
         {
-          "chord": "F♯m7",
-          "text": "陰，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在我调和灵里，带我进身体实际；"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "享"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享你加强救恩，使我们成耶稣的见证。"
+            }
+          ]
         },
         {
-          "chord": "Bm7",
-          "text": "你 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主阿！愿你快来！照着你所曾经答应；"
+            }
+          ]
         },
         {
-          "chord": "Esus4",
-          "text": "恩。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "E7",
-          "text": "喔 看"
-        },
-        {
-          "chord": "A",
-          "text": "哪！"
-        },
-        {
-          "chord": "E7",
-          "text": "我 能"
-        },
-        {
-          "chord": "",
-          "text": "在 今"
-        },
-        {
-          "chord": "A",
-          "text": "天 全"
-        },
-        {
-          "chord": "D",
-          "text": "然 奉"
-        },
-        {
-          "chord": "A",
-          "text": "獻，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是 因"
-        },
-        {
-          "chord": "F♯m",
-          "text": "你 始"
-        },
-        {
-          "chord": "",
-          "text": "終 的"
-        },
-        {
-          "chord": "C♯m",
-          "text": "恩"
-        },
-        {
-          "chord": "F♯m",
-          "text": "眷，"
-        },
-        {
-          "chord": "B",
-          "text": "奇"
-        },
-        {
-          "chord": "B7",
-          "text": "妙 成"
-        },
-        {
-          "chord": "Esus4",
-          "text": "全。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "E",
-          "text": "求"
-        },
-        {
-          "chord": "A",
-          "text": "你 開"
-        },
-        {
-          "chord": "",
-          "text": "通 我"
-        },
-        {
-          "chord": "C♯m",
-          "text": "耳， 在"
-        },
-        {
-          "chord": "",
-          "text": "你"
-        },
-        {
-          "chord": "D",
-          "text": "這 神"
-        },
-        {
-          "chord": "",
-          "text": "家 的"
-        },
-        {
-          "chord": "A",
-          "text": "門，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "當"
-        },
-        {
-          "chord": "D",
-          "text": "你 發"
-        },
-        {
-          "chord": "",
-          "text": "出 呼"
-        },
-        {
-          "chord": "A",
-          "text": "聲， 我"
-        },
-        {
-          "chord": "",
-          "text": "願 意"
-        },
-        {
-          "chord": "B7",
-          "text": "永 遠"
-        },
-        {
-          "chord": "",
-          "text": "向 你"
-        },
-        {
-          "chord": "E",
-          "text": "忠 誠。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "把"
-        },
-        {
-          "chord": "A",
-          "text": "我 印"
-        },
-        {
-          "chord": "",
-          "text": "在 你"
-        },
-        {
-          "chord": "C♯m",
-          "text": "心， 以"
-        },
-        {
-          "chord": "",
-          "text": "你"
-        },
-        {
-          "chord": "D",
-          "text": "愛 甚"
-        },
-        {
-          "chord": "",
-          "text": "至 你"
-        },
-        {
-          "chord": "A",
-          "text": "嫉"
-        },
-        {
-          "chord": "E",
-          "text": "恨；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "F♯m",
-          "text": "讓 我"
-        },
-        {
-          "chord": "",
-          "text": "一 生"
-        },
-        {
-          "chord": "C♯m7",
-          "text": "作"
-        },
-        {
-          "chord": "F♯m7",
-          "text": "你"
-        },
-        {
-          "chord": "Bm7",
-          "text": "瘋"
-        },
-        {
-          "chord": "E7",
-          "text": "狂 愛"
-        },
-        {
-          "chord": "A",
-          "text": "人。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀神，今愿在这里，向你屈膝，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赐我们智慧启示灵，得见奥秘。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "这一生只愿投身你神圣经纶，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只为你永远的心意︰基督身体。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在我调和灵里，带我进身体实际；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享你加强救恩，使我们成耶稣的见证。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主阿！愿你快来！照着你所曾经答应；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们惟一羡慕是你再临。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们惟一羡慕是你再临。"
+            }
+          ]
         }
       ]
     }
@@ -350,7 +358,16 @@
   "metadata": {
     "category": "爱慕耶稣",
     "time": "4/4",
-    "hymn_code": "1234346511645"
+    "hymn_code": "1234346511645",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/211",
+        "language": "cn",
+        "category": "ns",
+        "number": "211",
+        "title": "NS211"
+      }
+    ]
   },
   "raw_sections": [
     "主 耶穌，我 是真 愛你， 願意 單純，",

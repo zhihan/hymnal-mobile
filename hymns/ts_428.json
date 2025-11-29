@@ -1,588 +1,612 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/428",
   "title": "让我爱",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Em",
-          "text": "讓 我"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "讓 我"
+            },
+            {
+              "chord": "",
+              "text": "愛 而 不 受"
+            },
+            {
+              "chord": "Am",
+              "text": "感 戴，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "愛 而 不 受"
+          "segments": [
+            {
+              "chord": "B",
+              "text": "讓 我"
+            },
+            {
+              "chord": "Em",
+              "text": "事 而"
+            },
+            {
+              "chord": "",
+              "text": "不 受"
+            },
+            {
+              "chord": "Am",
+              "text": "賞 賜；"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "感 戴，"
+          "segments": [
+            {
+              "chord": "B",
+              "text": "讓 我"
+            },
+            {
+              "chord": "Em",
+              "text": "盡 力"
+            },
+            {
+              "chord": "",
+              "text": "而 不 被"
+            },
+            {
+              "chord": "Am",
+              "text": "人 記，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "讓 我"
+            },
+            {
+              "chord": "Em",
+              "text": "受 苦"
+            },
+            {
+              "chord": "",
+              "text": "而"
+            },
+            {
+              "chord": "B",
+              "text": "不 被"
+            },
+            {
+              "chord": "Em",
+              "text": "人 睹。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "B",
-          "text": "讓 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只 知 傾 酒 不 知"
+            },
+            {
+              "chord": "Am",
+              "text": "飲 酒，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "事 而"
+          "segments": [
+            {
+              "chord": "B",
+              "text": "只 想"
+            },
+            {
+              "chord": "Em",
+              "text": "擘 餅"
+            },
+            {
+              "chord": "",
+              "text": "不 想"
+            },
+            {
+              "chord": "Am",
+              "text": "留 餅；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "不 受"
+          "segments": [
+            {
+              "chord": "B",
+              "text": "倒 出"
+            },
+            {
+              "chord": "Em",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "來 使 人 得"
+            },
+            {
+              "chord": "Am",
+              "text": "幸 福，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "賞 賜；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "捨 棄"
+            },
+            {
+              "chord": "Em",
+              "text": "安 寧"
+            },
+            {
+              "chord": "",
+              "text": "來"
+            },
+            {
+              "chord": "B",
+              "text": "使 人"
+            },
+            {
+              "chord": "",
+              "text": "得"
+            },
+            {
+              "chord": "Em",
+              "text": "舒 服。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "B",
-          "text": "讓 我"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "不 受"
+            },
+            {
+              "chord": "G",
+              "text": "體 恤，"
+            },
+            {
+              "chord": "",
+              "text": "不 受"
+            },
+            {
+              "chord": "D",
+              "text": "眷 顧；"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "盡 力"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不 受"
+            },
+            {
+              "chord": "D7",
+              "text": "推 崇，"
+            },
+            {
+              "chord": "",
+              "text": "不 受"
+            },
+            {
+              "chord": "G",
+              "text": "安 撫；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "而 不 被"
+          "segments": [
+            {
+              "chord": "",
+              "text": "寧 可"
+            },
+            {
+              "chord": "G7",
+              "text": "淒 涼"
+            },
+            {
+              "chord": "",
+              "text": "， 寧 可"
+            },
+            {
+              "chord": "C",
+              "text": "孤"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "人 記，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "苦； 寧 可"
+            },
+            {
+              "chord": "G",
+              "text": "無 告，"
+            },
+            {
+              "chord": "D7",
+              "text": "寧 可"
+            },
+            {
+              "chord": "G",
+              "text": "被"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "讓 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "負。 願 意"
+            },
+            {
+              "chord": "Em",
+              "text": "以 血"
+            },
+            {
+              "chord": "",
+              "text": "淚 作 為"
+            },
+            {
+              "chord": "Am",
+              "text": "冠 冕"
+            },
+            {
+              "chord": "",
+              "text": "的 代"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "受 苦"
+          "segments": [
+            {
+              "chord": "B",
+              "text": "價， 願"
+            },
+            {
+              "chord": "",
+              "text": "意"
+            },
+            {
+              "chord": "Em",
+              "text": "受 虧"
+            },
+            {
+              "chord": "",
+              "text": "損 來 度"
+            },
+            {
+              "chord": "Am",
+              "text": "旅 客"
+            },
+            {
+              "chord": "",
+              "text": "的 生"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "而"
+          "segments": [
+            {
+              "chord": "B",
+              "text": "涯； 因"
+            },
+            {
+              "chord": "",
+              "text": "為"
+            },
+            {
+              "chord": "Em",
+              "text": "當 你"
+            },
+            {
+              "chord": "",
+              "text": "活 在"
+            },
+            {
+              "chord": "Am",
+              "text": "這 裡"
+            }
+          ]
         },
         {
-          "chord": "B",
-          "text": "不 被"
+          "segments": [
+            {
+              "chord": "",
+              "text": "時， 你 也"
+            },
+            {
+              "chord": "Em",
+              "text": "是 如"
+            },
+            {
+              "chord": "",
+              "text": "此"
+            },
+            {
+              "chord": "B",
+              "text": "過 日"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "人 睹。"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "子。 欣"
+            },
+            {
+              "chord": "",
+              "text": "然"
+            },
+            {
+              "chord": "Am",
+              "text": "忍 受"
+            },
+            {
+              "chord": "",
+              "text": "一 切 的"
+            },
+            {
+              "chord": "Em",
+              "text": "損"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "失， 好 使"
+            },
+            {
+              "chord": "Am",
+              "text": "近 你"
+            },
+            {
+              "chord": "",
+              "text": "的"
+            },
+            {
+              "chord": "B",
+              "text": "人 得"
+            },
+            {
+              "chord": "",
+              "text": "安"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "只 知 傾 酒 不 知"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "適。"
+            },
+            {
+              "chord": "D",
+              "text": "我"
+            },
+            {
+              "chord": "G",
+              "text": "今 不"
+            },
+            {
+              "chord": "",
+              "text": "知 前 途"
+            },
+            {
+              "chord": "Am",
+              "text": "究 有"
+            },
+            {
+              "chord": "",
+              "text": "多"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "飲 酒，"
+          "segments": [
+            {
+              "chord": "B",
+              "text": "遠， 這"
+            },
+            {
+              "chord": "Em",
+              "text": "條 道"
+            },
+            {
+              "chord": "",
+              "text": "路 一 去"
+            },
+            {
+              "chord": "Am",
+              "text": "就 不"
+            },
+            {
+              "chord": "",
+              "text": "再 還"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "B",
+              "text": "原； 所"
+            },
+            {
+              "chord": "",
+              "text": "以"
+            },
+            {
+              "chord": "Em",
+              "text": "讓 我"
+            },
+            {
+              "chord": "",
+              "text": "學 習 你 那"
+            },
+            {
+              "chord": "Am",
+              "text": "樣 的"
+            },
+            {
+              "chord": "",
+              "text": "完"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "全， 時 常"
+            },
+            {
+              "chord": "Em",
+              "text": "被 人"
+            },
+            {
+              "chord": "",
+              "text": "辜"
+            },
+            {
+              "chord": "B",
+              "text": "負 心"
+            },
+            {
+              "chord": "",
+              "text": "不 生"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
-        {
-          "chord": "B",
-          "text": "只 想"
-        },
-        {
-          "chord": "Em",
-          "text": "擘 餅"
-        },
-        {
-          "chord": "",
-          "text": "不 想"
-        },
-        {
-          "chord": "Am",
-          "text": "留 餅；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "B",
-          "text": "倒 出"
-        },
-        {
-          "chord": "Em",
-          "text": "生 命"
-        },
-        {
-          "chord": "",
-          "text": "來 使 人 得"
-        },
-        {
-          "chord": "Am",
-          "text": "幸 福，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "捨 棄"
-        },
-        {
-          "chord": "Em",
-          "text": "安 寧"
-        },
-        {
-          "chord": "",
-          "text": "來"
-        },
-        {
-          "chord": "B",
-          "text": "使 人"
-        },
-        {
-          "chord": "",
-          "text": "得"
-        },
-        {
-          "chord": "Em",
-          "text": "舒 服。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "不 受"
-        },
-        {
-          "chord": "G",
-          "text": "體 恤，"
-        },
-        {
-          "chord": "",
-          "text": "不 受"
-        },
-        {
-          "chord": "D",
-          "text": "眷 顧；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不 受"
-        },
-        {
-          "chord": "D7",
-          "text": "推 崇，"
-        },
-        {
-          "chord": "",
-          "text": "不 受"
-        },
-        {
-          "chord": "G",
-          "text": "安 撫；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "寧 可"
-        },
-        {
-          "chord": "G7",
-          "text": "淒 涼"
-        },
-        {
-          "chord": "",
-          "text": "， 寧 可"
-        },
-        {
-          "chord": "C",
-          "text": "孤"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "苦； 寧 可"
-        },
-        {
-          "chord": "G",
-          "text": "無 告，"
-        },
-        {
-          "chord": "D7",
-          "text": "寧 可"
-        },
-        {
-          "chord": "G",
-          "text": "被"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "負。 願 意"
-        },
-        {
-          "chord": "Em",
-          "text": "以 血"
-        },
-        {
-          "chord": "",
-          "text": "淚 作 為"
-        },
-        {
-          "chord": "Am",
-          "text": "冠 冕"
-        },
-        {
-          "chord": "",
-          "text": "的 代"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "B",
-          "text": "價， 願"
-        },
-        {
-          "chord": "",
-          "text": "意"
-        },
-        {
-          "chord": "Em",
-          "text": "受 虧"
-        },
-        {
-          "chord": "",
-          "text": "損 來 度"
-        },
-        {
-          "chord": "Am",
-          "text": "旅 客"
-        },
-        {
-          "chord": "",
-          "text": "的 生"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "B",
-          "text": "涯； 因"
-        },
-        {
-          "chord": "",
-          "text": "為"
-        },
-        {
-          "chord": "Em",
-          "text": "當 你"
-        },
-        {
-          "chord": "",
-          "text": "活 在"
-        },
-        {
-          "chord": "Am",
-          "text": "這 裡"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "時， 你 也"
-        },
-        {
-          "chord": "Em",
-          "text": "是 如"
-        },
-        {
-          "chord": "",
-          "text": "此"
-        },
-        {
-          "chord": "B",
-          "text": "過 日"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "子。 欣"
-        },
-        {
-          "chord": "",
-          "text": "然"
-        },
-        {
-          "chord": "Am",
-          "text": "忍 受"
-        },
-        {
-          "chord": "",
-          "text": "一 切 的"
-        },
-        {
-          "chord": "Em",
-          "text": "損"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "失， 好 使"
-        },
-        {
-          "chord": "Am",
-          "text": "近 你"
-        },
-        {
-          "chord": "",
-          "text": "的"
-        },
-        {
-          "chord": "B",
-          "text": "人 得"
-        },
-        {
-          "chord": "",
-          "text": "安"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "適。"
-        },
-        {
-          "chord": "D",
-          "text": "我"
-        },
-        {
-          "chord": "G",
-          "text": "今 不"
-        },
-        {
-          "chord": "",
-          "text": "知 前 途"
-        },
-        {
-          "chord": "Am",
-          "text": "究 有"
-        },
-        {
-          "chord": "",
-          "text": "多"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "B",
-          "text": "遠， 這"
-        },
-        {
-          "chord": "Em",
-          "text": "條 道"
-        },
-        {
-          "chord": "",
-          "text": "路 一 去"
-        },
-        {
-          "chord": "Am",
-          "text": "就 不"
-        },
-        {
-          "chord": "",
-          "text": "再 還"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "B",
-          "text": "原； 所"
-        },
-        {
-          "chord": "",
-          "text": "以"
-        },
-        {
-          "chord": "Em",
-          "text": "讓 我"
-        },
-        {
-          "chord": "",
-          "text": "學 習 你 那"
-        },
-        {
-          "chord": "Am",
-          "text": "樣 的"
-        },
-        {
-          "chord": "",
-          "text": "完"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全， 時 常"
-        },
-        {
-          "chord": "Em",
-          "text": "被 人"
-        },
-        {
-          "chord": "",
-          "text": "辜"
-        },
-        {
-          "chord": "B",
-          "text": "負 心"
-        },
-        {
-          "chord": "",
-          "text": "不 生"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "怨。 求"
-        },
-        {
-          "chord": "",
-          "text": "你"
-        },
-        {
-          "chord": "Am",
-          "text": "在 這"
-        },
-        {
-          "chord": "",
-          "text": "慘 淡 時"
-        },
-        {
-          "chord": "Em",
-          "text": "期 之"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "內， 擦 乾"
-        },
-        {
-          "chord": "Am",
-          "text": "我 一"
-        },
-        {
-          "chord": "",
-          "text": "切"
-        },
-        {
-          "chord": "B",
-          "text": "暗 中"
-        },
-        {
-          "chord": "",
-          "text": "的 眼"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "淚； 學"
-        },
-        {
-          "chord": "",
-          "text": "習"
-        },
-        {
-          "chord": "Am",
-          "text": "知 道"
-        },
-        {
-          "chord": "",
-          "text": "你 是 我"
-        },
-        {
-          "chord": "Em",
-          "text": "的 安"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "慰， 並 求"
-        },
-        {
-          "chord": "Am",
-          "text": "別 人"
-        },
-        {
-          "chord": "",
-          "text": "喜"
-        },
-        {
-          "chord": "B",
-          "text": "悅 以"
-        },
-        {
-          "chord": "",
-          "text": "度 此"
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "怨。 求"
+            },
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "Am",
+              "text": "在 這"
+            },
+            {
+              "chord": "",
+              "text": "慘 淡 時"
+            },
+            {
+              "chord": "Em",
+              "text": "期 之"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "內， 擦 乾"
+            },
+            {
+              "chord": "Am",
+              "text": "我 一"
+            },
+            {
+              "chord": "",
+              "text": "切"
+            },
+            {
+              "chord": "B",
+              "text": "暗 中"
+            },
+            {
+              "chord": "",
+              "text": "的 眼"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "淚； 學"
+            },
+            {
+              "chord": "",
+              "text": "習"
+            },
+            {
+              "chord": "Am",
+              "text": "知 道"
+            },
+            {
+              "chord": "",
+              "text": "你 是 我"
+            },
+            {
+              "chord": "Em",
+              "text": "的 安"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "慰， 並 求"
+            },
+            {
+              "chord": "Am",
+              "text": "別 人"
+            },
+            {
+              "chord": "",
+              "text": "喜"
+            },
+            {
+              "chord": "B",
+              "text": "悅 以"
+            },
+            {
+              "chord": "",
+              "text": "度 此"
+            }
+          ]
         }
       ]
     }
@@ -590,7 +614,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "4/4",
-    "hymn_code": "336617665671132117"
+    "hymn_code": "336617665671132117",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/19",
+        "language": "cn",
+        "category": "ns",
+        "number": "19",
+        "title": "NS19"
+      }
+    ]
   },
   "raw_sections": [
     "讓 我愛 而 不 受感 戴，",

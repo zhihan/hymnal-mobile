@@ -1,216 +1,220 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/809",
   "title": "在主里刚强",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "在 主"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "在 主"
+            },
+            {
+              "chord": "",
+              "text": "裡 剛 強！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "裡 剛 強！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "倚 靠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "倚 靠"
+            },
+            {
+              "chord": "G",
+              "text": "主 大"
+            },
+            {
+              "chord": "",
+              "text": "能 大"
+            },
+            {
+              "chord": "D",
+              "text": "力，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "主 大"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作 剛"
+            },
+            {
+              "chord": "Bm",
+              "text": "強 的"
+            },
+            {
+              "chord": "A",
+              "text": "人！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "能 大"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在 主"
+            },
+            {
+              "chord": "D",
+              "text": "裡 剛"
+            },
+            {
+              "chord": "",
+              "text": "強！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "力，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作 剛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "倚 靠"
+            },
+            {
+              "chord": "G",
+              "text": "主 大"
+            },
+            {
+              "chord": "",
+              "text": "能 大"
+            },
+            {
+              "chord": "D",
+              "text": "力，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "強 的"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "作 剛"
+            },
+            {
+              "chord": "",
+              "text": "強 的"
+            },
+            {
+              "chord": "D",
+              "text": "人！"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "人！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在"
+            },
+            {
+              "chord": "G",
+              "text": "主 裡"
+            },
+            {
+              "chord": "",
+              "text": "剛 強，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "裡 剛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "倚 靠"
+            },
+            {
+              "chord": "D",
+              "text": "主 大"
+            },
+            {
+              "chord": "",
+              "text": "能 大 力；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "強！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "倚 靠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "穿"
+            },
+            {
+              "chord": "G",
+              "text": "戴 神"
+            },
+            {
+              "chord": "",
+              "text": "軍 裝，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "主 大"
+          "segments": [
+            {
+              "chord": "",
+              "text": "抵 擋"
+            },
+            {
+              "chord": "D",
+              "text": "魔 鬼"
+            },
+            {
+              "chord": "",
+              "text": "的 詭 計；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "能 大"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在 主 裡 剛 強，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "力，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "作 剛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在"
+            },
+            {
+              "chord": "G",
+              "text": "主 裡"
+            },
+            {
+              "chord": "",
+              "text": "剛"
+            },
+            {
+              "chord": "Em",
+              "text": "強，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "強 的"
-        },
-        {
-          "chord": "D",
-          "text": "人！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在"
-        },
-        {
-          "chord": "G",
-          "text": "主 裡"
-        },
-        {
-          "chord": "",
-          "text": "剛 強，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "倚 靠"
-        },
-        {
-          "chord": "D",
-          "text": "主 大"
-        },
-        {
-          "chord": "",
-          "text": "能 大 力；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "穿"
-        },
-        {
-          "chord": "G",
-          "text": "戴 神"
-        },
-        {
-          "chord": "",
-          "text": "軍 裝，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "抵 擋"
-        },
-        {
-          "chord": "D",
-          "text": "魔 鬼"
-        },
-        {
-          "chord": "",
-          "text": "的 詭 計；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在 主 裡 剛 強，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在"
-        },
-        {
-          "chord": "G",
-          "text": "主 裡"
-        },
-        {
-          "chord": "",
-          "text": "剛"
-        },
-        {
-          "chord": "Em",
-          "text": "強，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "倚 靠"
-        },
-        {
-          "chord": "A7",
-          "text": "主 大"
-        },
-        {
-          "chord": "",
-          "text": "能 大 力， 剛"
-        },
-        {
-          "chord": "D",
-          "text": "強！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "倚 靠"
+            },
+            {
+              "chord": "A7",
+              "text": "主 大"
+            },
+            {
+              "chord": "",
+              "text": "能 大 力， 剛"
+            },
+            {
+              "chord": "D",
+              "text": "強！"
+            }
+          ]
         }
       ]
     }

@@ -1,352 +1,400 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/727",
   "title": "我要释放基督",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "基 督"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "基 督"
+            },
+            {
+              "chord": "",
+              "text": "已 經 將 我"
+            },
+            {
+              "chord": "C",
+              "text": "釋 放，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "已 經 將 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 也"
+            },
+            {
+              "chord": "D",
+              "text": "釋 放"
+            },
+            {
+              "chord": "",
+              "text": "靈 中"
+            },
+            {
+              "chord": "G",
+              "text": "基 督；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "釋 放，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 也"
+          "segments": [
+            {
+              "chord": "",
+              "text": "藉 祂 生 命 我 脫"
+            },
+            {
+              "chord": "C",
+              "text": "罪 律，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "釋 放"
+          "segments": [
+            {
+              "chord": "",
+              "text": "藉 我"
+            },
+            {
+              "chord": "D",
+              "text": "見 證"
+            },
+            {
+              "chord": "",
+              "text": "祂 得"
+            },
+            {
+              "chord": "G",
+              "text": "顯 彰。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿 利"
+            },
+            {
+              "chord": "Am",
+              "text": "路 亞！"
+            },
+            {
+              "chord": "D7",
+              "text": "榮 耀"
+            },
+            {
+              "chord": "G",
+              "text": "釋 放！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "靈 中"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "神 人"
+            },
+            {
+              "chord": "C",
+              "text": "同 工，"
+            },
+            {
+              "chord": "D7",
+              "text": "成 祂"
+            },
+            {
+              "chord": "G",
+              "text": "旨 意。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在基督里我得释放，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "基 督；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "藉 祂 生 命 我 脫"
+          "segments": [
+            {
+              "chord": "",
+              "text": "脱离今世所有辖制；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "罪 律，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "藉 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "前途事业尽都撇弃，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "見 證"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为祂见证活在灵里。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！荣耀释放！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "祂 得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神人同工，成祂旨意。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "丰富基督住在灵里，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "顯 彰。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿 利"
+          "segments": [
+            {
+              "chord": "",
+              "text": "等候我来把祂经历；"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "路 亞！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "每当释放灵中基督，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "榮 耀"
+          "segments": [
+            {
+              "chord": "",
+              "text": "能力智慧无不我属。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！荣耀释放！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "釋 放！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神人同工，成祂旨意。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Em",
-          "text": "神 人"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主！求你救我脱离"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "同 工，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "所有老旧空洞道理；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "成 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天天经营灵中丰富，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "旨 意。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "时时释放荣耀基督。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "在基督里我得释放，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！荣耀释放！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "神人同工，成祂旨意。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "脱离今世所有辖制；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督借我得以彰显，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂的荣美为人所见；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "每当我把祂来释放，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂的喜乐满我心房。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "前途事业尽都撇弃，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！荣耀释放！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "神人同工，成祂旨意。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "为祂见证活在灵里。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主！我今在你前抛弃，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "已往自大‘属灵’、‘经历’；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "今后不再自是自觉，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "运用我灵将你释放。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "阿利路亚！荣耀释放！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！荣耀释放！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "神人同工，成祂旨意。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "丰富基督住在灵里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "等候我来把祂经历；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "每当释放灵中基督，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "能力智慧无不我属。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！荣耀释放！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神人同工，成祂旨意。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主！求你救我脱离"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "所有老旧空洞道理；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天天经营灵中丰富，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "时时释放荣耀基督。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！荣耀释放！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神人同工，成祂旨意。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督借我得以彰显，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂的荣美为人所见；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "每当我把祂来释放，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂的喜乐满我心房。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！荣耀释放！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神人同工，成祂旨意。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主！我今在你前抛弃，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "已往自大‘属灵’、‘经历’；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今后不再自是自觉，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "运用我灵将你释放。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！荣耀释放！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神人同工，成祂旨意。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神人同工，成祂旨意。"
+            }
+          ]
         }
       ]
     }

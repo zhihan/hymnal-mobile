@@ -1,372 +1,388 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/437",
   "title": "主话如同粮仓",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "哦 主，"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "哦 主，"
+            },
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "C",
+              "text": "話 如"
+            },
+            {
+              "chord": "G",
+              "text": "同 糧"
+            },
+            {
+              "chord": "",
+              "text": "倉，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "供"
+            },
+            {
+              "chord": "C",
+              "text": "應 充"
+            },
+            {
+              "chord": "D7",
+              "text": "足、 多"
+            },
+            {
+              "chord": "G",
+              "text": "方；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "話 如"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "凡"
+            },
+            {
+              "chord": "G",
+              "text": "飢 餓"
+            },
+            {
+              "chord": "D7",
+              "text": "者 都"
+            },
+            {
+              "chord": "G",
+              "text": "可 來"
+            },
+            {
+              "chord": "",
+              "text": "此"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "同 糧"
+          "segments": [
+            {
+              "chord": "",
+              "text": "榮"
+            },
+            {
+              "chord": "D",
+              "text": "耀， 豐"
+            },
+            {
+              "chord": "A7",
+              "text": "富 飽"
+            },
+            {
+              "chord": "D",
+              "text": "嘗。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "倉，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "供"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "D7",
+              "text": "話 又"
+            },
+            {
+              "chord": "G",
+              "text": "如 深"
+            },
+            {
+              "chord": "D",
+              "text": "處 寶"
+            },
+            {
+              "chord": "G",
+              "text": "礦，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "應 充"
+          "segments": [
+            {
+              "chord": "",
+              "text": "稀"
+            },
+            {
+              "chord": "C",
+              "text": "有 珍"
+            },
+            {
+              "chord": "A7",
+              "text": "物 盡"
+            },
+            {
+              "chord": "D7",
+              "text": "藏；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "足、 多"
+          "segments": [
+            {
+              "chord": "",
+              "text": "凡"
+            },
+            {
+              "chord": "G",
+              "text": "尋 求"
+            },
+            {
+              "chord": "C",
+              "text": "者 來"
+            },
+            {
+              "chord": "G",
+              "text": "此 挖"
+            },
+            {
+              "chord": "Em",
+              "text": "掘，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "方；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "必"
+            },
+            {
+              "chord": "C",
+              "text": "得 至"
+            },
+            {
+              "chord": "D7",
+              "text": "寶 無"
+            },
+            {
+              "chord": "G",
+              "text": "上。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "凡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你话犹如众星发亮，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "飢 餓"
+          "segments": [
+            {
+              "chord": "",
+              "text": "光芒四射辉煌；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "者 都"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天程旅客在此光中"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "可 來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "属天，家乡直往。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "此"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "榮"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你话又如军器库房，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "耀， 豐"
+          "segments": [
+            {
+              "chord": "",
+              "text": "收藏全备军装；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "富 飽"
+          "segments": [
+            {
+              "chord": "",
+              "text": "争战虽长，终必奏凯，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "嘗。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因有供备无量。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿我宝爱你的圣言，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "話 又"
+          "segments": [
+            {
+              "chord": "",
+              "text": "尽享矿藏富源；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "如 深"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿我取用荣耀丰富"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "處 寶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "光中，生活无间。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "礦，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "稀"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿我寻得话中兵器，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "有 珍"
+          "segments": [
+            {
+              "chord": "",
+              "text": "靠此夸胜敌前；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "物 盡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "挥动那灵可靠的剑，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "藏；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为主权益争战。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "凡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，永活神生命的话，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "尋 求"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你是神的光辉；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "者 來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得你，我就得神自己"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "此 挖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "并脱，属地缠累。"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "掘，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "必"
+          "segments": [
+            {
+              "chord": "",
+              "text": "求主赐我正直的灵，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "得 至"
+          "segments": [
+            {
+              "chord": "",
+              "text": "话中得你智慧；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "寶 無"
+          "segments": [
+            {
+              "chord": "",
+              "text": "犹如孩童心中单纯，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "上。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你话犹如众星发亮，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "光芒四射辉煌；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天程旅客在此光中"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "属天，家乡直往。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你话又如军器库房，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "收藏全备军装；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "争战虽长，终必奏凯，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因有供备无量。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿我宝爱你的圣言，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "尽享矿藏富源；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿我取用荣耀丰富"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "光中，生活无间。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿我寻得话中兵器，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "靠此夸胜敌前；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "挥动那灵可靠的剑，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为主权益争战。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，永活神生命的话，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你是神的光辉；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得你，我就得神自己"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "并脱，属地缠累。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "求主赐我正直的灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "话中得你智慧；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "犹如孩童心中单纯，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "转向属天恩惠。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "转向属天恩惠。"
+            }
+          ]
         }
       ]
     }
@@ -374,7 +390,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "4/4",
-    "hymn_code": "51176565562171"
+    "hymn_code": "51176565562171",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/804",
+        "language": "cn",
+        "category": "h",
+        "number": "804",
+        "title": "E804"
+      }
+    ]
   },
   "raw_sections": [
     "哦 主，你話 如同 糧倉，",

@@ -1,480 +1,520 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/440",
   "title": "圣化洁净我们",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "哦 主，"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "哦 主，"
+            },
+            {
+              "chord": "",
+              "text": "聖 化 我 們， 加 添 你"
+            },
+            {
+              "chord": "A",
+              "text": "的 自"
+            },
+            {
+              "chord": "",
+              "text": "己；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "聖 化 我 們， 加 添 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "願 你 寶"
+            },
+            {
+              "chord": "A7",
+              "text": "貴 人"
+            },
+            {
+              "chord": "",
+              "text": "位 擴 展 在"
+            },
+            {
+              "chord": "D",
+              "text": "我 衷"
+            },
+            {
+              "chord": "",
+              "text": "裏，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "的 自"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使 你 榮 耀 召"
+            },
+            {
+              "chord": "D7",
+              "text": "會 在"
+            },
+            {
+              "chord": "",
+              "text": "此 顯"
+            },
+            {
+              "chord": "G",
+              "text": "為 實"
+            },
+            {
+              "chord": "",
+              "text": "際；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "己；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦 主， 求"
+            },
+            {
+              "chord": "D",
+              "text": "你 加"
+            },
+            {
+              "chord": "",
+              "text": "添"
+            },
+            {
+              "chord": "A7",
+              "text": "自"
+            },
+            {
+              "chord": "D",
+              "text": "己。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "願 你 寶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦 主， 今"
+            },
+            {
+              "chord": "A7",
+              "text": "日 聖"
+            },
+            {
+              "chord": "",
+              "text": "化 我"
+            },
+            {
+              "chord": "D",
+              "text": "們，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "貴 人"
+          "segments": [
+            {
+              "chord": "",
+              "text": "捨 此 無"
+            },
+            {
+              "chord": "Em",
+              "text": "路 滿"
+            },
+            {
+              "chord": "",
+              "text": "足"
+            },
+            {
+              "chord": "E7",
+              "text": "神"
+            },
+            {
+              "chord": "A7",
+              "text": "心。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "位 擴 展 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟 願 你"
+            },
+            {
+              "chord": "D",
+              "text": "作 人"
+            },
+            {
+              "chord": "D7",
+              "text": "位， 擴"
+            },
+            {
+              "chord": "",
+              "text": "展 徧"
+            },
+            {
+              "chord": "G",
+              "text": "及 四"
+            },
+            {
+              "chord": "",
+              "text": "圍；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我 衷"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦 主， 今"
+            },
+            {
+              "chord": "D",
+              "text": "日 聖"
+            },
+            {
+              "chord": "",
+              "text": "化"
+            },
+            {
+              "chord": "A7",
+              "text": "我"
+            },
+            {
+              "chord": "D",
+              "text": "們。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，洁净我们，向我们心说话；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "裏，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使 你 榮 耀 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "洗涤我们全人，直至圣别无瑕。"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "會 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿你活话扩长，来将我们圣化；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "此 顯"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，求你洁净圣化。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，今日洁净我们，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "為 實"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不容天然生命留存。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "際；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦 主， 求"
+          "segments": [
+            {
+              "chord": "",
+              "text": "美丽、荣耀添加，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "你 加"
+          "segments": [
+            {
+              "chord": "",
+              "text": "皆因你的说话；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "添"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，今日洁净我们。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，滋养我们，惟你是真食物；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "自"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只需吃饱喝足，变化自然显出。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "己。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦 主， 今"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟有得你餧养；我们才真满足；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "日 聖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，求你滋养眷顾。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，今日滋养我们，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "化 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "老旧、天然洗涤净尽。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "們，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "捨 此 無"
+          "segments": [
+            {
+              "chord": "",
+              "text": "求你来施洁净，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "路 滿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "又将我们充盈；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "足"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，今日滋养我们。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，顾惜我们，以你柔爱养育；"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "借你温情抚慰，眷顾我们所需。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "心。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惟 願 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "软化刚硬石心，好来施情占据；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "作 人"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，今日顾惜我们。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，今日顾惜我们，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "位， 擴"
+          "segments": [
+            {
+              "chord": "",
+              "text": "冷淡、死沉全都驱尽。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "展 徧"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当你怀搋紧紧，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "及 四"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们能不欢欣？"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "圍；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，今日顾惜我们。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "哦 主， 今"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，荣化我们，借你内里运行；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "日 聖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "非为个人明亮，乃为召会得荣。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "化"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿你得着新妇，成就你爱经营；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，求你在我运行。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，今日运行我身，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "們。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "妆饰新妇迎你再临。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "哦主，洁净我们，向我们心说话；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿你开展扩充，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "洗涤我们全人，直至圣别无瑕。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "召会荣上加荣，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "愿你活话扩长，来将我们圣化；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，求你洁净圣化。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，今日洁净我们，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不容天然生命留存。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "美丽、荣耀添加，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "皆因你的说话；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，今日洁净我们。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，滋养我们，惟你是真食物；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只需吃饱喝足，变化自然显出。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惟有得你餧养；我们才真满足；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，求你滋养眷顾。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，今日滋养我们，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "老旧、天然洗涤净尽。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "求你来施洁净，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "又将我们充盈；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，今日滋养我们。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，顾惜我们，以你柔爱养育；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借你温情抚慰，眷顾我们所需。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "软化刚硬石心，好来施情占据；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，今日顾惜我们。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，今日顾惜我们，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "冷淡、死沉全都驱尽。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当你怀搋紧紧，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们能不欢欣？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，今日顾惜我们。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，荣化我们，借你内里运行；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "非为个人明亮，乃为召会得荣。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿你得着新妇，成就你爱经营；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，求你在我运行。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，今日运行我身，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "妆饰新妇迎你再临。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿你开展扩充，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "召会荣上加荣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，今日荣化我们。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，今日荣化我们。"
+            }
+          ]
         }
       ]
     }
@@ -482,7 +522,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "4/4",
-    "hymn_code": "561333321444"
+    "hymn_code": "561333321444",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1135",
+        "language": "cn",
+        "category": "h",
+        "number": "1135",
+        "title": "E1135"
+      }
+    ]
   },
   "raw_sections": [
     "哦 主，聖 化 我 們， 加 添 你的 自己；",

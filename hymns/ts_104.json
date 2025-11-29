@@ -1,288 +1,300 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/104",
   "title": "祂活",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "我 主"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 主"
+            },
+            {
+              "chord": "",
+              "text": "基"
+            },
+            {
+              "chord": "G",
+              "text": "督 是"
+            },
+            {
+              "chord": "",
+              "text": "賜"
+            },
+            {
+              "chord": "D",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "的 靈，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "基"
+          "segments": [
+            {
+              "chord": "",
+              "text": "賜"
+            },
+            {
+              "chord": "A7",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "的 靈，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "督 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "賜"
+            },
+            {
+              "chord": "D",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "的 靈。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "賜"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 主 基"
+            },
+            {
+              "chord": "G",
+              "text": "督 是"
+            },
+            {
+              "chord": "",
+              "text": "賜"
+            },
+            {
+              "chord": "D",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "的 靈，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "生 命"
-        },
-        {
-          "chord": "",
-          "text": "的 靈，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂"
+            },
+            {
+              "chord": "A",
+              "text": "活 在"
+            },
+            {
+              "chord": "A7",
+              "text": "我 裡"
+            },
+            {
+              "chord": "D",
+              "text": "面。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "賜"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "祂 活！"
+            },
+            {
+              "chord": "D",
+              "text": "祂 活！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "祂 在"
+            },
+            {
+              "chord": "A7",
+              "text": "裡 面"
+            },
+            {
+              "chord": "D",
+              "text": "成"
+            },
+            {
+              "chord": "D7",
+              "text": "形！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 靈，"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "我 活！"
+            },
+            {
+              "chord": "D",
+              "text": "我 活！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "E",
+              "text": "將 祂"
+            },
+            {
+              "chord": "E7",
+              "text": "來 彰"
+            },
+            {
+              "chord": "A",
+              "text": "顯！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿 利"
+            },
+            {
+              "chord": "A7",
+              "text": "路 亞！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "賜"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 主"
+            },
+            {
+              "chord": "",
+              "text": "基"
+            },
+            {
+              "chord": "G",
+              "text": "督 是"
+            },
+            {
+              "chord": "",
+              "text": "賜"
+            },
+            {
+              "chord": "D",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "的 靈，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "賜"
+            },
+            {
+              "chord": "A7",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "的 靈，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 靈。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 主 基"
+          "segments": [
+            {
+              "chord": "",
+              "text": "賜"
+            },
+            {
+              "chord": "D",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "的 靈。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "督 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 主 基"
+            },
+            {
+              "chord": "G",
+              "text": "督 是"
+            },
+            {
+              "chord": "",
+              "text": "賜"
+            },
+            {
+              "chord": "D",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "的 靈，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "賜"
-        },
-        {
-          "chord": "D",
-          "text": "生 命"
-        },
-        {
-          "chord": "",
-          "text": "的 靈，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂"
-        },
-        {
-          "chord": "A",
-          "text": "活 在"
-        },
-        {
-          "chord": "A7",
-          "text": "我 裡"
-        },
-        {
-          "chord": "D",
-          "text": "面。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "祂 活！"
-        },
-        {
-          "chord": "D",
-          "text": "祂 活！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "祂 在"
-        },
-        {
-          "chord": "A7",
-          "text": "裡 面"
-        },
-        {
-          "chord": "D",
-          "text": "成"
-        },
-        {
-          "chord": "D7",
-          "text": "形！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "我 活！"
-        },
-        {
-          "chord": "D",
-          "text": "我 活！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
-        },
-        {
-          "chord": "E",
-          "text": "將 祂"
-        },
-        {
-          "chord": "E7",
-          "text": "來 彰"
-        },
-        {
-          "chord": "A",
-          "text": "顯！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿 利"
-        },
-        {
-          "chord": "A7",
-          "text": "路 亞！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "我 主"
-        },
-        {
-          "chord": "",
-          "text": "基"
-        },
-        {
-          "chord": "G",
-          "text": "督 是"
-        },
-        {
-          "chord": "",
-          "text": "賜"
-        },
-        {
-          "chord": "D",
-          "text": "生 命"
-        },
-        {
-          "chord": "",
-          "text": "的 靈，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "賜"
-        },
-        {
-          "chord": "A7",
-          "text": "生 命"
-        },
-        {
-          "chord": "",
-          "text": "的 靈，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "賜"
-        },
-        {
-          "chord": "D",
-          "text": "生 命"
-        },
-        {
-          "chord": "",
-          "text": "的 靈。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 主 基"
-        },
-        {
-          "chord": "G",
-          "text": "督 是"
-        },
-        {
-          "chord": "",
-          "text": "賜"
-        },
-        {
-          "chord": "D",
-          "text": "生 命"
-        },
-        {
-          "chord": "",
-          "text": "的 靈，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂"
-        },
-        {
-          "chord": "A",
-          "text": "活 在"
-        },
-        {
-          "chord": "A7",
-          "text": "我 裡"
-        },
-        {
-          "chord": "D",
-          "text": "面。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂"
+            },
+            {
+              "chord": "A",
+              "text": "活 在"
+            },
+            {
+              "chord": "A7",
+              "text": "我 裡"
+            },
+            {
+              "chord": "D",
+              "text": "面。"
+            }
+          ]
         }
       ]
     }
@@ -290,7 +302,16 @@
   "metadata": {
     "category": "灵与生命",
     "time": "4/4",
-    "hymn_code": "5556665531"
+    "hymn_code": "5556665531",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6104",
+        "language": "cn",
+        "category": "h",
+        "number": "6104",
+        "title": "E6104"
+      }
+    ]
   },
   "raw_sections": [
     "我 主基督 是賜生 命的 靈，",

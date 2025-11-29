@@ -1,456 +1,484 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/511",
   "title": "金灯台是灵的复制",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "看 哪，"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "看 哪，"
+            },
+            {
+              "chord": "",
+              "text": "在 這 黑 夜，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "在 這 黑 夜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A",
-          "text": "眾 地"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "眾 地"
+            },
+            {
+              "chord": "A7",
+              "text": "方 召"
+            },
+            {
+              "chord": "D",
+              "text": "會"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "方 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作 耶 穌 的"
+            },
+            {
+              "chord": "E",
+              "text": "見 證，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "會"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作 耶 穌 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "發 出"
+            },
+            {
+              "chord": "E7",
+              "text": "祂 光"
+            },
+            {
+              "chord": "A",
+              "text": "輝。"
+            }
+          ]
         },
         {
-          "chord": "E",
-          "text": "見 證，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "發 出"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因 基 督 而"
+            },
+            {
+              "chord": "D",
+              "text": "形 成，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "祂 光"
+          "segments": [
+            {
+              "chord": "",
+              "text": "以 靈 為 模"
+            },
+            {
+              "chord": "G",
+              "text": "子，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "輝。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因 基 督 而"
+          "segments": [
+            {
+              "chord": "",
+              "text": "性 質 完 全 相 同，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "形 成，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "彰 顯 出 基"
+            },
+            {
+              "chord": "A",
+              "text": "督。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "以 靈 為 模"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "看 哪，"
+            },
+            {
+              "chord": "",
+              "text": "在 這"
+            },
+            {
+              "chord": "A",
+              "text": "黑 夜，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "子，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "性 質 完 全 相 同，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "彰 顯 出 基"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "眾 地"
+            },
+            {
+              "chord": "",
+              "text": "方 召"
+            },
+            {
+              "chord": "D",
+              "text": "會"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "督。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "看 哪，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "憑 聖"
+            },
+            {
+              "chord": "A7",
+              "text": "靈 而"
+            },
+            {
+              "chord": "D",
+              "text": "焚 燒，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "在 這"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "發 出"
+            },
+            {
+              "chord": "A7",
+              "text": "主 光"
+            },
+            {
+              "chord": "D",
+              "text": "輝。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "神有形有体的"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "黑 夜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "眾 地"
+          "segments": [
+            {
+              "chord": "",
+              "text": "住在基督里；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "方 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督如今是灵，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "會"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "憑 聖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是一切实际。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "靈 而"
+          "segments": [
+            {
+              "chord": "",
+              "text": "个个金灯台"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "焚 燒，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "發 出"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是这灵的复制，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "主 光"
+          "segments": [
+            {
+              "chord": "",
+              "text": "召会在各地方"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "輝。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一一的显出。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "神有形有体的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "行走众召会中，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "是一位人子。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂穿着细麻衣，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃是大祭司！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "胸前束着金带，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在爱里照顾；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "七星在祂手中，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "众召会有路！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "住在基督里；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "谁能困金灯台？"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "谁能来破坏？"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "反对越发增多，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "它扩展越快！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "环境越是黑暗，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "它就越光明；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "因为召会乃是"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "神生命构成。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "基督如今是灵，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从众地方召会，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "新妇要产生，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "带进荣耀圣城，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "新耶路撒冷。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "许多的金灯台，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "至终成一座，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "彰显三一之神，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "遍及全宇宙。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "是一切实际。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "看哪，从天而降，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "个个金灯台"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "全地都看见"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "是这灵的复制，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "神的完全彰显，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "召会在各地方"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一一的显出。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "行走众召会中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是一位人子。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂穿着细麻衣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃是大祭司！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "胸前束着金带，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在爱里照顾；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "七星在祂手中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "众召会有路！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "谁能困金灯台？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "谁能来破坏？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "反对越发增多，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "它扩展越快！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "环境越是黑暗，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "它就越光明；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因为召会乃是"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神生命构成。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从众地方召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "新妇要产生，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "带进荣耀圣城，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "新耶路撒冷。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "许多的金灯台，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "至终成一座，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "彰显三一之神，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "遍及全宇宙。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "看哪，从天而降，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全地都看见"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神的完全彰显，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "到永永远远！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "到永永远远！"
+            }
+          ]
         }
       ]
     }
@@ -458,7 +486,16 @@
   "metadata": {
     "category": "教会的异象",
     "time": "4/4",
-    "hymn_code": "555556522123"
+    "hymn_code": "555556522123",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1259",
+        "language": "cn",
+        "category": "h",
+        "number": "1259",
+        "title": "E1259"
+      }
+    ]
   },
   "raw_sections": [
     "看 哪，在 這 黑 夜，",

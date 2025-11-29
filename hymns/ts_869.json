@@ -1,272 +1,288 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/869",
   "title": "前进！刚强开拓",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "誰 肯"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "誰 肯"
+            },
+            {
+              "chord": "F",
+              "text": "受 託，"
+            },
+            {
+              "chord": "",
+              "text": "宣 揚"
+            },
+            {
+              "chord": "C",
+              "text": "神 福"
+            },
+            {
+              "chord": "F",
+              "text": "音？"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "受 託，"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "誰 願"
+            },
+            {
+              "chord": "F",
+              "text": "答 應，"
+            },
+            {
+              "chord": "",
+              "text": "受 差"
+            },
+            {
+              "chord": "C",
+              "text": "遣 前"
+            },
+            {
+              "chord": "",
+              "text": "行？"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "宣 揚"
+          "segments": [
+            {
+              "chord": "F",
+              "text": "主 愛"
+            },
+            {
+              "chord": "G7",
+              "text": "激 勵"
+            },
+            {
+              "chord": "",
+              "text": "困"
+            },
+            {
+              "chord": "Em",
+              "text": "迫， 不"
+            },
+            {
+              "chord": "Am",
+              "text": "再 我"
+            },
+            {
+              "chord": "C",
+              "text": "活。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "神 福"
-        },
-        {
-          "chord": "F",
-          "text": "音？"
+          "segments": [
+            {
+              "chord": "F",
+              "text": "今 日"
+            },
+            {
+              "chord": "Dm",
+              "text": "起 來"
+            },
+            {
+              "chord": "",
+              "text": "應 聲："
+            },
+            {
+              "chord": "G",
+              "text": "『請 差"
+            },
+            {
+              "chord": "G7",
+              "text": "遣 我！』"
+            },
+            {
+              "chord": "",
+              "text": "深"
+            },
+            {
+              "chord": "C",
+              "text": "願"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "誰 願"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神 福 音 成"
+            },
+            {
+              "chord": "F",
+              "text": "我 生"
+            },
+            {
+              "chord": "G",
+              "text": "活， 更"
+            },
+            {
+              "chord": "C",
+              "text": "新"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "答 應，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 奉 獻 剛"
+            },
+            {
+              "chord": "F",
+              "text": "強 開"
+            },
+            {
+              "chord": "G",
+              "text": "拓， 答"
+            },
+            {
+              "chord": "C",
+              "text": "應"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "受 差"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主 呼 召， 忠"
+            },
+            {
+              "chord": "F",
+              "text": "勇 邁"
+            },
+            {
+              "chord": "G",
+              "text": "進， 跟"
+            },
+            {
+              "chord": "Am",
+              "text": "隨 羔"
+            },
+            {
+              "chord": "C",
+              "text": "羊 前"
+            },
+            {
+              "chord": "F",
+              "text": "行， 遍"
+            },
+            {
+              "chord": "",
+              "text": "地"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "遣 前"
-        },
-        {
-          "chord": "",
-          "text": "行？"
+          "segments": [
+            {
+              "chord": "Dm7",
+              "text": "叩 門！"
+            },
+            {
+              "chord": "C",
+              "text": "主 阿，"
+            },
+            {
+              "chord": "F",
+              "text": "願 你"
+            },
+            {
+              "chord": "G7",
+              "text": "快"
+            },
+            {
+              "chord": "C",
+              "text": "臨！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "F",
-          "text": "主 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生死伙伴，爱里相提携。"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "激 勵"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同灵站住，同魂齐努力。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "困"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只为基督身体，不顾自己。"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "迫， 不"
-        },
-        {
-          "chord": "Am",
-          "text": "再 我"
-        },
-        {
-          "chord": "C",
-          "text": "活。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作主得胜新妇，时代转移。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "F",
-          "text": "今 日"
+          "segments": [
+            {
+              "chord": "",
+              "text": "深愿神福音成我生活，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "起 來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "更新我奉献刚强开拓，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "應 聲："
+          "segments": [
+            {
+              "chord": "",
+              "text": "答应主呼召，忠勇迈进，跟随羔羊前行，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "『請 差"
-        },
-        {
-          "chord": "G7",
-          "text": "遣 我！』"
-        },
-        {
-          "chord": "",
-          "text": "深"
-        },
-        {
-          "chord": "C",
-          "text": "願"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神 福 音 成"
-        },
-        {
-          "chord": "F",
-          "text": "我 生"
-        },
-        {
-          "chord": "G",
-          "text": "活， 更"
-        },
-        {
-          "chord": "C",
-          "text": "新"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 奉 獻 剛"
-        },
-        {
-          "chord": "F",
-          "text": "強 開"
-        },
-        {
-          "chord": "G",
-          "text": "拓， 答"
-        },
-        {
-          "chord": "C",
-          "text": "應"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主 呼 召， 忠"
-        },
-        {
-          "chord": "F",
-          "text": "勇 邁"
-        },
-        {
-          "chord": "G",
-          "text": "進， 跟"
-        },
-        {
-          "chord": "Am",
-          "text": "隨 羔"
-        },
-        {
-          "chord": "C",
-          "text": "羊 前"
-        },
-        {
-          "chord": "F",
-          "text": "行， 遍"
-        },
-        {
-          "chord": "",
-          "text": "地"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Dm7",
-          "text": "叩 門！"
-        },
-        {
-          "chord": "C",
-          "text": "主 阿，"
-        },
-        {
-          "chord": "F",
-          "text": "願 你"
-        },
-        {
-          "chord": "G7",
-          "text": "快"
-        },
-        {
-          "chord": "C",
-          "text": "臨！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生死伙伴，爱里相提携。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同灵站住，同魂齐努力。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "只为基督身体，不顾自己。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作主得胜新妇，时代转移。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "深愿神福音成我生活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "更新我奉献刚强开拓，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "答应主呼召，忠勇迈进，跟随羔羊前行，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "遍地叩门！主阿，愿你快临！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "遍地叩门！主阿，愿你快临！"
+            }
+          ]
         }
       ]
     }
@@ -274,7 +290,16 @@
   "metadata": {
     "category": "事奉与福音",
     "time": "4/4",
-    "hymn_code": "51145654535"
+    "hymn_code": "51145654535",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/372",
+        "language": "cn",
+        "category": "ns",
+        "number": "372",
+        "title": "NS372"
+      }
+    ]
   },
   "raw_sections": [
     "誰 肯受 託，宣 揚神 福音？",

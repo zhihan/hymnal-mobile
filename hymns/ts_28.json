@@ -1,272 +1,300 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/28",
   "title": "来与我同欢唱",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "來 與"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "來 與"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "G",
+              "text": "同 歡"
+            },
+            {
+              "chord": "D",
+              "text": "唱！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 心 曾"
+            },
+            {
+              "chord": "E7",
+              "text": "經 匱"
+            },
+            {
+              "chord": "A7",
+              "text": "乏，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "同 歡"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "如 今"
+            },
+            {
+              "chord": "",
+              "text": "尋 得 愛"
+            },
+            {
+              "chord": "G",
+              "text": "的 寶"
+            },
+            {
+              "chord": "",
+              "text": "藏，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "唱！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "供"
+            },
+            {
+              "chord": "D",
+              "text": "應 豐"
+            },
+            {
+              "chord": "A7",
+              "text": "富 無"
+            },
+            {
+              "chord": "D",
+              "text": "差。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我 心 曾"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来与我同欢唱！"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "經 匱"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我原病弱无望，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "乏，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "如 今"
+          "segments": [
+            {
+              "chord": "",
+              "text": "喜遇救主知我景况，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "尋 得 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "并赐医治良方。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "来与我同欢唱！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "的 寶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "困倦疲惫如我，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "藏，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "供"
+          "segments": [
+            {
+              "chord": "",
+              "text": "欢然投靠大能臂膀，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "應 豐"
+          "segments": [
+            {
+              "chord": "",
+              "text": "加力、扶持无辍。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "来与我同欢唱！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "富 無"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我原偏行己路，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "差。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今由慈牧领回身旁，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂里安然居住。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "来与我同欢唱！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "来与我同欢唱！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "孤独乖僻如我，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "竟得一友知我心肠，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "用爱将我紧握。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我原病弱无望，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从前未识祂爱，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "但祂早已爱上；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "这爱深厚、坚定、"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "实在，既温柔又坚刚。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "喜遇救主知我景况，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我乐听祂慈声，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "并赐医治良方。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "引我日日向上；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "来与我同欢唱！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂爱既是如此丰盛，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "困倦疲惫如我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "欢然投靠大能臂膀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "加力、扶持无辍。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来与我同欢唱！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我原偏行己路，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今由慈牧领回身旁，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂里安然居住。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "来与我同欢唱！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "孤独乖僻如我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "竟得一友知我心肠，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "用爱将我紧握。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从前未识祂爱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但祂早已爱上；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "这爱深厚、坚定、"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "实在，既温柔又坚刚。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我乐听祂慈声，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "引我日日向上；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂爱既是如此丰盛，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我岂能不欢唱？"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我岂能不欢唱？"
+            }
+          ]
         }
       ]
     }
@@ -274,7 +302,16 @@
   "metadata": {
     "category": "赞美的话",
     "time": "3/4",
-    "hymn_code": "333413543232"
+    "hymn_code": "333413543232",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/285",
+        "language": "cn",
+        "category": "h",
+        "number": "285",
+        "title": "E285"
+      }
+    ]
   },
   "raw_sections": [
     "來 與我同 歡唱！",

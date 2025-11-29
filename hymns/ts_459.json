@@ -1,340 +1,356 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/459",
   "title": "主，你旨意我愿凭",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "主， 你"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "主， 你"
+            },
+            {
+              "chord": "",
+              "text": "旨 意 我"
+            },
+            {
+              "chord": "G",
+              "text": "願"
+            },
+            {
+              "chord": "D",
+              "text": "憑，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "旨 意 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主， 你 聖"
+            },
+            {
+              "chord": "A7",
+              "text": "言 我"
+            },
+            {
+              "chord": "D",
+              "text": "聽，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "願"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不 讓 閒 話 漏"
+            },
+            {
+              "chord": "G",
+              "text": "生"
+            },
+            {
+              "chord": "D",
+              "text": "命，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "憑，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主， 你 聖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不"
+            },
+            {
+              "chord": "Bm",
+              "text": "讓 俗"
+            },
+            {
+              "chord": "A7",
+              "text": "務 擾"
+            },
+            {
+              "chord": "D",
+              "text": "靈。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "言 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "求 你 向 我 多 吸 引，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "聽，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不 讓 閒 話 漏"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使"
+            },
+            {
+              "chord": "G",
+              "text": "我 與"
+            },
+            {
+              "chord": "",
+              "text": "你 更"
+            },
+            {
+              "chord": "A",
+              "text": "親，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "生"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "讓"
+            },
+            {
+              "chord": "D",
+              "text": "我 常"
+            },
+            {
+              "chord": "",
+              "text": "見 你"
+            },
+            {
+              "chord": "G",
+              "text": "榮"
+            },
+            {
+              "chord": "D",
+              "text": "形，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "命，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "緊"
+            },
+            {
+              "chord": "Bm",
+              "text": "緊 跟"
+            },
+            {
+              "chord": "A7",
+              "text": "隨 你"
+            },
+            {
+              "chord": "D",
+              "text": "行。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，你道路我愿走，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "讓 俗"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不管风狂雨骤，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "務 擾"
+          "segments": [
+            {
+              "chord": "",
+              "text": "虽然有忧也有愁，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "靈。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "求 你 向 我 多 吸 引，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主恩却更深厚。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "我 與"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我今追求虽不够，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你 更"
+          "segments": [
+            {
+              "chord": "",
+              "text": "有时会贪优游，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "親，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "讓"
+          "segments": [
+            {
+              "chord": "",
+              "text": "求你仍把我收留，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我 常"
+          "segments": [
+            {
+              "chord": "",
+              "text": "用爱把我浸透。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，你十架我愿负，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "見 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "面向你的国度，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "榮"
+          "segments": [
+            {
+              "chord": "",
+              "text": "虽然流泪虽然苦，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "形，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "緊"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你手却常搀扶。"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "緊 跟"
+          "segments": [
+            {
+              "chord": "",
+              "text": "前面路程已不长，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "隨 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "属天家乡在望，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "行。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "有朝，父怀我安躺，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我就喜乐欢畅。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "主，你道路我愿走，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "主，你荣耀快显现，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "不管风狂雨骤，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "这是我心所羡，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "虽然有忧也有愁，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "你的应许不改变，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "主恩却更深厚。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "你来将不迟延。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我今追求虽不够，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "求主使我能自勉，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "有时会贪优游，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "不向世界流连，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "求你仍把我收留，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我眼能常望着天，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "用爱把我浸透。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，你十架我愿负，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "面向你的国度，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "虽然流泪虽然苦，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你手却常搀扶。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "前面路程已不长，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "属天家乡在望，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有朝，父怀我安躺，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我就喜乐欢畅。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主，你荣耀快显现，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "这是我心所羡，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你的应许不改变，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你来将不迟延。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "求主使我能自勉，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不向世界流连，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我眼能常望着天，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "心能向你恋恋。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "心能向你恋恋。"
+            }
+          ]
         }
       ]
     }
@@ -342,7 +358,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "4/4",
-    "hymn_code": "53212165556543"
+    "hymn_code": "53212165556543",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6459",
+        "language": "cn",
+        "category": "h",
+        "number": "6459",
+        "title": "E6459"
+      }
+    ]
   },
   "raw_sections": [
     "主， 你旨 意 我願憑，",

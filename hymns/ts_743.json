@@ -1,688 +1,736 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/743",
   "title": "绝对分别出来",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "絕 對"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "絕 對"
+            },
+            {
+              "chord": "B",
+              "text": "分 別"
+            },
+            {
+              "chord": "Em",
+              "text": "出 來，"
+            }
+          ]
         },
         {
-          "chord": "B",
-          "text": "分 別"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "活 在"
+            },
+            {
+              "chord": "A7",
+              "text": "召 會"
+            },
+            {
+              "chord": "D",
+              "text": "中！"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "出 來，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "活 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不 惜"
+            },
+            {
+              "chord": "D7",
+              "text": "任 何"
+            },
+            {
+              "chord": "G",
+              "text": "代 價，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "召 會"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "經 歷"
+            },
+            {
+              "chord": "A7",
+              "text": "祂 豐"
+            },
+            {
+              "chord": "D",
+              "text": "富；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "中！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不 惜"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "割 斷"
+            },
+            {
+              "chord": "C",
+              "text": "所 有"
+            },
+            {
+              "chord": "D",
+              "text": "岸"
+            },
+            {
+              "chord": "G",
+              "text": "索，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "任 何"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "投 進"
+            },
+            {
+              "chord": "D7",
+              "text": "她 流"
+            },
+            {
+              "chord": "G",
+              "text": "中，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "代 價，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "經 歷"
+          "segments": [
+            {
+              "chord": "",
+              "text": "滿 有"
+            },
+            {
+              "chord": "C",
+              "text": "生 命"
+            },
+            {
+              "chord": "G",
+              "text": "供"
+            },
+            {
+              "chord": "Em",
+              "text": "應，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "祂 豐"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "成 為"
+            },
+            {
+              "chord": "D7",
+              "text": "她 祝"
+            },
+            {
+              "chord": "G",
+              "text": "福。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "絕 對"
+            },
+            {
+              "chord": "B",
+              "text": "分 別"
+            },
+            {
+              "chord": "Em",
+              "text": "出 來，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "富；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "割 斷"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "歸 於"
+            },
+            {
+              "chord": "A7",
+              "text": "主 召"
+            },
+            {
+              "chord": "D",
+              "text": "會，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "所 有"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "答 應"
+            },
+            {
+              "chord": "C",
+              "text": "主 的"
+            },
+            {
+              "chord": "G",
+              "text": "呼"
+            },
+            {
+              "chord": "Em",
+              "text": "召，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "岸"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "開 展"
+            },
+            {
+              "chord": "D7",
+              "text": "主 國"
+            },
+            {
+              "chord": "G",
+              "text": "度。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "绝对分别出来，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "索，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "投 進"
+          "segments": [
+            {
+              "chord": "",
+              "text": "活在召会中！"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "她 流"
+          "segments": [
+            {
+              "chord": "",
+              "text": "治死还要治死，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "滿 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到己去净！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到器皿倒空，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "供"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂脚前破碎，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "應，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "成 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到灵里充满"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "她 祝"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督的生命。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "绝对分别出来，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "福。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "絕 對"
+          "segments": [
+            {
+              "chord": "",
+              "text": "归于主召会，"
+            }
+          ]
         },
         {
-          "chord": "B",
-          "text": "分 別"
+          "segments": [
+            {
+              "chord": "",
+              "text": "答应主的呼召，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "出 來，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "开展主国度。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Am",
-          "text": "歸 於"
+          "segments": [
+            {
+              "chord": "",
+              "text": "绝对分别出来，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "主 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "归于神旨意，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "會，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "答 應"
+          "segments": [
+            {
+              "chord": "",
+              "text": "走主所走道路，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "主 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "力上复加力。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "呼"
+          "segments": [
+            {
+              "chord": "",
+              "text": "满了荣耀喜乐，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "召，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "開 展"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不断向前行，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "主 國"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同在主引导中，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "度。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "见证祂行动。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "绝对分别出来，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "绝对分别出来，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "归于主召会，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "答应主的呼召，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "开展主国度。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "活在召会中！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "绝对分别出来，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "一直到永世；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不再是我心意，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "全是主意旨；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的计画愿望，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "为她全灭没，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在世一无所有，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "万有实属我。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "治死还要治死，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "绝对分别出来，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "归于主召会，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "答应主的呼召，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "开展主国度。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "直到己去净！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "绝对分别出来，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "活在召会中！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "灵里何等安息，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "因见主心意。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "天天经营基督，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "呼喊主圣名，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "时刻灵里火热，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "彰显这新人。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "直到器皿倒空，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "绝对分别出来，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "归于主召会，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "答应主的呼召，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "开展主国度。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "祂脚前破碎，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我灵满了基督，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "过召会生活，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在她我蒙祝福，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在她我长成！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "里面所得异象，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "越过越明亮，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "活着是为召会，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "赤忠迎主归！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "直到灵里充满"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "绝对分别出来，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "基督的生命。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "归于主召会，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "绝对分别出来，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "答应主的呼召，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "归于主召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "答应主的呼召，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "开展主国度。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "绝对分别出来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "归于神旨意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "走主所走道路，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "力上复加力。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "满了荣耀喜乐，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不断向前行，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同在主引导中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "见证祂行动。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "绝对分别出来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "归于主召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "答应主的呼召，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "开展主国度。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "绝对分别出来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一直到永世；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不再是我心意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全是主意旨；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的计画愿望，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为她全灭没，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在世一无所有，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "万有实属我。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "绝对分别出来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "归于主召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "答应主的呼召，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "开展主国度。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "绝对分别出来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "活在召会中！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "灵里何等安息，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因见主心意。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天天经营基督，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "呼喊主圣名，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "时刻灵里火热，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "彰显这新人。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "绝对分别出来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "归于主召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "答应主的呼召，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "开展主国度。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我灵满了基督，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "过召会生活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在她我蒙祝福，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在她我长成！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "里面所得异象，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "越过越明亮，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "活着是为召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赤忠迎主归！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "绝对分别出来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "归于主召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "答应主的呼召，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "开展主国度。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "开展主国度。"
+            }
+          ]
         }
       ]
     }

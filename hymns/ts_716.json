@@ -1,612 +1,644 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/716",
   "title": "同过召会",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "生 命"
+            },
+            {
+              "chord": "",
+              "text": "歌 聲 在 召 會 中，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "歌 聲 在 召 會 中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "處 處"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "處 處"
+            },
+            {
+              "chord": "",
+              "text": "可"
+            },
+            {
+              "chord": "D7",
+              "text": "以"
+            },
+            {
+              "chord": "G",
+              "text": "聽 聞，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "可"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "基 督"
+            },
+            {
+              "chord": "",
+              "text": "是 我"
+            },
+            {
+              "chord": "G",
+              "text": "們 的"
+            },
+            {
+              "chord": "",
+              "text": "喜 樂，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "以"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "彰 顯"
+            },
+            {
+              "chord": "",
+              "text": "在 四"
+            },
+            {
+              "chord": "D",
+              "text": "方。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "聽 聞，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "基 督"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "巴 比"
+            },
+            {
+              "chord": "",
+              "text": "倫 和 世 俗 的 事"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "是 我"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "與 我"
+            },
+            {
+              "chord": "D7",
+              "text": "無 關"
+            },
+            {
+              "chord": "G",
+              "text": "無 分，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "們 的"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "已 經"
+            },
+            {
+              "chord": "G",
+              "text": "回 家，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "喜 樂，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在"
+            },
+            {
+              "chord": "D",
+              "text": "美"
+            },
+            {
+              "chord": "D7",
+              "text": "地"
+            },
+            {
+              "chord": "G",
+              "text": "上。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A7",
-          "text": "彰 顯"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在 靈 中 同 過 召 會，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "在 四"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在 召 會 地 方 立"
+            },
+            {
+              "chord": "D",
+              "text": "場；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "方。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "巴 比"
+          "segments": [
+            {
+              "chord": "",
+              "text": "弟"
+            },
+            {
+              "chord": "D7",
+              "text": "兄 們"
+            },
+            {
+              "chord": "",
+              "text": "同 過"
+            },
+            {
+              "chord": "G",
+              "text": "召 會，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "倫 和 世 俗 的 事"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "與 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "A7",
+              "text": "們 已"
+            },
+            {
+              "chord": "",
+              "text": "經 回"
+            },
+            {
+              "chord": "D",
+              "text": "家；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "無 關"
+          "segments": [
+            {
+              "chord": "",
+              "text": "跟"
+            },
+            {
+              "chord": "D7",
+              "text": "隨 眾"
+            },
+            {
+              "chord": "G",
+              "text": "召 會"
+            },
+            {
+              "chord": "",
+              "text": "同 過"
+            },
+            {
+              "chord": "G7",
+              "text": "召 會，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "無 分，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直 到"
+            },
+            {
+              "chord": "C",
+              "text": "全 地"
+            },
+            {
+              "chord": "",
+              "text": "都 同"
+            },
+            {
+              "chord": "G",
+              "text": "唱，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "已 經"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦 阿 利 路 亞！ 基"
+            },
+            {
+              "chord": "D",
+              "text": "督"
+            },
+            {
+              "chord": "D7",
+              "text": "美"
+            },
+            {
+              "chord": "G",
+              "text": "地！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "一切背景，所有道理，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "回 家，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "已经远远抛弃；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "美"
+          "segments": [
+            {
+              "chord": "",
+              "text": "世俗人情，罪中之乐，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "地"
+          "segments": [
+            {
+              "chord": "",
+              "text": "更是全绝离。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "上。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在 靈 中 同 過 召 會，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在 召 會 地 方 立"
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣基督大爱"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "場；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "弟"
+          "segments": [
+            {
+              "chord": "",
+              "text": "正在我们心中洋溢，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "兄 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们决不离开基督美地。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在灵中同过召会，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "同 過"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在召会地方立场；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "召 會，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "弟兄们同过召会，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "們 已"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们已经回家；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "經 回"
+          "segments": [
+            {
+              "chord": "",
+              "text": "跟随众召会同过召会，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "家；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "跟"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到全地都同唱，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "隨 眾"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦阿利路亚！基督美地！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "‘我要把我的召会"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "召 會"
+          "segments": [
+            {
+              "chord": "",
+              "text": "建造在这磐石上！’"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "同 過"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主既如此豫言，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "召 會，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直 到"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂也必如此成就。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "全 地"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将各肢体按祂意思，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "都 同"
+          "segments": [
+            {
+              "chord": "",
+              "text": "配搭在身体上，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "唱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦 阿 利 路 亞！ 基"
+          "segments": [
+            {
+              "chord": "",
+              "text": "建造一起，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "督"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在基督美地上！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在灵中同过召会，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "美"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在召会地方立场；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "地！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "弟兄们同过召会，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们已经回家；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "跟随众召会同过召会，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到全地都同唱，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦阿利路亚！基督美地！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "一切背景，所有道理，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "现今主正全地"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "快速开展祂的恢复，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "所有地方召会，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "同心向着主求祷，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "速速降临结束时代，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "迎娶祂的新妇。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚欢呼："
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督美地！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "已经远远抛弃；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "在灵中同过召会，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "世俗人情，罪中之乐，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "在召会地方立场；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "更是全绝离。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "弟兄们同过召会，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "耶稣基督大爱"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们已经回家；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "正在我们心中洋溢，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "跟随众召会同过召会，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我们决不离开基督美地。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到全地都同唱，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在灵中同过召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在召会地方立场；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "弟兄们同过召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们已经回家；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "跟随众召会同过召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到全地都同唱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦阿利路亚！基督美地！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "‘我要把我的召会"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "建造在这磐石上！’"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主既如此豫言，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂也必如此成就。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将各肢体按祂意思，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "配搭在身体上，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "建造一起，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在基督美地上！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在灵中同过召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在召会地方立场；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "弟兄们同过召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们已经回家；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "跟随众召会同过召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到全地都同唱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦阿利路亚！基督美地！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "现今主正全地"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "快速开展祂的恢复，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "所有地方召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同心向着主求祷，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "速速降临结束时代，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "迎娶祂的新妇。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚欢呼："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督美地！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在灵中同过召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在召会地方立场；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "弟兄们同过召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们已经回家；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "跟随众召会同过召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到全地都同唱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦阿利路亚！基督美地！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦阿利路亚！基督美地！"
+            }
+          ]
         }
       ]
     }
@@ -614,7 +646,16 @@
   "metadata": {
     "category": "教会的生活",
     "time": "4/4",
-    "hymn_code": "12165653565435"
+    "hymn_code": "12165653565435",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1236",
+        "language": "cn",
+        "category": "h",
+        "number": "1236",
+        "title": "E1236"
+      }
+    ]
   },
   "raw_sections": [
     "生 命歌 聲 在 召 會 中，",

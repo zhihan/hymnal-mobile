@@ -1,176 +1,184 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/918",
   "title": "更亲、更近、更甘甜",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "時 日"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "時 日"
+            },
+            {
+              "chord": "",
+              "text": "或 許 更"
+            },
+            {
+              "chord": "G",
+              "text": "黑"
+            },
+            {
+              "chord": "C",
+              "text": "暗， 長"
+            },
+            {
+              "chord": "",
+              "text": "夜 更"
+            },
+            {
+              "chord": "E7",
+              "text": "令 人"
+            },
+            {
+              "chord": "F",
+              "text": "倦，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "或 許 更"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一"
+            },
+            {
+              "chord": "C",
+              "text": "事 我"
+            },
+            {
+              "chord": "E7",
+              "text": "心 深"
+            },
+            {
+              "chord": "Am",
+              "text": "確 知，"
+            },
+            {
+              "chord": "",
+              "text": "儘"
+            },
+            {
+              "chord": "D",
+              "text": "管 我"
+            },
+            {
+              "chord": "",
+              "text": "主 遲"
+            },
+            {
+              "chord": "G",
+              "text": "延："
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "黑"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂"
+            },
+            {
+              "chord": "E7",
+              "text": "必 顯"
+            },
+            {
+              "chord": "",
+              "text": "為 更"
+            },
+            {
+              "chord": "Am",
+              "text": "親"
+            },
+            {
+              "chord": "G",
+              "text": "近， 交"
+            },
+            {
+              "chord": "C",
+              "text": "通 必"
+            },
+            {
+              "chord": "",
+              "text": "更 甘"
+            },
+            {
+              "chord": "G",
+              "text": "甜，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "暗， 長"
-        },
-        {
-          "chord": "",
-          "text": "夜 更"
-        },
-        {
-          "chord": "E7",
-          "text": "令 人"
-        },
-        {
-          "chord": "F",
-          "text": "倦，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "更"
+            },
+            {
+              "chord": "C",
+              "text": "親、 更"
+            },
+            {
+              "chord": "E7",
+              "text": "近、 更"
+            },
+            {
+              "chord": "Am",
+              "text": "甘 甜，"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "F",
+              "text": "主 與"
+            },
+            {
+              "chord": "G7",
+              "text": "我 之"
+            },
+            {
+              "chord": "C",
+              "text": "間。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们等候亲爱主─盼望！喜乐！友伴！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "事 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一心只想迎见祂─也许在日尽前，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "心 深"
+          "segments": [
+            {
+              "chord": "",
+              "text": "就在隐密转角处，祂的荣身要显；"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "確 知，"
-        },
-        {
-          "chord": "",
-          "text": "儘"
-        },
-        {
-          "chord": "D",
-          "text": "管 我"
-        },
-        {
-          "chord": "",
-          "text": "主 遲"
-        },
-        {
-          "chord": "G",
-          "text": "延："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂"
-        },
-        {
-          "chord": "E7",
-          "text": "必 顯"
-        },
-        {
-          "chord": "",
-          "text": "為 更"
-        },
-        {
-          "chord": "Am",
-          "text": "親"
-        },
-        {
-          "chord": "G",
-          "text": "近， 交"
-        },
-        {
-          "chord": "C",
-          "text": "通 必"
-        },
-        {
-          "chord": "",
-          "text": "更 甘"
-        },
-        {
-          "chord": "G",
-          "text": "甜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "更"
-        },
-        {
-          "chord": "C",
-          "text": "親、 更"
-        },
-        {
-          "chord": "E7",
-          "text": "近、 更"
-        },
-        {
-          "chord": "Am",
-          "text": "甘 甜，"
-        },
-        {
-          "chord": "",
-          "text": "我"
-        },
-        {
-          "chord": "F",
-          "text": "主 與"
-        },
-        {
-          "chord": "G7",
-          "text": "我 之"
-        },
-        {
-          "chord": "C",
-          "text": "間。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们等候亲爱主─盼望！喜乐！友伴！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一心只想迎见祂─也许在日尽前，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "就在隐密转角处，祂的荣身要显；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "等候就要成过去，安息就要完全。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "等候就要成过去，安息就要完全。"
+            }
+          ]
         }
       ]
     }
@@ -178,7 +186,16 @@
   "metadata": {
     "category": "盼望与豫备",
     "time": "4/4",
-    "hymn_code": "1214321351756"
+    "hymn_code": "1214321351756",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/710",
+        "language": "cn",
+        "category": "h",
+        "number": "710",
+        "title": "E710"
+      }
+    ]
   },
   "raw_sections": [
     "時 日或 許 更黑暗， 長夜 更令 人倦，",

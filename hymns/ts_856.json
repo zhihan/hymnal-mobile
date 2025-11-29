@@ -1,344 +1,368 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/856",
   "title": "耶稣流宝血，成就平息",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "前 困"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "前 困"
+            },
+            {
+              "chord": "",
+              "text": "深 牢 中，"
+            },
+            {
+              "chord": "C",
+              "text": "全 然"
+            },
+            {
+              "chord": "",
+              "text": "無 望；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "深 牢 中，"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "試 圖"
+            },
+            {
+              "chord": "",
+              "text": "要"
+            },
+            {
+              "chord": "D7",
+              "text": "相 信，"
+            },
+            {
+              "chord": "G",
+              "text": "仍 舊"
+            },
+            {
+              "chord": "",
+              "text": "徬"
+            },
+            {
+              "chord": "C",
+              "text": "徨。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "全 然"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "耶 穌"
+            },
+            {
+              "chord": "",
+              "text": "一 顯 現，"
+            },
+            {
+              "chord": "C",
+              "text": "天 光"
+            },
+            {
+              "chord": "",
+              "text": "照 明 亮；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "無 望；"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "大 愛"
+            },
+            {
+              "chord": "D7",
+              "text": "澆 灌"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "D",
+              "text": "心，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "神 今"
+            },
+            {
+              "chord": "D7",
+              "text": "住 我"
+            },
+            {
+              "chord": "",
+              "text": "心"
+            },
+            {
+              "chord": "G",
+              "text": "房！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "試 圖"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "耶 穌"
+            },
+            {
+              "chord": "",
+              "text": "流 寶 血，"
+            },
+            {
+              "chord": "G",
+              "text": "成 就"
+            },
+            {
+              "chord": "",
+              "text": "平 息；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "要"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "不 再"
+            },
+            {
+              "chord": "",
+              "text": "有"
+            },
+            {
+              "chord": "D7",
+              "text": "定 罪，"
+            },
+            {
+              "chord": "G",
+              "text": "因 信"
+            },
+            {
+              "chord": "",
+              "text": "稱"
+            },
+            {
+              "chord": "G7",
+              "text": "義。"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "相 信，"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "我 今"
+            },
+            {
+              "chord": "",
+              "text": "歸 與 神，"
+            },
+            {
+              "chord": "G",
+              "text": "因 救"
+            },
+            {
+              "chord": "",
+              "text": "贖 永 定；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "仍 舊"
-        },
-        {
-          "chord": "",
-          "text": "徬"
-        },
-        {
-          "chord": "C",
-          "text": "徨。"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "藉 著"
+            },
+            {
+              "chord": "D7",
+              "text": "耶 穌"
+            },
+            {
+              "chord": "",
+              "text": "基"
+            },
+            {
+              "chord": "D",
+              "text": "督， 對"
+            },
+            {
+              "chord": "",
+              "text": "神"
+            },
+            {
+              "chord": "D7",
+              "text": "有 了"
+            },
+            {
+              "chord": "",
+              "text": "和"
+            },
+            {
+              "chord": "G",
+              "text": "平！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "耶 穌"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生在亚当里，奔向死亡；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "一 顯 現，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "身心全受创，病入膏肓。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "天 光"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神差祂儿子，了结旧亚当；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "照 明 亮；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "罪、死不再得逞，祂死，我得释放！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "大 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣流宝血，成就平息；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "澆 灌"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不再有定罪，因信称义。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我今归与神，因救赎永定；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "心，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "借着耶稣基督，对神有了和平！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "神 今"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今站恩典中，喜乐欢畅；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "住 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "罪恶全消踪，神在流淌。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "心"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神长在我心，我享恩无量─"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "房！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在生命里得救，在生命中作王！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "耶 穌"
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣流宝血，成就平息；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "流 寶 血，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不再有定罪，因信称义。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "成 就"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我今归与神，因救赎永定；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "平 息；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "不 再"
-        },
-        {
-          "chord": "",
-          "text": "有"
-        },
-        {
-          "chord": "D7",
-          "text": "定 罪，"
-        },
-        {
-          "chord": "G",
-          "text": "因 信"
-        },
-        {
-          "chord": "",
-          "text": "稱"
-        },
-        {
-          "chord": "G7",
-          "text": "義。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "我 今"
-        },
-        {
-          "chord": "",
-          "text": "歸 與 神，"
-        },
-        {
-          "chord": "G",
-          "text": "因 救"
-        },
-        {
-          "chord": "",
-          "text": "贖 永 定；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "藉 著"
-        },
-        {
-          "chord": "D7",
-          "text": "耶 穌"
-        },
-        {
-          "chord": "",
-          "text": "基"
-        },
-        {
-          "chord": "D",
-          "text": "督， 對"
-        },
-        {
-          "chord": "",
-          "text": "神"
-        },
-        {
-          "chord": "D7",
-          "text": "有 了"
-        },
-        {
-          "chord": "",
-          "text": "和"
-        },
-        {
-          "chord": "G",
-          "text": "平！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生在亚当里，奔向死亡；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "身心全受创，病入膏肓。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神差祂儿子，了结旧亚当；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "罪、死不再得逞，祂死，我得释放！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣流宝血，成就平息；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不再有定罪，因信称义。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我今归与神，因救赎永定；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借着耶稣基督，对神有了和平！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今站恩典中，喜乐欢畅；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "罪恶全消踪，神在流淌。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神长在我心，我享恩无量─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在生命里得救，在生命中作王！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣流宝血，成就平息；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不再有定罪，因信称义。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我今归与神，因救赎永定；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借着耶稣基督，对神有了和平！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "借着耶稣基督，对神有了和平！"
+            }
+          ]
         }
       ]
     }
@@ -346,7 +370,16 @@
   "metadata": {
     "category": "事奉与福音",
     "time": "4/4",
-    "hymn_code": "111116666771271165"
+    "hymn_code": "111116666771271165",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1131",
+        "language": "cn",
+        "category": "h",
+        "number": "1131",
+        "title": "E1131"
+      }
+    ]
   },
   "raw_sections": [
     "前 困深 牢 中，全 然無 望；",

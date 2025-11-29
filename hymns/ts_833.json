@@ -1,208 +1,224 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/833",
   "title": "有一新生命",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "有 一"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "有 一"
+            },
+            {
+              "chord": "",
+              "text": "新 生 命， 美 妙、 喜 樂、 光 明；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "新 生 命， 美 妙、 喜 樂、 光 明；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 能 彀 得 到， 只 要 你 決"
+            },
+            {
+              "chord": "A",
+              "text": "意。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶 穌 能 滿 足 你 的 虛 空 心 靈，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 使 你"
+            },
+            {
+              "chord": "A7",
+              "text": "心 中"
+            },
+            {
+              "chord": "",
+              "text": "無 比 的 喜"
+            },
+            {
+              "chord": "D",
+              "text": "樂。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "你 能 彀 得 到， 只 要 你 決"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 能 彀"
+            },
+            {
+              "chord": "G",
+              "text": "經 歷"
+            },
+            {
+              "chord": "",
+              "text": "人 生 奇 妙"
+            },
+            {
+              "chord": "D",
+              "text": "大 改"
+            },
+            {
+              "chord": "",
+              "text": "變，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "意。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 能 彀"
+            },
+            {
+              "chord": "A7",
+              "text": "進 入"
+            },
+            {
+              "chord": "",
+              "text": "偉 大 的 情"
+            },
+            {
+              "chord": "D",
+              "text": "境；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 能 彀"
+            },
+            {
+              "chord": "G",
+              "text": "經 歷"
+            },
+            {
+              "chord": "",
+              "text": "超 越 榮 耀"
+            },
+            {
+              "chord": "D",
+              "text": "的 事"
+            },
+            {
+              "chord": "",
+              "text": "情，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "如 果"
+            },
+            {
+              "chord": "E7",
+              "text": "你 讓"
+            },
+            {
+              "chord": "",
+              "text": "救 主 進 入 你 的"
+            },
+            {
+              "chord": "A",
+              "text": "心。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "耶 穌 能 滿 足 你 的 虛 空 心 靈，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "现在你心思不需完全明白，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不必知道为甚么，或怎样；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "因祂要给你远超你心所望，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "远超你头脑所领会得来。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "祂 使 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你能够经历人生奇妙大改变，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "心 中"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你能够进入伟大的情境；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "無 比 的 喜"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你能够经历超越荣耀的事情，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "樂。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 能 彀"
-        },
-        {
-          "chord": "G",
-          "text": "經 歷"
-        },
-        {
-          "chord": "",
-          "text": "人 生 奇 妙"
-        },
-        {
-          "chord": "D",
-          "text": "大 改"
-        },
-        {
-          "chord": "",
-          "text": "變，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 能 彀"
-        },
-        {
-          "chord": "A7",
-          "text": "進 入"
-        },
-        {
-          "chord": "",
-          "text": "偉 大 的 情"
-        },
-        {
-          "chord": "D",
-          "text": "境；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 能 彀"
-        },
-        {
-          "chord": "G",
-          "text": "經 歷"
-        },
-        {
-          "chord": "",
-          "text": "超 越 榮 耀"
-        },
-        {
-          "chord": "D",
-          "text": "的 事"
-        },
-        {
-          "chord": "",
-          "text": "情，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如 果"
-        },
-        {
-          "chord": "E7",
-          "text": "你 讓"
-        },
-        {
-          "chord": "",
-          "text": "救 主 進 入 你 的"
-        },
-        {
-          "chord": "A",
-          "text": "心。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "现在你心思不需完全明白，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不必知道为甚么，或怎样；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因祂要给你远超你心所望，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "远超你头脑所领会得来。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你能够经历人生奇妙大改变，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你能够进入伟大的情境；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你能够经历超越荣耀的事情，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如果你让救主进入你的心。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如果你让救主进入你的心。"
+            }
+          ]
         }
       ]
     }

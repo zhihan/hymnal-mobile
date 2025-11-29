@@ -1,436 +1,456 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/470",
   "title": "主话真光越照越明",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "神 聖"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "神 聖"
+            },
+            {
+              "chord": "",
+              "text": "真"
+            },
+            {
+              "chord": "F",
+              "text": "理 深"
+            },
+            {
+              "chord": "G7",
+              "text": "廣 無"
+            },
+            {
+              "chord": "C",
+              "text": "邊，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "真"
+          "segments": [
+            {
+              "chord": "",
+              "text": "人"
+            },
+            {
+              "chord": "G",
+              "text": "智 豈"
+            },
+            {
+              "chord": "D7",
+              "text": "能 侷"
+            },
+            {
+              "chord": "G",
+              "text": "限？"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "理 深"
+          "segments": [
+            {
+              "chord": "G7",
+              "text": "一"
+            },
+            {
+              "chord": "C",
+              "text": "己 殘"
+            },
+            {
+              "chord": "F",
+              "text": "見， 囿"
+            },
+            {
+              "chord": "G7",
+              "text": "於 時"
+            },
+            {
+              "chord": "C",
+              "text": "空，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "廣 無"
+          "segments": [
+            {
+              "chord": "",
+              "text": "勿"
+            },
+            {
+              "chord": "Am",
+              "text": "將 天"
+            },
+            {
+              "chord": "E",
+              "text": "光 遮"
+            },
+            {
+              "chord": "Am",
+              "text": "掩。"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "邊，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "人"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "嶄"
+            },
+            {
+              "chord": "C",
+              "text": "新 亮"
+            },
+            {
+              "chord": "G",
+              "text": "光， 更"
+            },
+            {
+              "chord": "C",
+              "text": "美 盼"
+            },
+            {
+              "chord": "",
+              "text": "望，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "智 豈"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟"
+            },
+            {
+              "chord": "F",
+              "text": "願 人"
+            },
+            {
+              "chord": "",
+              "text": "心 能"
+            },
+            {
+              "chord": "G",
+              "text": "見："
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "能 侷"
+          "segments": [
+            {
+              "chord": "G7",
+              "text": "主"
+            },
+            {
+              "chord": "C",
+              "text": "話 真"
+            },
+            {
+              "chord": "F",
+              "text": "光 越"
+            },
+            {
+              "chord": "G7",
+              "text": "照 越"
+            },
+            {
+              "chord": "C",
+              "text": "明，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "限？"
+          "segments": [
+            {
+              "chord": "",
+              "text": "釋"
+            },
+            {
+              "chord": "Dm",
+              "text": "放 真"
+            },
+            {
+              "chord": "G7",
+              "text": "理 無"
+            },
+            {
+              "chord": "C",
+              "text": "限。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G7",
-          "text": "一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天来圣谕普赐万邦，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "己 殘"
+          "segments": [
+            {
+              "chord": "",
+              "text": "历代人当称羡；"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "見， 囿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "谁竟擅用无知言语，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "於 時"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阻挡神圣意念？"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "空，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "勿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如同宇宙阔长高深，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "將 天"
+          "segments": [
+            {
+              "chord": "",
+              "text": "浩瀚洋海无边："
+            }
+          ]
         },
         {
-          "chord": "E",
-          "text": "光 遮"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主话真光越照越明，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "掩。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "释放真理无限。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "嶄"
+          "segments": [
+            {
+              "chord": "",
+              "text": "先圣迈开追寻旅程，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "新 亮"
+          "segments": [
+            {
+              "chord": "",
+              "text": "暗中摸索而前；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "光， 更"
+          "segments": [
+            {
+              "chord": "",
+              "text": "晨光乍显，旭辉渐明，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "美 盼"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直至如日中天。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "望，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惟"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀太阳，愿你显身，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "願 人"
+          "segments": [
+            {
+              "chord": "",
+              "text": "辉煌光线尽现。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "心 能"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主话真光越照越明，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "見："
+          "segments": [
+            {
+              "chord": "",
+              "text": "释放真理无限。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G7",
-          "text": "主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "幽谷已过，昂首上行，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "話 真"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直攻真理之巅；"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "光 越"
+          "segments": [
+            {
+              "chord": "",
+              "text": "前人肩上极目一览，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "照 越"
+          "segments": [
+            {
+              "chord": "",
+              "text": "始识主智深远；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "明，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "釋"
+          "segments": [
+            {
+              "chord": "",
+              "text": "清明空中，天乐得聆，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "放 真"
+          "segments": [
+            {
+              "chord": "",
+              "text": "才知主富绵延："
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "理 無"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主话真光越照越明，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "限。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "释放真理无限。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "天来圣谕普赐万邦，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦愿父神借灵运行，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "历代人当称羡；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督安家心间，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "谁竟擅用无知言语，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "好使众圣能同领略，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "阻挡神圣意念？"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "神圣大爱艰言；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "如同宇宙阔长高深，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "如此神圣实际得以"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "浩瀚洋海无边："
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "日日加增不断："
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "主话真光越照越明，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "主话真光越照越明，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "释放真理无限。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "先圣迈开追寻旅程，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "暗中摸索而前；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "晨光乍显，旭辉渐明，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直至如日中天。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀太阳，愿你显身，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "辉煌光线尽现。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主话真光越照越明，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "释放真理无限。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "幽谷已过，昂首上行，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直攻真理之巅；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "前人肩上极目一览，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "始识主智深远；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "清明空中，天乐得聆，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "才知主富绵延："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主话真光越照越明，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "释放真理无限。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦愿父神借灵运行，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督安家心间，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "好使众圣能同领略，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神圣大爱艰言；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如此神圣实际得以"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "日日加增不断："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主话真光越照越明，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "释放真理无限。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "释放真理无限。"
+            }
+          ]
         }
       ]
     }
@@ -438,7 +458,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "4/4",
-    "hymn_code": "13516543325665"
+    "hymn_code": "13516543325665",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/817",
+        "language": "cn",
+        "category": "h",
+        "number": "817",
+        "title": "E817"
+      }
+    ]
   },
   "raw_sections": [
     "神 聖真理 深廣 無邊，",

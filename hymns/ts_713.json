@@ -1,568 +1,608 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/713",
   "title": "阿！可爱的召会生活",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "阿！ 可"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "阿！ 可"
+            },
+            {
+              "chord": "",
+              "text": "愛 的 召"
+            },
+            {
+              "chord": "C",
+              "text": "會 生"
+            },
+            {
+              "chord": "G",
+              "text": "活！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "愛 的 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們 在"
+            },
+            {
+              "chord": "D",
+              "text": "這 裡，"
+            },
+            {
+              "chord": "",
+              "text": "天 天 有"
+            },
+            {
+              "chord": "G",
+              "text": "喫 喝；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "會 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何 必 挨 餓？ 何"
+            },
+            {
+              "chord": "C",
+              "text": "必 乾"
+            },
+            {
+              "chord": "G",
+              "text": "渴？"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "活！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "讓 我 們"
+            },
+            {
+              "chord": "C",
+              "text": "一 同"
+            },
+            {
+              "chord": "D7",
+              "text": "來 享"
+            },
+            {
+              "chord": "G",
+              "text": "受！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我 們 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "快 快 進 入 方 舟，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "這 裡，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同 過 召 會 生 活，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "天 天 有"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "天 天"
+            },
+            {
+              "chord": "",
+              "text": "喫"
+            },
+            {
+              "chord": "D",
+              "text": "喝 享"
+            },
+            {
+              "chord": "",
+              "text": "受，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "喫 喝；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何 必 挨 餓？ 何"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "日 子"
+            },
+            {
+              "chord": "",
+              "text": "已"
+            },
+            {
+              "chord": "D",
+              "text": "經 不"
+            },
+            {
+              "chord": "",
+              "text": "多！"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "必 乾"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "快 快"
+            },
+            {
+              "chord": "",
+              "text": "進 入 方 舟，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "渴？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "讓 我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同 過 召 會 生 活，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "一 同"
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "迎 接"
+            },
+            {
+              "chord": "",
+              "text": "新 郎 回 來，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "來 享"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "最 是"
+            },
+            {
+              "chord": "",
+              "text": "值"
+            },
+            {
+              "chord": "G",
+              "text": "得！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿！可爱的召会生活！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "受！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "快 快 進 入 方 舟，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同 過 召 會 生 活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "天 天"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为这个奉献，实在是值得！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "喫"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们爱基督与召会，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "喝 享"
+          "segments": [
+            {
+              "chord": "",
+              "text": "除此以外，别无所求。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "快快进入方舟，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "受，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "日 子"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同过召会生活，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "已"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天天吃喝享受，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "經 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "日子已经不多！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "多！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "快 快"
+          "segments": [
+            {
+              "chord": "",
+              "text": "快快进入方舟，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "進 入 方 舟，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同 過 召 會 生 活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Am",
-          "text": "迎 接"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同过召会生活，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "新 郎 回 來，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "最 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "迎接新郎回来，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "值"
+          "segments": [
+            {
+              "chord": "",
+              "text": "最是值得！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿！可爱的召会生活！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "得！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在神的家中，个个都富有！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "可以在会中尽功用，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "可以到处带人得救！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "阿！可爱的召会生活！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "快快进入方舟，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "同过召会生活，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "天天吃喝享受，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "日子已经不多！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "快快进入方舟，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "同过召会生活，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "迎接新郎回来，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "最是值得！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "为这个奉献，实在是值得！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿！可爱的召会生活！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们有美地，无比的肥沃！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "殷勤耕种，时刻浇灌，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们都是全时间的！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我们爱基督与召会，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "快快进入方舟，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "同过召会生活，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "天天吃喝享受，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "日子已经不多！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "快快进入方舟，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "同过召会生活，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "迎接新郎回来，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "最是值得！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "除此以外，别无所求。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿！可爱的召会生活！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "建造在一起，我们是一个！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哈！老撒但，该你蒙羞，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "新妇到底被主得着！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "快快进入方舟，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "快快进入方舟，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "同过召会生活，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "同过召会生活，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "天天吃喝享受，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "天天吃喝享受，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "日子已经不多！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "日子已经不多！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "快快进入方舟，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "快快进入方舟，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "同过召会生活，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "同过召会生活，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "迎接新郎回来，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "迎接新郎回来，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "最是值得！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿！可爱的召会生活！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在神的家中，个个都富有！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "可以在会中尽功用，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "可以到处带人得救！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "快快进入方舟，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同过召会生活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天天吃喝享受，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "日子已经不多！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "快快进入方舟，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同过召会生活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "迎接新郎回来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "最是值得！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿！可爱的召会生活！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们有美地，无比的肥沃！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "殷勤耕种，时刻浇灌，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们都是全时间的！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "快快进入方舟，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同过召会生活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天天吃喝享受，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "日子已经不多！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "快快进入方舟，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同过召会生活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "迎接新郎回来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "最是值得！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿！可爱的召会生活！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "建造在一起，我们是一个！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哈！老撒但，该你蒙羞，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "新妇到底被主得着！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "快快进入方舟，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同过召会生活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天天吃喝享受，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "日子已经不多！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "快快进入方舟，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同过召会生活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "迎接新郎回来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "最是值得！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "最是值得！"
+            }
+          ]
         }
       ]
     }

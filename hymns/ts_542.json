@@ -1,716 +1,748 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/542",
   "title": "作你独特子民",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "主 的"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "主 的"
+            },
+            {
+              "chord": "",
+              "text": "恢 復"
+            },
+            {
+              "chord": "F♯m",
+              "text": "需 要"
+            },
+            {
+              "chord": "",
+              "text": "我 們"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "恢 復"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "歸 回"
+            },
+            {
+              "chord": "",
+              "text": "顧 到"
+            },
+            {
+              "chord": "A",
+              "text": "神 權"
+            },
+            {
+              "chord": "",
+              "text": "益；"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "需 要"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "出 到"
+            },
+            {
+              "chord": "",
+              "text": "營 外"
+            },
+            {
+              "chord": "F♯m",
+              "text": "勝 過"
+            },
+            {
+              "chord": "",
+              "text": "墮 落，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我 們"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "歸 回"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "建 造"
+            },
+            {
+              "chord": "",
+              "text": "召 會"
+            },
+            {
+              "chord": "A",
+              "text": "主 身"
+            },
+            {
+              "chord": "D",
+              "text": "體。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "顧 到"
+          "segments": [
+            {
+              "chord": "",
+              "text": "靈 中 站 住"
+            },
+            {
+              "chord": "F♯m",
+              "text": "合 一"
+            },
+            {
+              "chord": "",
+              "text": "立 場，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "神 權"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "持 守"
+            },
+            {
+              "chord": "",
+              "text": "基 督"
+            },
+            {
+              "chord": "D",
+              "text": "作 生"
+            },
+            {
+              "chord": "A",
+              "text": "命；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "益；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "出 到"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "陳 明"
+            },
+            {
+              "chord": "",
+              "text": "真 理"
+            },
+            {
+              "chord": "F♯m",
+              "text": "至 死"
+            },
+            {
+              "chord": "",
+              "text": "忠 信，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "營 外"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "作 主"
+            },
+            {
+              "chord": "D",
+              "text": "獨 一"
+            },
+            {
+              "chord": "A",
+              "text": "活 見"
+            },
+            {
+              "chord": "D",
+              "text": "證。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "何 其 憐 憫，"
+            },
+            {
+              "chord": "G",
+              "text": "我 們"
+            },
+            {
+              "chord": "D",
+              "text": "得 以"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "勝 過"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "一 生"
+            },
+            {
+              "chord": "",
+              "text": "作 你 獨"
+            },
+            {
+              "chord": "A",
+              "text": "特 子"
+            },
+            {
+              "chord": "",
+              "text": "民；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "墮 落，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "建 造"
+          "segments": [
+            {
+              "chord": "",
+              "text": "為"
+            },
+            {
+              "chord": "F♯m",
+              "text": "你 恢"
+            },
+            {
+              "chord": "",
+              "text": "復 我"
+            },
+            {
+              "chord": "Bm",
+              "text": "們 全"
+            },
+            {
+              "chord": "",
+              "text": "傾，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "召 會"
+          "segments": [
+            {
+              "chord": "",
+              "text": "緊"
+            },
+            {
+              "chord": "G",
+              "text": "緊 跟"
+            },
+            {
+              "chord": "",
+              "text": "隨 不 稍 偏"
+            },
+            {
+              "chord": "A",
+              "text": "離。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "主 身"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "終 極"
+            },
+            {
+              "chord": "",
+              "text": "異 象"
+            },
+            {
+              "chord": "F♯m",
+              "text": "管 制"
+            },
+            {
+              "chord": "",
+              "text": "規 律，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "體。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "靈 中 站 住"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "枉 費"
+            },
+            {
+              "chord": "",
+              "text": "一 切"
+            },
+            {
+              "chord": "D",
+              "text": "為 你"
+            },
+            {
+              "chord": "",
+              "text": "身 體；"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "合 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同"
+            },
+            {
+              "chord": "G",
+              "text": "奔 賽"
+            },
+            {
+              "chord": "F♯",
+              "text": "程 神"
+            },
+            {
+              "chord": "Bm",
+              "text": "旨 得"
+            },
+            {
+              "chord": "G",
+              "text": "成，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "立 場，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "榮"
+            },
+            {
+              "chord": "Em",
+              "text": "耀 新"
+            },
+            {
+              "chord": "G",
+              "text": "婦 迎"
+            },
+            {
+              "chord": "A",
+              "text": "你"
+            },
+            {
+              "chord": "A7",
+              "text": "再"
+            },
+            {
+              "chord": "D",
+              "text": "臨！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "持 守"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀召会为神所有，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "基 督"
+          "segments": [
+            {
+              "chord": "",
+              "text": "纯洁无瑕何神圣；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "作 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "凭神生命活神性情，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "命；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "陳 明"
+          "segments": [
+            {
+              "chord": "",
+              "text": "窄门狭路灵中行。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "真 理"
+          "segments": [
+            {
+              "chord": "",
+              "text": "照神旨意生活事奉，"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "至 死"
+          "segments": [
+            {
+              "chord": "",
+              "text": "伟大成就非我望；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "忠 信，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "作 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "凭着祷告、那灵与话，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "獨 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "与神同工同前往。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "何其怜悯，我们得以"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "活 見"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一生作你独特子民；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "證。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何 其 憐 憫，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为你恢复我们全倾，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "紧紧跟随不稍偏离。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "得 以"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "一 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "终极异象管制规律，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "作 你 獨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "枉费一切为你身体；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "特 子"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同奔赛程神旨得成，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "民；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀新妇迎你再临！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "独一之神独一心意，"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "你 恢"
+          "segments": [
+            {
+              "chord": "",
+              "text": "独一经纶已开启；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "復 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "三一神里神圣的一，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "們 全"
+          "segments": [
+            {
+              "chord": "",
+              "text": "扩大彰显于身体。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "傾，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "緊"
+          "segments": [
+            {
+              "chord": "",
+              "text": "独一水流全人投进，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "緊 跟"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同心合意来事奉；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "隨 不 稍 偏"
+          "segments": [
+            {
+              "chord": "",
+              "text": "独一交通、独一工作，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "離。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "终极完成于撒冷。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "終 極"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何其怜悯，我们得以"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "異 象"
+          "segments": [
+            {
+              "chord": "",
+              "text": "一生作你独特子民；"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "管 制"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为你恢复我们全倾，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "規 律，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "枉 費"
+          "segments": [
+            {
+              "chord": "",
+              "text": "紧紧跟随不稍偏离。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "一 切"
+          "segments": [
+            {
+              "chord": "",
+              "text": "终极异象管制规律，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "為 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "枉费一切为你身体；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "身 體；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同奔赛程神旨得成，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "奔 賽"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀新妇迎你再临！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "时代异象、时代职事，"
+            }
+          ]
         },
         {
-          "chord": "F♯",
-          "text": "程 神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同负一轭同脚踪；"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "旨 得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "留在其中抵挡败落，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "成，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "榮"
+          "segments": [
+            {
+              "chord": "",
+              "text": "健康话语当遵从。"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "耀 新"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使徒教训成我口味，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "婦 迎"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不同教训不容忍。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同吹独一争战号声，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "再"
+          "segments": [
+            {
+              "chord": "",
+              "text": "忠信教导神经纶。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "何其怜悯，我们得以"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "臨！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "一生作你独特子民；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "荣耀召会为神所有，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "为你恢复我们全倾，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "纯洁无瑕何神圣；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "紧紧跟随不稍偏离。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "凭神生命活神性情，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "终极异象管制规律，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "窄门狭路灵中行。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "枉费一切为你身体；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "照神旨意生活事奉，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "同奔赛程神旨得成，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "伟大成就非我望；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "凭着祷告、那灵与话，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "与神同工同前往。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何其怜悯，我们得以"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一生作你独特子民；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为你恢复我们全倾，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "紧紧跟随不稍偏离。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "终极异象管制规律，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "枉费一切为你身体；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同奔赛程神旨得成，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀新妇迎你再临！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "独一之神独一心意，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "独一经纶已开启；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "三一神里神圣的一，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "扩大彰显于身体。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "独一水流全人投进，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同心合意来事奉；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "独一交通、独一工作，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "终极完成于撒冷。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何其怜悯，我们得以"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一生作你独特子民；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为你恢复我们全倾，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "紧紧跟随不稍偏离。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "终极异象管制规律，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "枉费一切为你身体；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同奔赛程神旨得成，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀新妇迎你再临！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "时代异象、时代职事，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同负一轭同脚踪；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "留在其中抵挡败落，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "健康话语当遵从。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使徒教训成我口味，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不同教训不容忍。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同吹独一争战号声，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "忠信教导神经纶。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何其怜悯，我们得以"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "一生作你独特子民；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为你恢复我们全倾，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "紧紧跟随不稍偏离。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "终极异象管制规律，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "枉费一切为你身体；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同奔赛程神旨得成，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀新妇迎你再临！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀新妇迎你再临！"
+            }
+          ]
         }
       ]
     }

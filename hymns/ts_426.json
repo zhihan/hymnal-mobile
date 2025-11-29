@@ -1,272 +1,280 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/426",
   "title": "我们是一粒粒‘麦子’",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Em",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "是 一 粒 粒"
+            },
+            {
+              "chord": "B7",
+              "text": "『麥 子』，"
+            },
+            {
+              "chord": "",
+              "text": "裡 面"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "是 一 粒 粒"
+          "segments": [
+            {
+              "chord": "",
+              "text": "含 有 大 能 的 生"
+            },
+            {
+              "chord": "Em",
+              "text": "命， 經"
+            },
+            {
+              "chord": "",
+              "text": "過"
+            }
+          ]
         },
         {
-          "chord": "B7",
-          "text": "『麥 子』，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "死 的 破 碎、"
+            },
+            {
+              "chord": "B7",
+              "text": "限 制，"
+            },
+            {
+              "chord": "",
+              "text": "就 要"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "裡 面"
+          "segments": [
+            {
+              "chord": "",
+              "text": "顯 出 復 活 的 榮"
+            },
+            {
+              "chord": "Em",
+              "text": "景； 只"
+            },
+            {
+              "chord": "Am",
+              "text": "要"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "埋"
+            },
+            {
+              "chord": "G",
+              "text": "下， 置"
+            },
+            {
+              "chord": "B7",
+              "text": "魂 生"
+            },
+            {
+              "chord": "",
+              "text": "命"
+            },
+            {
+              "chord": "Em",
+              "text": "於 十"
+            },
+            {
+              "chord": "",
+              "text": "架， 就"
+            },
+            {
+              "chord": "Am",
+              "text": "要"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "結"
+            },
+            {
+              "chord": "G",
+              "text": "實，"
+            },
+            {
+              "chord": "Em",
+              "text": "神 的"
+            },
+            {
+              "chord": "C",
+              "text": "生 命"
+            },
+            {
+              "chord": "B7",
+              "text": "繁 殖。"
+            },
+            {
+              "chord": "Em",
+              "text": "我 們"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "是 一 粒 粒"
+            },
+            {
+              "chord": "B7",
+              "text": "『麥 子』，"
+            },
+            {
+              "chord": "",
+              "text": "裡 面 含 有"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "大 能 的 生"
+            },
+            {
+              "chord": "Em",
+              "text": "命， 經"
+            },
+            {
+              "chord": "",
+              "text": "過 死 的"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "破 碎、"
+            },
+            {
+              "chord": "B7",
+              "text": "限 制，"
+            },
+            {
+              "chord": "",
+              "text": "就 要 顯 出"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "復 活 的 榮"
+            },
+            {
+              "chord": "Em",
+              "text": "景。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "含 有 大 能 的 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我听主一次次招呼，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "命， 經"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今愿跟随我主的脚步，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "過"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "死 的 破 碎、"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我不再完整如故，"
+            }
+          ]
         },
         {
-          "chord": "B7",
-          "text": "限 制，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟愿生命在我有出路；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "就 要"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "顯 出 復 活 的 榮"
+          "segments": [
+            {
+              "chord": "",
+              "text": "将我种下，直到复活的萌芽，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "景； 只"
+          "segments": [
+            {
+              "chord": "",
+              "text": "结成满穗，一粒扩增百倍。"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "要"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "埋"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我听主一次次招呼，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "下， 置"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今愿跟随我主的脚步，"
+            }
+          ]
         },
         {
-          "chord": "B7",
-          "text": "魂 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我不再完整如故，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "命"
-        },
-        {
-          "chord": "Em",
-          "text": "於 十"
-        },
-        {
-          "chord": "",
-          "text": "架， 就"
-        },
-        {
-          "chord": "Am",
-          "text": "要"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "結"
-        },
-        {
-          "chord": "G",
-          "text": "實，"
-        },
-        {
-          "chord": "Em",
-          "text": "神 的"
-        },
-        {
-          "chord": "C",
-          "text": "生 命"
-        },
-        {
-          "chord": "B7",
-          "text": "繁 殖。"
-        },
-        {
-          "chord": "Em",
-          "text": "我 們"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是 一 粒 粒"
-        },
-        {
-          "chord": "B7",
-          "text": "『麥 子』，"
-        },
-        {
-          "chord": "",
-          "text": "裡 面 含 有"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "大 能 的 生"
-        },
-        {
-          "chord": "Em",
-          "text": "命， 經"
-        },
-        {
-          "chord": "",
-          "text": "過 死 的"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "破 碎、"
-        },
-        {
-          "chord": "B7",
-          "text": "限 制，"
-        },
-        {
-          "chord": "",
-          "text": "就 要 顯 出"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "復 活 的 榮"
-        },
-        {
-          "chord": "Em",
-          "text": "景。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我听主一次次招呼，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今愿跟随我主的脚步，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我不再完整如故，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惟愿生命在我有出路；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "将我种下，直到复活的萌芽，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "结成满穗，一粒扩增百倍。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我听主一次次招呼，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今愿跟随我主的脚步，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我不再完整如故，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惟愿生命在我有出路。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟愿生命在我有出路。"
+            }
+          ]
         }
       ]
     }
@@ -274,7 +282,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "4/4",
-    "hymn_code": "312321177127121776"
+    "hymn_code": "312321177127121776",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/577",
+        "language": "cn",
+        "category": "ns",
+        "number": "577",
+        "title": "NS577"
+      }
+    ]
   },
   "raw_sections": [
     "我 們是 一 粒 粒『麥 子』，裡 面",

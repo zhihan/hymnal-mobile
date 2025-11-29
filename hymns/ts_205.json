@@ -1,196 +1,204 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/205",
   "title": "更多得着基督",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "更 多"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "更 多"
+            },
+            {
+              "chord": "",
+              "text": "得 著 基 督，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "得 著 基 督，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "多 又"
+            },
+            {
+              "chord": "D",
+              "text": "多 又"
+            },
+            {
+              "chord": "G",
+              "text": "多！ (蹦!"
+            },
+            {
+              "chord": "",
+              "text": "蹦! 蹦!) 更 多 得 著 基"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "督， 多 過"
+            },
+            {
+              "chord": "A",
+              "text": "從 前"
+            },
+            {
+              "chord": "",
+              "text": "所"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "得"
+            },
+            {
+              "chord": "D",
+              "text": "著。 (蹦!"
+            },
+            {
+              "chord": "",
+              "text": "蹦! 蹦!)"
+            },
+            {
+              "chord": "G",
+              "text": "更 多"
+            },
+            {
+              "chord": "",
+              "text": "得 祂 作 生 命，"
+            },
+            {
+              "chord": "G7",
+              "text": "豐 富"
+            },
+            {
+              "chord": "",
+              "text": "無"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "可"
+            },
+            {
+              "chord": "C",
+              "text": "加； 更"
+            },
+            {
+              "chord": "",
+              "text": "多 得 著"
+            },
+            {
+              "chord": "G",
+              "text": "基"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "督，"
+            },
+            {
+              "chord": "Em",
+              "text": "我 將"
+            },
+            {
+              "chord": "Am",
+              "text": "自 己"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "多 給"
+            },
+            {
+              "chord": "G",
+              "text": "祂。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "多 又"
+          "segments": [
+            {
+              "chord": "",
+              "text": "更多吃主耶稣，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "多 又"
+          "segments": [
+            {
+              "chord": "",
+              "text": "多又多又多！(嗯!嗯!嗯!)"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "多！ (蹦!"
+          "segments": [
+            {
+              "chord": "",
+              "text": "更多吃主耶稣，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "蹦! 蹦!) 更 多 得 著 基"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "督， 多 過"
+          "segments": [
+            {
+              "chord": "",
+              "text": "吃得比前还要多。(嗯!嗯!嗯!)"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "從 前"
+          "segments": [
+            {
+              "chord": "",
+              "text": "更多吃祂作食物，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "所"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "丰富又美佳。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "著。 (蹦!"
+          "segments": [
+            {
+              "chord": "",
+              "text": "更多吃主耶稣，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "蹦! 蹦!)"
-        },
-        {
-          "chord": "G",
-          "text": "更 多"
-        },
-        {
-          "chord": "",
-          "text": "得 祂 作 生 命，"
-        },
-        {
-          "chord": "G7",
-          "text": "豐 富"
-        },
-        {
-          "chord": "",
-          "text": "無"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "可"
-        },
-        {
-          "chord": "C",
-          "text": "加； 更"
-        },
-        {
-          "chord": "",
-          "text": "多 得 著"
-        },
-        {
-          "chord": "G",
-          "text": "基"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "督，"
-        },
-        {
-          "chord": "Em",
-          "text": "我 將"
-        },
-        {
-          "chord": "Am",
-          "text": "自 己"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "多 給"
-        },
-        {
-          "chord": "G",
-          "text": "祂。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "更多吃主耶稣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "多又多又多！(嗯!嗯!嗯!)"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "更多吃主耶稣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "吃得比前还要多。(嗯!嗯!嗯!)"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "更多吃祂作食物，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "丰富又美佳。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "更多吃主耶稣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们时刻都吃祂。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们时刻都吃祂。"
+            }
+          ]
         }
       ]
     }
@@ -198,7 +206,16 @@
   "metadata": {
     "category": "享受基督",
     "time": "4/4",
-    "hymn_code": "11156533221"
+    "hymn_code": "11156533221",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6205",
+        "language": "cn",
+        "category": "h",
+        "number": "6205",
+        "title": "E6205"
+      }
+    ]
   },
   "raw_sections": [
     "更 多得 著 基 督，",

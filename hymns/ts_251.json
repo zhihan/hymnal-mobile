@@ -1,544 +1,600 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/251",
   "title": "吃喝基督，成为新妇",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "在 聖"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "在 聖"
+            },
+            {
+              "chord": "G7",
+              "text": "經 開"
+            },
+            {
+              "chord": "",
+              "text": "始，"
+            },
+            {
+              "chord": "C",
+              "text": "神 已"
+            },
+            {
+              "chord": "",
+              "text": "經 啟 示，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "經 開"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "人 是"
+            },
+            {
+              "chord": "",
+              "text": "按 著 祂 形 像 造"
+            },
+            {
+              "chord": "D7",
+              "text": "成；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "始，"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "為 要"
+            },
+            {
+              "chord": "G7",
+              "text": "彰 顯"
+            },
+            {
+              "chord": "",
+              "text": "祂，"
+            },
+            {
+              "chord": "C",
+              "text": "並 且"
+            },
+            {
+              "chord": "",
+              "text": "代 表 祂，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "神 已"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "征 服"
+            },
+            {
+              "chord": "",
+              "text": "全 地 帶 進"
+            },
+            {
+              "chord": "D",
+              "text": "祂"
+            },
+            {
+              "chord": "D7",
+              "text": "權"
+            },
+            {
+              "chord": "G",
+              "text": "能。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "形 像，"
+            },
+            {
+              "chord": "C",
+              "text": "形 像─"
+            },
+            {
+              "chord": "G",
+              "text": "人"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "經 啟 示，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "人 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是 按 著 神 形 像 造"
+            },
+            {
+              "chord": "D7",
+              "text": "成；"
+            },
+            {
+              "chord": "G",
+              "text": "形"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "按 著 祂 形 像 造"
+          "segments": [
+            {
+              "chord": "G7",
+              "text": "像，"
+            },
+            {
+              "chord": "C",
+              "text": "形 像─"
+            },
+            {
+              "chord": "G",
+              "text": "征 服"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "成；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "全 地 帶 進"
+            },
+            {
+              "chord": "D",
+              "text": "祂"
+            },
+            {
+              "chord": "D7",
+              "text": "權"
+            },
+            {
+              "chord": "G",
+              "text": "能。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "為 要"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂没有立下任何的律法，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "彰 顯"
+          "segments": [
+            {
+              "chord": "",
+              "text": "只说园中果子随意吃；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "祂，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但是善恶树，万不可接触，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "並 且"
+          "segments": [
+            {
+              "chord": "",
+              "text": "吃了知识果子必定死。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "知识，知识─"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "代 表 祂，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "征 服"
+          "segments": [
+            {
+              "chord": "",
+              "text": "知识果子不能随意吃；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "全 地 帶 進"
+          "segments": [
+            {
+              "chord": "",
+              "text": "知识，知识─"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "知识果子吃了必定死。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在伊甸乐园，摆在人面前，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "權"
+          "segments": [
+            {
+              "chord": "",
+              "text": "有生命树代表神自己；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "能。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "形 像，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但是那毒蛇，诡诈又邪恶，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "形 像─"
+          "segments": [
+            {
+              "chord": "",
+              "text": "借着知识使人心偏离。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "堕落，堕落─"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "人"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是 按 著 神 形 像 造"
+          "segments": [
+            {
+              "chord": "",
+              "text": "人不幸已中了蛇的毒；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "成；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "堕落，堕落─"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "形"
+          "segments": [
+            {
+              "chord": "",
+              "text": "人需要一个完全恢复。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G7",
-          "text": "像，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主耶稣基督就是生命树，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "形 像─"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神成肉身，满足神要求；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "征 服"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全 地 帶 進"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂救赎我们，又重生我们，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "现今成了我们的珍馐。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣基督─"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "權"
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣基督是我真食物；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "能。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣基督─"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "吃喝享受祂就得饱足。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "祂没有立下任何的律法，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主不是要搞我们的头脑，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "知识只叫人自高自大；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂来的目的乃是作筵席，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不重研究乃在吃喝祂。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "只说园中果子随意吃；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "接受，接受─"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂作食物，供应真充足；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "接受，接受─"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣乃是我们生命树。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "但是善恶树，万不可接触，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "越多吃喝祂，越不断长大，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "生命、人数必加增不已；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们要清楚神今天恢复，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督不是宗教，是筵席。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "吃了知识果子必定死。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "吃祂，吃祂─"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "越多吃祂，祂越要增多；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "吃祂，吃祂─"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "吃祂的人必因祂活着。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "知识，知识─"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今天的道路是吃喝基督，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "没有一件事比此重要；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "召会借着吃，新妇得妆饰，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "迎接新郎带进神荣耀。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "知识果子不能随意吃；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "吃喝，吃喝─"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "知识，知识─"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "没有一件事比此重要"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "知识果子吃了必定死。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "吃喝，吃喝─"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "在伊甸乐园，摆在人面前，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有生命树代表神自己；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但是那毒蛇，诡诈又邪恶，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "借着知识使人心偏离。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "堕落，堕落─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "人不幸已中了蛇的毒；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "堕落，堕落─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "人需要一个完全恢复。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主耶稣基督就是生命树，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神成肉身，满足神要求；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂救赎我们，又重生我们，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "现今成了我们的珍馐。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣基督─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣基督是我真食物；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣基督─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "吃喝享受祂就得饱足。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主不是要搞我们的头脑，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "知识只叫人自高自大；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂来的目的乃是作筵席，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不重研究乃在吃喝祂。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "接受，接受─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂作食物，供应真充足；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "接受，接受─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣乃是我们生命树。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "越多吃喝祂，越不断长大，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生命、人数必加增不已；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们要清楚神今天恢复，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督不是宗教，是筵席。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "吃祂，吃祂─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "越多吃祂，祂越要增多；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "吃祂，吃祂─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "吃祂的人必因祂活着。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今天的道路是吃喝基督，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "没有一件事比此重要；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "召会借着吃，新妇得妆饰，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "迎接新郎带进神荣耀。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "吃喝，吃喝─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "没有一件事比此重要"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "吃喝，吃喝─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "迎接新郎带进神荣耀。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "迎接新郎带进神荣耀。"
+            }
+          ]
         }
       ]
     }
@@ -546,7 +602,16 @@
   "metadata": {
     "category": "享受基督",
     "time": "4/4",
-    "hymn_code": "3332122216"
+    "hymn_code": "3332122216",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1144",
+        "language": "cn",
+        "category": "h",
+        "number": "1144",
+        "title": "E1144"
+      }
+    ]
   },
   "raw_sections": [
     "在 聖經 開始，神 已經 啟 示，",

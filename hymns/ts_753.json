@@ -1,216 +1,236 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/753",
   "title": "主，我爱你国度",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A7",
-          "text": "主，"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "主，"
+            },
+            {
+              "chord": "D",
+              "text": "我 愛"
+            },
+            {
+              "chord": "",
+              "text": "你 國"
+            },
+            {
+              "chord": "A",
+              "text": "度，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "就"
+            },
+            {
+              "chord": "D",
+              "text": "是 你"
+            },
+            {
+              "chord": "G",
+              "text": "的 住"
+            },
+            {
+              "chord": "A",
+              "text": "處；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你 國"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是"
+            },
+            {
+              "chord": "D",
+              "text": "你 召"
+            },
+            {
+              "chord": "A",
+              "text": "會， 你"
+            },
+            {
+              "chord": "D",
+              "text": "血 所"
+            },
+            {
+              "chord": "Bm",
+              "text": "贖，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "度，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你"
+            },
+            {
+              "chord": "G",
+              "text": "將 重"
+            },
+            {
+              "chord": "A7",
+              "text": "價 已"
+            },
+            {
+              "chord": "D",
+              "text": "付。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "就"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神，我爱你召会，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "是 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "她与世俗分别；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "的 住"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是你眼中惟一至美，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "處；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "手中惟一宝贝。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为她祷告不歇，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "你 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为她昼夜流泪；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "會， 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "补满基督患难缺欠，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "血 所"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直至与你相会。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "她的属天行径，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "贖，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是我珍爱歌颂："
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "將 重"
+          "segments": [
+            {
+              "chord": "",
+              "text": "相交甘甜，相许贞坚，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "價 已"
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱戴、赞美无终。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "正如你的真理，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "付。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "必定屹立不已；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "神，我爱你召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "那日锡安必得荣耀，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "她与世俗分别；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是你眼中惟一至美，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "手中惟一宝贝。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为她祷告不歇，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为她昼夜流泪；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "补满基督患难缺欠，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直至与你相会。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "她的属天行径，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是我珍爱歌颂："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "相交甘甜，相许贞坚，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱戴、赞美无终。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "正如你的真理，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "必定屹立不已；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "那日锡安必得荣耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "光辉无比、至极。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "光辉无比、至极。"
+            }
+          ]
         }
       ]
     }
@@ -218,7 +238,16 @@
   "metadata": {
     "category": "教会的生活",
     "time": "4/4",
-    "hymn_code": "511321234543432"
+    "hymn_code": "511321234543432",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/853",
+        "language": "cn",
+        "category": "h",
+        "number": "853",
+        "title": "E853"
+      }
+    ]
   },
   "raw_sections": [
     "主，我 愛你 國度，",

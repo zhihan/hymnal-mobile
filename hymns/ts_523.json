@@ -1,428 +1,484 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/523",
   "title": "绝不能再回头",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "神 已"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "神 已"
+            },
+            {
+              "chord": "D7",
+              "text": "救 我"
+            },
+            {
+              "chord": "G",
+              "text": "脫 世"
+            },
+            {
+              "chord": "",
+              "text": "界，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "救 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "A",
+              "text": "絕 對"
+            },
+            {
+              "chord": "",
+              "text": "不"
+            },
+            {
+              "chord": "A7",
+              "text": "能 再"
+            },
+            {
+              "chord": "",
+              "text": "回 頭；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "脫 世"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "神 已"
+            },
+            {
+              "chord": "D7",
+              "text": "救 我"
+            },
+            {
+              "chord": "G",
+              "text": "脫 世"
+            },
+            {
+              "chord": "",
+              "text": "界，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "界，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "A",
+              "text": "絕 對"
+            },
+            {
+              "chord": "",
+              "text": "不"
+            },
+            {
+              "chord": "A7",
+              "text": "能 再"
+            },
+            {
+              "chord": "",
+              "text": "回"
+            },
+            {
+              "chord": "D",
+              "text": "頭！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不"
+            },
+            {
+              "chord": "D7",
+              "text": "能，"
+            },
+            {
+              "chord": "G",
+              "text": "絕 不"
+            },
+            {
+              "chord": "",
+              "text": "能，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "絕 對"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "A",
+              "text": "絕 對"
+            },
+            {
+              "chord": "",
+              "text": "不"
+            },
+            {
+              "chord": "A7",
+              "text": "能 再"
+            },
+            {
+              "chord": "",
+              "text": "回 頭；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "不"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "不"
+            },
+            {
+              "chord": "D7",
+              "text": "能，"
+            },
+            {
+              "chord": "G",
+              "text": "絕 不"
+            },
+            {
+              "chord": "",
+              "text": "能，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "能 再"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "A",
+              "text": "絕 對"
+            },
+            {
+              "chord": "",
+              "text": "不"
+            },
+            {
+              "chord": "A7",
+              "text": "能 再"
+            },
+            {
+              "chord": "",
+              "text": "回"
+            },
+            {
+              "chord": "D",
+              "text": "頭！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我已走出巴比伦……"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不能，绝不能，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "回 頭；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "神 已"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我绝对不能再回头；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "救 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不能，绝不能，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "脫 世"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我绝对不能再回头！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我既找到了召会……"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不能，绝不能，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "界，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我绝对不能再回头；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "絕 對"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不能，绝不能，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我绝对不能再回头！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美主，我已回家……"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不能，绝不能，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "能 再"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我绝对不能再回头；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "回"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不能，绝不能，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "頭！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我绝对不能再回头！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我既摸着我的主……"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不能，绝不能，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "能，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我绝对不能再回头；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "絕 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不能，绝不能，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "能，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我绝对不能再回头！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督是我的一切……"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不能，绝不能，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "絕 對"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我绝对不能再回头；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不能，绝不能，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "能 再"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我绝对不能再回头！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我是为神的恢复……"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不能，绝不能，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "回 頭；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我绝对不能再回头；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "能，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不能，绝不能，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "絕 不"
-        },
-        {
-          "chord": "",
-          "text": "能，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
-        },
-        {
-          "chord": "A",
-          "text": "絕 對"
-        },
-        {
-          "chord": "",
-          "text": "不"
-        },
-        {
-          "chord": "A7",
-          "text": "能 再"
-        },
-        {
-          "chord": "",
-          "text": "回"
-        },
-        {
-          "chord": "D",
-          "text": "頭！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我已走出巴比伦……"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不能，绝不能，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我绝对不能再回头；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不能，绝不能，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我绝对不能再回头！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我既找到了召会……"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不能，绝不能，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我绝对不能再回头；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不能，绝不能，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我绝对不能再回头！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞美主，我已回家……"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不能，绝不能，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我绝对不能再回头；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不能，绝不能，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我绝对不能再回头！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我既摸着我的主……"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不能，绝不能，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我绝对不能再回头；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不能，绝不能，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我绝对不能再回头！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督是我的一切……"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不能，绝不能，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我绝对不能再回头；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不能，绝不能，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我绝对不能再回头！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我是为神的恢复……"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不能，绝不能，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我绝对不能再回头；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不能，绝不能，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我绝对不能再回头！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我绝对不能再回头！"
+            }
+          ]
         }
       ]
     }
@@ -430,7 +486,16 @@
   "metadata": {
     "category": "教会的异象",
     "time": "4/4",
-    "hymn_code": "55332461776545345"
+    "hymn_code": "55332461776545345",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1127",
+        "language": "cn",
+        "category": "h",
+        "number": "1127",
+        "title": "E1127"
+      }
+    ]
   },
   "raw_sections": [
     "神 已救 我脫 世界，",

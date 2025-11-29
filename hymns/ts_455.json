@@ -1,196 +1,208 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/455",
   "title": "单纯的信托",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "為 這"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "為 這"
+            },
+            {
+              "chord": "",
+              "text": "一"
+            },
+            {
+              "chord": "A",
+              "text": "天，"
+            },
+            {
+              "chord": "Bm",
+              "text": "我 獻"
+            },
+            {
+              "chord": "",
+              "text": "感"
+            },
+            {
+              "chord": "F♯m",
+              "text": "謝，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "一"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "全 人"
+            },
+            {
+              "chord": "",
+              "text": "再"
+            },
+            {
+              "chord": "D",
+              "text": "次 交"
+            },
+            {
+              "chord": "",
+              "text": "托"
+            },
+            {
+              "chord": "Em7",
+              "text": "與 主"
+            },
+            {
+              "chord": "",
+              "text": "聯"
+            },
+            {
+              "chord": "A7",
+              "text": "結；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "天，"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "祂 是"
+            },
+            {
+              "chord": "",
+              "text": "生 命"
+            },
+            {
+              "chord": "A",
+              "text": "活 水，"
+            },
+            {
+              "chord": "Bm",
+              "text": "使 我"
+            },
+            {
+              "chord": "",
+              "text": "滿 足"
+            },
+            {
+              "chord": "F♯m",
+              "text": "歡 暢，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "我 獻"
-        },
-        {
-          "chord": "",
-          "text": "感"
-        },
-        {
-          "chord": "F♯m",
-          "text": "謝，"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "從 我"
+            },
+            {
+              "chord": "",
+              "text": "靈 裏"
+            },
+            {
+              "chord": "D",
+              "text": "向 外"
+            },
+            {
+              "chord": "",
+              "text": "流 淌，"
+            },
+            {
+              "chord": "Em7",
+              "text": "將 我"
+            },
+            {
+              "chord": "",
+              "text": "溢 漫"
+            },
+            {
+              "chord": "A7",
+              "text": "且 從"
+            },
+            {
+              "chord": "",
+              "text": "我 顯"
+            },
+            {
+              "chord": "D",
+              "text": "彰。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "全 人"
+          "segments": [
+            {
+              "chord": "",
+              "text": "无须忧虑，无须怀疑，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "再"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟寻求祂的国和祂的义，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "次 交"
+          "segments": [
+            {
+              "chord": "",
+              "text": "每天都有需要，凡事向祂述说，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "托"
-        },
-        {
-          "chord": "Em7",
-          "text": "與 主"
-        },
-        {
-          "chord": "",
-          "text": "聯"
-        },
-        {
-          "chord": "A7",
-          "text": "結；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂赐平安深且广阔，时时保守使我永稳妥。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "祂 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "常常喜乐，不住祷告，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "生 命"
+          "segments": [
+            {
+              "chord": "",
+              "text": "凡事谢恩无何比这更美好；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "活 水，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主是永活源头，作我一切供应，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "使 我"
-        },
-        {
-          "chord": "",
-          "text": "滿 足"
-        },
-        {
-          "chord": "F♯m",
-          "text": "歡 暢，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "從 我"
-        },
-        {
-          "chord": "",
-          "text": "靈 裏"
-        },
-        {
-          "chord": "D",
-          "text": "向 外"
-        },
-        {
-          "chord": "",
-          "text": "流 淌，"
-        },
-        {
-          "chord": "Em7",
-          "text": "將 我"
-        },
-        {
-          "chord": "",
-          "text": "溢 漫"
-        },
-        {
-          "chord": "A7",
-          "text": "且 從"
-        },
-        {
-          "chord": "",
-          "text": "我 顯"
-        },
-        {
-          "chord": "D",
-          "text": "彰。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "无须忧虑，无须怀疑，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惟寻求祂的国和祂的义，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "每天都有需要，凡事向祂述说，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂赐平安深且广阔，时时保守使我永稳妥。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "常常喜乐，不住祷告，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "凡事谢恩无何比这更美好；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主是永活源头，作我一切供应，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "凡我交托在祂手中，祂能保全一直到路终。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "凡我交托在祂手中，祂能保全一直到路终。"
+            }
+          ]
         }
       ]
     }
@@ -198,7 +210,16 @@
   "metadata": {
     "category": "追求与长进",
     "time": "4/4",
-    "hymn_code": "34521237"
+    "hymn_code": "34521237",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/362",
+        "language": "cn",
+        "category": "ns",
+        "number": "362",
+        "title": "NS362"
+      }
+    ]
   },
   "raw_sections": [
     "為 這一天，我 獻感謝，",

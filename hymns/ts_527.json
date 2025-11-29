@@ -1,244 +1,248 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/527",
   "title": "恢复",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "都 是 為 著 神 的 恢"
+            },
+            {
+              "chord": "A",
+              "text": "復，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "都 是 為 著 神 的 恢"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神 的 恢 復， 神 的 恢"
+            },
+            {
+              "chord": "D",
+              "text": "復。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "復，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神 的 恢 復， 神 的 恢"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們 都 是 為 著 神 的 見"
+            },
+            {
+              "chord": "A",
+              "text": "證，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "復。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們 都 是 為 著 神 的 見"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神 的 見 證， 神 的 見"
+            },
+            {
+              "chord": "D",
+              "text": "證。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "證，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神 的 見 證， 神 的 見"
+          "segments": [
+            {
+              "chord": "",
+              "text": "剛"
+            },
+            {
+              "chord": "F♯m",
+              "text": "強 火"
+            },
+            {
+              "chord": "C♯7",
+              "text": "熱 的"
+            },
+            {
+              "chord": "F♯m",
+              "text": "靈"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "證。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "剛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在"
+            },
+            {
+              "chord": "C♯7",
+              "text": "焚 燒"
+            },
+            {
+              "chord": "F♯m",
+              "text": "我 們，"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "強 火"
+          "segments": [
+            {
+              "chord": "",
+              "text": "焚 燒 我 們， 焚 燒 我 們。"
+            }
+          ]
         },
         {
-          "chord": "C♯7",
-          "text": "熱 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "單"
+            },
+            {
+              "chord": "A",
+              "text": "一 純"
+            },
+            {
+              "chord": "E7",
+              "text": "潔 的"
+            },
+            {
+              "chord": "A",
+              "text": "心，"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "靈"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "時"
+            },
+            {
+              "chord": "E7",
+              "text": "時 親"
+            },
+            {
+              "chord": "A",
+              "text": "近 神，"
+            }
+          ]
         },
         {
-          "chord": "C♯7",
-          "text": "焚 燒"
+          "segments": [
+            {
+              "chord": "",
+              "text": "時"
+            },
+            {
+              "chord": "E7",
+              "text": "時 近"
+            },
+            {
+              "chord": "A",
+              "text": "神， 時"
+            },
+            {
+              "chord": "E7",
+              "text": "時 近"
+            },
+            {
+              "chord": "A",
+              "text": "神。"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "我 們，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "焚 燒 我 們， 焚 燒 我 們。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "單"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "事 業！"
+            },
+            {
+              "chord": "",
+              "text": "前 途！ 何 屑 一"
+            },
+            {
+              "chord": "A",
+              "text": "顧。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "一 純"
-        },
-        {
-          "chord": "E7",
-          "text": "潔 的"
-        },
-        {
-          "chord": "A",
-          "text": "心，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "時"
-        },
-        {
-          "chord": "E7",
-          "text": "時 親"
-        },
-        {
-          "chord": "A",
-          "text": "近 神，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "時"
-        },
-        {
-          "chord": "E7",
-          "text": "時 近"
-        },
-        {
-          "chord": "A",
-          "text": "神， 時"
-        },
-        {
-          "chord": "E7",
-          "text": "時 近"
-        },
-        {
-          "chord": "A",
-          "text": "神。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "事 業！"
-        },
-        {
-          "chord": "",
-          "text": "前 途！ 何 屑 一"
-        },
-        {
-          "chord": "A",
-          "text": "顧。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "活 著"
-        },
-        {
-          "chord": "",
-          "text": "只 為 祂 的 恢"
-        },
-        {
-          "chord": "D",
-          "text": "復。 祂"
-        },
-        {
-          "chord": "",
-          "text": "的 恢"
-        },
-        {
-          "chord": "F♯",
-          "text": "復， 祂"
-        },
-        {
-          "chord": "",
-          "text": "的 恢"
-        },
-        {
-          "chord": "F♯7",
-          "text": "復， 祂"
-        },
-        {
-          "chord": "",
-          "text": "的 恢"
-        },
-        {
-          "chord": "Bm",
-          "text": "復！"
-        },
-        {
-          "chord": "G",
-          "text": "我 們"
-        },
-        {
-          "chord": "",
-          "text": "是 為"
-        },
-        {
-          "chord": "D",
-          "text": "神 的"
-        },
-        {
-          "chord": "",
-          "text": "恢 復，"
-        },
-        {
-          "chord": "A7",
-          "text": "神 的"
-        },
-        {
-          "chord": "",
-          "text": "見"
-        },
-        {
-          "chord": "D",
-          "text": "證！"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "活 著"
+            },
+            {
+              "chord": "",
+              "text": "只 為 祂 的 恢"
+            },
+            {
+              "chord": "D",
+              "text": "復。 祂"
+            },
+            {
+              "chord": "",
+              "text": "的 恢"
+            },
+            {
+              "chord": "F♯",
+              "text": "復， 祂"
+            },
+            {
+              "chord": "",
+              "text": "的 恢"
+            },
+            {
+              "chord": "F♯7",
+              "text": "復， 祂"
+            },
+            {
+              "chord": "",
+              "text": "的 恢"
+            },
+            {
+              "chord": "Bm",
+              "text": "復！"
+            },
+            {
+              "chord": "G",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "是 為"
+            },
+            {
+              "chord": "D",
+              "text": "神 的"
+            },
+            {
+              "chord": "",
+              "text": "恢 復，"
+            },
+            {
+              "chord": "A7",
+              "text": "神 的"
+            },
+            {
+              "chord": "",
+              "text": "見"
+            },
+            {
+              "chord": "D",
+              "text": "證！"
+            }
+          ]
         }
       ]
     }

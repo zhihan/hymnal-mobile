@@ -1,236 +1,248 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/822",
   "title": "我曾虚空又痛苦",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Cm",
-          "text": "我 曾"
+          "segments": [
+            {
+              "chord": "Cm",
+              "text": "我 曾"
+            },
+            {
+              "chord": "",
+              "text": "虛 空 又 痛"
+            },
+            {
+              "chord": "A♯",
+              "text": "苦，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "虛 空 又 痛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不 明 白 活 著 為 何"
+            },
+            {
+              "chord": "Cm",
+              "text": "故，"
+            }
+          ]
         },
         {
-          "chord": "A♯",
-          "text": "苦，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不 明 白 活 著 為 何"
+          "segments": [
+            {
+              "chord": "D♯",
+              "text": "常 今"
+            },
+            {
+              "chord": "",
+              "text": "朝 有 酒 就 今"
+            },
+            {
+              "chord": "G♯",
+              "text": "朝"
+            },
+            {
+              "chord": "D♯",
+              "text": "醉，"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "故，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D♯",
-          "text": "常 今"
+          "segments": [
+            {
+              "chord": "",
+              "text": "雖 強 作 歡 顏， 裡 面"
+            },
+            {
+              "chord": "G♯",
+              "text": "流"
+            },
+            {
+              "chord": "D♯",
+              "text": "淚，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "朝 有 酒 就 今"
+          "segments": [
+            {
+              "chord": "",
+              "text": "這"
+            },
+            {
+              "chord": "G♯",
+              "text": "辛 酸"
+            },
+            {
+              "chord": "",
+              "text": "滋 味 無 人 能 領"
+            },
+            {
+              "chord": "D♯",
+              "text": "會；"
+            }
+          ]
         },
         {
-          "chord": "G♯",
-          "text": "朝"
+          "segments": [
+            {
+              "chord": "",
+              "text": "把 它 麻"
+            },
+            {
+              "chord": "Cm",
+              "text": "醉，"
+            }
+          ]
         },
         {
-          "chord": "D♯",
-          "text": "醉，"
+          "segments": [
+            {
+              "chord": "D♯",
+              "text": "曾 幾"
+            },
+            {
+              "chord": "",
+              "text": "何"
+            },
+            {
+              "chord": "A♯",
+              "text": "時， 又"
+            },
+            {
+              "chord": "",
+              "text": "歸"
+            },
+            {
+              "chord": "Cm",
+              "text": "回。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "雖 強 作 歡 顏， 裡 面"
+          "segments": [
+            {
+              "chord": "",
+              "text": "虽然我并不知道，"
+            }
+          ]
         },
         {
-          "chord": "G♯",
-          "text": "流"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当如何解决或祷告，"
+            }
+          ]
         },
         {
-          "chord": "D♯",
-          "text": "淚，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "這"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但是我深处总是渴慕，"
+            }
+          ]
         },
         {
-          "chord": "G♯",
-          "text": "辛 酸"
+          "segments": [
+            {
+              "chord": "",
+              "text": "想要把生命意义找出。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "滋 味 無 人 能 領"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到有一天呼喊主耶稣，"
+            }
+          ]
         },
         {
-          "chord": "D♯",
-          "text": "會；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "把 它 麻"
+          "segments": [
+            {
+              "chord": "",
+              "text": "让祂进入，"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "醉，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "虚空痛苦才消除。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D♯",
-          "text": "曾 幾"
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣活在我里面，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "何"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作我主、生命，真甘甜！"
+            }
+          ]
         },
         {
-          "chord": "A♯",
-          "text": "時， 又"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因借着呼喊耶稣的名，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "歸"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我生命、平安与日俱增，"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "回。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "这世上无何使我心羡慕，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "虽然我并不知道，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我已满足，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "当如何解决或祷告，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但是我深处总是渴慕，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "想要把生命意义找出。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到有一天呼喊主耶稣，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让祂进入，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "虚空痛苦才消除。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣活在我里面，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作我主、生命，真甘甜！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因借着呼喊耶稣的名，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我生命、平安与日俱增，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "这世上无何使我心羡慕，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我已满足，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因我得着—主耶稣。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因我得着—主耶稣。"
+            }
+          ]
         }
       ]
     }
@@ -238,7 +250,16 @@
   "metadata": {
     "category": "事奉与福音",
     "time": "4/4",
-    "hymn_code": "66113325577221"
+    "hymn_code": "66113325577221",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6822",
+        "language": "cn",
+        "category": "h",
+        "number": "6822",
+        "title": "E6822"
+      }
+    ]
   },
   "raw_sections": [
     "我 曾虛 空 又 痛苦，",

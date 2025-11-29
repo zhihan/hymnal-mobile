@@ -1,212 +1,220 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/622",
   "title": "与祂同席",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "看 哪！"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "看 哪！"
+            },
+            {
+              "chord": "",
+              "text": "桌 上 擺 設 筵 席，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "桌 上 擺 設 筵 席，"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "一 餅"
+            },
+            {
+              "chord": "",
+              "text": "一 杯，"
+            },
+            {
+              "chord": "D7",
+              "text": "神 聖"
+            },
+            {
+              "chord": "",
+              "text": "表 記；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "親 愛"
+            },
+            {
+              "chord": "",
+              "text": "救 主 熱 切 邀 集，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "歡 喜"
+            },
+            {
+              "chord": "G",
+              "text": "來"
+            },
+            {
+              "chord": "D7",
+              "text": "坐"
+            },
+            {
+              "chord": "G",
+              "text": "席。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "祂 來"
+            },
+            {
+              "chord": "",
+              "text": "呼 召，"
+            },
+            {
+              "chord": "D7",
+              "text": "神、 人"
+            },
+            {
+              "chord": "",
+              "text": "同 席，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "顯 明"
+            },
+            {
+              "chord": "",
+              "text": "救 主"
+            },
+            {
+              "chord": "C",
+              "text": "永 遠"
+            },
+            {
+              "chord": "D",
+              "text": "心 意；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "豐 富"
+            },
+            {
+              "chord": "",
+              "text": "供 應， 全 備、 洋 溢，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "前 來"
+            },
+            {
+              "chord": "",
+              "text": "同 享"
+            },
+            {
+              "chord": "G",
+              "text": "勿"
+            },
+            {
+              "chord": "D7",
+              "text": "遲"
+            },
+            {
+              "chord": "G",
+              "text": "疑。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "一 餅"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们现在与祂同席，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "一 杯，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂与我们何等亲近；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "神 聖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！赞美不已！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "表 記；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "親 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "上好筵席无止尽。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "救 主 熱 切 邀 集，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "吃喝享受主的自己，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "歡 喜"
+          "segments": [
+            {
+              "chord": "",
+              "text": "满足我们全人全心；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "豫尝那日荣耀筵席，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "坐"
-        },
-        {
-          "chord": "G",
-          "text": "席。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "祂 來"
-        },
-        {
-          "chord": "",
-          "text": "呼 召，"
-        },
-        {
-          "chord": "D7",
-          "text": "神、 人"
-        },
-        {
-          "chord": "",
-          "text": "同 席，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "顯 明"
-        },
-        {
-          "chord": "",
-          "text": "救 主"
-        },
-        {
-          "chord": "C",
-          "text": "永 遠"
-        },
-        {
-          "chord": "D",
-          "text": "心 意；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "豐 富"
-        },
-        {
-          "chord": "",
-          "text": "供 應， 全 備、 洋 溢，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "前 來"
-        },
-        {
-          "chord": "",
-          "text": "同 享"
-        },
-        {
-          "chord": "G",
-          "text": "勿"
-        },
-        {
-          "chord": "D7",
-          "text": "遲"
-        },
-        {
-          "chord": "G",
-          "text": "疑。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们现在与祂同席，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂与我们何等亲近；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！赞美不已！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "上好筵席无止尽。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "吃喝享受主的自己，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "满足我们全人全心；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "豫尝那日荣耀筵席，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "作祂新妇何欢欣。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "作祂新妇何欢欣。"
+            }
+          ]
         }
       ]
     }
@@ -214,7 +222,16 @@
   "metadata": {
     "category": "建造与合一",
     "time": "4/4",
-    "hymn_code": "11113221122224332"
+    "hymn_code": "11113221122224332",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1105",
+        "language": "cn",
+        "category": "h",
+        "number": "1105",
+        "title": "E1105"
+      }
+    ]
   },
   "raw_sections": [
     "看 哪！桌 上 擺 設 筵 席，",

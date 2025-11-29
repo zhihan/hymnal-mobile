@@ -1,388 +1,416 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/877",
   "title": "甚么使你为我舍命",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "甚 麼"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "甚 麼"
+            },
+            {
+              "chord": "",
+              "text": "使"
+            },
+            {
+              "chord": "Em",
+              "text": "你 為"
+            },
+            {
+              "chord": "D7",
+              "text": "我 捨"
+            },
+            {
+              "chord": "G",
+              "text": "命？"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "使"
+          "segments": [
+            {
+              "chord": "",
+              "text": "為 何 救"
+            },
+            {
+              "chord": "Em",
+              "text": "我？ 我"
+            },
+            {
+              "chord": "Bm",
+              "text": "是 你"
+            },
+            {
+              "chord": "",
+              "text": "仇"
+            },
+            {
+              "chord": "D",
+              "text": "敵。"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "你 為"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "你 上"
+            },
+            {
+              "chord": "",
+              "text": "十"
+            },
+            {
+              "chord": "Em",
+              "text": "架， 為"
+            },
+            {
+              "chord": "C",
+              "text": "作 我"
+            },
+            {
+              "chord": "",
+              "text": "代"
+            },
+            {
+              "chord": "Am",
+              "text": "替；"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "我 捨"
-        },
-        {
-          "chord": "G",
-          "text": "命？"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "你"
+            },
+            {
+              "chord": "G",
+              "text": "受 咒"
+            },
+            {
+              "chord": "Em",
+              "text": "詛， 我"
+            },
+            {
+              "chord": "C",
+              "text": "享"
+            },
+            {
+              "chord": "D7",
+              "text": "福"
+            },
+            {
+              "chord": "G",
+              "text": "氣。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "為 何 救"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 原"
+            },
+            {
+              "chord": "D",
+              "text": "是"
+            },
+            {
+              "chord": "Em",
+              "text": "你 仇"
+            },
+            {
+              "chord": "",
+              "text": "敵，"
+            },
+            {
+              "chord": "C",
+              "text": "何 來"
+            },
+            {
+              "chord": "",
+              "text": "為"
+            },
+            {
+              "chord": "G",
+              "text": "我 捨"
+            },
+            {
+              "chord": "",
+              "text": "命？"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "我？ 我"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "你 受"
+            },
+            {
+              "chord": "",
+              "text": "咒"
+            },
+            {
+              "chord": "D",
+              "text": "詛， 我"
+            },
+            {
+              "chord": "",
+              "text": "享 福"
+            },
+            {
+              "chord": "G",
+              "text": "氣。"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "是 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神 竟"
+            },
+            {
+              "chord": "D",
+              "text": "為"
+            },
+            {
+              "chord": "Em",
+              "text": "人 捨"
+            },
+            {
+              "chord": "",
+              "text": "命，"
+            },
+            {
+              "chord": "C",
+              "text": "哦！ 是"
+            },
+            {
+              "chord": "",
+              "text": "極"
+            },
+            {
+              "chord": "G",
+              "text": "大 奧"
+            },
+            {
+              "chord": "",
+              "text": "祕！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "仇"
-        },
-        {
-          "chord": "D",
-          "text": "敵。"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "你 來"
+            },
+            {
+              "chord": "",
+              "text": "受"
+            },
+            {
+              "chord": "D",
+              "text": "死， 為"
+            },
+            {
+              "chord": "",
+              "text": "你 仇"
+            },
+            {
+              "chord": "G",
+              "text": "敵。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "你 上"
+          "segments": [
+            {
+              "chord": "",
+              "text": "未曾想到，你如此行；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "十"
+          "segments": [
+            {
+              "chord": "",
+              "text": "温柔、怜恤，全向我洋溢。"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "架， 為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为何你爱？我罪大恶极；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "作 我"
-        },
-        {
-          "chord": "",
-          "text": "代"
-        },
-        {
-          "chord": "Am",
-          "text": "替；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但你爱我─你的仇敌。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D7",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你之爱我，从永远起；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "受 咒"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你爱恒久、坚定不稍移。"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "詛， 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "虽我言语，冒犯得罪你；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "享"
-        },
-        {
-          "chord": "D7",
-          "text": "福"
-        },
-        {
-          "chord": "G",
-          "text": "氣。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但你等候，代求不息。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我 原"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我是罪人，犯罪不已；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "活在罪中，行不法不义。"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "你 仇"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的恶心，反判又悖逆；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "敵，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但你慈心，感我衷里。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我原是你仇敌，竟也能归服你；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "何 來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "因你眷临，爱里寻觅。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是你爱和怜悯，征服顽梗刚愎；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "我 捨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "昔日仇敌，今愿服你。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我一转身，就遇见你；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "命？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "你 受"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你正等我，怀圣别爱意。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "咒"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我怎忍心，再与你为敌？"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "詛， 我"
-        },
-        {
-          "chord": "",
-          "text": "享 福"
-        },
-        {
-          "chord": "G",
-          "text": "氣。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神 竟"
-        },
-        {
-          "chord": "D",
-          "text": "為"
-        },
-        {
-          "chord": "Em",
-          "text": "人 捨"
-        },
-        {
-          "chord": "",
-          "text": "命，"
-        },
-        {
-          "chord": "C",
-          "text": "哦！ 是"
-        },
-        {
-          "chord": "",
-          "text": "極"
-        },
-        {
-          "chord": "G",
-          "text": "大 奧"
-        },
-        {
-          "chord": "",
-          "text": "祕！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "你 來"
-        },
-        {
-          "chord": "",
-          "text": "受"
-        },
-        {
-          "chord": "D",
-          "text": "死， 為"
-        },
-        {
-          "chord": "",
-          "text": "你 仇"
-        },
-        {
-          "chord": "G",
-          "text": "敵。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "未曾想到，你如此行；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "温柔、怜恤，全向我洋溢。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为何你爱？我罪大恶极；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但你爱我─你的仇敌。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你之爱我，从永远起；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你爱恒久、坚定不稍移。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "虽我言语，冒犯得罪你；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但你等候，代求不息。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我是罪人，犯罪不已；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "活在罪中，行不法不义。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的恶心，反判又悖逆；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但你慈心，感我衷里。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我原是你仇敌，竟也能归服你；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "因你眷临，爱里寻觅。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是你爱和怜悯，征服顽梗刚愎；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "昔日仇敌，今愿服你。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我一转身，就遇见你；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你正等我，怀圣别爱意。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我怎忍心，再与你为敌？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "耶稣，我今降服归你。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶稣，我今降服归你。"
+            }
+          ]
         }
       ]
     }

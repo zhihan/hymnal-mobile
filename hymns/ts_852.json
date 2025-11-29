@@ -1,232 +1,248 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/852",
   "title": "兴起！角声发出！",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "興"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "興"
+            },
+            {
+              "chord": "D",
+              "text": "起！ 角"
+            },
+            {
+              "chord": "Em",
+              "text": "聲 發"
+            },
+            {
+              "chord": "G",
+              "text": "出，"
+            },
+            {
+              "chord": "Am",
+              "text": "喜"
+            },
+            {
+              "chord": "D7",
+              "text": "信 傳"
+            },
+            {
+              "chord": "G",
+              "text": "佈；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "起！ 角"
+          "segments": [
+            {
+              "chord": "B",
+              "text": "宣"
+            },
+            {
+              "chord": "B7",
+              "text": "揚 萬"
+            },
+            {
+              "chord": "Em",
+              "text": "主 之"
+            },
+            {
+              "chord": "",
+              "text": "主─"
+            },
+            {
+              "chord": "D",
+              "text": "救"
+            },
+            {
+              "chord": "A7",
+              "text": "主 耶"
+            },
+            {
+              "chord": "D",
+              "text": "穌；"
+            },
+            {
+              "chord": "G",
+              "text": "述"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "聲 發"
+          "segments": [
+            {
+              "chord": "",
+              "text": "說 祂"
+            },
+            {
+              "chord": "C",
+              "text": "名 寶"
+            },
+            {
+              "chord": "E7",
+              "text": "貴，"
+            },
+            {
+              "chord": "Am",
+              "text": "高 舉"
+            },
+            {
+              "chord": "",
+              "text": "祂"
+            },
+            {
+              "chord": "D",
+              "text": "的 尊"
+            },
+            {
+              "chord": "D7",
+              "text": "位，"
+            },
+            {
+              "chord": "G",
+              "text": "好"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "出，"
-        },
-        {
-          "chord": "Am",
-          "text": "喜"
-        },
-        {
-          "chord": "D7",
-          "text": "信 傳"
-        },
-        {
-          "chord": "G",
-          "text": "佈；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使 萬"
+            },
+            {
+              "chord": "C",
+              "text": "眾 來"
+            },
+            {
+              "chord": "Am",
+              "text": "歸─"
+            },
+            {
+              "chord": "G",
+              "text": "耶"
+            },
+            {
+              "chord": "D7",
+              "text": "穌 是"
+            },
+            {
+              "chord": "G",
+              "text": "主！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "B",
-          "text": "宣"
+          "segments": [
+            {
+              "chord": "",
+              "text": "谁愿为祂前去？谁愿兴起？"
+            }
+          ]
         },
         {
-          "chord": "B7",
-          "text": "揚 萬"
+          "segments": [
+            {
+              "chord": "",
+              "text": "地爱迷人难拒，为祂全弃："
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "主 之"
+          "segments": [
+            {
+              "chord": "",
+              "text": "鄙视属地荣华，万事看为卑下，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "主─"
-        },
-        {
-          "chord": "D",
-          "text": "救"
-        },
-        {
-          "chord": "A7",
-          "text": "主 耶"
-        },
-        {
-          "chord": "D",
-          "text": "穌；"
-        },
-        {
-          "chord": "G",
-          "text": "述"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟夸救主十架；谁愿兴起？"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "說 祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得赏之日不远，奋勇向前；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "名 寶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "晨星快要出现，不再迟延。"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "貴，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "高举十架救恩，征服偶像、判民；"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "高 舉"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟盼有福之晨，与主相见。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "请听胜利角声，耶稣为王！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "祂"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督登极执政，无能违抗："
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "的 尊"
+          "segments": [
+            {
+              "chord": "",
+              "text": "全地复归祂有，惟祂居高为首，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "位，"
-        },
-        {
-          "chord": "G",
-          "text": "好"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使 萬"
-        },
-        {
-          "chord": "C",
-          "text": "眾 來"
-        },
-        {
-          "chord": "Am",
-          "text": "歸─"
-        },
-        {
-          "chord": "G",
-          "text": "耶"
-        },
-        {
-          "chord": "D7",
-          "text": "穌 是"
-        },
-        {
-          "chord": "G",
-          "text": "主！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "谁愿为祂前去？谁愿兴起？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "地爱迷人难拒，为祂全弃："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "鄙视属地荣华，万事看为卑下，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惟夸救主十架；谁愿兴起？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得赏之日不远，奋勇向前；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "晨星快要出现，不再迟延。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "高举十架救恩，征服偶像、判民；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惟盼有福之晨，与主相见。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "请听胜利角声，耶稣为王！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督登极执政，无能违抗："
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "全地复归祂有，惟祂居高为首，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "座前无不拜叩─耶稣为王！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "座前无不拜叩─耶稣为王！"
+            }
+          ]
         }
       ]
     }
@@ -234,7 +250,16 @@
   "metadata": {
     "category": "事奉与福音",
     "time": "4/4",
-    "hymn_code": "1111512343"
+    "hymn_code": "1111512343",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/920",
+        "language": "cn",
+        "category": "h",
+        "number": "920",
+        "title": "E920"
+      }
+    ]
   },
   "raw_sections": [
     "興起！ 角聲 發出，喜信 傳佈；",

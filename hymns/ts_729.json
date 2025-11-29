@@ -1,352 +1,376 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/729",
   "title": "阿利路亚，自由",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "阿 利"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "阿 利"
+            },
+            {
+              "chord": "",
+              "text": "路 亞， 自 由！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "路 亞， 自 由！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿 利 路 亞， 自 由！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "我 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿 利 路 亞， 自 由！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "再"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "我 不"
+            },
+            {
+              "chord": "",
+              "text": "再"
+            },
+            {
+              "chord": "Am",
+              "text": "受"
+            },
+            {
+              "chord": "D7",
+              "text": "罪 的"
+            },
+            {
+              "chord": "",
+              "text": "捆"
+            },
+            {
+              "chord": "G",
+              "text": "綁。"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "受"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "因 主"
+            },
+            {
+              "chord": "",
+              "text": "耶"
+            },
+            {
+              "chord": "G",
+              "text": "穌，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "罪 的"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "將 我"
+            },
+            {
+              "chord": "",
+              "text": "罪"
+            },
+            {
+              "chord": "G",
+              "text": "辜"
+            },
+            {
+              "chord": "Em",
+              "text": "釘 在"
+            },
+            {
+              "chord": "",
+              "text": "十"
+            },
+            {
+              "chord": "Am",
+              "text": "架，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "捆"
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "阿 利"
+            },
+            {
+              "chord": "",
+              "text": "路 亞！ 我 自"
+            },
+            {
+              "chord": "G",
+              "text": "由！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，自由！"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "綁。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "因 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，自由！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "耶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我不再随仪文摆布，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "穌，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "將 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "脱离宗教，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "罪"
+          "segments": [
+            {
+              "chord": "",
+              "text": "完全圣别成为新人，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "辜"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！我自由！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，自由！"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "釘 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，自由！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "十"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂的生命，变化了我，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "架，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D7",
-          "text": "阿 利"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天天更新，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "路 亞！ 我 自"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到长成基督身量，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "由！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！我自由！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "阿利路亚，自由！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，自由！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，自由！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们是为主的见证，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在身体里，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "同被模成神的形像。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！全自由！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "阿利路亚，自由！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，自由！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，自由！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "交给召会，配搭一起，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "经营建造，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "成为神的荣耀身体。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！全自由！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我不再随仪文摆布，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，自由！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "脱离宗教，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚，自由！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "完全圣别成为新人，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们经历真实建造，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "阿利路亚！我自由！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "终于寻到─"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "阿利路亚，自由！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "地方召会，乃是神家。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "阿利路亚，自由！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂的生命，变化了我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天天更新，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到长成基督身量，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！我自由！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚，自由！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚，自由！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们是为主的见证，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在身体里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同被模成神的形像。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！全自由！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚，自由！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚，自由！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "交给召会，配搭一起，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "经营建造，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "成为神的荣耀身体。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！全自由！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚，自由！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚，自由！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们经历真实建造，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "终于寻到─"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "地方召会，乃是神家。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！全自由！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！全自由！"
+            }
+          ]
         }
       ]
     }

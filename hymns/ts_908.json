@@ -1,296 +1,308 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/908",
   "title": "把主迎接回来",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "C",
-          "text": "看！ 無"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "看！ 無"
+            },
+            {
+              "chord": "",
+              "text": "花 果 樹 早"
+            },
+            {
+              "chord": "G7",
+              "text": "已 發"
+            },
+            {
+              "chord": "C",
+              "text": "枝，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "花 果 樹 早"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "聖 城"
+            },
+            {
+              "chord": "",
+              "text": "被 踐 踏， 日"
+            },
+            {
+              "chord": "D7",
+              "text": "期 滿"
+            },
+            {
+              "chord": "G",
+              "text": "足；"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "已 發"
+          "segments": [
+            {
+              "chord": "C",
+              "text": "哦， 阿"
+            },
+            {
+              "chord": "",
+              "text": "利 路"
+            },
+            {
+              "chord": "E7",
+              "text": "亞，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "枝，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "聖 城"
+          "segments": [
+            {
+              "chord": "F",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "真"
+            },
+            {
+              "chord": "C",
+              "text": "有 福，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "被 踐 踏， 日"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "要 親"
+            },
+            {
+              "chord": "C",
+              "text": "眼"
+            },
+            {
+              "chord": "F",
+              "text": "看 見"
+            },
+            {
+              "chord": "",
+              "text": "得"
+            },
+            {
+              "chord": "G7",
+              "text": "贖 之"
+            },
+            {
+              "chord": "C",
+              "text": "日！"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "期 滿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們 這 一"
+            },
+            {
+              "chord": "E7",
+              "text": "代，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "足；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "C",
-          "text": "哦， 阿"
+          "segments": [
+            {
+              "chord": "F",
+              "text": "末 了"
+            },
+            {
+              "chord": "",
+              "text": "的"
+            },
+            {
+              "chord": "C",
+              "text": "一 代，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "利 路"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "一 定"
+            },
+            {
+              "chord": "",
+              "text": "要"
+            },
+            {
+              "chord": "F",
+              "text": "把 主"
+            },
+            {
+              "chord": "",
+              "text": "迎"
+            },
+            {
+              "chord": "G7",
+              "text": "接 回"
+            },
+            {
+              "chord": "C",
+              "text": "來！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不要被今生思虑累住，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "亞，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "F",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不要像世人贪恋前途；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "真"
+          "segments": [
+            {
+              "chord": "",
+              "text": "快出所多玛，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "有 福，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Dm",
-          "text": "要 親"
+          "segments": [
+            {
+              "chord": "",
+              "text": "快进入方舟，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "眼"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天天都过着召会生活。"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "看 見"
+          "segments": [
+            {
+              "chord": "",
+              "text": "趁这个时候，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当挺身昂首，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "贖 之"
+          "segments": [
+            {
+              "chord": "",
+              "text": "多抢救灵魂，带人得救！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿主保守"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "日！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 們 這 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你的灵、魂、体，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "代，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "F",
-          "text": "末 了"
+          "segments": [
+            {
+              "chord": "",
+              "text": "所有的聚集你都能去。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "也许那一次，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "一 代，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Dm",
-          "text": "一 定"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们正聚集，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "要"
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美到高潮，主突然到！"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "把 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不知不觉中，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "迎"
+          "segments": [
+            {
+              "chord": "",
+              "text": "立刻就被提，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "接 回"
-        },
-        {
-          "chord": "C",
-          "text": "來！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不要被今生思虑累住，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不要像世人贪恋前途；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "快出所多玛，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "快进入方舟，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天天都过着召会生活。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "趁这个时候，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当挺身昂首，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "多抢救灵魂，带人得救！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿主保守"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你的灵、魂、体，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "所有的聚集你都能去。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "也许那一次，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们正聚集，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞美到高潮，主突然到！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不知不觉中，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "立刻就被提，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "唱阿利路亚，在荣耀里。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "唱阿利路亚，在荣耀里。"
+            }
+          ]
         }
       ]
     }

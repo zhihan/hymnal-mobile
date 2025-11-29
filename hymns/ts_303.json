@@ -1,568 +1,584 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/303",
   "title": "至美的享受",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "多 次"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "多 次"
+            },
+            {
+              "chord": "A7",
+              "text": "我 曾"
+            },
+            {
+              "chord": "",
+              "text": "床"
+            },
+            {
+              "chord": "D",
+              "text": "上 躺"
+            },
+            {
+              "chord": "",
+              "text": "臥，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "我 曾"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "尋 找"
+            },
+            {
+              "chord": "A",
+              "text": "我 多"
+            },
+            {
+              "chord": "",
+              "text": "年"
+            },
+            {
+              "chord": "D",
+              "text": "心 所"
+            },
+            {
+              "chord": "",
+              "text": "至"
+            },
+            {
+              "chord": "A",
+              "text": "愛，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "床"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我 尋"
+            },
+            {
+              "chord": "A7",
+              "text": "找 祂，"
+            },
+            {
+              "chord": "",
+              "text": "卻"
+            },
+            {
+              "chord": "D",
+              "text": "尋 不"
+            },
+            {
+              "chord": "",
+              "text": "著，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "上 躺"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "迫 我"
+            },
+            {
+              "chord": "A",
+              "text": "各 處"
+            },
+            {
+              "chord": "",
+              "text": "遊"
+            },
+            {
+              "chord": "D",
+              "text": "行。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "臥，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Bm",
-          "text": "尋 找"
+          "segments": [
+            {
+              "chord": "",
+              "text": "弟"
+            },
+            {
+              "chord": "A7",
+              "text": "兄 們"
+            },
+            {
+              "chord": "",
+              "text": "哪， 請 你"
+            },
+            {
+              "chord": "D",
+              "text": "告 訴"
+            },
+            {
+              "chord": "",
+              "text": "我，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "我 多"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "A7",
+              "text": "心 所"
+            },
+            {
+              "chord": "",
+              "text": "愛 現 今"
+            },
+            {
+              "chord": "D",
+              "text": "在 何"
+            },
+            {
+              "chord": "",
+              "text": "處，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "年"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "G",
+              "text": "好 前"
+            },
+            {
+              "chord": "",
+              "text": "去 把"
+            },
+            {
+              "chord": "D",
+              "text": "祂 帶"
+            },
+            {
+              "chord": "",
+              "text": "回，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "心 所"
+          "segments": [
+            {
+              "chord": "",
+              "text": "再 讓 我 享 受 祂 的 愛"
+            },
+            {
+              "chord": "A",
+              "text": "情。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "至"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "是 你"
+            },
+            {
+              "chord": "A7",
+              "text": "們 來"
+            },
+            {
+              "chord": "",
+              "text": "將"
+            },
+            {
+              "chord": "D",
+              "text": "我 引"
+            },
+            {
+              "chord": "",
+              "text": "領，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "愛，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "我 尋"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "我 纔"
+            },
+            {
+              "chord": "A",
+              "text": "能 得"
+            },
+            {
+              "chord": "",
+              "text": "著"
+            },
+            {
+              "chord": "D",
+              "text": "真 實"
+            },
+            {
+              "chord": "",
+              "text": "交"
+            },
+            {
+              "chord": "A",
+              "text": "通；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "找 祂，"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "原 來"
+            },
+            {
+              "chord": "A7",
+              "text": "我 愛"
+            },
+            {
+              "chord": "",
+              "text": "就"
+            },
+            {
+              "chord": "D",
+              "text": "在 身"
+            },
+            {
+              "chord": "",
+              "text": "邊，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "卻"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "從 來"
+            },
+            {
+              "chord": "A",
+              "text": "不 曾"
+            },
+            {
+              "chord": "",
+              "text": "遠"
+            },
+            {
+              "chord": "D",
+              "text": "離。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "为何我能成你心爱，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "尋 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "满带着圣灵犹如烟柱，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "著，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Bm",
-          "text": "迫 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "能效法你的死，复活，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "各 處"
+          "segments": [
+            {
+              "chord": "",
+              "text": "没药乳香显出。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "遊"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为何我能成为你华轿，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "行。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "弟"
+          "segments": [
+            {
+              "chord": "",
+              "text": "让你能借我行动安息，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "兄 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我怎能如勇士持刀，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "哪， 請 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为你防备夜间的袭击。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "告 訴"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是因多人巡逻殷勤，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我能在其中得以安稳；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "心 所"
+          "segments": [
+            {
+              "chord": "",
+              "text": "是因你那无量爱情，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "愛 現 今"
+          "segments": [
+            {
+              "chord": "",
+              "text": "琢磨使我成形。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，我渴慕往没药山，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "在 何"
+          "segments": [
+            {
+              "chord": "",
+              "text": "好让我一切全置死地，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "處，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "可否带我往乳香岗，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "好 前"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直至黑影飞去。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "去 把"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你既称我是全然美丽，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "祂 帶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你既享受我至美爱情，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "回，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "再 讓 我 享 受 祂 的 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的眼目夺取你心，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "情。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "是 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我膏油胜过一切香品。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "們 來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我就愿意从利巴嫩，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "將"
+          "segments": [
+            {
+              "chord": "",
+              "text": "经历你那升天的超越，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我 引"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我也愿意常住黑门，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "領，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "夸耀十架得胜。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Bm",
-          "text": "我 纔"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，愿我唇中常滴蜜，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "能 得"
+          "segments": [
+            {
+              "chord": "",
+              "text": "叫你享受爱情的甜蜜，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，愿我生活满香气，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "真 實"
+          "segments": [
+            {
+              "chord": "",
+              "text": "芬芳如利巴嫩。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "交"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦主，我愿你快快前来，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "通；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "原 來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我的全人都归你占有，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "我 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "关锁的园，禁闭的井，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "就"
+          "segments": [
+            {
+              "chord": "",
+              "text": "完全封闭给你的泉源。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "在 身"
+          "segments": [
+            {
+              "chord": "",
+              "text": "北风南风快快兴起，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "邊，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Bm",
-          "text": "從 來"
+          "segments": [
+            {
+              "chord": "",
+              "text": "使我心园能发出香气，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "不 曾"
+          "segments": [
+            {
+              "chord": "",
+              "text": "引我良人进祂园内，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "遠"
-        },
-        {
-          "chord": "D",
-          "text": "離。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为何我能成你心爱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "满带着圣灵犹如烟柱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "能效法你的死，复活，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "没药乳香显出。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为何我能成为你华轿，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让你能借我行动安息，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我怎能如勇士持刀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为你防备夜间的袭击。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是因多人巡逻殷勤，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我能在其中得以安稳；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是因你那无量爱情，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "琢磨使我成形。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，我渴慕往没药山，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "好让我一切全置死地，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "可否带我往乳香岗，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直至黑影飞去。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你既称我是全然美丽，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你既享受我至美爱情，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的眼目夺取你心，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我膏油胜过一切香品。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我就愿意从利巴嫩，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "经历你那升天的超越，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我也愿意常住黑门，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "夸耀十架得胜。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，愿我唇中常滴蜜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "叫你享受爱情的甜蜜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，愿我生活满香气，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "芬芳如利巴嫩。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦主，我愿你快快前来，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我的全人都归你占有，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "关锁的园，禁闭的井，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "完全封闭给你的泉源。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "北风南风快快兴起，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使我心园能发出香气，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "引我良人进祂园内，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享受祂的所有。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享受祂的所有。"
+            }
+          ]
         }
       ]
     }

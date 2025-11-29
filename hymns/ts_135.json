@@ -1,260 +1,264 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/135",
   "title": "真葡萄树",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Cm",
-          "text": "真 葡"
+          "segments": [
+            {
+              "chord": "Cm",
+              "text": "真 葡"
+            },
+            {
+              "chord": "",
+              "text": "萄 樹，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "萄 樹，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生"
+            },
+            {
+              "chord": "Fm",
+              "text": "命 何"
+            },
+            {
+              "chord": "",
+              "text": "等 豐"
+            },
+            {
+              "chord": "Cm",
+              "text": "美，"
+            }
+          ]
         },
         {
-          "chord": "Fm",
-          "text": "命 何"
+          "segments": [
+            {
+              "chord": "",
+              "text": "繁"
+            },
+            {
+              "chord": "A♯",
+              "text": "生 枝"
+            },
+            {
+              "chord": "",
+              "text": "子"
+            },
+            {
+              "chord": "Cm",
+              "text": "無 數，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "等 豐"
+          "segments": [
+            {
+              "chord": "",
+              "text": "結"
+            },
+            {
+              "chord": "A♯",
+              "text": "出 果"
+            },
+            {
+              "chord": "",
+              "text": "實 纍"
+            },
+            {
+              "chord": "Cm",
+              "text": "纍；"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "美，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "繁"
+          "segments": [
+            {
+              "chord": "",
+              "text": "主， 你 是 樹，"
+            }
+          ]
         },
         {
-          "chord": "A♯",
-          "text": "生 枝"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "Fm",
+              "text": "們 是"
+            },
+            {
+              "chord": "",
+              "text": "你 枝"
+            },
+            {
+              "chord": "Cm",
+              "text": "子，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "子"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愛"
+            },
+            {
+              "chord": "A♯",
+              "text": "中 互"
+            },
+            {
+              "chord": "",
+              "text": "相"
+            },
+            {
+              "chord": "Cm",
+              "text": "內 住，"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "無 數，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "結"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生"
+            },
+            {
+              "chord": "A♯",
+              "text": "命 湧"
+            },
+            {
+              "chord": "",
+              "text": "流 不"
+            },
+            {
+              "chord": "Cm",
+              "text": "止；"
+            }
+          ]
         },
         {
-          "chord": "A♯",
-          "text": "出 果"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生"
+            },
+            {
+              "chord": "D♯",
+              "text": "機 結"
+            },
+            {
+              "chord": "Cm",
+              "text": "聯，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "實 纍"
+          "segments": [
+            {
+              "chord": "",
+              "text": "彼"
+            },
+            {
+              "chord": "Gm",
+              "text": "此 合"
+            },
+            {
+              "chord": "Fm",
+              "text": "一 無"
+            },
+            {
+              "chord": "A♯",
+              "text": "間，"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "纍；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主， 你 是 樹，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享"
+            },
+            {
+              "chord": "Cm",
+              "text": "受 父"
+            },
+            {
+              "chord": "A♯",
+              "text": "神 栽"
+            },
+            {
+              "chord": "",
+              "text": "培、 照"
+            },
+            {
+              "chord": "D♯",
+              "text": "護，"
+            }
+          ]
         },
         {
-          "chord": "Fm",
-          "text": "們 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "生 命 充"
+            },
+            {
+              "chord": "Cm",
+              "text": "滿，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "你 枝"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不"
+            },
+            {
+              "chord": "Gm",
+              "text": "斷 洋"
+            },
+            {
+              "chord": "Fm",
+              "text": "溢、 擴"
+            },
+            {
+              "chord": "A♯",
+              "text": "展，"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "子，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愛"
-        },
-        {
-          "chord": "A♯",
-          "text": "中 互"
-        },
-        {
-          "chord": "",
-          "text": "相"
-        },
-        {
-          "chord": "Cm",
-          "text": "內 住，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生"
-        },
-        {
-          "chord": "A♯",
-          "text": "命 湧"
-        },
-        {
-          "chord": "",
-          "text": "流 不"
-        },
-        {
-          "chord": "Cm",
-          "text": "止；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生"
-        },
-        {
-          "chord": "D♯",
-          "text": "機 結"
-        },
-        {
-          "chord": "Cm",
-          "text": "聯，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "彼"
-        },
-        {
-          "chord": "Gm",
-          "text": "此 合"
-        },
-        {
-          "chord": "Fm",
-          "text": "一 無"
-        },
-        {
-          "chord": "A♯",
-          "text": "間，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享"
-        },
-        {
-          "chord": "Cm",
-          "text": "受 父"
-        },
-        {
-          "chord": "A♯",
-          "text": "神 栽"
-        },
-        {
-          "chord": "",
-          "text": "培、 照"
-        },
-        {
-          "chord": "D♯",
-          "text": "護，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "生 命 充"
-        },
-        {
-          "chord": "Cm",
-          "text": "滿，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不"
-        },
-        {
-          "chord": "Gm",
-          "text": "斷 洋"
-        },
-        {
-          "chord": "Fm",
-          "text": "溢、 擴"
-        },
-        {
-          "chord": "A♯",
-          "text": "展，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "彰"
-        },
-        {
-          "chord": "Cm",
-          "text": "顯 父"
-        },
-        {
-          "chord": "Gm",
-          "text": "神 一"
-        },
-        {
-          "chord": "",
-          "text": "切 豐"
-        },
-        {
-          "chord": "Cm",
-          "text": "富。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "彰"
+            },
+            {
+              "chord": "Cm",
+              "text": "顯 父"
+            },
+            {
+              "chord": "Gm",
+              "text": "神 一"
+            },
+            {
+              "chord": "",
+              "text": "切 豐"
+            },
+            {
+              "chord": "Cm",
+              "text": "富。"
+            }
+          ]
         }
       ]
     }

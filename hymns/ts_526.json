@@ -1,620 +1,668 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/526",
   "title": "这是神的恢复",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Cm",
-          "text": "神 救"
+          "segments": [
+            {
+              "chord": "Cm",
+              "text": "神 救"
+            },
+            {
+              "chord": "D♯",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "脫 離 邪 惡"
+            },
+            {
+              "chord": "A♯",
+              "text": "的 世"
+            },
+            {
+              "chord": "",
+              "text": "代，"
+            }
+          ]
         },
         {
-          "chord": "D♯",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "Cm",
+              "text": "聚 集"
+            },
+            {
+              "chord": "D♯",
+              "text": "一 起"
+            },
+            {
+              "chord": "",
+              "text": "為 祂 永 遠 旨"
+            },
+            {
+              "chord": "A♯",
+              "text": "意；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "脫 離 邪 惡"
+          "segments": [
+            {
+              "chord": "Cm",
+              "text": "神 的"
+            },
+            {
+              "chord": "D♯",
+              "text": "兒 女"
+            },
+            {
+              "chord": "",
+              "text": "都 該 看 見"
+            },
+            {
+              "chord": "A♯",
+              "text": "這 異"
+            },
+            {
+              "chord": "",
+              "text": "象，"
+            }
+          ]
         },
         {
-          "chord": "A♯",
-          "text": "的 世"
+          "segments": [
+            {
+              "chord": "Cm",
+              "text": "阿 利"
+            },
+            {
+              "chord": "D♯",
+              "text": "路 亞！"
+            },
+            {
+              "chord": "",
+              "text": "這"
+            },
+            {
+              "chord": "Cm",
+              "text": "是 神"
+            },
+            {
+              "chord": "G7",
+              "text": "的 恢"
+            },
+            {
+              "chord": "Cm",
+              "text": "復。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 們"
+            },
+            {
+              "chord": "Fm",
+              "text": "在 各"
+            },
+            {
+              "chord": "",
+              "text": "城 站 住 地 方"
+            },
+            {
+              "chord": "D♯",
+              "text": "的 立"
+            },
+            {
+              "chord": "",
+              "text": "場，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "代，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Cm",
-          "text": "聚 集"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永 不"
+            },
+            {
+              "chord": "Fm",
+              "text": "倚 靠"
+            },
+            {
+              "chord": "",
+              "text": "自"
+            },
+            {
+              "chord": "G",
+              "text": "己 天"
+            },
+            {
+              "chord": "",
+              "text": "然 力"
+            },
+            {
+              "chord": "Cm",
+              "text": "量。"
+            }
+          ]
         },
         {
-          "chord": "D♯",
-          "text": "一 起"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不 再"
+            },
+            {
+              "chord": "G♯",
+              "text": "是 一"
+            },
+            {
+              "chord": "",
+              "text": "個"
+            },
+            {
+              "chord": "A♯",
+              "text": "信 徒"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "為 祂 永 遠 旨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "單 獨"
+            },
+            {
+              "chord": "D♯",
+              "text": "的 追"
+            },
+            {
+              "chord": "",
+              "text": "求，"
+            }
+          ]
         },
         {
-          "chord": "A♯",
-          "text": "意；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Cm",
-          "text": "神 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃 是"
+            },
+            {
+              "chord": "Fm",
+              "text": "一 直"
+            },
+            {
+              "chord": "",
+              "text": "跟 召 會 的 水"
+            },
+            {
+              "chord": "G",
+              "text": "流，"
+            }
+          ]
         },
         {
-          "chord": "D♯",
-          "text": "兒 女"
+          "segments": [
+            {
+              "chord": "",
+              "text": "迎 主 再"
+            },
+            {
+              "chord": "Cm",
+              "text": "臨。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "在流中，忘记背后，随灵向前；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "都 該 看 見"
+          "segments": [
+            {
+              "chord": "",
+              "text": "弃绝宗教，将世界丢干净。"
+            }
+          ]
         },
         {
-          "chord": "A♯",
-          "text": "這 異"
+          "segments": [
+            {
+              "chord": "",
+              "text": "现今主在全地不断作新事，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "象，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！这是神的恢复。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Cm",
-          "text": "阿 利"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们在各城站住地方的立场，"
+            }
+          ]
         },
         {
-          "chord": "D♯",
-          "text": "路 亞！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永不倚靠自己天然力量。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "這"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不再是一个信徒"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "是 神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "单独的追求，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "的 恢"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃是一直跟召会的水流，"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "復。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "迎主再临。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "七倍灵─众召会是纯金灯台，"
+            }
+          ]
         },
         {
-          "chord": "Fm",
-          "text": "在 各"
+          "segments": [
+            {
+              "chord": "",
+              "text": "地方召会，人子显出丰采。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "城 站 住 地 方"
+          "segments": [
+            {
+              "chord": "",
+              "text": "七灯台在各地焚烧并照耀，"
+            }
+          ]
         },
         {
-          "chord": "D♯",
-          "text": "的 立"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！这是神的恢复。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们在各城站住地方的立场，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "場，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永不倚靠自己天然力量。"
+            }
+          ]
         },
         {
-          "chord": "Fm",
-          "text": "倚 靠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不再是一个信徒"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "自"
+          "segments": [
+            {
+              "chord": "",
+              "text": "单独的追求，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "己 天"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃是一直跟召会的水流，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "然 力"
+          "segments": [
+            {
+              "chord": "",
+              "text": "迎主再临。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主得胜，用大能建造祂召会，"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "量。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不 再"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们同站在祂的得胜里。"
+            }
+          ]
         },
         {
-          "chord": "G♯",
-          "text": "是 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "都成了！仇敌已在祂的脚下，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "個"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！这是神的恢复。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们在各城站住地方的立场，"
+            }
+          ]
         },
         {
-          "chord": "A♯",
-          "text": "信 徒"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "單 獨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永不倚靠自己天然力量。"
+            }
+          ]
         },
         {
-          "chord": "D♯",
-          "text": "的 追"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不再是一个信徒"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "求，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "单独的追求，"
+            }
+          ]
         },
         {
-          "chord": "Fm",
-          "text": "一 直"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃是一直跟召会的水流，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "跟 召 會 的 水"
+          "segments": [
+            {
+              "chord": "",
+              "text": "迎主再临。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂生命在召会中供应无限，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "流，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "迎 主 再"
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！众召会同向前。"
+            }
+          ]
         },
         {
-          "chord": "Cm",
-          "text": "臨。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "这水流乃基督作我们实际，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！这是神的恢复。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "在流中，忘记背后，随灵向前；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们在各城站住地方的立场，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "永不倚靠自己天然力量。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不再是一个信徒"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "单独的追求，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃是一直跟召会的水流，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "迎主再临。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "弃绝宗教，将世界丢干净。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在召会中我们同见这异象，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "永不单独，我们建造一起。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "同往前，在这时代作主见证，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿利路亚！这是神的恢复。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "现今主在全地不断作新事，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们在各城站住地方的立场，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "阿利路亚！这是神的恢复。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "永不倚靠自己天然力量。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我们在各城站住地方的立场，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "不再是一个信徒"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "永不倚靠自己天然力量。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "单独的追求，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "不再是一个信徒"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃是一直跟召会的水流，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "单独的追求，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃是一直跟召会的水流，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "迎主再临。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "七倍灵─众召会是纯金灯台，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "地方召会，人子显出丰采。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "七灯台在各地焚烧并照耀，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！这是神的恢复。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们在各城站住地方的立场，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永不倚靠自己天然力量。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不再是一个信徒"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "单独的追求，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃是一直跟召会的水流，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "迎主再临。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "主得胜，用大能建造祂召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们同站在祂的得胜里。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "都成了！仇敌已在祂的脚下，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！这是神的恢复。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们在各城站住地方的立场，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永不倚靠自己天然力量。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不再是一个信徒"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "单独的追求，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃是一直跟召会的水流，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "迎主再临。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂生命在召会中供应无限，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！众召会同向前。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "这水流乃基督作我们实际，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！这是神的恢复。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们在各城站住地方的立场，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永不倚靠自己天然力量。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不再是一个信徒"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "单独的追求，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃是一直跟召会的水流，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "迎主再临。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在召会中我们同见这异象，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永不单独，我们建造一起。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同往前，在这时代作主见证，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "阿利路亚！这是神的恢复。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们在各城站住地方的立场，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永不倚靠自己天然力量。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不再是一个信徒"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "单独的追求，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃是一直跟召会的水流，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "迎主再临。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "迎主再临。"
+            }
+          ]
         }
       ]
     }
@@ -622,7 +670,16 @@
   "metadata": {
     "category": "教会的异象",
     "time": "2/2",
-    "hymn_code": "63565313275"
+    "hymn_code": "63565313275",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/6526",
+        "language": "cn",
+        "category": "h",
+        "number": "6526",
+        "title": "E6526"
+      }
+    ]
   },
   "raw_sections": [
     "神 救我 們脫 離 邪 惡的 世代，",

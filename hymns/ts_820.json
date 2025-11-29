@@ -1,284 +1,300 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/820",
   "title": "需要",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A7",
-          "text": "哦！"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "哦！"
+            },
+            {
+              "chord": "D",
+              "text": "你 今"
+            },
+            {
+              "chord": "",
+              "text": "在 何 處，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "你 今"
+          "segments": [
+            {
+              "chord": "",
+              "text": "天 天 奔 波 又 忙 碌，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "在 何 處，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天 天 奔 波 又 忙 碌，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "卻 是 虛 空、"
+          "segments": [
+            {
+              "chord": "",
+              "text": "卻 是 虛 空、"
+            },
+            {
+              "chord": "Bm",
+              "text": "虛 空、"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "虛 空、"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "虛 空"
+          "segments": [
+            {
+              "chord": "",
+              "text": "虛 空"
+            },
+            {
+              "chord": "Em",
+              "text": "的 生"
+            },
+            {
+              "chord": "A7",
+              "text": "活！"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "的 生"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 曾"
+            },
+            {
+              "chord": "D",
+              "text": "追 求"
+            },
+            {
+              "chord": "",
+              "text": "過 萬 物，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "活！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 曾"
+          "segments": [
+            {
+              "chord": "",
+              "text": "卻 是 不 能 得 飽 足，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "追 求"
+          "segments": [
+            {
+              "chord": "",
+              "text": "總 覺 得 裡 面 缺 少、"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "過 萬 物，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "缺 少 些"
+            },
+            {
+              "chord": "A7",
+              "text": "甚"
+            },
+            {
+              "chord": "D",
+              "text": "麼！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "卻 是 不 能 得 飽 足，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "總 覺 得 裡 面 缺 少、"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "缺 少 些"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你 需 要 耶 穌！"
+            },
+            {
+              "chord": "D7",
+              "text": "宇 宙"
+            },
+            {
+              "chord": "",
+              "text": "之 主！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "甚"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "你 需"
+            },
+            {
+              "chord": "",
+              "text": "要 享 受 祂 的 豐 富！"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "麼！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你 需 要 耶 穌！"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "你"
+            },
+            {
+              "chord": "D",
+              "text": "的 心"
+            },
+            {
+              "chord": "",
+              "text": "雖 比 萬 物 都"
+            },
+            {
+              "chord": "A7",
+              "text": "大，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "宇 宙"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂 卻"
+            },
+            {
+              "chord": "D",
+              "text": "能 彀、"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "之 主！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "能 彀 使 你 得 著"
+            },
+            {
+              "chord": "A7",
+              "text": "滿"
+            },
+            {
+              "chord": "D",
+              "text": "足！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G",
-          "text": "你 需"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦！你确是自足，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "要 享 受 祂 的 豐 富！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "世上一切你都有，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "的 心"
+          "segments": [
+            {
+              "chord": "",
+              "text": "还是不觉、不觉、"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "雖 比 萬 物 都"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不觉得满足！"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "大，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂 卻"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你的工作有成就，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "能 彀、"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "能 彀 使 你 得 著"
+          "segments": [
+            {
+              "chord": "",
+              "text": "学业也可以自负，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "滿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但是在你的深处、"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "足！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "深处仍缺如！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "哦！你确是自足，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "你需要耶稣！宇宙之主！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "世上一切你都有，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "你需要享受祂的丰富！"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "还是不觉、不觉、"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "你的心虽比万物都大，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "不觉得满足！"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂却能够、"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "你的工作有成就，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "学业也可以自负，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但是在你的深处、"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "深处仍缺如！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你需要耶稣！宇宙之主！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你需要享受祂的丰富！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你的心虽比万物都大，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂却能够、"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "能够使你得着满足！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "能够使你得着满足！"
+            }
+          ]
         }
       ]
     }

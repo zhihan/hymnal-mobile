@@ -1,464 +1,504 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/462",
   "title": "大哉！敬虔奥秘！",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "大 哉！"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "大 哉！"
+            },
+            {
+              "chord": "",
+              "text": "敬 虔 奧 祕！ 神"
+            },
+            {
+              "chord": "A",
+              "text": "顯 於"
+            },
+            {
+              "chord": "",
+              "text": "肉"
+            },
+            {
+              "chord": "D",
+              "text": "體，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "敬 虔 奧 祕！ 神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "支"
+            },
+            {
+              "chord": "G",
+              "text": "搭 帳"
+            },
+            {
+              "chord": "",
+              "text": "幕，"
+            },
+            {
+              "chord": "D",
+              "text": "豐 滿"
+            },
+            {
+              "chord": "",
+              "text": "恩"
+            },
+            {
+              "chord": "E7",
+              "text": "典 何"
+            },
+            {
+              "chord": "",
+              "text": "實"
+            },
+            {
+              "chord": "A",
+              "text": "際；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "顯 於"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神"
+            },
+            {
+              "chord": "D",
+              "text": "聖 奧"
+            },
+            {
+              "chord": "",
+              "text": "祕 三 一， 今"
+            },
+            {
+              "chord": "A",
+              "text": "在 我"
+            },
+            {
+              "chord": "",
+              "text": "們"
+            },
+            {
+              "chord": "D",
+              "text": "裏，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "肉"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基"
+            },
+            {
+              "chord": "G",
+              "text": "督 奧"
+            },
+            {
+              "chord": "",
+              "text": "祕"
+            },
+            {
+              "chord": "D",
+              "text": "身 體"
+            },
+            {
+              "chord": "",
+              "text": "彰"
+            },
+            {
+              "chord": "A",
+              "text": "顯 神"
+            },
+            {
+              "chord": "A7",
+              "text": "自"
+            },
+            {
+              "chord": "D",
+              "text": "己。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "何 神 聖！ 何 奧 祕！ 三 一 竟 可 進"
+            },
+            {
+              "chord": "A",
+              "text": "入。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "體，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "支"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何 榮 耀！ 何 有 福！ 得 享 一 切 豐"
+            },
+            {
+              "chord": "D",
+              "text": "富。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "搭 帳"
+          "segments": [
+            {
+              "chord": "",
+              "text": "那 靈 充 滿 浸 透 全"
+            },
+            {
+              "chord": "A",
+              "text": "人 每"
+            },
+            {
+              "chord": "",
+              "text": "一"
+            },
+            {
+              "chord": "D",
+              "text": "部，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "幕，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直"
+            },
+            {
+              "chord": "G",
+              "text": "到 長"
+            },
+            {
+              "chord": "",
+              "text": "大"
+            },
+            {
+              "chord": "D",
+              "text": "成 熟，"
+            },
+            {
+              "chord": "",
+              "text": "作"
+            },
+            {
+              "chord": "A",
+              "text": "榮 美"
+            },
+            {
+              "chord": "A7",
+              "text": "新"
+            },
+            {
+              "chord": "D",
+              "text": "婦。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "神已经过过程又终极完成，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "豐 滿"
+          "segments": [
+            {
+              "chord": "",
+              "text": "成为复合那灵，眷临赐生命；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "恩"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神圣膏油涂抹─神性调人性，"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "典 何"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们得祂分赐，有分神性情。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "何神圣！何奥秘！三一竟可进入。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "實"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何荣耀！何有福！得享一切丰富。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "際；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "那灵充满浸透全人每一部，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "聖 奧"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到长大成熟，作荣美新妇。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们今蒙怜悯，出宗教营外，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "祕 三 一， 今"
+          "segments": [
+            {
+              "chord": "",
+              "text": "跟随基督，不致退缩遭毁坏；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "在 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享受那灵运行，和围绕云彩，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "经历调和，将身体建造起来。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "何神圣！何奥秘！三一竟可进入。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "裏，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何荣耀！何有福！得享一切丰富。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "督 奧"
+          "segments": [
+            {
+              "chord": "",
+              "text": "那灵充满浸透全人每一部，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "祕"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到长大成熟，作荣美新妇。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督生机身体，是父神的家，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "身 體"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们互为肢体，调和又配搭；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "彰"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督乃是生命、人位和彰显，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "顯 神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神圣奥秘范围，现今得扩大。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "何神圣！何奥秘！三一竟可进入。"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "自"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何荣耀！何有福！得享一切丰富。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "己。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何 神 聖！ 何 奧 祕！ 三 一 竟 可 進"
+          "segments": [
+            {
+              "chord": "",
+              "text": "那灵充满浸透全人每一部，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "入。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到长大成熟，作荣美新妇。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "何 榮 耀！ 何 有 福！ 得 享 一 切 豐"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们得着生命，有父神性情，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "富。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "那 靈 充 滿 浸 透 全"
+          "segments": [
+            {
+              "chord": "",
+              "text": "且借达到圣别，成为一见证；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "人 每"
+          "segments": [
+            {
+              "chord": "",
+              "text": "今在父荣耀里，将三一显明，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "至终达到圣城-新耶路撒冷。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "何神圣！何奥秘！三一竟可进入。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "部，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直"
+          "segments": [
+            {
+              "chord": "",
+              "text": "何荣耀！何有福！得享一切丰富。"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "到 長"
+          "segments": [
+            {
+              "chord": "",
+              "text": "那灵充满浸透全人每一部，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "大"
-        },
-        {
-          "chord": "D",
-          "text": "成 熟，"
-        },
-        {
-          "chord": "",
-          "text": "作"
-        },
-        {
-          "chord": "A",
-          "text": "榮 美"
-        },
-        {
-          "chord": "A7",
-          "text": "新"
-        },
-        {
-          "chord": "D",
-          "text": "婦。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神已经过过程又终极完成，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "成为复合那灵，眷临赐生命；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神圣膏油涂抹─神性调人性，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们得祂分赐，有分神性情。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何神圣！何奥秘！三一竟可进入。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何荣耀！何有福！得享一切丰富。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "那灵充满浸透全人每一部，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到长大成熟，作荣美新妇。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们今蒙怜悯，出宗教营外，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "跟随基督，不致退缩遭毁坏；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享受那灵运行，和围绕云彩，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "经历调和，将身体建造起来。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何神圣！何奥秘！三一竟可进入。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何荣耀！何有福！得享一切丰富。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "那灵充满浸透全人每一部，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到长大成熟，作荣美新妇。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督生机身体，是父神的家，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们互为肢体，调和又配搭；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基督乃是生命、人位和彰显，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神圣奥秘范围，现今得扩大。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何神圣！何奥秘！三一竟可进入。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何荣耀！何有福！得享一切丰富。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "那灵充满浸透全人每一部，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到长大成熟，作荣美新妇。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们得着生命，有父神性情，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "且借达到圣别，成为一见证；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今在父荣耀里，将三一显明，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "至终达到圣城-新耶路撒冷。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何神圣！何奥秘！三一竟可进入。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "何荣耀！何有福！得享一切丰富。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "那灵充满浸透全人每一部，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直到长大成熟，作荣美新妇。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到长大成熟，作荣美新妇。"
+            }
+          ]
         }
       ]
     }

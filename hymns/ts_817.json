@@ -1,412 +1,428 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/817",
   "title": "你为何得救？",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "你 知"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "你 知"
+            },
+            {
+              "chord": "G",
+              "text": "道 你"
+            },
+            {
+              "chord": "",
+              "text": "為 何"
+            },
+            {
+              "chord": "D",
+              "text": "得 救，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "道 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "有 否"
+            },
+            {
+              "chord": "Em",
+              "text": "想 過"
+            },
+            {
+              "chord": "",
+              "text": "這 問"
+            },
+            {
+              "chord": "A",
+              "text": "題？"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "為 何"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "究 竟"
+            },
+            {
+              "chord": "",
+              "text": "神 有 甚 麼"
+            },
+            {
+              "chord": "D",
+              "text": "計 畫？"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "得 救，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有 否"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "基 督"
+            },
+            {
+              "chord": "Em",
+              "text": "為"
+            },
+            {
+              "chord": "Em7",
+              "text": "何 拯"
+            },
+            {
+              "chord": "",
+              "text": "救"
+            },
+            {
+              "chord": "Asus4",
+              "text": "你？"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "想 過"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "直 到"
+            },
+            {
+              "chord": "",
+              "text": "如 今，"
+            },
+            {
+              "chord": "Em",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "只 知 道"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "這 問"
+          "segments": [
+            {
+              "chord": "",
+              "text": "基"
+            },
+            {
+              "chord": "A",
+              "text": "督 活"
+            },
+            {
+              "chord": "",
+              "text": "在 我"
+            },
+            {
+              "chord": "A7",
+              "text": "裡，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "題？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "A7",
-          "text": "究 竟"
+          "segments": [
+            {
+              "chord": "",
+              "text": "這"
+            },
+            {
+              "chord": "D",
+              "text": "實 在"
+            },
+            {
+              "chord": "",
+              "text": "是 美"
+            },
+            {
+              "chord": "G",
+              "text": "好；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "神 有 甚 麼"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "但 是"
+            },
+            {
+              "chord": "",
+              "text": "神 有"
+            },
+            {
+              "chord": "Em",
+              "text": "更 深"
+            },
+            {
+              "chord": "",
+              "text": "的 啟 示，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "計 畫？"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神"
+            },
+            {
+              "chord": "A",
+              "text": "的 旨"
+            },
+            {
+              "chord": "",
+              "text": "意 必"
+            },
+            {
+              "chord": "A7",
+              "text": "須 達"
+            },
+            {
+              "chord": "D",
+              "text": "到。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Bm",
-          "text": "基 督"
+          "segments": [
+            {
+              "chord": "",
+              "text": "伊甸河流有一目的，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "供应生命滋润地。"
+            }
+          ]
         },
         {
-          "chord": "Em7",
-          "text": "何 拯"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神的拯救如同水流，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "救"
+          "segments": [
+            {
+              "chord": "",
+              "text": "经过几段的经历。"
+            }
+          ]
         },
         {
-          "chord": "Asus4",
-          "text": "你？"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "直 到"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们先脱撒但的辖制，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "如 今，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "以后再进一步，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "脱开那基督教。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "只 知 道"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "基"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神的恢复一直往前流，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "督 活"
+          "segments": [
+            {
+              "chord": "",
+              "text": "永不会在中途停住。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不是仅仅一个信徒，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "在 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "单单独独到处荡；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "裡，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "這"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃是活石同被建造，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "實 在"
+          "segments": [
+            {
+              "chord": "",
+              "text": "团体基督得显彰。"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "是 美"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们重生为着得更新，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "好；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "但 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "但基督进你心，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "神 有"
+          "segments": [
+            {
+              "chord": "",
+              "text": "还有另一缘故；"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "更 深"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂作我们生命的缘故，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 啟 示，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "为要得着祂的新妇。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "神"
+          "segments": [
+            {
+              "chord": "",
+              "text": "不是零星散乱宝石，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "的 旨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "个别属灵的造诣；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "意 必"
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃是实际在生命里，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "須 達"
+          "segments": [
+            {
+              "chord": "",
+              "text": "同被建造在一起。"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "到。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "你永远不会完全满足，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "伊甸河流有一目的，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "除非耶稣基督"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "供应生命滋润地。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "得着祂的新妇。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "神的拯救如同水流，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "有否想过，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "经过几段的经历。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "今天主正在等待"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "我们先脱撒但的辖制，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "以后再进一步，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "脱开那基督教。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神的恢复一直往前流，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "永不会在中途停住。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不是仅仅一个信徒，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "单单独独到处荡；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃是活石同被建造，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "团体基督得显彰。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们重生为着得更新，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但基督进你心，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "还有另一缘故；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂作我们生命的缘故，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "为要得着祂的新妇。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "不是零星散乱宝石，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "个别属灵的造诣；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "乃是实际在生命里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "同被建造在一起。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你永远不会完全满足，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "除非耶稣基督"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得着祂的新妇。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有否想过，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "今天主正在等待"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "把你建造起来！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "把你建造起来！"
+            }
+          ]
         }
       ]
     }
@@ -414,7 +430,16 @@
   "metadata": {
     "category": "事奉与福音",
     "time": "4/4",
-    "hymn_code": "3453231533216332"
+    "hymn_code": "3453231533216332",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/370",
+        "language": "cn",
+        "category": "ns",
+        "number": "370",
+        "title": "NS370"
+      }
+    ]
   },
   "raw_sections": [
     "你 知道 你為 何得 救，",

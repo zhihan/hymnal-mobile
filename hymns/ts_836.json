@@ -1,384 +1,392 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/836",
   "title": "清晨的日光",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "雖 經"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "雖 經"
+            },
+            {
+              "chord": "",
+              "text": "漫 漫 長"
+            },
+            {
+              "chord": "D7",
+              "text": "夜，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "漫 漫 長"
+          "segments": [
+            {
+              "chord": "",
+              "text": "晚 星"
+            },
+            {
+              "chord": "G",
+              "text": "也 都"
+            },
+            {
+              "chord": "",
+              "text": "已 消"
+            },
+            {
+              "chord": "D",
+              "text": "滅，"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "夜，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "神 卻 末 曾 忘 記"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "祂 所"
+            },
+            {
+              "chord": "",
+              "text": "定 的 永"
+            },
+            {
+              "chord": "A7",
+              "text": "約；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "當 我"
+            },
+            {
+              "chord": "D",
+              "text": "們 正"
+            },
+            {
+              "chord": "",
+              "text": "徘 徊"
+            },
+            {
+              "chord": "D7",
+              "text": "在"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "死 蔭"
+            },
+            {
+              "chord": "G",
+              "text": "之 地"
+            },
+            {
+              "chord": "",
+              "text": "離 不"
+            },
+            {
+              "chord": "Gm",
+              "text": "開，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "有 一"
+            },
+            {
+              "chord": "D",
+              "text": "清 晨"
+            },
+            {
+              "chord": "",
+              "text": "的 日"
+            },
+            {
+              "chord": "A7",
+              "text": "光"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "從 天 而"
+            },
+            {
+              "chord": "D",
+              "text": "來。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "是 神 憐 憫 的 心"
+            },
+            {
+              "chord": "D7",
+              "text": "腸，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "眷 顧"
+            },
+            {
+              "chord": "G",
+              "text": "罪 人"
+            },
+            {
+              "chord": "",
+              "text": "的 憂 傷，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "把 我"
+            },
+            {
+              "chord": "D",
+              "text": "們 的"
+            },
+            {
+              "chord": "",
+              "text": "腳"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "引"
+            },
+            {
+              "chord": "Bm",
+              "text": "到 平"
+            },
+            {
+              "chord": "",
+              "text": "安 路"
+            },
+            {
+              "chord": "A7",
+              "text": "上，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "所 有"
+            },
+            {
+              "chord": "D",
+              "text": "黑 暗"
+            },
+            {
+              "chord": "",
+              "text": "盡 驅"
+            },
+            {
+              "chord": "D7",
+              "text": "走，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "天 來"
+            },
+            {
+              "chord": "G",
+              "text": "救 主"
+            },
+            {
+              "chord": "",
+              "text": "施 拯 救，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "使 我"
+            },
+            {
+              "chord": "D",
+              "text": "們 的"
+            },
+            {
+              "chord": "",
+              "text": "黑 夜"
+            },
+            {
+              "chord": "A7",
+              "text": "變 為"
+            },
+            {
+              "chord": "",
+              "text": "白"
+            },
+            {
+              "chord": "D",
+              "text": "晝！"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "晚 星"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你来寻找失丧者，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "也 都"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你肯赦免犯罪的，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "已 消"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你使卑贱无望人"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "滅，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "神 卻 末 曾 忘 記"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Bm",
-          "text": "祂 所"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得享天上乐；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "定 的 永"
+          "segments": [
+            {
+              "chord": "",
+              "text": "从你活出神自己，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "約；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "當 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在神拯救恩典里，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "們 正"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你给万民带来"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "徘 徊"
+          "segments": [
+            {
+              "chord": "",
+              "text": "大喜的信息。"
+            }
+          ]
         },
         {
-          "chord": "D7",
-          "text": "在"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "死 蔭"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你是神人的调和，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "之 地"
+          "segments": [
+            {
+              "chord": "",
+              "text": "你是人中的圣者，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "離 不"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们从你看见"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "開，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "有 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "人性的美德；"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "清 晨"
+          "segments": [
+            {
+              "chord": "",
+              "text": "如此救主我爱戴，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 日"
+          "segments": [
+            {
+              "chord": "",
+              "text": "向你我心献敬拜，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "光"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "從 天 而"
-        },
-        {
-          "chord": "D",
-          "text": "來。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "是 神 憐 憫 的 心"
-        },
-        {
-          "chord": "D7",
-          "text": "腸，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "眷 顧"
-        },
-        {
-          "chord": "G",
-          "text": "罪 人"
-        },
-        {
-          "chord": "",
-          "text": "的 憂 傷，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "把 我"
-        },
-        {
-          "chord": "D",
-          "text": "們 的"
-        },
-        {
-          "chord": "",
-          "text": "腳"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "引"
-        },
-        {
-          "chord": "Bm",
-          "text": "到 平"
-        },
-        {
-          "chord": "",
-          "text": "安 路"
-        },
-        {
-          "chord": "A7",
-          "text": "上，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "所 有"
-        },
-        {
-          "chord": "D",
-          "text": "黑 暗"
-        },
-        {
-          "chord": "",
-          "text": "盡 驅"
-        },
-        {
-          "chord": "D7",
-          "text": "走，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "天 來"
-        },
-        {
-          "chord": "G",
-          "text": "救 主"
-        },
-        {
-          "chord": "",
-          "text": "施 拯 救，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "使 我"
-        },
-        {
-          "chord": "D",
-          "text": "們 的"
-        },
-        {
-          "chord": "",
-          "text": "黑 夜"
-        },
-        {
-          "chord": "A7",
-          "text": "變 為"
-        },
-        {
-          "chord": "",
-          "text": "白"
-        },
-        {
-          "chord": "D",
-          "text": "晝！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你来寻找失丧者，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你肯赦免犯罪的，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你使卑贱无望人"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得享天上乐；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "从你活出神自己，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在神拯救恩典里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你给万民带来"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "大喜的信息。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你是神人的调和，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "你是人中的圣者，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们从你看见"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "人性的美德；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "如此救主我爱戴，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "向你我心献敬拜，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞美你，今住我卑微胸怀！"
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞美你，今住我卑微胸怀！"
+            }
+          ]
         }
       ]
     }

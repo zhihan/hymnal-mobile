@@ -1,168 +1,172 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/329",
   "title": "惟见荣耀里的基督",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "何 等"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "何 等"
+            },
+            {
+              "chord": "",
+              "text": "喜 樂，"
+            },
+            {
+              "chord": "A",
+              "text": "何 等"
+            },
+            {
+              "chord": "",
+              "text": "喜 樂，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "喜 樂，"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "能 彀"
+            },
+            {
+              "chord": "F♯m",
+              "text": "一 無"
+            },
+            {
+              "chord": "",
+              "text": "所 有，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "何 等"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "一 無"
+            },
+            {
+              "chord": "",
+              "text": "所 是，"
+            },
+            {
+              "chord": "D",
+              "text": "一 無"
+            },
+            {
+              "chord": "",
+              "text": "所 見，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "喜 樂，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Bm",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "惟 見"
+            },
+            {
+              "chord": "",
+              "text": "榮 耀"
+            },
+            {
+              "chord": "A",
+              "text": "裡 的"
+            },
+            {
+              "chord": "",
+              "text": "基 督；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "能 彀"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "何 等"
+            },
+            {
+              "chord": "",
+              "text": "喜 樂，"
+            },
+            {
+              "chord": "A",
+              "text": "何 等"
+            },
+            {
+              "chord": "",
+              "text": "喜 樂，"
+            }
+          ]
         },
         {
-          "chord": "F♯m",
-          "text": "一 無"
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "能 彀"
+            },
+            {
+              "chord": "F♯m",
+              "text": "一 無"
+            },
+            {
+              "chord": "",
+              "text": "所 有，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "所 有，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "一 無"
+          "segments": [
+            {
+              "chord": "G",
+              "text": "一 無"
+            },
+            {
+              "chord": "",
+              "text": "所 是，"
+            },
+            {
+              "chord": "D",
+              "text": "一 無"
+            },
+            {
+              "chord": "",
+              "text": "所 顧，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "所 是，"
-        },
-        {
-          "chord": "D",
-          "text": "一 無"
-        },
-        {
-          "chord": "",
-          "text": "所 見，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "惟 見"
-        },
-        {
-          "chord": "",
-          "text": "榮 耀"
-        },
-        {
-          "chord": "A",
-          "text": "裡 的"
-        },
-        {
-          "chord": "",
-          "text": "基 督；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "D",
-          "text": "何 等"
-        },
-        {
-          "chord": "",
-          "text": "喜 樂，"
-        },
-        {
-          "chord": "A",
-          "text": "何 等"
-        },
-        {
-          "chord": "",
-          "text": "喜 樂，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Bm",
-          "text": "我 們"
-        },
-        {
-          "chord": "",
-          "text": "能 彀"
-        },
-        {
-          "chord": "F♯m",
-          "text": "一 無"
-        },
-        {
-          "chord": "",
-          "text": "所 有，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "G",
-          "text": "一 無"
-        },
-        {
-          "chord": "",
-          "text": "所 是，"
-        },
-        {
-          "chord": "D",
-          "text": "一 無"
-        },
-        {
-          "chord": "",
-          "text": "所 顧，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Em",
-          "text": "惟 顧"
-        },
-        {
-          "chord": "G",
-          "text": "祂 在"
-        },
-        {
-          "chord": "A",
-          "text": "地"
-        },
-        {
-          "chord": "A7",
-          "text": "權"
-        },
-        {
-          "chord": "D",
-          "text": "益。"
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "惟 顧"
+            },
+            {
+              "chord": "G",
+              "text": "祂 在"
+            },
+            {
+              "chord": "A",
+              "text": "地"
+            },
+            {
+              "chord": "A7",
+              "text": "權"
+            },
+            {
+              "chord": "D",
+              "text": "益。"
+            }
+          ]
         }
       ]
     }
@@ -170,7 +174,16 @@
   "metadata": {
     "category": "爱慕耶稣",
     "time": "4/4",
-    "hymn_code": "3553255213317337"
+    "hymn_code": "3553255213317337",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ns/27",
+        "language": "cn",
+        "category": "ns",
+        "number": "27",
+        "title": "NS27"
+      }
+    ]
   },
   "raw_sections": [
     "何 等喜 樂，何 等喜 樂，",

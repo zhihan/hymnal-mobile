@@ -1,512 +1,560 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/747",
   "title": "哦主！我愿花费自己",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "G7",
-          "text": "哦"
+          "segments": [
+            {
+              "chord": "G7",
+              "text": "哦"
+            },
+            {
+              "chord": "C",
+              "text": "主！ 我"
+            },
+            {
+              "chord": "",
+              "text": "願 花"
+            },
+            {
+              "chord": "F",
+              "text": "費 自"
+            },
+            {
+              "chord": "Dm",
+              "text": "己，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "主！ 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "為"
+            },
+            {
+              "chord": "C",
+              "text": "著 建"
+            },
+            {
+              "chord": "Am",
+              "text": "造 你"
+            },
+            {
+              "chord": "F",
+              "text": "的 召"
+            },
+            {
+              "chord": "G7",
+              "text": "會；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "願 花"
+          "segments": [
+            {
+              "chord": "",
+              "text": "無"
+            },
+            {
+              "chord": "C",
+              "text": "奈 對"
+            },
+            {
+              "chord": "C7",
+              "text": "你 認"
+            },
+            {
+              "chord": "F",
+              "text": "識 浮"
+            },
+            {
+              "chord": "",
+              "text": "淺，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "費 自"
+          "segments": [
+            {
+              "chord": "",
+              "text": "扎"
+            },
+            {
+              "chord": "C",
+              "text": "實 經"
+            },
+            {
+              "chord": "Am",
+              "text": "歷 實"
+            },
+            {
+              "chord": "G7",
+              "text": "在 欠"
+            },
+            {
+              "chord": "C",
+              "text": "缺。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 今 立"
+            },
+            {
+              "chord": "G",
+              "text": "下 一"
+            },
+            {
+              "chord": "C",
+              "text": "個"
+            },
+            {
+              "chord": "F",
+              "text": "心"
+            },
+            {
+              "chord": "C",
+              "text": "志，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "己，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "為"
+          "segments": [
+            {
+              "chord": "",
+              "text": "願 意 完"
+            },
+            {
+              "chord": "Am",
+              "text": "全 認"
+            },
+            {
+              "chord": "F",
+              "text": "識 基"
+            },
+            {
+              "chord": "G7",
+              "text": "督；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "著 建"
+          "segments": [
+            {
+              "chord": "",
+              "text": "更"
+            },
+            {
+              "chord": "C",
+              "text": "要 天"
+            },
+            {
+              "chord": "G",
+              "text": "天 享"
+            },
+            {
+              "chord": "C",
+              "text": "受"
+            },
+            {
+              "chord": "F",
+              "text": "經"
+            },
+            {
+              "chord": "C",
+              "text": "歷，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "造 你"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得 著 基"
+            },
+            {
+              "chord": "Am",
+              "text": "督 供"
+            },
+            {
+              "chord": "G7",
+              "text": "應 召"
+            },
+            {
+              "chord": "C",
+              "text": "會。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "万有基督在我里头，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "的 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是源泉，祂也是流；"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "會；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "無"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟有更多认识经历，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "奈 對"
+          "segments": [
+            {
+              "chord": "",
+              "text": "才能成流点活别人。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我今立下一个心志，"
+            }
+          ]
         },
         {
-          "chord": "C7",
-          "text": "你 認"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿意完全认识基督；"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "識 浮"
+          "segments": [
+            {
+              "chord": "",
+              "text": "更要天天享受经历，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "淺，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得着基督供应召会。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "扎"
+          "segments": [
+            {
+              "chord": "",
+              "text": "‘认识基督’只说不够，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "實 經"
+          "segments": [
+            {
+              "chord": "",
+              "text": "须在经历享用实际，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "歷 實"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享用越多，越有花费，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "在 欠"
+          "segments": [
+            {
+              "chord": "",
+              "text": "经历越深，越有摆出。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我今立下一个心志，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "缺。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 今 立"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿意完全认识基督；"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "下 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "更要天天享受经历，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "個"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得着基督供应召会。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "虽未坐在三层天上，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "心"
+          "segments": [
+            {
+              "chord": "",
+              "text": "圣灵充满，亦感被提；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "志，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "願 意 完"
+          "segments": [
+            {
+              "chord": "",
+              "text": "虽在肉身仍然活着，"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "全 認"
+          "segments": [
+            {
+              "chord": "",
+              "text": "却有死而复活经历。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我今立下一个心志，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "識 基"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿意完全认识基督；"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "督；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "更"
+          "segments": [
+            {
+              "chord": "",
+              "text": "更要天天享受经历，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "要 天"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得着基督供应召会。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "当我享祂，祂亦享我，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "天 享"
+          "segments": [
+            {
+              "chord": "",
+              "text": "当我得祂，祂亦得我；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "受"
+          "segments": [
+            {
+              "chord": "",
+              "text": "惟有如此相互享用，"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "經"
+          "segments": [
+            {
+              "chord": "",
+              "text": "结实经历，越过越丰。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我今立下一个心志，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "歷，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得 著 基"
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿意完全认识基督；"
+            }
+          ]
         },
         {
-          "chord": "Am",
-          "text": "督 供"
+          "segments": [
+            {
+              "chord": "",
+              "text": "更要天天享受经历，"
+            }
+          ]
         },
         {
-          "chord": "G7",
-          "text": "應 召"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得着基督供应召会。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "若要花费，需有本钱，"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "會。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "认识基督是我至宝；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "万事在我，都如粪土，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我要实际得着基督。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "万有基督在我里头，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我今立下一个心志，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "祂是源泉，祂也是流；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "愿意完全认识基督；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "惟有更多认识经历，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "更要天天享受经历，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "才能成流点活别人。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我今立下一个心志，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿意完全认识基督；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "更要天天享受经历，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得着基督供应召会。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "‘认识基督’只说不够，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "须在经历享用实际，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享用越多，越有花费，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "经历越深，越有摆出。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我今立下一个心志，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿意完全认识基督；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "更要天天享受经历，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得着基督供应召会。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "虽未坐在三层天上，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "圣灵充满，亦感被提；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "虽在肉身仍然活着，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "却有死而复活经历。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我今立下一个心志，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿意完全认识基督；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "更要天天享受经历，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得着基督供应召会。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当我享祂，祂亦享我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当我得祂，祂亦得我；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "惟有如此相互享用，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "结实经历，越过越丰。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我今立下一个心志，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿意完全认识基督；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "更要天天享受经历，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得着基督供应召会。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "若要花费，需有本钱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "认识基督是我至宝；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "万事在我，都如粪土，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我要实际得着基督。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我今立下一个心志，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "愿意完全认识基督；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "更要天天享受经历，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "得着基督供应召会。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "得着基督供应召会。"
+            }
+          ]
         }
       ]
     }

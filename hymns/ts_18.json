@@ -1,468 +1,508 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/18",
   "title": "自从我被赎回",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A",
-          "text": "我"
+          "segments": [
+            {
+              "chord": "A",
+              "text": "我"
+            },
+            {
+              "chord": "D",
+              "text": "有 一"
+            },
+            {
+              "chord": "",
+              "text": "詩 歌"
+            },
+            {
+              "chord": "A",
+              "text": "我 愛"
+            },
+            {
+              "chord": "D",
+              "text": "唱，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "有 一"
+          "segments": [
+            {
+              "chord": "",
+              "text": "自"
+            },
+            {
+              "chord": "Bm",
+              "text": "從 我"
+            },
+            {
+              "chord": "",
+              "text": "被 贖"
+            },
+            {
+              "chord": "A",
+              "text": "回，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "詩 歌"
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "唱"
+            },
+            {
+              "chord": "D",
+              "text": "我 救"
+            },
+            {
+              "chord": "",
+              "text": "贖 主，"
+            },
+            {
+              "chord": "A",
+              "text": "救 主，"
+            },
+            {
+              "chord": "Bm",
+              "text": "王，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "我 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "自"
+            },
+            {
+              "chord": "G",
+              "text": "從 我"
+            },
+            {
+              "chord": "A7",
+              "text": "被 贖"
+            },
+            {
+              "chord": "D",
+              "text": "回。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "自 從 我 被 贖"
+            },
+            {
+              "chord": "A",
+              "text": "回，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "唱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自"
+          "segments": [
+            {
+              "chord": "",
+              "text": "自"
+            },
+            {
+              "chord": "Em",
+              "text": "從 我"
+            },
+            {
+              "chord": "",
+              "text": "被 贖"
+            },
+            {
+              "chord": "A7",
+              "text": "回，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "從 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 要"
+            },
+            {
+              "chord": "D",
+              "text": "靠 主"
+            },
+            {
+              "chord": "A",
+              "text": "名 誇"
+            },
+            {
+              "chord": "D",
+              "text": "耀；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "被 贖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "自 從 我 被 贖"
+            },
+            {
+              "chord": "A",
+              "text": "回，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "回，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 要"
+            },
+            {
+              "chord": "Em",
+              "text": "靠 救"
+            },
+            {
+              "chord": "",
+              "text": "主 的"
+            },
+            {
+              "chord": "A7",
+              "text": "名 誇"
+            },
+            {
+              "chord": "D",
+              "text": "耀。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "A7",
-          "text": "唱"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我有一基督能满足，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "我 救"
+          "segments": [
+            {
+              "chord": "",
+              "text": "自从我被赎回；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "贖 主，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "行祂旨意是我所慕，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "救 主，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "自从我被赎回。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "自从我被赎回，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "王，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自"
+          "segments": [
+            {
+              "chord": "",
+              "text": "自从我被赎回，"
+            }
+          ]
         },
         {
-          "chord": "G",
-          "text": "從 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我要靠主名夸耀；"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "被 贖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "自从我被赎回，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "回。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我要靠救主的名夸耀。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "自 從 我 被 贖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我有一中保神前立，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "回，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自"
+          "segments": [
+            {
+              "chord": "",
+              "text": "自从我被赎回，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "從 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "消除一切忧惧、怀疑，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "被 贖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "自从我被赎回。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "自从我被赎回，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "回，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 要"
+          "segments": [
+            {
+              "chord": "",
+              "text": "自从我被赎回，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "靠 主"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我要靠主名夸耀；"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "名 誇"
+          "segments": [
+            {
+              "chord": "",
+              "text": "自从我被赎回，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "耀；"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我要靠救主的名夸耀。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "自 從 我 被 贖"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我有一喜乐说不出，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "回，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我 要"
+          "segments": [
+            {
+              "chord": "",
+              "text": "自从我被赎回，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "靠 救"
+          "segments": [
+            {
+              "chord": "",
+              "text": "都因我的义─我的主，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "主 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "自从我被赎回。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "自从我被赎回，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "名 誇"
+          "segments": [
+            {
+              "chord": "",
+              "text": "自从我被赎回，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "耀。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我要靠主名夸耀；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "自从我被赎回，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我要靠救主的名夸耀。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我有一基督能满足，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我有一位神我所属，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "自从我被赎回，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "与祂我要永远同住，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "自从我被赎回。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "自从我被赎回；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "自从我被赎回，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "行祂旨意是我所慕，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "自从我被赎回，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "自从我被赎回。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我要靠主名夸耀；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "自从我被赎回，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "自从我被赎回，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "自从我被赎回，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我要靠主名夸耀；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自从我被赎回，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我要靠救主的名夸耀。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我有一中保神前立，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自从我被赎回，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "消除一切忧惧、怀疑，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自从我被赎回。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自从我被赎回，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自从我被赎回，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我要靠主名夸耀；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自从我被赎回，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我要靠救主的名夸耀。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我有一喜乐说不出，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自从我被赎回，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "都因我的义─我的主，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自从我被赎回。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自从我被赎回，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自从我被赎回，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我要靠主名夸耀；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自从我被赎回，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我要靠救主的名夸耀。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我有一位神我所属，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自从我被赎回，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "与祂我要永远同住，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自从我被赎回。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自从我被赎回，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自从我被赎回，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我要靠主名夸耀；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自从我被赎回，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我要靠救主的名夸耀。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我要靠救主的名夸耀。"
+            }
+          ]
         }
       ]
     }
@@ -470,7 +510,16 @@
   "metadata": {
     "category": "赞美的话",
     "time": "4/4",
-    "hymn_code": "5123456543133215"
+    "hymn_code": "5123456543133215",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/302",
+        "language": "cn",
+        "category": "h",
+        "number": "302",
+        "title": "E302"
+      }
+    ]
   },
   "raw_sections": [
     "我有 一詩 歌我 愛唱，",

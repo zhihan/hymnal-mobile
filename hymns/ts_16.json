@@ -1,488 +1,504 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/16",
   "title": "召会的赞美",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "Dm",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "同 聲 讚 美"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "同 聲 讚 美"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Gm",
-          "text": "來 將"
+          "segments": [
+            {
+              "chord": "Gm",
+              "text": "來 將"
+            },
+            {
+              "chord": "",
+              "text": "祂 頌"
+            },
+            {
+              "chord": "Dm",
+              "text": "揚，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "祂 頌"
+          "segments": [
+            {
+              "chord": "Gm",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "蒙"
+            },
+            {
+              "chord": "Dm",
+              "text": "神 恩"
+            },
+            {
+              "chord": "A",
+              "text": "同 住"
+            },
+            {
+              "chord": "",
+              "text": "聖 山"
+            },
+            {
+              "chord": "Dm",
+              "text": "上；"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "揚，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Gm",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "見 證 祂 的 作 為"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "蒙"
+          "segments": [
+            {
+              "chord": "Gm",
+              "text": "無 論"
+            },
+            {
+              "chord": "",
+              "text": "大 或"
+            },
+            {
+              "chord": "Dm",
+              "text": "小，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "神 恩"
+          "segments": [
+            {
+              "chord": "Gm",
+              "text": "掌 權"
+            },
+            {
+              "chord": "",
+              "text": "的"
+            },
+            {
+              "chord": "Dm",
+              "text": "基 督"
+            },
+            {
+              "chord": "A",
+              "text": "是 我"
+            },
+            {
+              "chord": "",
+              "text": "們 君"
+            },
+            {
+              "chord": "Dm",
+              "text": "王。"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "同 住"
+          "segments": [
+            {
+              "chord": "",
+              "text": "召 會 的"
+            },
+            {
+              "chord": "A♯",
+              "text": "生 活"
+            },
+            {
+              "chord": "C",
+              "text": "實 際"
+            },
+            {
+              "chord": "",
+              "text": "又 豐"
+            },
+            {
+              "chord": "Dm",
+              "text": "富，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "聖 山"
+          "segments": [
+            {
+              "chord": "",
+              "text": "罪 與 世"
+            },
+            {
+              "chord": "Gm",
+              "text": "界 都"
+            },
+            {
+              "chord": "C",
+              "text": "日 漸"
+            },
+            {
+              "chord": "",
+              "text": "的 消"
+            },
+            {
+              "chord": "F",
+              "text": "逝；"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "上；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "見 證 祂 的 作 為"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Gm",
-          "text": "無 論"
+          "segments": [
+            {
+              "chord": "Gm",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "今"
+            },
+            {
+              "chord": "Dm",
+              "text": "跳 躍"
+            },
+            {
+              "chord": "Gm",
+              "text": "盡 情"
+            },
+            {
+              "chord": "",
+              "text": "的 歡"
+            },
+            {
+              "chord": "Dm",
+              "text": "唱，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "大 或"
+          "segments": [
+            {
+              "chord": "Gm",
+              "text": "我 們"
+            },
+            {
+              "chord": "",
+              "text": "今"
+            },
+            {
+              "chord": "Dm",
+              "text": "跳 躍"
+            },
+            {
+              "chord": "A",
+              "text": "盡 情"
+            },
+            {
+              "chord": "",
+              "text": "的 歡"
+            },
+            {
+              "chord": "Dm",
+              "text": "唱。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞祂与神同等"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "小，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Gm",
-          "text": "掌 權"
+          "segments": [
+            {
+              "chord": "",
+              "text": "原坐在天上，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "竟成为人子为我们受创；"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "基 督"
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞祂从死复活"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "是 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "宝座上为王，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "們 君"
+          "segments": [
+            {
+              "chord": "",
+              "text": "复活的丰富我们能尽尝。"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "王。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "召 會 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞祂何丰富充满了一切，"
+            }
+          ]
         },
         {
-          "chord": "A♯",
-          "text": "生 活"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们竟成祂丰富的显彰；"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "實 際"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，阿利路亚！"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "又 豐"
+          "segments": [
+            {
+              "chord": "",
+              "text": "丰富的显彰，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "富，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "罪 與 世"
+          "segments": [
+            {
+              "chord": "",
+              "text": "哦，阿利路亚！"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "界 都"
+          "segments": [
+            {
+              "chord": "",
+              "text": "丰富的显彰。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "赞祂今是那灵"
+            }
+          ]
         },
         {
-          "chord": "C",
-          "text": "日 漸"
+          "segments": [
+            {
+              "chord": "",
+              "text": "活在我灵里，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 消"
+          "segments": [
+            {
+              "chord": "",
+              "text": "宗教的仪文我不再凭依；"
+            }
+          ]
         },
         {
-          "chord": "F",
-          "text": "逝；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Gm",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我可时刻享受，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "今"
+          "segments": [
+            {
+              "chord": "",
+              "text": "享受祂自己，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "跳 躍"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂一切丰盛都成我经历。"
+            }
+          ]
         },
         {
-          "chord": "Gm",
-          "text": "盡 情"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在地方召会我们齐欢畅，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 歡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "刚强的灵中将祂来颂扬；"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "唱，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "Gm",
-          "text": "我 們"
+          "segments": [
+            {
+              "chord": "",
+              "text": "颂扬祂是灵，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "今"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在召会作王，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "跳 躍"
+          "segments": [
+            {
+              "chord": "",
+              "text": "颂扬祂是灵，"
+            }
+          ]
         },
         {
-          "chord": "A",
-          "text": "盡 情"
+          "segments": [
+            {
+              "chord": "",
+              "text": "在召会作王。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "当祂荣耀自己"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "的 歡"
+          "segments": [
+            {
+              "chord": "",
+              "text": "充满在召会，"
+            }
+          ]
         },
         {
-          "chord": "Dm",
-          "text": "唱。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "召会的见证得胜又明亮；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "赞祂与神同等"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "满得灵中丰富"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "原坐在天上，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们同颂扬，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "竟成为人子为我们受创；"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "让世人都知这万王之王。"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "赞祂从死复活"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "丢弃自己那窄小的天地，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "宝座上为王，"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "自由的灵引我们到地极；"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "复活的丰富我们能尽尝。"
-        }
-      ]
-    },
-    {
-      "segments": [
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀欢乐的流出祂自己，"
+            }
+          ]
+        },
         {
-          "chord": "",
-          "text": "赞祂何丰富充满了一切，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们竟成祂丰富的显彰；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "丰富的显彰，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "哦，阿利路亚！"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "丰富的显彰。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "赞祂今是那灵"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "活在我灵里，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "宗教的仪文我不再凭依；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我可时刻享受，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "享受祂自己，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂一切丰盛都成我经历。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在地方召会我们齐欢畅，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "刚强的灵中将祂来颂扬；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "颂扬祂是灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在召会作王，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "颂扬祂是灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "在召会作王。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "当祂荣耀自己"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "充满在召会，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "召会的见证得胜又明亮；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "满得灵中丰富"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们同颂扬，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "让世人都知这万王之王。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "丢弃自己那窄小的天地，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "自由的灵引我们到地极；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀欢乐的流出祂自己，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "荣耀欢乐的流出祂自己。"
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀欢乐的流出祂自己。"
+            }
+          ]
         }
       ]
     }

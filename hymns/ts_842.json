@@ -1,204 +1,212 @@
 {
   "url": "https://www.hymnal.net/cn/hymn/ts/842",
   "title": "耶稣─爱的名字",
-  "lines": [
+  "verses": [
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "D",
-          "text": "在 那"
+          "segments": [
+            {
+              "chord": "D",
+              "text": "在 那"
+            },
+            {
+              "chord": "",
+              "text": "迷 失 年 代，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "迷 失 年 代，"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 曾 尋 訪"
+            },
+            {
+              "chord": "Em",
+              "text": "愛 的"
+            },
+            {
+              "chord": "",
+              "text": "天 地，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "明 知 多"
+            },
+            {
+              "chord": "A7",
+              "text": "人 愛"
+            },
+            {
+              "chord": "",
+              "text": "我，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "但 我 仍 是"
+            },
+            {
+              "chord": "D",
+              "text": "寂 寞"
+            },
+            {
+              "chord": "",
+              "text": "不 樂；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "直 到 我"
+            },
+            {
+              "chord": "Bm",
+              "text": "有 耶"
+            },
+            {
+              "chord": "E7",
+              "text": "穌─ 神"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "賜 給 人"
+            },
+            {
+              "chord": "A",
+              "text": "愛 的"
+            },
+            {
+              "chord": "",
+              "text": "名"
+            },
+            {
+              "chord": "D",
+              "text": "字， 響"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "亮 在"
+            },
+            {
+              "chord": "Em",
+              "text": "我 心"
+            },
+            {
+              "chord": "A7",
+              "text": "靈， 我"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "的 年 代"
+            },
+            {
+              "chord": "D",
+              "text": "因 祂"
+            },
+            {
+              "chord": "",
+              "text": "常 青。"
+            }
+          ]
         }
       ]
     },
     {
-      "segments": [
+      "lines": [
         {
-          "chord": "",
-          "text": "我 曾 尋 訪"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是爱又是灵，"
+            }
+          ]
         },
         {
-          "chord": "Em",
-          "text": "愛 的"
+          "segments": [
+            {
+              "chord": "",
+              "text": "进入我灵，与我结盟，"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "天 地，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "明 知 多"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我享受祂生命，"
+            }
+          ]
         },
         {
-          "chord": "A7",
-          "text": "人 愛"
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂享受我爱的顺从；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "我，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "但 我 仍 是"
+          "segments": [
+            {
+              "chord": "",
+              "text": "我们融在一起，"
+            }
+          ]
         },
         {
-          "chord": "D",
-          "text": "寂 寞"
+          "segments": [
+            {
+              "chord": "",
+              "text": "日夜作伴，苦乐不离；"
+            }
+          ]
         },
         {
-          "chord": "",
-          "text": "不 樂；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "直 到 我"
+          "segments": [
+            {
+              "chord": "",
+              "text": "爱是最大财富，"
+            }
+          ]
         },
         {
-          "chord": "Bm",
-          "text": "有 耶"
+          "segments": [
+            {
+              "chord": "",
+              "text": "世间最爱我的是主。"
+            }
+          ]
         },
         {
-          "chord": "E7",
-          "text": "穌─ 神"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "賜 給 人"
-        },
-        {
-          "chord": "A",
-          "text": "愛 的"
-        },
-        {
-          "chord": "",
-          "text": "名"
-        },
-        {
-          "chord": "D",
-          "text": "字， 響"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "亮 在"
-        },
-        {
-          "chord": "Em",
-          "text": "我 心"
-        },
-        {
-          "chord": "A7",
-          "text": "靈， 我"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "的 年 代"
-        },
-        {
-          "chord": "D",
-          "text": "因 祂"
-        },
-        {
-          "chord": "",
-          "text": "常 青。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂是爱又是灵，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "进入我灵，与我结盟，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我享受祂生命，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "祂享受我爱的顺从；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "我们融在一起，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "日夜作伴，苦乐不离；"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "爱是最大财富，"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "世间最爱我的是主。"
-        }
-      ]
-    },
-    {
-      "segments": [
-        {
-          "chord": "",
-          "text": "（重复第四行）"
+          "segments": [
+            {
+              "chord": "",
+              "text": "（重复第四行）"
+            }
+          ]
         }
       ]
     }
