@@ -1,0 +1,186 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/855",
+  "title": "Behold, how good, how pleasant ’tis",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "Behold,"
+            },
+            {
+              "chord": "",
+              "text": "how"
+            },
+            {
+              "chord": "E",
+              "text": "good, how"
+            },
+            {
+              "chord": "A",
+              "text": "pleasant"
+            },
+            {
+              "chord": "",
+              "text": "'tis"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When brethren dwell in"
+            },
+            {
+              "chord": "E",
+              "text": "one!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "'Tis"
+            },
+            {
+              "chord": "A",
+              "text": "like the"
+            },
+            {
+              "chord": "E",
+              "text": "oil on"
+            },
+            {
+              "chord": "A",
+              "text": "Aaron's"
+            },
+            {
+              "chord": "",
+              "text": "head,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Which to his"
+            },
+            {
+              "chord": "E7",
+              "text": "skirts did"
+            },
+            {
+              "chord": "A",
+              "text": "run;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "As"
+            },
+            {
+              "chord": "E",
+              "text": "dew of"
+            },
+            {
+              "chord": "",
+              "text": "Hermon"
+            },
+            {
+              "chord": "A",
+              "text": "that descends"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "On"
+            },
+            {
+              "chord": "E",
+              "text": "Zion's"
+            },
+            {
+              "chord": "B7",
+              "text": "mountains"
+            },
+            {
+              "chord": "E7",
+              "text": "o'er;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The"
+            },
+            {
+              "chord": "A",
+              "text": "Lord His"
+            },
+            {
+              "chord": "E",
+              "text": "blessing"
+            },
+            {
+              "chord": "A",
+              "text": "there commands,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "E'en life for"
+            },
+            {
+              "chord": "E7",
+              "text": "ever"
+            },
+            {
+              "chord": "A",
+              "text": "more."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "The Church",
+    "time": "3/4",
+    "hymn_code": "55655655153335432",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/622",
+        "language": "en",
+        "category": "ch",
+        "number": "622",
+        "title": "C622*"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Behold,howgood, howpleasant'tis",
+    "When brethren dwell inone!",
+    "'Tislike theoil onAaron'shead,",
+    "Which to hisskirts didrun;",
+    "Asdew ofHermonthat descends",
+    "OnZion'smountainso'er;",
+    "TheLord Hisblessingthere commands,",
+    "E'en life forevermore."
+  ]
+}

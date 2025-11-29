@@ -1,0 +1,282 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/1355",
+  "title": "God has forgiven all my sins",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "God has"
+            },
+            {
+              "chord": "",
+              "text": "forgiven all my"
+            },
+            {
+              "chord": "Am",
+              "text": "sins;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Be"
+            },
+            {
+              "chord": "D",
+              "text": "hind His"
+            },
+            {
+              "chord": "D7",
+              "text": "back they"
+            },
+            {
+              "chord": "",
+              "text": "all are"
+            },
+            {
+              "chord": "G",
+              "text": "cast."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He'll never"
+            },
+            {
+              "chord": "G7",
+              "text": "call to"
+            },
+            {
+              "chord": "",
+              "text": "mind a"
+            },
+            {
+              "chord": "C",
+              "text": "gain"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The"
+            },
+            {
+              "chord": "Am",
+              "text": "sins He"
+            },
+            {
+              "chord": "D7",
+              "text": "vanquished"
+            },
+            {
+              "chord": "",
+              "text": "in the"
+            },
+            {
+              "chord": "G",
+              "text": "past."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "God has for"
+            },
+            {
+              "chord": "D",
+              "text": "given"
+            },
+            {
+              "chord": "A7",
+              "text": "all my"
+            },
+            {
+              "chord": "D",
+              "text": "sins,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And as a"
+            },
+            {
+              "chord": "A",
+              "text": "gloomy"
+            },
+            {
+              "chord": "A7",
+              "text": "cloud is"
+            },
+            {
+              "chord": "D7",
+              "text": "blown,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My"
+            },
+            {
+              "chord": "G",
+              "text": "sins are"
+            },
+            {
+              "chord": "",
+              "text": "vanished all away!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "No"
+            },
+            {
+              "chord": "C",
+              "text": "more will"
+            },
+            {
+              "chord": "Am",
+              "text": "they be"
+            },
+            {
+              "chord": "D7",
+              "text": "seen or"
+            },
+            {
+              "chord": "G",
+              "text": "known."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My sins were like a heavy stone"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "God cast and buried in the sea."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "As east so far from west is thrown,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My sins have been removed from me!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "God has forgiven all my sins,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And as a gloomy cloud is blown,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My sins are vanished all away!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "No more will they be seen or known."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Assurance and Joy of Salvation",
+    "time": "4/4",
+    "hymn_code": "53213517",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/233",
+        "language": "en",
+        "category": "ch",
+        "number": "233",
+        "title": "C233"
+      }
+    ]
+  },
+  "raw_sections": [
+    "God hasforgiven all mysins;",
+    "Behind Hisback theyall arecast.",
+    "He'll nevercall tomind again",
+    "Thesins Hevanquishedin thepast.",
+    "God has forgivenall mysins,",
+    "And as agloomycloud isblown,",
+    "Mysins arevanished all away!",
+    "Nomore willthey beseen orknown.",
+    "My sins were like a heavy stone",
+    "God cast and buried in the sea.",
+    "As east so far from west is thrown,",
+    "My sins have been removed from me!",
+    "God has forgiven all my sins,",
+    "And as a gloomy cloud is blown,",
+    "My sins are vanished all away!",
+    "No more will they be seen or known."
+  ]
+}

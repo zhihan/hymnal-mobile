@@ -1,0 +1,178 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/1073",
+  "title": "Hark, here is a hidden myst’ry",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Hark, here"
+            },
+            {
+              "chord": "",
+              "text": "is a hidden myst'ry,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "Hidden"
+            },
+            {
+              "chord": "",
+              "text": "from the"
+            },
+            {
+              "chord": "D",
+              "text": "human"
+            },
+            {
+              "chord": "",
+              "text": "hist'ry!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Hark and"
+            },
+            {
+              "chord": "",
+              "text": "take this"
+            },
+            {
+              "chord": "D",
+              "text": "glorious"
+            },
+            {
+              "chord": "",
+              "text": "myst'ry,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Christ"
+            },
+            {
+              "chord": "D",
+              "text": "will be"
+            },
+            {
+              "chord": "A",
+              "text": "one"
+            },
+            {
+              "chord": "A7",
+              "text": "with"
+            },
+            {
+              "chord": "D",
+              "text": "you!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Glory, glory, hallelujah!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "Glory,"
+            },
+            {
+              "chord": "",
+              "text": "glory,"
+            },
+            {
+              "chord": "D",
+              "text": "hallelujah!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Hark and"
+            },
+            {
+              "chord": "",
+              "text": "take this"
+            },
+            {
+              "chord": "D",
+              "text": "glorious"
+            },
+            {
+              "chord": "",
+              "text": "myst'ry,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Christ will"
+            },
+            {
+              "chord": "",
+              "text": "be"
+            },
+            {
+              "chord": "A",
+              "text": "one"
+            },
+            {
+              "chord": "A7",
+              "text": "with"
+            },
+            {
+              "chord": "D",
+              "text": "you!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Gospel",
+    "time": "2/4",
+    "hymn_code": "333135553222123335",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/696",
+        "language": "en",
+        "category": "ch",
+        "number": "696",
+        "title": "C696"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Hark, hereis a hidden myst'ry,",
+    "Hiddenfrom thehumanhist'ry!",
+    "Hark andtake thisgloriousmyst'ry,",
+    "Christwill beonewithyou!",
+    "Glory, glory, hallelujah!",
+    "Glory,glory,hallelujah!",
+    "Hark andtake thisgloriousmyst'ry,",
+    "Christ willbeonewithyou!"
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/127",
+  "title": "Hark! ten thousand voices crying",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Hark! ten"
+            },
+            {
+              "chord": "",
+              "text": "thousand voices"
+            },
+            {
+              "chord": "D",
+              "text": "crying,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"Lamb of"
+            },
+            {
+              "chord": "D7",
+              "text": "God!\" with"
+            },
+            {
+              "chord": "",
+              "text": "one ac"
+            },
+            {
+              "chord": "G",
+              "text": "cord;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thousand thousand"
+            },
+            {
+              "chord": "G7",
+              "text": "saints re"
+            },
+            {
+              "chord": "C",
+              "text": "plying,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Wake at"
+            },
+            {
+              "chord": "G",
+              "text": "once the"
+            },
+            {
+              "chord": "D7",
+              "text": "echo'ng"
+            },
+            {
+              "chord": "G",
+              "text": "chord."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "“Praise the Lamb!” the chorus waking,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "All in heav’n together throng;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Loud and far each tongue partaking"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Rolls around the endless song."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Grateful incense this, ascending"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Ever to the Father’s throne;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Every knee to Jesus bending,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "All the mind in heav’n is one."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "All the Father’s counsels claiming"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Equal honors to the Son,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "All the Son’s effulgence beaming,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Makes the Father’s glory known."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "By the Spirit all pervading,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Hosts unnumbered round the Lamb,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Crowned with light and joy unfading,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Hail Him as the great “I AM.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Joyful now the new creation"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Rests in undisturbed repose,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Blest in Jesus’ full salvation,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Sorrow now nor thraldom knows."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Hark! the heavenly notes again!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Loudly swells the song of praise;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Through creation’s vault, Amen!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Amen! responsive joy doth raise."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Praise of the Lord",
+    "time": "9/8",
+    "hymn_code": "5651332125",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/110",
+        "language": "en",
+        "category": "ch",
+        "number": "110",
+        "title": "C110"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Hark! tenthousand voicescrying,",
+    "\"Lamb ofGod!\" withone accord;",
+    "Thousand thousandsaints replying,",
+    "Wake atonce theecho'ngchord.",
+    "“Praise the Lamb!” the chorus waking,",
+    "All in heav’n together throng;",
+    "Loud and far each tongue partaking",
+    "Rolls around the endless song.",
+    "Grateful incense this, ascending",
+    "Ever to the Father’s throne;",
+    "Every knee to Jesus bending,",
+    "All the mind in heav’n is one.",
+    "All the Father’s counsels claiming",
+    "Equal honors to the Son,",
+    "All the Son’s effulgence beaming,",
+    "Makes the Father’s glory known.",
+    "By the Spirit all pervading,",
+    "Hosts unnumbered round the Lamb,",
+    "Crowned with light and joy unfading,",
+    "Hail Him as the great “I AM.”",
+    "Joyful now the new creation",
+    "Rests in undisturbed repose,",
+    "Blest in Jesus’ full salvation,",
+    "Sorrow now nor thraldom knows.",
+    "Hark! the heavenly notes again!",
+    "Loudly swells the song of praise;",
+    "Through creation’s vault, Amen!",
+    "Amen! responsive joy doth raise."
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/167",
+  "title": "How good is the Lord we adore",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "How"
+            },
+            {
+              "chord": "G",
+              "text": "good is"
+            },
+            {
+              "chord": "",
+              "text": "the Lord"
+            },
+            {
+              "chord": "D",
+              "text": "we a"
+            },
+            {
+              "chord": "G",
+              "text": "dore,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Our"
+            },
+            {
+              "chord": "D",
+              "text": "faithful,"
+            },
+            {
+              "chord": "",
+              "text": "un"
+            },
+            {
+              "chord": "D7",
+              "text": "changeable"
+            },
+            {
+              "chord": "G",
+              "text": "Friend;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "His"
+            },
+            {
+              "chord": "G",
+              "text": "love is"
+            },
+            {
+              "chord": "",
+              "text": "as great as His"
+            },
+            {
+              "chord": "D",
+              "text": "pow'r"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "And"
+            },
+            {
+              "chord": "C",
+              "text": "knows neither"
+            },
+            {
+              "chord": "D7",
+              "text": "measure"
+            },
+            {
+              "chord": "",
+              "text": "nor"
+            },
+            {
+              "chord": "G",
+              "text": "end."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "’Tis Jesus the first and the last,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Who shall guide us through all to the throne;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "We’ll praise Him for all that is past,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "We’ll trust Him for all that’s to come."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Praise of the Lord",
+    "time": "4/4",
+    "hymn_code": "511112321"
+  },
+  "raw_sections": [
+    "Howgood isthe Lordwe adore,",
+    "Ourfaithful,unchangeableFriend;",
+    "Hislove isas great as Hispow'r",
+    "Andknows neithermeasurenorend.",
+    "’Tis Jesus the first and the last,",
+    "Who shall guide us through all to the throne;",
+    "We’ll praise Him for all that is past,",
+    "We’ll trust Him for all that’s to come."
+  ]
+}

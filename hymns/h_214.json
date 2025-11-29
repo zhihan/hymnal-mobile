@@ -1,0 +1,310 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/214",
+  "title": "According to Thy gracious word",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "According"
+            },
+            {
+              "chord": "",
+              "text": "to Thy"
+            },
+            {
+              "chord": "G",
+              "text": "gracious"
+            },
+            {
+              "chord": "",
+              "text": "word,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "B",
+              "text": "In"
+            },
+            {
+              "chord": "Em",
+              "text": "meek humili"
+            },
+            {
+              "chord": "A",
+              "text": "ty,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "This"
+            },
+            {
+              "chord": "D",
+              "text": "will I"
+            },
+            {
+              "chord": "",
+              "text": "do, my"
+            },
+            {
+              "chord": "B7",
+              "text": "dying"
+            },
+            {
+              "chord": "Em",
+              "text": "Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I"
+            },
+            {
+              "chord": "D",
+              "text": "will re"
+            },
+            {
+              "chord": "A7",
+              "text": "member"
+            },
+            {
+              "chord": "D",
+              "text": "Thee."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thy body, broken for my sake,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My bread from heaven shall be;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thy testamental cup I take,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And thus remember Thee."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Gethsemane can I forget?"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Or there Thy conflict see,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thine agony and bloody sweat,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And not remember Thee?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When to the cross I turn mine eyes"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And rest on Calvary,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "O Lamb of God, my sacrifice,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I must remember Thee-"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Remember Thee and all Thy pains"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And all Thy love to me;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Yea, while a breath, a pulse remains,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I will remember Thee."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And when these failing lips grow dumb"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And mind and memory flee,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When Thou shalt in Thy kingdom come,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Jesus, remember me."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Praise of the Lord",
+    "time": "3/4",
+    "hymn_code": "12321776623432117",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/173",
+        "language": "en",
+        "category": "ch",
+        "number": "173",
+        "title": "C173*"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Accordingto Thygraciousword,",
+    "Inmeek humility,",
+    "Thiswill Ido, mydyingLord,",
+    "Iwill rememberThee.",
+    "Thy body, broken for my sake,",
+    "My bread from heaven shall be;",
+    "Thy testamental cup I take,",
+    "And thus remember Thee.",
+    "Gethsemane can I forget?",
+    "Or there Thy conflict see,",
+    "Thine agony and bloody sweat,",
+    "And not remember Thee?",
+    "When to the cross I turn mine eyes",
+    "And rest on Calvary,",
+    "O Lamb of God, my sacrifice,",
+    "I must remember Thee-",
+    "Remember Thee and all Thy pains",
+    "And all Thy love to me;",
+    "Yea, while a breath, a pulse remains,",
+    "I will remember Thee.",
+    "And when these failing lips grow dumb",
+    "And mind and memory flee,",
+    "When Thou shalt in Thy kingdom come,",
+    "Jesus, remember me."
+  ]
+}

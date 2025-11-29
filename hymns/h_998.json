@@ -1,0 +1,178 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/998",
+  "title": "Christ has become one with sinners",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "Christ has"
+            },
+            {
+              "chord": "",
+              "text": "become one with sinners,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "E",
+              "text": "Sharing"
+            },
+            {
+              "chord": "",
+              "text": "in"
+            },
+            {
+              "chord": "E7",
+              "text": "all of"
+            },
+            {
+              "chord": "",
+              "text": "our"
+            },
+            {
+              "chord": "A",
+              "text": "living;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Crucified even for sinners,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "E",
+              "text": "Glorious"
+            },
+            {
+              "chord": "E7",
+              "text": "life to"
+            },
+            {
+              "chord": "",
+              "text": "us"
+            },
+            {
+              "chord": "A",
+              "text": "giving."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Christ Jesus came for"
+            },
+            {
+              "chord": "D",
+              "text": "us,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Christ"
+            },
+            {
+              "chord": "A",
+              "text": "Jesus"
+            },
+            {
+              "chord": "",
+              "text": "died for"
+            },
+            {
+              "chord": "E7",
+              "text": "us;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "O"
+            },
+            {
+              "chord": "A",
+              "text": "yes, for"
+            },
+            {
+              "chord": "",
+              "text": "us, for"
+            },
+            {
+              "chord": "D",
+              "text": "us, for"
+            },
+            {
+              "chord": "B7",
+              "text": "us."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Christ"
+            },
+            {
+              "chord": "E",
+              "text": "came and"
+            },
+            {
+              "chord": "E7",
+              "text": "died for"
+            },
+            {
+              "chord": "A",
+              "text": "us."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Gospel",
+    "time": "6/8",
+    "hymn_code": "5653513132267651",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/683",
+        "language": "en",
+        "category": "ch",
+        "number": "683",
+        "title": "C683"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Christ hasbecome one with sinners,",
+    "Sharinginall ofourliving;",
+    "Crucified even for sinners,",
+    "Gloriouslife tousgiving.",
+    "Christ Jesus came forus,",
+    "ChristJesusdied forus;",
+    "Oyes, forus, forus, forus.",
+    "Christcame anddied forus."
+  ]
+}

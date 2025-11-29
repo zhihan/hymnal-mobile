@@ -1,0 +1,270 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/432",
+  "title": "O Love, that wilt not let me go",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "O Love,"
+            },
+            {
+              "chord": "",
+              "text": "that wilt not"
+            },
+            {
+              "chord": "Em",
+              "text": "let me"
+            },
+            {
+              "chord": "D",
+              "text": "go,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I rest my weary soul in"
+            },
+            {
+              "chord": "D7",
+              "text": "Thee;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I"
+            },
+            {
+              "chord": "B",
+              "text": "give Thee"
+            },
+            {
+              "chord": "B7",
+              "text": "back the"
+            },
+            {
+              "chord": "",
+              "text": "life I"
+            },
+            {
+              "chord": "G",
+              "text": "owe,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "That"
+            },
+            {
+              "chord": "A7",
+              "text": "in Thine"
+            },
+            {
+              "chord": "",
+              "text": "ocean depths its"
+            },
+            {
+              "chord": "G",
+              "text": "flow"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "May richer,"
+            },
+            {
+              "chord": "D7",
+              "text": "fuller"
+            },
+            {
+              "chord": "G",
+              "text": "be."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "O Light, that followest all my way,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I yield my flickering torch to Thee;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My heart restores its borrowed ray,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "That in Thy sunshine’s blaze its day"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "May brighter, fairer be."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "O Joy, that seekest me through pain,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I cannot close my heart to Thee;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I trace the rainbow through the rain,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And feel the promise is not vain"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "That morn shall tearless be."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "O Cross, that liftest up my head,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I dare not ask to fly from Thee;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I lay in dust life’s glory dead,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And from the ground there blossoms red"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Life that shall endless be."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Consecration",
+    "time": "4/4",
+    "hymn_code": "555567117777712354",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/332",
+        "language": "en",
+        "category": "ch",
+        "number": "332",
+        "title": "C332"
+      }
+    ]
+  },
+  "raw_sections": [
+    "O Love,that wilt notlet mego,",
+    "I rest my weary soul inThee;",
+    "Igive Theeback thelife Iowe,",
+    "Thatin Thineocean depths itsflow",
+    "May richer,fullerbe.",
+    "O Light, that followest all my way,",
+    "I yield my flickering torch to Thee;",
+    "My heart restores its borrowed ray,",
+    "That in Thy sunshine’s blaze its day",
+    "May brighter, fairer be.",
+    "O Joy, that seekest me through pain,",
+    "I cannot close my heart to Thee;",
+    "I trace the rainbow through the rain,",
+    "And feel the promise is not vain",
+    "That morn shall tearless be.",
+    "O Cross, that liftest up my head,",
+    "I dare not ask to fly from Thee;",
+    "I lay in dust life’s glory dead,",
+    "And from the ground there blossoms red",
+    "Life that shall endless be."
+  ]
+}

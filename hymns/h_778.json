@@ -1,0 +1,231 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/778",
+  "title": "Keep up the song of faith",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Keep up"
+            },
+            {
+              "chord": "",
+              "text": "the"
+            },
+            {
+              "chord": "A7",
+              "text": "song of"
+            },
+            {
+              "chord": "Bm",
+              "text": "faith,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "How"
+            },
+            {
+              "chord": "A7",
+              "text": "ever"
+            },
+            {
+              "chord": "D",
+              "text": "dark the"
+            },
+            {
+              "chord": "A",
+              "text": "night;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "And"
+            },
+            {
+              "chord": "D",
+              "text": "as"
+            },
+            {
+              "chord": "G",
+              "text": "you"
+            },
+            {
+              "chord": "D",
+              "text": "praise, the"
+            },
+            {
+              "chord": "A7",
+              "text": "Lord will"
+            },
+            {
+              "chord": "D",
+              "text": "work"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "To"
+            },
+            {
+              "chord": "D",
+              "text": "change your"
+            },
+            {
+              "chord": "",
+              "text": "faith to"
+            },
+            {
+              "chord": "A7",
+              "text": "sight."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "To"
+            },
+            {
+              "chord": "D",
+              "text": "change"
+            },
+            {
+              "chord": "G",
+              "text": "your"
+            },
+            {
+              "chord": "D",
+              "text": "faith"
+            },
+            {
+              "chord": "A7",
+              "text": "to"
+            },
+            {
+              "chord": "D",
+              "text": "sight."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Keep up the song of faith,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The foe will hear and flee;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Oh, let not Satan hush your song,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For praise is victory."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Keep up the song of faith,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The dawn will break ere long,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And we shall go to meet the Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And join the endless song."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Prayer",
+    "time": "4/4",
+    "hymn_code": "55654321321432",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/562",
+        "language": "en",
+        "category": "ch",
+        "number": "562",
+        "title": "C562"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Keep upthesong offaith,",
+    "Howeverdark thenight;",
+    "Andasyoupraise, theLord willwork",
+    "Tochange yourfaith tosight.",
+    "Tochangeyourfaithtosight.",
+    "Keep up the song of faith,",
+    "The foe will hear and flee;",
+    "Oh, let not Satan hush your song,",
+    "For praise is victory.",
+    "Keep up the song of faith,",
+    "The dawn will break ere long,",
+    "And we shall go to meet the Lord,",
+    "And join the endless song."
+  ]
+}

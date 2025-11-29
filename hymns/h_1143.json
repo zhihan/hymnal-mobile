@@ -1,0 +1,230 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/1143",
+  "title": "The tree of life, how sweet the fruit",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "The tree"
+            },
+            {
+              "chord": "",
+              "text": "of life, how"
+            },
+            {
+              "chord": "C",
+              "text": "sweet the"
+            },
+            {
+              "chord": "G",
+              "text": "fruit,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "With God as"
+            },
+            {
+              "chord": "A7",
+              "text": "life com"
+            },
+            {
+              "chord": "D",
+              "text": "plete."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "I"
+            },
+            {
+              "chord": "G",
+              "text": "once was"
+            },
+            {
+              "chord": "G7",
+              "text": "dead, but"
+            },
+            {
+              "chord": "C",
+              "text": "now I"
+            },
+            {
+              "chord": "G",
+              "text": "live,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Was starved, but"
+            },
+            {
+              "chord": "D",
+              "text": "now"
+            },
+            {
+              "chord": "D7",
+              "text": "I"
+            },
+            {
+              "chord": "G",
+              "text": "eat."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "’Twas God that brought me to the tree,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "With Christ Himself as meat;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "How precious did that tree become"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When I began to eat."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The Lord Himself is food to me,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He is my life supply;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He will my pure enjoyment be,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "None else can satisfy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I freely eat this living tree,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For eating is the way"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "To put God’s life inside of me,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "To live by Him today."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Experience of Christ",
+    "time": "3/4",
+    "hymn_code": "513132165",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ts/209",
+        "language": "en",
+        "category": "ts",
+        "number": "209",
+        "title": "Cs209"
+      }
+    ]
+  },
+  "raw_sections": [
+    "The treeof life, howsweet thefruit,",
+    "With God aslife complete.",
+    "Ionce wasdead, butnow Ilive,",
+    "Was starved, butnowIeat.",
+    "’Twas God that brought me to the tree,",
+    "With Christ Himself as meat;",
+    "How precious did that tree become",
+    "When I began to eat.",
+    "The Lord Himself is food to me,",
+    "He is my life supply;",
+    "He will my pure enjoyment be,",
+    "None else can satisfy.",
+    "I freely eat this living tree,",
+    "For eating is the way",
+    "To put God’s life inside of me,",
+    "To live by Him today."
+  ]
+}

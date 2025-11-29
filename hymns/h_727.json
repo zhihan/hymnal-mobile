@@ -1,0 +1,286 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/727",
+  "title": "Light after darkness",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Light after"
+            },
+            {
+              "chord": "",
+              "text": "darkness,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Gain af"
+            },
+            {
+              "chord": "B",
+              "text": "ter"
+            },
+            {
+              "chord": "Em",
+              "text": "loss,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Strength after"
+            },
+            {
+              "chord": "A7",
+              "text": "weakness"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Crown after"
+            },
+            {
+              "chord": "D",
+              "text": "cross;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Sweet after bitter,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Hope af"
+            },
+            {
+              "chord": "G",
+              "text": "ter"
+            },
+            {
+              "chord": "D",
+              "text": "fears,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Home after"
+            },
+            {
+              "chord": "D",
+              "text": "wand'ring,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "Praise after"
+            },
+            {
+              "chord": "D",
+              "text": "tears."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Sheaves after sowing,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Sun after rain,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Sight after mystery,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Peace after pain;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Joy after sorrow,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Calm after blast,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Rest after weariness,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Sweet rest at last."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Near after distant,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Gleam after gloom,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Love after loneliness,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Life after tomb;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "After long agony,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Rapture of bliss,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Right was the pathway,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Leading to this."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Comfort in Trials",
+    "time": "3/4",
+    "hymn_code": "5345456354",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/528",
+        "language": "en",
+        "category": "ch",
+        "number": "528",
+        "title": "C528"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Light afterdarkness,",
+    "Gain afterloss,",
+    "Strength afterweakness",
+    "Crown aftercross;",
+    "Sweet after bitter,",
+    "Hope afterfears,",
+    "Home afterwand'ring,",
+    "Praise aftertears.",
+    "Sheaves after sowing,",
+    "Sun after rain,",
+    "Sight after mystery,",
+    "Peace after pain;",
+    "Joy after sorrow,",
+    "Calm after blast,",
+    "Rest after weariness,",
+    "Sweet rest at last.",
+    "Near after distant,",
+    "Gleam after gloom,",
+    "Love after loneliness,",
+    "Life after tomb;",
+    "After long agony,",
+    "Rapture of bliss,",
+    "Right was the pathway,",
+    "Leading to this."
+  ]
+}

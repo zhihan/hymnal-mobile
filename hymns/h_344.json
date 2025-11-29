@@ -1,0 +1,101 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/344",
+  "title": "Grace there is my every debt to pay",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Grace there"
+            },
+            {
+              "chord": "",
+              "text": "is my every"
+            },
+            {
+              "chord": "A",
+              "text": "debt to"
+            },
+            {
+              "chord": "",
+              "text": "pay,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "Blood to"
+            },
+            {
+              "chord": "",
+              "text": "wash my every"
+            },
+            {
+              "chord": "D",
+              "text": "sin away,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Pow'r to"
+            },
+            {
+              "chord": "G",
+              "text": "keep me"
+            },
+            {
+              "chord": "",
+              "text": "spotless"
+            },
+            {
+              "chord": "D",
+              "text": "day by"
+            },
+            {
+              "chord": "",
+              "text": "day,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "In"
+            },
+            {
+              "chord": "D",
+              "text": "Christ"
+            },
+            {
+              "chord": "A7",
+              "text": "for"
+            },
+            {
+              "chord": "D",
+              "text": "me."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Assurance and Joy of Salvation",
+    "time": "4/4",
+    "hymn_code": "332343572443454513"
+  },
+  "raw_sections": [
+    "Grace thereis my everydebt topay,",
+    "Blood towash my everysin away,",
+    "Pow'r tokeep mespotlessday byday,",
+    "InChristforme."
+  ]
+}

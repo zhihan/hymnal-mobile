@@ -1,0 +1,226 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/212",
+  "title": "Lord Jesus, gladly do our lips express",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Lord Jesus,"
+            },
+            {
+              "chord": "G",
+              "text": "gladly"
+            },
+            {
+              "chord": "",
+              "text": "do our"
+            },
+            {
+              "chord": "D",
+              "text": "lips"
+            },
+            {
+              "chord": "A7",
+              "text": "ex"
+            },
+            {
+              "chord": "D",
+              "text": "press"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Our"
+            },
+            {
+              "chord": "G",
+              "text": "heart's deep"
+            },
+            {
+              "chord": "D",
+              "text": "sense of"
+            },
+            {
+              "chord": "A",
+              "text": "all Thy"
+            },
+            {
+              "chord": "E7",
+              "text": "worthi"
+            },
+            {
+              "chord": "A",
+              "text": "ness;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Thou"
+            },
+            {
+              "chord": "A",
+              "text": "risen"
+            },
+            {
+              "chord": "Bm",
+              "text": "One, the"
+            },
+            {
+              "chord": "G",
+              "text": "Holy"
+            },
+            {
+              "chord": "B",
+              "text": "and the"
+            },
+            {
+              "chord": "Em",
+              "text": "True,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "We"
+            },
+            {
+              "chord": "A7",
+              "text": "give Thee"
+            },
+            {
+              "chord": "D",
+              "text": "now"
+            },
+            {
+              "chord": "Bm",
+              "text": "the"
+            },
+            {
+              "chord": "G",
+              "text": "praise so"
+            },
+            {
+              "chord": "A7",
+              "text": "justly"
+            },
+            {
+              "chord": "D",
+              "text": "due."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thou giv’st us, Lord, once more to taste down here"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The joy Thy presence brings, its warmth and cheer;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "With great delight we ’neath Thy shadow rest;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thy fruit is sweet to those Thy love has blest."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thou wast alone, till like the precious grain"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In death Thou layest, but didst rise again;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And in Thy risen life a countless host"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Are “all of one” with Thee, Thy joy and boast."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Praise of the Lord",
+    "time": "4/4",
+    "hymn_code": "3324321123",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/170",
+        "language": "en",
+        "category": "ch",
+        "number": "170",
+        "title": "C170"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Lord Jesus,gladlydo ourlipsexpress",
+    "Ourheart's deepsense ofall Thyworthiness;",
+    "ThourisenOne, theHolyand theTrue,",
+    "Wegive Theenowthepraise sojustlydue.",
+    "Thou giv’st us, Lord, once more to taste down here",
+    "The joy Thy presence brings, its warmth and cheer;",
+    "With great delight we ’neath Thy shadow rest;",
+    "Thy fruit is sweet to those Thy love has blest.",
+    "Thou wast alone, till like the precious grain",
+    "In death Thou layest, but didst rise again;",
+    "And in Thy risen life a countless host",
+    "Are “all of one” with Thee, Thy joy and boast."
+  ]
+}

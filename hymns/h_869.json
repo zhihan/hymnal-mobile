@@ -1,0 +1,230 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/869",
+  "title": "Ere we depart, we praise Thee, Lord, again",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Ere"
+            },
+            {
+              "chord": "A",
+              "text": "we de"
+            },
+            {
+              "chord": "D",
+              "text": "part,"
+            },
+            {
+              "chord": "Bm",
+              "text": "we"
+            },
+            {
+              "chord": "Em",
+              "text": "praise Thee,"
+            },
+            {
+              "chord": "A7",
+              "text": "Lord, a"
+            },
+            {
+              "chord": "D",
+              "text": "gain"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For Thy dear"
+            },
+            {
+              "chord": "G",
+              "text": "presence"
+            },
+            {
+              "chord": "D",
+              "text": "and Thy"
+            },
+            {
+              "chord": "A",
+              "text": "liv"
+            },
+            {
+              "chord": "D",
+              "text": "ing"
+            },
+            {
+              "chord": "A7",
+              "text": "word;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "We"
+            },
+            {
+              "chord": "A",
+              "text": "are at"
+            },
+            {
+              "chord": "D",
+              "text": "tracted"
+            },
+            {
+              "chord": "B",
+              "text": "by Thy"
+            },
+            {
+              "chord": "B7",
+              "text": "precious"
+            },
+            {
+              "chord": "Em",
+              "text": "ness,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "Our hearts"
+            },
+            {
+              "chord": "",
+              "text": "in"
+            },
+            {
+              "chord": "D",
+              "text": "cline to"
+            },
+            {
+              "chord": "G",
+              "text": "Thee through"
+            },
+            {
+              "chord": "D",
+              "text": "what"
+            },
+            {
+              "chord": "A7",
+              "text": "we've"
+            },
+            {
+              "chord": "D",
+              "text": "heard."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thy word is spirit and is life to us,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "By it we’re nourished, growing, Lord, in Thee;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thus to Thine image we may be transformed,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "With Thy full measure to maturity."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Impart Thyself to us, Lord, more and more,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And make us in the spirit walk and move,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "That we be kept in fellowship with Thee,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Until we meet again, Thy grace to prove."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Meetings",
+    "time": "4/4",
+    "hymn_code": "3345122343",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/630",
+        "language": "en",
+        "category": "ch",
+        "number": "630",
+        "title": "C630"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Erewe depart,wepraise Thee,Lord, again",
+    "For Thy dearpresenceand Thylivingword;",
+    "Weare attractedby Thypreciousness,",
+    "Our heartsincline toThee throughwhatwe'veheard.",
+    "Thy word is spirit and is life to us,",
+    "By it we’re nourished, growing, Lord, in Thee;",
+    "Thus to Thine image we may be transformed,",
+    "With Thy full measure to maturity.",
+    "Impart Thyself to us, Lord, more and more,",
+    "And make us in the spirit walk and move,",
+    "That we be kept in fellowship with Thee,",
+    "Until we meet again, Thy grace to prove."
+  ]
+}

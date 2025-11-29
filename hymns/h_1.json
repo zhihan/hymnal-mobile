@@ -1,0 +1,302 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/1",
+  "title": "Glory be to God the Father",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Glory"
+            },
+            {
+              "chord": "",
+              "text": "be to"
+            },
+            {
+              "chord": "C",
+              "text": "God the"
+            },
+            {
+              "chord": "",
+              "text": "Father,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "And to"
+            },
+            {
+              "chord": "",
+              "text": "Christ the"
+            },
+            {
+              "chord": "D",
+              "text": "Son,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Glory"
+            },
+            {
+              "chord": "",
+              "text": "to the"
+            },
+            {
+              "chord": "C",
+              "text": "Holy"
+            },
+            {
+              "chord": "",
+              "text": "Spirit—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Ev"
+            },
+            {
+              "chord": "D7",
+              "text": "er"
+            },
+            {
+              "chord": "G",
+              "text": "One."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "As we view the vast creation,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Planned with wondrous skill,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "So our hearts would move to worship,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And be still."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "But, our God, how great Thy yearning"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "To have sons who love"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In the Son e’en now to praise Thee,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Love to prove!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "’Twas Thy thought in revelation,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "To present to men"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Secrets of Thine own affections,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Theirs to win."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "So in Christ, through His redemption"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "(Vanquished evil powers!)"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thou hast brought, in new creation,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Worshippers!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Glory be to God the Father,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And to Christ the Son,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Glory to the Holy Spirit—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Ever One."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Blessing of the Trinity",
+    "time": "4/4",
+    "hymn_code": "5553216153222",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/1",
+        "language": "en",
+        "category": "ch",
+        "number": "1",
+        "title": "C1"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Glorybe toGod theFather,",
+    "And toChrist theSon,",
+    "Gloryto theHolySpirit—",
+    "EverOne.",
+    "As we view the vast creation,",
+    "Planned with wondrous skill,",
+    "So our hearts would move to worship,",
+    "And be still.",
+    "But, our God, how great Thy yearning",
+    "To have sons who love",
+    "In the Son e’en now to praise Thee,",
+    "Love to prove!",
+    "’Twas Thy thought in revelation,",
+    "To present to men",
+    "Secrets of Thine own affections,",
+    "Theirs to win.",
+    "So in Christ, through His redemption",
+    "(Vanquished evil powers!)",
+    "Thou hast brought, in new creation,",
+    "Worshippers!",
+    "Glory be to God the Father,",
+    "And to Christ the Son,",
+    "Glory to the Holy Spirit—",
+    "Ever One."
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/860",
+  "title": "Blest be the tie that binds",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Blest be"
+            },
+            {
+              "chord": "",
+              "text": "the"
+            },
+            {
+              "chord": "A",
+              "text": "tie that"
+            },
+            {
+              "chord": "Bm",
+              "text": "binds"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Our"
+            },
+            {
+              "chord": "G",
+              "text": "hearts in"
+            },
+            {
+              "chord": "D",
+              "text": "Christ"
+            },
+            {
+              "chord": "G",
+              "text": "ian"
+            },
+            {
+              "chord": "A",
+              "text": "love;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The"
+            },
+            {
+              "chord": "A7",
+              "text": "fellow"
+            },
+            {
+              "chord": "D",
+              "text": "ship our"
+            },
+            {
+              "chord": "A",
+              "text": "spir"
+            },
+            {
+              "chord": "A7",
+              "text": "it"
+            },
+            {
+              "chord": "D",
+              "text": "finds"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Is"
+            },
+            {
+              "chord": "D",
+              "text": "like"
+            },
+            {
+              "chord": "G",
+              "text": "to that"
+            },
+            {
+              "chord": "A7",
+              "text": "a"
+            },
+            {
+              "chord": "D",
+              "text": "bove."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Before our Father’s throne,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "We pour our ardent prayers;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Our fears, our hopes, our aims are one—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Our comforts and our cares."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "We share our mutual woes;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Our mutual burdens bear;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And often for each other flows"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The sympathizing tear."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When we asunder part,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "It gives us inward pain;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "But we shall still be joined in heart,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And hope to meet again."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "From sorrow, toil, and pain,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And sin we shall be free;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And perfect love and oneness reign"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Through all eternity."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "The Church",
+    "time": "3/4",
+    "hymn_code": "3313272111611517",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/621",
+        "language": "en",
+        "category": "ch",
+        "number": "621",
+        "title": "C621"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Blest bethetie thatbinds",
+    "Ourhearts inChristianlove;",
+    "Thefellowship ourspiritfinds",
+    "Isliketo thatabove.",
+    "Before our Father’s throne,",
+    "We pour our ardent prayers;",
+    "Our fears, our hopes, our aims are one—",
+    "Our comforts and our cares.",
+    "We share our mutual woes;",
+    "Our mutual burdens bear;",
+    "And often for each other flows",
+    "The sympathizing tear.",
+    "When we asunder part,",
+    "It gives us inward pain;",
+    "But we shall still be joined in heart,",
+    "And hope to meet again.",
+    "From sorrow, toil, and pain,",
+    "And sin we shall be free;",
+    "And perfect love and oneness reign",
+    "Through all eternity."
+  ]
+}

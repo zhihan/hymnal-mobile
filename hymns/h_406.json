@@ -1,0 +1,313 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/406",
+  "title": "Teach me Thy way, O Lord",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Teach me"
+            },
+            {
+              "chord": "",
+              "text": "Thy"
+            },
+            {
+              "chord": "G",
+              "text": "way, O"
+            },
+            {
+              "chord": "",
+              "text": "Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "Teach me"
+            },
+            {
+              "chord": "",
+              "text": "Thy"
+            },
+            {
+              "chord": "D",
+              "text": "way;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thy gracious"
+            },
+            {
+              "chord": "E",
+              "text": "aid afford,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "E7",
+              "text": "Teach me"
+            },
+            {
+              "chord": "",
+              "text": "Thy"
+            },
+            {
+              "chord": "A7",
+              "text": "way."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Help me"
+            },
+            {
+              "chord": "",
+              "text": "to"
+            },
+            {
+              "chord": "G",
+              "text": "walk aright;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "More by"
+            },
+            {
+              "chord": "",
+              "text": "faith,"
+            },
+            {
+              "chord": "D",
+              "text": "less by"
+            },
+            {
+              "chord": "",
+              "text": "sight;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "Lead me"
+            },
+            {
+              "chord": "",
+              "text": "with"
+            },
+            {
+              "chord": "Em",
+              "text": "heav'nly"
+            },
+            {
+              "chord": "",
+              "text": "light,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "Teach me"
+            },
+            {
+              "chord": "",
+              "text": "Thy"
+            },
+            {
+              "chord": "D",
+              "text": "way."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When doubts and fears arise,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Teach me Thy way;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When storms o’erspread the skies,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Teach me Thy way."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Shine through the cloud and rain,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Through sorrow, toil, and pain;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Make Thou my pathway plain,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Teach me Thy way."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Long as my life shall last,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Teach me Thy way;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Where’er my lot be cast,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Teach me Thy way."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Until the race is run,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Until the journey’s done,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Until the crown is won,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Teach me Thy way."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Longings",
+    "time": "3/4",
+    "hymn_code": "3333222343"
+  },
+  "raw_sections": [
+    "Teach meThyway, OLord,",
+    "Teach meThyway;",
+    "Thy graciousaid afford,",
+    "Teach meThyway.",
+    "Help metowalk aright;",
+    "More byfaith,less bysight;",
+    "Lead mewithheav'nlylight,",
+    "Teach meThyway.",
+    "When doubts and fears arise,",
+    "Teach me Thy way;",
+    "When storms o’erspread the skies,",
+    "Teach me Thy way.",
+    "Shine through the cloud and rain,",
+    "Through sorrow, toil, and pain;",
+    "Make Thou my pathway plain,",
+    "Teach me Thy way.",
+    "Long as my life shall last,",
+    "Teach me Thy way;",
+    "Where’er my lot be cast,",
+    "Teach me Thy way.",
+    "Until the race is run,",
+    "Until the journey’s done,",
+    "Until the crown is won,",
+    "Teach me Thy way."
+  ]
+}

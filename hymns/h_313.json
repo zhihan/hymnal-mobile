@@ -1,0 +1,230 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/313",
+  "title": "Amazing Grace",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Amazing"
+            },
+            {
+              "chord": "",
+              "text": "grace! how"
+            },
+            {
+              "chord": "C",
+              "text": "sweet the"
+            },
+            {
+              "chord": "G",
+              "text": "sound,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "That saved a"
+            },
+            {
+              "chord": "A7",
+              "text": "wretch; like"
+            },
+            {
+              "chord": "D",
+              "text": "me!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "I"
+            },
+            {
+              "chord": "G",
+              "text": "once was"
+            },
+            {
+              "chord": "G7",
+              "text": "lost, but"
+            },
+            {
+              "chord": "C",
+              "text": "now am"
+            },
+            {
+              "chord": "G",
+              "text": "found,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Was blind, but"
+            },
+            {
+              "chord": "D",
+              "text": "now"
+            },
+            {
+              "chord": "D7",
+              "text": "I"
+            },
+            {
+              "chord": "G",
+              "text": "see."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "’Twas grace that taught my heart to fear,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And grace my fears relieved;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "How precious did that grace appear"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The hour I first believed!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The Lord hath promised good to me,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "His word my hope secures;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He will my shield and portion be"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "As long as life endures."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When we’ve been there ten thousand years,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Bright shining as the sun,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "We’ve no less days to sing God’s praise"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Than when we first begun."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Assurance and Joy of Salvation",
+    "time": "3/4",
+    "hymn_code": "513132165",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/247",
+        "language": "en",
+        "category": "ch",
+        "number": "247",
+        "title": "C247"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Amazinggrace! howsweet thesound,",
+    "That saved awretch; likeme!",
+    "Ionce waslost, butnow amfound,",
+    "Was blind, butnowIsee.",
+    "’Twas grace that taught my heart to fear,",
+    "And grace my fears relieved;",
+    "How precious did that grace appear",
+    "The hour I first believed!",
+    "The Lord hath promised good to me,",
+    "His word my hope secures;",
+    "He will my shield and portion be",
+    "As long as life endures.",
+    "When we’ve been there ten thousand years,",
+    "Bright shining as the sun,",
+    "We’ve no less days to sing God’s praise",
+    "Than when we first begun."
+  ]
+}

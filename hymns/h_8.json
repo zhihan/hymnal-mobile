@@ -1,0 +1,146 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/8",
+  "title": "Praise God, from whom all blessings flow",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Praise God,"
+            },
+            {
+              "chord": "",
+              "text": "from whom all"
+            },
+            {
+              "chord": "D",
+              "text": "blessings"
+            },
+            {
+              "chord": "G",
+              "text": "flow;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Praise Him, all creatures"
+            },
+            {
+              "chord": "C",
+              "text": "here be"
+            },
+            {
+              "chord": "D",
+              "text": "low;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Praise"
+            },
+            {
+              "chord": "D",
+              "text": "Him above,"
+            },
+            {
+              "chord": "",
+              "text": "ye heav'nly"
+            },
+            {
+              "chord": "G",
+              "text": "host;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Praise Father,"
+            },
+            {
+              "chord": "D",
+              "text": "Son, and"
+            },
+            {
+              "chord": "D7",
+              "text": "Holy"
+            },
+            {
+              "chord": "G",
+              "text": "Ghost!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Praise God the Father who’s the source;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Praise God the Son who is the course;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Praise God the Spirit who’s the flow;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Praise God, our portion here below!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Blessing of the Trinity",
+    "time": "4/4",
+    "hymn_code": "1176512333321432",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/5",
+        "language": "en",
+        "category": "ch",
+        "number": "5",
+        "title": "C5"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Praise God,from whom allblessingsflow;",
+    "Praise Him, all creatureshere below;",
+    "PraiseHim above,ye heav'nlyhost;",
+    "Praise Father,Son, andHolyGhost!",
+    "Praise God the Father who’s the source;",
+    "Praise God the Son who is the course;",
+    "Praise God the Spirit who’s the flow;",
+    "Praise God, our portion here below!"
+  ]
+}

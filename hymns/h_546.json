@@ -1,0 +1,226 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/546",
+  "title": "I love my Lord, but with no love of mine",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "I love"
+            },
+            {
+              "chord": "",
+              "text": "my Lord, but with no"
+            },
+            {
+              "chord": "C",
+              "text": "love of"
+            },
+            {
+              "chord": "G",
+              "text": "mine,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For"
+            },
+            {
+              "chord": "D",
+              "text": "I have"
+            },
+            {
+              "chord": "D7",
+              "text": "none to"
+            },
+            {
+              "chord": "G",
+              "text": "give;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I love Thee, Lord, but all the"
+            },
+            {
+              "chord": "C",
+              "text": "love is"
+            },
+            {
+              "chord": "G",
+              "text": "Thine,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For"
+            },
+            {
+              "chord": "D",
+              "text": "by Thy"
+            },
+            {
+              "chord": "D7",
+              "text": "love I"
+            },
+            {
+              "chord": "G",
+              "text": "live."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "I am"
+            },
+            {
+              "chord": "",
+              "text": "as"
+            },
+            {
+              "chord": "G",
+              "text": "nothing,"
+            },
+            {
+              "chord": "C",
+              "text": "and rejoice"
+            },
+            {
+              "chord": "",
+              "text": "to"
+            },
+            {
+              "chord": "G",
+              "text": "be"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "Emptied,"
+            },
+            {
+              "chord": "",
+              "text": "and"
+            },
+            {
+              "chord": "G",
+              "text": "lost, and"
+            },
+            {
+              "chord": "C",
+              "text": "swallowed"
+            },
+            {
+              "chord": "D",
+              "text": "up"
+            },
+            {
+              "chord": "D7",
+              "text": "in"
+            },
+            {
+              "chord": "G",
+              "text": "Thee."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thou, Lord, alone, art all Thy children need,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And there is none beside;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "From Thee the streams of blessedness proceed,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In Thee the bless’d abide."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Fountain of life, and all-abounding grace,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Our source, our center, and our dwelling-place."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Experience of Christ",
+    "time": "4/4",
+    "hymn_code": "5543531615355443",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ts/333",
+        "language": "en",
+        "category": "ts",
+        "number": "333",
+        "title": "Cs333"
+      }
+    ]
+  },
+  "raw_sections": [
+    "I lovemy Lord, but with nolove ofmine,",
+    "ForI havenone togive;",
+    "I love Thee, Lord, but all thelove isThine,",
+    "Forby Thylove Ilive.",
+    "I amasnothing,and rejoicetobe",
+    "Emptied,andlost, andswallowedupinThee.",
+    "Thou, Lord, alone, art all Thy children need,",
+    "And there is none beside;",
+    "From Thee the streams of blessedness proceed,",
+    "In Thee the bless’d abide.",
+    "Fountain of life, and all-abounding grace,",
+    "Our source, our center, and our dwelling-place."
+  ]
+}

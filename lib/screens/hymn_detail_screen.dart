@@ -29,6 +29,14 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   bool _showChords = true; // Show chords by default
   int? _nextHymnNumber;
   int? _previousHymnNumber;
+  bool _showLanguageNavigation = false;
+
+  // Category short names for display
+  static const Map<String, String> _categoryShortNames = {
+    'ch': '大',
+    'ts': '补',
+    'h': 'E',
+  };
 
   @override
   void initState() {
@@ -110,6 +118,24 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     });
   }
 
+  List<Map<String, dynamic>> _getRelatedHymns() {
+    if (_currentHymn?.metadata == null) return [];
+    final related = _currentHymn!.metadata!['related'];
+    if (related == null || related is! List) return [];
+    return List<Map<String, dynamic>>.from(related);
+  }
+
+  void _navigateToRelatedHymn(String category, String number) {
+    final hymnNumber = int.tryParse(number);
+    if (hymnNumber == null) return;
+
+    setState(() {
+      _currentCategory = category;
+    });
+    _loadCategoryDisplayName();
+    _loadHymn(hymnNumber);
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -135,6 +161,16 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
                 ? 'Next hymn ($_nextHymnNumber)'
                 : 'No next hymn',
           ),
+          if (_getRelatedHymns().isNotEmpty)
+            IconButton(
+              icon: const Icon(Icons.translate),
+              onPressed: () {
+                setState(() {
+                  _showLanguageNavigation = !_showLanguageNavigation;
+                });
+              },
+              tooltip: 'Toggle language navigation',
+            ),
           IconButton(
             icon: Icon(_showTransposeControls
                 ? Icons.expand_less
@@ -203,6 +239,44 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
 
     return Column(
       children: [
+        // Language navigation (collapsible)
+        if (_showLanguageNavigation && _getRelatedHymns().isNotEmpty)
+          Container(
+            width: double.infinity,
+            padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 8.0),
+            decoration: BoxDecoration(
+              color: Colors.blue[50],
+              border: Border(
+                bottom: BorderSide(color: Colors.blue[100]!, width: 1),
+              ),
+            ),
+            child: Wrap(
+              spacing: 8,
+              runSpacing: 8,
+              children: _getRelatedHymns().map((related) {
+                final category = related['category'] as String? ?? '';
+                final number = related['number'] as String? ?? '';
+                final shortName = _categoryShortNames[category] ?? category.toUpperCase();
+                final displayText = '$shortName$number';
+
+                return ElevatedButton(
+                  onPressed: () => _navigateToRelatedHymn(category, number),
+                  style: ElevatedButton.styleFrom(
+                    padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                    backgroundColor: Colors.blue[100],
+                    foregroundColor: Colors.blue[900],
+                  ),
+                  child: Text(
+                    displayText,
+                    style: const TextStyle(
+                      fontSize: 16,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                );
+              }).toList(),
+            ),
+          ),
         // Transpose controls (collapsible)
         if (_showTransposeControls)
           Container(

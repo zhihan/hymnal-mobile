@@ -1,0 +1,270 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/710",
+  "title": "The days may yet grow darker",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "The days"
+            },
+            {
+              "chord": "",
+              "text": "may yet grow"
+            },
+            {
+              "chord": "G",
+              "text": "dark"
+            },
+            {
+              "chord": "C",
+              "text": "er,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The nights more"
+            },
+            {
+              "chord": "E7",
+              "text": "weary"
+            },
+            {
+              "chord": "F",
+              "text": "grow,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And"
+            },
+            {
+              "chord": "C",
+              "text": "Jesus"
+            },
+            {
+              "chord": "E7",
+              "text": "may still"
+            },
+            {
+              "chord": "Am",
+              "text": "tarry,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "But"
+            },
+            {
+              "chord": "D",
+              "text": "this one"
+            },
+            {
+              "chord": "",
+              "text": "thing I"
+            },
+            {
+              "chord": "G",
+              "text": "know:"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The"
+            },
+            {
+              "chord": "E7",
+              "text": "Lord will"
+            },
+            {
+              "chord": "",
+              "text": "still grow"
+            },
+            {
+              "chord": "Am",
+              "text": "dear"
+            },
+            {
+              "chord": "G",
+              "text": "er,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And"
+            },
+            {
+              "chord": "C",
+              "text": "fellowship"
+            },
+            {
+              "chord": "",
+              "text": "will"
+            },
+            {
+              "chord": "G",
+              "text": "be"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The"
+            },
+            {
+              "chord": "C",
+              "text": "closer"
+            },
+            {
+              "chord": "E7",
+              "text": "and the"
+            },
+            {
+              "chord": "Am",
+              "text": "sweeter"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Bet"
+            },
+            {
+              "chord": "F",
+              "text": "ween my"
+            },
+            {
+              "chord": "G7",
+              "text": "Lord and"
+            },
+            {
+              "chord": "C",
+              "text": "me."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "’Tis our dear Lord we wait for,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Our Hope! our Joy! our Friend!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Himself we long to welcome,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And just beyond the bend"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Hidden, perchance to meet us"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Before the day is done,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The waiting will be over"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And rest will have begun."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Comfort in Trials",
+    "time": "4/4",
+    "hymn_code": "1214321351756",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ts/918",
+        "language": "en",
+        "category": "ts",
+        "number": "918",
+        "title": "Cs918"
+      }
+    ]
+  },
+  "raw_sections": [
+    "The daysmay yet growdarker,",
+    "The nights morewearygrow,",
+    "AndJesusmay stilltarry,",
+    "Butthis onething Iknow:",
+    "TheLord willstill growdearer,",
+    "Andfellowshipwillbe",
+    "Thecloserand thesweeter",
+    "Between myLord andme.",
+    "’Tis our dear Lord we wait for,",
+    "Our Hope! our Joy! our Friend!",
+    "Himself we long to welcome,",
+    "And just beyond the bend",
+    "Hidden, perchance to meet us",
+    "Before the day is done,",
+    "The waiting will be over",
+    "And rest will have begun."
+  ]
+}

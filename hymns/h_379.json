@@ -1,0 +1,222 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/379",
+  "title": "I hunger and I thirst",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "I hunger"
+            },
+            {
+              "chord": "",
+              "text": "and I"
+            },
+            {
+              "chord": "Dm",
+              "text": "thirst;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Je"
+            },
+            {
+              "chord": "G",
+              "text": "sus, my"
+            },
+            {
+              "chord": "G7",
+              "text": "manna"
+            },
+            {
+              "chord": "C",
+              "text": "be;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Ye living"
+            },
+            {
+              "chord": "C7",
+              "text": "waters,"
+            },
+            {
+              "chord": "F",
+              "text": "burst"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "Out"
+            },
+            {
+              "chord": "C",
+              "text": "of the"
+            },
+            {
+              "chord": "G7",
+              "text": "rock for"
+            },
+            {
+              "chord": "C",
+              "text": "me."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thou bruised and broken Bread,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My lifelong wants supply;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "As living souls are fed,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "O feed me, or I die."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thou true life-giving Vine,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Let me Thy sweetness prove;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Renew my life with Thine,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Refresh my soul with love."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For still the desert lies"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My thirsting soul before;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "O living waters, rise"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Within me evermore."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Longings",
+    "time": "2/4",
+    "hymn_code": "333432444543",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/385",
+        "language": "en",
+        "category": "ch",
+        "number": "385",
+        "title": "C385"
+      }
+    ]
+  },
+  "raw_sections": [
+    "I hungerand Ithirst;",
+    "Jesus, mymannabe;",
+    "Ye livingwaters,burst",
+    "Outof therock forme.",
+    "Thou bruised and broken Bread,",
+    "My lifelong wants supply;",
+    "As living souls are fed,",
+    "O feed me, or I die.",
+    "Thou true life-giving Vine,",
+    "Let me Thy sweetness prove;",
+    "Renew my life with Thine,",
+    "Refresh my soul with love.",
+    "For still the desert lies",
+    "My thirsting soul before;",
+    "O living waters, rise",
+    "Within me evermore."
+  ]
+}

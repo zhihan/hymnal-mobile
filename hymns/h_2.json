@@ -1,0 +1,242 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/2",
+  "title": "Glory, glory, glory, praise and adoration",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Glory,"
+            },
+            {
+              "chord": "",
+              "text": "glory, glo"
+            },
+            {
+              "chord": "A",
+              "text": "ry,"
+            },
+            {
+              "chord": "D",
+              "text": "praise and"
+            },
+            {
+              "chord": "",
+              "text": "adora"
+            },
+            {
+              "chord": "A",
+              "text": "tion!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Hear the"
+            },
+            {
+              "chord": "",
+              "text": "anthems"
+            },
+            {
+              "chord": "D",
+              "text": "swell"
+            },
+            {
+              "chord": "Bm",
+              "text": "ing"
+            },
+            {
+              "chord": "A",
+              "text": "out thro'"
+            },
+            {
+              "chord": "",
+              "text": "all et"
+            },
+            {
+              "chord": "Bm",
+              "text": "ern"
+            },
+            {
+              "chord": "E7",
+              "text": "i"
+            },
+            {
+              "chord": "A",
+              "text": "ty!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Father,"
+            },
+            {
+              "chord": "",
+              "text": "Son, and Spir"
+            },
+            {
+              "chord": "A",
+              "text": "it—"
+            },
+            {
+              "chord": "D",
+              "text": "God in"
+            },
+            {
+              "chord": "G",
+              "text": "reve"
+            },
+            {
+              "chord": "D",
+              "text": "la"
+            },
+            {
+              "chord": "A",
+              "text": "tion—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Pros"
+            },
+            {
+              "chord": "D7",
+              "text": "trate each"
+            },
+            {
+              "chord": "G",
+              "text": "soul be"
+            },
+            {
+              "chord": "Em7",
+              "text": "fore the"
+            },
+            {
+              "chord": "D",
+              "text": "De"
+            },
+            {
+              "chord": "A7",
+              "text": "i"
+            },
+            {
+              "chord": "D",
+              "text": "ty!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Father, source of glory, naming every fam’ly;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And the Son upholding all by His almighty power;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Holy Spirit, filling the vast scene of glory—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "O glorious Fulness, let our hearts adore!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "God supreme, we worship now in holy splendour,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Head of the vast scene of bliss, before Thy face we fall!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Majesty and greatness, glory, praise and power"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "To Thee belong, eternal Source of all!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Blessing of the Trinity",
+    "time": "4/4",
+    "hymn_code": "551232123532",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/2",
+        "language": "en",
+        "category": "ch",
+        "number": "2",
+        "title": "C2"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Glory,glory, glory,praise andadoration!",
+    "Hear theanthemsswellingout thro'all eternity!",
+    "Father,Son, and Spirit—God inrevelation—",
+    "Prostrate eachsoul before theDeity!",
+    "Father, source of glory, naming every fam’ly;",
+    "And the Son upholding all by His almighty power;",
+    "Holy Spirit, filling the vast scene of glory—",
+    "O glorious Fulness, let our hearts adore!",
+    "God supreme, we worship now in holy splendour,",
+    "Head of the vast scene of bliss, before Thy face we fall!",
+    "Majesty and greatness, glory, praise and power",
+    "To Thee belong, eternal Source of all!"
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/795",
+  "title": "Father, let Thy kingdom come",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Father,"
+            },
+            {
+              "chord": "",
+              "text": "let Thy"
+            },
+            {
+              "chord": "A",
+              "text": "kingdom"
+            },
+            {
+              "chord": "D",
+              "text": "come,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Let it"
+            },
+            {
+              "chord": "G",
+              "text": "come with"
+            },
+            {
+              "chord": "A7",
+              "text": "living"
+            },
+            {
+              "chord": "D",
+              "text": "power;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Speak at length the"
+            },
+            {
+              "chord": "Em",
+              "text": "final"
+            },
+            {
+              "chord": "F♯",
+              "text": "word,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Usher"
+            },
+            {
+              "chord": "G",
+              "text": "in the"
+            },
+            {
+              "chord": "A7",
+              "text": "triumph"
+            },
+            {
+              "chord": "D",
+              "text": "hour."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "As it came in days of old,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In the deepest hearts of men,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When Thy martyrs died for Thee,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Let it come, O God, again."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Tyrant thrones and idol shrines,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Let them from their place be hurled;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Enter on Thy better reign,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Wear the crown of this poor world."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Oh, what long, sad years have gone,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Since Thy Church was taught this prayer;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Oh, what eyes have watched and wept"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For the dawning everywhere."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Break, triumphant day of God!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Break at last our hearts to cheer;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Throbbing souls and holy songs"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Wait to hail Thy dawning here."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Empires, temples, scepters, thrones,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "May they all for God be won;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And, in every human heart,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Father, let Thy kingdom come."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Prayer",
+    "time": "4/4",
+    "hymn_code": "12312710"
+  },
+  "raw_sections": [
+    "Father,let Thykingdomcome,",
+    "Let itcome withlivingpower;",
+    "Speak at length thefinalword,",
+    "Usherin thetriumphhour.",
+    "As it came in days of old,",
+    "In the deepest hearts of men,",
+    "When Thy martyrs died for Thee,",
+    "Let it come, O God, again.",
+    "Tyrant thrones and idol shrines,",
+    "Let them from their place be hurled;",
+    "Enter on Thy better reign,",
+    "Wear the crown of this poor world.",
+    "Oh, what long, sad years have gone,",
+    "Since Thy Church was taught this prayer;",
+    "Oh, what eyes have watched and wept",
+    "For the dawning everywhere.",
+    "Break, triumphant day of God!",
+    "Break at last our hearts to cheer;",
+    "Throbbing souls and holy songs",
+    "Wait to hail Thy dawning here.",
+    "Empires, temples, scepters, thrones,",
+    "May they all for God be won;",
+    "And, in every human heart,",
+    "Father, let Thy kingdom come."
+  ]
+}

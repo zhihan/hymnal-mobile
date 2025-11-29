@@ -1,0 +1,186 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/1074",
+  "title": "O what a mystery, the Savior",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "O"
+            },
+            {
+              "chord": "C7",
+              "text": "what a"
+            },
+            {
+              "chord": "",
+              "text": "myster"
+            },
+            {
+              "chord": "F",
+              "text": "y, the"
+            },
+            {
+              "chord": "",
+              "text": "Savior"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "With me"
+            },
+            {
+              "chord": "",
+              "text": "is"
+            },
+            {
+              "chord": "G",
+              "text": "one!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "O"
+            },
+            {
+              "chord": "C7",
+              "text": "what a"
+            },
+            {
+              "chord": "",
+              "text": "marvel"
+            },
+            {
+              "chord": "F",
+              "text": "ous salvation"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "God gives"
+            },
+            {
+              "chord": "",
+              "text": "me"
+            },
+            {
+              "chord": "G7",
+              "text": "in His"
+            },
+            {
+              "chord": "C",
+              "text": "Son!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Hallelujah!"
+            },
+            {
+              "chord": "C",
+              "text": "Hallelujah!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "F",
+              "text": "Glorious"
+            },
+            {
+              "chord": "",
+              "text": "myster"
+            },
+            {
+              "chord": "G",
+              "text": "y!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "Noth"
+            },
+            {
+              "chord": "C7",
+              "text": "ing in"
+            },
+            {
+              "chord": "",
+              "text": "heav'n or"
+            },
+            {
+              "chord": "F",
+              "text": "earth can"
+            },
+            {
+              "chord": "",
+              "text": "sever"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "Jesus"
+            },
+            {
+              "chord": "",
+              "text": "my"
+            },
+            {
+              "chord": "G7",
+              "text": "Lord from"
+            },
+            {
+              "chord": "C",
+              "text": "me!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Gospel",
+    "time": "4/4",
+    "hymn_code": "3213211615312",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/264",
+        "language": "en",
+        "category": "ch",
+        "number": "264",
+        "title": "C264"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Owhat amystery, theSavior",
+    "With meisone!",
+    "Owhat amarvelous salvation",
+    "God givesmein HisSon!",
+    "Hallelujah!Hallelujah!",
+    "Gloriousmystery!",
+    "Nothing inheav'n orearth cansever",
+    "JesusmyLord fromme!"
+  ]
+}

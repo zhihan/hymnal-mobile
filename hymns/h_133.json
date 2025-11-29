@@ -1,0 +1,310 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/133",
+  "title": "Lord Jesus, Thou art Lord of all",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Lord Jesus,"
+            },
+            {
+              "chord": "",
+              "text": "Thou art"
+            },
+            {
+              "chord": "D",
+              "text": "Lord of"
+            },
+            {
+              "chord": "G",
+              "text": "all,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "With"
+            },
+            {
+              "chord": "A",
+              "text": "glory"
+            },
+            {
+              "chord": "A7",
+              "text": "ever"
+            },
+            {
+              "chord": "D",
+              "text": "crowned;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In power"
+            },
+            {
+              "chord": "G",
+              "text": "and in"
+            },
+            {
+              "chord": "C",
+              "text": "majesty"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thou"
+            },
+            {
+              "chord": "D",
+              "text": "art to"
+            },
+            {
+              "chord": "",
+              "text": "all"
+            },
+            {
+              "chord": "D7",
+              "text": "re"
+            },
+            {
+              "chord": "G",
+              "text": "nowned."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "As God in man, on earth Thou wast,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "A slave-form Thou didst own;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "As man in God, in heav’n Thou art,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "As Lord of all art known."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thou art the Man in glory there,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And there by God enthroned;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "All pow’r in heaven and on earth"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Now by Thyself is owned."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Exalted highly to the heav’ns"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And giv’n the highest Name,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "All shall confess Thee as the Lord"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And all bow at Thy Name."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "God made Thee both the Lord and Christ,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The Spirit hath declared;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In glory and in heav’n we see"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "God’s throne by Thee is shared."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "As Lord of glory we adore,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "To Thee our song we raise;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "We worship Thee as Lord of all,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "How worthy of our praise!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Praise of the Lord",
+    "time": "4/4",
+    "hymn_code": "512316713251765",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/120",
+        "language": "en",
+        "category": "ch",
+        "number": "120",
+        "title": "C120"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Lord Jesus,Thou artLord ofall,",
+    "Withgloryevercrowned;",
+    "In powerand inmajesty",
+    "Thouart toallrenowned.",
+    "As God in man, on earth Thou wast,",
+    "A slave-form Thou didst own;",
+    "As man in God, in heav’n Thou art,",
+    "As Lord of all art known.",
+    "Thou art the Man in glory there,",
+    "And there by God enthroned;",
+    "All pow’r in heaven and on earth",
+    "Now by Thyself is owned.",
+    "Exalted highly to the heav’ns",
+    "And giv’n the highest Name,",
+    "All shall confess Thee as the Lord",
+    "And all bow at Thy Name.",
+    "God made Thee both the Lord and Christ,",
+    "The Spirit hath declared;",
+    "In glory and in heav’n we see",
+    "God’s throne by Thee is shared.",
+    "As Lord of glory we adore,",
+    "To Thee our song we raise;",
+    "We worship Thee as Lord of all,",
+    "How worthy of our praise!"
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/853",
+  "title": "I love Thy kingdom, Lord",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "I"
+            },
+            {
+              "chord": "D",
+              "text": "love Thy"
+            },
+            {
+              "chord": "",
+              "text": "kingdom,"
+            },
+            {
+              "chord": "A",
+              "text": "Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The"
+            },
+            {
+              "chord": "D",
+              "text": "house of"
+            },
+            {
+              "chord": "G",
+              "text": "Thine a"
+            },
+            {
+              "chord": "A",
+              "text": "bode,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The"
+            },
+            {
+              "chord": "D",
+              "text": "Church our"
+            },
+            {
+              "chord": "A",
+              "text": "blest Re"
+            },
+            {
+              "chord": "D",
+              "text": "deemer"
+            },
+            {
+              "chord": "Bm",
+              "text": "bought"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "With"
+            },
+            {
+              "chord": "G",
+              "text": "His own"
+            },
+            {
+              "chord": "A7",
+              "text": "precious"
+            },
+            {
+              "chord": "D",
+              "text": "blood."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I love the Church, O God!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Her walls before Thee stand,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Dear as the apple of Thine eye"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And graven on Thy hand."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For her my tears shall fall,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For her my prayers ascend;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "To her my cares and toils be given"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Till toils and cares shall end."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Beyond my highest joy"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I prize her heavenly ways,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Her sweet communion, solemn vows,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Her hymns of love and praise."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Sure as Thy truth shall last,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "To Zion shall be given"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The brightest glories earth can yield,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And brighter bliss of heaven."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "The Church",
+    "time": "4/4",
+    "hymn_code": "511321234543432",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ts/753",
+        "language": "en",
+        "category": "ts",
+        "number": "753",
+        "title": "Cs753"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Ilove Thykingdom,Lord,",
+    "Thehouse ofThine abode,",
+    "TheChurch ourblest Redeemerbought",
+    "WithHis ownpreciousblood.",
+    "I love the Church, O God!",
+    "Her walls before Thee stand,",
+    "Dear as the apple of Thine eye",
+    "And graven on Thy hand.",
+    "For her my tears shall fall,",
+    "For her my prayers ascend;",
+    "To her my cares and toils be given",
+    "Till toils and cares shall end.",
+    "Beyond my highest joy",
+    "I prize her heavenly ways,",
+    "Her sweet communion, solemn vows,",
+    "Her hymns of love and praise.",
+    "Sure as Thy truth shall last,",
+    "To Zion shall be given",
+    "The brightest glories earth can yield,",
+    "And brighter bliss of heaven."
+  ]
+}

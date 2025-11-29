@@ -1,0 +1,214 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/622",
+  "title": "If we take up the cross, will we but suffer pain",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "If we"
+            },
+            {
+              "chord": "",
+              "text": "take"
+            },
+            {
+              "chord": "G",
+              "text": "up the"
+            },
+            {
+              "chord": "",
+              "text": "cross, will"
+            },
+            {
+              "chord": "A7",
+              "text": "we but"
+            },
+            {
+              "chord": "",
+              "text": "suffer"
+            },
+            {
+              "chord": "D",
+              "text": "pain?"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Nay, if"
+            },
+            {
+              "chord": "",
+              "text": "we"
+            },
+            {
+              "chord": "D",
+              "text": "bear the"
+            },
+            {
+              "chord": "",
+              "text": "cross, be sure that we will"
+            },
+            {
+              "chord": "A",
+              "text": "die!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "The meaning"
+            },
+            {
+              "chord": "",
+              "text": "of the cross is that we may be"
+            },
+            {
+              "chord": "G",
+              "text": "slain;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "The cross"
+            },
+            {
+              "chord": "",
+              "text": "ex"
+            },
+            {
+              "chord": "D",
+              "text": "perienced"
+            },
+            {
+              "chord": "",
+              "text": "the"
+            },
+            {
+              "chord": "A",
+              "text": "self will"
+            },
+            {
+              "chord": "A7",
+              "text": "cruci"
+            },
+            {
+              "chord": "D",
+              "text": "fy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Divine deliverance e’er slays man by the cross;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Though cruel it may seem, it is a grand release."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Christ ne’er will be our life if we escape the cross;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Christ ne’er will be expressed but by our sure decease."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The cross’s final goal, that God’s will be fulfilled;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "His will’s arch enemy is but the self of man."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "If self be done away and all the soul-life killed,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "God’s will shall then prevail and prospered be His plan."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "The Way of the Cross",
+    "time": "4/4",
+    "hymn_code": "333322344323",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/461",
+        "language": "en",
+        "category": "ch",
+        "number": "461",
+        "title": "C461"
+      }
+    ]
+  },
+  "raw_sections": [
+    "If wetakeup thecross, willwe butsufferpain?",
+    "Nay, ifwebear thecross, be sure that we willdie!",
+    "The meaningof the cross is that we may beslain;",
+    "The crossexperiencedtheself willcrucify.",
+    "Divine deliverance e’er slays man by the cross;",
+    "Though cruel it may seem, it is a grand release.",
+    "Christ ne’er will be our life if we escape the cross;",
+    "Christ ne’er will be expressed but by our sure decease.",
+    "The cross’s final goal, that God’s will be fulfilled;",
+    "His will’s arch enemy is but the self of man.",
+    "If self be done away and all the soul-life killed,",
+    "God’s will shall then prevail and prospered be His plan."
+  ]
+}

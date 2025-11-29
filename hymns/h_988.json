@@ -1,0 +1,174 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/988",
+  "title": "Merciful and loving",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Merci"
+            },
+            {
+              "chord": "A7",
+              "text": "ful and"
+            },
+            {
+              "chord": "D",
+              "text": "loving,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Suff'ring"
+            },
+            {
+              "chord": "G",
+              "text": "pain and"
+            },
+            {
+              "chord": "D7",
+              "text": "loss,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "All for"
+            },
+            {
+              "chord": "",
+              "text": "us, the"
+            },
+            {
+              "chord": "D",
+              "text": "sin"
+            },
+            {
+              "chord": "B7",
+              "text": "ners,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "E7",
+              "text": "Going"
+            },
+            {
+              "chord": "",
+              "text": "to the"
+            },
+            {
+              "chord": "A7",
+              "text": "cross;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Tasting"
+            },
+            {
+              "chord": "A7",
+              "text": "death for"
+            },
+            {
+              "chord": "D",
+              "text": "all men,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Dying"
+            },
+            {
+              "chord": "G",
+              "text": "for our"
+            },
+            {
+              "chord": "D7",
+              "text": "sins;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "This is"
+            },
+            {
+              "chord": "",
+              "text": "Christ the"
+            },
+            {
+              "chord": "D",
+              "text": "Sav"
+            },
+            {
+              "chord": "B7",
+              "text": "ior,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "What"
+            },
+            {
+              "chord": "E7",
+              "text": "will you"
+            },
+            {
+              "chord": "A7",
+              "text": "do with"
+            },
+            {
+              "chord": "D",
+              "text": "Him?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Gospel",
+    "time": "6/8",
+    "hymn_code": "32321554653",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/677",
+        "language": "en",
+        "category": "ch",
+        "number": "677",
+        "title": "C677"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Merciful andloving,",
+    "Suff'ringpain andloss,",
+    "All forus, thesinners,",
+    "Goingto thecross;",
+    "Tastingdeath forall men,",
+    "Dyingfor oursins;",
+    "This isChrist theSavior,",
+    "Whatwill youdo withHim?"
+  ]
+}

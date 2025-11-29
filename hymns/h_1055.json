@@ -1,0 +1,145 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/1055",
+  "title": "I am sinful, I am helpless",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "I am"
+            },
+            {
+              "chord": "",
+              "text": "sinful, I am helpless,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Humbly at Thy feet I"
+            },
+            {
+              "chord": "A7",
+              "text": "bow;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Full of"
+            },
+            {
+              "chord": "",
+              "text": "problems, I am hopeless,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Oh, dear Savior,"
+            },
+            {
+              "chord": "A7",
+              "text": "save me"
+            },
+            {
+              "chord": "D",
+              "text": "now!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "Save me"
+            },
+            {
+              "chord": "",
+              "text": "now!"
+            },
+            {
+              "chord": "D",
+              "text": "save me"
+            },
+            {
+              "chord": "",
+              "text": "now!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Oh, dear"
+            },
+            {
+              "chord": "D",
+              "text": "Savior,"
+            },
+            {
+              "chord": "",
+              "text": "save me"
+            },
+            {
+              "chord": "A7",
+              "text": "now!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Save me"
+            },
+            {
+              "chord": "",
+              "text": "now from all my problems,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Oh, dear Savior,"
+            },
+            {
+              "chord": "A7",
+              "text": "save me"
+            },
+            {
+              "chord": "D",
+              "text": "now!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Gospel",
+    "time": "6/4",
+    "hymn_code": "332156123456532"
+  },
+  "raw_sections": [
+    "I amsinful, I am helpless,",
+    "Humbly at Thy feet Ibow;",
+    "Full ofproblems, I am hopeless,",
+    "Oh, dear Savior,save menow!",
+    "Save menow!save menow!",
+    "Oh, dearSavior,save menow!",
+    "Save menow from all my problems,",
+    "Oh, dear Savior,save menow!"
+  ]
+}

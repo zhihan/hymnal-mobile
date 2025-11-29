@@ -1,0 +1,165 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/1353",
+  "title": "Live in the light of life",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "Live in"
+            },
+            {
+              "chord": "",
+              "text": "the light of"
+            },
+            {
+              "chord": "A7",
+              "text": "life,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Sweet"
+            },
+            {
+              "chord": "D",
+              "text": "fellowship"
+            },
+            {
+              "chord": "",
+              "text": "main"
+            },
+            {
+              "chord": "Bm7",
+              "text": "tain;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Be"
+            },
+            {
+              "chord": "C♯m7",
+              "text": "hold His"
+            },
+            {
+              "chord": "",
+              "text": "gracious"
+            },
+            {
+              "chord": "F♯m",
+              "text": "face,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Each"
+            },
+            {
+              "chord": "B7",
+              "text": "day more"
+            },
+            {
+              "chord": "",
+              "text": "glory"
+            },
+            {
+              "chord": "E",
+              "text": "gain,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The"
+            },
+            {
+              "chord": "A",
+              "text": "Spirit's"
+            },
+            {
+              "chord": "",
+              "text": "move obey,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "Re"
+            },
+            {
+              "chord": "D",
+              "text": "joice and"
+            },
+            {
+              "chord": "",
+              "text": "praise and"
+            },
+            {
+              "chord": "B7",
+              "text": "pray;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Live"
+            },
+            {
+              "chord": "A",
+              "text": "in the"
+            },
+            {
+              "chord": "E7",
+              "text": "light of"
+            },
+            {
+              "chord": "A",
+              "text": "life."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Encouragement",
+    "time": "3/4",
+    "hymn_code": "132123112161",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/476",
+        "language": "en",
+        "category": "ch",
+        "number": "476",
+        "title": "C476"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Live inthe light oflife,",
+    "Sweetfellowshipmaintain;",
+    "Behold Hisgraciousface,",
+    "Eachday moreglorygain,",
+    "TheSpirit'smove obey,",
+    "Rejoice andpraise andpray;",
+    "Livein thelight oflife."
+  ]
+}

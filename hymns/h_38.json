@@ -1,0 +1,190 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/38",
+  "title": "Of all the gifts Thy love bestows",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Of all"
+            },
+            {
+              "chord": "",
+              "text": "the gifts Thy"
+            },
+            {
+              "chord": "A",
+              "text": "love be"
+            },
+            {
+              "chord": "D",
+              "text": "stows,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thou Giver"
+            },
+            {
+              "chord": "E7",
+              "text": "of all"
+            },
+            {
+              "chord": "A",
+              "text": "good."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "E'en"
+            },
+            {
+              "chord": "G",
+              "text": "heav'n itself"
+            },
+            {
+              "chord": "",
+              "text": "no richer"
+            },
+            {
+              "chord": "A",
+              "text": "knows"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Than"
+            },
+            {
+              "chord": "D",
+              "text": "Jesus"
+            },
+            {
+              "chord": "A",
+              "text": "and"
+            },
+            {
+              "chord": "A7",
+              "text": "His"
+            },
+            {
+              "chord": "D",
+              "text": "blood."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Faith, too, that trusts in Him through grace,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "From that same love we gain;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Else, sweetly as it suits our case,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The gift had been in vain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "We praise Thee, and would praise Thee more,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "To Thee our all we owe:"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The precious Savior, and the power"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "That makes Him precious too."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Worship of the Father",
+    "time": "3/4",
+    "hymn_code": "33543212671",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/26",
+        "language": "en",
+        "category": "ch",
+        "number": "26",
+        "title": "C26"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Of allthe gifts Thylove bestows,",
+    "Thou Giverof allgood.",
+    "E'enheav'n itselfno richerknows",
+    "ThanJesusandHisblood.",
+    "Faith, too, that trusts in Him through grace,",
+    "From that same love we gain;",
+    "Else, sweetly as it suits our case,",
+    "The gift had been in vain.",
+    "We praise Thee, and would praise Thee more,",
+    "To Thee our all we owe:",
+    "The precious Savior, and the power",
+    "That makes Him precious too."
+  ]
+}

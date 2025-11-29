@@ -1,0 +1,307 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/683",
+  "title": "God holds the key of all unknown",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "God holds"
+            },
+            {
+              "chord": "",
+              "text": "the"
+            },
+            {
+              "chord": "C",
+              "text": "key of"
+            },
+            {
+              "chord": "G",
+              "text": "all un"
+            },
+            {
+              "chord": "D7",
+              "text": "known,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And"
+            },
+            {
+              "chord": "G",
+              "text": "I am"
+            },
+            {
+              "chord": "D",
+              "text": "glad;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "If"
+            },
+            {
+              "chord": "D7",
+              "text": "other"
+            },
+            {
+              "chord": "",
+              "text": "hands should"
+            },
+            {
+              "chord": "G",
+              "text": "hold the"
+            },
+            {
+              "chord": "",
+              "text": "key,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Or if He"
+            },
+            {
+              "chord": "G7",
+              "text": "trusted"
+            },
+            {
+              "chord": "Am",
+              "text": "it to"
+            },
+            {
+              "chord": "",
+              "text": "me,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I"
+            },
+            {
+              "chord": "G",
+              "text": "might"
+            },
+            {
+              "chord": "D7",
+              "text": "be"
+            },
+            {
+              "chord": "G",
+              "text": "sad."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I"
+            },
+            {
+              "chord": "C",
+              "text": "might"
+            },
+            {
+              "chord": "D7",
+              "text": "be"
+            },
+            {
+              "chord": "G",
+              "text": "sad."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The very dimness of my sight"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Makes me secure;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For, groping in my misty way,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I feel His hand; I hear Him say,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My help is sure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I cannot read His future plans;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "But this I know:"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I have the smiling of His face,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And all the refuge of His grace"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "While here below."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Enough; this covers all my wants;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And so I rest;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For what I cannot, He can see,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And in His care I saved shall be,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Forever blest."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Comfort in Trials",
+    "time": "6/4",
+    "hymn_code": "3332165451172",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/500",
+        "language": "en",
+        "category": "ch",
+        "number": "500",
+        "title": "C500"
+      }
+    ]
+  },
+  "raw_sections": [
+    "God holdsthekey ofall unknown,",
+    "AndI amglad;",
+    "Ifotherhands shouldhold thekey,",
+    "Or if Hetrustedit tome,",
+    "Imightbesad.",
+    "Imightbesad.",
+    "The very dimness of my sight",
+    "Makes me secure;",
+    "For, groping in my misty way,",
+    "I feel His hand; I hear Him say,",
+    "My help is sure.",
+    "I cannot read His future plans;",
+    "But this I know:",
+    "I have the smiling of His face,",
+    "And all the refuge of His grace",
+    "While here below.",
+    "Enough; this covers all my wants;",
+    "And so I rest;",
+    "For what I cannot, He can see,",
+    "And in His care I saved shall be,",
+    "Forever blest."
+  ]
+}

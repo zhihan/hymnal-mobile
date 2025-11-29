@@ -1,0 +1,261 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/119",
+  "title": "Hallelujah, He is risen",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Hallelujah,"
+            },
+            {
+              "chord": "A",
+              "text": "\"He is"
+            },
+            {
+              "chord": "D",
+              "text": "risen!\""
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Jesus"
+            },
+            {
+              "chord": "Em",
+              "text": "is gone"
+            },
+            {
+              "chord": "A7",
+              "text": "up on"
+            },
+            {
+              "chord": "D",
+              "text": "high!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Burst the"
+            },
+            {
+              "chord": "D",
+              "text": "bars of"
+            },
+            {
+              "chord": "A",
+              "text": "death a"
+            },
+            {
+              "chord": "Bm",
+              "text": "sunder;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Angels"
+            },
+            {
+              "chord": "G",
+              "text": "shout, and"
+            },
+            {
+              "chord": "A7",
+              "text": "men re"
+            },
+            {
+              "chord": "D",
+              "text": "ply:"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "He is"
+            },
+            {
+              "chord": "G",
+              "text": "risen,"
+            },
+            {
+              "chord": "A",
+              "text": "He is"
+            },
+            {
+              "chord": "D",
+              "text": "risen,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "Living"
+            },
+            {
+              "chord": "Em",
+              "text": "now, no"
+            },
+            {
+              "chord": "A7",
+              "text": "more to"
+            },
+            {
+              "chord": "D",
+              "text": "die."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "He is"
+            },
+            {
+              "chord": "G",
+              "text": "risen,"
+            },
+            {
+              "chord": "A",
+              "text": "He"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "is"
+            },
+            {
+              "chord": "D",
+              "text": "risen,"
+            },
+            {
+              "chord": "Bm",
+              "text": "Living"
+            },
+            {
+              "chord": "Em",
+              "text": "now, no"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "more to"
+            },
+            {
+              "chord": "D",
+              "text": "die."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Hallelujah, He is risen!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Death for aye has lost his sting;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Christ, Himself the Resurrection,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "From the grave “His own” will bring:"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He is risen, He is risen,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Living Lord and coming King."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Praise of the Lord",
+    "time": "3/4",
+    "hymn_code": "555323151124323",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/105",
+        "language": "en",
+        "category": "ch",
+        "number": "105",
+        "title": "C105"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Hallelujah,\"He isrisen!\"",
+    "Jesusis goneup onhigh!",
+    "Burst thebars ofdeath asunder;",
+    "Angelsshout, andmen reply:",
+    "He isrisen,He isrisen,",
+    "Livingnow, nomore todie.",
+    "He isrisen,He",
+    "isrisen,Livingnow, no",
+    "more todie.",
+    "Hallelujah, He is risen!",
+    "Death for aye has lost his sting;",
+    "Christ, Himself the Resurrection,",
+    "From the grave “His own” will bring:",
+    "He is risen, He is risen,",
+    "Living Lord and coming King."
+  ]
+}

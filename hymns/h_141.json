@@ -1,0 +1,270 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/141",
+  "title": "Jesus, Thy head, once crown’d with thorns",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Jesus,"
+            },
+            {
+              "chord": "",
+              "text": "Thy head, once"
+            },
+            {
+              "chord": "C",
+              "text": "crown'd with"
+            },
+            {
+              "chord": "",
+              "text": "thorns,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Is"
+            },
+            {
+              "chord": "G",
+              "text": "crown'd with"
+            },
+            {
+              "chord": "",
+              "text": "glory"
+            },
+            {
+              "chord": "D7",
+              "text": "now;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Heaven's"
+            },
+            {
+              "chord": "G",
+              "text": "royal"
+            },
+            {
+              "chord": "G7",
+              "text": "dia"
+            },
+            {
+              "chord": "C",
+              "text": "dem adorns"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The"
+            },
+            {
+              "chord": "G",
+              "text": "mighty"
+            },
+            {
+              "chord": "D7",
+              "text": "Victor's"
+            },
+            {
+              "chord": "G",
+              "text": "brow."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thou glorious light of courts above,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Joy of the saints below,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "To us still manifest Thy love,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "That we its depths may know."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "To us Thy cross with all its shame,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "With all its grace be giv’n;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Though earth disowns Thy lowly name,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "God honors it in heav’n."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Who suffer with Thee, Lord, today,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Shall also with Thee reign:"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Then let it be our joy to pay"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The Price, this goal attain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "To us Thy cross is life and health;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "’Twas shame and death to Thee;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Our present glory, joy and wealth,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Our everlasting stay."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Praise of the Lord",
+    "time": "3/4",
+    "hymn_code": "3455132161655132",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/118",
+        "language": "en",
+        "category": "ch",
+        "number": "118",
+        "title": "C118"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Jesus,Thy head, oncecrown'd withthorns,",
+    "Iscrown'd withglorynow;",
+    "Heaven'sroyaldiadem adorns",
+    "ThemightyVictor'sbrow.",
+    "Thou glorious light of courts above,",
+    "Joy of the saints below,",
+    "To us still manifest Thy love,",
+    "That we its depths may know.",
+    "To us Thy cross with all its shame,",
+    "With all its grace be giv’n;",
+    "Though earth disowns Thy lowly name,",
+    "God honors it in heav’n.",
+    "Who suffer with Thee, Lord, today,",
+    "Shall also with Thee reign:",
+    "Then let it be our joy to pay",
+    "The Price, this goal attain.",
+    "To us Thy cross is life and health;",
+    "’Twas shame and death to Thee;",
+    "Our present glory, joy and wealth,",
+    "Our everlasting stay."
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/1334",
+  "title": "Thou hast turned my mourning into dancing for me",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Thou hast"
+            },
+            {
+              "chord": "",
+              "text": "turned my mourning into dancing for me;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thou hast put off my sack"
+            },
+            {
+              "chord": "Am",
+              "text": "cloth;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Thou hast"
+            },
+            {
+              "chord": "",
+              "text": "turned my mourning into dancing for me,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And girded me with"
+            },
+            {
+              "chord": "G",
+              "text": "gladness;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "To the end my glory may sing praise unto Thee,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And"
+            },
+            {
+              "chord": "G7",
+              "text": "not be"
+            },
+            {
+              "chord": "C",
+              "text": "silent."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "O Lord my"
+            },
+            {
+              "chord": "G",
+              "text": "God,"
+            },
+            {
+              "chord": "Em",
+              "text": "I will"
+            },
+            {
+              "chord": "",
+              "text": "give"
+            },
+            {
+              "chord": "Am",
+              "text": "thanks unto"
+            },
+            {
+              "chord": "",
+              "text": "Thee for"
+            },
+            {
+              "chord": "D7",
+              "text": "ev"
+            },
+            {
+              "chord": "G",
+              "text": "er."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Scriptures for Singing",
+    "time": "4/4",
+    "hymn_code": "344534451121",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ts/5",
+        "language": "en",
+        "category": "ts",
+        "number": "5",
+        "title": "Cs5"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Thou hastturned my mourning into dancing for me;",
+    "Thou hast put off my sackcloth;",
+    "Thou hastturned my mourning into dancing for me,",
+    "And girded me withgladness;",
+    "To the end my glory may sing praise unto Thee,",
+    "Andnot besilent.",
+    "O Lord myGod,I willgivethanks untoThee forever."
+  ]
+}

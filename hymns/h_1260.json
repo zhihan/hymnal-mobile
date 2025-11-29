@@ -1,0 +1,186 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/1260",
+  "title": "We’re in the local church",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "We're in"
+            },
+            {
+              "chord": "",
+              "text": "the"
+            },
+            {
+              "chord": "Am",
+              "text": "local"
+            },
+            {
+              "chord": "",
+              "text": "church,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "God's"
+            },
+            {
+              "chord": "G",
+              "text": "chosen"
+            },
+            {
+              "chord": "C",
+              "text": "ground;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "F",
+              "text": "Here we"
+            },
+            {
+              "chord": "",
+              "text": "have"
+            },
+            {
+              "chord": "C",
+              "text": "Christ as"
+            },
+            {
+              "chord": "",
+              "text": "life"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And"
+            },
+            {
+              "chord": "D",
+              "text": "blessings"
+            },
+            {
+              "chord": "",
+              "text": "all"
+            },
+            {
+              "chord": "D7",
+              "text": "a"
+            },
+            {
+              "chord": "G7",
+              "text": "bound."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "\"In spirit,"
+            },
+            {
+              "chord": "Am",
+              "text": "on the"
+            },
+            {
+              "chord": "",
+              "text": "ground\""
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "Our"
+            },
+            {
+              "chord": "G",
+              "text": "battle"
+            },
+            {
+              "chord": "C",
+              "text": "cry;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "F",
+              "text": "And we"
+            },
+            {
+              "chord": "",
+              "text": "will"
+            },
+            {
+              "chord": "C",
+              "text": "overcome"
+            },
+            {
+              "chord": "",
+              "text": "the enemy"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "To"
+            },
+            {
+              "chord": "G",
+              "text": "bring the"
+            },
+            {
+              "chord": "G7",
+              "text": "kingdom"
+            },
+            {
+              "chord": "C",
+              "text": "nigh."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "The Church",
+    "time": "4/4",
+    "hymn_code": "1356361251",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ts/516",
+        "language": "en",
+        "category": "ts",
+        "number": "516",
+        "title": "Cs516"
+      }
+    ]
+  },
+  "raw_sections": [
+    "We're inthelocalchurch,",
+    "God'schosenground;",
+    "Here wehaveChrist aslife",
+    "Andblessingsallabound.",
+    "\"In spirit,on theground\"",
+    "Ourbattlecry;",
+    "And wewillovercomethe enemy",
+    "Tobring thekingdomnigh."
+  ]
+}

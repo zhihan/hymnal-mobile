@@ -1,0 +1,234 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/h/7",
+  "title": "Glory, glory to the Father",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Glory,"
+            },
+            {
+              "chord": "",
+              "text": "glory to the"
+            },
+            {
+              "chord": "Em",
+              "text": "Father!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "Glory,"
+            },
+            {
+              "chord": "",
+              "text": "glory to the"
+            },
+            {
+              "chord": "D",
+              "text": "Son!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Glory, glory to the"
+            },
+            {
+              "chord": "G",
+              "text": "Spirit!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Glory"
+            },
+            {
+              "chord": "",
+              "text": "to the"
+            },
+            {
+              "chord": "A",
+              "text": "Three"
+            },
+            {
+              "chord": "A7",
+              "text": "in"
+            },
+            {
+              "chord": "D",
+              "text": "One!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Let us praise Him! Let us praise Him!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Praise our God, the Three in"
+            },
+            {
+              "chord": "A",
+              "text": "One!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Give Him"
+            },
+            {
+              "chord": "",
+              "text": "glory; give Him glory!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Wondrous things for us our"
+            },
+            {
+              "chord": "A",
+              "text": "God hath"
+            },
+            {
+              "chord": "D",
+              "text": "done."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Praise the Father who has purposed!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Praise the Son who all has done!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Praise the Spirit who transmitteth!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Praise the Three who work as one!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Let us praise Him! Let us praise Him!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Praise our God, the Three in One!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Give Him glory; give Him glory!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Wondrous things for us our God hath done."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Blessing of the Trinity",
+    "time": "4/4",
+    "hymn_code": "334321444254323",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/3",
+        "language": "en",
+        "category": "ch",
+        "number": "3",
+        "title": "C3"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Glory,glory to theFather!",
+    "Glory,glory to theSon!",
+    "Glory, glory to theSpirit!",
+    "Gloryto theThreeinOne!",
+    "Let us praise Him! Let us praise Him!",
+    "Praise our God, the Three inOne!",
+    "Give Himglory; give Him glory!",
+    "Wondrous things for us ourGod hathdone.",
+    "Praise the Father who has purposed!",
+    "Praise the Son who all has done!",
+    "Praise the Spirit who transmitteth!",
+    "Praise the Three who work as one!",
+    "Let us praise Him! Let us praise Him!",
+    "Praise our God, the Three in One!",
+    "Give Him glory; give Him glory!",
+    "Wondrous things for us our God hath done."
+  ]
+}
