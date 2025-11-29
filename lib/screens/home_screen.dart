@@ -14,6 +14,29 @@ class _HomeScreenState extends State<HomeScreen> {
   final _formKey = GlobalKey<FormState>();
   bool _isLoading = false;
   String? _errorMessage;
+  Map<String, String> _categories = {};
+  String _selectedCategory = 'ts'; // Default to 'ts' (补充本)
+
+  @override
+  void initState() {
+    super.initState();
+    _loadCategories();
+  }
+
+  Future<void> _loadCategories() async {
+    try {
+      final categories = await HymnLoaderService.getCategories();
+      setState(() {
+        _categories = categories;
+        // Set default category if 'ts' exists, otherwise use first available
+        if (!categories.containsKey(_selectedCategory) && categories.isNotEmpty) {
+          _selectedCategory = categories.keys.first;
+        }
+      });
+    } catch (e) {
+      // If categories fail to load, keep default
+    }
+  }
 
   @override
   void dispose() {
@@ -32,7 +55,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
       try {
         // Try to load the hymn to verify it exists
-        await HymnLoaderService.loadHymnByNumber(hymnNumber);
+        await HymnLoaderService.loadHymnByNumber(_selectedCategory, hymnNumber);
 
         // If successful, navigate to detail screen
         if (mounted) {
@@ -45,6 +68,7 @@ class _HomeScreenState extends State<HomeScreen> {
             MaterialPageRoute(
               builder: (context) => HymnDetailScreen(
                 initialHymnNumber: hymnNumber,
+                category: _selectedCategory,
               ),
             ),
           );
@@ -63,10 +87,12 @@ class _HomeScreenState extends State<HomeScreen> {
 
   @override
   Widget build(BuildContext context) {
+    final categoryDisplayName = _categories[_selectedCategory] ?? '补充本';
+
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-        title: const Text('补充本'),
+        title: Text(categoryDisplayName),
         centerTitle: true,
       ),
       body: Center(
@@ -81,14 +107,46 @@ class _HomeScreenState extends State<HomeScreen> {
                 color: Colors.blue,
               ),
               const SizedBox(height: 32),
-              const Text(
-                '补充本',
-                style: TextStyle(
+              Text(
+                categoryDisplayName,
+                style: const TextStyle(
                   fontSize: 32,
                   fontWeight: FontWeight.bold,
                 ),
               ),
               const SizedBox(height: 48),
+              // Category selector
+              if (_categories.isNotEmpty)
+                Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
+                  decoration: BoxDecoration(
+                    border: Border.all(color: Colors.grey),
+                    borderRadius: BorderRadius.circular(8),
+                  ),
+                  child: DropdownButton<String>(
+                    value: _selectedCategory,
+                    isExpanded: true,
+                    underline: const SizedBox(),
+                    items: _categories.entries.map((entry) {
+                      return DropdownMenuItem<String>(
+                        value: entry.key,
+                        child: Text(
+                          entry.value,
+                          style: const TextStyle(fontSize: 16),
+                        ),
+                      );
+                    }).toList(),
+                    onChanged: (String? newValue) {
+                      if (newValue != null) {
+                        setState(() {
+                          _selectedCategory = newValue;
+                          _errorMessage = null;
+                        });
+                      }
+                    },
+                  ),
+                ),
+              const SizedBox(height: 24),
               Form(
                 key: _formKey,
                 child: Column(

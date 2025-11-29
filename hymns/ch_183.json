@@ -1,0 +1,138 @@
+{
+  "url": "https://www.hymnal.net/cn/hymn/ch/183",
+  "title": "咒诅祂受祝福我享",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "咒 詛"
+            },
+            {
+              "chord": "",
+              "text": "祂"
+            },
+            {
+              "chord": "A",
+              "text": "受，"
+            },
+            {
+              "chord": "D",
+              "text": "祝 福"
+            },
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "A",
+              "text": "享；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "苦 杯"
+            },
+            {
+              "chord": "",
+              "text": "祂"
+            },
+            {
+              "chord": "G",
+              "text": "飲，"
+            },
+            {
+              "chord": "D",
+              "text": "愛"
+            },
+            {
+              "chord": "A7",
+              "text": "筵 我"
+            },
+            {
+              "chord": "D",
+              "text": "嘗；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "恩 愛 高"
+            },
+            {
+              "chord": "G",
+              "text": "深，"
+            },
+            {
+              "chord": "D",
+              "text": "誰"
+            },
+            {
+              "chord": "E7",
+              "text": "能 測"
+            },
+            {
+              "chord": "A",
+              "text": "量？"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
+            {
+              "chord": "D",
+              "text": "的 心"
+            },
+            {
+              "chord": "G",
+              "text": "哪，"
+            },
+            {
+              "chord": "D",
+              "text": "應"
+            },
+            {
+              "chord": "A7",
+              "text": "當 歌"
+            },
+            {
+              "chord": "D",
+              "text": "唱！"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "赞美主",
+    "time": "3/4",
+    "hymn_code": "1712353232165121",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/8183",
+        "language": "cn",
+        "category": "h",
+        "number": "8183",
+        "title": "E8183"
+      }
+    ]
+  },
+  "raw_sections": [
+    "咒 詛祂受，祝 福我享；",
+    "苦 杯祂飲，愛筵 我嘗；",
+    "恩 愛 高深，誰能 測量？",
+    "我的 心哪，應當 歌唱！"
+  ]
+}

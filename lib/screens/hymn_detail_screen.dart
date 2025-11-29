@@ -5,10 +5,12 @@ import '../widgets/hymn_display.dart';
 
 class HymnDetailScreen extends StatefulWidget {
   final int initialHymnNumber;
+  final String category;
 
   const HymnDetailScreen({
     super.key,
     required this.initialHymnNumber,
+    required this.category,
   });
 
   @override
@@ -20,6 +22,8 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   bool _isLoading = true;
   String? _error;
   int _currentHymnNumber = 1;
+  String _currentCategory = 'ts';
+  String _categoryDisplayName = '';
   int _transposeOffset = 0;
   bool _showTransposeControls = false;
   bool _showChords = true; // Show chords by default
@@ -30,7 +34,22 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   void initState() {
     super.initState();
     _currentHymnNumber = widget.initialHymnNumber;
+    _currentCategory = widget.category;
+    _loadCategoryDisplayName();
     _loadHymn(_currentHymnNumber);
+  }
+
+  Future<void> _loadCategoryDisplayName() async {
+    try {
+      final categories = await HymnLoaderService.getCategories();
+      setState(() {
+        _categoryDisplayName = categories[_currentCategory] ?? '补充本';
+      });
+    } catch (e) {
+      setState(() {
+        _categoryDisplayName = '补充本';
+      });
+    }
   }
 
   Future<void> _loadHymn(int hymnNumber) async {
@@ -41,7 +60,7 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
 
     try {
       // Load the hymn first
-      final hymn = await HymnLoaderService.loadHymnByNumber(hymnNumber);
+      final hymn = await HymnLoaderService.loadHymnByNumber(_currentCategory, hymnNumber);
 
       // Then load navigation info (these use cached available numbers)
       // Wrap in try-catch to handle errors gracefully
@@ -49,8 +68,8 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
       int? previousNumber;
 
       try {
-        nextNumber = await HymnLoaderService.getNextHymnNumber(hymnNumber);
-        previousNumber = await HymnLoaderService.getPreviousHymnNumber(hymnNumber);
+        nextNumber = await HymnLoaderService.getNextHymnNumber(_currentCategory, hymnNumber);
+        previousNumber = await HymnLoaderService.getPreviousHymnNumber(_currentCategory, hymnNumber);
       } catch (navError) {
         // If navigation loading fails, we can still show the hymn
         // Just disable the navigation buttons
@@ -96,7 +115,7 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-        title: Text('补充本 $_currentHymnNumber'),
+        title: Text('$_categoryDisplayName $_currentHymnNumber'),
         actions: [
           IconButton(
             icon: const Icon(Icons.arrow_back_ios),

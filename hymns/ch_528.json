@@ -1,0 +1,294 @@
+{
+  "url": "https://www.hymnal.net/cn/hymn/ch/528",
+  "title": "暗过必明亮",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "暗 過"
+            },
+            {
+              "chord": "",
+              "text": "必 明 亮，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "苦 過"
+            },
+            {
+              "chord": "B",
+              "text": "必"
+            },
+            {
+              "chord": "Em",
+              "text": "甜；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "弱 過 必"
+            },
+            {
+              "chord": "A7",
+              "text": "剛 強，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "難 過 必"
+            },
+            {
+              "chord": "D",
+              "text": "安；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "損 過 必 有 益，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "風 過"
+            },
+            {
+              "chord": "G",
+              "text": "必"
+            },
+            {
+              "chord": "D",
+              "text": "靜；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "勞 過"
+            },
+            {
+              "chord": "",
+              "text": "必"
+            },
+            {
+              "chord": "D",
+              "text": "安 息，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "雨 過"
+            },
+            {
+              "chord": "",
+              "text": "必"
+            },
+            {
+              "chord": "D",
+              "text": "晴。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "压过必高升，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "忧过必乐；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "死过必复生，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "失过必得；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "累过必轻松，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "困过必苏；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "迫过必从容，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "贫过必富。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "荡过必安居，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "孤过有伴，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "与主再无距，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "直到相见，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "十架变冠冕，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "叹息变赞，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "信望变眼见，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "再无疑难。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "试炼中的安慰",
+    "time": "3/4",
+    "hymn_code": "5345456354",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/727",
+        "language": "cn",
+        "category": "h",
+        "number": "727",
+        "title": "E727"
+      }
+    ]
+  },
+  "raw_sections": [
+    "暗 過必 明 亮，",
+    "苦 過必甜；",
+    "弱 過 必剛 強，",
+    "難 過 必安；",
+    "損 過 必 有 益，",
+    "風 過必靜；",
+    "勞 過必安 息，",
+    "雨 過必晴。",
+    "压过必高升，",
+    "忧过必乐；",
+    "死过必复生，",
+    "失过必得；",
+    "累过必轻松，",
+    "困过必苏；",
+    "迫过必从容，",
+    "贫过必富。",
+    "荡过必安居，",
+    "孤过有伴，",
+    "与主再无距，",
+    "直到相见，",
+    "十架变冠冕，",
+    "叹息变赞，",
+    "信望变眼见，",
+    "再无疑难。"
+  ]
+}

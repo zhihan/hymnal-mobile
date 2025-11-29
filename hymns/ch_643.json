@@ -1,0 +1,185 @@
+{
+  "url": "https://www.hymnal.net/cn/hymn/ch/643",
+  "title": "得胜得胜阿利路亚",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "得 勝、"
+            },
+            {
+              "chord": "",
+              "text": "得 勝， 阿 利 路"
+            },
+            {
+              "chord": "G7",
+              "text": "亞！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "得 勝、"
+            },
+            {
+              "chord": "",
+              "text": "得 勝， 阿 利"
+            },
+            {
+              "chord": "G",
+              "text": "路 亞！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "得 勝、 得 勝， 阿 利"
+            },
+            {
+              "chord": "B7",
+              "text": "路"
+            },
+            {
+              "chord": "Em",
+              "text": "亞！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "基"
+            },
+            {
+              "chord": "Am",
+              "text": "督 已"
+            },
+            {
+              "chord": "D7",
+              "text": "經 得"
+            },
+            {
+              "chord": "G",
+              "text": "勝！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "得胜、得胜，阿利路亚！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "得胜、得胜，阿利路亚！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "得胜、得胜，阿利路亚！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "基督使我得胜！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀、荣耀，阿利路亚！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀、荣耀，阿利路亚！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀、荣耀，阿利路亚！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "荣耀归于主名！"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "属灵的争战",
+    "time": "4/4",
+    "hymn_code": "555554351233321",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ch/693",
+        "language": "cn",
+        "category": "ch",
+        "number": "693",
+        "title": "C693*"
+      },
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/1017",
+        "language": "cn",
+        "category": "h",
+        "number": "1017",
+        "title": "E1017"
+      }
+    ]
+  },
+  "raw_sections": [
+    "得 勝、得 勝， 阿 利 路亞！",
+    "得 勝、得 勝， 阿 利路 亞！",
+    "得 勝、 得 勝， 阿 利路亞！",
+    "基督 已經 得勝！",
+    "得胜、得胜，阿利路亚！",
+    "得胜、得胜，阿利路亚！",
+    "得胜、得胜，阿利路亚！",
+    "基督使我得胜！",
+    "荣耀、荣耀，阿利路亚！",
+    "荣耀、荣耀，阿利路亚！",
+    "荣耀、荣耀，阿利路亚！",
+    "荣耀归于主名！"
+  ]
+}

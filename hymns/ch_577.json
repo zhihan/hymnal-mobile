@@ -1,0 +1,170 @@
+{
+  "url": "https://www.hymnal.net/cn/hymn/ch/577",
+  "title": "主给这个地方",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "主 給"
+            },
+            {
+              "chord": "E7",
+              "text": "這 個"
+            },
+            {
+              "chord": "A",
+              "text": "地"
+            },
+            {
+              "chord": "A7",
+              "text": "方，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "給 這"
+            },
+            {
+              "chord": "G",
+              "text": "個 地"
+            },
+            {
+              "chord": "D",
+              "text": "方，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "將 一"
+            },
+            {
+              "chord": "E7",
+              "text": "個 大"
+            },
+            {
+              "chord": "A",
+              "text": "復 興，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "給 這"
+            },
+            {
+              "chord": "E7",
+              "text": "個 地"
+            },
+            {
+              "chord": "A",
+              "text": "方。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "除 去"
+            },
+            {
+              "chord": "B7",
+              "text": "所 有"
+            },
+            {
+              "chord": "Em",
+              "text": "阻 擋，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "使 我"
+            },
+            {
+              "chord": "B7",
+              "text": "靈 高"
+            },
+            {
+              "chord": "Em",
+              "text": "昂，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "好 叫"
+            },
+            {
+              "chord": "",
+              "text": "我 運"
+            },
+            {
+              "chord": "D",
+              "text": "生"
+            },
+            {
+              "chord": "Bm",
+              "text": "命"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "來 醫"
+            },
+            {
+              "chord": "A7",
+              "text": "治 人"
+            },
+            {
+              "chord": "D",
+              "text": "傷。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "祷告",
+    "time": "4/4",
+    "hymn_code": "33261711765",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/8577",
+        "language": "cn",
+        "category": "h",
+        "number": "8577",
+        "title": "E8577"
+      }
+    ]
+  },
+  "raw_sections": [
+    "主 給這 個地方，",
+    "給 這個 地方，",
+    "將 一個 大復 興，",
+    "給 這個 地方。",
+    "除 去所 有阻 擋，",
+    "使 我靈 高昂，",
+    "好 叫我 運生命",
+    "來 醫治 人傷。"
+  ]
+}

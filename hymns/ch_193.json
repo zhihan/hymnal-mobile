@@ -1,0 +1,119 @@
+{
+  "url": "https://www.hymnal.net/cn/hymn/ch/193",
+  "title": "但愿尊贵荣耀丰富",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "但 願"
+            },
+            {
+              "chord": "",
+              "text": "尊 貴、 榮 耀、 豐 富，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "歸 給"
+            },
+            {
+              "chord": "D",
+              "text": "羔 羊"
+            },
+            {
+              "chord": "A7",
+              "text": "直 到"
+            },
+            {
+              "chord": "D",
+              "text": "永 古！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "耶 穌"
+            },
+            {
+              "chord": "E7",
+              "text": "基 督"
+            },
+            {
+              "chord": "A",
+              "text": "是 我"
+            },
+            {
+              "chord": "",
+              "text": "救 主！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿 利 路 亞！ 阿 利"
+            },
+            {
+              "chord": "D",
+              "text": "路 亞！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "阿 利"
+            },
+            {
+              "chord": "Em",
+              "text": "路 亞！"
+            },
+            {
+              "chord": "D",
+              "text": "讚"
+            },
+            {
+              "chord": "A7",
+              "text": "美"
+            },
+            {
+              "chord": "D",
+              "text": "主！"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "赞美主",
+    "time": "4/4",
+    "hymn_code": "1231345364534231",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/240",
+        "language": "cn",
+        "category": "h",
+        "number": "240",
+        "title": "E240"
+      }
+    ]
+  },
+  "raw_sections": [
+    "但 願尊 貴、 榮 耀、 豐 富，",
+    "歸 給羔 羊直 到永 古！",
+    "耶 穌基 督是 我救 主！",
+    "阿 利 路 亞！ 阿 利路 亞！",
+    "阿 利路 亞！讚美主！"
+  ]
+}

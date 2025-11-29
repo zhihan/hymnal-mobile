@@ -3,8 +3,9 @@ import 'package:flutter/services.dart';
 import '../models/hymn_song.dart';
 
 class HymnLoaderService {
-  // Cache for available hymn numbers to avoid repeated manifest parsing
-  static List<int>? _cachedAvailableNumbers;
+  // Cache for available hymn numbers by category
+  static Map<String, List<int>>? _cachedAvailableNumbers;
+  static Map<String, String>? _cachedCategoryDisplayNames;
 
   /// Load a hymn from a JSON file in the assets
   static Future<HymnSong> loadHymn(String fileName) async {
@@ -17,17 +18,40 @@ class HymnLoaderService {
     }
   }
 
-  /// Load a hymn by number (e.g., 1 loads ts_1.json)
-  static Future<HymnSong> loadHymnByNumber(int number) async {
-    return loadHymn('ts_$number.json');
+  /// Load a hymn by category and number (e.g., 'ts', 1 loads ts_1.json)
+  static Future<HymnSong> loadHymnByNumber(String category, int number) async {
+    return loadHymn('${category}_$number.json');
   }
 
-  /// Get list of available hymn numbers from the available_hymns.json file
-  /// When moving to online sources, replace this with an API call.
-  static Future<List<int>> getAvailableHymnNumbers() async {
+  /// Get all available categories with their display names
+  static Future<Map<String, String>> getCategories() async {
+    if (_cachedCategoryDisplayNames != null) {
+      return _cachedCategoryDisplayNames!;
+    }
+
+    try {
+      final String jsonString = await rootBundle.loadString('hymns/available_hymns.json');
+      final Map<String, dynamic> jsonData = json.decode(jsonString);
+      final Map<String, dynamic> categories = jsonData['categories'];
+
+      final Map<String, String> result = {};
+      categories.forEach((key, value) {
+        result[key] = value['displayName'] as String;
+      });
+
+      _cachedCategoryDisplayNames = result;
+      return result;
+    } catch (e) {
+      throw Exception('Failed to load categories: $e');
+    }
+  }
+
+  /// Get list of available hymn numbers for a specific category
+  static Future<List<int>> getAvailableHymnNumbers(String category) async {
     // Return cached list if available
-    if (_cachedAvailableNumbers != null) {
-      return _cachedAvailableNumbers!;
+    if (_cachedAvailableNumbers != null &&
+        _cachedAvailableNumbers!.containsKey(category)) {
+      return _cachedAvailableNumbers![category]!;
     }
 
     try {
@@ -35,23 +59,29 @@ class HymnLoaderService {
       final String jsonString = await rootBundle.loadString('hymns/available_hymns.json');
       final Map<String, dynamic> jsonData = json.decode(jsonString);
 
-      // Extract the array of hymn numbers
-      final List<dynamic> numbersJson = jsonData['availableHymnNumbers'];
+      // Extract the array of hymn numbers for this category
+      final Map<String, dynamic> categories = jsonData['categories'];
+      if (!categories.containsKey(category)) {
+        throw Exception('Category $category not found');
+      }
+
+      final List<dynamic> numbersJson = categories[category]['availableNumbers'];
       final hymnNumbers = numbersJson.cast<int>();
 
       // Cache the result
-      _cachedAvailableNumbers = hymnNumbers;
+      _cachedAvailableNumbers ??= {};
+      _cachedAvailableNumbers![category] = hymnNumbers;
 
       return hymnNumbers;
     } catch (e) {
-      throw Exception('Failed to load available hymn numbers: $e');
+      throw Exception('Failed to load available hymn numbers for $category: $e');
     }
   }
 
-  /// Get the next available hymn number after the given number
+  /// Get the next available hymn number after the given number in a category
   /// Returns null if there is no next hymn
-  static Future<int?> getNextHymnNumber(int currentNumber) async {
-    final availableNumbers = await getAvailableHymnNumbers();
+  static Future<int?> getNextHymnNumber(String category, int currentNumber) async {
+    final availableNumbers = await getAvailableHymnNumbers(category);
 
     for (final number in availableNumbers) {
       if (number > currentNumber) {
@@ -62,10 +92,10 @@ class HymnLoaderService {
     return null; // No next hymn
   }
 
-  /// Get the previous available hymn number before the given number
+  /// Get the previous available hymn number before the given number in a category
   /// Returns null if there is no previous hymn
-  static Future<int?> getPreviousHymnNumber(int currentNumber) async {
-    final availableNumbers = await getAvailableHymnNumbers();
+  static Future<int?> getPreviousHymnNumber(String category, int currentNumber) async {
+    final availableNumbers = await getAvailableHymnNumbers(category);
 
     // Iterate in reverse to find the first number less than current
     for (int i = availableNumbers.length - 1; i >= 0; i--) {
@@ -80,5 +110,6 @@ class HymnLoaderService {
   /// Clear the cache (useful when hymn database is updated)
   static void clearCache() {
     _cachedAvailableNumbers = null;
+    _cachedCategoryDisplayNames = null;
   }
 }

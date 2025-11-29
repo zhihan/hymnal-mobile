@@ -1,0 +1,190 @@
+{
+  "url": "https://www.hymnal.net/cn/hymn/ch/392",
+  "title": "祂是一切最亲",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "祂"
+            },
+            {
+              "chord": "Bm",
+              "text": "是 一"
+            },
+            {
+              "chord": "Em",
+              "text": "切 最"
+            },
+            {
+              "chord": "A7",
+              "text": "親－"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "我"
+            },
+            {
+              "chord": "Bm",
+              "text": "所 一"
+            },
+            {
+              "chord": "A7",
+              "text": "切 最"
+            },
+            {
+              "chord": "D7",
+              "text": "愛；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "人"
+            },
+            {
+              "chord": "Em",
+              "text": "生 平"
+            },
+            {
+              "chord": "F♯m",
+              "text": "常 所"
+            },
+            {
+              "chord": "Bm",
+              "text": "尋，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "人"
+            },
+            {
+              "chord": "G",
+              "text": "生 終"
+            },
+            {
+              "chord": "A7",
+              "text": "久 所"
+            },
+            {
+              "chord": "D",
+              "text": "賴。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "缺乏之时豫备，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "无倚之时扶持，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "所有美时，最美，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "无论何时，信实。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "无穷喜乐，原因，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "年日移换，不改；"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "祂是一切最亲－"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我所一切最爱。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "经历基督",
+    "time": "4/4",
+    "hymn_code": "531324323135543",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/8392",
+        "language": "cn",
+        "category": "h",
+        "number": "8392",
+        "title": "E8392"
+      }
+    ]
+  },
+  "raw_sections": [
+    "祂是 一切 最親－",
+    "我所 一切 最愛；",
+    "人生 平常 所尋，",
+    "人生 終久 所賴。",
+    "缺乏之时豫备，",
+    "无倚之时扶持，",
+    "所有美时，最美，",
+    "无论何时，信实。",
+    "无穷喜乐，原因，",
+    "年日移换，不改；",
+    "祂是一切最亲－",
+    "我所一切最爱。"
+  ]
+}

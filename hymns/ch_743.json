@@ -1,0 +1,202 @@
+{
+  "url": "https://www.hymnal.net/cn/hymn/ch/743",
+  "title": "已经死了已经葬了",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "已 經"
+            },
+            {
+              "chord": "",
+              "text": "死 了！ 已"
+            },
+            {
+              "chord": "D",
+              "text": "經 葬"
+            },
+            {
+              "chord": "A",
+              "text": "了！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "從 今"
+            },
+            {
+              "chord": "D",
+              "text": "以 後"
+            },
+            {
+              "chord": "",
+              "text": "我 完"
+            },
+            {
+              "chord": "E",
+              "text": "全 了"
+            },
+            {
+              "chord": "E7",
+              "text": "了！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "已 經"
+            },
+            {
+              "chord": "",
+              "text": "死 了！ 已"
+            },
+            {
+              "chord": "D",
+              "text": "經 葬"
+            },
+            {
+              "chord": "A",
+              "text": "了！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "從 今"
+            },
+            {
+              "chord": "D",
+              "text": "以 後"
+            },
+            {
+              "chord": "",
+              "text": "我 完"
+            },
+            {
+              "chord": "E",
+              "text": "全"
+            },
+            {
+              "chord": "E7",
+              "text": "了"
+            },
+            {
+              "chord": "A",
+              "text": "了！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "完全了了！完全了了！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "从今以后我完全了了！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "完全了了！完全了了！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "从今以后我完全了了！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不再是我！不再是我！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃是基督在我里面活！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "不再是我！不再是我！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "乃是基督在我里面活！"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "受浸",
+    "time": "4/4",
+    "hymn_code": "53513165561216522",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/938",
+        "language": "cn",
+        "category": "h",
+        "number": "938",
+        "title": "E938"
+      }
+    ]
+  },
+  "raw_sections": [
+    "已 經死 了！ 已經 葬了！",
+    "從 今以 後我 完全 了了！",
+    "已 經死 了！ 已經 葬了！",
+    "從 今以 後我 完全了了！",
+    "完全了了！完全了了！",
+    "从今以后我完全了了！",
+    "完全了了！完全了了！",
+    "从今以后我完全了了！",
+    "不再是我！不再是我！",
+    "乃是基督在我里面活！",
+    "不再是我！不再是我！",
+    "乃是基督在我里面活！"
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "url": "https://www.hymnal.net/cn/hymn/ch/683",
+  "title": "耶稣爱我从天降临",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "耶 穌"
+            },
+            {
+              "chord": "",
+              "text": "愛 我， 從 天 降 臨，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "E",
+              "text": "甘 心"
+            },
+            {
+              "chord": "",
+              "text": "虛"
+            },
+            {
+              "chord": "E7",
+              "text": "己， 成"
+            },
+            {
+              "chord": "",
+              "text": "為"
+            },
+            {
+              "chord": "A",
+              "text": "肉 身。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "受 盡 譏 誚、 鞭 打、 辱 罵，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "E",
+              "text": "至 終"
+            },
+            {
+              "chord": "",
+              "text": "被"
+            },
+            {
+              "chord": "E7",
+              "text": "釘 十"
+            },
+            {
+              "chord": "",
+              "text": "字"
+            },
+            {
+              "chord": "A",
+              "text": "苦 架。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶 穌 死 是 為"
+            },
+            {
+              "chord": "D",
+              "text": "我，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "耶"
+            },
+            {
+              "chord": "A",
+              "text": "穌 死"
+            },
+            {
+              "chord": "",
+              "text": "是 為"
+            },
+            {
+              "chord": "E7",
+              "text": "我，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "為"
+            },
+            {
+              "chord": "A",
+              "text": "我， 為"
+            },
+            {
+              "chord": "",
+              "text": "我， 為"
+            },
+            {
+              "chord": "D",
+              "text": "我，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "為"
+            },
+            {
+              "chord": "B7",
+              "text": "我， 耶"
+            },
+            {
+              "chord": "E",
+              "text": "穌 死"
+            },
+            {
+              "chord": "E7",
+              "text": "是 為"
+            },
+            {
+              "chord": "A",
+              "text": "我。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "福音",
+    "time": "6/8",
+    "hymn_code": "5653513132267651",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/h/998",
+        "language": "cn",
+        "category": "h",
+        "number": "998",
+        "title": "E998"
+      }
+    ]
+  },
+  "raw_sections": [
+    "耶 穌愛 我， 從 天 降 臨，",
+    "甘 心虛己， 成為肉 身。",
+    "受 盡 譏 誚、 鞭 打、 辱 罵，",
+    "至 終被釘 十字苦 架。",
+    "耶 穌 死 是 為我，",
+    "耶穌 死是 為我，",
+    "為我， 為我， 為我，",
+    "為我， 耶穌 死是 為我。"
+  ]
+}
