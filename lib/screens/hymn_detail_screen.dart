@@ -21,6 +21,7 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   String? _error;
   int _currentHymnNumber = 1;
   int _transposeOffset = 0;
+  bool _showTransposeControls = false;
 
   @override
   void initState() {
@@ -74,7 +75,7 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-        title: Text(_currentHymn?.title ?? '补充本'),
+        title: Text('补充本 $_currentHymnNumber'),
         actions: [
           IconButton(
             icon: const Icon(Icons.arrow_back_ios),
@@ -82,21 +83,20 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
                 ? () => _loadHymn(_currentHymnNumber - 1)
                 : null,
           ),
-          Center(
-            child: Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 8.0),
-              child: Text(
-                '补充本 $_currentHymnNumber',
-                style: const TextStyle(
-                  fontSize: 16,
-                  fontWeight: FontWeight.bold,
-                ),
-              ),
-            ),
-          ),
           IconButton(
             icon: const Icon(Icons.arrow_forward_ios),
             onPressed: () => _loadHymn(_currentHymnNumber + 1),
+          ),
+          IconButton(
+            icon: Icon(_showTransposeControls
+                ? Icons.expand_less
+                : Icons.expand_more),
+            onPressed: () {
+              setState(() {
+                _showTransposeControls = !_showTransposeControls;
+              });
+            },
+            tooltip: 'Toggle transpose controls',
           ),
         ],
       ),
@@ -155,67 +155,68 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
 
     return Column(
       children: [
-        // Transpose controls
-        Container(
-          padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 8.0),
-          decoration: BoxDecoration(
-            color: Colors.grey[100],
-            border: Border(
-              bottom: BorderSide(color: Colors.grey[300]!, width: 1),
+        // Transpose controls (collapsible)
+        if (_showTransposeControls)
+          Container(
+            padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 8.0),
+            decoration: BoxDecoration(
+              color: Colors.grey[100],
+              border: Border(
+                bottom: BorderSide(color: Colors.grey[300]!, width: 1),
+              ),
             ),
-          ),
-          child: Row(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              const Text(
-                'Transpose:',
-                style: TextStyle(
-                  fontSize: 14,
-                  fontWeight: FontWeight.w500,
-                ),
-              ),
-              const SizedBox(width: 12),
-              // Transpose down button
-              IconButton(
-                icon: const Icon(Icons.remove_circle_outline),
-                onPressed: _transposeDown,
-                tooltip: 'Transpose down',
-                iconSize: 28,
-              ),
-              // Current transpose offset display
-              Container(
-                padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
-                decoration: BoxDecoration(
-                  color: Colors.white,
-                  borderRadius: BorderRadius.circular(4),
-                  border: Border.all(color: Colors.grey[400]!),
-                ),
-                child: Text(
-                  _transposeOffset > 0
-                      ? '+$_transposeOffset'
-                      : _transposeOffset.toString(),
-                  style: const TextStyle(
-                    fontSize: 16,
-                    fontWeight: FontWeight.bold,
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                const Text(
+                  'Transpose:',
+                  style: TextStyle(
+                    fontSize: 14,
+                    fontWeight: FontWeight.w500,
                   ),
                 ),
-              ),
-              // Transpose up button
-              IconButton(
-                icon: const Icon(Icons.add_circle_outline),
-                onPressed: _transposeUp,
-                tooltip: 'Transpose up',
-                iconSize: 28,
-              ),
-              const SizedBox(width: 8),
-              // Reset button
-              TextButton(
-                onPressed: _transposeOffset != 0 ? _resetTranspose : null,
-                child: const Text('Reset'),
-              ),
-            ],
+                const SizedBox(width: 12),
+                // Transpose down button
+                IconButton(
+                  icon: const Icon(Icons.remove_circle_outline),
+                  onPressed: _transposeDown,
+                  tooltip: 'Transpose down',
+                  iconSize: 28,
+                ),
+                // Current transpose offset display
+                Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    borderRadius: BorderRadius.circular(4),
+                    border: Border.all(color: Colors.grey[400]!),
+                  ),
+                  child: Text(
+                    _transposeOffset > 0
+                        ? '+$_transposeOffset'
+                        : _transposeOffset.toString(),
+                    style: const TextStyle(
+                      fontSize: 16,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                ),
+                // Transpose up button
+                IconButton(
+                  icon: const Icon(Icons.add_circle_outline),
+                  onPressed: _transposeUp,
+                  tooltip: 'Transpose up',
+                  iconSize: 28,
+                ),
+                const SizedBox(width: 8),
+                // Reset button
+                TextButton(
+                  onPressed: _transposeOffset != 0 ? _resetTranspose : null,
+                  child: const Text('Reset'),
+                ),
+              ],
+            ),
           ),
-        ),
         // Hymn display
         Expanded(
           child: HymnDisplay(
