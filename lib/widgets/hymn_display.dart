@@ -24,13 +24,19 @@ class HymnDisplay extends StatelessWidget {
     final screenWidth = MediaQuery.of(context).size.width;
     final contentWidth = screenWidth < 632 ? screenWidth : 600.0;
 
-    return SingleChildScrollView(
+    return InteractiveViewer(
+      minScale: 1.0,
+      maxScale: 4.0,
+      boundaryMargin: const EdgeInsets.all(100.0),
+      constrained: false,
+      panAxis: PanAxis.vertical,
       child: Align(
         alignment: Alignment.topCenter,
         child: Container(
           width: contentWidth,
           padding: const EdgeInsets.all(16.0),
           child: Column(
+            mainAxisSize: MainAxisSize.min,
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               // Title
