@@ -22,6 +22,7 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   int _currentHymnNumber = 1;
   int _transposeOffset = 0;
   bool _showTransposeControls = false;
+  bool _showChords = true; // Show chords by default
   int? _nextHymnNumber;
   int? _previousHymnNumber;
 
@@ -196,14 +197,23 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
             child: Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
+                // Chord visibility toggle
                 const Text(
-                  'Transpose:',
+                  'Chords',
                   style: TextStyle(
                     fontSize: 14,
                     fontWeight: FontWeight.w500,
                   ),
                 ),
-                const SizedBox(width: 12),
+                Switch(
+                  value: _showChords,
+                  onChanged: (bool value) {
+                    setState(() {
+                      _showChords = value;
+                    });
+                  },
+                ),
+                const SizedBox(width: 24),
                 // Transpose down button
                 IconButton(
                   icon: const Icon(Icons.remove_circle_outline),
@@ -250,6 +260,7 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
           child: HymnDisplay(
             hymn: _currentHymn!,
             transposeOffset: _transposeOffset,
+            showChords: _showChords,
           ),
         ),
       ],

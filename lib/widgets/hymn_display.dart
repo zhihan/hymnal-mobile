@@ -9,11 +9,13 @@ import '../utils/chord_transposer.dart';
 class HymnDisplay extends StatelessWidget {
   final HymnSong hymn;
   final int transposeOffset;
+  final bool showChords;
 
   const HymnDisplay({
     super.key,
     required this.hymn,
     this.transposeOffset = 0,
+    this.showChords = true,
   });
 
   @override
@@ -62,6 +64,7 @@ class HymnDisplay extends StatelessWidget {
                   verse: verse,
                   verseNumber: hasMultipleVerses ? verseIndex + 1 : null,
                   transposeOffset: transposeOffset,
+                  showChords: showChords,
                 ));
 
                 // Add spacing between verses (except after the last one)
@@ -84,12 +87,14 @@ class VerseDisplay extends StatelessWidget {
   final Verse verse;
   final int? verseNumber;
   final int transposeOffset;
+  final bool showChords;
 
   const VerseDisplay({
     super.key,
     required this.verse,
     this.verseNumber,
     this.transposeOffset = 0,
+    this.showChords = true,
   });
 
   @override
@@ -107,7 +112,7 @@ class VerseDisplay extends StatelessWidget {
           Padding(
             padding: EdgeInsets.only(
               right: 12.0,
-              top: hasAnyChords ? 20.0 : 0.0,
+              top: (hasAnyChords && showChords) ? 20.0 : 0.0,
             ),
             child: SizedBox(
               width: 24,
@@ -130,6 +135,7 @@ class VerseDisplay extends StatelessWidget {
                 .map((line) => LineDisplay(
                       line: line,
                       transposeOffset: transposeOffset,
+                      showChords: showChords,
                     ))
                 .toList(),
           ),
@@ -143,11 +149,13 @@ class VerseDisplay extends StatelessWidget {
 class LineDisplay extends StatelessWidget {
   final Line line;
   final int transposeOffset;
+  final bool showChords;
 
   const LineDisplay({
     super.key,
     required this.line,
     this.transposeOffset = 0,
+    this.showChords = true,
   });
 
   @override
@@ -162,7 +170,7 @@ class LineDisplay extends StatelessWidget {
         children: line.segments.map((segment) {
           return SegmentDisplay(
             segment: segment,
-            showChordSpace: hasAnyChords,
+            showChordSpace: hasAnyChords && showChords,
             transposeOffset: transposeOffset,
           );
         }).toList(),
