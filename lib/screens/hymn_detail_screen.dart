@@ -22,6 +22,8 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   int _currentHymnNumber = 1;
   int _transposeOffset = 0;
   bool _showTransposeControls = false;
+  int? _nextHymnNumber;
+  int? _previousHymnNumber;
 
   @override
   void initState() {
@@ -37,9 +39,17 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     });
 
     try {
-      final hymn = await HymnLoaderService.loadHymnByNumber(hymnNumber);
+      // Load the hymn and navigation info in parallel
+      final results = await Future.wait([
+        HymnLoaderService.loadHymnByNumber(hymnNumber),
+        HymnLoaderService.getNextHymnNumber(hymnNumber),
+        HymnLoaderService.getPreviousHymnNumber(hymnNumber),
+      ]);
+
       setState(() {
-        _currentHymn = hymn;
+        _currentHymn = results[0] as HymnSong;
+        _nextHymnNumber = results[1] as int?;
+        _previousHymnNumber = results[2] as int?;
         _currentHymnNumber = hymnNumber;
         _isLoading = false;
         _transposeOffset = 0; // Reset transpose when loading new hymn
@@ -79,13 +89,21 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
         actions: [
           IconButton(
             icon: const Icon(Icons.arrow_back_ios),
-            onPressed: _currentHymnNumber > 1
-                ? () => _loadHymn(_currentHymnNumber - 1)
+            onPressed: _previousHymnNumber != null
+                ? () => _loadHymn(_previousHymnNumber!)
                 : null,
+            tooltip: _previousHymnNumber != null
+                ? 'Previous hymn ($_previousHymnNumber)'
+                : 'No previous hymn',
           ),
           IconButton(
             icon: const Icon(Icons.arrow_forward_ios),
-            onPressed: () => _loadHymn(_currentHymnNumber + 1),
+            onPressed: _nextHymnNumber != null
+                ? () => _loadHymn(_nextHymnNumber!)
+                : null,
+            tooltip: _nextHymnNumber != null
+                ? 'Next hymn ($_nextHymnNumber)'
+                : 'No next hymn',
           ),
           IconButton(
             icon: Icon(_showTransposeControls
