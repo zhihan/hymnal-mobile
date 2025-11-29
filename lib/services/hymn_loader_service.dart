@@ -22,8 +22,8 @@ class HymnLoaderService {
     return loadHymn('ts_$number.json');
   }
 
-  /// Get list of available hymn numbers by scanning the asset manifest
-  /// This works for local files and can be extended for online sources
+  /// Get list of available hymn numbers from the available_hymns.json file
+  /// When moving to online sources, replace this with an API call.
   static Future<List<int>> getAvailableHymnNumbers() async {
     // Return cached list if available
     if (_cachedAvailableNumbers != null) {
@@ -31,31 +31,19 @@ class HymnLoaderService {
     }
 
     try {
-      // Load the asset manifest
-      final manifestContent = await rootBundle.loadString('AssetManifest.json');
-      final Map<String, dynamic> manifestMap = json.decode(manifestContent);
+      // Load the available hymns JSON file
+      final String jsonString = await rootBundle.loadString('hymns/available_hymns.json');
+      final Map<String, dynamic> jsonData = json.decode(jsonString);
 
-      // Extract hymn numbers from file paths
-      final hymnNumbers = <int>[];
-      final hymnPattern = RegExp(r'hymns/ts_(\d+)\.json');
-
-      for (final String key in manifestMap.keys) {
-        final match = hymnPattern.firstMatch(key);
-        if (match != null) {
-          final number = int.parse(match.group(1)!);
-          hymnNumbers.add(number);
-        }
-      }
-
-      // Sort the numbers
-      hymnNumbers.sort();
+      // Extract the array of hymn numbers
+      final List<dynamic> numbersJson = jsonData['availableHymnNumbers'];
+      final hymnNumbers = numbersJson.cast<int>();
 
       // Cache the result
       _cachedAvailableNumbers = hymnNumbers;
 
       return hymnNumbers;
     } catch (e) {
-      // Fallback: return empty list or throw exception
       throw Exception('Failed to load available hymn numbers: $e');
     }
   }

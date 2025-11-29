@@ -39,17 +39,27 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     });
 
     try {
-      // Load the hymn and navigation info in parallel
-      final results = await Future.wait([
-        HymnLoaderService.loadHymnByNumber(hymnNumber),
-        HymnLoaderService.getNextHymnNumber(hymnNumber),
-        HymnLoaderService.getPreviousHymnNumber(hymnNumber),
-      ]);
+      // Load the hymn first
+      final hymn = await HymnLoaderService.loadHymnByNumber(hymnNumber);
+
+      // Then load navigation info (these use cached available numbers)
+      // Wrap in try-catch to handle errors gracefully
+      int? nextNumber;
+      int? previousNumber;
+
+      try {
+        nextNumber = await HymnLoaderService.getNextHymnNumber(hymnNumber);
+        previousNumber = await HymnLoaderService.getPreviousHymnNumber(hymnNumber);
+      } catch (navError) {
+        // If navigation loading fails, we can still show the hymn
+        // Just disable the navigation buttons
+        // Navigation will be null, buttons will be disabled
+      }
 
       setState(() {
-        _currentHymn = results[0] as HymnSong;
-        _nextHymnNumber = results[1] as int?;
-        _previousHymnNumber = results[2] as int?;
+        _currentHymn = hymn;
+        _nextHymnNumber = nextNumber;
+        _previousHymnNumber = previousNumber;
         _currentHymnNumber = hymnNumber;
         _isLoading = false;
         _transposeOffset = 0; // Reset transpose when loading new hymn
