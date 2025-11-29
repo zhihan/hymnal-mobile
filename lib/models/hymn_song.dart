@@ -1,16 +1,16 @@
-import 'line.dart';
+import 'verse.dart';
 
 class HymnSong {
   final String url;
   final String title;
-  final List<Line> lines;
+  final List<Verse> verses;
   final Map<String, dynamic>? metadata;
   final List<String>? rawSections;
 
   HymnSong({
     required this.url,
     required this.title,
-    required this.lines,
+    required this.verses,
     this.metadata,
     this.rawSections,
   });
@@ -19,8 +19,8 @@ class HymnSong {
     return HymnSong(
       url: json['url'] as String? ?? '',
       title: json['title'] as String? ?? '',
-      lines: (json['lines'] as List<dynamic>?)
-              ?.map((line) => Line.fromJson(line as Map<String, dynamic>))
+      verses: (json['verses'] as List<dynamic>?)
+              ?.map((verse) => Verse.fromJson(verse as Map<String, dynamic>))
               .toList() ??
           [],
       metadata: json['metadata'] as Map<String, dynamic>?,
@@ -34,7 +34,7 @@ class HymnSong {
     return {
       'url': url,
       'title': title,
-      'lines': lines.map((line) => line.toJson()).toList(),
+      'verses': verses.map((verse) => verse.toJson()).toList(),
       if (metadata != null) 'metadata': metadata,
       if (rawSections != null) 'raw_sections': rawSections,
     };

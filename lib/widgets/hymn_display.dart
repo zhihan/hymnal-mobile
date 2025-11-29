@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import '../models/hymn_song.dart';
+import '../models/verse.dart';
 import '../models/line.dart';
 import '../models/segment.dart';
 import '../utils/chord_transposer.dart';
@@ -17,43 +18,123 @@ class HymnDisplay extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final hasMultipleVerses = hymn.verses.length > 1;
+    final screenWidth = MediaQuery.of(context).size.width;
+    final contentWidth = screenWidth < 632 ? screenWidth : 600.0;
+
     return SingleChildScrollView(
-      padding: const EdgeInsets.all(16.0),
-      child: Center(
-        child: ConstrainedBox(
-          constraints: const BoxConstraints(maxWidth: 600),
+      child: Align(
+        alignment: Alignment.topCenter,
+        child: Container(
+          width: contentWidth,
+          padding: const EdgeInsets.all(16.0),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-          // Title
-          Text(
-            hymn.title,
-            style: Theme.of(context).textTheme.headlineMedium?.copyWith(
-                  fontWeight: FontWeight.bold,
+              // Title
+              Text(
+                hymn.title,
+                style: Theme.of(context).textTheme.headlineMedium?.copyWith(
+                      fontWeight: FontWeight.bold,
+                    ),
+              ),
+              const SizedBox(height: 8),
+
+              // Metadata
+              if (hymn.metadata != null) ...[
+                Text(
+                  'Time: ${hymn.metadata!['time'] ?? ''} | Category: ${hymn.metadata!['category'] ?? ''}',
+                  style: Theme.of(context).textTheme.bodySmall?.copyWith(
+                        color: Colors.grey[600],
+                      ),
                 ),
-          ),
-          const SizedBox(height: 8),
+                const SizedBox(height: 24),
+              ],
 
-          // Metadata
-          if (hymn.metadata != null) ...[
-            Text(
-              'Time: ${hymn.metadata!['time'] ?? ''} | Category: ${hymn.metadata!['category'] ?? ''}',
-              style: Theme.of(context).textTheme.bodySmall?.copyWith(
-                    color: Colors.grey[600],
-                  ),
-            ),
-            const SizedBox(height: 24),
-          ],
+              // Verses
+              ...hymn.verses.asMap().entries.expand((entry) {
+                final verseIndex = entry.key;
+                final verse = entry.value;
+                final List<Widget> widgets = [];
 
-          // Lines with segments
-          ...hymn.lines.map((line) => LineDisplay(
-                line: line,
-                transposeOffset: transposeOffset,
-              )),
+                // Add verse display
+                widgets.add(VerseDisplay(
+                  verse: verse,
+                  verseNumber: hasMultipleVerses ? verseIndex + 1 : null,
+                  transposeOffset: transposeOffset,
+                ));
+
+                // Add spacing between verses (except after the last one)
+                if (verseIndex < hymn.verses.length - 1) {
+                  widgets.add(const SizedBox(height: 16));
+                }
+
+                return widgets;
+              }),
             ],
           ),
         ),
       ),
+    );
+  }
+}
+
+/// Widget to display a single verse
+class VerseDisplay extends StatelessWidget {
+  final Verse verse;
+  final int? verseNumber;
+  final int transposeOffset;
+
+  const VerseDisplay({
+    super.key,
+    required this.verse,
+    this.verseNumber,
+    this.transposeOffset = 0,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    // Check if this verse has any chords
+    final hasAnyChords = verse.lines.any((line) =>
+      line.segments.any((segment) => segment.chord.isNotEmpty)
+    );
+
+    return Row(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        // Verse number (if multiple verses)
+        if (verseNumber != null)
+          Padding(
+            padding: EdgeInsets.only(
+              right: 12.0,
+              top: hasAnyChords ? 20.0 : 0.0,
+            ),
+            child: SizedBox(
+              width: 24,
+              child: Text(
+                '$verseNumber.',
+                style: const TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                  color: Colors.black54,
+                ),
+              ),
+            ),
+          ),
+
+        // Lines
+        Expanded(
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: verse.lines
+                .map((line) => LineDisplay(
+                      line: line,
+                      transposeOffset: transposeOffset,
+                    ))
+                .toList(),
+          ),
+        ),
+      ],
     );
   }
 }
