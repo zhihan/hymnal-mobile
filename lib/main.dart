@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'screens/home_screen.dart';
+import 'services/hymn_db_service.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -10,6 +11,10 @@ void main() async {
   } catch (e) {
     print('Firebase initialization skipped: $e');
   }
+
+  // Initialize the Isar database
+  await HymnDbService.initializeDatabase();
+
   runApp(const HymnalApp());
 }
 

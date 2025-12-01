@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'hymn_detail_screen.dart';
+import 'search_screen.dart';
 import '../services/hymn_loader_service.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -94,6 +95,20 @@ class _HomeScreenState extends State<HomeScreen> {
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
         title: Text(categoryDisplayName),
         centerTitle: true,
+        actions: [
+          IconButton(
+            icon: const Icon(Icons.search),
+            tooltip: '搜索诗歌',
+            onPressed: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => const SearchScreen(),
+                ),
+              );
+            },
+          ),
+        ],
       ),
       body: Center(
         child: Padding(
