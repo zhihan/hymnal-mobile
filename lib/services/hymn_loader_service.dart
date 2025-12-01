@@ -30,14 +30,18 @@ class HymnLoaderService {
     }
 
     try {
-      final String jsonString = await rootBundle.loadString('hymns/available_hymns.json');
+      final String jsonString = await rootBundle.loadString('assets/available_hymns.json');
       final Map<String, dynamic> jsonData = json.decode(jsonString);
-      final Map<String, dynamic> categories = jsonData['categories'];
 
-      final Map<String, String> result = {};
-      categories.forEach((key, value) {
-        result[key] = value['displayName'] as String;
-      });
+      final Map<String, String> result = {
+        'h': 'Hymns',
+        'ch': '大本',
+        'ts': '补充本',
+        'ns': 'New Songs',
+      };
+
+      // Filter out categories that don't exist in the JSON
+      result.removeWhere((key, _) => !jsonData.containsKey(key));
 
       _cachedCategoryDisplayNames = result;
       return result;
@@ -56,16 +60,15 @@ class HymnLoaderService {
 
     try {
       // Load the available hymns JSON file
-      final String jsonString = await rootBundle.loadString('hymns/available_hymns.json');
+      final String jsonString = await rootBundle.loadString('assets/available_hymns.json');
       final Map<String, dynamic> jsonData = json.decode(jsonString);
 
       // Extract the array of hymn numbers for this category
-      final Map<String, dynamic> categories = jsonData['categories'];
-      if (!categories.containsKey(category)) {
+      if (!jsonData.containsKey(category)) {
         throw Exception('Category $category not found');
       }
 
-      final List<dynamic> numbersJson = categories[category]['availableNumbers'];
+      final List<dynamic> numbersJson = jsonData[category];
       final hymnNumbers = numbersJson.cast<int>();
 
       // Cache the result
