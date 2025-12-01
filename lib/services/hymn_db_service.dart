@@ -2,10 +2,12 @@ import 'dart:convert';
 import 'package:flutter/services.dart';
 import 'package:isar/isar.dart';
 import 'package:path_provider/path_provider.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../models/hymn_db.dart';
 
 class HymnDbService {
   static Isar? _isar;
+  static const int _currentDbVersion = 2; // Increment this when data structure changes
 
   static Future<Isar> get isar async {
     if (_isar != null) return _isar!;
@@ -22,12 +24,33 @@ class HymnDbService {
   static Future<void> initializeDatabase() async {
     final db = await isar;
 
+    // Check if database needs to be repopulated
     final count = await db.hymnDbs.count();
-    if (count > 0) {
-      return;
-    }
+    final needsRepopulation = count == 0 || await _needsDbUpdate();
 
-    await populateDatabase();
+    if (needsRepopulation) {
+      await populateDatabase();
+      await _saveDbVersion();
+    }
+  }
+
+  static Future<bool> _needsDbUpdate() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final savedVersion = prefs.getInt('hymn_db_version') ?? 0;
+      return savedVersion < _currentDbVersion;
+    } catch (e) {
+      return true; // If we can't read version, assume we need update
+    }
+  }
+
+  static Future<void> _saveDbVersion() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setInt('hymn_db_version', _currentDbVersion);
+    } catch (e) {
+      print('Error saving DB version: $e');
+    }
   }
 
   static Future<void> populateDatabase() async {
