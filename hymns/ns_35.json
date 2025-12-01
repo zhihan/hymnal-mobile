@@ -1,0 +1,181 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/35",
+  "title": "Jesus Lord, I love You",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "Jesus"
+            },
+            {
+              "chord": "",
+              "text": "Lord, I love"
+            },
+            {
+              "chord": "Am",
+              "text": "You."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Nothing"
+            },
+            {
+              "chord": "Dm",
+              "text": "more do"
+            },
+            {
+              "chord": "",
+              "text": "I"
+            },
+            {
+              "chord": "G",
+              "text": "want."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Nothing"
+            },
+            {
+              "chord": "C",
+              "text": "in this"
+            },
+            {
+              "chord": "",
+              "text": "whole"
+            },
+            {
+              "chord": "Am",
+              "text": "world"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Satis"
+            },
+            {
+              "chord": "Dm",
+              "text": "fies as"
+            },
+            {
+              "chord": "",
+              "text": "You"
+            },
+            {
+              "chord": "G",
+              "text": "do, Lord."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Though I"
+            },
+            {
+              "chord": "F",
+              "text": "wander"
+            },
+            {
+              "chord": "",
+              "text": "a"
+            },
+            {
+              "chord": "C",
+              "text": "way,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Still Your"
+            },
+            {
+              "chord": "Dm",
+              "text": "love seeks"
+            },
+            {
+              "chord": "",
+              "text": "after"
+            },
+            {
+              "chord": "G",
+              "text": "me,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Reaching"
+            },
+            {
+              "chord": "C",
+              "text": "me; I'm"
+            },
+            {
+              "chord": "",
+              "text": "sub"
+            },
+            {
+              "chord": "Am",
+              "text": "dued"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And I"
+            },
+            {
+              "chord": "F",
+              "text": "turn"
+            },
+            {
+              "chord": "G7",
+              "text": "back to"
+            },
+            {
+              "chord": "C",
+              "text": "You."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Experience of Christ",
+    "time": "4/4",
+    "hymn_code": "345321234452"
+  },
+  "raw_sections": [
+    "JesusLord, I loveYou.",
+    "Nothingmore doIwant.",
+    "Nothingin thiswholeworld",
+    "Satisfies asYoudo, Lord.",
+    "Though Iwanderaway,",
+    "Still Yourlove seeksafterme,",
+    "Reachingme; I'msubdued",
+    "And Iturnback toYou."
+  ]
+}

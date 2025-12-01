@@ -1,0 +1,74 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/346",
+  "title": "You shall love the Lord your God",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You shall love the Lord your God"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "With all your heart and with all your soul,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "With all your strength and with all your mind,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And love your neighbour as yourself."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You shall love the Lord your God,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You shall love the Lord your God."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Scriptures for Singing",
+    "time": "4/4"
+  },
+  "raw_sections": [
+    "You shall love the Lord your God",
+    "With all your heart and with all your soul,",
+    "With all your strength and with all your mind,",
+    "And love your neighbour as yourself.",
+    "You shall love the Lord your God,",
+    "You shall love the Lord your God."
+  ]
+}

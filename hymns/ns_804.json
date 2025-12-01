@@ -1,0 +1,223 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/804",
+  "title": "I love the Lord",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "I love"
+            },
+            {
+              "chord": "",
+              "text": "the"
+            },
+            {
+              "chord": "Cmaj7",
+              "text": "Lord, He"
+            },
+            {
+              "chord": "",
+              "text": "is my"
+            },
+            {
+              "chord": "Dm7",
+              "text": "strength,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "I love"
+            },
+            {
+              "chord": "",
+              "text": "the Lord, Jesus, my"
+            },
+            {
+              "chord": "Cmaj7",
+              "text": "drink;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "I love"
+            },
+            {
+              "chord": "",
+              "text": "the"
+            },
+            {
+              "chord": "Cmaj7",
+              "text": "Lord whatever"
+            },
+            {
+              "chord": "Dm",
+              "text": "others"
+            },
+            {
+              "chord": "Dm7",
+              "text": "think,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I love the"
+            },
+            {
+              "chord": "G",
+              "text": "Lord, He"
+            },
+            {
+              "chord": "",
+              "text": "is my"
+            },
+            {
+              "chord": "Cmaj7",
+              "text": "strength."
+            },
+            {
+              "chord": "Am",
+              "text": "I love"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "the Lord because He"
+            },
+            {
+              "chord": "C",
+              "text": "hears, I"
+            },
+            {
+              "chord": "",
+              "text": "love"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "the Lord, I know He"
+            },
+            {
+              "chord": "G",
+              "text": "cares;"
+            },
+            {
+              "chord": "Am",
+              "text": "I love"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "the Lord even through"
+            },
+            {
+              "chord": "F",
+              "text": "many"
+            },
+            {
+              "chord": "Dm7",
+              "text": "tears, I"
+            },
+            {
+              "chord": "",
+              "text": "love"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "the"
+            },
+            {
+              "chord": "C",
+              "text": "Lord, because"
+            },
+            {
+              "chord": "",
+              "text": "He"
+            },
+            {
+              "chord": "G",
+              "text": "hears. so"
+            },
+            {
+              "chord": "",
+              "text": "very"
+            },
+            {
+              "chord": "C",
+              "text": "much!"
+            },
+            {
+              "chord": "Cmaj7",
+              "text": "I"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "love You, Lord."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I love You, Lord."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Experience of Christ",
+    "time": "4/4",
+    "hymn_code": "5565321244542123"
+  },
+  "raw_sections": [
+    "I lovetheLord, Heis mystrength,",
+    "I lovethe Lord, Jesus, mydrink;",
+    "I lovetheLord whateverothersthink,",
+    "I love theLord, Heis mystrength.I love",
+    "the Lord because Hehears, Ilove",
+    "the Lord, I know Hecares;I love",
+    "the Lord even throughmanytears, Ilove",
+    "theLord, becauseHehears. soverymuch!I",
+    "love You, Lord.",
+    "I love You, Lord."
+  ]
+}

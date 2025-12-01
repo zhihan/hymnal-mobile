@@ -1,0 +1,133 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/257",
+  "title": "The church is the house of the living God",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "The church"
+            },
+            {
+              "chord": "",
+              "text": "is the house of the"
+            },
+            {
+              "chord": "D",
+              "text": "liv"
+            },
+            {
+              "chord": "D7",
+              "text": "ing"
+            },
+            {
+              "chord": "G",
+              "text": "God;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The"
+            },
+            {
+              "chord": "C",
+              "text": "church is"
+            },
+            {
+              "chord": "",
+              "text": "the"
+            },
+            {
+              "chord": "G",
+              "text": "pillar"
+            },
+            {
+              "chord": "",
+              "text": "and"
+            },
+            {
+              "chord": "A",
+              "text": "base of"
+            },
+            {
+              "chord": "A7",
+              "text": "the"
+            },
+            {
+              "chord": "D",
+              "text": "truth."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And"
+            },
+            {
+              "chord": "G",
+              "text": "great is"
+            },
+            {
+              "chord": "",
+              "text": "the myst'ry of"
+            },
+            {
+              "chord": "C",
+              "text": "godli"
+            },
+            {
+              "chord": "D",
+              "text": "ness;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "That"
+            },
+            {
+              "chord": "G",
+              "text": "God was"
+            },
+            {
+              "chord": "",
+              "text": "manifested"
+            },
+            {
+              "chord": "D",
+              "text": "in"
+            },
+            {
+              "chord": "D7",
+              "text": "the"
+            },
+            {
+              "chord": "G",
+              "text": "flesh."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Scriptures for Singing",
+    "time": "3/4",
+    "hymn_code": "51123321271"
+  },
+  "raw_sections": [
+    "The churchis the house of thelivingGod;",
+    "Thechurch isthepillarandbase ofthetruth.",
+    "Andgreat isthe myst'ry ofgodliness;",
+    "ThatGod wasmanifestedintheflesh."
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/674",
+  "title": "Lord Jesus, I love You. Thank You for this start",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Lord Jesus,"
+            },
+            {
+              "chord": "",
+              "text": "I love You."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "Thank You"
+            },
+            {
+              "chord": "",
+              "text": "for this start."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em7",
+              "text": "Dew of"
+            },
+            {
+              "chord": "",
+              "text": "Mercy,"
+            },
+            {
+              "chord": "A7",
+              "text": "come to"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Make home"
+            },
+            {
+              "chord": "",
+              "text": "in my"
+            },
+            {
+              "chord": "D7",
+              "text": "heart;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I"
+            },
+            {
+              "chord": "G",
+              "text": "praise You,"
+            },
+            {
+              "chord": "",
+              "text": "Lord"
+            },
+            {
+              "chord": "D",
+              "text": "Jesus."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Gain"
+            },
+            {
+              "chord": "Em",
+              "text": "ground in"
+            },
+            {
+              "chord": "",
+              "text": "me to"
+            },
+            {
+              "chord": "D",
+              "text": "day;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "With You,"
+            },
+            {
+              "chord": "",
+              "text": "one"
+            },
+            {
+              "chord": "A7",
+              "text": "spirit,"
+            },
+            {
+              "chord": "",
+              "text": "I'd"
+            },
+            {
+              "chord": "D",
+              "text": "stay."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Prayer",
+    "time": "3/4",
+    "hymn_code": "53321544432"
+  },
+  "raw_sections": [
+    "Lord Jesus,I love You.",
+    "Thank Youfor this start.",
+    "Dew ofMercy,come to",
+    "Make homein myheart;",
+    "Ipraise You,LordJesus.",
+    "Gainground inme today;",
+    "With You,onespirit,I'dstay."
+  ]
+}

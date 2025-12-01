@@ -1,0 +1,185 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/188",
+  "title": "It’s the life, life, life",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "It's the"
+            },
+            {
+              "chord": "",
+              "text": "life, life, life that makes us want to"
+            },
+            {
+              "chord": "Bm",
+              "text": "shout,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Halle"
+            },
+            {
+              "chord": "Em",
+              "text": "lujah!"
+            },
+            {
+              "chord": "A",
+              "text": "Praise the"
+            },
+            {
+              "chord": "D",
+              "text": "Lord!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "It's the"
+            },
+            {
+              "chord": "D",
+              "text": "life, life,"
+            },
+            {
+              "chord": "A",
+              "text": "life that"
+            },
+            {
+              "chord": "Bm",
+              "text": "makes us"
+            },
+            {
+              "chord": "",
+              "text": "want to"
+            },
+            {
+              "chord": "D",
+              "text": "shout,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Halle"
+            },
+            {
+              "chord": "Em",
+              "text": "lujah!"
+            },
+            {
+              "chord": "D",
+              "text": "Praise"
+            },
+            {
+              "chord": "A7",
+              "text": "the"
+            },
+            {
+              "chord": "D",
+              "text": "Lord!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "We're full of joy! How"
+            },
+            {
+              "chord": "G",
+              "text": "glorious"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "That"
+            },
+            {
+              "chord": "E",
+              "text": "we have"
+            },
+            {
+              "chord": "E7",
+              "text": "Jesus"
+            },
+            {
+              "chord": "A",
+              "text": "Christ in"
+            },
+            {
+              "chord": "",
+              "text": "us!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "That"
+            },
+            {
+              "chord": "D",
+              "text": "we"
+            },
+            {
+              "chord": "A",
+              "text": "have"
+            },
+            {
+              "chord": "D",
+              "text": "Jesus"
+            },
+            {
+              "chord": "A7",
+              "text": "Christ in"
+            },
+            {
+              "chord": "D",
+              "text": "us!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Experience of Christ",
+    "time": "4/4",
+    "hymn_code": "123333432311122123",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ts/124",
+        "language": "en",
+        "category": "ts",
+        "number": "124",
+        "title": "Cs124"
+      }
+    ]
+  },
+  "raw_sections": [
+    "It's thelife, life, life that makes us want toshout,",
+    "Hallelujah!Praise theLord!",
+    "It's thelife, life,life thatmakes uswant toshout,",
+    "Hallelujah!PraisetheLord!",
+    "We're full of joy! Howglorious",
+    "Thatwe haveJesusChrist inus!",
+    "ThatwehaveJesusChrist inus!"
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/324",
+  "title": "Jesus is the Lord, and He lives in me",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Jesus"
+            },
+            {
+              "chord": "",
+              "text": "is the"
+            },
+            {
+              "chord": "G",
+              "text": "Lord, and"
+            },
+            {
+              "chord": "",
+              "text": "He"
+            },
+            {
+              "chord": "D",
+              "text": "lives in"
+            },
+            {
+              "chord": "",
+              "text": "me;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Now I'm as"
+            },
+            {
+              "chord": "A7",
+              "text": "happy"
+            },
+            {
+              "chord": "",
+              "text": "as"
+            },
+            {
+              "chord": "D",
+              "text": "I can"
+            },
+            {
+              "chord": "D7",
+              "text": "be."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "O"
+            },
+            {
+              "chord": "Em",
+              "text": "Hallelujah!"
+            },
+            {
+              "chord": "F♯m",
+              "text": "O"
+            },
+            {
+              "chord": "Bm",
+              "text": "Halle"
+            },
+            {
+              "chord": "D",
+              "text": "lujah!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Jesus"
+            },
+            {
+              "chord": "A7",
+              "text": "lives in"
+            },
+            {
+              "chord": "D",
+              "text": "me!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "All the world is filled with vanity;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Jesus is the one reality."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "O Hallelujah! O Hallelujah!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Jesus lives in me!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Experience of Christ",
+    "time": "4/4",
+    "hymn_code": "55556665353",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ts/121",
+        "language": "en",
+        "category": "ts",
+        "number": "121",
+        "title": "Cs121"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Jesusis theLord, andHelives inme;",
+    "Now I'm ashappyasI canbe.",
+    "OHallelujah!OHallelujah!",
+    "Jesuslives inme!",
+    "All the world is filled with vanity;",
+    "Jesus is the one reality.",
+    "O Hallelujah! O Hallelujah!",
+    "Jesus lives in me!"
+  ]
+}

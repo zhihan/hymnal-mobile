@@ -1,0 +1,188 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/560",
+  "title": "When You Say Lord",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "When you"
+            },
+            {
+              "chord": "",
+              "text": "say"
+            },
+            {
+              "chord": "G",
+              "text": "\"Lord!\""
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You say a lot of things nobody else can"
+            },
+            {
+              "chord": "D",
+              "text": "say;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When you say"
+            },
+            {
+              "chord": "G",
+              "text": "\"Lord!\""
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You say you care enough to only want"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "the"
+            },
+            {
+              "chord": "D",
+              "text": "King of"
+            },
+            {
+              "chord": "",
+              "text": "Kings!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For there is"
+            },
+            {
+              "chord": "C♯♭",
+              "text": "nothing"
+            },
+            {
+              "chord": "",
+              "text": "more;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "There's only"
+            },
+            {
+              "chord": "D",
+              "text": "something"
+            },
+            {
+              "chord": "",
+              "text": "less!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Jesus is"
+            },
+            {
+              "chord": "C♯♭",
+              "text": "all in"
+            },
+            {
+              "chord": "",
+              "text": "all; He is the"
+            },
+            {
+              "chord": "D",
+              "text": "very"
+            },
+            {
+              "chord": "",
+              "text": "best."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When you say,"
+            },
+            {
+              "chord": "G",
+              "text": "\"Lord"
+            },
+            {
+              "chord": "A",
+              "text": "Jesus!\""
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "You've said"
+            },
+            {
+              "chord": "",
+              "text": "it"
+            },
+            {
+              "chord": "D",
+              "text": "all."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Encouragement",
+    "time": "4/4",
+    "hymn_code": "3456671211776655",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ts/232",
+        "language": "en",
+        "category": "ts",
+        "number": "232",
+        "title": "Cs232"
+      }
+    ]
+  },
+  "raw_sections": [
+    "When yousay\"Lord!\"",
+    "You say a lot of things nobody else cansay;",
+    "When you say\"Lord!\"",
+    "You say you care enough to only want",
+    "theKing ofKings!",
+    "For there isnothingmore;",
+    "There's onlysomethingless!",
+    "Jesus isall inall; He is theverybest.",
+    "When you say,\"LordJesus!\"",
+    "You've saiditall."
+  ]
+}

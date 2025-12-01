@@ -1,0 +1,110 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/253",
+  "title": "Always rejoice",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Al"
+            },
+            {
+              "chord": "A",
+              "text": "ways re"
+            },
+            {
+              "chord": "D",
+              "text": "joice;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Un"
+            },
+            {
+              "chord": "A",
+              "text": "ceasingly"
+            },
+            {
+              "chord": "D",
+              "text": "pray;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In every"
+            },
+            {
+              "chord": "G",
+              "text": "thing give"
+            },
+            {
+              "chord": "D",
+              "text": "thanks;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For this is the"
+            },
+            {
+              "chord": "A",
+              "text": "will of"
+            },
+            {
+              "chord": "D",
+              "text": "God"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In Christ"
+            },
+            {
+              "chord": "A7",
+              "text": "Je"
+            },
+            {
+              "chord": "D",
+              "text": "sus"
+            },
+            {
+              "chord": "A7",
+              "text": "for"
+            },
+            {
+              "chord": "D",
+              "text": "you."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Scriptures for Singing",
+    "time": "4/4",
+    "hymn_code": "1223552431"
+  },
+  "raw_sections": [
+    "Always rejoice;",
+    "Unceasinglypray;",
+    "In everything givethanks;",
+    "For this is thewill ofGod",
+    "In ChristJesusforyou."
+  ]
+}

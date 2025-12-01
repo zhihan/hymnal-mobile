@@ -1,0 +1,129 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/484",
+  "title": "For in Him dwells",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "For in"
+            },
+            {
+              "chord": "",
+              "text": "Him"
+            },
+            {
+              "chord": "D",
+              "text": "dwells"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "all the"
+            },
+            {
+              "chord": "D",
+              "text": "fullness"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "of the"
+            },
+            {
+              "chord": "D",
+              "text": "Godhead"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "bodi"
+            },
+            {
+              "chord": "D",
+              "text": "ly,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For of His"
+            },
+            {
+              "chord": "G",
+              "text": "fullness"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "we have all"
+            },
+            {
+              "chord": "D",
+              "text": "received,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "grace upon"
+            },
+            {
+              "chord": "D",
+              "text": "grace,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "grace upon"
+            },
+            {
+              "chord": "D",
+              "text": "grace."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Scriptures for Singing",
+    "time": "9/8",
+    "hymn_code": "4565323431456532343"
+  },
+  "raw_sections": [
+    "For inHimdwells",
+    "all thefullness",
+    "of theGodhead",
+    "bodily,",
+    "For of Hisfullness",
+    "we have allreceived,",
+    "grace upongrace,",
+    "grace upongrace."
+  ]
+}

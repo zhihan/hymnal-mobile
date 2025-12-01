@@ -1,0 +1,122 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/824",
+  "title": "For God So Loved the World (2)",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "For God"
+            },
+            {
+              "chord": "",
+              "text": "so loved the"
+            },
+            {
+              "chord": "G",
+              "text": "world that"
+            },
+            {
+              "chord": "A",
+              "text": "He,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He"
+            },
+            {
+              "chord": "D",
+              "text": "gave His"
+            },
+            {
+              "chord": "",
+              "text": "only be"
+            },
+            {
+              "chord": "G",
+              "text": "gotten"
+            },
+            {
+              "chord": "A",
+              "text": "Son,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "That"
+            },
+            {
+              "chord": "G",
+              "text": "everyone"
+            },
+            {
+              "chord": "",
+              "text": "who be"
+            },
+            {
+              "chord": "A",
+              "text": "lieves into"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Bm7",
+              "text": "Him would"
+            },
+            {
+              "chord": "",
+              "text": "not"
+            },
+            {
+              "chord": "F♯m7",
+              "text": "perish,"
+            },
+            {
+              "chord": "",
+              "text": "but would"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em7",
+              "text": "have e"
+            },
+            {
+              "chord": "A",
+              "text": "ternal"
+            },
+            {
+              "chord": "D",
+              "text": "life."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Scriptures for Singing",
+    "time": "4/4",
+    "hymn_code": "51132132511321132"
+  },
+  "raw_sections": [
+    "For Godso loved theworld thatHe,",
+    "Hegave Hisonly begottenSon,",
+    "Thateveryonewho believes into",
+    "Him wouldnotperish,but would",
+    "have eternallife."
+  ]
+}

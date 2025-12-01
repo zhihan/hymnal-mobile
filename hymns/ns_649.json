@@ -1,0 +1,117 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/649",
+  "title": "New Day, New Start",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "New day,"
+            },
+            {
+              "chord": "",
+              "text": "new start—"
+            },
+            {
+              "chord": "F",
+              "text": "Oh, I"
+            },
+            {
+              "chord": "G",
+              "text": "love the"
+            },
+            {
+              "chord": "C",
+              "text": "Lord."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "His way, my heart—"
+            },
+            {
+              "chord": "F",
+              "text": "Yes, I"
+            },
+            {
+              "chord": "G",
+              "text": "love the"
+            },
+            {
+              "chord": "C",
+              "text": "Lord."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Rise up spirit,"
+            },
+            {
+              "chord": "G",
+              "text": "soul, body"
+            },
+            {
+              "chord": "C",
+              "text": "so the"
+            },
+            {
+              "chord": "",
+              "text": "day can"
+            },
+            {
+              "chord": "G",
+              "text": "start"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "God is"
+            },
+            {
+              "chord": "",
+              "text": "moving"
+            },
+            {
+              "chord": "G",
+              "text": "on today"
+            },
+            {
+              "chord": "C",
+              "text": "and I"
+            },
+            {
+              "chord": "G7",
+              "text": "have a"
+            },
+            {
+              "chord": "C",
+              "text": "heart."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Experience of Christ",
+    "time": "4/4",
+    "hymn_code": "535344555535344251"
+  },
+  "raw_sections": [
+    "New day,new start—Oh, Ilove theLord.",
+    "His way, my heart—Yes, Ilove theLord.",
+    "Rise up spirit,soul, bodyso theday canstart",
+    "God ismovingon todayand Ihave aheart."
+  ]
+}

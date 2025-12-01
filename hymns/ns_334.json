@@ -1,0 +1,97 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/334",
+  "title": "Emmanuel, Emmanuel",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "Emmanu"
+            },
+            {
+              "chord": "F",
+              "text": "el,"
+            },
+            {
+              "chord": "G7",
+              "text": "Emmanu"
+            },
+            {
+              "chord": "A7",
+              "text": "el,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "His name is"
+            },
+            {
+              "chord": "Dm",
+              "text": "called Emmanu"
+            },
+            {
+              "chord": "G7",
+              "text": "el."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "God with"
+            },
+            {
+              "chord": "",
+              "text": "us, revealed in"
+            },
+            {
+              "chord": "F",
+              "text": "us,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "His"
+            },
+            {
+              "chord": "G7",
+              "text": "name is"
+            },
+            {
+              "chord": "",
+              "text": "called"
+            },
+            {
+              "chord": "Em",
+              "text": "Emmanu"
+            },
+            {
+              "chord": "A7",
+              "text": "el."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Praise of the Lord",
+    "time": "4/4",
+    "hymn_code": "517617653456"
+  },
+  "raw_sections": [
+    "Emmanuel,Emmanuel,",
+    "His name iscalled Emmanuel.",
+    "God withus, revealed inus,",
+    "Hisname iscalledEmmanuel."
+  ]
+}

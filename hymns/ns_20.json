@@ -1,0 +1,179 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/20",
+  "title": "Lord, I still love You",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Lord, I"
+            },
+            {
+              "chord": "G",
+              "text": "still love"
+            },
+            {
+              "chord": "D",
+              "text": "You,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Though it"
+            },
+            {
+              "chord": "Em",
+              "text": "seems,"
+            },
+            {
+              "chord": "D",
+              "text": "sometimes,"
+            },
+            {
+              "chord": "G",
+              "text": "hard to"
+            },
+            {
+              "chord": "A",
+              "text": "do."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "So many"
+            },
+            {
+              "chord": "D",
+              "text": "things, in"
+            },
+            {
+              "chord": "",
+              "text": "all my"
+            },
+            {
+              "chord": "F♯m",
+              "text": "life"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I"
+            },
+            {
+              "chord": "Bm",
+              "text": "do not"
+            },
+            {
+              "chord": "",
+              "text": "under"
+            },
+            {
+              "chord": "F♯m",
+              "text": "stand."
+            },
+            {
+              "chord": "Em",
+              "text": "Oh my"
+            },
+            {
+              "chord": "A",
+              "text": "Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I"
+            },
+            {
+              "chord": "G",
+              "text": "need You."
+            },
+            {
+              "chord": "Gm",
+              "text": "I love"
+            },
+            {
+              "chord": "D",
+              "text": "You."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Lord, the church—Your Bride,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You’ve included me—qualified!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "So, in the whole wide world,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My city, home, and heart—Spread dear Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "House to house, for whom You’ve died."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Experience of Christ",
+    "time": "4/4",
+    "hymn_code": "556133343132"
+  },
+  "raw_sections": [
+    "Lord, Istill loveYou,",
+    "Though itseems,sometimes,hard todo.",
+    "So manythings, inall mylife",
+    "Ido notunderstand.Oh myLord,",
+    "Ineed You.I loveYou.",
+    "Lord, the church—Your Bride,",
+    "You’ve included me—qualified!",
+    "So, in the whole wide world,",
+    "My city, home, and heart—Spread dear Lord,",
+    "House to house, for whom You’ve died."
+  ]
+}

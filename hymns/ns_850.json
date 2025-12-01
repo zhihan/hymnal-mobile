@@ -1,0 +1,220 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/850",
+  "title": "Whither Shall I",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "Whither"
+            },
+            {
+              "chord": "",
+              "text": "shall"
+            },
+            {
+              "chord": "F",
+              "text": "I go"
+            },
+            {
+              "chord": "G",
+              "text": "from Thy"
+            },
+            {
+              "chord": "C",
+              "text": "Spir"
+            },
+            {
+              "chord": "F",
+              "text": "it,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "And"
+            },
+            {
+              "chord": "C",
+              "text": "whither"
+            },
+            {
+              "chord": "",
+              "text": "shall"
+            },
+            {
+              "chord": "F",
+              "text": "I flee"
+            },
+            {
+              "chord": "G",
+              "text": "from Thy"
+            },
+            {
+              "chord": "C",
+              "text": "pres"
+            },
+            {
+              "chord": "F",
+              "text": "ence?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "If"
+            },
+            {
+              "chord": "Am",
+              "text": "I as"
+            },
+            {
+              "chord": "Em",
+              "text": "cend up"
+            },
+            {
+              "chord": "",
+              "text": "into the"
+            },
+            {
+              "chord": "F",
+              "text": "heaven,"
+            },
+            {
+              "chord": "",
+              "text": "Thou art"
+            },
+            {
+              "chord": "G",
+              "text": "there;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For if I"
+            },
+            {
+              "chord": "Am",
+              "text": "make my"
+            },
+            {
+              "chord": "Em",
+              "text": "bed in"
+            },
+            {
+              "chord": "F",
+              "text": "Sheol,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "be"
+            },
+            {
+              "chord": "G",
+              "text": "hold Thou"
+            },
+            {
+              "chord": "",
+              "text": "art"
+            },
+            {
+              "chord": "F",
+              "text": "there."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "If I take the wings of the dawn"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And dwell in the uttermost parts of the sea,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Behold, Thou art there."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Even there shall Thy hand lead me"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And even there Thy right hand shall hold me."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Behold, Thou art there."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Scriptures for Singing",
+    "time": "4/4",
+    "hymn_code": "135565432111355654345"
+  },
+  "raw_sections": [
+    "WhithershallI gofrom ThySpirit,",
+    "AndwhithershallI fleefrom Thypresence?",
+    "IfI ascend upinto theheaven,Thou artthere;",
+    "For if Imake mybed inSheol,",
+    "behold Thouartthere.",
+    "If I take the wings of the dawn",
+    "And dwell in the uttermost parts of the sea,",
+    "Behold, Thou art there.",
+    "Even there shall Thy hand lead me",
+    "And even there Thy right hand shall hold me.",
+    "Behold, Thou art there."
+  ]
+}

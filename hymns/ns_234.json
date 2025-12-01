@@ -1,0 +1,102 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/234",
+  "title": "Pursue Christ",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Pur"
+            },
+            {
+              "chord": "F♯m",
+              "text": "sue Christ,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Gain Christ,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Be"
+            },
+            {
+              "chord": "A",
+              "text": "found in"
+            },
+            {
+              "chord": "",
+              "text": "Christ."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Mag"
+            },
+            {
+              "chord": "F♯m",
+              "text": "nify"
+            },
+            {
+              "chord": "A",
+              "text": "Christ;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "This"
+            },
+            {
+              "chord": "F♯m",
+              "text": "is the"
+            },
+            {
+              "chord": "G",
+              "text": "way to"
+            },
+            {
+              "chord": "",
+              "text": "ex"
+            },
+            {
+              "chord": "A7",
+              "text": "perience"
+            },
+            {
+              "chord": "G",
+              "text": "Christ."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Encouragement",
+    "time": "4/4",
+    "hymn_code": "35544656535512"
+  },
+  "raw_sections": [
+    "Pursue Christ,",
+    "Gain Christ,",
+    "Befound inChrist.",
+    "MagnifyChrist;",
+    "Thisis theway toexperienceChrist."
+  ]
+}

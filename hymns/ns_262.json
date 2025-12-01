@@ -1,0 +1,122 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/262",
+  "title": "Come bless the Lord",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Come bless"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "the Lord, All ye servants of the"
+            },
+            {
+              "chord": "A",
+              "text": "Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Who stand by"
+            },
+            {
+              "chord": "Em",
+              "text": "night,"
+            },
+            {
+              "chord": "A7",
+              "text": "In the"
+            },
+            {
+              "chord": "",
+              "text": "house of the"
+            },
+            {
+              "chord": "D",
+              "text": "Lord. Lift"
+            },
+            {
+              "chord": "",
+              "text": "up"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "your hands,"
+            },
+            {
+              "chord": "D7",
+              "text": "In the"
+            },
+            {
+              "chord": "",
+              "text": "Holy"
+            },
+            {
+              "chord": "G",
+              "text": "Place,"
+            },
+            {
+              "chord": "Gm",
+              "text": "And bless"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "the"
+            },
+            {
+              "chord": "D",
+              "text": "Lord."
+            },
+            {
+              "chord": "A7",
+              "text": "And bless"
+            },
+            {
+              "chord": "",
+              "text": "the"
+            },
+            {
+              "chord": "D",
+              "text": "Lord."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Scriptures for Singing",
+    "time": "4/4",
+    "hymn_code": "33211177112"
+  },
+  "raw_sections": [
+    "Come bless",
+    "the Lord, All ye servants of theLord,",
+    "Who stand bynight,In thehouse of theLord. Liftup",
+    "your hands,In theHolyPlace,And bless",
+    "theLord.And blesstheLord."
+  ]
+}

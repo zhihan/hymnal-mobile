@@ -1,0 +1,243 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/603",
+  "title": "I am the vine",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "I am"
+            },
+            {
+              "chord": "",
+              "text": "the vine,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You are the"
+            },
+            {
+              "chord": "Dm",
+              "text": "branch"
+            },
+            {
+              "chord": "Dm7",
+              "text": "es;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He who a"
+            },
+            {
+              "chord": "F",
+              "text": "bides in"
+            },
+            {
+              "chord": "Fm7",
+              "text": "Me"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And I in"
+            },
+            {
+              "chord": "C",
+              "text": "him,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He bears much fruit,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For a"
+            },
+            {
+              "chord": "Dm",
+              "text": "part from"
+            },
+            {
+              "chord": "Dm7",
+              "text": "Me,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Apart from"
+            },
+            {
+              "chord": "Fm7",
+              "text": "Me"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You can do"
+            },
+            {
+              "chord": "C",
+              "text": "nothing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Abide in"
+            },
+            {
+              "chord": "G",
+              "text": "Me"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And I in"
+            },
+            {
+              "chord": "Am",
+              "text": "you."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "As the"
+            },
+            {
+              "chord": "Dm",
+              "text": "branch cannot"
+            },
+            {
+              "chord": "",
+              "text": "bear"
+            },
+            {
+              "chord": "G",
+              "text": "fruit of"
+            },
+            {
+              "chord": "",
+              "text": "it"
+            },
+            {
+              "chord": "C7",
+              "text": "self"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Unless it a"
+            },
+            {
+              "chord": "G",
+              "text": "bides"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In the"
+            },
+            {
+              "chord": "Am",
+              "text": "vine"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "So"
+            },
+            {
+              "chord": "Dm",
+              "text": "neither"
+            },
+            {
+              "chord": "",
+              "text": "can you un"
+            },
+            {
+              "chord": "G7",
+              "text": "less you"
+            },
+            {
+              "chord": "",
+              "text": "abide in"
+            },
+            {
+              "chord": "C",
+              "text": "Me."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Scriptures for Singing",
+    "time": "4/4",
+    "hymn_code": "12333455432"
+  },
+  "raw_sections": [
+    "I amthe vine,",
+    "You are thebranches;",
+    "He who abides inMe",
+    "And I inhim,",
+    "He bears much fruit,",
+    "For apart fromMe,",
+    "Apart fromMe",
+    "You can donothing.",
+    "Abide inMe",
+    "And I inyou.",
+    "As thebranch cannotbearfruit ofitself",
+    "Unless it abides",
+    "In thevine",
+    "Soneithercan you unless youabide inMe."
+  ]
+}

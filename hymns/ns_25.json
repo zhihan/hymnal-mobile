@@ -1,0 +1,290 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/25",
+  "title": "O Lord, I love You, I really love You",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "O Lord,"
+            },
+            {
+              "chord": "",
+              "text": "I love"
+            },
+            {
+              "chord": "D7",
+              "text": "You,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I"
+            },
+            {
+              "chord": "G",
+              "text": "really"
+            },
+            {
+              "chord": "",
+              "text": "love"
+            },
+            {
+              "chord": "Gm",
+              "text": "You,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "With"
+            },
+            {
+              "chord": "Em",
+              "text": "out You"
+            },
+            {
+              "chord": "",
+              "text": "life's"
+            },
+            {
+              "chord": "G",
+              "text": "really"
+            },
+            {
+              "chord": "",
+              "text": "noth"
+            },
+            {
+              "chord": "A7",
+              "text": "ing."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You are"
+            },
+            {
+              "chord": "D",
+              "text": "so attract"
+            },
+            {
+              "chord": "D7",
+              "text": "ing,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And You"
+            },
+            {
+              "chord": "G",
+              "text": "are so"
+            },
+            {
+              "chord": "",
+              "text": "char"
+            },
+            {
+              "chord": "Gm",
+              "text": "ming;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Your"
+            },
+            {
+              "chord": "Em",
+              "text": "riches"
+            },
+            {
+              "chord": "",
+              "text": "are"
+            },
+            {
+              "chord": "A7",
+              "text": "unsearcha"
+            },
+            {
+              "chord": "D7",
+              "text": "ble."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Your"
+            },
+            {
+              "chord": "G",
+              "text": "name's so"
+            },
+            {
+              "chord": "",
+              "text": "dear and sweet,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Calling"
+            },
+            {
+              "chord": "D",
+              "text": "makes one"
+            },
+            {
+              "chord": "",
+              "text": "satis"
+            },
+            {
+              "chord": "A7",
+              "text": "fied,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Now"
+            },
+            {
+              "chord": "Bm",
+              "text": "You are"
+            },
+            {
+              "chord": "",
+              "text": "mine"
+            },
+            {
+              "chord": "E7",
+              "text": "and I"
+            },
+            {
+              "chord": "",
+              "text": "am"
+            },
+            {
+              "chord": "A",
+              "text": "Thine,"
+            },
+            {
+              "chord": "A7",
+              "text": "Lord;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Joined and"
+            },
+            {
+              "chord": "D",
+              "text": "mingled"
+            },
+            {
+              "chord": "",
+              "text": "with"
+            },
+            {
+              "chord": "D7",
+              "text": "You,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "God- man"
+            },
+            {
+              "chord": "G",
+              "text": "incorp'ra"
+            },
+            {
+              "chord": "Gm",
+              "text": "tion,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Foretaste"
+            },
+            {
+              "chord": "Em",
+              "text": "of the"
+            },
+            {
+              "chord": "",
+              "text": "New"
+            },
+            {
+              "chord": "A7",
+              "text": "Jerusa"
+            },
+            {
+              "chord": "D",
+              "text": "lem."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Experience of Christ",
+    "time": "3/4",
+    "hymn_code": "345465321721",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ts/327",
+        "language": "en",
+        "category": "ts",
+        "number": "327",
+        "title": "Cs327"
+      }
+    ]
+  },
+  "raw_sections": [
+    "O Lord,I loveYou,",
+    "IreallyloveYou,",
+    "Without Youlife'sreallynothing.",
+    "You areso attracting,",
+    "And Youare socharming;",
+    "Yourrichesareunsearchable.",
+    "Yourname's sodear and sweet,",
+    "Callingmakes onesatisfied,",
+    "NowYou aremineand IamThine,Lord;",
+    "Joined andmingledwithYou,",
+    "God- manincorp'ration,",
+    "Foretasteof theNewJerusalem."
+  ]
+}

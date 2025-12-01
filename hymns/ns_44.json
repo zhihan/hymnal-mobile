@@ -1,0 +1,113 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/44",
+  "title": "We love You, Lord, we love You",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "We"
+            },
+            {
+              "chord": "A",
+              "text": "love"
+            },
+            {
+              "chord": "Bm",
+              "text": "You, Lord,"
+            },
+            {
+              "chord": "",
+              "text": "we"
+            },
+            {
+              "chord": "D",
+              "text": "love You."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You are"
+            },
+            {
+              "chord": "Em",
+              "text": "alto"
+            },
+            {
+              "chord": "D",
+              "text": "geth"
+            },
+            {
+              "chord": "G",
+              "text": "er"
+            },
+            {
+              "chord": "D",
+              "text": "love"
+            },
+            {
+              "chord": "A",
+              "text": "ly."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "We've"
+            },
+            {
+              "chord": "F♯7",
+              "text": "seen Your"
+            },
+            {
+              "chord": "Bm",
+              "text": "beau"
+            },
+            {
+              "chord": "G",
+              "text": "ty"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Here in the"
+            },
+            {
+              "chord": "D",
+              "text": "church, in"
+            },
+            {
+              "chord": "A7",
+              "text": "all Your"
+            },
+            {
+              "chord": "D",
+              "text": "saints."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Experience of Christ",
+    "time": "4/4",
+    "hymn_code": "35111212343213212"
+  },
+  "raw_sections": [
+    "WeloveYou, Lord,welove You.",
+    "You arealtogetherlovely.",
+    "We'veseen Yourbeauty",
+    "Here in thechurch, inall Yoursaints."
+  ]
+}

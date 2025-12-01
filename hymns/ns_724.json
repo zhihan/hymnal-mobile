@@ -1,0 +1,134 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/724",
+  "title": "Emmanuel",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Emmanuel—"
+            },
+            {
+              "chord": "",
+              "text": "His name men"
+            },
+            {
+              "chord": "F♯m",
+              "text": "cal"
+            },
+            {
+              "chord": "Bm",
+              "text": "leth,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "God with"
+            },
+            {
+              "chord": "A",
+              "text": "us— with"
+            },
+            {
+              "chord": "",
+              "text": "them He"
+            },
+            {
+              "chord": "D",
+              "text": "dwel"
+            },
+            {
+              "chord": "A",
+              "text": "leth;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I'm"
+            },
+            {
+              "chord": "Bm",
+              "text": "in their"
+            },
+            {
+              "chord": "D",
+              "text": "midst— where"
+            },
+            {
+              "chord": "",
+              "text": "saints as"
+            },
+            {
+              "chord": "G",
+              "text": "sem"
+            },
+            {
+              "chord": "Em",
+              "text": "bleth,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"Be"
+            },
+            {
+              "chord": "Bm",
+              "text": "hold, I"
+            },
+            {
+              "chord": "",
+              "text": "am with"
+            },
+            {
+              "chord": "F♯m",
+              "text": "thee\"—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "'til this"
+            },
+            {
+              "chord": "A7",
+              "text": "age hath"
+            },
+            {
+              "chord": "",
+              "text": "end"
+            },
+            {
+              "chord": "D",
+              "text": "ed."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Praise of the Lord",
+    "time": "4/4",
+    "hymn_code": "51112355317656535"
+  },
+  "raw_sections": [
+    "Emmanuel—His name mencalleth,",
+    "God withus— withthem Hedwelleth;",
+    "I'min theirmidst— wheresaints assembleth,",
+    "\"Behold, Iam withthee\"—",
+    "'til thisage hathended."
+  ]
+}

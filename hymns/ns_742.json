@@ -1,0 +1,282 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/742",
+  "title": "Where the Forerunner, Jesus",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Where the"
+            },
+            {
+              "chord": "",
+              "text": "Fore"
+            },
+            {
+              "chord": "G",
+              "text": "runner,"
+            },
+            {
+              "chord": "",
+              "text": "Je"
+            },
+            {
+              "chord": "A",
+              "text": "sus,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Has"
+            },
+            {
+              "chord": "G",
+              "text": "entered"
+            },
+            {
+              "chord": "",
+              "text": "for"
+            },
+            {
+              "chord": "A",
+              "text": "us,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Having"
+            },
+            {
+              "chord": "",
+              "text": "be"
+            },
+            {
+              "chord": "G",
+              "text": "come for"
+            },
+            {
+              "chord": "Bm",
+              "text": "ever"
+            },
+            {
+              "chord": "",
+              "text": "a"
+            },
+            {
+              "chord": "A",
+              "text": "High Priest"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "According"
+            },
+            {
+              "chord": "G",
+              "text": "to,"
+            },
+            {
+              "chord": "D",
+              "text": "according"
+            },
+            {
+              "chord": "",
+              "text": "to,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "According"
+            },
+            {
+              "chord": "G",
+              "text": "to the"
+            },
+            {
+              "chord": "",
+              "text": "order"
+            },
+            {
+              "chord": "A7",
+              "text": "of Melchized"
+            },
+            {
+              "chord": "D",
+              "text": "ek."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Melchized"
+            },
+            {
+              "chord": "G",
+              "text": "ek the"
+            },
+            {
+              "chord": "",
+              "text": "king of"
+            },
+            {
+              "chord": "Bm",
+              "text": "Sa"
+            },
+            {
+              "chord": "A",
+              "text": "lem"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Brought out"
+            },
+            {
+              "chord": "G",
+              "text": "bread and"
+            },
+            {
+              "chord": "A",
+              "text": "wine."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Now he"
+            },
+            {
+              "chord": "",
+              "text": "was"
+            },
+            {
+              "chord": "G",
+              "text": "priest,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Was"
+            },
+            {
+              "chord": "Bm",
+              "text": "priest of"
+            },
+            {
+              "chord": "A",
+              "text": "God,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Of God the Most"
+            },
+            {
+              "chord": "G",
+              "text": "High,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Of God"
+            },
+            {
+              "chord": "",
+              "text": "the Most High,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Now he was"
+            },
+            {
+              "chord": "G",
+              "text": "priest of"
+            },
+            {
+              "chord": "",
+              "text": "God,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Of"
+            },
+            {
+              "chord": "A7",
+              "text": "God the"
+            },
+            {
+              "chord": "",
+              "text": "Most"
+            },
+            {
+              "chord": "D",
+              "text": "High."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Scriptures for Singing",
+    "time": "4/4",
+    "hymn_code": "345651234323565433432"
+  },
+  "raw_sections": [
+    "Where theForerunner,Jesus,",
+    "Hasenteredforus,",
+    "Havingbecome foreveraHigh Priest",
+    "Accordingto,accordingto,",
+    "Accordingto theorderof Melchizedek.",
+    "Melchizedek theking ofSalem",
+    "Brought outbread andwine.",
+    "Now hewaspriest,",
+    "Waspriest ofGod,",
+    "Of God the MostHigh,",
+    "Of Godthe Most High,",
+    "Now he waspriest ofGod,",
+    "OfGod theMostHigh."
+  ]
+}

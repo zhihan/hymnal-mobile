@@ -1,0 +1,129 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/43",
+  "title": "Lord, I love You",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "Lord,"
+            },
+            {
+              "chord": "G",
+              "text": "I love"
+            },
+            {
+              "chord": "Am",
+              "text": "You, I"
+            },
+            {
+              "chord": "F",
+              "text": "just want"
+            },
+            {
+              "chord": "G",
+              "text": "to love"
+            },
+            {
+              "chord": "C",
+              "text": "You."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You"
+            },
+            {
+              "chord": "F",
+              "text": "are my"
+            },
+            {
+              "chord": "",
+              "text": "dear"
+            },
+            {
+              "chord": "G",
+              "text": "est One,"
+            },
+            {
+              "chord": "",
+              "text": "my"
+            },
+            {
+              "chord": "Em",
+              "text": "only"
+            },
+            {
+              "chord": "Am",
+              "text": "love."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "O"
+            },
+            {
+              "chord": "F",
+              "text": "Lord, I"
+            },
+            {
+              "chord": "",
+              "text": "love"
+            },
+            {
+              "chord": "G",
+              "text": "You,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "O"
+            },
+            {
+              "chord": "Dm7",
+              "text": "Lord, I"
+            },
+            {
+              "chord": "",
+              "text": "love"
+            },
+            {
+              "chord": "G7",
+              "text": "You with"
+            },
+            {
+              "chord": "",
+              "text": "all my"
+            },
+            {
+              "chord": "C",
+              "text": "heart."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Experience of Christ",
+    "time": "4/4",
+    "hymn_code": "1563166545"
+  },
+  "raw_sections": [
+    "Lord,I loveYou, Ijust wantto loveYou.",
+    "Youare mydearest One,myonlylove.",
+    "OLord, IloveYou,",
+    "OLord, IloveYou withall myheart."
+  ]
+}

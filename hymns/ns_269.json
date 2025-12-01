@@ -1,0 +1,128 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/269",
+  "title": "He’s my Lord",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "He's my"
+            },
+            {
+              "chord": "Em",
+              "text": "Lord,"
+            },
+            {
+              "chord": "A7",
+              "text": "He's my"
+            },
+            {
+              "chord": "D",
+              "text": "Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He has risen from the"
+            },
+            {
+              "chord": "Bm",
+              "text": "dead and"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He's my"
+            },
+            {
+              "chord": "Em7",
+              "text": "Lord!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "Every"
+            },
+            {
+              "chord": "D",
+              "text": "knee shall"
+            },
+            {
+              "chord": "D7",
+              "text": "bow,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Every"
+            },
+            {
+              "chord": "G",
+              "text": "tongue con"
+            },
+            {
+              "chord": "Gm",
+              "text": "fess,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "That"
+            },
+            {
+              "chord": "D",
+              "text": "Jesus"
+            },
+            {
+              "chord": "A7",
+              "text": "Christ is"
+            },
+            {
+              "chord": "D",
+              "text": "Lord."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Scriptures for Singing",
+    "time": "4/4",
+    "hymn_code": "71232112333343212",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ts/21",
+        "language": "en",
+        "category": "ts",
+        "number": "21",
+        "title": "Cs21"
+      }
+    ]
+  },
+  "raw_sections": [
+    "He's myLord,He's myLord,",
+    "He has risen from thedead and",
+    "He's myLord!",
+    "Everyknee shallbow,",
+    "Everytongue confess,",
+    "ThatJesusChrist isLord."
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/849",
+  "title": "Let the word of Christ dwell in you richly (2)",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Let the"
+            },
+            {
+              "chord": "",
+              "text": "word of Christ dwell in you"
+            },
+            {
+              "chord": "G",
+              "text": "richly"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "in all"
+            },
+            {
+              "chord": "D",
+              "text": "wisdom,"
+            },
+            {
+              "chord": "",
+              "text": "teaching and ad"
+            },
+            {
+              "chord": "G",
+              "text": "monishing"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "one another"
+            },
+            {
+              "chord": "A",
+              "text": "with psalms"
+            },
+            {
+              "chord": "",
+              "text": "and"
+            },
+            {
+              "chord": "F♯m",
+              "text": "hymns and"
+            },
+            {
+              "chord": "Bm",
+              "text": "spiritual"
+            },
+            {
+              "chord": "Em",
+              "text": "songs,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "singing with grace"
+            },
+            {
+              "chord": "G",
+              "text": "in your"
+            },
+            {
+              "chord": "A",
+              "text": "hearts to"
+            },
+            {
+              "chord": "D",
+              "text": "God."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Scriptures for Singing",
+    "time": "4/4",
+    "hymn_code": "561111123156113321232"
+  },
+  "raw_sections": [
+    "Let theword of Christ dwell in yourichly",
+    "in allwisdom,teaching and admonishing",
+    "one anotherwith psalmsandhymns andspiritualsongs,",
+    "singing with gracein yourhearts toGod."
+  ]
+}

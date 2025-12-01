@@ -1,0 +1,275 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/170",
+  "title": "Everybody ought to know",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Everybody"
+            },
+            {
+              "chord": "",
+              "text": "ought to know; Everybody ought to know;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Everybody ought to"
+            },
+            {
+              "chord": "Em",
+              "text": "know;"
+            },
+            {
+              "chord": "A",
+              "text": "Where"
+            },
+            {
+              "chord": "A7",
+              "text": "Jesus"
+            },
+            {
+              "chord": "D",
+              "text": "dwells. Every"
+            },
+            {
+              "chord": "A7",
+              "text": "body"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "ought to"
+            },
+            {
+              "chord": "D",
+              "text": "dwells. He"
+            },
+            {
+              "chord": "",
+              "text": "is"
+            },
+            {
+              "chord": "D7",
+              "text": "dwelling"
+            },
+            {
+              "chord": "",
+              "text": "in our"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "spir"
+            },
+            {
+              "chord": "Em",
+              "text": "it;"
+            },
+            {
+              "chord": "F♯m",
+              "text": "He is"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "Breath"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "and Life to"
+            },
+            {
+              "chord": "Em",
+              "text": "us;"
+            },
+            {
+              "chord": "D",
+              "text": "We are"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "one with"
+            },
+            {
+              "chord": "",
+              "text": "Him in"
+            },
+            {
+              "chord": "G",
+              "text": "spir"
+            },
+            {
+              "chord": "E7",
+              "text": "it."
+            },
+            {
+              "chord": "D",
+              "text": "Every"
+            },
+            {
+              "chord": "A7",
+              "text": "body"
+            },
+            {
+              "chord": "",
+              "text": "ought"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "to"
+            },
+            {
+              "chord": "D",
+              "text": "know."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Everybody ought to know;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Everybody ought to know;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Everybody ought to know;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The living Christ."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "(Repeat)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Christ is the life-giving Spirit;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "All God’s fullness He contains;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "We partake of all His riches"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Just by calling on His Name."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Fullness of the Spirit",
+    "time": "4/4",
+    "hymn_code": "55654535565453",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ts/107",
+        "language": "en",
+        "category": "ts",
+        "number": "107",
+        "title": "Cs107"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Everybodyought to know; Everybody ought to know;",
+    "Everybody ought toknow;WhereJesusdwells. Everybody",
+    "ought todwells. Heisdwellingin our",
+    "spirit;He is",
+    "Breath",
+    "and Life tous;We are",
+    "one withHim inspirit.Everybodyought",
+    "toknow.",
+    "Everybody ought to know;",
+    "Everybody ought to know;",
+    "Everybody ought to know;",
+    "The living Christ.",
+    "(Repeat)",
+    "Christ is the life-giving Spirit;",
+    "All God’s fullness He contains;",
+    "We partake of all His riches",
+    "Just by calling on His Name."
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/115",
+  "title": "Good morning, Lord Jesus",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Good morning,"
+            },
+            {
+              "chord": "",
+              "text": "Lord Jesus,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "Thank You"
+            },
+            {
+              "chord": "",
+              "text": "for today."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em7",
+              "text": "Thank You"
+            },
+            {
+              "chord": "",
+              "text": "for my"
+            },
+            {
+              "chord": "A7",
+              "text": "spirit,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Thank You"
+            },
+            {
+              "chord": "",
+              "text": "I can"
+            },
+            {
+              "chord": "D7",
+              "text": "pray."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Good"
+            },
+            {
+              "chord": "G",
+              "text": "morning,"
+            },
+            {
+              "chord": "",
+              "text": "Lord"
+            },
+            {
+              "chord": "D",
+              "text": "Jesus,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "To"
+            },
+            {
+              "chord": "Em",
+              "text": "You I"
+            },
+            {
+              "chord": "",
+              "text": "love to"
+            },
+            {
+              "chord": "D",
+              "text": "sing."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "Thank You,"
+            },
+            {
+              "chord": "",
+              "text": "Lord,"
+            },
+            {
+              "chord": "A7",
+              "text": "for every"
+            },
+            {
+              "chord": "D",
+              "text": "thing."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Prayer",
+    "time": "3/4",
+    "hymn_code": "53321544432"
+  },
+  "raw_sections": [
+    "Good morning,Lord Jesus,",
+    "Thank Youfor today.",
+    "Thank Youfor myspirit,",
+    "Thank YouI canpray.",
+    "Goodmorning,LordJesus,",
+    "ToYou Ilove tosing.",
+    "Thank You,Lord,for everything."
+  ]
+}

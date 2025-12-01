@@ -1,0 +1,280 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/759",
+  "title": "Refuge from the Wind",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "And a"
+            },
+            {
+              "chord": "",
+              "text": "man will be like a"
+            },
+            {
+              "chord": "F",
+              "text": "refuge"
+            },
+            {
+              "chord": "",
+              "text": "from the"
+            },
+            {
+              "chord": "C",
+              "text": "wind,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And a"
+            },
+            {
+              "chord": "F",
+              "text": "covering"
+            },
+            {
+              "chord": "",
+              "text": "from the"
+            },
+            {
+              "chord": "G",
+              "text": "tem"
+            },
+            {
+              "chord": "G7",
+              "text": "pest,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Like"
+            },
+            {
+              "chord": "C",
+              "text": "streams of"
+            },
+            {
+              "chord": "",
+              "text": "water in a"
+            },
+            {
+              "chord": "F",
+              "text": "dry"
+            },
+            {
+              "chord": "C",
+              "text": "place,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Like the"
+            },
+            {
+              "chord": "F",
+              "text": "shadow"
+            },
+            {
+              "chord": "",
+              "text": "of a"
+            },
+            {
+              "chord": "C",
+              "text": "massive"
+            },
+            {
+              "chord": "Dm",
+              "text": "rock"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "in a"
+            },
+            {
+              "chord": "G7",
+              "text": "wasted"
+            },
+            {
+              "chord": "C",
+              "text": "land."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "Christ is"
+            },
+            {
+              "chord": "",
+              "text": "that"
+            },
+            {
+              "chord": "F",
+              "text": "Man as"
+            },
+            {
+              "chord": "G",
+              "text": "our ref"
+            },
+            {
+              "chord": "C",
+              "text": "uge,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "He is"
+            },
+            {
+              "chord": "",
+              "text": "our"
+            },
+            {
+              "chord": "F",
+              "text": "shield from"
+            },
+            {
+              "chord": "C",
+              "text": "the tem"
+            },
+            {
+              "chord": "G",
+              "text": "pest,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "F",
+              "text": "He is"
+            },
+            {
+              "chord": "",
+              "text": "our"
+            },
+            {
+              "chord": "G",
+              "text": "comfort,"
+            },
+            {
+              "chord": "",
+              "text": "satis"
+            },
+            {
+              "chord": "Am",
+              "text": "faction"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "and sup"
+            },
+            {
+              "chord": "F",
+              "text": "ply"
+            },
+            {
+              "chord": "G",
+              "text": "in a"
+            },
+            {
+              "chord": "",
+              "text": "dry"
+            },
+            {
+              "chord": "C7",
+              "text": "place,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "F",
+              "text": "He is"
+            },
+            {
+              "chord": "",
+              "text": "our"
+            },
+            {
+              "chord": "G",
+              "text": "shade from"
+            },
+            {
+              "chord": "",
+              "text": "all the"
+            },
+            {
+              "chord": "Am",
+              "text": "heat"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "F",
+              "text": "in a"
+            },
+            {
+              "chord": "G",
+              "text": "wasted"
+            },
+            {
+              "chord": "C",
+              "text": "land."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Experience of Christ",
+    "time": "3/4",
+    "hymn_code": "3455175321123"
+  },
+  "raw_sections": [
+    "And aman will be like arefugefrom thewind,",
+    "And acoveringfrom thetempest,",
+    "Likestreams ofwater in adryplace,",
+    "Like theshadowof amassiverock",
+    "in awastedland.",
+    "Christ isthatMan asour refuge,",
+    "He isourshield fromthe tempest,",
+    "He isourcomfort,satisfaction",
+    "and supplyin adryplace,",
+    "He isourshade fromall theheat",
+    "in awastedland."
+  ]
+}
