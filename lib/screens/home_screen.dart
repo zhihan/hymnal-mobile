@@ -16,7 +16,7 @@ class _HomeScreenState extends State<HomeScreen> {
   bool _isLoading = false;
   String? _errorMessage;
   Map<String, String> _categories = {};
-  String _selectedCategory = 'ts'; // Default to 'ts' (补充本)
+  String _selectedCategory = 'ns'; // Default to 'ns' (New Songs)
 
   @override
   void initState() {
@@ -88,7 +88,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   @override
   Widget build(BuildContext context) {
-    final categoryDisplayName = _categories[_selectedCategory] ?? '补充本';
+    final categoryDisplayName = _categories[_selectedCategory] ?? 'New Songs';
 
     return Scaffold(
       appBar: AppBar(
