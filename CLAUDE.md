@@ -6,14 +6,14 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is a Flutter mobile application for displaying hymnals with chords inlined. The app is primarily targeted at Android devices, with potential future expansion to iOS.
 
-**Data Source**: Hymnal data (songs, lyrics, chords) is fetched from Google Cloud Firestore.
+**Data Source**: Hymnal data (songs, lyrics, chords) is loaded from local JSON assets bundled with the app. The app uses an Isar database for search functionality and metadata indexing.
 
 ## Setup and Installation
 
 **Prerequisites**:
 - Flutter SDK installed (https://docs.flutter.dev/get-started/install)
 - Android SDK and Android Studio for Android development
-- Firebase project configured with Firestore database
+- iOS development tools (Xcode) for iOS devices
 
 **Initial Setup**:
 ```bash
@@ -30,10 +30,15 @@ flutter run -d <device_id>
 flutter devices
 ```
 
-**Firebase Configuration**:
-- Add `google-services.json` to `android/app/` directory for Android
-- Add `GoogleService-Info.plist` to `ios/Runner/` directory for iOS (if implemented)
-- Configure Firebase in `lib/main.dart` with `Firebase.initializeApp()`
+**Database Regeneration**:
+If you need to rebuild the Isar database (after schema changes):
+```bash
+# Regenerate Isar schema files
+dart run build_runner build --delete-conflicting-outputs
+
+# The database will automatically repopulate on next app launch
+# when the version number is incremented in hymn_db_service.dart
+```
 
 ## Development Commands
 
@@ -79,64 +84,124 @@ flutter pub get                # Reinstall dependencies
 ## Project Architecture
 
 **State Management**:
-- Use Provider, Riverpod, or Bloc pattern for state management (to be determined during development)
-- Keep Firestore queries and data fetching logic separate from UI components
+- Uses Provider package for state management (favorites feature)
+- Keep data fetching logic separate from UI components in service layer
 
 **Directory Structure**:
 ```
 lib/
-├── main.dart              # App entry point, Firebase initialization
-├── models/                # Data models (Hymn, Chord, etc.)
-├── services/              # Business logic layer
-│   └── firestore_service.dart  # Firestore data access
-├── screens/               # Full-screen pages
-│   ├── home_screen.dart
-│   └── hymn_detail_screen.dart
-├── widgets/               # Reusable UI components
-│   └── chord_display_widget.dart
-└── utils/                 # Helper functions and constants
+├── main.dart                   # App entry point with Provider setup
+├── models/                     # Data models
+│   ├── hymn_song.dart          # Main hymn display model
+│   ├── hymn_db.dart            # Isar database collection model
+│   ├── verse.dart, line.dart   # Hymn structure hierarchy
+│   └── segment.dart, chord.dart # Chord data
+├── services/                   # Business logic layer
+│   ├── hymn_loader_service.dart # Asset loading & caching
+│   ├── hymn_db_service.dart    # Isar database access
+│   └── favorites_service.dart  # Favorites management
+├── providers/                  # State management
+│   └── favorites_provider.dart # Favorites state provider
+├── screens/                    # Full-screen pages
+│   ├── home_screen.dart        # Main entry, book & hymn number input
+│   ├── hymn_detail_screen.dart # Hymn display with transpose/chords
+│   ├── search_screen.dart      # Full-text search
+│   └── favorites_screen.dart   # Favorited hymns list
+├── widgets/                    # Reusable UI components
+│   └── hymn_display.dart       # Hymn rendering with chords
+└── utils/                      # Helper functions
+    └── chord_transposer.dart   # Chord transposition logic
 ```
 
 **Data Flow**:
-1. Firestore service layer fetches hymnal data from Firebase
-2. Models represent the data structure (Hymn, lyrics with chord positions)
-3. State management updates UI when data changes
+1. JSON assets (hymns/) → HymnLoaderService (caches results) → HymnSong objects
+2. For search: HymnLoaderService → HymnDbService (Isar DB with full-text indexing)
+3. State management (Provider) updates UI when favorites change
 4. Widgets display hymnals with chords positioned inline with lyrics
 
-## Firestore Data Structure
+## Data Structure
 
-Expected Firestore collections and document structure:
+### Hymn JSON Files (assets/hymns/)
 
-**Collection: `hymnals`**
-```
+Hymn files are named with the format: `{bookId}_{number}.json` (e.g., `ts_1.json`, `ch_100.json`, `h_500.json`, `ns_50.json`)
+
+**Key Terminology**:
+- **bookId**: The identifier for the hymn book (e.g., "ts", "ch", "h", "ns"). This is part of the hymn ID.
+- **category**: The descriptive category from metadata (e.g., "Ultimate Manifestation", "God's Economy"). This is NOT the same as bookId.
+- **hymnId**: The full identifier combining bookId and number (e.g., "ts_1", "ch_100")
+
+**Book IDs**:
+- `ts`: 補充本 (Supplement)
+- `ch`: 大本 (Classic Chinese Hymns)
+- `h`: Hymns (English)
+- `ns`: New Songs
+
+**JSON Structure**:
+```json
 {
-  "id": "hymn_001",
-  "title": "Amazing Grace",
-  "number": 1,
-  "lyrics": [
+  "title": "Hymn Title",
+  "url": "https://www.hymnal.net/...",
+  "verses": [
     {
-      "line": "Amazing grace how sweet the sound",
-      "chords": [
-        {"position": 0, "chord": "G"},
-        {"position": 16, "chord": "C"}
+      "type": "verse",
+      "lines": [
+        {
+          "segments": [
+            {"text": "Amazing grace", "chord": {"name": "G"}},
+            {"text": " how sweet the sound", "chord": {"name": "C"}}
+          ]
+        }
       ]
     }
   ],
   "metadata": {
-    "author": "...",
-    "year": "...",
-    "key": "G"
+    "category": "Ultimate Manifestation",
+    "time": "3/4",
+    "hymn_code": "51123321271",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ch/100",
+        "language": "zh",
+        "category": "ch",
+        "number": "100",
+        "title": "Ch100"
+      }
+    ]
   }
 }
 ```
 
+### Database Models
+
+**HymnDb** (Isar database model for search):
+- `hymnId`: Full hymn identifier (e.g., "ts_1")
+- `bookId`: Book identifier extracted from hymnId (e.g., "ts")
+- `title`: Hymn title
+- `number`: Hymn number within the book
+- `category`: Descriptive category from metadata (e.g., "Ultimate Manifestation")
+- `fullText`: Concatenated text for full-text search
+- Indexed fields: hymnId, bookId, title, fullText (case-insensitive)
+
+**HymnSong** (Display model):
+- `title`: Hymn title
+- `url`: Source URL
+- `verses`: List of Verse objects containing Lines and Segments
+- `metadata`: Map containing category, time, hymn_code, related hymns, etc.
+
+### Important Notes
+
+- **Always use `bookId`** when navigating or loading hymns (not `category`)
+- **category** is a descriptive field from metadata and may contain values like "Ultimate Manifestation", "God's Economy", etc.
+- **bookId** identifies which hymnal book the song comes from ("ts", "ch", "h", "ns")
+- The hymn files use `"category"` in the related hymns section to mean `bookId` - this is a JSON structure naming convention
+
 ## Key Development Considerations
 
-**Firestore Integration**:
-- Use `cloud_firestore` package for Firestore access
-- Implement proper error handling for network failures
-- Consider caching strategies for offline access
-- Use StreamBuilder or FutureBuilder for reactive UI updates
+**Data Loading**:
+- Hymns are loaded from local JSON assets (no network required)
+- HymnLoaderService handles asset loading and caching
+- Isar database provides fast full-text search functionality
+- Database auto-rebuilds when version number is incremented
 
 **Chord Display**:
 - Chords should be displayed inline above or within lyrics
@@ -145,27 +210,34 @@ Expected Firestore collections and document structure:
 - Handle different screen sizes and orientations
 
 **Performance**:
-- Paginate or limit Firestore queries to avoid loading all hymnals at once
-- Cache frequently accessed hymnals locally
+- HymnLoaderService caches loaded hymns in memory
+- Search queries are limited to 100 results for performance
 - Optimize widget rebuilds with const constructors where possible
+- InteractiveViewer allows pinch-zoom and pan for hymn display
 
-**Android-First Development**:
-- Test primarily on Android devices/emulators
+**Platform Support**:
+- Primary: iOS (tested on iPhone devices)
+- Secondary: Android
 - Follow Material Design guidelines
-- Configure Android-specific permissions in `android/app/src/main/AndroidManifest.xml`
+- Configure platform-specific permissions in respective manifest files
 
 ## Dependencies
 
-Key packages to include in `pubspec.yaml`:
-- `firebase_core`: Firebase initialization
-- `cloud_firestore`: Firestore database access
-- State management package (provider/riverpod/bloc)
-- Additional UI packages as needed
+Key packages in `pubspec.yaml`:
+- `provider: ^6.1.2`: State management for favorites
+- `isar: ^3.1.0+1`: Local database for search functionality
+- `isar_flutter_libs: ^3.1.0+1`: Isar platform bindings
+- `shared_preferences: ^2.3.3`: Simple key-value storage for favorites
+- `path_provider: ^2.1.4`: File system access for database
+- `build_runner: ^2.4.13`: Code generation
+- `isar_generator: ^3.1.0+1`: Isar schema generation
 
 ## Common Issues
 
-**Firebase not initialized**: Ensure `Firebase.initializeApp()` is called before any Firestore operations, typically in `main()` before `runApp()`.
+**Database not rebuilding**: Ensure you increment `_currentDbVersion` in `hymn_db_service.dart` after schema changes, then run the app. The database will automatically repopulate.
 
-**Firestore permissions**: Check Firestore security rules allow read access for the app.
+**Build runner errors**: Run `dart run build_runner build --delete-conflicting-outputs` after modifying any Isar collection models (files with `@collection` annotation).
 
-**Build errors after adding Firebase**: Run `flutter clean && flutter pub get` and ensure `google-services.json` is in the correct location.
+**Navigation errors**: Always use `bookId` (not `category`) when navigating to hymns. The `category` field is descriptive metadata, while `bookId` identifies the hymnal book ("ts", "ch", "h", "ns").
+
+**Favorites not persisting**: Favorites are stored in SharedPreferences with key `'favorite_hymns'` as a list of hymnIds. Check that SharedPreferences is working correctly on the target platform.

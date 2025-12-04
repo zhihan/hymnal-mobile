@@ -56,19 +56,12 @@ class _SearchScreenState extends State<SearchScreen> {
   }
 
   void _navigateToHymn(HymnDb hymn) {
-    final hymnIdParts = hymn.hymnId.split('_');
-    if (hymnIdParts.length != 2) return;
-
-    final category = hymnIdParts[0];
-    final number = int.tryParse(hymnIdParts[1]);
-    if (number == null) return;
-
     Navigator.push(
       context,
       MaterialPageRoute(
         builder: (context) => HymnDetailScreen(
-          initialHymnNumber: number,
-          category: category,
+          initialHymnNumber: hymn.number,
+          bookId: hymn.bookId,
         ),
       ),
     );
@@ -229,7 +222,7 @@ class _SearchScreenState extends State<SearchScreen> {
                         children: [
                           const SizedBox(height: 4),
                           Text(
-                            '${hymn.hymnId.toUpperCase()} - ${hymn.category}',
+                            hymn.hymnId.toUpperCase(),
                             style: const TextStyle(
                               fontSize: 12,
                               color: Colors.grey,

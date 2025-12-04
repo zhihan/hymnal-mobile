@@ -19,6 +19,9 @@ class HymnDb {
 
   late String url;
 
+  @Index(type: IndexType.value)
+  late String bookId;
+
   late String category;
 
   String? time;
@@ -65,8 +68,10 @@ class HymnDb {
 
     final hymnIdParts = hymnId.split('_');
     if (hymnIdParts.length == 2) {
+      hymn.bookId = hymnIdParts[0];
       hymn.number = int.tryParse(hymnIdParts[1]) ?? 0;
     } else {
+      hymn.bookId = '';
       hymn.number = 0;
     }
 

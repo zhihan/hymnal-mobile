@@ -17,43 +17,48 @@ const HymnDbSchema = CollectionSchema(
   name: r'HymnDb',
   id: 8937261325935021938,
   properties: {
-    r'category': PropertySchema(
+    r'bookId': PropertySchema(
       id: 0,
+      name: r'bookId',
+      type: IsarType.string,
+    ),
+    r'category': PropertySchema(
+      id: 1,
       name: r'category',
       type: IsarType.string,
     ),
     r'fullText': PropertySchema(
-      id: 1,
+      id: 2,
       name: r'fullText',
       type: IsarType.string,
     ),
     r'hymnCode': PropertySchema(
-      id: 2,
+      id: 3,
       name: r'hymnCode',
       type: IsarType.string,
     ),
     r'hymnId': PropertySchema(
-      id: 3,
+      id: 4,
       name: r'hymnId',
       type: IsarType.string,
     ),
     r'number': PropertySchema(
-      id: 4,
+      id: 5,
       name: r'number',
       type: IsarType.long,
     ),
     r'time': PropertySchema(
-      id: 5,
+      id: 6,
       name: r'time',
       type: IsarType.string,
     ),
     r'title': PropertySchema(
-      id: 6,
+      id: 7,
       name: r'title',
       type: IsarType.string,
     ),
     r'url': PropertySchema(
-      id: 7,
+      id: 8,
       name: r'url',
       type: IsarType.string,
     )
@@ -102,6 +107,19 @@ const HymnDbSchema = CollectionSchema(
           caseSensitive: false,
         )
       ],
+    ),
+    r'bookId': IndexSchema(
+      id: 3567540928881766442,
+      name: r'bookId',
+      unique: false,
+      replace: false,
+      properties: [
+        IndexPropertySchema(
+          name: r'bookId',
+          type: IndexType.value,
+          caseSensitive: true,
+        )
+      ],
     )
   },
   links: {},
@@ -118,6 +136,7 @@ int _hymnDbEstimateSize(
   Map<Type, List<int>> allOffsets,
 ) {
   var bytesCount = offsets.last;
+  bytesCount += 3 + object.bookId.length * 3;
   bytesCount += 3 + object.category.length * 3;
   bytesCount += 3 + object.fullText.length * 3;
   {
@@ -144,14 +163,15 @@ void _hymnDbSerialize(
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
-  writer.writeString(offsets[0], object.category);
-  writer.writeString(offsets[1], object.fullText);
-  writer.writeString(offsets[2], object.hymnCode);
-  writer.writeString(offsets[3], object.hymnId);
-  writer.writeLong(offsets[4], object.number);
-  writer.writeString(offsets[5], object.time);
-  writer.writeString(offsets[6], object.title);
-  writer.writeString(offsets[7], object.url);
+  writer.writeString(offsets[0], object.bookId);
+  writer.writeString(offsets[1], object.category);
+  writer.writeString(offsets[2], object.fullText);
+  writer.writeString(offsets[3], object.hymnCode);
+  writer.writeString(offsets[4], object.hymnId);
+  writer.writeLong(offsets[5], object.number);
+  writer.writeString(offsets[6], object.time);
+  writer.writeString(offsets[7], object.title);
+  writer.writeString(offsets[8], object.url);
 }
 
 HymnDb _hymnDbDeserialize(
@@ -161,15 +181,16 @@ HymnDb _hymnDbDeserialize(
   Map<Type, List<int>> allOffsets,
 ) {
   final object = HymnDb();
-  object.category = reader.readString(offsets[0]);
-  object.fullText = reader.readString(offsets[1]);
-  object.hymnCode = reader.readStringOrNull(offsets[2]);
-  object.hymnId = reader.readString(offsets[3]);
+  object.bookId = reader.readString(offsets[0]);
+  object.category = reader.readString(offsets[1]);
+  object.fullText = reader.readString(offsets[2]);
+  object.hymnCode = reader.readStringOrNull(offsets[3]);
+  object.hymnId = reader.readString(offsets[4]);
   object.id = id;
-  object.number = reader.readLong(offsets[4]);
-  object.time = reader.readStringOrNull(offsets[5]);
-  object.title = reader.readString(offsets[6]);
-  object.url = reader.readString(offsets[7]);
+  object.number = reader.readLong(offsets[5]);
+  object.time = reader.readStringOrNull(offsets[6]);
+  object.title = reader.readString(offsets[7]);
+  object.url = reader.readString(offsets[8]);
   return object;
 }
 
@@ -185,16 +206,18 @@ P _hymnDbDeserializeProp<P>(
     case 1:
       return (reader.readString(offset)) as P;
     case 2:
-      return (reader.readStringOrNull(offset)) as P;
+      return (reader.readString(offset)) as P;
     case 3:
-      return (reader.readString(offset)) as P;
-    case 4:
-      return (reader.readLong(offset)) as P;
-    case 5:
       return (reader.readStringOrNull(offset)) as P;
-    case 6:
+    case 4:
       return (reader.readString(offset)) as P;
+    case 5:
+      return (reader.readLong(offset)) as P;
+    case 6:
+      return (reader.readStringOrNull(offset)) as P;
     case 7:
+      return (reader.readString(offset)) as P;
+    case 8:
       return (reader.readString(offset)) as P;
     default:
       throw IsarError('Unknown property with id $propertyId');
@@ -240,6 +263,14 @@ extension HymnDbQueryWhereSort on QueryBuilder<HymnDb, HymnDb, QWhere> {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
         const IndexWhereClause.any(indexName: r'fullText'),
+      );
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhere> anyBookId() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addWhereClause(
+        const IndexWhereClause.any(indexName: r'bookId'),
       );
     });
   }
@@ -716,9 +747,274 @@ extension HymnDbQueryWhere on QueryBuilder<HymnDb, HymnDb, QWhereClause> {
       }
     });
   }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> bookIdEqualTo(String bookId) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addWhereClause(IndexWhereClause.equalTo(
+        indexName: r'bookId',
+        value: [bookId],
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> bookIdNotEqualTo(
+      String bookId) {
+    return QueryBuilder.apply(this, (query) {
+      if (query.whereSort == Sort.asc) {
+        return query
+            .addWhereClause(IndexWhereClause.between(
+              indexName: r'bookId',
+              lower: [],
+              upper: [bookId],
+              includeUpper: false,
+            ))
+            .addWhereClause(IndexWhereClause.between(
+              indexName: r'bookId',
+              lower: [bookId],
+              includeLower: false,
+              upper: [],
+            ));
+      } else {
+        return query
+            .addWhereClause(IndexWhereClause.between(
+              indexName: r'bookId',
+              lower: [bookId],
+              includeLower: false,
+              upper: [],
+            ))
+            .addWhereClause(IndexWhereClause.between(
+              indexName: r'bookId',
+              lower: [],
+              upper: [bookId],
+              includeUpper: false,
+            ));
+      }
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> bookIdGreaterThan(
+    String bookId, {
+    bool include = false,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addWhereClause(IndexWhereClause.between(
+        indexName: r'bookId',
+        lower: [bookId],
+        includeLower: include,
+        upper: [],
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> bookIdLessThan(
+    String bookId, {
+    bool include = false,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addWhereClause(IndexWhereClause.between(
+        indexName: r'bookId',
+        lower: [],
+        upper: [bookId],
+        includeUpper: include,
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> bookIdBetween(
+    String lowerBookId,
+    String upperBookId, {
+    bool includeLower = true,
+    bool includeUpper = true,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addWhereClause(IndexWhereClause.between(
+        indexName: r'bookId',
+        lower: [lowerBookId],
+        includeLower: includeLower,
+        upper: [upperBookId],
+        includeUpper: includeUpper,
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> bookIdStartsWith(
+      String BookIdPrefix) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addWhereClause(IndexWhereClause.between(
+        indexName: r'bookId',
+        lower: [BookIdPrefix],
+        upper: ['$BookIdPrefix\u{FFFFF}'],
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> bookIdIsEmpty() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addWhereClause(IndexWhereClause.equalTo(
+        indexName: r'bookId',
+        value: [''],
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> bookIdIsNotEmpty() {
+    return QueryBuilder.apply(this, (query) {
+      if (query.whereSort == Sort.asc) {
+        return query
+            .addWhereClause(IndexWhereClause.lessThan(
+              indexName: r'bookId',
+              upper: [''],
+            ))
+            .addWhereClause(IndexWhereClause.greaterThan(
+              indexName: r'bookId',
+              lower: [''],
+            ));
+      } else {
+        return query
+            .addWhereClause(IndexWhereClause.greaterThan(
+              indexName: r'bookId',
+              lower: [''],
+            ))
+            .addWhereClause(IndexWhereClause.lessThan(
+              indexName: r'bookId',
+              upper: [''],
+            ));
+      }
+    });
+  }
 }
 
 extension HymnDbQueryFilter on QueryBuilder<HymnDb, HymnDb, QFilterCondition> {
+  QueryBuilder<HymnDb, HymnDb, QAfterFilterCondition> bookIdEqualTo(
+    String value, {
+    bool caseSensitive = true,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.equalTo(
+        property: r'bookId',
+        value: value,
+        caseSensitive: caseSensitive,
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterFilterCondition> bookIdGreaterThan(
+    String value, {
+    bool include = false,
+    bool caseSensitive = true,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.greaterThan(
+        include: include,
+        property: r'bookId',
+        value: value,
+        caseSensitive: caseSensitive,
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterFilterCondition> bookIdLessThan(
+    String value, {
+    bool include = false,
+    bool caseSensitive = true,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.lessThan(
+        include: include,
+        property: r'bookId',
+        value: value,
+        caseSensitive: caseSensitive,
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterFilterCondition> bookIdBetween(
+    String lower,
+    String upper, {
+    bool includeLower = true,
+    bool includeUpper = true,
+    bool caseSensitive = true,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.between(
+        property: r'bookId',
+        lower: lower,
+        includeLower: includeLower,
+        upper: upper,
+        includeUpper: includeUpper,
+        caseSensitive: caseSensitive,
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterFilterCondition> bookIdStartsWith(
+    String value, {
+    bool caseSensitive = true,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.startsWith(
+        property: r'bookId',
+        value: value,
+        caseSensitive: caseSensitive,
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterFilterCondition> bookIdEndsWith(
+    String value, {
+    bool caseSensitive = true,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.endsWith(
+        property: r'bookId',
+        value: value,
+        caseSensitive: caseSensitive,
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterFilterCondition> bookIdContains(
+      String value,
+      {bool caseSensitive = true}) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.contains(
+        property: r'bookId',
+        value: value,
+        caseSensitive: caseSensitive,
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterFilterCondition> bookIdMatches(
+      String pattern,
+      {bool caseSensitive = true}) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.matches(
+        property: r'bookId',
+        wildcard: pattern,
+        caseSensitive: caseSensitive,
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterFilterCondition> bookIdIsEmpty() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.equalTo(
+        property: r'bookId',
+        value: '',
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterFilterCondition> bookIdIsNotEmpty() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.greaterThan(
+        property: r'bookId',
+        value: '',
+      ));
+    });
+  }
+
   QueryBuilder<HymnDb, HymnDb, QAfterFilterCondition> categoryEqualTo(
     String value, {
     bool caseSensitive = true,
@@ -1768,6 +2064,18 @@ extension HymnDbQueryObject on QueryBuilder<HymnDb, HymnDb, QFilterCondition> {}
 extension HymnDbQueryLinks on QueryBuilder<HymnDb, HymnDb, QFilterCondition> {}
 
 extension HymnDbQuerySortBy on QueryBuilder<HymnDb, HymnDb, QSortBy> {
+  QueryBuilder<HymnDb, HymnDb, QAfterSortBy> sortByBookId() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addSortBy(r'bookId', Sort.asc);
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterSortBy> sortByBookIdDesc() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addSortBy(r'bookId', Sort.desc);
+    });
+  }
+
   QueryBuilder<HymnDb, HymnDb, QAfterSortBy> sortByCategory() {
     return QueryBuilder.apply(this, (query) {
       return query.addSortBy(r'category', Sort.asc);
@@ -1866,6 +2174,18 @@ extension HymnDbQuerySortBy on QueryBuilder<HymnDb, HymnDb, QSortBy> {
 }
 
 extension HymnDbQuerySortThenBy on QueryBuilder<HymnDb, HymnDb, QSortThenBy> {
+  QueryBuilder<HymnDb, HymnDb, QAfterSortBy> thenByBookId() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addSortBy(r'bookId', Sort.asc);
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterSortBy> thenByBookIdDesc() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addSortBy(r'bookId', Sort.desc);
+    });
+  }
+
   QueryBuilder<HymnDb, HymnDb, QAfterSortBy> thenByCategory() {
     return QueryBuilder.apply(this, (query) {
       return query.addSortBy(r'category', Sort.asc);
@@ -1976,6 +2296,13 @@ extension HymnDbQuerySortThenBy on QueryBuilder<HymnDb, HymnDb, QSortThenBy> {
 }
 
 extension HymnDbQueryWhereDistinct on QueryBuilder<HymnDb, HymnDb, QDistinct> {
+  QueryBuilder<HymnDb, HymnDb, QDistinct> distinctByBookId(
+      {bool caseSensitive = true}) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addDistinctBy(r'bookId', caseSensitive: caseSensitive);
+    });
+  }
+
   QueryBuilder<HymnDb, HymnDb, QDistinct> distinctByCategory(
       {bool caseSensitive = true}) {
     return QueryBuilder.apply(this, (query) {
@@ -2036,6 +2363,12 @@ extension HymnDbQueryProperty on QueryBuilder<HymnDb, HymnDb, QQueryProperty> {
   QueryBuilder<HymnDb, int, QQueryOperations> idProperty() {
     return QueryBuilder.apply(this, (query) {
       return query.addPropertyName(r'id');
+    });
+  }
+
+  QueryBuilder<HymnDb, String, QQueryOperations> bookIdProperty() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addPropertyName(r'bookId');
     });
   }
 

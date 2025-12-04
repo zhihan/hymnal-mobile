@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'hymn_detail_screen.dart';
 import 'search_screen.dart';
+import 'favorites_screen.dart';
 import '../services/hymn_loader_service.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -15,8 +16,8 @@ class _HomeScreenState extends State<HomeScreen> {
   final _formKey = GlobalKey<FormState>();
   bool _isLoading = false;
   String? _errorMessage;
-  Map<String, String> _categories = {};
-  String _selectedCategory = 'ns'; // Default to 'ns' (New Songs)
+  Map<String, String> _books = {};
+  String _selectedBookId = 'ns'; // Default to 'ns' (New Songs)
 
   @override
   void initState() {
@@ -26,16 +27,16 @@ class _HomeScreenState extends State<HomeScreen> {
 
   Future<void> _loadCategories() async {
     try {
-      final categories = await HymnLoaderService.getCategories();
+      final books = await HymnLoaderService.getCategories();
       setState(() {
-        _categories = categories;
-        // Set default category if 'ts' exists, otherwise use first available
-        if (!categories.containsKey(_selectedCategory) && categories.isNotEmpty) {
-          _selectedCategory = categories.keys.first;
+        _books = books;
+        // Set default bookId if 'ns' exists, otherwise use first available
+        if (!books.containsKey(_selectedBookId) && books.isNotEmpty) {
+          _selectedBookId = books.keys.first;
         }
       });
     } catch (e) {
-      // If categories fail to load, keep default
+      // If books fail to load, keep default
     }
   }
 
@@ -56,7 +57,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
       try {
         // Try to load the hymn to verify it exists
-        await HymnLoaderService.loadHymnByNumber(_selectedCategory, hymnNumber);
+        await HymnLoaderService.loadHymnByNumber(_selectedBookId, hymnNumber);
 
         // If successful, navigate to detail screen
         if (mounted) {
@@ -69,7 +70,7 @@ class _HomeScreenState extends State<HomeScreen> {
             MaterialPageRoute(
               builder: (context) => HymnDetailScreen(
                 initialHymnNumber: hymnNumber,
-                category: _selectedCategory,
+                bookId: _selectedBookId,
               ),
             ),
           );
@@ -88,14 +89,26 @@ class _HomeScreenState extends State<HomeScreen> {
 
   @override
   Widget build(BuildContext context) {
-    final categoryDisplayName = _categories[_selectedCategory] ?? 'New Songs';
+    final bookDisplayName = _books[_selectedBookId] ?? 'New Songs';
 
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-        title: Text(categoryDisplayName),
+        title: Text(bookDisplayName),
         centerTitle: true,
         actions: [
+          IconButton(
+            icon: const Icon(Icons.favorite),
+            tooltip: '收藏的诗歌',
+            onPressed: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => const FavoritesScreen(),
+                ),
+              );
+            },
+          ),
           IconButton(
             icon: const Icon(Icons.search),
             tooltip: '搜索诗歌',
@@ -124,15 +137,15 @@ class _HomeScreenState extends State<HomeScreen> {
               ),
               const SizedBox(height: 32),
               Text(
-                categoryDisplayName,
+                bookDisplayName,
                 style: const TextStyle(
                   fontSize: 32,
                   fontWeight: FontWeight.bold,
                 ),
               ),
               const SizedBox(height: 48),
-              // Category selector
-              if (_categories.isNotEmpty)
+              // Book selector
+              if (_books.isNotEmpty)
                 Container(
                   padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
                   decoration: BoxDecoration(
@@ -140,10 +153,10 @@ class _HomeScreenState extends State<HomeScreen> {
                     borderRadius: BorderRadius.circular(8),
                   ),
                   child: DropdownButton<String>(
-                    value: _selectedCategory,
+                    value: _selectedBookId,
                     isExpanded: true,
                     underline: const SizedBox(),
-                    items: _categories.entries.map((entry) {
+                    items: _books.entries.map((entry) {
                       return DropdownMenuItem<String>(
                         value: entry.key,
                         child: Text(
@@ -155,7 +168,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     onChanged: (String? newValue) {
                       if (newValue != null) {
                         setState(() {
-                          _selectedCategory = newValue;
+                          _selectedBookId = newValue;
                           _errorMessage = null;
                         });
                       }

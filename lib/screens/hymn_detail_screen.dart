@@ -1,16 +1,18 @@
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 import '../models/hymn_song.dart';
 import '../services/hymn_loader_service.dart';
 import '../widgets/hymn_display.dart';
+import '../providers/favorites_provider.dart';
 
 class HymnDetailScreen extends StatefulWidget {
   final int initialHymnNumber;
-  final String category;
+  final String bookId;
 
   const HymnDetailScreen({
     super.key,
     required this.initialHymnNumber,
-    required this.category,
+    required this.bookId,
   });
 
   @override
@@ -22,8 +24,8 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   bool _isLoading = true;
   String? _error;
   int _currentHymnNumber = 1;
-  String _currentCategory = 'ts';
-  String _categoryDisplayName = '';
+  String _currentBookId = 'ts';
+  String _bookDisplayName = '';
   int _transposeOffset = 0;
   bool _showTransposeControls = false;
   bool _showChords = true; // Show chords by default
@@ -31,8 +33,8 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   int? _previousHymnNumber;
   bool _showLanguageNavigation = false;
 
-  // Category short names for display
-  static const Map<String, String> _categoryShortNames = {
+  // Book short names for display
+  static const Map<String, String> _bookShortNames = {
     'ch': '大',
     'ts': '补',
     'h': 'E',
@@ -42,20 +44,20 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   void initState() {
     super.initState();
     _currentHymnNumber = widget.initialHymnNumber;
-    _currentCategory = widget.category;
-    _loadCategoryDisplayName();
+    _currentBookId = widget.bookId;
+    _loadBookDisplayName();
     _loadHymn(_currentHymnNumber);
   }
 
-  Future<void> _loadCategoryDisplayName() async {
+  Future<void> _loadBookDisplayName() async {
     try {
-      final categories = await HymnLoaderService.getCategories();
+      final books = await HymnLoaderService.getCategories();
       setState(() {
-        _categoryDisplayName = categories[_currentCategory] ?? '补充本';
+        _bookDisplayName = books[_currentBookId] ?? '补充本';
       });
     } catch (e) {
       setState(() {
-        _categoryDisplayName = '补充本';
+        _bookDisplayName = '补充本';
       });
     }
   }
@@ -68,7 +70,7 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
 
     try {
       // Load the hymn first
-      final hymn = await HymnLoaderService.loadHymnByNumber(_currentCategory, hymnNumber);
+      final hymn = await HymnLoaderService.loadHymnByNumber(_currentBookId, hymnNumber);
 
       // Then load navigation info (these use cached available numbers)
       // Wrap in try-catch to handle errors gracefully
@@ -76,8 +78,8 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
       int? previousNumber;
 
       try {
-        nextNumber = await HymnLoaderService.getNextHymnNumber(_currentCategory, hymnNumber);
-        previousNumber = await HymnLoaderService.getPreviousHymnNumber(_currentCategory, hymnNumber);
+        nextNumber = await HymnLoaderService.getNextHymnNumber(_currentBookId, hymnNumber);
+        previousNumber = await HymnLoaderService.getPreviousHymnNumber(_currentBookId, hymnNumber);
       } catch (navError) {
         // If navigation loading fails, we can still show the hymn
         // Just disable the navigation buttons
@@ -125,24 +127,39 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     return List<Map<String, dynamic>>.from(related);
   }
 
-  void _navigateToRelatedHymn(String category, String number) {
+  void _navigateToRelatedHymn(String bookId, String number) {
     final hymnNumber = int.tryParse(number);
     if (hymnNumber == null) return;
 
     setState(() {
-      _currentCategory = category;
+      _currentBookId = bookId;
     });
-    _loadCategoryDisplayName();
+    _loadBookDisplayName();
     _loadHymn(hymnNumber);
   }
 
+  String get _currentHymnId => '${_currentBookId}_$_currentHymnNumber';
+
   @override
   Widget build(BuildContext context) {
+    final favoritesProvider = Provider.of<FavoritesProvider>(context);
+    final isFavorite = favoritesProvider.isFavorite(_currentHymnId);
+
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-        title: Text('$_categoryDisplayName $_currentHymnNumber'),
+        title: Text('$_bookDisplayName $_currentHymnNumber'),
         actions: [
+          IconButton(
+            icon: Icon(
+              isFavorite ? Icons.favorite : Icons.favorite_border,
+              color: isFavorite ? Colors.red : null,
+            ),
+            onPressed: () {
+              favoritesProvider.toggleFavorite(_currentHymnId);
+            },
+            tooltip: isFavorite ? 'Remove from favorites' : 'Add to favorites',
+          ),
           IconButton(
             icon: const Icon(Icons.arrow_back_ios),
             onPressed: _previousHymnNumber != null
@@ -254,13 +271,13 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
               spacing: 8,
               runSpacing: 8,
               children: _getRelatedHymns().map((related) {
-                final category = related['category'] as String? ?? '';
+                final bookId = related['category'] as String? ?? '';
                 final number = related['number'] as String? ?? '';
-                final shortName = _categoryShortNames[category] ?? category.toUpperCase();
+                final shortName = _bookShortNames[bookId] ?? bookId.toUpperCase();
                 final displayText = '$shortName$number';
 
                 return ElevatedButton(
-                  onPressed: () => _navigateToRelatedHymn(category, number),
+                  onPressed: () => _navigateToRelatedHymn(bookId, number),
                   style: ElevatedButton.styleFrom(
                     padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
                     backgroundColor: Colors.blue[100],
