@@ -17,7 +17,7 @@ class _HomeScreenState extends State<HomeScreen> {
   bool _isLoading = false;
   String? _errorMessage;
   Map<String, String> _books = {};
-  String _selectedBookId = 'ns'; // Default to 'ns' (New Songs)
+  String _selectedBookId = 'ch'; // Default to 'ch' (大本)
 
   @override
   void initState() {

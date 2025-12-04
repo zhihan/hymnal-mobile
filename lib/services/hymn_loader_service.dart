@@ -34,9 +34,9 @@ class HymnLoaderService {
       final Map<String, dynamic> jsonData = json.decode(jsonString);
 
       final Map<String, String> result = {
-        'h': 'Hymns',
         'ch': '大本',
         'ts': '补充本',
+        'h': 'Hymns',
         'ns': 'New Songs',
       };
 
