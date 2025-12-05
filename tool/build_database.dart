@@ -24,7 +24,7 @@ Future<void> main() async {
     print('Scanning category: $category');
     final categoryHymns = <int>[];
 
-    for (int i = 1; i <= 1500; i++) {
+    for (int i = 1; i <= 9999; i++) {
       final file = File('hymns/${category}_$i.json');
 
       if (file.existsSync()) {
