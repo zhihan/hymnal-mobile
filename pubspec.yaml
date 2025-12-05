@@ -109,10 +109,7 @@ flutter_launcher_icons:
   android: true
   ios: true
   image_path: "assets/icon/app_icon.png"
-  # Optionally, you can specify different icons for different platforms:
-  # android: "assets/icon/android_icon.png"
-  # ios: "assets/icon/ios_icon.png"
 
-  # For adaptive icons on Android (optional):
-  # adaptive_icon_background: "#FFFFFF"  # Background color
-  # adaptive_icon_foreground: "assets/icon/foreground.png"  # Foreground image
+  # Android adaptive icon configuration for transparent background
+  adaptive_icon_background: "#00000000"  # Transparent background
+  adaptive_icon_foreground: "assets/icon/app_icon.png"  # Foreground image
