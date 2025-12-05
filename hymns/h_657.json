@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/en/hymn/h/657",
+  "url": "https://www.hymnal.net/cn/hymn/h/657",
   "title": "Can you be obedient",
   "verses": [
     {
@@ -344,7 +344,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Christ will say, “Well done.”"
+              "text": "Christ will say, \"Well done.\""
             }
           ]
         }
@@ -357,8 +357,8 @@
     "hymn_code": "35651543211",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/480",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/480",
+        "language": "cn",
         "category": "ch",
         "number": "480",
         "title": "C480"
@@ -397,6 +397,6 @@
     "Then when soldiers muster",
     "At the set of sun,",
     "And your name is mentioned,",
-    "Christ will say, “Well done.”"
+    "Christ will say, \"Well done.\""
   ]
 }

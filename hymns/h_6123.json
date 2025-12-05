@@ -1,0 +1,122 @@
+{
+  "url": "https://www.hymnal.net/cn/hymn/h/6123",
+  "title": "Jesus is living in me",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Halle"
+            },
+            {
+              "chord": "G",
+              "text": "lujah,"
+            },
+            {
+              "chord": "",
+              "text": "halle"
+            },
+            {
+              "chord": "D",
+              "text": "lujah,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "Jesus"
+            },
+            {
+              "chord": "",
+              "text": "is"
+            },
+            {
+              "chord": "A7",
+              "text": "living,"
+            },
+            {
+              "chord": "",
+              "text": "is"
+            },
+            {
+              "chord": "D",
+              "text": "living"
+            },
+            {
+              "chord": "",
+              "text": "in me."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Halle"
+            },
+            {
+              "chord": "G",
+              "text": "lujah,"
+            },
+            {
+              "chord": "",
+              "text": "halle"
+            },
+            {
+              "chord": "D",
+              "text": "lujah,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "Jesus"
+            },
+            {
+              "chord": "",
+              "text": "is"
+            },
+            {
+              "chord": "A7",
+              "text": "living"
+            },
+            {
+              "chord": "",
+              "text": "in"
+            },
+            {
+              "chord": "D",
+              "text": "me."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Experience of Christ",
+    "time": "4/4",
+    "hymn_code": "556466535234323445",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ts/123",
+        "language": "cn",
+        "category": "ts",
+        "number": "123",
+        "title": "Cs123"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Hallelujah,hallelujah,",
+    "Jesusisliving,islivingin me.",
+    "Hallelujah,hallelujah,",
+    "Jesusislivinginme."
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "url": "https://www.hymnal.net/cn/hymn/h/8392",
+  "title": "Dearest of all is He",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Dear"
+            },
+            {
+              "chord": "Bm",
+              "text": "est of"
+            },
+            {
+              "chord": "Em",
+              "text": "all is"
+            },
+            {
+              "chord": "A7",
+              "text": "He,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "The"
+            },
+            {
+              "chord": "Bm",
+              "text": "One I"
+            },
+            {
+              "chord": "A7",
+              "text": "love the"
+            },
+            {
+              "chord": "D7",
+              "text": "best;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "'Tis"
+            },
+            {
+              "chord": "Em",
+              "text": "Him we"
+            },
+            {
+              "chord": "F♯m",
+              "text": "all must"
+            },
+            {
+              "chord": "Bm",
+              "text": "seek,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And re"
+            },
+            {
+              "chord": "G",
+              "text": "ly on"
+            },
+            {
+              "chord": "A7",
+              "text": "Him at"
+            },
+            {
+              "chord": "D",
+              "text": "last."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Supplying all my need,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In weakness He sustains;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Fairest of fair to me"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Ever faithful He remains."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He, our joy endlessly,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The same through every test;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Dearest of all is He;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He's the One I love the best."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Experience of Christ",
+    "time": "4/4",
+    "hymn_code": "531324323135543",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ch/392",
+        "language": "cn",
+        "category": "ch",
+        "number": "392",
+        "title": "C392"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Dearest ofall isHe,",
+    "TheOne Ilove thebest;",
+    "'TisHim weall mustseek,",
+    "And rely onHim atlast.",
+    "Supplying all my need,",
+    "In weakness He sustains;",
+    "Fairest of fair to me",
+    "Ever faithful He remains.",
+    "He, our joy endlessly,",
+    "The same through every test;",
+    "Dearest of all is He;",
+    "He's the One I love the best."
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "url": "https://www.hymnal.net/cn/hymn/h/8137",
+  "title": "Gracious Lord, Your glory leaving",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Gracious"
+            },
+            {
+              "chord": "",
+              "text": "Lord, Your"
+            },
+            {
+              "chord": "A",
+              "text": "glory"
+            },
+            {
+              "chord": "",
+              "text": "leaving,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "You a"
+            },
+            {
+              "chord": "",
+              "text": "lowly"
+            },
+            {
+              "chord": "A7",
+              "text": "man be"
+            },
+            {
+              "chord": "D",
+              "text": "came;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For me, bitter"
+            },
+            {
+              "chord": "A",
+              "text": "cross You"
+            },
+            {
+              "chord": "",
+              "text": "tasted,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Bearing"
+            },
+            {
+              "chord": "",
+              "text": "all my"
+            },
+            {
+              "chord": "A7",
+              "text": "sins and"
+            },
+            {
+              "chord": "D",
+              "text": "shame."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Grace, as ocean"
+            },
+            {
+              "chord": "A",
+              "text": "deep,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I can"
+            },
+            {
+              "chord": "A7",
+              "text": "ne'er re"
+            },
+            {
+              "chord": "D",
+              "text": "pay;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I would offer all my"
+            },
+            {
+              "chord": "G",
+              "text": "love, Lord;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "Yours it"
+            },
+            {
+              "chord": "A7",
+              "text": "is for"
+            },
+            {
+              "chord": "D",
+              "text": "aye."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Praise of the Lord",
+    "time": "4/4",
+    "hymn_code": "334322321143231",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ch/137",
+        "language": "cn",
+        "category": "ch",
+        "number": "137",
+        "title": "C137"
+      }
+    ]
+  },
+  "raw_sections": [
+    "GraciousLord, Yourgloryleaving,",
+    "You alowlyman became;",
+    "For me, bittercross Youtasted,",
+    "Bearingall mysins andshame.",
+    "Grace, as oceandeep,",
+    "I canne'er repay;",
+    "I would offer all mylove, Lord;",
+    "Yours itis foraye."
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/en/hymn/h/1223",
+  "url": "https://www.hymnal.net/cn/hymn/h/1223",
   "title": "O walk about, walk about Zion",
   "verses": [
     {
@@ -312,7 +312,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "The Lord bless thee o’er and o’er!"
+              "text": "The Lord bless thee o'er and o'er!"
             }
           ]
         },
@@ -400,7 +400,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "The Spirit and Bride say, “Come!”"
+              "text": "The Spirit and Bride say, \"Come!\""
             }
           ]
         }
@@ -413,8 +413,8 @@
     "hymn_code": "566617665",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/506",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/506",
+        "language": "cn",
         "category": "ts",
         "number": "506",
         "title": "Cs506"
@@ -448,7 +448,7 @@
     "O bless the Lord out of Zion,",
     "Ye who in Jerusalem dwell.",
     "The Lord bless thee out of Zion,",
-    "The Lord bless thee o’er and o’er!",
+    "The Lord bless thee o'er and o'er!",
     "The Lord bless thee out of Zion",
     "With life for evermore!",
     "Behold how good and how pleasant",
@@ -458,6 +458,6 @@
     "O tell it to all generations,",
     "O tell it to all who will come,",
     "O tell it to all generations,",
-    "The Spirit and Bride say, “Come!”"
+    "The Spirit and Bride say, \"Come!\""
   ]
 }

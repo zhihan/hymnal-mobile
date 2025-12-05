@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/en/hymn/h/119",
+  "url": "https://www.hymnal.net/cn/hymn/h/119",
   "title": "Hallelujah, He is risen",
   "verses": [
     {
@@ -204,7 +204,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "From the grave “His own” will bring:"
+              "text": "From the grave \"His own\" will bring:"
             }
           ]
         },
@@ -233,8 +233,8 @@
     "hymn_code": "555323151124323",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/105",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/105",
+        "language": "cn",
         "category": "ch",
         "number": "105",
         "title": "C105"
@@ -254,7 +254,7 @@
     "Hallelujah, He is risen!",
     "Death for aye has lost his sting;",
     "Christ, Himself the Resurrection,",
-    "From the grave “His own” will bring:",
+    "From the grave \"His own\" will bring:",
     "He is risen, He is risen,",
     "Living Lord and coming King."
   ]

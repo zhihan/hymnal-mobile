@@ -1,0 +1,281 @@
+{
+  "url": "https://www.hymnal.net/cn/hymn/h/8245",
+  "title": "Once in sin I served, a slave, in pain, by sin tormented",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Once in"
+            },
+            {
+              "chord": "",
+              "text": "sin I served, a slave, in"
+            },
+            {
+              "chord": "D",
+              "text": "pain, by"
+            },
+            {
+              "chord": "",
+              "text": "sin"
+            },
+            {
+              "chord": "D7",
+              "text": "tor"
+            },
+            {
+              "chord": "G",
+              "text": "mented;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "Sin once"
+            },
+            {
+              "chord": "",
+              "text": "held me"
+            },
+            {
+              "chord": "G",
+              "text": "captive,"
+            },
+            {
+              "chord": "",
+              "text": "bound me,"
+            },
+            {
+              "chord": "A7",
+              "text": "reigned as"
+            },
+            {
+              "chord": "",
+              "text": "lord o'er"
+            },
+            {
+              "chord": "D",
+              "text": "me;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Struggling"
+            },
+            {
+              "chord": "",
+              "text": "vainly to escape, sad"
+            },
+            {
+              "chord": "D",
+              "text": "groans and"
+            },
+            {
+              "chord": "D7",
+              "text": "sighs I"
+            },
+            {
+              "chord": "G",
+              "text": "vented,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "Unaware"
+            },
+            {
+              "chord": "",
+              "text": "that"
+            },
+            {
+              "chord": "G",
+              "text": "Jesus"
+            },
+            {
+              "chord": "",
+              "text": "had"
+            },
+            {
+              "chord": "D",
+              "text": "set"
+            },
+            {
+              "chord": "D7",
+              "text": "me"
+            },
+            {
+              "chord": "G",
+              "text": "free."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "How deep the grace that reached me!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "From sin's tyranny I'm"
+            },
+            {
+              "chord": "D",
+              "text": "freed!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I'm"
+            },
+            {
+              "chord": "D7",
+              "text": "drinking"
+            },
+            {
+              "chord": "",
+              "text": "living"
+            },
+            {
+              "chord": "G",
+              "text": "water,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Sal"
+            },
+            {
+              "chord": "A7",
+              "text": "vation's"
+            },
+            {
+              "chord": "",
+              "text": "bounteous"
+            },
+            {
+              "chord": "D",
+              "text": "feast;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Praise"
+            },
+            {
+              "chord": "D7",
+              "text": "God! What"
+            },
+            {
+              "chord": "G",
+              "text": "riches!"
+            },
+            {
+              "chord": "",
+              "text": "Oh, what"
+            },
+            {
+              "chord": "G7",
+              "text": "sweetness!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Oh, what"
+            },
+            {
+              "chord": "C",
+              "text": "joy and"
+            },
+            {
+              "chord": "",
+              "text": "praises"
+            },
+            {
+              "chord": "G",
+              "text": "spring!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Oh, Hallelujah! Deep"
+            },
+            {
+              "chord": "D",
+              "text": "grace"
+            },
+            {
+              "chord": "D7",
+              "text": "reached"
+            },
+            {
+              "chord": "G",
+              "text": "me!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Assurance and Joy of Salvation",
+    "time": "4/4",
+    "hymn_code": "12165653565435",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ch/245",
+        "language": "cn",
+        "category": "ch",
+        "number": "245",
+        "title": "C245"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Once insin I served, a slave, inpain, bysintormented;",
+    "Sin onceheld mecaptive,bound me,reigned aslord o'erme;",
+    "Strugglingvainly to escape, sadgroans andsighs Ivented,",
+    "UnawarethatJesushadsetmefree.",
+    "How deep the grace that reached me!",
+    "From sin's tyranny I'mfreed!",
+    "I'mdrinkinglivingwater,",
+    "Salvation'sbounteousfeast;",
+    "PraiseGod! Whatriches!Oh, whatsweetness!",
+    "Oh, whatjoy andpraisesspring!",
+    "Oh, Hallelujah! Deepgracereachedme!"
+  ]
+}

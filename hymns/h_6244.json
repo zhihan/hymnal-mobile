@@ -1,0 +1,162 @@
+{
+  "url": "https://www.hymnal.net/cn/hymn/h/6244",
+  "title": "Walking in the Good Land",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Walking"
+            },
+            {
+              "chord": "",
+              "text": "in the Good Land,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "How it makes our Spirit"
+            },
+            {
+              "chord": "A",
+              "text": "strong!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "Working"
+            },
+            {
+              "chord": "",
+              "text": "on the Good Land,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "Christ enjoying"
+            },
+            {
+              "chord": "",
+              "text": "all day"
+            },
+            {
+              "chord": "D",
+              "text": "long."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "His riches, His fulness, and"
+            },
+            {
+              "chord": "D7",
+              "text": "all of"
+            },
+            {
+              "chord": "",
+              "text": "His power"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Are"
+            },
+            {
+              "chord": "G",
+              "text": "ours to"
+            },
+            {
+              "chord": "",
+              "text": "experience"
+            },
+            {
+              "chord": "Gm",
+              "text": "hour"
+            },
+            {
+              "chord": "",
+              "text": "by hour!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Living"
+            },
+            {
+              "chord": "",
+              "text": "in the"
+            },
+            {
+              "chord": "Bm",
+              "text": "Good Land—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "Christ is"
+            },
+            {
+              "chord": "",
+              "text": "now our"
+            },
+            {
+              "chord": "A7",
+              "text": "all in"
+            },
+            {
+              "chord": "D",
+              "text": "all."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Experience of Christ",
+    "time": "4/4",
+    "hymn_code": "3333213333217",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ts/244",
+        "language": "cn",
+        "category": "ts",
+        "number": "244",
+        "title": "Cs244"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Walkingin the Good Land,",
+    "How it makes our Spiritstrong!",
+    "Workingon the Good Land,",
+    "Christ enjoyingall daylong.",
+    "His riches, His fulness, andall ofHis power",
+    "Areours toexperiencehourby hour!",
+    "Livingin theGood Land—",
+    "Christ isnow ourall inall."
+  ]
+}

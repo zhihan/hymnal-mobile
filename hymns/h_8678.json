@@ -1,0 +1,170 @@
+{
+  "url": "https://www.hymnal.net/cn/hymn/h/8678",
+  "title": "The Lord Jesus beside",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "The Lord"
+            },
+            {
+              "chord": "",
+              "text": "Jesus"
+            },
+            {
+              "chord": "A7",
+              "text": "be"
+            },
+            {
+              "chord": "D",
+              "text": "side,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The Lord Jesus"
+            },
+            {
+              "chord": "A7",
+              "text": "be"
+            },
+            {
+              "chord": "D",
+              "text": "side,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "There is no oth"
+            },
+            {
+              "chord": "G",
+              "text": "er"
+            },
+            {
+              "chord": "D",
+              "text": "way,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For there's"
+            },
+            {
+              "chord": "E7",
+              "text": "no other"
+            },
+            {
+              "chord": "A",
+              "text": "name"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Given"
+            },
+            {
+              "chord": "",
+              "text": "men under"
+            },
+            {
+              "chord": "Bm",
+              "text": "heaven,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "Given"
+            },
+            {
+              "chord": "",
+              "text": "men under"
+            },
+            {
+              "chord": "A7",
+              "text": "heaven"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In which"
+            },
+            {
+              "chord": "D",
+              "text": "we must"
+            },
+            {
+              "chord": "",
+              "text": "be saved,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "In which"
+            },
+            {
+              "chord": "D",
+              "text": "we must"
+            },
+            {
+              "chord": "A7",
+              "text": "be"
+            },
+            {
+              "chord": "D",
+              "text": "saved."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Gospel",
+    "time": "3/4",
+    "hymn_code": "543321543321",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ch/678",
+        "language": "cn",
+        "category": "ch",
+        "number": "678",
+        "title": "C678"
+      }
+    ]
+  },
+  "raw_sections": [
+    "The LordJesusbeside,",
+    "The Lord Jesusbeside,",
+    "There is no otherway,",
+    "For there'sno othername",
+    "Givenmen underheaven,",
+    "Givenmen underheaven",
+    "In whichwe mustbe saved,",
+    "In whichwe mustbesaved."
+  ]
+}

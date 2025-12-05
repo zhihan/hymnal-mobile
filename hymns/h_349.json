@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/en/hymn/h/349",
+  "url": "https://www.hymnal.net/cn/hymn/h/349",
   "title": "As pants the hart for cooling streams",
   "verses": [
     {
@@ -184,7 +184,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "To my oppressor’s scorn?"
+              "text": "To my oppressor's scorn?"
             }
           ]
         }
@@ -220,7 +220,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Thy health’s eternal spring."
+              "text": "Thy health's eternal spring."
             }
           ]
         }
@@ -233,8 +233,8 @@
     "hymn_code": "5165123213532132",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/269",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/269",
+        "language": "cn",
         "category": "ch",
         "number": "269",
         "title": "C269"
@@ -257,10 +257,10 @@
     "God of my strength, how long shall I,",
     "Like one forgotten, mourn,",
     "Forlorn, forsaken, and exposed",
-    "To my oppressor’s scorn?",
+    "To my oppressor's scorn?",
     "Why restless, why cast down, my soul?",
     "Hope still, and thou shalt sing",
     "The praise of Him who is thy God,",
-    "Thy health’s eternal spring."
+    "Thy health's eternal spring."
   ]
 }

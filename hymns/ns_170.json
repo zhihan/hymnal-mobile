@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/en/hymn/ns/170",
+  "url": "https://www.hymnal.net/cn/hymn/ns/170",
   "title": "Everybody ought to know",
   "verses": [
     {
@@ -216,7 +216,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "All God’s fullness He contains;"
+              "text": "All God's fullness He contains;"
             }
           ]
         },
@@ -245,8 +245,8 @@
     "hymn_code": "55654535565453",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/107",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/107",
+        "language": "cn",
         "category": "ts",
         "number": "107",
         "title": "Cs107"
@@ -268,7 +268,7 @@
     "The living Christ.",
     "(Repeat)",
     "Christ is the life-giving Spirit;",
-    "All God’s fullness He contains;",
+    "All God's fullness He contains;",
     "We partake of all His riches",
     "Just by calling on His Name."
   ]

@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/en/hymn/h/110",
+  "url": "https://www.hymnal.net/cn/hymn/h/110",
   "title": "O solemn hour! O hour alone",
   "verses": [
     {
@@ -208,7 +208,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Onward, and back to Thee’"
+              "text": "Onward, and back to Thee'"
             }
           ]
         },
@@ -284,7 +284,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "“Eli, lama sabachthani!”"
+              "text": "\"Eli, lama sabachthani!\""
             }
           ]
         }
@@ -388,7 +388,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "The Church’s living Head!"
+              "text": "The Church's living Head!"
             }
           ]
         },
@@ -404,7 +404,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Now with Thee, “Abba Father,” cry."
+              "text": "Now with Thee, \"Abba Father,\" cry."
             }
           ]
         }
@@ -417,8 +417,8 @@
     "hymn_code": "55331766653312",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/92",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/92",
+        "language": "cn",
         "category": "ch",
         "number": "92",
         "title": "C92"
@@ -437,7 +437,7 @@
     "Of life and death the tree!",
     "Center of two eternities,",
     "Which look with rapt, adoring eyes,",
-    "Onward, and back to Thee’",
+    "Onward, and back to Thee'",
     "O cross of Christ, where all His pain",
     "And death is our eternal gain.",
     "O how our inmost hearts do move,",
@@ -446,7 +446,7 @@
     "What shame, what grief, what joy we prove,",
     "That He should die for us!",
     "Our hearts were broken by that cry,",
-    "“Eli, lama sabachthani!”",
+    "\"Eli, lama sabachthani!\"",
     "Worthy of death, O Lord, we were;",
     "That vengeance was our due;",
     "In grace Thou, spotless Lamb, didst bear",
@@ -458,8 +458,8 @@
     "Raised with Thee from the dead;",
     "Thine Own, now human and divine,",
     "Shall with Thee in Thy glories shine,",
-    "The Church’s living Head!",
+    "The Church's living Head!",
     "We, who were worthy but to die,",
-    "Now with Thee, “Abba Father,” cry."
+    "Now with Thee, \"Abba Father,\" cry."
   ]
 }

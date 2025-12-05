@@ -1,0 +1,264 @@
+{
+  "url": "https://www.hymnal.net/cn/hymn/h/8697",
+  "title": "Rejoice and tremble, heav'n and earth",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Re"
+            },
+            {
+              "chord": "A",
+              "text": "joice and"
+            },
+            {
+              "chord": "D",
+              "text": "tremble,"
+            },
+            {
+              "chord": "A",
+              "text": "heav'n and"
+            },
+            {
+              "chord": "Bm",
+              "text": "earth!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The"
+            },
+            {
+              "chord": "D",
+              "text": "mighty"
+            },
+            {
+              "chord": "Em",
+              "text": "God with"
+            },
+            {
+              "chord": "A7",
+              "text": "man would"
+            },
+            {
+              "chord": "D",
+              "text": "dwell!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Though"
+            },
+            {
+              "chord": "G",
+              "text": "man is"
+            },
+            {
+              "chord": "D",
+              "text": "vile and"
+            },
+            {
+              "chord": "A",
+              "text": "without"
+            },
+            {
+              "chord": "Bm",
+              "text": "worth,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Yet"
+            },
+            {
+              "chord": "D",
+              "text": "God, in"
+            },
+            {
+              "chord": "Em",
+              "text": "love, will"
+            },
+            {
+              "chord": "A7",
+              "text": "ne'er re"
+            },
+            {
+              "chord": "D",
+              "text": "pel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "What great"
+            },
+            {
+              "chord": "D",
+              "text": "news!"
+            },
+            {
+              "chord": "A",
+              "text": "Myst'ry"
+            },
+            {
+              "chord": "Bm",
+              "text": "true!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "God"
+            },
+            {
+              "chord": "D",
+              "text": "wants to"
+            },
+            {
+              "chord": "Em",
+              "text": "dwell with"
+            },
+            {
+              "chord": "A7",
+              "text": "me and"
+            },
+            {
+              "chord": "D",
+              "text": "you!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For"
+            },
+            {
+              "chord": "G",
+              "text": "ever"
+            },
+            {
+              "chord": "D",
+              "text": "one, at"
+            },
+            {
+              "chord": "A",
+              "text": "rest we'll"
+            },
+            {
+              "chord": "D",
+              "text": "stay,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "En"
+            },
+            {
+              "chord": "A",
+              "text": "joying"
+            },
+            {
+              "chord": "D",
+              "text": "God Him"
+            },
+            {
+              "chord": "G",
+              "text": "self for"
+            },
+            {
+              "chord": "A7",
+              "text": "aye!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "What great"
+            },
+            {
+              "chord": "D",
+              "text": "news!"
+            },
+            {
+              "chord": "A",
+              "text": "Myst'ry true!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "God wants"
+            },
+            {
+              "chord": "D",
+              "text": "to dwell"
+            },
+            {
+              "chord": "Em",
+              "text": "with me"
+            },
+            {
+              "chord": "A7",
+              "text": "and you!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Gospel",
+    "time": "3/2",
+    "hymn_code": "5123512334321321",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ch/697",
+        "language": "cn",
+        "category": "ch",
+        "number": "697",
+        "title": "C697"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Rejoice andtremble,heav'n andearth!",
+    "ThemightyGod withman woulddwell!",
+    "Thoughman isvile andwithoutworth,",
+    "YetGod, inlove, willne'er repel.",
+    "What greatnews!Myst'rytrue!",
+    "Godwants todwell withme andyou!",
+    "Foreverone, atrest we'llstay,",
+    "EnjoyingGod Himself foraye!",
+    "What greatnews!Myst'ry true!",
+    "God wantsto dwellwith meand you!"
+  ]
+}

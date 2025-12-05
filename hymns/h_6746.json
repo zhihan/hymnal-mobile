@@ -1,0 +1,162 @@
+{
+  "url": "https://www.hymnal.net/cn/hymn/h/6746",
+  "title": "Lord, to Thy gracious hand, I my being commend",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Lord, to"
+            },
+            {
+              "chord": "",
+              "text": "Thy gracious"
+            },
+            {
+              "chord": "Bm",
+              "text": "hand, I"
+            },
+            {
+              "chord": "",
+              "text": "my"
+            },
+            {
+              "chord": "Em",
+              "text": "being"
+            },
+            {
+              "chord": "",
+              "text": "com"
+            },
+            {
+              "chord": "A7",
+              "text": "mend;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For Thy"
+            },
+            {
+              "chord": "D",
+              "text": "church I'd"
+            },
+            {
+              "chord": "",
+              "text": "be"
+            },
+            {
+              "chord": "Bm",
+              "text": "poured out,"
+            },
+            {
+              "chord": "",
+              "text": "ex"
+            },
+            {
+              "chord": "G",
+              "text": "pend"
+            },
+            {
+              "chord": "A",
+              "text": "ed;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Though I"
+            },
+            {
+              "chord": "G",
+              "text": "know not"
+            },
+            {
+              "chord": "",
+              "text": "what"
+            },
+            {
+              "chord": "D",
+              "text": "trial"
+            },
+            {
+              "chord": "",
+              "text": "or"
+            },
+            {
+              "chord": "Em",
+              "text": "sorrow"
+            },
+            {
+              "chord": "",
+              "text": "lies a"
+            },
+            {
+              "chord": "G",
+              "text": "head,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "If 'tis"
+            },
+            {
+              "chord": "D",
+              "text": "for Thy"
+            },
+            {
+              "chord": "",
+              "text": "church, I'll"
+            },
+            {
+              "chord": "G",
+              "text": "never"
+            },
+            {
+              "chord": "",
+              "text": "re"
+            },
+            {
+              "chord": "A7",
+              "text": "gret"
+            },
+            {
+              "chord": "D",
+              "text": "it!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "The Church",
+    "time": "4/4",
+    "hymn_code": "571123212216",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ts/746",
+        "language": "cn",
+        "category": "ts",
+        "number": "746",
+        "title": "Cs746"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Lord, toThy gracioushand, Imybeingcommend;",
+    "For Thychurch I'dbepoured out,expended;",
+    "Though Iknow notwhattrialorsorrowlies ahead,",
+    "If 'tisfor Thychurch, I'llneverregretit!"
+  ]
+}

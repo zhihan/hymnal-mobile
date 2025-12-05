@@ -1,0 +1,238 @@
+{
+  "url": "https://www.hymnal.net/cn/hymn/h/8089",
+  "title": "O Lord, Your love did not recoil",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "O Lord,"
+            },
+            {
+              "chord": "",
+              "text": "Your"
+            },
+            {
+              "chord": "C",
+              "text": "love did"
+            },
+            {
+              "chord": "D7",
+              "text": "not re"
+            },
+            {
+              "chord": "G",
+              "text": "coil"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "At sting of"
+            },
+            {
+              "chord": "A7",
+              "text": "death and"
+            },
+            {
+              "chord": "D7",
+              "text": "shame;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "So"
+            },
+            {
+              "chord": "G",
+              "text": "may we"
+            },
+            {
+              "chord": "",
+              "text": "over"
+            },
+            {
+              "chord": "Am",
+              "text": "come this"
+            },
+            {
+              "chord": "D7",
+              "text": "age,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The"
+            },
+            {
+              "chord": "Em",
+              "text": "devil's"
+            },
+            {
+              "chord": "G",
+              "text": "power"
+            },
+            {
+              "chord": "D7",
+              "text": "dis"
+            },
+            {
+              "chord": "G",
+              "text": "claim."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "O Lord, You bore the heavy load"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "On that foreboding path:"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The sins of man, the devil's scorn,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And God's all-righteous wrath."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The roaring wind and threat'ning waves"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "At Your command must crest;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For this we worship and proclaim"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The name in which we rest."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Soon shall we in the Father's house"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Begin the newest songs,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "But here where You have met our need"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "E'en now new praise belongs."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Praise of the Lord",
+    "time": "6/4",
+    "hymn_code": "532432176555171665",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ch/89",
+        "language": "cn",
+        "category": "ch",
+        "number": "89",
+        "title": "C89"
+      }
+    ]
+  },
+  "raw_sections": [
+    "O Lord,Yourlove didnot recoil",
+    "At sting ofdeath andshame;",
+    "Somay weovercome thisage,",
+    "Thedevil'spowerdisclaim.",
+    "O Lord, You bore the heavy load",
+    "On that foreboding path:",
+    "The sins of man, the devil's scorn,",
+    "And God's all-righteous wrath.",
+    "The roaring wind and threat'ning waves",
+    "At Your command must crest;",
+    "For this we worship and proclaim",
+    "The name in which we rest.",
+    "Soon shall we in the Father's house",
+    "Begin the newest songs,",
+    "But here where You have met our need",
+    "E'en now new praise belongs."
+  ]
+}

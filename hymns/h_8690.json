@@ -1,0 +1,194 @@
+{
+  "url": "https://www.hymnal.net/cn/hymn/h/8690",
+  "title": "What wondrous love! What boundless grace",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "What wondrous"
+            },
+            {
+              "chord": "Bm",
+              "text": "love! What"
+            },
+            {
+              "chord": "G",
+              "text": "boundless"
+            },
+            {
+              "chord": "D",
+              "text": "grace!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "God's own dear Son He"
+            },
+            {
+              "chord": "Em",
+              "text": "sent;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Sin's judgment"
+            },
+            {
+              "chord": "Bm",
+              "text": "was up"
+            },
+            {
+              "chord": "G",
+              "text": "on Him"
+            },
+            {
+              "chord": "D",
+              "text": "laid;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "For us,"
+            },
+            {
+              "chord": "",
+              "text": "to"
+            },
+            {
+              "chord": "A7",
+              "text": "death He"
+            },
+            {
+              "chord": "D",
+              "text": "went."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "Opened"
+            },
+            {
+              "chord": "",
+              "text": "are"
+            },
+            {
+              "chord": "A7",
+              "text": "grace's"
+            },
+            {
+              "chord": "D",
+              "text": "door, love's"
+            },
+            {
+              "chord": "",
+              "text": "way—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "'Tis only"
+            },
+            {
+              "chord": "A7",
+              "text": "thus you"
+            },
+            {
+              "chord": "D",
+              "text": "can be"
+            },
+            {
+              "chord": "",
+              "text": "saved;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "God's longing"
+            },
+            {
+              "chord": "F♯",
+              "text": "heart for"
+            },
+            {
+              "chord": "G",
+              "text": "you a"
+            },
+            {
+              "chord": "D",
+              "text": "waits;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Spurn not"
+            },
+            {
+              "chord": "",
+              "text": "His"
+            },
+            {
+              "chord": "D",
+              "text": "love"
+            },
+            {
+              "chord": "A7",
+              "text": "and"
+            },
+            {
+              "chord": "D",
+              "text": "grace."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Gospel",
+    "time": "4/4",
+    "hymn_code": "33211443321532",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ch/690",
+        "language": "cn",
+        "category": "ch",
+        "number": "690",
+        "title": "C690"
+      }
+    ]
+  },
+  "raw_sections": [
+    "What wondrouslove! Whatboundlessgrace!",
+    "God's own dear Son Hesent;",
+    "Sin's judgmentwas upon Himlaid;",
+    "For us,todeath Hewent.",
+    "Openedaregrace'sdoor, love'sway—",
+    "'Tis onlythus youcan besaved;",
+    "God's longingheart foryou awaits;",
+    "Spurn notHisloveandgrace."
+  ]
+}

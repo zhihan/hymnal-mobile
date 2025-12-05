@@ -1,6 +1,6 @@
 {
-  "url": "https://www.hymnal.net/en/hymn/ns/175",
-  "title": "Lord, there’s always been one person",
+  "url": "https://www.hymnal.net/cn/hymn/ns/175",
+  "title": "Lord, there's always been one person",
   "verses": [
     {
       "lines": [
@@ -492,7 +492,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Lord, a single heart that’s true,"
+              "text": "Lord, a single heart that's true,"
             }
           ]
         },
@@ -500,7 +500,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "That’s what we desire—"
+              "text": "That's what we desire—"
             }
           ]
         },
@@ -521,8 +521,8 @@
     "hymn_code": "33432165443234322",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/308",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/308",
+        "language": "cn",
         "category": "ts",
         "number": "308",
         "title": "Cs308"
@@ -557,8 +557,8 @@
     "We can praise Your name,",
     "Turn our heart to You,",
     "Let You rule and reign.",
-    "Lord, a single heart that’s true,",
-    "That’s what we desire—",
+    "Lord, a single heart that's true,",
+    "That's what we desire—",
     "A heart for You."
   ]
 }

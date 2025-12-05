@@ -1,0 +1,165 @@
+{
+  "url": "https://www.hymnal.net/cn/hymn/h/8476",
+  "title": "Live in the light of life (Alternate)",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "Live in"
+            },
+            {
+              "chord": "",
+              "text": "the light of"
+            },
+            {
+              "chord": "A7",
+              "text": "life,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In"
+            },
+            {
+              "chord": "D",
+              "text": "fellowship"
+            },
+            {
+              "chord": "",
+              "text": "with"
+            },
+            {
+              "chord": "Bm7",
+              "text": "Christ,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Be"
+            },
+            {
+              "chord": "C♯m7",
+              "text": "hold His"
+            },
+            {
+              "chord": "",
+              "text": "face each"
+            },
+            {
+              "chord": "F♯m",
+              "text": "day,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The"
+            },
+            {
+              "chord": "B7",
+              "text": "Spirit's"
+            },
+            {
+              "chord": "",
+              "text": "work o"
+            },
+            {
+              "chord": "E",
+              "text": "bey,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Each"
+            },
+            {
+              "chord": "A",
+              "text": "day glory"
+            },
+            {
+              "chord": "",
+              "text": "abounds,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "Each"
+            },
+            {
+              "chord": "D",
+              "text": "moment"
+            },
+            {
+              "chord": "",
+              "text": "praise re"
+            },
+            {
+              "chord": "B7",
+              "text": "sounds,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Live"
+            },
+            {
+              "chord": "A",
+              "text": "in the"
+            },
+            {
+              "chord": "E7",
+              "text": "light of"
+            },
+            {
+              "chord": "A",
+              "text": "life."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "Encouragement",
+    "time": "3/4",
+    "hymn_code": "132123112161",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ch/476",
+        "language": "cn",
+        "category": "ch",
+        "number": "476",
+        "title": "C476"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Live inthe light oflife,",
+    "InfellowshipwithChrist,",
+    "Behold Hisface eachday,",
+    "TheSpirit'swork obey,",
+    "Eachday gloryabounds,",
+    "Eachmomentpraise resounds,",
+    "Livein thelight oflife."
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "url": "https://www.hymnal.net/cn/hymn/h/8463",
+  "title": "Take the cross with joy, walk the narrow way",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Take the"
+            },
+            {
+              "chord": "G7",
+              "text": "cross with"
+            },
+            {
+              "chord": "",
+              "text": "joy,"
+            },
+            {
+              "chord": "C",
+              "text": "walk the"
+            },
+            {
+              "chord": "",
+              "text": "narrow way;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Flow forth"
+            },
+            {
+              "chord": "",
+              "text": "life, no more the Lord hold"
+            },
+            {
+              "chord": "D7",
+              "text": "back."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Cast the"
+            },
+            {
+              "chord": "G7",
+              "text": "world behind,"
+            },
+            {
+              "chord": "C",
+              "text": "seek naught"
+            },
+            {
+              "chord": "",
+              "text": "else but Christ;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Flow forth"
+            },
+            {
+              "chord": "",
+              "text": "life, no more the"
+            },
+            {
+              "chord": "D",
+              "text": "Lord"
+            },
+            {
+              "chord": "D7",
+              "text": "hold"
+            },
+            {
+              "chord": "G",
+              "text": "back!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Flow forth!"
+            },
+            {
+              "chord": "C",
+              "text": "Flow forth!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Flow forth"
+            },
+            {
+              "chord": "",
+              "text": "life! And nevermore hold"
+            },
+            {
+              "chord": "D7",
+              "text": "back!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Flow"
+            },
+            {
+              "chord": "G7",
+              "text": "forth!"
+            },
+            {
+              "chord": "C",
+              "text": "Flow forth!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Flow forth"
+            },
+            {
+              "chord": "",
+              "text": "life! The Lord no"
+            },
+            {
+              "chord": "D",
+              "text": "more"
+            },
+            {
+              "chord": "D7",
+              "text": "hold"
+            },
+            {
+              "chord": "G",
+              "text": "back!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "The Way of the Cross",
+    "time": "4/4",
+    "hymn_code": "3332122216551712332",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ch/463",
+        "language": "cn",
+        "category": "ch",
+        "number": "463",
+        "title": "C463"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Take thecross withjoy,walk thenarrow way;",
+    "Flow forthlife, no more the Lord holdback.",
+    "Cast theworld behind,seek naughtelse but Christ;",
+    "Flow forthlife, no more theLordholdback!",
+    "Flow forth!Flow forth!",
+    "Flow forthlife! And nevermore holdback!",
+    "Flowforth!Flow forth!",
+    "Flow forthlife! The Lord nomoreholdback!"
+  ]
+}

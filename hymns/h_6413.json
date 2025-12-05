@@ -1,0 +1,198 @@
+{
+  "url": "https://www.hymnal.net/cn/hymn/h/6413",
+  "title": "Amen, Lord Jesus! Amen, Lord!",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "\"Amen,"
+            },
+            {
+              "chord": "",
+              "text": "Lord Jesus!"
+            },
+            {
+              "chord": "A",
+              "text": "Amen,"
+            },
+            {
+              "chord": "",
+              "text": "Lord!\""
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Yes,"
+            },
+            {
+              "chord": "D",
+              "text": "\"Amen\""
+            },
+            {
+              "chord": "",
+              "text": "all the"
+            },
+            {
+              "chord": "G",
+              "text": "time."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "It's"
+            },
+            {
+              "chord": "D",
+              "text": "\"Amen\""
+            },
+            {
+              "chord": "",
+              "text": "to Your"
+            },
+            {
+              "chord": "A",
+              "text": "written"
+            },
+            {
+              "chord": "",
+              "text": "Word,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"A"
+            },
+            {
+              "chord": "D",
+              "text": "men\" to"
+            },
+            {
+              "chord": "A7",
+              "text": "every"
+            },
+            {
+              "chord": "D",
+              "text": "line."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "It's \"Amen\" too when"
+            },
+            {
+              "chord": "A",
+              "text": "e'er You"
+            },
+            {
+              "chord": "",
+              "text": "speak;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You"
+            },
+            {
+              "chord": "D",
+              "text": "know what's"
+            },
+            {
+              "chord": "D7",
+              "text": "best for"
+            },
+            {
+              "chord": "G",
+              "text": "me."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "So"
+            },
+            {
+              "chord": "D",
+              "text": "I will"
+            },
+            {
+              "chord": "",
+              "text": "still say,"
+            },
+            {
+              "chord": "A",
+              "text": "\"Amen,"
+            },
+            {
+              "chord": "",
+              "text": "Lord!\""
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "What"
+            },
+            {
+              "chord": "G",
+              "text": "ever"
+            },
+            {
+              "chord": "A7",
+              "text": "it may"
+            },
+            {
+              "chord": "D",
+              "text": "be."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "category": "The Word of God",
+    "time": "4/4",
+    "hymn_code": "511132123211356",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/cn/hymn/ts/413",
+        "language": "cn",
+        "category": "ts",
+        "number": "413",
+        "title": "Cs413"
+      }
+    ]
+  },
+  "raw_sections": [
+    "\"Amen,Lord Jesus!Amen,Lord!\"",
+    "Yes,\"Amen\"all thetime.",
+    "It's\"Amen\"to YourwrittenWord,",
+    "\"Amen\" toeveryline.",
+    "It's \"Amen\" too whene'er Youspeak;",
+    "Youknow what'sbest forme.",
+    "SoI willstill say,\"Amen,Lord!\"",
+    "Whateverit maybe."
+  ]
+}
