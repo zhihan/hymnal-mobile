@@ -42,6 +42,12 @@ class _FavoritesScreenState extends State<FavoritesScreen> {
     });
 
     final favoritesProvider = Provider.of<FavoritesProvider>(context, listen: false);
+
+    // Ensure favorites are loaded from SharedPreferences
+    if (!favoritesProvider.isLoaded) {
+      await favoritesProvider.loadFavorites();
+    }
+
     final favoriteIds = favoritesProvider.favorites;
 
     final hymns = <HymnDb>[];
