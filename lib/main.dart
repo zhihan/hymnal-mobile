@@ -22,6 +22,7 @@ class HymnalApp extends StatelessWidget {
       create: (context) => FavoritesProvider()..loadFavorites(),
       child: MaterialApp(
         title: '补充本',
+        debugShowCheckedModeBanner: false,
         theme: ThemeData(
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
           useMaterial3: true,
