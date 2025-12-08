@@ -1,0 +1,200 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/lb/10",
+  "title": "In His shadow",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "In His"
+            },
+            {
+              "chord": "",
+              "text": "shadow have I"
+            },
+            {
+              "chord": "G",
+              "text": "rapture"
+            },
+            {
+              "chord": "",
+              "text": "and sit"
+            },
+            {
+              "chord": "D",
+              "text": "down;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And His fruit is"
+            },
+            {
+              "chord": "Em7",
+              "text": "sweet to"
+            },
+            {
+              "chord": "",
+              "text": "my"
+            },
+            {
+              "chord": "A",
+              "text": "taste."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He hath brought me to the house of wine,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And His banner over"
+            },
+            {
+              "chord": "A7",
+              "text": "me is"
+            },
+            {
+              "chord": "D7",
+              "text": "love."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Sus"
+            },
+            {
+              "chord": "G",
+              "text": "tain Ye"
+            },
+            {
+              "chord": "",
+              "text": "me with"
+            },
+            {
+              "chord": "D",
+              "text": "raisin"
+            },
+            {
+              "chord": "",
+              "text": "cakes,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Re"
+            },
+            {
+              "chord": "Em",
+              "text": "fresh me"
+            },
+            {
+              "chord": "",
+              "text": "with"
+            },
+            {
+              "chord": "G",
+              "text": "apples;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For"
+            },
+            {
+              "chord": "A",
+              "text": "I am"
+            },
+            {
+              "chord": "",
+              "text": "sick with love."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "His"
+            },
+            {
+              "chord": "Em",
+              "text": "left hand"
+            },
+            {
+              "chord": "",
+              "text": "is"
+            },
+            {
+              "chord": "Em7",
+              "text": "under"
+            },
+            {
+              "chord": "",
+              "text": "my"
+            },
+            {
+              "chord": "A",
+              "text": "head,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And His right hand doth"
+            },
+            {
+              "chord": "A7",
+              "text": "embrace"
+            },
+            {
+              "chord": "D",
+              "text": "me."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    }
+  ],
+  "metadata": {
+    "category": "Scriptures for Singing",
+    "time": "3/4",
+    "hymn_code": "51431665135"
+  },
+  "raw_sections": [
+    "In Hisshadow have Iraptureand sitdown;",
+    "And His fruit issweet tomytaste.",
+    "He hath brought me to the house of wine,",
+    "And His banner overme islove.",
+    "Sustain Yeme withraisincakes,",
+    "Refresh mewithapples;",
+    "ForI amsick with love.",
+    "Hisleft handisundermyhead,",
+    "And His right hand dothembraceme."
+  ]
+}

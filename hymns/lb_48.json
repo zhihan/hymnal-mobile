@@ -1,0 +1,402 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/lb/48",
+  "title": "The Lord is my strength and my song",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "The Lord"
+            },
+            {
+              "chord": "",
+              "text": "is my strength and my song."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He's become my sal"
+            },
+            {
+              "chord": "Em",
+              "text": "vation."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The"
+            },
+            {
+              "chord": "A",
+              "text": "Lord is"
+            },
+            {
+              "chord": "",
+              "text": "my strength and my song."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He's become"
+            },
+            {
+              "chord": "A7",
+              "text": "my sal"
+            },
+            {
+              "chord": "D",
+              "text": "vation."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The Lord is my strength and my song."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He's become my sal"
+            },
+            {
+              "chord": "Em",
+              "text": "vation."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The"
+            },
+            {
+              "chord": "A",
+              "text": "Lord is"
+            },
+            {
+              "chord": "",
+              "text": "my strength and my song."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He's become"
+            },
+            {
+              "chord": "A7",
+              "text": "my sal"
+            },
+            {
+              "chord": "D",
+              "text": "va"
+            },
+            {
+              "chord": "D7",
+              "text": "tion."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "He is"
+            },
+            {
+              "chord": "",
+              "text": "my"
+            },
+            {
+              "chord": "A7",
+              "text": "God, and"
+            },
+            {
+              "chord": "",
+              "text": "I will"
+            },
+            {
+              "chord": "F♯m",
+              "text": "praise"
+            },
+            {
+              "chord": "Bm",
+              "text": "Him."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "My father's"
+            },
+            {
+              "chord": "A7",
+              "text": "God, and"
+            },
+            {
+              "chord": "",
+              "text": "I'll e"
+            },
+            {
+              "chord": "D",
+              "text": "xalt"
+            },
+            {
+              "chord": "D7",
+              "text": "Him."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "He is"
+            },
+            {
+              "chord": "",
+              "text": "my"
+            },
+            {
+              "chord": "A7",
+              "text": "God, and"
+            },
+            {
+              "chord": "",
+              "text": "I will"
+            },
+            {
+              "chord": "F♯m",
+              "text": "praise"
+            },
+            {
+              "chord": "Bm",
+              "text": "Him."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "My father's"
+            },
+            {
+              "chord": "A7",
+              "text": "God, and"
+            },
+            {
+              "chord": "",
+              "text": "I'll e"
+            },
+            {
+              "chord": "G",
+              "text": "xalt"
+            },
+            {
+              "chord": "D",
+              "text": "Him."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thou"
+            },
+            {
+              "chord": "G",
+              "text": "in Thy"
+            },
+            {
+              "chord": "D",
+              "text": "mercy"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Hast led forth Thy"
+            },
+            {
+              "chord": "Em",
+              "text": "people,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Led forth Thy"
+            },
+            {
+              "chord": "A",
+              "text": "people,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "Which Thou"
+            },
+            {
+              "chord": "",
+              "text": "hast re"
+            },
+            {
+              "chord": "D",
+              "text": "deemed."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thou hast guided them,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Guided them in Thy"
+            },
+            {
+              "chord": "Em",
+              "text": "strength"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Unto Thy"
+            },
+            {
+              "chord": "A",
+              "text": "holy"
+            },
+            {
+              "chord": "A7",
+              "text": "habita"
+            },
+            {
+              "chord": "D",
+              "text": "tion."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "2"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He is my God, and I will praise Him."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My father’s God, and I’ll exalt Him."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He is my God, and I will praise Him."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My father’s God, and I’ll exalt Him."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    }
+  ],
+  "metadata": {
+    "category": "Scriptures for Singing",
+    "time": "4/4",
+    "hymn_code": "515131353453132"
+  },
+  "raw_sections": [
+    "The Lordis my strength and my song.",
+    "He's become my salvation.",
+    "TheLord ismy strength and my song.",
+    "He's becomemy salvation.",
+    "The Lord is my strength and my song.",
+    "He's become my salvation.",
+    "TheLord ismy strength and my song.",
+    "He's becomemy salvation.",
+    "He ismyGod, andI willpraiseHim.",
+    "My father'sGod, andI'll exaltHim.",
+    "He ismyGod, andI willpraiseHim.",
+    "My father'sGod, andI'll exaltHim.",
+    "Thouin Thymercy",
+    "Hast led forth Thypeople,",
+    "Led forth Thypeople,",
+    "Which Thouhast redeemed.",
+    "Thou hast guided them,",
+    "Guided them in Thystrength",
+    "Unto Thyholyhabitation.",
+    "He is my God, and I will praise Him.",
+    "My father’s God, and I’ll exalt Him.",
+    "He is my God, and I will praise Him.",
+    "My father’s God, and I’ll exalt Him."
+  ]
+}

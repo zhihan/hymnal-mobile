@@ -26,7 +26,7 @@ class SongListService {
     "ns_131",
     "ns_58",
     "ns_120",
-    // "lb_70",
+    "lb_70",
     "ns_530",
     "ns_777",
     "ns_465",
@@ -41,7 +41,7 @@ class SongListService {
     "ns_352",
     "ns_617",
     // songbase
-    // "lb_41",
+    "lb_41",
     "ns_541",
     "ns_714",
     "ns_28",
@@ -70,15 +70,15 @@ class SongListService {
     "ns_748",
     "ns_292",
     "ns_302",
-    // lb/66
+    "lb_66",
     "ns_915",
-    // lb/76
-    // lb/52
+    "lb_76",
+    "lb_52",
     "ns_202",
     "ns_116",
     "ns_971",
     "ns_731",
-    // lb/14,
+    "lb_14",
     "ns_301",
     "ns_970",
     "ns_757",

@@ -1,0 +1,393 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/lb/44",
+  "title": "Lord Jesus, I love You",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Lord Je"
+            },
+            {
+              "chord": "Em",
+              "text": "sus,"
+            },
+            {
+              "chord": "A",
+              "text": "I love"
+            },
+            {
+              "chord": "D",
+              "text": "You,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "No other"
+            },
+            {
+              "chord": "G",
+              "text": "one for"
+            },
+            {
+              "chord": "A",
+              "text": "me will"
+            },
+            {
+              "chord": "D",
+              "text": "do."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I love"
+            },
+            {
+              "chord": "Em",
+              "text": "You,"
+            },
+            {
+              "chord": "A",
+              "text": "just love"
+            },
+            {
+              "chord": "D",
+              "text": "You."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Without You,"
+            },
+            {
+              "chord": "G",
+              "text": "Lord,"
+            },
+            {
+              "chord": "A",
+              "text": "I am"
+            },
+            {
+              "chord": "D",
+              "text": "through."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "No other"
+            },
+            {
+              "chord": "F♯",
+              "text": "one"
+            },
+            {
+              "chord": "F♯7",
+              "text": "for me"
+            },
+            {
+              "chord": "Bm",
+              "text": "will do."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My heart is"
+            },
+            {
+              "chord": "E7",
+              "text": "drawn, I"
+            },
+            {
+              "chord": "",
+              "text": "just love"
+            },
+            {
+              "chord": "A",
+              "text": "You."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I"
+            },
+            {
+              "chord": "Em",
+              "text": "just love"
+            },
+            {
+              "chord": "A7",
+              "text": "You, dear"
+            },
+            {
+              "chord": "D",
+              "text": "Lord."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "As mercy, You reached me."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You laid aside Your glory."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You’re God, Lord, the Almighty,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Yes You became a slave for me."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "2"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "What kind of love You have for man,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Beyond our power to comprehend!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I love You, Lord Jesus."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I’m evil and fallen."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My nature, Lord, is just sin."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You’re righteous and holy."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "All that You are was condemning me."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "3"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "What made You Lord to die for me?"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You joined man’s race and took my place,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Redeeming us Jesus."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You died, Lord, on Calvary."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Your blood is flowing now for me."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Your blood, Lord, is precious."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "O, what a price You paid for us!"
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "4"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "No tongue or pen can ever tell:"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Your mercy reached me down in hell."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You reached me, Lord Jesus."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    }
+  ],
+  "metadata": {
+    "category": "Experience of Christ",
+    "time": "4/4",
+    "hymn_code": "53225211"
+  },
+  "raw_sections": [
+    "Lord Jesus,I loveYou,",
+    "No otherone forme willdo.",
+    "I loveYou,just loveYou.",
+    "Without You,Lord,I amthrough.",
+    "No otheronefor mewill do.",
+    "My heart isdrawn, Ijust loveYou.",
+    "Ijust loveYou, dearLord.",
+    "As mercy, You reached me.",
+    "You laid aside Your glory.",
+    "You’re God, Lord, the Almighty,",
+    "Yes You became a slave for me.",
+    "What kind of love You have for man,",
+    "Beyond our power to comprehend!",
+    "I love You, Lord Jesus.",
+    "I’m evil and fallen.",
+    "My nature, Lord, is just sin.",
+    "You’re righteous and holy.",
+    "All that You are was condemning me.",
+    "What made You Lord to die for me?",
+    "You joined man’s race and took my place,",
+    "Redeeming us Jesus.",
+    "You died, Lord, on Calvary.",
+    "Your blood is flowing now for me.",
+    "Your blood, Lord, is precious.",
+    "O, what a price You paid for us!",
+    "No tongue or pen can ever tell:",
+    "Your mercy reached me down in hell.",
+    "You reached me, Lord Jesus."
+  ]
+}

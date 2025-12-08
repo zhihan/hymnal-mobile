@@ -1,0 +1,330 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/lb/22",
+  "title": "Shepherd, receive man",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Shepherd,"
+            },
+            {
+              "chord": "",
+              "text": "re"
+            },
+            {
+              "chord": "A",
+              "text": "ceive man,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Come"
+            },
+            {
+              "chord": "Em",
+              "text": "near and"
+            },
+            {
+              "chord": "D",
+              "text": "eat with"
+            },
+            {
+              "chord": "A",
+              "text": "them,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "Publicans"
+            },
+            {
+              "chord": "",
+              "text": "and"
+            },
+            {
+              "chord": "A",
+              "text": "sinners."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Go"
+            },
+            {
+              "chord": "G",
+              "text": "out to"
+            },
+            {
+              "chord": "F♯",
+              "text": "carry"
+            },
+            {
+              "chord": "",
+              "text": "them"
+            },
+            {
+              "chord": "Bm",
+              "text": "home"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "On Your"
+            },
+            {
+              "chord": "G",
+              "text": "shoulders,"
+            },
+            {
+              "chord": "",
+              "text": "re"
+            },
+            {
+              "chord": "D",
+              "text": "joicing."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Lord,"
+            },
+            {
+              "chord": "Em",
+              "text": "car"
+            },
+            {
+              "chord": "A7",
+              "text": "ry them"
+            },
+            {
+              "chord": "D",
+              "text": "home."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Spirit, dear Spirit,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Where is the one lost coin?"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Yes, You have the nine,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "But the one You must find."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Dear Spirit, You’re sweeping"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "All over the earth."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "2"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Father, dear Father,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Have mercy on mankind!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He’s fallen to the pigs’ pen."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When will he return?"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Dear Father, just kiss them,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Your sons coming home."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "3"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Father of mercy,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Clothe him with the best robe"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And kill the fatted calf"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And eat and be merry —"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He was lost, but found,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Was dead, but now he lives."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "4"
+    }
+  ],
+  "metadata": {
+    "category": "Gospel",
+    "time": "4/4",
+    "hymn_code": "15325544312",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ts/868",
+        "language": "en",
+        "category": "ts",
+        "number": "868",
+        "title": "Cs868"
+      }
+    ]
+  },
+  "raw_sections": [
+    "Shepherd,receive man,",
+    "Comenear andeat withthem,",
+    "Publicansandsinners.",
+    "Goout tocarrythemhome",
+    "On Yourshoulders,rejoicing.",
+    "Lord,carry themhome.",
+    "Spirit, dear Spirit,",
+    "Where is the one lost coin?",
+    "Yes, You have the nine,",
+    "But the one You must find.",
+    "Dear Spirit, You’re sweeping",
+    "All over the earth.",
+    "Father, dear Father,",
+    "Have mercy on mankind!",
+    "He’s fallen to the pigs’ pen.",
+    "When will he return?",
+    "Dear Father, just kiss them,",
+    "Your sons coming home.",
+    "Father of mercy,",
+    "Clothe him with the best robe",
+    "And kill the fatted calf",
+    "And eat and be merry —",
+    "He was lost, but found,",
+    "Was dead, but now he lives."
+  ]
+}

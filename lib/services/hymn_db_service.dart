@@ -7,7 +7,7 @@ import '../models/hymn_db.dart';
 
 class HymnDbService {
   static Isar? _isar;
-  static const int _currentDbVersion = 5; // Increment this when data structure changes
+  static const int _currentDbVersion = 6; // Increment this when data structure changes
 
   static Future<Isar> get isar async {
     if (_isar != null) return _isar!;

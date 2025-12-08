@@ -1,6 +1,6 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/ts/341",
-  "title": "愿一生爱你",
+  "url": "https://www.hymnal.net/en/hymn/ts/341",
+  "title": "願一生愛你",
   "verses": [
     {
       "lines": [
@@ -403,9 +403,18 @@
     }
   ],
   "metadata": {
-    "category": "爱慕耶稣",
+    "category": "愛慕耶穌",
     "time": "4/4",
-    "hymn_code": "51352165135216"
+    "hymn_code": "51352165135216",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/lb/76",
+        "language": "en",
+        "category": "lb",
+        "number": "76",
+        "title": "LB76"
+      }
+    ]
   },
   "raw_sections": [
     "從 前沉 溺罪 惡地，",

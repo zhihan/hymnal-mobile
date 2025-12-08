@@ -1,0 +1,149 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/lb/16",
+  "title": "Nothing compares to You",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "I love"
+            },
+            {
+              "chord": "",
+              "text": "You, Lord"
+            },
+            {
+              "chord": "C",
+              "text": "Je"
+            },
+            {
+              "chord": "D7",
+              "text": "sus!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "I love"
+            },
+            {
+              "chord": "",
+              "text": "You, Lord,"
+            },
+            {
+              "chord": "C",
+              "text": "precious"
+            },
+            {
+              "chord": "D7",
+              "text": "One!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "No other"
+            },
+            {
+              "chord": "Em",
+              "text": "one com"
+            },
+            {
+              "chord": "Am",
+              "text": "pares to"
+            },
+            {
+              "chord": "D",
+              "text": "You!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Jesus,"
+            },
+            {
+              "chord": "",
+              "text": "Lord"
+            },
+            {
+              "chord": "D",
+              "text": "Jesus,"
+            },
+            {
+              "chord": "A",
+              "text": "Dear Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "most"
+            },
+            {
+              "chord": "F♯7",
+              "text": "lovely"
+            },
+            {
+              "chord": "Bm",
+              "text": "One,"
+            },
+            {
+              "chord": "Am",
+              "text": "Noth"
+            },
+            {
+              "chord": "G",
+              "text": "ing"
+            },
+            {
+              "chord": "Am",
+              "text": "com"
+            },
+            {
+              "chord": "G",
+              "text": "pares"
+            },
+            {
+              "chord": "D7",
+              "text": "to"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "You!"
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    }
+  ],
+  "metadata": {
+    "category": "Experience of Christ",
+    "time": "4/4",
+    "hymn_code": "33556543355654"
+  },
+  "raw_sections": [
+    "I loveYou, LordJesus!",
+    "I loveYou, Lord,preciousOne!",
+    "No otherone compares toYou!",
+    "Jesus,LordJesus,Dear Lord,",
+    "mostlovelyOne,Nothingcomparesto",
+    "You!"
+  ]
+}

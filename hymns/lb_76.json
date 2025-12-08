@@ -1,0 +1,420 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/lb/76",
+  "title": "That’s Why I Love Him",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "What about"
+            },
+            {
+              "chord": "",
+              "text": "my"
+            },
+            {
+              "chord": "G",
+              "text": "sinful"
+            },
+            {
+              "chord": "",
+              "text": "past?"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "And my"
+            },
+            {
+              "chord": "",
+              "text": "conscience"
+            },
+            {
+              "chord": "G",
+              "text": "has no"
+            },
+            {
+              "chord": "",
+              "text": "rest."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Deep within"
+            },
+            {
+              "chord": "",
+              "text": "I"
+            },
+            {
+              "chord": "G",
+              "text": "feel the"
+            },
+            {
+              "chord": "",
+              "text": "pain."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I'm con"
+            },
+            {
+              "chord": "D",
+              "text": "demned from"
+            },
+            {
+              "chord": "A",
+              "text": "all my"
+            },
+            {
+              "chord": "G",
+              "text": "guilty"
+            },
+            {
+              "chord": "A",
+              "text": "stains."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "O my"
+            },
+            {
+              "chord": "",
+              "text": "life of"
+            },
+            {
+              "chord": "G",
+              "text": "misery,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "In the"
+            },
+            {
+              "chord": "",
+              "text": "world of"
+            },
+            {
+              "chord": "G",
+              "text": "vanity,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "As I"
+            },
+            {
+              "chord": "",
+              "text": "searched for"
+            },
+            {
+              "chord": "G",
+              "text": "happiness,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My re"
+            },
+            {
+              "chord": "D",
+              "text": "ward I"
+            },
+            {
+              "chord": "",
+              "text": "re"
+            },
+            {
+              "chord": "A",
+              "text": "ceived just"
+            },
+            {
+              "chord": "G",
+              "text": "empti"
+            },
+            {
+              "chord": "A",
+              "text": "ness."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "2"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "God was"
+            },
+            {
+              "chord": "",
+              "text": "far a"
+            },
+            {
+              "chord": "Em",
+              "text": "way from"
+            },
+            {
+              "chord": "A",
+              "text": "me,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Great and highest"
+            },
+            {
+              "chord": "D",
+              "text": "One"
+            },
+            {
+              "chord": "A",
+              "text": "is"
+            },
+            {
+              "chord": "Bm",
+              "text": "He."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Yet You took on"
+            },
+            {
+              "chord": "F♯m",
+              "text": "humani"
+            },
+            {
+              "chord": "Em",
+              "text": "ty."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You"
+            },
+            {
+              "chord": "A7",
+              "text": "came for"
+            },
+            {
+              "chord": "Bm",
+              "text": "me,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Hung on a"
+            },
+            {
+              "chord": "Em",
+              "text": "tree,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Bled there to"
+            },
+            {
+              "chord": "A",
+              "text": "die"
+            },
+            {
+              "chord": "A7",
+              "text": "for"
+            },
+            {
+              "chord": "D",
+              "text": "me."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "3"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "That's why"
+            },
+            {
+              "chord": "",
+              "text": "I"
+            },
+            {
+              "chord": "G",
+              "text": "love"
+            },
+            {
+              "chord": "A",
+              "text": "Him."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "That's why"
+            },
+            {
+              "chord": "",
+              "text": "I"
+            },
+            {
+              "chord": "F♯m",
+              "text": "treasure"
+            },
+            {
+              "chord": "Bm",
+              "text": "Him."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "That's why"
+            },
+            {
+              "chord": "",
+              "text": "I"
+            },
+            {
+              "chord": "G",
+              "text": "give my"
+            },
+            {
+              "chord": "Em",
+              "text": "life and"
+            },
+            {
+              "chord": "A7",
+              "text": "all to"
+            },
+            {
+              "chord": "D",
+              "text": "Him."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D7",
+              "text": "That's why"
+            },
+            {
+              "chord": "",
+              "text": "I"
+            },
+            {
+              "chord": "A7",
+              "text": "all to"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Him."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    }
+  ],
+  "metadata": {
+    "category": "Gospel",
+    "time": "4/4",
+    "hymn_code": "51352165135216",
+    "related": [
+      {
+        "url": "https://www.hymnal.net/en/hymn/ts/341",
+        "language": "en",
+        "category": "ts",
+        "number": "341",
+        "title": "Cs341"
+      }
+    ]
+  },
+  "raw_sections": [
+    "What aboutmysinfulpast?",
+    "And myconsciencehas norest.",
+    "Deep withinIfeel thepain.",
+    "I'm condemned fromall myguiltystains.",
+    "O mylife ofmisery,",
+    "In theworld ofvanity,",
+    "As Isearched forhappiness,",
+    "My reward Ireceived justemptiness.",
+    "God wasfar away fromme,",
+    "Great and highestOneisHe.",
+    "Yet You took onhumanity.",
+    "Youcame forme,",
+    "Hung on atree,",
+    "Bled there todieforme.",
+    "That's whyIloveHim.",
+    "That's whyItreasureHim.",
+    "That's whyIgive mylife andall toHim.",
+    "That's whyIall to",
+    "Him."
+  ]
+}

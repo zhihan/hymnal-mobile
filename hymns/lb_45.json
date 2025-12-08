@@ -1,0 +1,343 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/lb/45",
+  "title": "Abba Father",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Abba,"
+            },
+            {
+              "chord": "Em",
+              "text": "Father,"
+            },
+            {
+              "chord": "Am",
+              "text": "hear our"
+            },
+            {
+              "chord": "D",
+              "text": "cry,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Mingled"
+            },
+            {
+              "chord": "Em",
+              "text": "spirit"
+            },
+            {
+              "chord": "C",
+              "text": "deep with"
+            },
+            {
+              "chord": "D",
+              "text": "in."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Ab"
+            },
+            {
+              "chord": "Em",
+              "text": "ba,"
+            },
+            {
+              "chord": "Am",
+              "text": "Fa"
+            },
+            {
+              "chord": "D",
+              "text": "ther,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Ab"
+            },
+            {
+              "chord": "Em",
+              "text": "ba,"
+            },
+            {
+              "chord": "C",
+              "text": "Fa"
+            },
+            {
+              "chord": "D7",
+              "text": "ther."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thank You, Father, for sending Him;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The Spirit of Your Son Who cries within."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "2"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Abba, Father,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Abba, Father."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Oh! How sweet is Abba’s Name"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "From our spirit through our heart."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "3"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Abba, Father,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Abba, Father."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Every moment this mingled cry;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "To Your Beloved we’re joined thereby."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "4"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Abba, Father,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Abba, Father."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Day by day, this cry so new;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In Your Son we come back to You."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "5"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Abba, Father,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Abba, Father."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In Your bosom here we’ll stay,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In Your Son and never stray."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "6"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Abba, Father,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Abba, Father."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    }
+  ],
+  "metadata": {
+    "category": "Worship of the Father",
+    "time": "4/4",
+    "hymn_code": "11112173333432"
+  },
+  "raw_sections": [
+    "Abba,Father,hear ourcry,",
+    "Mingledspiritdeep within.",
+    "Abba,Father,",
+    "Abba,Father.",
+    "Thank You, Father, for sending Him;",
+    "The Spirit of Your Son Who cries within.",
+    "Abba, Father,",
+    "Abba, Father.",
+    "Oh! How sweet is Abba’s Name",
+    "From our spirit through our heart.",
+    "Abba, Father,",
+    "Abba, Father.",
+    "Every moment this mingled cry;",
+    "To Your Beloved we’re joined thereby.",
+    "Abba, Father,",
+    "Abba, Father.",
+    "Day by day, this cry so new;",
+    "In Your Son we come back to You.",
+    "Abba, Father,",
+    "Abba, Father.",
+    "In Your bosom here we’ll stay,",
+    "In Your Son and never stray.",
+    "Abba, Father,",
+    "Abba, Father."
+  ]
+}

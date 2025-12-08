@@ -38,6 +38,7 @@ class HymnLoaderService {
         'ts': '补充本',
         'h': 'Hymns',
         'ns': 'New Songs',
+        'lb': 'New Songs (LB)',
       };
 
       // Filter out categories that don't exist in the JSON
