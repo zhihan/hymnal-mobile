@@ -3,7 +3,7 @@ import 'package:provider/provider.dart';
 import '../models/hymn_song.dart';
 import '../services/hymn_loader_service.dart';
 import '../widgets/hymn_display.dart';
-import '../providers/favorites_provider.dart';
+import '../providers/song_list_provider.dart';
 
 class HymnDetailScreen extends StatefulWidget {
   final int initialHymnNumber;
@@ -140,25 +140,133 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
 
   String get _currentHymnId => '${_currentBookId}_$_currentHymnNumber';
 
+  void _showAddToListMenu() {
+    final songListProvider = Provider.of<SongListProvider>(context, listen: false);
+    final lists = songListProvider.lists;
+
+    showModalBottomSheet(
+      context: context,
+      builder: (context) => SafeArea(
+        child: Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Padding(
+              padding: const EdgeInsets.all(16.0),
+              child: Text(
+                'Add to List',
+                style: Theme.of(context).textTheme.titleLarge,
+              ),
+            ),
+            const Divider(height: 1),
+            if (lists.isEmpty)
+              const Padding(
+                padding: EdgeInsets.all(24.0),
+                child: Text('No lists available'),
+              )
+            else
+              ListView.builder(
+                shrinkWrap: true,
+                itemCount: lists.length,
+                itemBuilder: (context, index) {
+                  final list = lists[index];
+                  final isInList = list.containsHymn(_currentHymnId);
+                  final isFull = list.isFull();
+                  final isBuiltIn = list.isBuiltIn;
+
+                  return ListTile(
+                    leading: Icon(
+                      list.isDefault
+                          ? Icons.favorite
+                          : list.isBuiltIn
+                              ? Icons.auto_awesome
+                              : Icons.library_music,
+                      color: isInList
+                          ? (list.isDefault
+                              ? Colors.red
+                              : list.isBuiltIn
+                                  ? Colors.orange
+                                  : Theme.of(context).colorScheme.primary)
+                          : Colors.grey,
+                    ),
+                    title: Text(list.name),
+                    subtitle: Text(
+                      isBuiltIn
+                          ? '${list.hymnCount} hymns (Read-only)'
+                          : '${list.hymnCount} hymns',
+                    ),
+                    trailing: isInList
+                        ? (isBuiltIn
+                            ? const Icon(Icons.lock, color: Colors.grey)
+                            : const Icon(Icons.check, color: Colors.green))
+                        : (isFull
+                            ? const Icon(Icons.block, color: Colors.grey)
+                            : (isBuiltIn
+                                ? const Icon(Icons.lock, color: Colors.grey)
+                                : null)),
+                    enabled: !isBuiltIn && (!isFull || isInList),
+                    onTap: isBuiltIn
+                        ? null
+                        : () async {
+                            Navigator.pop(context);
+                            if (isInList) {
+                              await songListProvider.removeHymnFromList(list.id, _currentHymnId);
+                              if (mounted) {
+                                ScaffoldMessenger.of(context).showSnackBar(
+                                  SnackBar(content: Text('Removed from ${list.name}')),
+                                );
+                              }
+                            } else {
+                              final success = await songListProvider.addHymnToList(list.id, _currentHymnId);
+                              if (mounted) {
+                                ScaffoldMessenger.of(context).showSnackBar(
+                                  SnackBar(
+                                    content: Text(
+                                      success
+                                          ? 'Added to ${list.name}'
+                                          : 'Failed to add to ${list.name}',
+                                    ),
+                                  ),
+                                );
+                              }
+                            }
+                          },
+                  );
+                },
+              ),
+          ],
+        ),
+      ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
-    final favoritesProvider = Provider.of<FavoritesProvider>(context);
-    final isFavorite = favoritesProvider.isFavorite(_currentHymnId);
-
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
         title: Text('$_bookDisplayName $_currentHymnNumber'),
         actions: [
-          IconButton(
-            icon: Icon(
-              isFavorite ? Icons.favorite : Icons.favorite_border,
-              color: isFavorite ? Colors.red : null,
-            ),
-            onPressed: () {
-              favoritesProvider.toggleFavorite(_currentHymnId);
+          Consumer<SongListProvider>(
+            builder: (context, provider, child) {
+              final defaultList = provider.defaultList;
+              final isFavorite = defaultList?.containsHymn(_currentHymnId) ?? false;
+
+              return IconButton(
+                icon: Icon(
+                  isFavorite ? Icons.favorite : Icons.favorite_border,
+                  color: isFavorite ? Colors.red : null,
+                ),
+                onPressed: () {
+                  provider.toggleFavorite(_currentHymnId);
+                },
+                tooltip: isFavorite ? 'Remove from favorites' : 'Add to favorites',
+              );
             },
-            tooltip: isFavorite ? 'Remove from favorites' : 'Add to favorites',
+          ),
+          IconButton(
+            icon: const Icon(Icons.playlist_add),
+            onPressed: _showAddToListMenu,
+            tooltip: 'Add to list',
           ),
           IconButton(
             icon: const Icon(Icons.arrow_back_ios),

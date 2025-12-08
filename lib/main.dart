@@ -3,6 +3,7 @@ import 'package:provider/provider.dart';
 import 'screens/home_screen.dart';
 import 'services/hymn_db_service.dart';
 import 'providers/favorites_provider.dart';
+import 'providers/song_list_provider.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -18,8 +19,15 @@ class HymnalApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return ChangeNotifierProvider(
-      create: (context) => FavoritesProvider()..loadFavorites(),
+    return MultiProvider(
+      providers: [
+        ChangeNotifierProvider(
+          create: (context) => FavoritesProvider()..loadFavorites(),
+        ),
+        ChangeNotifierProvider(
+          create: (context) => SongListProvider()..loadLists(),
+        ),
+      ],
       child: MaterialApp(
         title: '补充本',
         debugShowCheckedModeBanner: false,
