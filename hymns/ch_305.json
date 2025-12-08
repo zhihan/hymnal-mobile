@@ -136,7 +136,9 @@
             }
           ]
         }
-      ]
+      ],
+      "type": "verse",
+      "number": "1"
     },
     {
       "lines": [
@@ -188,7 +190,9 @@
             }
           ]
         }
-      ]
+      ],
+      "type": "verse",
+      "number": "2"
     },
     {
       "lines": [
@@ -240,7 +244,9 @@
             }
           ]
         }
-      ]
+      ],
+      "type": "verse",
+      "number": "3"
     },
     {
       "lines": [
@@ -292,7 +298,9 @@
             }
           ]
         }
-      ]
+      ],
+      "type": "verse",
+      "number": "4"
     },
     {
       "lines": [
@@ -344,7 +352,9 @@
             }
           ]
         }
-      ]
+      ],
+      "type": "verse",
+      "number": "5"
     },
     {
       "lines": [
@@ -396,7 +406,9 @@
             }
           ]
         }
-      ]
+      ],
+      "type": "verse",
+      "number": "6"
     },
     {
       "lines": [
@@ -448,7 +460,9 @@
             }
           ]
         }
-      ]
+      ],
+      "type": "verse",
+      "number": "7"
     },
     {
       "lines": [
@@ -500,7 +514,9 @@
             }
           ]
         }
-      ]
+      ],
+      "type": "verse",
+      "number": "8"
     }
   ],
   "metadata": {

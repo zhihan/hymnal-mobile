@@ -104,7 +104,9 @@
             }
           ]
         }
-      ]
+      ],
+      "type": "verse",
+      "number": "1"
     },
     {
       "lines": [
@@ -172,7 +174,9 @@
             }
           ]
         }
-      ]
+      ],
+      "type": "verse",
+      "number": "2"
     },
     {
       "lines": [
@@ -240,7 +244,9 @@
             }
           ]
         }
-      ]
+      ],
+      "type": "verse",
+      "number": "3"
     }
   ],
   "metadata": {

@@ -300,7 +300,9 @@
             }
           ]
         }
-      ]
+      ],
+      "type": "verse",
+      "number": "1"
     },
     {
       "lines": [
@@ -416,7 +418,8 @@
             }
           ]
         }
-      ]
+      ],
+      "type": "chorus"
     }
   ],
   "metadata": {
