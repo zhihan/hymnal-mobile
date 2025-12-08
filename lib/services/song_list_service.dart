@@ -406,7 +406,17 @@ class SongListService {
 
     final listsJson = prefs.getString(_songListsKey);
     if (listsJson == null || listsJson.isEmpty) {
-      // No lists yet, will be created by _createDefaultList
+      // No lists yet, create YP Songbook along with default list
+      final ypSongbook = SongList(
+        id: _ypSongbookId,
+        name: 'YP Songbook',
+        hymnIds: List.from(_ypSongbookHymns),
+        createdAt: DateTime.now(),
+        updatedAt: DateTime.now(),
+        isDefault: false,
+        isBuiltIn: true,
+      );
+      await _saveLists(prefs, [ypSongbook]);
       await prefs.setBool(_builtInListsInitializedKey, true);
       return;
     }
@@ -442,7 +452,7 @@ class SongListService {
   Future<void> _updateBuiltInLists(SharedPreferences prefs, List<SongList> lists) async {
     bool updated = false;
 
-    // Update YP Songbook
+    // Update or create YP Songbook
     final ypIndex = lists.indexWhere((list) => list.id == _ypSongbookId);
     if (ypIndex != -1) {
       final currentYp = lists[ypIndex];
@@ -458,6 +468,19 @@ class SongListService {
         );
         updated = true;
       }
+    } else {
+      // YP Songbook doesn't exist, create it
+      final ypSongbook = SongList(
+        id: _ypSongbookId,
+        name: 'YP Songbook',
+        hymnIds: List.from(_ypSongbookHymns),
+        createdAt: DateTime.now(),
+        updatedAt: DateTime.now(),
+        isDefault: false,
+        isBuiltIn: true,
+      );
+      lists.add(ypSongbook);
+      updated = true;
     }
 
     if (updated) {
