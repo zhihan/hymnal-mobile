@@ -20,7 +20,6 @@ class HymnDisplay extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final hasMultipleVerses = hymn.verses.length > 1;
     final screenWidth = MediaQuery.of(context).size.width;
     final contentWidth = screenWidth < 632 ? screenWidth : 600.0;
 
@@ -68,7 +67,6 @@ class HymnDisplay extends StatelessWidget {
                 // Add verse display
                 widgets.add(VerseDisplay(
                   verse: verse,
-                  verseNumber: hasMultipleVerses ? verseIndex + 1 : null,
                   transposeOffset: transposeOffset,
                   showChords: showChords,
                 ));
@@ -91,14 +89,12 @@ class HymnDisplay extends StatelessWidget {
 /// Widget to display a single verse
 class VerseDisplay extends StatelessWidget {
   final Verse verse;
-  final int? verseNumber;
   final int transposeOffset;
   final bool showChords;
 
   const VerseDisplay({
     super.key,
     required this.verse,
-    this.verseNumber,
     this.transposeOffset = 0,
     this.showChords = true,
   });
@@ -110,11 +106,34 @@ class VerseDisplay extends StatelessWidget {
       line.segments.any((segment) => segment.chord.isNotEmpty)
     );
 
+    // Determine what label to show
+    String? label;
+    TextStyle? labelStyle;
+
+    if (verse.type == 'verse' && verse.number != null) {
+      // Show verse number
+      label = '${verse.number}.';
+      labelStyle = const TextStyle(
+        fontSize: 16,
+        fontWeight: FontWeight.bold,
+        color: Colors.black54,
+      );
+    } else if (verse.type == 'chorus') {
+      // Show 'C.' in italics
+      label = 'C.';
+      labelStyle = const TextStyle(
+        fontSize: 16,
+        fontWeight: FontWeight.normal,
+        fontStyle: FontStyle.italic,
+        color: Colors.black54,
+      );
+    }
+
     return Row(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        // Verse number (if multiple verses)
-        if (verseNumber != null)
+        // Verse number or chorus indicator
+        if (label != null)
           Padding(
             padding: EdgeInsets.only(
               right: 12.0,
@@ -123,12 +142,8 @@ class VerseDisplay extends StatelessWidget {
             child: SizedBox(
               width: 24,
               child: Text(
-                '$verseNumber.',
-                style: const TextStyle(
-                  fontSize: 16,
-                  fontWeight: FontWeight.bold,
-                  color: Colors.black54,
-                ),
+                label,
+                style: labelStyle,
               ),
             ),
           ),
