@@ -1,0 +1,230 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/nt/578",
+  "title": "My will is weak, my strength is frail",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "My will"
+            },
+            {
+              "chord": "",
+              "text": "is weak,"
+            },
+            {
+              "chord": "Bm",
+              "text": "my strength"
+            },
+            {
+              "chord": "",
+              "text": "is frail,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And"
+            },
+            {
+              "chord": "C",
+              "text": "all my"
+            },
+            {
+              "chord": "",
+              "text": "hope is"
+            },
+            {
+              "chord": "D7",
+              "text": "nearly"
+            },
+            {
+              "chord": "",
+              "text": "gone;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "I can"
+            },
+            {
+              "chord": "",
+              "text": "but trust"
+            },
+            {
+              "chord": "Bm",
+              "text": "Thy working"
+            },
+            {
+              "chord": "",
+              "text": "true"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "To"
+            },
+            {
+              "chord": "C",
+              "text": "gently"
+            },
+            {
+              "chord": "",
+              "text": "hold and"
+            },
+            {
+              "chord": "D",
+              "text": "lead me"
+            },
+            {
+              "chord": "Em",
+              "text": "on."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "To"
+            },
+            {
+              "chord": "C",
+              "text": "gently"
+            },
+            {
+              "chord": "",
+              "text": "hold and"
+            },
+            {
+              "chord": "G",
+              "text": "lead"
+            },
+            {
+              "chord": "D7",
+              "text": "me"
+            },
+            {
+              "chord": "G",
+              "text": "on."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "2"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Whene’er my heart is lifted up,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "How very near I am to fall;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I dare not do, I dare not think,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I need Thyself in great or small."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "3"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thou art my Savior, strength and stay,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "O Lord, I come to seek Thy face;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Though I’m the weakest of the weak,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My strength is nothing but Thy grace."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "4"
+    }
+  ],
+  "metadata": {
+    "category": "Experience of Christ",
+    "time": "4/4",
+    "hymn_code": "33235567114411765"
+  },
+  "raw_sections": [
+    "My willis weak,my strengthis frail,",
+    "Andall myhope isnearlygone;",
+    "I canbut trustThy workingtrue",
+    "Togentlyhold andlead meon.",
+    "Togentlyhold andleadmeon.",
+    "Whene’er my heart is lifted up,",
+    "How very near I am to fall;",
+    "I dare not do, I dare not think,",
+    "I need Thyself in great or small.",
+    "Thou art my Savior, strength and stay,",
+    "O Lord, I come to seek Thy face;",
+    "Though I’m the weakest of the weak,",
+    "My strength is nothing but Thy grace."
+  ]
+}

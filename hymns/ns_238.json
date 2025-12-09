@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/ns/238",
+  "url": "https://www.hymnal.net/en/hymn/ns/238",
   "title": "From my heart comes a melody",
   "verses": [
     {
@@ -302,7 +302,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Emptiness turned life's pleasures blue;"
+              "text": "Emptiness turned life’s pleasures blue;"
             }
           ]
         },
@@ -318,7 +318,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "'Til I turned one day"
+              "text": "’Til I turned one day"
             }
           ]
         },
@@ -350,7 +350,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Now I know, Lord, You're one with me;"
+              "text": "Now I know, Lord, You’re one with me;"
             }
           ]
         },
@@ -358,7 +358,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "And I can't help giving myself to Thee."
+              "text": "And I can’t help giving myself to Thee."
             }
           ]
         },
@@ -366,7 +366,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Lord, I can't help giving myself to Thee."
+              "text": "Lord, I can’t help giving myself to Thee."
             }
           ]
         }
@@ -381,8 +381,8 @@
     "hymn_code": "15123432671234321",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/ts/325",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/ts/325",
+        "language": "en",
         "category": "ts",
         "number": "325",
         "title": "Cs325"
@@ -402,14 +402,14 @@
     "Lord,Ican'thelpgivingmyselftoYou.",
     "From the day that I first met You.",
     "How could I help falling in love with You?",
-    "Emptiness turned life's pleasures blue;",
+    "Emptiness turned life’s pleasures blue;",
     "No earthly love ever could see me through.",
-    "'Til I turned one day",
+    "’Til I turned one day",
     "Opened up my heart,",
     "Let Your love flow in",
     "And fill my deepest part.",
-    "Now I know, Lord, You're one with me;",
-    "And I can't help giving myself to Thee.",
-    "Lord, I can't help giving myself to Thee."
+    "Now I know, Lord, You’re one with me;",
+    "And I can’t help giving myself to Thee.",
+    "Lord, I can’t help giving myself to Thee."
   ]
 }

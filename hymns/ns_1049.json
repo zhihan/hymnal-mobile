@@ -1,0 +1,437 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/1049",
+  "title": "The Christian Life",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "The Christian"
+            },
+            {
+              "chord": "",
+              "text": "life, a Christfilled"
+            },
+            {
+              "chord": "G",
+              "text": "life,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "A life of"
+            },
+            {
+              "chord": "D",
+              "text": "living"
+            },
+            {
+              "chord": "Bm",
+              "text": "Christ as"
+            },
+            {
+              "chord": "A",
+              "text": "life,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Is Christ my"
+            },
+            {
+              "chord": "D",
+              "text": "person"
+            },
+            {
+              "chord": "",
+              "text": "and my"
+            },
+            {
+              "chord": "G",
+              "text": "grace,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "A life of"
+            },
+            {
+              "chord": "D",
+              "text": "living"
+            },
+            {
+              "chord": "A7",
+              "text": "face to"
+            },
+            {
+              "chord": "D",
+              "text": "face."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The Christian"
+            },
+            {
+              "chord": "G",
+              "text": "life, a"
+            },
+            {
+              "chord": "A7",
+              "text": "loving"
+            },
+            {
+              "chord": "D",
+              "text": "life,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "A life of"
+            },
+            {
+              "chord": "G",
+              "text": "loving"
+            },
+            {
+              "chord": "Bm",
+              "text": "freed from"
+            },
+            {
+              "chord": "A7",
+              "text": "strife,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Is God in"
+            },
+            {
+              "chord": "G",
+              "text": "Christ as"
+            },
+            {
+              "chord": "",
+              "text": "love poured"
+            },
+            {
+              "chord": "Bm",
+              "text": "out,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Enjoyed with"
+            },
+            {
+              "chord": "F♯m",
+              "text": "in, ex"
+            },
+            {
+              "chord": "A7",
+              "text": "pressed with"
+            },
+            {
+              "chord": "D",
+              "text": "out."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The Christian life is God in Christ,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "A priceless treasure and our life;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "We turn, behold, reflect, and see,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "E’en as He is, we all shall be."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "2"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The Christian life, a broken life,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "A life no longer I, but Christ,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Is Christ our fragrance and our taste,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "By Spirit: holy, pure, and chaste."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The Christian life, a grafted life,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Is found in our Lord Jesus Christ;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And by His cutting on the Tree"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "A place was made for you and me."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "3"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The Christian life, a grafted life,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Is Christ’s desire, and God’s delight;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Organic union with the Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "We live in Christ in one accord."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The Christian life, a growing life,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Joined to the resurrected Christ,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In Spirit grows organically,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "To be His Body practically."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "4"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The Christian life, maturing life,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Is Christ in all to be applied;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Tis not exchanged but mingled in,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The richest life with mine does blend."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    }
+  ],
+  "metadata": {
+    "category": "Various Aspects of the Inner Life",
+    "time": "3/4",
+    "hymn_code": "5543321611235322"
+  },
+  "raw_sections": [
+    "The Christianlife, a Christfilledlife,",
+    "A life oflivingChrist aslife,",
+    "Is Christ mypersonand mygrace,",
+    "A life oflivingface toface.",
+    "The Christianlife, alovinglife,",
+    "A life oflovingfreed fromstrife,",
+    "Is God inChrist aslove pouredout,",
+    "Enjoyed within, expressed without.",
+    "The Christian life is God in Christ,",
+    "A priceless treasure and our life;",
+    "We turn, behold, reflect, and see,",
+    "E’en as He is, we all shall be.",
+    "The Christian life, a broken life,",
+    "A life no longer I, but Christ,",
+    "Is Christ our fragrance and our taste,",
+    "By Spirit: holy, pure, and chaste.",
+    "The Christian life, a grafted life,",
+    "Is found in our Lord Jesus Christ;",
+    "And by His cutting on the Tree",
+    "A place was made for you and me.",
+    "The Christian life, a grafted life,",
+    "Is Christ’s desire, and God’s delight;",
+    "Organic union with the Lord,",
+    "We live in Christ in one accord.",
+    "The Christian life, a growing life,",
+    "Joined to the resurrected Christ,",
+    "In Spirit grows organically,",
+    "To be His Body practically.",
+    "The Christian life, maturing life,",
+    "Is Christ in all to be applied;",
+    "Tis not exchanged but mingled in,",
+    "The richest life with mine does blend."
+  ]
+}

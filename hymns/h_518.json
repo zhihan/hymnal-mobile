@@ -1,6 +1,6 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/518",
-  "title": "Whom have I, Lord, in heav'n but Thee",
+  "url": "https://www.hymnal.net/en/hymn/h/518",
+  "title": "Whom have I, Lord, in heav’n but Thee",
   "verses": [
     {
       "lines": [
@@ -174,7 +174,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "I covet not earth's glitt'ring toys:"
+              "text": "I covet not earth’s glitt’ring toys:"
             }
           ]
         },
@@ -198,7 +198,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "\"Fading\" is stamped on all below;"
+              "text": "“Fading” is stamped on all below;"
             }
           ]
         },
@@ -244,7 +244,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "\"He knoweth best,\" I murmur not:"
+              "text": "“He knoweth best,” I murmur not:"
             }
           ]
         },
@@ -260,7 +260,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Though \"vine\" and \"fig-tree\" blight assail,"
+              "text": "Though “vine” and “fig-tree” blight assail,"
             }
           ]
         },
@@ -268,7 +268,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "The \"labor of the olive fail,\""
+              "text": "The “labor of the olive fail,”"
             }
           ]
         },
@@ -276,7 +276,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "And death o'er flock and herd prevail,"
+              "text": "And death o’er flock and herd prevail,"
             }
           ]
         },
@@ -416,7 +416,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Still will I sing through death's cold shade;"
+              "text": "Still will I sing through death’s cold shade;"
             }
           ]
         },
@@ -439,8 +439,8 @@
     "hymn_code": "17656123556771",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/ch/422",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/ch/422",
+        "language": "en",
         "category": "ch",
         "number": "422",
         "title": "C422"
@@ -458,19 +458,19 @@
     "Christ forme!Christ forme!",
     "I envy not the rich their joys:",
     "Christ for me! Christ for me!",
-    "I covet not earth's glitt'ring toys:",
+    "I covet not earth’s glitt’ring toys:",
     "Christ for me! Christ for me!",
     "Earth can no lasting bliss bestow,",
-    "\"Fading\" is stamped on all below;",
+    "“Fading” is stamped on all below;",
     "Mine is a joy no end can know:",
     "Christ for me! Christ for me!",
     "Though with the poor be cast my lot:",
     "Christ for me! Christ for me!",
-    "\"He knoweth best,\" I murmur not:",
+    "“He knoweth best,” I murmur not:",
     "Christ for me! Christ for me!",
-    "Though \"vine\" and \"fig-tree\" blight assail,",
-    "The \"labor of the olive fail,\"",
-    "And death o'er flock and herd prevail,",
+    "Though “vine” and “fig-tree” blight assail,",
+    "The “labor of the olive fail,”",
+    "And death o’er flock and herd prevail,",
     "Christ for me! Christ for me!",
     "Though I am now on hostile ground,",
     "Christ for me! Christ for me!",
@@ -486,7 +486,7 @@
     "Christ for me! Christ for me!",
     "When sharpest pains my frame pervade,",
     "And all the powers of nature fade,",
-    "Still will I sing through death's cold shade;",
+    "Still will I sing through death’s cold shade;",
     "Christ for me! Christ for me!"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/877",
+  "url": "https://www.hymnal.net/en/hymn/h/877",
   "title": "I dare not be defeated",
   "verses": [
     {
@@ -337,7 +337,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "A conqu'ror, a conqu'ror, Lord, in Thee."
+              "text": "A conqu’ror, a conqu’ror, Lord, in Thee."
             }
           ]
         }
@@ -444,7 +444,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "A conqu'ror, a conqu'ror, Lord, in Thee."
+              "text": "A conqu’ror, a conqu’ror, Lord, in Thee."
             }
           ]
         }
@@ -481,7 +481,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "\"Well done, beloved, well done;\""
+              "text": "“Well done, beloved, well done;”"
             }
           ]
         },
@@ -551,7 +551,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "A conqu'ror, a conqu'ror, Lord, in Thee."
+              "text": "A conqu’ror, a conqu’ror, Lord, in Thee."
             }
           ]
         }
@@ -565,8 +565,8 @@
     "hymn_code": "5333333331714",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/ch/648",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/ch/648",
+        "language": "en",
         "category": "ch",
         "number": "648",
         "title": "C648"
@@ -597,7 +597,7 @@
     "A victor, a victor!",
     "Because of Calvary.",
     "Make me an overcomer,",
-    "A conqu'ror, a conqu'ror, Lord, in Thee.",
+    "A conqu’ror, a conqu’ror, Lord, in Thee.",
     "I dare not be defeated,",
     "When Jesus leads me on",
     "To press through hellish regions",
@@ -609,11 +609,11 @@
     "A victor, a victor!",
     "Because of Calvary.",
     "Make me an overcomer,",
-    "A conqu'ror, a conqu'ror, Lord, in Thee.",
+    "A conqu’ror, a conqu’ror, Lord, in Thee.",
     "I dare not be defeated,",
     "Just at the set of sun,",
     "When Jesus waits to whisper,",
-    "\"Well done, beloved, well done;\"",
+    "“Well done, beloved, well done;”",
     "Come, Lord, bend from the Glory,",
     "On me Thy Spirit cast,",
     "Make me an overcomer,",
@@ -621,6 +621,6 @@
     "A victor, a victor!",
     "Because of Calvary.",
     "Make me an overcomer,",
-    "A conqu'ror, a conqu'ror, Lord, in Thee."
+    "A conqu’ror, a conqu’ror, Lord, in Thee."
   ]
 }

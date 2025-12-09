@@ -1,0 +1,429 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/nt/343",
+  "title": "There is sunshine in my soul today",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "There is"
+            },
+            {
+              "chord": "",
+              "text": "sunshine in my"
+            },
+            {
+              "chord": "G",
+              "text": "soul today,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "More"
+            },
+            {
+              "chord": "D",
+              "text": "glorious"
+            },
+            {
+              "chord": "",
+              "text": "and"
+            },
+            {
+              "chord": "A",
+              "text": "bright"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Than"
+            },
+            {
+              "chord": "D",
+              "text": "glows in"
+            },
+            {
+              "chord": "",
+              "text": "any"
+            },
+            {
+              "chord": "G",
+              "text": "earthly"
+            },
+            {
+              "chord": "",
+              "text": "sky,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For"
+            },
+            {
+              "chord": "D",
+              "text": "Jesus"
+            },
+            {
+              "chord": "",
+              "text": "is my"
+            },
+            {
+              "chord": "A",
+              "text": "light."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "O"
+            },
+            {
+              "chord": "D",
+              "text": "there is"
+            },
+            {
+              "chord": "",
+              "text": "sunshine, blessed sunshine,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "While the"
+            },
+            {
+              "chord": "",
+              "text": "peaceful, happy moments"
+            },
+            {
+              "chord": "D",
+              "text": "roll;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When Jesus shows His"
+            },
+            {
+              "chord": "Bm",
+              "text": "smiling"
+            },
+            {
+              "chord": "",
+              "text": "face"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "There's"
+            },
+            {
+              "chord": "Em7",
+              "text": "sunshine"
+            },
+            {
+              "chord": "A7",
+              "text": "in my"
+            },
+            {
+              "chord": "D",
+              "text": "soul."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "There is music in my soul today,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "A carol to my King;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And Jesus, listening, can hear"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The song I cannot sing."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "2"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "O there is sunshine, blessed sunshine,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "While the peaceful, happy moments roll;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When Jesus shows His smiling face"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "There’s sunshine in my soul."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "There is springtime in my soul today,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For when the Lord is near"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The dove of peace sings in my heart,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The flowers of grace appear."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "3"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "O there is sunshine, blessed sunshine,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "While the peaceful, happy moments roll;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When Jesus shows His smiling face"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "There’s sunshine in my soul."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "There is gladness in my soul today,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And hope, and praise, and love,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For blessings which He gives me now,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For joys laid up above."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "4"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "O there is sunshine, blessed sunshine,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "While the peaceful, happy moments roll;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When Jesus shows His smiling face"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "There’s sunshine in my soul."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    }
+  ],
+  "metadata": {
+    "category": "Assurance and Joy of Salvation",
+    "time": "4/4",
+    "hymn_code": "1235671233432521"
+  },
+  "raw_sections": [
+    "There issunshine in mysoul today,",
+    "Moregloriousandbright",
+    "Thanglows inanyearthlysky,",
+    "ForJesusis mylight.",
+    "Othere issunshine, blessed sunshine,",
+    "While thepeaceful, happy momentsroll;",
+    "When Jesus shows Hissmilingface",
+    "There'ssunshinein mysoul.",
+    "There is music in my soul today,",
+    "A carol to my King;",
+    "And Jesus, listening, can hear",
+    "The song I cannot sing.",
+    "O there is sunshine, blessed sunshine,",
+    "While the peaceful, happy moments roll;",
+    "When Jesus shows His smiling face",
+    "There’s sunshine in my soul.",
+    "There is springtime in my soul today,",
+    "For when the Lord is near",
+    "The dove of peace sings in my heart,",
+    "The flowers of grace appear.",
+    "O there is sunshine, blessed sunshine,",
+    "While the peaceful, happy moments roll;",
+    "When Jesus shows His smiling face",
+    "There’s sunshine in my soul.",
+    "There is gladness in my soul today,",
+    "And hope, and praise, and love,",
+    "For blessings which He gives me now,",
+    "For joys laid up above.",
+    "O there is sunshine, blessed sunshine,",
+    "While the peaceful, happy moments roll;",
+    "When Jesus shows His smiling face",
+    "There’s sunshine in my soul."
+  ]
+}

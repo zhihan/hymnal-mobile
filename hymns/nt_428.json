@@ -1,0 +1,273 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/nt/428",
+  "title": "O Lord, Thy boundless love to me",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "O Lord,"
+            },
+            {
+              "chord": "",
+              "text": "Thy boundless love to"
+            },
+            {
+              "chord": "D",
+              "text": "me"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "No"
+            },
+            {
+              "chord": "Em",
+              "text": "thought can"
+            },
+            {
+              "chord": "",
+              "text": "reach, no"
+            },
+            {
+              "chord": "Bm",
+              "text": "tongue de"
+            },
+            {
+              "chord": "C",
+              "text": "clare;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Oh,"
+            },
+            {
+              "chord": "G",
+              "text": "knit my"
+            },
+            {
+              "chord": "",
+              "text": "thankful heart to"
+            },
+            {
+              "chord": "D",
+              "text": "Thee,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And"
+            },
+            {
+              "chord": "Em",
+              "text": "reign without"
+            },
+            {
+              "chord": "",
+              "text": "a"
+            },
+            {
+              "chord": "Bm",
+              "text": "rival"
+            },
+            {
+              "chord": "C",
+              "text": "there;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "Thine wholly,"
+            },
+            {
+              "chord": "D",
+              "text": "Thine alone"
+            },
+            {
+              "chord": "",
+              "text": "I"
+            },
+            {
+              "chord": "Em",
+              "text": "am;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Lord,"
+            },
+            {
+              "chord": "C",
+              "text": "with Thy"
+            },
+            {
+              "chord": "",
+              "text": "love my"
+            },
+            {
+              "chord": "D",
+              "text": "heart in"
+            },
+            {
+              "chord": "G",
+              "text": "flame."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Oh, grant that nothing in my soul"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "May dwell but Thy pure love alone;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Oh, may Thy love possess me whole,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My joy, my treasure, and my crown;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "All coldness from my heart remove;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "May every act, word, thought, be love."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "2"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "O Love, how cheering is Thy ray,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "All pain before Thy presence flies;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Care, anguish, sorrow, melt away,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Where’er Thy healing beams arise;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Lord Jesus, nothing may I see,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And naught desire, or seek, but Thee."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "3"
+    }
+  ],
+  "metadata": {
+    "category": "Longings",
+    "time": "4/4",
+    "hymn_code": "5212315251712316"
+  },
+  "raw_sections": [
+    "O Lord,Thy boundless love tome",
+    "Nothought canreach, notongue declare;",
+    "Oh,knit mythankful heart toThee,",
+    "Andreign withoutarivalthere;",
+    "Thine wholly,Thine aloneIam;",
+    "Lord,with Thylove myheart inflame.",
+    "Oh, grant that nothing in my soul",
+    "May dwell but Thy pure love alone;",
+    "Oh, may Thy love possess me whole,",
+    "My joy, my treasure, and my crown;",
+    "All coldness from my heart remove;",
+    "May every act, word, thought, be love.",
+    "O Love, how cheering is Thy ray,",
+    "All pain before Thy presence flies;",
+    "Care, anguish, sorrow, melt away,",
+    "Where’er Thy healing beams arise;",
+    "Lord Jesus, nothing may I see,",
+    "And naught desire, or seek, but Thee."
+  ]
+}

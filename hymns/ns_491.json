@@ -96,7 +96,8 @@
             }
           ]
         }
-      ]
+      ],
+      "type": "verse"
     },
     {
       "lines": [
@@ -228,7 +229,8 @@
             }
           ]
         }
-      ]
+      ],
+      "type": "chorus"
     }
   ],
   "metadata": {

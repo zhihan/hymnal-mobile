@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/15",
+  "url": "https://www.hymnal.net/en/hymn/h/15",
   "title": "O God, Thou art transcendent",
   "verses": [
     {
@@ -198,7 +198,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Nor e'er Thine equal be;"
+              "text": "Nor e’er Thine equal be;"
             }
           ]
         },
@@ -214,7 +214,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "'Tis insult unto Thee."
+              "text": "’Tis insult unto Thee."
             }
           ]
         }
@@ -424,7 +424,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Is ours now and fore'er."
+              "text": "Is ours now and fore’er."
             }
           ]
         }
@@ -439,8 +439,8 @@
     "hymn_code": "13556531714332",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/ch/10",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/ch/10",
+        "language": "en",
         "category": "ch",
         "number": "10",
         "title": "C10"
@@ -461,9 +461,9 @@
     "Not only without defect,",
     "But with perfection more;",
     "For nothing can approach Thee,",
-    "Nor e'er Thine equal be;",
+    "Nor e’er Thine equal be;",
     "If aught Thy place hath taken,",
-    "'Tis insult unto Thee.",
+    "’Tis insult unto Thee.",
     "The excellent excelling,",
     "The fairest of the fair,",
     "Yet differing from the finest,",
@@ -487,6 +487,6 @@
     "We praise Thee that Thy nature",
     "Unique, distinct—we share;",
     "This separating nature",
-    "Is ours now and fore'er."
+    "Is ours now and fore’er."
   ]
 }

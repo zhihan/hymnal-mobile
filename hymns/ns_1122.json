@@ -1,0 +1,192 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/1122",
+  "title": "2 Peter Bookends",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "But grow,"
+            },
+            {
+              "chord": "",
+              "text": "grow"
+            },
+            {
+              "chord": "F",
+              "text": "in the"
+            },
+            {
+              "chord": "",
+              "text": "grace,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And knowledge of"
+            },
+            {
+              "chord": "G",
+              "text": "our Lord"
+            },
+            {
+              "chord": "",
+              "text": "and Savior Je"
+            },
+            {
+              "chord": "C",
+              "text": "sus Christ."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "To Him be"
+            },
+            {
+              "chord": "F",
+              "text": "the glory"
+            },
+            {
+              "chord": "",
+              "text": "both now"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "And unto"
+            },
+            {
+              "chord": "",
+              "text": "the day of"
+            },
+            {
+              "chord": "C",
+              "text": "eternity."
+            },
+            {
+              "chord": "",
+              "text": "Amen."
+            }
+          ]
+        }
+      ],
+      "type": "verse"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Grace"
+            },
+            {
+              "chord": "F",
+              "text": "to"
+            },
+            {
+              "chord": "C",
+              "text": "you and"
+            },
+            {
+              "chord": "G",
+              "text": "peace be"
+            },
+            {
+              "chord": "Am",
+              "text": "multi"
+            },
+            {
+              "chord": "F",
+              "text": "plied"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In the"
+            },
+            {
+              "chord": "C",
+              "text": "full knowl"
+            },
+            {
+              "chord": "G",
+              "text": "edge"
+            },
+            {
+              "chord": "Am",
+              "text": "of God"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And"
+            },
+            {
+              "chord": "F",
+              "text": "of our"
+            },
+            {
+              "chord": "",
+              "text": "Lord"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Jesus"
+            },
+            {
+              "chord": "C",
+              "text": "our Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Oh Lord!"
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    }
+  ],
+  "metadata": {
+    "category": "Scriptures for Singing",
+    "time": "4/4",
+    "hymn_code": "5335544343212"
+  },
+  "raw_sections": [
+    "But grow,growin thegrace,",
+    "And knowledge ofour Lordand Savior Jesus Christ.",
+    "To Him bethe gloryboth now",
+    "And untothe day ofeternity.Amen.",
+    "Gracetoyou andpeace bemultiplied",
+    "In thefull knowledgeof God",
+    "Andof ourLord",
+    "Jesusour Lord,",
+    "Oh Lord!"
+  ]
+}

@@ -112,7 +112,8 @@
             }
           ]
         }
-      ]
+      ],
+      "type": "chorus"
     },
     {
       "lines": [
@@ -320,7 +321,8 @@
             }
           ]
         }
-      ]
+      ],
+      "type": "chorus"
     }
   ],
   "metadata": {

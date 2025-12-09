@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/432",
+  "url": "https://www.hymnal.net/en/hymn/h/432",
   "title": "O Love, that wilt not let me go",
   "verses": [
     {
@@ -130,7 +130,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "That in Thy sunshine's blaze its day"
+              "text": "That in Thy sunshine’s blaze its day"
             }
           ]
         },
@@ -214,7 +214,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "I lay in dust life's glory dead,"
+              "text": "I lay in dust life’s glory dead,"
             }
           ]
         },
@@ -245,8 +245,8 @@
     "hymn_code": "555567117777712354",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/ch/332",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/ch/332",
+        "language": "en",
         "category": "ch",
         "number": "332",
         "title": "C332"
@@ -262,7 +262,7 @@
     "O Light, that followest all my way,",
     "I yield my flickering torch to Thee;",
     "My heart restores its borrowed ray,",
-    "That in Thy sunshine's blaze its day",
+    "That in Thy sunshine’s blaze its day",
     "May brighter, fairer be.",
     "O Joy, that seekest me through pain,",
     "I cannot close my heart to Thee;",
@@ -271,7 +271,7 @@
     "That morn shall tearless be.",
     "O Cross, that liftest up my head,",
     "I dare not ask to fly from Thee;",
-    "I lay in dust life's glory dead,",
+    "I lay in dust life’s glory dead,",
     "And from the ground there blossoms red",
     "Life that shall endless be."
   ]

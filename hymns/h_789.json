@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/789",
+  "url": "https://www.hymnal.net/en/hymn/h/789",
   "title": "What a Friend we have in Jesus",
   "verses": [
     {
@@ -284,7 +284,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "In His arms He'll take and shield thee,"
+              "text": "In His arms He’ll take and shield thee,"
             }
           ]
         },
@@ -307,8 +307,8 @@
     "hymn_code": "556531165131532",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/ch/571",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/ch/571",
+        "language": "en",
         "category": "ch",
         "number": "571",
         "title": "C571"
@@ -338,7 +338,7 @@
     "Take it to the Lord in prayer;",
     "Do thy friends despise, forsake thee?",
     "Take it to the Lord in prayer;",
-    "In His arms He'll take and shield thee,",
+    "In His arms He’ll take and shield thee,",
     "Thou wilt find a solace there."
   ]
 }

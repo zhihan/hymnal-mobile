@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/156",
+  "url": "https://www.hymnal.net/en/hymn/h/156",
   "title": "I have a Friend, whose faithful love",
   "verses": [
     {
@@ -460,7 +460,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "I'll praise Him—Blessed be His name!"
+              "text": "I’ll praise Him—Blessed be His name!"
             }
           ]
         }
@@ -475,8 +475,8 @@
     "hymn_code": "5123343223455432",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/ch/129",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/ch/129",
+        "language": "en",
         "category": "ch",
         "number": "129",
         "title": "C129"
@@ -523,6 +523,6 @@
     "My joy shall be",
     "His face to see,",
     "And bowing there with loud acclaim",
-    "I'll praise Him—Blessed be His name!"
+    "I’ll praise Him—Blessed be His name!"
   ]
 }

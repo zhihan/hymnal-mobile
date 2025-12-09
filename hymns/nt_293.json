@@ -1,0 +1,256 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/nt/293",
+  "title": "Cleansed in our Savior’s precious blood",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "Cleansed in"
+            },
+            {
+              "chord": "",
+              "text": "our Savior's"
+            },
+            {
+              "chord": "F",
+              "text": "precious"
+            },
+            {
+              "chord": "",
+              "text": "blood,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "Filled with"
+            },
+            {
+              "chord": "",
+              "text": "the"
+            },
+            {
+              "chord": "Am",
+              "text": "fulness"
+            },
+            {
+              "chord": "Dm7",
+              "text": "of our"
+            },
+            {
+              "chord": "G7",
+              "text": "God,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "Walking"
+            },
+            {
+              "chord": "",
+              "text": "by faith the"
+            },
+            {
+              "chord": "F",
+              "text": "path He"
+            },
+            {
+              "chord": "",
+              "text": "trod,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "Hallelujah!"
+            },
+            {
+              "chord": "",
+              "text": "Halle"
+            },
+            {
+              "chord": "G",
+              "text": "lujah!"
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "F",
+              "text": "Halle"
+            },
+            {
+              "chord": "G7",
+              "text": "lujah!"
+            },
+            {
+              "chord": "",
+              "text": "Halle"
+            },
+            {
+              "chord": "C",
+              "text": "lujah!"
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "2"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Kept by His pow’r from day to day,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Held by His hand, we cannot stray,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Glory to glory all the way,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Hallelujah! Hallelujah!"
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "3"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Living in us His own pure life,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Giving us rest from inward strife,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "From strength to strength, from death to life,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Hallelujah! Hallelujah!"
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "4"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "O what a Savior we have found;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Well may we make the world resound"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "With one continual joyous sound,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Hallelujah! Hallelujah!"
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "5"
+    }
+  ],
+  "metadata": {
+    "category": "Assurance and Joy of Salvation",
+    "time": "4/4",
+    "hymn_code": "5555366655553444"
+  },
+  "raw_sections": [
+    "Cleansed inour Savior'spreciousblood,",
+    "Filled withthefulnessof ourGod,",
+    "Walkingby faith thepath Hetrod,",
+    "Hallelujah!Hallelujah!",
+    "Hallelujah!Hallelujah!",
+    "Kept by His pow’r from day to day,",
+    "Held by His hand, we cannot stray,",
+    "Glory to glory all the way,",
+    "Hallelujah! Hallelujah!",
+    "Living in us His own pure life,",
+    "Giving us rest from inward strife,",
+    "From strength to strength, from death to life,",
+    "Hallelujah! Hallelujah!",
+    "O what a Savior we have found;",
+    "Well may we make the world resound",
+    "With one continual joyous sound,",
+    "Hallelujah! Hallelujah!"
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/nt/434",
+  "title": "Lord, Thou hast won, at length I yield",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Lord, Thou"
+            },
+            {
+              "chord": "",
+              "text": "hast"
+            },
+            {
+              "chord": "G",
+              "text": "won, at"
+            },
+            {
+              "chord": "",
+              "text": "length I"
+            },
+            {
+              "chord": "D",
+              "text": "yield;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My heart by"
+            },
+            {
+              "chord": "G",
+              "text": "mighty"
+            },
+            {
+              "chord": "",
+              "text": "grace com"
+            },
+            {
+              "chord": "D",
+              "text": "pelled"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Surrenders all to"
+            },
+            {
+              "chord": "A",
+              "text": "Thee;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "A"
+            },
+            {
+              "chord": "D",
+              "text": "gainst Thy"
+            },
+            {
+              "chord": "",
+              "text": "terrors"
+            },
+            {
+              "chord": "G",
+              "text": "long I"
+            },
+            {
+              "chord": "",
+              "text": "strove,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "But"
+            },
+            {
+              "chord": "D",
+              "text": "who can"
+            },
+            {
+              "chord": "",
+              "text": "stand a"
+            },
+            {
+              "chord": "G",
+              "text": "gainst Thy"
+            },
+            {
+              "chord": "D",
+              "text": "love?"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Love conquers even"
+            },
+            {
+              "chord": "A7",
+              "text": "me."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "If Thou hadst bid Thy thunders roll,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And light’nings flash, to blast my soul,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I still had stubborn been;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "But mercy has my heart subdued,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "A bleeding Savior I have viewed,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And now I hate my sin."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "2"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Now, Lord, I would be Thine alone,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Come, take possession of Thine own,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For Thou hast set me free;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Released from Satan’s hard command,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "See all my powers waiting stand,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "To be employed by Thee."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "3"
+    }
+  ],
+  "metadata": {
+    "category": "Consecration",
+    "time": "4/4",
+    "hymn_code": "5543443231"
+  },
+  "raw_sections": [
+    "Lord, Thouhastwon, atlength Iyield;",
+    "My heart bymightygrace compelled",
+    "Surrenders all toThee;",
+    "Against Thyterrorslong Istrove,",
+    "Butwho canstand against Thylove?",
+    "Love conquers evenme.",
+    "If Thou hadst bid Thy thunders roll,",
+    "And light’nings flash, to blast my soul,",
+    "I still had stubborn been;",
+    "But mercy has my heart subdued,",
+    "A bleeding Savior I have viewed,",
+    "And now I hate my sin.",
+    "Now, Lord, I would be Thine alone,",
+    "Come, take possession of Thine own,",
+    "For Thou hast set me free;",
+    "Released from Satan’s hard command,",
+    "See all my powers waiting stand,",
+    "To be employed by Thee."
+  ]
+}

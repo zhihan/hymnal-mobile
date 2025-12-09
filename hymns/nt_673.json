@@ -1,0 +1,505 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/nt/673",
+  "title": "I take my portion from Thy hand",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "I take"
+            },
+            {
+              "chord": "",
+              "text": "my portion"
+            },
+            {
+              "chord": "G",
+              "text": "from"
+            },
+            {
+              "chord": "D",
+              "text": "Thy"
+            },
+            {
+              "chord": "Em",
+              "text": "hand,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "And do"
+            },
+            {
+              "chord": "",
+              "text": "not"
+            },
+            {
+              "chord": "G",
+              "text": "seek"
+            },
+            {
+              "chord": "A",
+              "text": "to"
+            },
+            {
+              "chord": "D",
+              "text": "un"
+            },
+            {
+              "chord": "A7",
+              "text": "der"
+            },
+            {
+              "chord": "D",
+              "text": "stand;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For I"
+            },
+            {
+              "chord": "A7",
+              "text": "am"
+            },
+            {
+              "chord": "D",
+              "text": "blind, while"
+            },
+            {
+              "chord": "",
+              "text": "Thou dost"
+            },
+            {
+              "chord": "G",
+              "text": "see,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "Thy"
+            },
+            {
+              "chord": "D",
+              "text": "will"
+            },
+            {
+              "chord": "G",
+              "text": "is"
+            },
+            {
+              "chord": "D",
+              "text": "mine, what"
+            },
+            {
+              "chord": "A7",
+              "text": "e'er it"
+            },
+            {
+              "chord": "D",
+              "text": "be."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Whate'er it"
+            },
+            {
+              "chord": "A",
+              "text": "be!"
+            },
+            {
+              "chord": "A7",
+              "text": "whate'er"
+            },
+            {
+              "chord": "",
+              "text": "it"
+            },
+            {
+              "chord": "D",
+              "text": "be!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "I do"
+            },
+            {
+              "chord": "",
+              "text": "not"
+            },
+            {
+              "chord": "D",
+              "text": "fear,"
+            },
+            {
+              "chord": "G",
+              "text": "whate'er"
+            },
+            {
+              "chord": "E7",
+              "text": "it"
+            },
+            {
+              "chord": "A",
+              "text": "be!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "Thy"
+            },
+            {
+              "chord": "A",
+              "text": "love"
+            },
+            {
+              "chord": "G",
+              "text": "di"
+            },
+            {
+              "chord": "A",
+              "text": "vine"
+            },
+            {
+              "chord": "D",
+              "text": "sus"
+            },
+            {
+              "chord": "G",
+              "text": "tain"
+            },
+            {
+              "chord": "Em",
+              "text": "eth"
+            },
+            {
+              "chord": "D",
+              "text": "me;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "Thy"
+            },
+            {
+              "chord": "D",
+              "text": "will"
+            },
+            {
+              "chord": "G",
+              "text": "is"
+            },
+            {
+              "chord": "D",
+              "text": "mine, what"
+            },
+            {
+              "chord": "A7",
+              "text": "e'er it"
+            },
+            {
+              "chord": "D",
+              "text": "be."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When darkness doth Thy face obscure,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And many sorrows I endure,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I think of Christ’s Gethsemane;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thy will is mine, whate’er it be."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "2"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Whate’er it be! whate’er it be!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I do not fear, whate’er it be!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thy love divine sustaineth me;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thy will is mine, whate’er it be."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When tender joys to me are known,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I render thanks to Thee alone;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I know my cup is filled by Thee;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thy will is mine, whate’er it be."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "3"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Whate’er it be! whate’er it be!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I do not fear, whate’er it be!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thy love divine sustaineth me;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thy will is mine, whate’er it be."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thus calmly do I face my lot,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Accept it, Lord, and doubt Thee not;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Lo! all things work for good to me;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thy will is mine, whate’er it be."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "4"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Whate’er it be! whate’er it be!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I do not fear, whate’er it be!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thy love divine sustaineth me;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thy will is mine, whate’er it be."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    }
+  ],
+  "metadata": {
+    "category": "Comfort in Trials",
+    "time": "3/4",
+    "hymn_code": "1345365471242345"
+  },
+  "raw_sections": [
+    "I takemy portionfromThyhand,",
+    "And donotseektounderstand;",
+    "For Iamblind, whileThou dostsee,",
+    "Thywillismine, whate'er itbe.",
+    "Whate'er itbe!whate'eritbe!",
+    "I donotfear,whate'eritbe!",
+    "Thylovedivinesustainethme;",
+    "Thywillismine, whate'er itbe.",
+    "When darkness doth Thy face obscure,",
+    "And many sorrows I endure,",
+    "I think of Christ’s Gethsemane;",
+    "Thy will is mine, whate’er it be.",
+    "Whate’er it be! whate’er it be!",
+    "I do not fear, whate’er it be!",
+    "Thy love divine sustaineth me;",
+    "Thy will is mine, whate’er it be.",
+    "When tender joys to me are known,",
+    "I render thanks to Thee alone;",
+    "I know my cup is filled by Thee;",
+    "Thy will is mine, whate’er it be.",
+    "Whate’er it be! whate’er it be!",
+    "I do not fear, whate’er it be!",
+    "Thy love divine sustaineth me;",
+    "Thy will is mine, whate’er it be.",
+    "Thus calmly do I face my lot,",
+    "Accept it, Lord, and doubt Thee not;",
+    "Lo! all things work for good to me;",
+    "Thy will is mine, whate’er it be.",
+    "Whate’er it be! whate’er it be!",
+    "I do not fear, whate’er it be!",
+    "Thy love divine sustaineth me;",
+    "Thy will is mine, whate’er it be."
+  ]
+}

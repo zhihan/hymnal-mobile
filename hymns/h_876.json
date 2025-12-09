@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/876",
+  "url": "https://www.hymnal.net/en/hymn/h/876",
   "title": "When war is hot and fierce",
   "verses": [
     {
@@ -208,7 +208,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Christ's victory;"
+              "text": "Christ’s victory;"
             }
           ]
         },
@@ -239,8 +239,8 @@
     "hymn_code": "5533125645",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/ch/639",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/ch/639",
+        "language": "en",
         "category": "ch",
         "number": "639",
         "title": "C639"
@@ -265,7 +265,7 @@
     "If you will keep your stand,",
     "You soon will win.",
     "Therefore you must declare",
-    "Christ's victory;",
+    "Christ’s victory;",
     "The situation dark",
     "Soon changed will be."
   ]

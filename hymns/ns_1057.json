@@ -1,0 +1,203 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/1057",
+  "title": "A Wise Man Fears",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "A wise"
+            },
+            {
+              "chord": "",
+              "text": "man"
+            },
+            {
+              "chord": "A",
+              "text": "fears and"
+            },
+            {
+              "chord": "Bm",
+              "text": "departs"
+            },
+            {
+              "chord": "",
+              "text": "from"
+            },
+            {
+              "chord": "G",
+              "text": "evil,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Prov"
+            },
+            {
+              "chord": "A",
+              "text": "erbs Fourteen:"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Six"
+            },
+            {
+              "chord": "Bm",
+              "text": "teen a."
+            },
+            {
+              "chord": "",
+              "text": "A"
+            },
+            {
+              "chord": "D",
+              "text": "wise man"
+            },
+            {
+              "chord": "A",
+              "text": "fears and"
+            },
+            {
+              "chord": "Bm",
+              "text": "departs"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "from"
+            },
+            {
+              "chord": "G",
+              "text": "evil,"
+            }
+          ]
+        }
+      ],
+      "type": "verse"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Prov"
+            },
+            {
+              "chord": "A",
+              "text": "erbs Fourteen:"
+            },
+            {
+              "chord": "",
+              "text": "Six"
+            },
+            {
+              "chord": "Bm",
+              "text": "teen a."
+            },
+            {
+              "chord": "",
+              "text": "Be"
+            },
+            {
+              "chord": "D",
+              "text": "lov"
+            },
+            {
+              "chord": "A",
+              "text": "ed, do"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "not im"
+            },
+            {
+              "chord": "G",
+              "text": "itate"
+            },
+            {
+              "chord": "",
+              "text": "the"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "evil,"
+            },
+            {
+              "chord": "",
+              "text": "But the"
+            },
+            {
+              "chord": "A",
+              "text": "good."
+            },
+            {
+              "chord": "Bm",
+              "text": "Be"
+            },
+            {
+              "chord": "G",
+              "text": "lov"
+            },
+            {
+              "chord": "A",
+              "text": "ed, do"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "not im"
+            },
+            {
+              "chord": "G",
+              "text": "itate"
+            },
+            {
+              "chord": "",
+              "text": "the"
+            }
+          ]
+        }
+      ],
+      "type": "verse"
+    }
+  ],
+  "metadata": {
+    "category": "Scriptures for Singing",
+    "time": "4/4",
+    "hymn_code": "5112123323211121721"
+  },
+  "raw_sections": [
+    "A wisemanfears anddepartsfromevil,",
+    "Proverbs Fourteen:",
+    "Sixteen a.Awise manfears anddeparts",
+    "fromevil,",
+    "Proverbs Fourteen:Sixteen a.Beloved, do",
+    "not imitatethe",
+    "evil,But thegood.Beloved, do",
+    "not imitatethe"
+  ]
+}

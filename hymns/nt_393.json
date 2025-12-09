@@ -1,0 +1,583 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/nt/393",
+  "title": "Thy way, not mine, O Lord",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Thy way,"
+            },
+            {
+              "chord": "",
+              "text": "not mine, O"
+            },
+            {
+              "chord": "G",
+              "text": "Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "However"
+            },
+            {
+              "chord": "",
+              "text": "dark it"
+            },
+            {
+              "chord": "A",
+              "text": "be;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Lead me"
+            },
+            {
+              "chord": "",
+              "text": "by"
+            },
+            {
+              "chord": "Bm",
+              "text": "Thine own"
+            },
+            {
+              "chord": "A",
+              "text": "hand,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em7",
+              "text": "Choose out"
+            },
+            {
+              "chord": "",
+              "text": "the Path for"
+            },
+            {
+              "chord": "A",
+              "text": "me."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Thy way,"
+            },
+            {
+              "chord": "",
+              "text": "not mine, O"
+            },
+            {
+              "chord": "G",
+              "text": "Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "However"
+            },
+            {
+              "chord": "",
+              "text": "dark it"
+            },
+            {
+              "chord": "A",
+              "text": "be;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "Lead me"
+            },
+            {
+              "chord": "",
+              "text": "by Thine own"
+            },
+            {
+              "chord": "G",
+              "text": "hand,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "Choose out"
+            },
+            {
+              "chord": "",
+              "text": "the"
+            },
+            {
+              "chord": "A7",
+              "text": "Path for"
+            },
+            {
+              "chord": "D",
+              "text": "me."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Smooth let it be, or rough,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "It will be still the best;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Winding or straight it leads"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Right onward to Thy rest."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "2"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thy way, not mine, O Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "However dark it be;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Lead me by Thine own hand,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Choose out the Path for me."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I dare not choose my lot;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I would not if I might:"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Choose Thou for me, my God,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "So shall I walk aright."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "3"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thy way, not mine, O Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "However dark it be;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Lead me by Thine own hand,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Choose out the Path for me."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Take Thou my cup, and it"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "With joy or sorrow fill,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "As best to Thee may seem;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Choose Thou my good and ill."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "4"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thy way, not mine, O Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "However dark it be;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Lead me by Thine own hand,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Choose out the Path for me."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Choose Thou for me my friends,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My sickness or my health."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Choose Thou my cares for me,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My poverty or wealth."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "5"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thy way, not mine, O Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "However dark it be;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Lead me by Thine own hand,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Choose out the Path for me."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Not mine, not mine the choice,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In things both great and small;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Be Thou my guide, my strength,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My wisdom and my all."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "6"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thy way, not mine, O Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "However dark it be;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Lead me by Thine own hand,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Choose out the Path for me."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    }
+  ],
+  "metadata": {
+    "category": "Longings",
+    "time": "4/4",
+    "hymn_code": "5123166234217"
+  },
+  "raw_sections": [
+    "Thy way,not mine, OLord,",
+    "Howeverdark itbe;",
+    "Lead mebyThine ownhand,",
+    "Choose outthe Path forme.",
+    "Thy way,not mine, OLord,",
+    "Howeverdark itbe;",
+    "Lead meby Thine ownhand,",
+    "Choose outthePath forme.",
+    "Smooth let it be, or rough,",
+    "It will be still the best;",
+    "Winding or straight it leads",
+    "Right onward to Thy rest.",
+    "Thy way, not mine, O Lord,",
+    "However dark it be;",
+    "Lead me by Thine own hand,",
+    "Choose out the Path for me.",
+    "I dare not choose my lot;",
+    "I would not if I might:",
+    "Choose Thou for me, my God,",
+    "So shall I walk aright.",
+    "Thy way, not mine, O Lord,",
+    "However dark it be;",
+    "Lead me by Thine own hand,",
+    "Choose out the Path for me.",
+    "Take Thou my cup, and it",
+    "With joy or sorrow fill,",
+    "As best to Thee may seem;",
+    "Choose Thou my good and ill.",
+    "Thy way, not mine, O Lord,",
+    "However dark it be;",
+    "Lead me by Thine own hand,",
+    "Choose out the Path for me.",
+    "Choose Thou for me my friends,",
+    "My sickness or my health.",
+    "Choose Thou my cares for me,",
+    "My poverty or wealth.",
+    "Thy way, not mine, O Lord,",
+    "However dark it be;",
+    "Lead me by Thine own hand,",
+    "Choose out the Path for me.",
+    "Not mine, not mine the choice,",
+    "In things both great and small;",
+    "Be Thou my guide, my strength,",
+    "My wisdom and my all.",
+    "Thy way, not mine, O Lord,",
+    "However dark it be;",
+    "Lead me by Thine own hand,",
+    "Choose out the Path for me."
+  ]
+}

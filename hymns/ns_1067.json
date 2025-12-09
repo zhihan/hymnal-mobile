@@ -1,0 +1,120 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/1067",
+  "title": "I am the light of the world",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "I am"
+            },
+            {
+              "chord": "",
+              "text": "the light, the light of the"
+            },
+            {
+              "chord": "G",
+              "text": "world;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He who"
+            },
+            {
+              "chord": "Dm",
+              "text": "follows"
+            },
+            {
+              "chord": "",
+              "text": "Me shall by"
+            },
+            {
+              "chord": "C",
+              "text": "no means"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "Walk, walk"
+            },
+            {
+              "chord": "",
+              "text": "in"
+            },
+            {
+              "chord": "Em",
+              "text": "darkness,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "But shall"
+            },
+            {
+              "chord": "F",
+              "text": "have the"
+            },
+            {
+              "chord": "",
+              "text": "light of"
+            },
+            {
+              "chord": "G",
+              "text": "life."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I am the life. I am the"
+            },
+            {
+              "chord": "G7",
+              "text": "light of"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "the"
+            },
+            {
+              "chord": "C",
+              "text": "world."
+            }
+          ]
+        }
+      ],
+      "type": "verse"
+    }
+  ],
+  "metadata": {
+    "category": "Scriptures for Singing",
+    "time": "4/4",
+    "hymn_code": "321533212234443235"
+  },
+  "raw_sections": [
+    "I amthe light, the light of theworld;",
+    "He whofollowsMe shall byno means",
+    "Walk, walkindarkness,",
+    "But shallhave thelight oflife.",
+    "I am the life. I am thelight of",
+    "theworld."
+  ]
+}

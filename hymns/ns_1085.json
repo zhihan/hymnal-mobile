@@ -1,0 +1,634 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/1085",
+  "title": "Give me a drink!",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Every"
+            },
+            {
+              "chord": "",
+              "text": "day I would"
+            },
+            {
+              "chord": "G",
+              "text": "walk to"
+            },
+            {
+              "chord": "",
+              "text": "this"
+            },
+            {
+              "chord": "Asus4",
+              "text": "same, same"
+            },
+            {
+              "chord": "",
+              "text": "old"
+            },
+            {
+              "chord": "D",
+              "text": "well"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Hoping all of my"
+            },
+            {
+              "chord": "G",
+              "text": "thirst it'd"
+            },
+            {
+              "chord": "A",
+              "text": "quell."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Yet each"
+            },
+            {
+              "chord": "Bm",
+              "text": "time I"
+            },
+            {
+              "chord": "",
+              "text": "would still"
+            },
+            {
+              "chord": "F♯m",
+              "text": "find"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Myself"
+            },
+            {
+              "chord": "G",
+              "text": "sore, wanting"
+            },
+            {
+              "chord": "",
+              "text": "but"
+            },
+            {
+              "chord": "D",
+              "text": "more—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "This"
+            },
+            {
+              "chord": "C♯♭",
+              "text": "water"
+            },
+            {
+              "chord": "",
+              "text": "did"
+            },
+            {
+              "chord": "Asus4",
+              "text": "not satis"
+            },
+            {
+              "chord": "A7",
+              "text": "fy."
+            },
+            {
+              "chord": "Asus4",
+              "text": "Give"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "me"
+            },
+            {
+              "chord": "A7",
+              "text": "a"
+            },
+            {
+              "chord": "D",
+              "text": "drink! For"
+            },
+            {
+              "chord": "",
+              "text": "this"
+            },
+            {
+              "chord": "G",
+              "text": "water"
+            },
+            {
+              "chord": "",
+              "text": "I"
+            },
+            {
+              "chord": "F♯m",
+              "text": "would sing!"
+            },
+            {
+              "chord": "",
+              "text": "I am"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "filled, my"
+            },
+            {
+              "chord": "",
+              "text": "thirst's"
+            },
+            {
+              "chord": "G",
+              "text": "stilled. My"
+            },
+            {
+              "chord": "",
+              "text": "heart"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Asus4",
+              "text": "sings"
+            },
+            {
+              "chord": "A7",
+              "text": "a(gain:)"
+            },
+            {
+              "chord": "",
+              "text": "me a"
+            },
+            {
+              "chord": "D",
+              "text": "drink! There's"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "a"
+            },
+            {
+              "chord": "G",
+              "text": "fount of"
+            },
+            {
+              "chord": "",
+              "text": "life"
+            },
+            {
+              "chord": "F♯m",
+              "text": "in me!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "All I"
+            },
+            {
+              "chord": "Bm",
+              "text": "know, it"
+            },
+            {
+              "chord": "",
+              "text": "just"
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "flows, Flowing"
+            },
+            {
+              "chord": "Asus4",
+              "text": "deep"
+            },
+            {
+              "chord": "A7",
+              "text": "within."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I discovered that spring was the Lord Jesus Christ—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He died for me and He’s alive!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Of my sins I was forgiv’n,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "But much more He had in store—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "His very own life to give!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Where then does He give life? Well the Bible tells:"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In my spirit where Jesus dwells!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Raised from death, He became breath,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Water too, even true food—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He’s processed to live in me!"
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "2"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Christ lives in me"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "As the Spirit reaching me!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "This my song, all day long:"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Life is flowing free!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He’s flooding me"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "As a river ceaselessly!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "This my God, to me brought:"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The processed Trinity!"
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "If you haven’t yet found what your heart’s looking for,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Come and listen to His own word:"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "“Whoso drinks shall by no means"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Ever thirst; in him will burst"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "A fountain of life divine!”"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Come, oh come see this man! Is He not the Christ?"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He came that you would have His life!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Just believe, then you will see"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He’s so real, living, and free—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "A genuine prayer’s the way:"
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "3"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Christ lives in me"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "As the Spirit flowing free!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Yes, in me! I believe!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Take a drink and see!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Christ lives in you!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He’s the living water true!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "We’re filled with Him to the brim"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For eternity!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "(repeat chorus)"
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    }
+  ],
+  "metadata": {
+    "category": "Experience of Christ",
+    "time": "4/4",
+    "hymn_code": "333214432253"
+  },
+  "raw_sections": [
+    "Everyday I wouldwalk tothissame, sameoldwell",
+    "Hoping all of mythirst it'dquell.",
+    "Yet eachtime Iwould stillfind",
+    "Myselfsore, wantingbutmore—",
+    "Thiswaterdidnot satisfy.Give",
+    "meadrink! ForthiswaterIwould sing!I am",
+    "filled, mythirst'sstilled. Myheart",
+    "singsa(gain:)me adrink! There's",
+    "afount oflifein me!",
+    "All Iknow, itjust",
+    "flows, Flowingdeepwithin.",
+    "I discovered that spring was the Lord Jesus Christ—",
+    "He died for me and He’s alive!",
+    "Of my sins I was forgiv’n,",
+    "But much more He had in store—",
+    "His very own life to give!",
+    "Where then does He give life? Well the Bible tells:",
+    "In my spirit where Jesus dwells!",
+    "Raised from death, He became breath,",
+    "Water too, even true food—",
+    "He’s processed to live in me!",
+    "Christ lives in me",
+    "As the Spirit reaching me!",
+    "This my song, all day long:",
+    "Life is flowing free!",
+    "He’s flooding me",
+    "As a river ceaselessly!",
+    "This my God, to me brought:",
+    "The processed Trinity!",
+    "If you haven’t yet found what your heart’s looking for,",
+    "Come and listen to His own word:",
+    "“Whoso drinks shall by no means",
+    "Ever thirst; in him will burst",
+    "A fountain of life divine!”",
+    "Come, oh come see this man! Is He not the Christ?",
+    "He came that you would have His life!",
+    "Just believe, then you will see",
+    "He’s so real, living, and free—",
+    "A genuine prayer’s the way:",
+    "Christ lives in me",
+    "As the Spirit flowing free!",
+    "Yes, in me! I believe!",
+    "Take a drink and see!",
+    "Christ lives in you!",
+    "He’s the living water true!",
+    "We’re filled with Him to the brim",
+    "For eternity!",
+    "(repeat chorus)"
+  ]
+}

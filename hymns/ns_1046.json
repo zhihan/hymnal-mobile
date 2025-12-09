@@ -1,0 +1,275 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/1046",
+  "title": "For whatever promises of God there are (2 Cor. 1:20, notes 3 and 4)",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Forwhatever"
+            },
+            {
+              "chord": "",
+              "text": "promises of God"
+            },
+            {
+              "chord": "A7",
+              "text": "there are,"
+            },
+            {
+              "chord": "",
+              "text": "In"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Him"
+            },
+            {
+              "chord": "Em",
+              "text": "is the"
+            },
+            {
+              "chord": "",
+              "text": "Yes;"
+            },
+            {
+              "chord": "A",
+              "text": "Forwhatev"
+            },
+            {
+              "chord": "D",
+              "text": "er"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "promises of God there"
+            },
+            {
+              "chord": "A7",
+              "text": "are, In"
+            },
+            {
+              "chord": "",
+              "text": "Him"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "is"
+            },
+            {
+              "chord": "Em",
+              "text": "the"
+            },
+            {
+              "chord": "A",
+              "text": "Yes. Christ"
+            },
+            {
+              "chord": "D",
+              "text": "is"
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "the"
+            },
+            {
+              "chord": "G",
+              "text": "Yes, the"
+            },
+            {
+              "chord": "",
+              "text": "incar"
+            },
+            {
+              "chord": "D",
+              "text": "nate answer,"
+            },
+            {
+              "chord": "",
+              "text": "the ful"
+            },
+            {
+              "chord": "A7",
+              "text": "fillment"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "of all; Christ"
+            },
+            {
+              "chord": "D",
+              "text": "is"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "the Yes, the"
+            },
+            {
+              "chord": "G",
+              "text": "fulfillment"
+            },
+            {
+              "chord": "D",
+              "text": "of all"
+            },
+            {
+              "chord": "",
+              "text": "the"
+            },
+            {
+              "chord": "Bm",
+              "text": "promis"
+            },
+            {
+              "chord": "Em",
+              "text": "es"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "of God to"
+            },
+            {
+              "chord": "A7",
+              "text": "us."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Wherefore also through Him is the Amen,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Amen to God."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Wherefore also through Him is the Amen,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For glory through us."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "2"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The Amen given by us through Christ,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "by us through Christ to God."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Christ is the Yes, and we say Amen"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "to this Yes before God."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    }
+  ],
+  "metadata": {
+    "category": "Scriptures for Singing",
+    "time": "4/4",
+    "hymn_code": "54333333343222345"
+  },
+  "raw_sections": [
+    "Forwhateverpromises of Godthere are,In",
+    "Himis theYes;Forwhatever",
+    "promises of God thereare, InHim",
+    "istheYes. Christis",
+    "theYes, theincarnate answer,the fulfillment",
+    "of all; Christis",
+    "the Yes, thefulfillmentof allthepromises",
+    "of God tous.",
+    "Wherefore also through Him is the Amen,",
+    "Amen to God.",
+    "Wherefore also through Him is the Amen,",
+    "For glory through us.",
+    "The Amen given by us through Christ,",
+    "by us through Christ to God.",
+    "Christ is the Yes, and we say Amen",
+    "to this Yes before God."
+  ]
+}

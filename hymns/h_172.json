@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/172",
+  "url": "https://www.hymnal.net/en/hymn/h/172",
   "title": "I cannot breathe enough of Thee",
   "verses": [
     {
@@ -256,7 +256,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "And whisper, \"All is well.\""
+              "text": "And whisper, “All is well.”"
             }
           ]
         }
@@ -271,8 +271,8 @@
     "hymn_code": "56717127572543",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/ch/142",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/ch/142",
+        "language": "en",
         "category": "ch",
         "number": "142",
         "title": "C142"
@@ -300,6 +300,6 @@
     "I have so much to tell;",
     "Thy heart it beats so tenderly",
     "As Thou dost draw me close to Thee,",
-    "And whisper, \"All is well.\""
+    "And whisper, “All is well.”"
   ]
 }

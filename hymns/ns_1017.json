@@ -1,0 +1,161 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/1017",
+  "title": "Just the Christ",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "It is"
+            },
+            {
+              "chord": "",
+              "text": "not a teaching"
+            },
+            {
+              "chord": "F♯m",
+              "text": "or a"
+            },
+            {
+              "chord": "",
+              "text": "word,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "Not a"
+            },
+            {
+              "chord": "",
+              "text": "doctrine"
+            },
+            {
+              "chord": "A",
+              "text": "that I've"
+            },
+            {
+              "chord": "",
+              "text": "heard,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Not religion,"
+            },
+            {
+              "chord": "Bm",
+              "text": "not an"
+            },
+            {
+              "chord": "",
+              "text": "outward"
+            },
+            {
+              "chord": "A",
+              "text": "form"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "That can"
+            },
+            {
+              "chord": "D",
+              "text": "meet your"
+            },
+            {
+              "chord": "",
+              "text": "need and"
+            },
+            {
+              "chord": "F♯m",
+              "text": "wash your"
+            },
+            {
+              "chord": "",
+              "text": "feet,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "Touch you"
+            },
+            {
+              "chord": "",
+              "text": "in your"
+            },
+            {
+              "chord": "A",
+              "text": "deepest"
+            },
+            {
+              "chord": "",
+              "text": "part,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "But it's"
+            },
+            {
+              "chord": "Bm",
+              "text": "just the"
+            },
+            {
+              "chord": "",
+              "text": "Christ—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Em",
+              "text": "That"
+            },
+            {
+              "chord": "A",
+              "text": "I've en"
+            },
+            {
+              "chord": "D",
+              "text": "joyed."
+            }
+          ]
+        }
+      ],
+      "type": "verse"
+    }
+  ],
+  "metadata": {
+    "category": "Experience of Christ",
+    "time": "4/4",
+    "hymn_code": "3455555434445432"
+  },
+  "raw_sections": [
+    "It isnot a teachingor aword,",
+    "Not adoctrinethat I'veheard,",
+    "Not religion,not anoutwardform",
+    "That canmeet yourneed andwash yourfeet,",
+    "Touch youin yourdeepestpart,",
+    "But it'sjust theChrist—",
+    "ThatI've enjoyed."
+  ]
+}

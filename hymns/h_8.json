@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/8",
+  "url": "https://www.hymnal.net/en/hymn/h/8",
   "title": "Praise God, from whom all blessings flow",
   "verses": [
     {
@@ -90,7 +90,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Praise God the Father who's the source;"
+              "text": "Praise God the Father who’s the source;"
             }
           ]
         },
@@ -106,7 +106,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Praise God the Spirit who's the flow;"
+              "text": "Praise God the Spirit who’s the flow;"
             }
           ]
         },
@@ -129,8 +129,8 @@
     "hymn_code": "1176512333321432",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/ch/5",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/ch/5",
+        "language": "en",
         "category": "ch",
         "number": "5",
         "title": "C5"
@@ -142,9 +142,9 @@
     "Praise Him, all creatureshere below;",
     "PraiseHim above,ye heav'nlyhost;",
     "Praise Father,Son, andHolyGhost!",
-    "Praise God the Father who's the source;",
+    "Praise God the Father who’s the source;",
     "Praise God the Son who is the course;",
-    "Praise God the Spirit who's the flow;",
+    "Praise God the Spirit who’s the flow;",
     "Praise God, our portion here below!"
   ]
 }

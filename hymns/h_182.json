@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/182",
+  "url": "https://www.hymnal.net/en/hymn/h/182",
   "title": "Jesus, Thou alone art worthy",
   "verses": [
     {
@@ -188,7 +188,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Perfected we'll sing His praise."
+              "text": "Perfected we’ll sing His praise."
             }
           ]
         }
@@ -203,8 +203,8 @@
     "hymn_code": "133217122123423212",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/ch/149",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/ch/149",
+        "language": "en",
         "category": "ch",
         "number": "149",
         "title": "C149"
@@ -223,6 +223,6 @@
     "Praise Him! praise Him! praise the Savior!",
     "Saints, aloud your voices raise,",
     "Praise Him! praise Him! till in glory",
-    "Perfected we'll sing His praise."
+    "Perfected we’ll sing His praise."
   ]
 }

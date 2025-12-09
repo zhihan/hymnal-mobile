@@ -1,6 +1,6 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/291",
-  "title": "I am so glad that our Father in heav'n",
+  "url": "https://www.hymnal.net/en/hymn/h/291",
+  "title": "I am so glad that our Father in heav’n",
   "verses": [
     {
       "lines": [
@@ -294,7 +294,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Oh, if there's only one song I can sing,"
+              "text": "Oh, if there’s only one song I can sing,"
             }
           ]
         },
@@ -318,7 +318,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "\"Oh, what a wonder that Jesus loves me.\""
+              "text": "“Oh, what a wonder that Jesus loves me.”"
             }
           ]
         }
@@ -370,8 +370,8 @@
     "hymn_code": "5555555123",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/ch/230",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/ch/230",
+        "language": "en",
         "category": "ch",
         "number": "230",
         "title": "C230"
@@ -395,10 +395,10 @@
     "Jesus loves me, Jesus loves me;",
     "I am so glad that Jesus loves me,",
     "Jesus loves even me.",
-    "Oh, if there's only one song I can sing,",
+    "Oh, if there’s only one song I can sing,",
     "When in His beauty I see the great King,",
     "This shall my song in eternity be:",
-    "\"Oh, what a wonder that Jesus loves me.\"",
+    "“Oh, what a wonder that Jesus loves me.”",
     "I am so glad that Jesus loves me,",
     "Jesus loves me, Jesus loves me;",
     "I am so glad that Jesus loves me,",

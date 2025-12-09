@@ -1,0 +1,313 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/nt/204",
+  "title": "Gathered in Thy name, Lord Jesus",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Gathered"
+            },
+            {
+              "chord": "",
+              "text": "in Thy"
+            },
+            {
+              "chord": "C",
+              "text": "name, Lord"
+            },
+            {
+              "chord": "",
+              "text": "Jesus,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Losing"
+            },
+            {
+              "chord": "Em",
+              "text": "sight of"
+            },
+            {
+              "chord": "Am",
+              "text": "all but"
+            },
+            {
+              "chord": "D",
+              "text": "Thee,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "O what"
+            },
+            {
+              "chord": "G7",
+              "text": "joy Thy"
+            },
+            {
+              "chord": "C",
+              "text": "presence"
+            },
+            {
+              "chord": "",
+              "text": "gives us,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Am",
+              "text": "Calling"
+            },
+            {
+              "chord": "",
+              "text": "up our"
+            },
+            {
+              "chord": "D7",
+              "text": "hearts to"
+            },
+            {
+              "chord": "G",
+              "text": "Thee!"
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Loved with love which knows no measure,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Save the Father’s love to Thee,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Blessed Lord, our hearts would treasure"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "All the Father’s thoughts of Thee."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "2"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "All His joy, His rest, His pleasure—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "All His deep delight in Thee—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Lord, Thy heart alone can measure"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "What Thy Father found in Thee."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "3"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "How He set His love upon Thee—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Called Thee His beloved Son;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Yet for us He did not spare Thee,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "By Thy death our life was won."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "4"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "O the joy, the wondrous singing,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When we see Thee as Thou art!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thy blest name, Lord Jesus, bringing"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Sweetest music to God’s heart."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "5"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Notes of gladness, songs unceasing,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Hymns of everlasting praise,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Psalms of glory, joy increasing,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Through God’s endless day of days."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "6"
+    }
+  ],
+  "metadata": {
+    "category": "Praise of the Lord",
+    "time": "4/4",
+    "hymn_code": "355565456"
+  },
+  "raw_sections": [
+    "Gatheredin Thyname, LordJesus,",
+    "Losingsight ofall butThee,",
+    "O whatjoy Thypresencegives us,",
+    "Callingup ourhearts toThee!",
+    "Loved with love which knows no measure,",
+    "Save the Father’s love to Thee,",
+    "Blessed Lord, our hearts would treasure",
+    "All the Father’s thoughts of Thee.",
+    "All His joy, His rest, His pleasure—",
+    "All His deep delight in Thee—",
+    "Lord, Thy heart alone can measure",
+    "What Thy Father found in Thee.",
+    "How He set His love upon Thee—",
+    "Called Thee His beloved Son;",
+    "Yet for us He did not spare Thee,",
+    "By Thy death our life was won.",
+    "O the joy, the wondrous singing,",
+    "When we see Thee as Thou art!",
+    "Thy blest name, Lord Jesus, bringing",
+    "Sweetest music to God’s heart.",
+    "Notes of gladness, songs unceasing,",
+    "Hymns of everlasting praise,",
+    "Psalms of glory, joy increasing,",
+    "Through God’s endless day of days."
+  ]
+}

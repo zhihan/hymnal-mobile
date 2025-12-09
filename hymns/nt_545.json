@@ -1,0 +1,254 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/nt/545",
+  "title": "When this passing world is done",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "When this"
+            },
+            {
+              "chord": "",
+              "text": "passing world is"
+            },
+            {
+              "chord": "F",
+              "text": "done,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When has"
+            },
+            {
+              "chord": "Dm",
+              "text": "sunk yon"
+            },
+            {
+              "chord": "",
+              "text": "glaring"
+            },
+            {
+              "chord": "G",
+              "text": "sun,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When we"
+            },
+            {
+              "chord": "C",
+              "text": "stand with"
+            },
+            {
+              "chord": "",
+              "text": "Christ on"
+            },
+            {
+              "chord": "F",
+              "text": "high,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Looking"
+            },
+            {
+              "chord": "Dm",
+              "text": "o'er life's"
+            },
+            {
+              "chord": "",
+              "text": "histo"
+            },
+            {
+              "chord": "G",
+              "text": "ry;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Then, Lord,"
+            },
+            {
+              "chord": "Am",
+              "text": "shall I"
+            },
+            {
+              "chord": "",
+              "text": "fully"
+            },
+            {
+              "chord": "C7",
+              "text": "know,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Not till"
+            },
+            {
+              "chord": "F",
+              "text": "then, how"
+            },
+            {
+              "chord": "",
+              "text": "much I"
+            },
+            {
+              "chord": "Fm",
+              "text": "owe."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Then, Lord,"
+            },
+            {
+              "chord": "C",
+              "text": "shall I"
+            },
+            {
+              "chord": "",
+              "text": "fully"
+            },
+            {
+              "chord": "D",
+              "text": "know,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Not till"
+            },
+            {
+              "chord": "F",
+              "text": "then, how"
+            },
+            {
+              "chord": "",
+              "text": "much I"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "owe."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "2"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "E’en on earth, as through a glass"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Darkly, let Thy glory pass;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Make forgiveness feel so sweet;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Make Thy Spirit’s help so meet:"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "E’en on earth, Lord, make me know"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Something of how much I owe."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "3"
+    }
+  ],
+  "metadata": {
+    "category": "Experience of Christ",
+    "time": "4/4",
+    "hymn_code": "11555651144432"
+  },
+  "raw_sections": [
+    "When thispassing world isdone,",
+    "When hassunk yonglaringsun,",
+    "When westand withChrist onhigh,",
+    "Lookingo'er life'shistory;",
+    "Then, Lord,shall Ifullyknow,",
+    "Not tillthen, howmuch Iowe.",
+    "Then, Lord,shall Ifullyknow,",
+    "Not tillthen, howmuch I",
+    "owe.",
+    "E’en on earth, as through a glass",
+    "Darkly, let Thy glory pass;",
+    "Make forgiveness feel so sweet;",
+    "Make Thy Spirit’s help so meet:",
+    "E’en on earth, Lord, make me know",
+    "Something of how much I owe."
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/313",
+  "url": "https://www.hymnal.net/en/hymn/h/313",
   "title": "Amazing Grace",
   "verses": [
     {
@@ -94,7 +94,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "'Twas grace that taught my heart to fear,"
+              "text": "’Twas grace that taught my heart to fear,"
             }
           ]
         },
@@ -170,7 +170,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "When we've been there ten thousand years,"
+              "text": "When we’ve been there ten thousand years,"
             }
           ]
         },
@@ -186,7 +186,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "We've no less days to sing God's praise"
+              "text": "We’ve no less days to sing God’s praise"
             }
           ]
         },
@@ -209,8 +209,8 @@
     "hymn_code": "513132165",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/ch/247",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/ch/247",
+        "language": "en",
         "category": "ch",
         "number": "247",
         "title": "C247"
@@ -222,7 +222,7 @@
     "That saved awretch; likeme!",
     "Ionce waslost, butnow amfound,",
     "Was blind, butnowIsee.",
-    "'Twas grace that taught my heart to fear,",
+    "’Twas grace that taught my heart to fear,",
     "And grace my fears relieved;",
     "How precious did that grace appear",
     "The hour I first believed!",
@@ -230,9 +230,9 @@
     "His word my hope secures;",
     "He will my shield and portion be",
     "As long as life endures.",
-    "When we've been there ten thousand years,",
+    "When we’ve been there ten thousand years,",
     "Bright shining as the sun,",
-    "We've no less days to sing God's praise",
+    "We’ve no less days to sing God’s praise",
     "Than when we first begun."
   ]
 }

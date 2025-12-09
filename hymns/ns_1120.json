@@ -1,0 +1,362 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/1120",
+  "title": "Lord, You are my treasure",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Lord, You"
+            },
+            {
+              "chord": "",
+              "text": "are my"
+            },
+            {
+              "chord": "A",
+              "text": "treasure."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You're"
+            },
+            {
+              "chord": "Bm",
+              "text": "beautiful"
+            },
+            {
+              "chord": "",
+              "text": "to"
+            },
+            {
+              "chord": "G",
+              "text": "me."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I"
+            },
+            {
+              "chord": "D",
+              "text": "linger"
+            },
+            {
+              "chord": "",
+              "text": "in Your"
+            },
+            {
+              "chord": "A",
+              "text": "presence."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Your"
+            },
+            {
+              "chord": "Bm",
+              "text": "face I"
+            },
+            {
+              "chord": "",
+              "text": "want to"
+            },
+            {
+              "chord": "G",
+              "text": "see"
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "This"
+            },
+            {
+              "chord": "D",
+              "text": "trea"
+            },
+            {
+              "chord": "A",
+              "text": "sure, my"
+            },
+            {
+              "chord": "Bm",
+              "text": "trea"
+            },
+            {
+              "chord": "G",
+              "text": "sure,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The"
+            },
+            {
+              "chord": "D",
+              "text": "face of"
+            },
+            {
+              "chord": "A",
+              "text": "Jesus"
+            },
+            {
+              "chord": "G",
+              "text": "Christ."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "This"
+            },
+            {
+              "chord": "D",
+              "text": "trea"
+            },
+            {
+              "chord": "A",
+              "text": "sure, my"
+            },
+            {
+              "chord": "Bm",
+              "text": "trea"
+            },
+            {
+              "chord": "G",
+              "text": "sure."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Your"
+            },
+            {
+              "chord": "D",
+              "text": "presence—"
+            },
+            {
+              "chord": "A7",
+              "text": "my de"
+            },
+            {
+              "chord": "G",
+              "text": "light."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I seek and I behold You."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I look into Your face."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The index of Your eyes,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Your thoughts and feelings manifest."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "2"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "This treasure, my treasure,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The face of Jesus Christ."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "This treasure, my treasure."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Your presence—my delight."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "This treasure is the glorious Christ,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Our source and our supply."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "We have this treasure in us."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Lord, we look into Your eyes."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "3"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "This treasure, my treasure,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The face of Jesus Christ."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "This treasure, my treasure."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Your presence—my delight."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    }
+  ],
+  "metadata": {
+    "category": "Longings",
+    "time": "4/4",
+    "hymn_code": "5111122233321"
+  },
+  "raw_sections": [
+    "Lord, Youare mytreasure.",
+    "You'rebeautifultome.",
+    "Ilingerin Yourpresence.",
+    "Yourface Iwant tosee",
+    "Thistreasure, mytreasure,",
+    "Theface ofJesusChrist.",
+    "Thistreasure, mytreasure.",
+    "Yourpresence—my delight.",
+    "I seek and I behold You.",
+    "I look into Your face.",
+    "The index of Your eyes,",
+    "Your thoughts and feelings manifest.",
+    "This treasure, my treasure,",
+    "The face of Jesus Christ.",
+    "This treasure, my treasure.",
+    "Your presence—my delight.",
+    "This treasure is the glorious Christ,",
+    "Our source and our supply.",
+    "We have this treasure in us.",
+    "Lord, we look into Your eyes.",
+    "This treasure, my treasure,",
+    "The face of Jesus Christ.",
+    "This treasure, my treasure.",
+    "Your presence—my delight."
+  ]
+}

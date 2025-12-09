@@ -1,0 +1,133 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/1007",
+  "title": "Because I live, you also shall live (John 14:19b-20)",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Because"
+            },
+            {
+              "chord": "",
+              "text": "I live, you also shall"
+            },
+            {
+              "chord": "Bm",
+              "text": "live,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Because I"
+            },
+            {
+              "chord": "G",
+              "text": "live,"
+            },
+            {
+              "chord": "Em7",
+              "text": "you also"
+            },
+            {
+              "chord": "",
+              "text": "shall"
+            },
+            {
+              "chord": "A7",
+              "text": "live!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In that"
+            },
+            {
+              "chord": "D",
+              "text": "day you"
+            },
+            {
+              "chord": "",
+              "text": "will"
+            },
+            {
+              "chord": "Bm",
+              "text": "know"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "That I'm in My"
+            },
+            {
+              "chord": "G",
+              "text": "Father,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You in"
+            },
+            {
+              "chord": "D",
+              "text": "Me,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And I in"
+            },
+            {
+              "chord": "A",
+              "text": "you."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "We coin"
+            },
+            {
+              "chord": "D",
+              "text": "here!"
+            }
+          ]
+        }
+      ],
+      "type": "verse"
+    }
+  ],
+  "metadata": {
+    "category": "Scriptures for Singing",
+    "time": "4/4",
+    "hymn_code": "112333421223444432"
+  },
+  "raw_sections": [
+    "BecauseI live, you also shalllive,",
+    "Because Ilive,you alsoshalllive!",
+    "In thatday youwillknow",
+    "That I'm in MyFather,",
+    "You inMe,",
+    "And I inyou.",
+    "We coinhere!"
+  ]
+}

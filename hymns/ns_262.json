@@ -12,7 +12,8 @@
             }
           ]
         }
-      ]
+      ],
+      "type": "verse"
     },
     {
       "lines": [
@@ -104,7 +105,9 @@
             }
           ]
         }
-      ]
+      ],
+      "type": "verse",
+      "number": "1"
     }
   ],
   "metadata": {

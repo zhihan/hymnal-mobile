@@ -1,0 +1,481 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/1115",
+  "title": "The One Who’s With Me Till the End",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Though I"
+            },
+            {
+              "chord": "",
+              "text": "walk through the valley of the"
+            },
+            {
+              "chord": "A",
+              "text": "shadow"
+            },
+            {
+              "chord": "",
+              "text": "of"
+            },
+            {
+              "chord": "D",
+              "text": "death—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Where"
+            },
+            {
+              "chord": "G",
+              "text": "darkness,"
+            },
+            {
+              "chord": "",
+              "text": "e"
+            },
+            {
+              "chord": "D",
+              "text": "vil beset"
+            },
+            {
+              "chord": "A7",
+              "text": "each breath"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I"
+            },
+            {
+              "chord": "D",
+              "text": "fear not,"
+            },
+            {
+              "chord": "G",
+              "text": "because"
+            },
+            {
+              "chord": "",
+              "text": "You"
+            },
+            {
+              "chord": "D",
+              "text": "are always"
+            },
+            {
+              "chord": "A",
+              "text": "with me;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Your"
+            },
+            {
+              "chord": "Bm",
+              "text": "rod and"
+            },
+            {
+              "chord": "G",
+              "text": "Your staff"
+            },
+            {
+              "chord": "",
+              "text": "com"
+            },
+            {
+              "chord": "A7",
+              "text": "fort me."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "He's my"
+            },
+            {
+              "chord": "",
+              "text": "God,"
+            },
+            {
+              "chord": "G",
+              "text": "Lord, and"
+            },
+            {
+              "chord": "A7",
+              "text": "Sav"
+            },
+            {
+              "chord": "D",
+              "text": "ior,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He who"
+            },
+            {
+              "chord": "G",
+              "text": "is"
+            },
+            {
+              "chord": "A7",
+              "text": "a"
+            },
+            {
+              "chord": "D",
+              "text": "ble,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My King"
+            },
+            {
+              "chord": "G",
+              "text": "and my"
+            },
+            {
+              "chord": "",
+              "text": "Shep"
+            },
+            {
+              "chord": "D",
+              "text": "herd, my"
+            },
+            {
+              "chord": "",
+              "text": "Lov"
+            },
+            {
+              "chord": "A",
+              "text": "er, my"
+            },
+            {
+              "chord": "",
+              "text": "Friend—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "The One"
+            },
+            {
+              "chord": "G",
+              "text": "who's with"
+            },
+            {
+              "chord": "",
+              "text": "me"
+            },
+            {
+              "chord": "A7",
+              "text": "till the"
+            },
+            {
+              "chord": "",
+              "text": "end."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You prepare a rich table here before me with grace"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In presence of foes that I must face."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You ’noint me with oil—how my cup overflows!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Fore’er in Your house, my repose."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "2"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He’s my God, Lord, and Savior,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He who is able,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My King and my Shepherd, my Lover, my Friend—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The One who’s with me till the end."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You are my one true Friend who always walks by my side;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In every trial, I in You confide;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "With peace You console me when no one is near;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Your gentle voice quells all my fear."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "3"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He’s my God, Lord, and Savior,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He who is able,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My King and my Shepherd, my Lover, my Friend—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The One who’s with me till the end."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You are my Love, Belovéd—You’re so sweet and divine,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In Your embrace, all my heart is Thine."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Your kisses revive me in my deepest part—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You’ve captured and wooed all my heart."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "4"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He’s my God, Lord, and Savior,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "He who is able,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My King and my Shepherd, my Lover, my Friend—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The One who’s with me till the end."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    }
+  ],
+  "metadata": {
+    "category": "Comfort in Trials",
+    "time": "4/4",
+    "hymn_code": "3455565432323"
+  },
+  "raw_sections": [
+    "Though Iwalk through the valley of theshadowofdeath—",
+    "Wheredarkness,evil beseteach breath",
+    "Ifear not,becauseYouare alwayswith me;",
+    "Yourrod andYour staffcomfort me.",
+    "He's myGod,Lord, andSavior,",
+    "He whoisable,",
+    "My Kingand myShepherd, myLover, myFriend—",
+    "The Onewho's withmetill theend.",
+    "You prepare a rich table here before me with grace",
+    "In presence of foes that I must face.",
+    "You ’noint me with oil—how my cup overflows!",
+    "Fore’er in Your house, my repose.",
+    "He’s my God, Lord, and Savior,",
+    "He who is able,",
+    "My King and my Shepherd, my Lover, my Friend—",
+    "The One who’s with me till the end.",
+    "You are my one true Friend who always walks by my side;",
+    "In every trial, I in You confide;",
+    "With peace You console me when no one is near;",
+    "Your gentle voice quells all my fear.",
+    "He’s my God, Lord, and Savior,",
+    "He who is able,",
+    "My King and my Shepherd, my Lover, my Friend—",
+    "The One who’s with me till the end.",
+    "You are my Love, Belovéd—You’re so sweet and divine,",
+    "In Your embrace, all my heart is Thine.",
+    "Your kisses revive me in my deepest part—",
+    "You’ve captured and wooed all my heart.",
+    "He’s my God, Lord, and Savior,",
+    "He who is able,",
+    "My King and my Shepherd, my Lover, my Friend—",
+    "The One who’s with me till the end."
+  ]
+}

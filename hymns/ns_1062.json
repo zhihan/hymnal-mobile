@@ -1,0 +1,579 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/1062",
+  "title": "Grace Multiplied",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Grace is"
+            },
+            {
+              "chord": "",
+              "text": "Christ multiplied and Christ enjoyed"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Under God's loving"
+            },
+            {
+              "chord": "A",
+              "text": "care;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "The more"
+            },
+            {
+              "chord": "",
+              "text": "the"
+            },
+            {
+              "chord": "A",
+              "text": "sufferings,"
+            },
+            {
+              "chord": "G",
+              "text": "burdens,"
+            },
+            {
+              "chord": "",
+              "text": "and"
+            },
+            {
+              "chord": "A",
+              "text": "trials,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "The more"
+            },
+            {
+              "chord": "",
+              "text": "the"
+            },
+            {
+              "chord": "A",
+              "text": "grace will"
+            },
+            {
+              "chord": "D",
+              "text": "bear."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Grace, grace!"
+            },
+            {
+              "chord": "",
+              "text": "A"
+            },
+            {
+              "chord": "D",
+              "text": "bundance"
+            },
+            {
+              "chord": "",
+              "text": "of grace!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "Superabounding"
+            },
+            {
+              "chord": "D",
+              "text": "grace!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Grace multiplied,"
+            },
+            {
+              "chord": "D",
+              "text": "grace prophesied,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A",
+              "text": "Grace, all"
+            },
+            {
+              "chord": "A7",
+              "text": "grace, and"
+            },
+            {
+              "chord": "D",
+              "text": "true."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Grace that was prophesied in ancient times,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The Spirit has made clear;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Christ’s all-sufficient, unlimited grace"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Is to our hearts so dear."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "2"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Grace, grace! Abundance of grace!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Superabounding grace!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Grace multiplied, grace prophesied,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Grace, all grace, and true."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The grace of life to the saints, strong and weak,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Is God as life supplied;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "His divine Trinity flowing is grace,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Christ in us magnified."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "3"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Grace, grace! Abundance of grace!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Superabounding grace!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Grace multiplied, grace prophesied,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Grace, all grace, and true."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The varied grace of God, riches of life,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Ministered by the saints,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Conveys the gracious, sweet words of Christ"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "With strength which never faints."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "4"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Grace, grace! Abundance of grace!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Superabounding grace!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Grace multiplied, grace prophesied,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Grace, all grace, and true."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Grace to the humble the Grace-giver gives,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "But He resists the proud;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Cast all your cares and fears onto God,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "No worry to allow."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "5"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Grace, grace! Abundance of grace!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Superabounding grace!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Grace multiplied, grace prophesied,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Grace, all grace, and true."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The God of all grace, the true grace of God,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In God’s economy,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Consummates into the City of Grace,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Grace in eternity."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "6"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Grace, grace! Abundance of grace!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Superabounding grace!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Grace multiplied, grace prophesied,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Grace, all grace, and true."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    }
+  ],
+  "metadata": {
+    "category": "Experience of Christ",
+    "time": "3/4",
+    "hymn_code": "3451766753345135"
+  },
+  "raw_sections": [
+    "Grace isChrist multiplied and Christ enjoyed",
+    "Under God's lovingcare;",
+    "The morethesufferings,burdens,andtrials,",
+    "The morethegrace willbear.",
+    "Grace, grace!Abundanceof grace!",
+    "Superaboundinggrace!",
+    "Grace multiplied,grace prophesied,",
+    "Grace, allgrace, andtrue.",
+    "Grace that was prophesied in ancient times,",
+    "The Spirit has made clear;",
+    "Christ’s all-sufficient, unlimited grace",
+    "Is to our hearts so dear.",
+    "Grace, grace! Abundance of grace!",
+    "Superabounding grace!",
+    "Grace multiplied, grace prophesied,",
+    "Grace, all grace, and true.",
+    "The grace of life to the saints, strong and weak,",
+    "Is God as life supplied;",
+    "His divine Trinity flowing is grace,",
+    "Christ in us magnified.",
+    "Grace, grace! Abundance of grace!",
+    "Superabounding grace!",
+    "Grace multiplied, grace prophesied,",
+    "Grace, all grace, and true.",
+    "The varied grace of God, riches of life,",
+    "Ministered by the saints,",
+    "Conveys the gracious, sweet words of Christ",
+    "With strength which never faints.",
+    "Grace, grace! Abundance of grace!",
+    "Superabounding grace!",
+    "Grace multiplied, grace prophesied,",
+    "Grace, all grace, and true.",
+    "Grace to the humble the Grace-giver gives,",
+    "But He resists the proud;",
+    "Cast all your cares and fears onto God,",
+    "No worry to allow.",
+    "Grace, grace! Abundance of grace!",
+    "Superabounding grace!",
+    "Grace multiplied, grace prophesied,",
+    "Grace, all grace, and true.",
+    "The God of all grace, the true grace of God,",
+    "In God’s economy,",
+    "Consummates into the City of Grace,",
+    "Grace in eternity.",
+    "Grace, grace! Abundance of grace!",
+    "Superabounding grace!",
+    "Grace multiplied, grace prophesied,",
+    "Grace, all grace, and true."
+  ]
+}

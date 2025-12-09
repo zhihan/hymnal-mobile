@@ -1,0 +1,481 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/nt/383",
+  "title": "Sweet Will of God",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "F",
+              "text": "My stubborn"
+            },
+            {
+              "chord": "Cm",
+              "text": "will"
+            },
+            {
+              "chord": "F",
+              "text": "at last"
+            },
+            {
+              "chord": "",
+              "text": "hath"
+            },
+            {
+              "chord": "A♯",
+              "text": "yielded;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Gm",
+              "text": "I would"
+            },
+            {
+              "chord": "",
+              "text": "be"
+            },
+            {
+              "chord": "Cm",
+              "text": "Thine,"
+            },
+            {
+              "chord": "F",
+              "text": "and Thine"
+            },
+            {
+              "chord": "",
+              "text": "a"
+            },
+            {
+              "chord": "Gm",
+              "text": "lone,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And"
+            },
+            {
+              "chord": "F",
+              "text": "this the"
+            },
+            {
+              "chord": "A♯",
+              "text": "prayer my"
+            },
+            {
+              "chord": "",
+              "text": "lips are"
+            },
+            {
+              "chord": "Dm",
+              "text": "bringing,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "\"Lord, let in"
+            },
+            {
+              "chord": "D♯",
+              "text": "me"
+            },
+            {
+              "chord": "Cm",
+              "text": "Thy will"
+            },
+            {
+              "chord": "",
+              "text": "be"
+            },
+            {
+              "chord": "F",
+              "text": "done.\""
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Sweet will of"
+            },
+            {
+              "chord": "Cm",
+              "text": "God,"
+            },
+            {
+              "chord": "F",
+              "text": "still fold"
+            },
+            {
+              "chord": "",
+              "text": "me"
+            },
+            {
+              "chord": "A♯",
+              "text": "closer,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Gm",
+              "text": "Till I"
+            },
+            {
+              "chord": "",
+              "text": "am"
+            },
+            {
+              "chord": "Cm",
+              "text": "whol"
+            },
+            {
+              "chord": "F",
+              "text": "ly lost"
+            },
+            {
+              "chord": "",
+              "text": "in"
+            },
+            {
+              "chord": "Gm",
+              "text": "Thee;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Sweet"
+            },
+            {
+              "chord": "F",
+              "text": "will of"
+            },
+            {
+              "chord": "A♯",
+              "text": "God, still"
+            },
+            {
+              "chord": "",
+              "text": "fold me"
+            },
+            {
+              "chord": "Dm",
+              "text": "closer,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Till I am"
+            },
+            {
+              "chord": "D♯",
+              "text": "whol"
+            },
+            {
+              "chord": "Cm",
+              "text": "ly lost"
+            },
+            {
+              "chord": "",
+              "text": "in"
+            },
+            {
+              "chord": "F",
+              "text": "Thee."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I’m tired of sin, footsore and weary,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The darksome path hath dreary grown,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "But now a light has ris’n to cheer me;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I find in Thee my Star, my Sun."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "2"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Sweet will of God, still fold me closer,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Till I am wholly lost in Thee;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Sweet will of God, still fold me closer,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Till I am wholly lost in Thee."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thy precious will, O conqu’ring Savior,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Doth now embrace and compass me;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "All discords hushed, my peace a river,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My soul a prisoned bird set free."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "3"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Sweet will of God, still fold me closer,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Till I am wholly lost in Thee;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Sweet will of God, still fold me closer,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Till I am wholly lost in Thee."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Shut in with Thee, O Lord, forever,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My wayward feet no more to roam;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "What pow’r from Thee my soul can sever?"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The center of God’s will my home."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "4"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Sweet will of God, still fold me closer,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Till I am wholly lost in Thee;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Sweet will of God, still fold me closer,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Till I am wholly lost in Thee."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    }
+  ],
+  "metadata": {
+    "category": "Longings",
+    "time": "4/4",
+    "hymn_code": "56121316556121316"
+  },
+  "raw_sections": [
+    "My stubbornwillat lasthathyielded;",
+    "I wouldbeThine,and Thinealone,",
+    "Andthis theprayer mylips arebringing,",
+    "\"Lord, let inmeThy willbedone.\"",
+    "Sweet will ofGod,still foldmecloser,",
+    "Till Iamwholly lostinThee;",
+    "Sweetwill ofGod, stillfold mecloser,",
+    "Till I amwholly lostinThee.",
+    "I’m tired of sin, footsore and weary,",
+    "The darksome path hath dreary grown,",
+    "But now a light has ris’n to cheer me;",
+    "I find in Thee my Star, my Sun.",
+    "Sweet will of God, still fold me closer,",
+    "Till I am wholly lost in Thee;",
+    "Sweet will of God, still fold me closer,",
+    "Till I am wholly lost in Thee.",
+    "Thy precious will, O conqu’ring Savior,",
+    "Doth now embrace and compass me;",
+    "All discords hushed, my peace a river,",
+    "My soul a prisoned bird set free.",
+    "Sweet will of God, still fold me closer,",
+    "Till I am wholly lost in Thee;",
+    "Sweet will of God, still fold me closer,",
+    "Till I am wholly lost in Thee.",
+    "Shut in with Thee, O Lord, forever,",
+    "My wayward feet no more to roam;",
+    "What pow’r from Thee my soul can sever?",
+    "The center of God’s will my home.",
+    "Sweet will of God, still fold me closer,",
+    "Till I am wholly lost in Thee;",
+    "Sweet will of God, still fold me closer,",
+    "Till I am wholly lost in Thee."
+  ]
+}

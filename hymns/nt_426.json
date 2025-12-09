@@ -1,0 +1,751 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/nt/426",
+  "title": "Remove My Covering, Lord",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Re"
+            },
+            {
+              "chord": "Bm",
+              "text": "move my"
+            },
+            {
+              "chord": "G",
+              "text": "covering,"
+            },
+            {
+              "chord": "A",
+              "text": "Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "That"
+            },
+            {
+              "chord": "D",
+              "text": "I may"
+            },
+            {
+              "chord": "",
+              "text": "see Thy"
+            },
+            {
+              "chord": "Bm",
+              "text": "light,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And be de"
+            },
+            {
+              "chord": "G",
+              "text": "ceived no"
+            },
+            {
+              "chord": "A",
+              "text": "more,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "But"
+            },
+            {
+              "chord": "D",
+              "text": "all things"
+            },
+            {
+              "chord": "",
+              "text": "see a"
+            },
+            {
+              "chord": "Bm",
+              "text": "right."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "But"
+            },
+            {
+              "chord": "Em7",
+              "text": "all things"
+            },
+            {
+              "chord": "A",
+              "text": "see a"
+            },
+            {
+              "chord": "D",
+              "text": "right. Oh,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "may Thy"
+            },
+            {
+              "chord": "A",
+              "text": "living"
+            },
+            {
+              "chord": "",
+              "text": "light, Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "Bm",
+              "text": "Scatter"
+            },
+            {
+              "chord": "",
+              "text": "all my"
+            },
+            {
+              "chord": "A7",
+              "text": "night, Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And"
+            },
+            {
+              "chord": "D",
+              "text": "everything"
+            },
+            {
+              "chord": "A",
+              "text": "make"
+            },
+            {
+              "chord": "Bm",
+              "text": "bright, Lord,"
+            },
+            {
+              "chord": "D",
+              "text": "For"
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "this I"
+            },
+            {
+              "chord": "A7",
+              "text": "pray to"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Thee."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "2"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Oh, may Thy living light, Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Scatter all my night, Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And everything make bright, Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For this I pray to Thee."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I know Thee even less;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In doctrine, shallowly;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "True revelation lack"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Of Thy reality."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "3"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Oh, may Thy living light, Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Scatter all my night, Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And everything make bright, Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For this I pray to Thee."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "As for Thy life within,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In darkness I mistake—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "If spirit or the flesh,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "One for the other take."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "4"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Oh, may Thy living light, Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Scatter all my night, Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And everything make bright, Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For this I pray to Thee."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "As for Thy way, O Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I often am not clear;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I toward seclusion tend"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And from the pathway veer."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "5"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Oh, may Thy living light, Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Scatter all my night, Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And everything make bright, Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For this I pray to Thee."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "As for Thy will for me,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I do not know it well;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I substitute my own"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And often would rebel."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "6"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Oh, may Thy living light, Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Scatter all my night, Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And everything make bright, Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For this I pray to Thee."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "As for the church, I need"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thy revelation more,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The Body-life to know,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thy wisdom to explore."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "7"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Oh, may Thy living light, Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Scatter all my night, Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And everything make bright, Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For this I pray to Thee."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I long to be unveiled,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In everything made clear,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "No more to be deceived"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Or to my pride adhere."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "8"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Oh, may Thy living light, Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Scatter all my night, Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And everything make bright, Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For this I pray to Thee."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    }
+  ],
+  "metadata": {
+    "category": "Longings",
+    "time": "4/4",
+    "hymn_code": "11111325321717656332"
+  },
+  "raw_sections": [
+    "Remove mycovering,Lord,",
+    "ThatI maysee Thylight,",
+    "And be deceived nomore,",
+    "Butall thingssee aright.",
+    "Butall thingssee aright. Oh,",
+    "may Thylivinglight, Lord,",
+    "Scatterall mynight, Lord,",
+    "Andeverythingmakebright, Lord,For",
+    "this Ipray to",
+    "Thee.",
+    "Oh, may Thy living light, Lord,",
+    "Scatter all my night, Lord,",
+    "And everything make bright, Lord,",
+    "For this I pray to Thee.",
+    "I know Thee even less;",
+    "In doctrine, shallowly;",
+    "True revelation lack",
+    "Of Thy reality.",
+    "Oh, may Thy living light, Lord,",
+    "Scatter all my night, Lord,",
+    "And everything make bright, Lord,",
+    "For this I pray to Thee.",
+    "As for Thy life within,",
+    "In darkness I mistake—",
+    "If spirit or the flesh,",
+    "One for the other take.",
+    "Oh, may Thy living light, Lord,",
+    "Scatter all my night, Lord,",
+    "And everything make bright, Lord,",
+    "For this I pray to Thee.",
+    "As for Thy way, O Lord,",
+    "I often am not clear;",
+    "I toward seclusion tend",
+    "And from the pathway veer.",
+    "Oh, may Thy living light, Lord,",
+    "Scatter all my night, Lord,",
+    "And everything make bright, Lord,",
+    "For this I pray to Thee.",
+    "As for Thy will for me,",
+    "I do not know it well;",
+    "I substitute my own",
+    "And often would rebel.",
+    "Oh, may Thy living light, Lord,",
+    "Scatter all my night, Lord,",
+    "And everything make bright, Lord,",
+    "For this I pray to Thee.",
+    "As for the church, I need",
+    "Thy revelation more,",
+    "The Body-life to know,",
+    "Thy wisdom to explore.",
+    "Oh, may Thy living light, Lord,",
+    "Scatter all my night, Lord,",
+    "And everything make bright, Lord,",
+    "For this I pray to Thee.",
+    "I long to be unveiled,",
+    "In everything made clear,",
+    "No more to be deceived",
+    "Or to my pride adhere.",
+    "Oh, may Thy living light, Lord,",
+    "Scatter all my night, Lord,",
+    "And everything make bright, Lord,",
+    "For this I pray to Thee."
+  ]
+}

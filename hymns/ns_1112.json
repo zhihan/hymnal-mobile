@@ -1,0 +1,270 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/1112",
+  "title": "This Egyptian Sojourning",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "Oh"
+            },
+            {
+              "chord": "G",
+              "text": "Lord,"
+            },
+            {
+              "chord": "E7",
+              "text": "draw"
+            },
+            {
+              "chord": "Am",
+              "text": "me,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Di"
+            },
+            {
+              "chord": "F",
+              "text": "rect"
+            },
+            {
+              "chord": "G",
+              "text": "me back"
+            },
+            {
+              "chord": "",
+              "text": "into"
+            },
+            {
+              "chord": "C",
+              "text": "You."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "This E"
+            },
+            {
+              "chord": "F",
+              "text": "gyptian"
+            },
+            {
+              "chord": "",
+              "text": "so"
+            },
+            {
+              "chord": "G",
+              "text": "journing"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Has"
+            },
+            {
+              "chord": "E7",
+              "text": "left me"
+            },
+            {
+              "chord": "",
+              "text": "so"
+            },
+            {
+              "chord": "Am",
+              "text": "empty."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Ex"
+            },
+            {
+              "chord": "F",
+              "text": "posing"
+            },
+            {
+              "chord": "",
+              "text": "my"
+            },
+            {
+              "chord": "G",
+              "text": "hunger;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I"
+            },
+            {
+              "chord": "C",
+              "text": "need Your"
+            },
+            {
+              "chord": "",
+              "text": "sup"
+            },
+            {
+              "chord": "Am",
+              "text": "ply."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Oh"
+            },
+            {
+              "chord": "G",
+              "text": "Lord,"
+            },
+            {
+              "chord": "E7",
+              "text": "feed"
+            },
+            {
+              "chord": "Am",
+              "text": "me,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Sup"
+            },
+            {
+              "chord": "F",
+              "text": "ply"
+            },
+            {
+              "chord": "G",
+              "text": "me with"
+            },
+            {
+              "chord": "",
+              "text": "more of"
+            },
+            {
+              "chord": "C",
+              "text": "You."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "By eating the manna"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I’m reconstituted,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And changed into someone"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Who is more like You."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "2"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Oh Lord, change me,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Mold me more into You."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    }
+  ],
+  "metadata": {
+    "category": "Longings",
+    "time": "4/4",
+    "hymn_code": "1767716672171"
+  },
+  "raw_sections": [
+    "OhLord,drawme,",
+    "Directme backintoYou.",
+    "This Egyptiansojourning",
+    "Hasleft mesoempty.",
+    "Exposingmyhunger;",
+    "Ineed Yoursupply.",
+    "OhLord,feedme,",
+    "Supplyme withmore ofYou.",
+    "By eating the manna",
+    "I’m reconstituted,",
+    "And changed into someone",
+    "Who is more like You.",
+    "Oh Lord, change me,",
+    "Mold me more into You."
+  ]
+}

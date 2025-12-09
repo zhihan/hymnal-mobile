@@ -1,0 +1,135 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/ns/1113",
+  "title": "Watch therefore!",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "Watch, therefore!"
+            },
+            {
+              "chord": "",
+              "text": "Watch, there"
+            },
+            {
+              "chord": "Bm",
+              "text": "fore!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For"
+            },
+            {
+              "chord": "G",
+              "text": "you do"
+            },
+            {
+              "chord": "",
+              "text": "not"
+            },
+            {
+              "chord": "A",
+              "text": "know what"
+            },
+            {
+              "chord": "Bm",
+              "text": "day your"
+            },
+            {
+              "chord": "A",
+              "text": "Lord will"
+            },
+            {
+              "chord": "",
+              "text": "re"
+            },
+            {
+              "chord": "D7",
+              "text": "turn."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "So be"
+            },
+            {
+              "chord": "G",
+              "text": "ready;"
+            },
+            {
+              "chord": "",
+              "text": "yes, be"
+            },
+            {
+              "chord": "A",
+              "text": "filled—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "(Un"
+            },
+            {
+              "chord": "Bm",
+              "text": "root us"
+            },
+            {
+              "chord": "",
+              "text": "from the"
+            },
+            {
+              "chord": "A",
+              "text": "world!)"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "So the"
+            },
+            {
+              "chord": "D",
+              "text": "Lord"
+            },
+            {
+              "chord": "A",
+              "text": "can re"
+            },
+            {
+              "chord": "D",
+              "text": "turn."
+            }
+          ]
+        }
+      ],
+      "type": "verse"
+    }
+  ],
+  "metadata": {
+    "category": "Hope of Glory",
+    "time": "4/4",
+    "hymn_code": "34565314312"
+  },
+  "raw_sections": [
+    "Watch, therefore!Watch, therefore!",
+    "Foryou donotknow whatday yourLord willreturn.",
+    "So beready;yes, befilled—",
+    "(Unroot usfrom theworld!)",
+    "So theLordcan return."
+  ]
+}

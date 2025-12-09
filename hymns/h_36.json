@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/36",
+  "url": "https://www.hymnal.net/en/hymn/h/36",
   "title": "We praise Thee, glorious Father",
   "verses": [
     {
@@ -218,7 +218,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "We'll shine in His blest image"
+              "text": "We’ll shine in His blest image"
             }
           ]
         },
@@ -241,8 +241,8 @@
     "hymn_code": "5534653114562",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/ch/32",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/ch/32",
+        "language": "en",
         "category": "ch",
         "number": "32",
         "title": "C32"
@@ -264,7 +264,7 @@
     "And have us for Thine own?",
     "Soon shall we be forever",
     "With Christ in glory; then",
-    "We'll shine in His blest image",
+    "We’ll shine in His blest image",
     "Eternally, Amen!"
   ]
 }

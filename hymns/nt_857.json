@@ -1,0 +1,279 @@
+{
+  "url": "https://www.hymnal.net/en/hymn/nt/857",
+  "title": "How sweet, how heav’nly is the sight",
+  "verses": [
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "D",
+              "text": "How sweet,"
+            },
+            {
+              "chord": "",
+              "text": "how"
+            },
+            {
+              "chord": "Em",
+              "text": "heavenly"
+            },
+            {
+              "chord": "G",
+              "text": "is the"
+            },
+            {
+              "chord": "A",
+              "text": "sight,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When"
+            },
+            {
+              "chord": "D",
+              "text": "those who"
+            },
+            {
+              "chord": "Bm",
+              "text": "love the"
+            },
+            {
+              "chord": "A",
+              "text": "Lord"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In"
+            },
+            {
+              "chord": "D",
+              "text": "one an"
+            },
+            {
+              "chord": "Em",
+              "text": "other's"
+            },
+            {
+              "chord": "G",
+              "text": "peace de"
+            },
+            {
+              "chord": "A",
+              "text": "light,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And"
+            },
+            {
+              "chord": "D",
+              "text": "so ful"
+            },
+            {
+              "chord": "A7",
+              "text": "fill His"
+            },
+            {
+              "chord": "D",
+              "text": "Word:"
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When each can feel his brother’s sigh,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And with him bear a part;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When sorrow flows from eye to eye,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And joy from heart to heart;"
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "2"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When, free from envy, scorn and pride,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Our wishes all above,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Each can his brother’s failings hide,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And show a brother’s love;"
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "3"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When love, in one delightful stream,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Through every bosom flows;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When union sweet, and dear esteem,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In every action glows."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "4"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Love is the golden chain that binds;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The saints Thy grace thus prove."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And he is glory’s heir that finds"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "His bosom glow with love."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "5"
+    }
+  ],
+  "metadata": {
+    "category": "The Church",
+    "time": "4/4",
+    "hymn_code": "553216132553132"
+  },
+  "raw_sections": [
+    "How sweet,howheavenlyis thesight,",
+    "Whenthose wholove theLord",
+    "Inone another'speace delight,",
+    "Andso fulfill HisWord:",
+    "When each can feel his brother’s sigh,",
+    "And with him bear a part;",
+    "When sorrow flows from eye to eye,",
+    "And joy from heart to heart;",
+    "When, free from envy, scorn and pride,",
+    "Our wishes all above,",
+    "Each can his brother’s failings hide,",
+    "And show a brother’s love;",
+    "When love, in one delightful stream,",
+    "Through every bosom flows;",
+    "When union sweet, and dear esteem,",
+    "In every action glows.",
+    "Love is the golden chain that binds;",
+    "The saints Thy grace thus prove.",
+    "And he is glory’s heir that finds",
+    "His bosom glow with love."
+  ]
+}
