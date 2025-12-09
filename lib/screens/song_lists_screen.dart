@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'dart:io';
-import 'package:file_picker/file_picker.dart';
-import 'package:path_provider/path_provider.dart';
 import '../providers/song_list_provider.dart';
 import '../models/song_list.dart';
 import 'song_list_detail_screen.dart';
@@ -62,14 +59,6 @@ class _SongListsScreenState extends State<SongListsScreen> {
                 _renameList(list);
               },
             ),
-            ListTile(
-              leading: const Icon(Icons.ios_share),
-              title: const Text('Export'),
-              onTap: () {
-                Navigator.pop(context);
-                _exportList(list);
-              },
-            ),
             if (!list.isDefault && !list.isBuiltIn)
               ListTile(
                 leading: const Icon(Icons.delete, color: Colors.red),
@@ -92,49 +81,6 @@ class _SongListsScreenState extends State<SongListsScreen> {
         builder: (context) => CreateEditListScreen(listToEdit: list),
       ),
     );
-  }
-
-  Future<void> _exportList(SongList list) async {
-    final provider = Provider.of<SongListProvider>(context, listen: false);
-    final jsonString = await provider.exportList(list.id);
-
-    if (jsonString == null) {
-      if (mounted) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(content: Text('Failed to export list')),
-        );
-      }
-      return;
-    }
-
-    try {
-      // Get directory to save file
-      final directory = await getApplicationDocumentsDirectory();
-      final fileName = '${list.name.replaceAll(' ', '_').toLowerCase()}.json';
-      final file = File('${directory.path}/$fileName');
-
-      // Write file
-      await file.writeAsString(jsonString);
-
-      if (mounted) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(
-            content: Text('Exported to: ${file.path}'),
-            duration: const Duration(seconds: 5),
-            action: SnackBarAction(
-              label: 'OK',
-              onPressed: () {},
-            ),
-          ),
-        );
-      }
-    } catch (e) {
-      if (mounted) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(content: Text('Error exporting: $e')),
-        );
-      }
-    }
   }
 
   void _deleteList(SongList list) {
@@ -173,57 +119,12 @@ class _SongListsScreenState extends State<SongListsScreen> {
     );
   }
 
-  Future<void> _importList() async {
-    try {
-      // Pick file
-      final result = await FilePicker.platform.pickFiles(
-        type: FileType.custom,
-        allowedExtensions: ['json'],
-      );
-
-      if (result == null || result.files.single.path == null) {
-        return;
-      }
-
-      final file = File(result.files.single.path!);
-      final jsonString = await file.readAsString();
-
-      final provider = Provider.of<SongListProvider>(context, listen: false);
-      final importedList = await provider.importList(jsonString);
-
-      if (mounted) {
-        if (importedList != null) {
-          ScaffoldMessenger.of(context).showSnackBar(
-            SnackBar(content: Text('Imported list: ${importedList.name}')),
-          );
-        } else {
-          ScaffoldMessenger.of(context).showSnackBar(
-            const SnackBar(content: Text('Failed to import list. Invalid file.')),
-          );
-        }
-      }
-    } catch (e) {
-      if (mounted) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(content: Text('Error importing: $e')),
-        );
-      }
-    }
-  }
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
         title: const Text('Song Lists'),
-        actions: [
-          IconButton(
-            icon: const Icon(Icons.file_download),
-            onPressed: _importList,
-            tooltip: 'Import List',
-          ),
-        ],
       ),
       body: Consumer<SongListProvider>(
         builder: (context, provider, child) {
