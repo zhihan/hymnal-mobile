@@ -47,7 +47,9 @@ class _HymnalAppState extends State<HymnalApp> {
             final bookId = state.pathParameters['bookId'] ?? 'ts';
             final numberStr = state.pathParameters['number'] ?? '1';
             final number = int.tryParse(numberStr) ?? 1;
+            // Use a ValueKey to force widget recreation when parameters change
             return HymnDetailScreen(
+              key: ValueKey('${bookId}_$number'),
               initialHymnNumber: number,
               bookId: bookId,
             );
@@ -87,12 +89,15 @@ class _HymnalAppState extends State<HymnalApp> {
     debugPrint('Deep link received: $uri');
 
     // Extract the path from the URI
-    // For hymns://open/hymn/ts/1, uri.path will be "/hymn/ts/1"
+    // For hymns://open/hymn/ts/1, uri.path will be "/open/hymn/ts/1"
+    // We need to remove the "/open" prefix to match our router path
     final path = uri.path;
 
     if (path.isNotEmpty && path != '/') {
-      debugPrint('Navigating to: $path');
-      _router.go(path);
+      // Remove the "/open" prefix if present
+      final routePath = path.startsWith('/open') ? path.substring(5) : path;
+      debugPrint('Navigating to: $routePath');
+      _router.go(routePath);
     }
   }
 

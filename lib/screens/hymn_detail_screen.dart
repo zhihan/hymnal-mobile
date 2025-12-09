@@ -130,12 +130,20 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   void _shareHymn() {
     final shortName = _bookShortNames[_currentBookId] ?? _currentBookId.toUpperCase();
     final hymnTitle = _currentHymn?.title ?? 'Hymn';
+    final hymnId = _currentHymnId;
     final deepLink = 'hymns://open/hymn/$_currentBookId/$_currentHymnNumber';
 
+    // Determine language for hymnal.net URL
+    // 'ch' and 'ts' use 'cn', everything else uses 'en'
+    final lang = (_currentBookId == 'ch' || _currentBookId == 'ts') ? 'cn' : 'en';
+    final hymnalUrl = 'https://hymnal.net/$lang/hymn/$_currentBookId/$_currentHymnNumber';
+
     final shareText = '''
-Check out this hymn: $shortName$_currentHymnNumber - $hymnTitle
+$hymnId - $hymnTitle
 
 Open in Hymns app: $deepLink
+
+View on Hymnal.net: $hymnalUrl
 ''';
 
     Share.share(
@@ -245,13 +253,17 @@ Open in Hymns app: $deepLink
 
   @override
   Widget build(BuildContext context) {
-    final shortName = _bookShortNames[_currentBookId] ?? _currentBookId.toUpperCase();
-    final title = '$shortName$_currentHymnNumber';
-
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-        title: Text(title),
+        leading: IconButton(
+          icon: const Icon(Icons.home),
+          onPressed: () {
+            // Navigate to home screen
+            Navigator.of(context).popUntil((route) => route.isFirst);
+          },
+          tooltip: 'Home',
+        ),
         actions: [
           Consumer<SongListProvider>(
             builder: (context, provider, child) {
