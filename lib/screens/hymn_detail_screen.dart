@@ -25,7 +25,6 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   String? _error;
   int _currentHymnNumber = 1;
   String _currentBookId = 'ts';
-  String _bookDisplayName = '';
   int _transposeOffset = 0;
   bool _showTransposeControls = false;
   bool _showChords = true; // Show chords by default
@@ -37,7 +36,9 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   static const Map<String, String> _bookShortNames = {
     'ch': '大',
     'ts': '补',
-    'h': 'E',
+    'h': 'H',
+    'ns': 'NS',
+    'nt': 'NT',
   };
 
   @override
@@ -45,21 +46,7 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     super.initState();
     _currentHymnNumber = widget.initialHymnNumber;
     _currentBookId = widget.bookId;
-    _loadBookDisplayName();
     _loadHymn(_currentHymnNumber);
-  }
-
-  Future<void> _loadBookDisplayName() async {
-    try {
-      final books = await HymnLoaderService.getCategories();
-      setState(() {
-        _bookDisplayName = books[_currentBookId] ?? '补充本';
-      });
-    } catch (e) {
-      setState(() {
-        _bookDisplayName = '补充本';
-      });
-    }
   }
 
   Future<void> _loadHymn(int hymnNumber) async {
@@ -134,7 +121,6 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     setState(() {
       _currentBookId = bookId;
     });
-    _loadBookDisplayName();
     _loadHymn(hymnNumber);
   }
 
@@ -241,10 +227,13 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
 
   @override
   Widget build(BuildContext context) {
+    final shortName = _bookShortNames[_currentBookId] ?? _currentBookId.toUpperCase();
+    final title = '$shortName$_currentHymnNumber';
+
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-        title: Text('$_bookDisplayName $_currentHymnNumber'),
+        title: Text(title),
         actions: [
           Consumer<SongListProvider>(
             builder: (context, provider, child) {
@@ -479,6 +468,7 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
             hymn: _currentHymn!,
             transposeOffset: _transposeOffset,
             showChords: _showChords,
+            hymnIdTag: '${_bookShortNames[_currentBookId] ?? _currentBookId.toUpperCase()}$_currentHymnNumber',
           ),
         ),
       ],

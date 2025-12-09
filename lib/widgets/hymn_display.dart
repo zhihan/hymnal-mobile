@@ -10,12 +10,14 @@ class HymnDisplay extends StatelessWidget {
   final HymnSong hymn;
   final int transposeOffset;
   final bool showChords;
+  final String? hymnIdTag;
 
   const HymnDisplay({
     super.key,
     required this.hymn,
     this.transposeOffset = 0,
     this.showChords = true,
+    this.hymnIdTag,
   });
 
   @override
@@ -46,6 +48,26 @@ class HymnDisplay extends StatelessWidget {
                     ),
               ),
               const SizedBox(height: 8),
+
+              // Hymn ID tag
+              if (hymnIdTag != null) ...[
+                Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 8.0, vertical: 4.0),
+                  decoration: BoxDecoration(
+                    color: const Color(0xFF1565C0), // Dark blue background
+                    borderRadius: BorderRadius.circular(4.0),
+                  ),
+                  child: Text(
+                    hymnIdTag!,
+                    style: const TextStyle(
+                      color: Colors.white,
+                      fontSize: 14,
+                      fontWeight: FontWeight.w500,
+                    ),
+                  ),
+                ),
+                const SizedBox(height: 8),
+              ],
 
               // Metadata
               if (hymn.metadata != null) ...[
