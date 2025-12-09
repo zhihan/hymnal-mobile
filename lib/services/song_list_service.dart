@@ -37,7 +37,7 @@ class SongListService {
     "ns_670",
     "ns_666",
     "ns_620",
-    // "ns_1108",
+    "ns_1108",
     "ns_352",
     "ns_617",
     // songbase
@@ -65,8 +65,8 @@ class SongListService {
     "ns_98",
     "ns_259",
     "ns_172",
-    // h/1340
-    // h/1341
+    "h_1340",
+    "h_1341",
     "ns_748",
     "ns_292",
     "ns_302",
@@ -84,19 +84,19 @@ class SongListService {
     "ns_757",
     "ns_916",
     "ns_48",
-    // nt/1048
+    "nt_1048",
     "ns_78",
     "h_1248",
     "ns_707",
     "ns_285",
-    // nt/547
+    "nt_547",
     "ns_783",
     "ns_286",
-    // nt/720
+    "nt_720",
     "ns_639",
-    // nt/252
+    "nt_252",
     "ns_287",
-    // nt/33
+    "nt_33",
     "ns_419",
     "ns_739",
     "ns_812",
@@ -133,6 +133,21 @@ class SongListService {
     try {
       final List<dynamic> decoded = jsonDecode(listsJson);
       final lists = decoded.map((json) => SongList.fromJson(json as Map<String, dynamic>)).toList();
+
+      // Ensure there's always a default list (safety check)
+      final hasDefaultList = lists.any((list) => list.isDefault);
+      if (!hasDefaultList) {
+        final defaultList = SongList(
+          id: _uuid.v4(),
+          name: _defaultListName,
+          hymnIds: [],
+          createdAt: DateTime.now(),
+          updatedAt: DateTime.now(),
+          isDefault: true,
+        );
+        lists.insert(0, defaultList);
+        await _saveLists(prefs, lists);
+      }
 
       // Always update built-in lists with latest content
       await _updateBuiltInLists(prefs, lists);
@@ -406,7 +421,15 @@ class SongListService {
 
     final listsJson = prefs.getString(_songListsKey);
     if (listsJson == null || listsJson.isEmpty) {
-      // No lists yet, create YP Songbook along with default list
+      // No lists yet, create both default Favorites list and YP Songbook
+      final defaultList = SongList(
+        id: _uuid.v4(),
+        name: _defaultListName,
+        hymnIds: [],
+        createdAt: DateTime.now(),
+        updatedAt: DateTime.now(),
+        isDefault: true,
+      );
       final ypSongbook = SongList(
         id: _ypSongbookId,
         name: 'YP Songbook',
@@ -416,7 +439,7 @@ class SongListService {
         isDefault: false,
         isBuiltIn: true,
       );
-      await _saveLists(prefs, [ypSongbook]);
+      await _saveLists(prefs, [defaultList, ypSongbook]);
       await prefs.setBool(_builtInListsInitializedKey, true);
       return;
     }
@@ -424,6 +447,23 @@ class SongListService {
     try {
       final List<dynamic> decoded = jsonDecode(listsJson);
       final lists = decoded.map((json) => SongList.fromJson(json as Map<String, dynamic>)).toList();
+
+      bool needsSave = false;
+
+      // Create default Favorites list if it doesn't exist
+      final hasDefaultList = lists.any((list) => list.isDefault);
+      if (!hasDefaultList) {
+        final defaultList = SongList(
+          id: _uuid.v4(),
+          name: _defaultListName,
+          hymnIds: [],
+          createdAt: DateTime.now(),
+          updatedAt: DateTime.now(),
+          isDefault: true,
+        );
+        lists.insert(0, defaultList); // Insert at beginning so it appears first
+        needsSave = true;
+      }
 
       // Create YP Songbook if it doesn't exist
       final hasYpSongbook = lists.any((list) => list.id == _ypSongbookId);
@@ -438,6 +478,10 @@ class SongListService {
           isBuiltIn: true,
         );
         lists.add(ypSongbook);
+        needsSave = true;
+      }
+
+      if (needsSave) {
         await _saveLists(prefs, lists);
       }
 

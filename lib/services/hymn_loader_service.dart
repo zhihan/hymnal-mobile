@@ -39,6 +39,7 @@ class HymnLoaderService {
         'h': 'Hymns',
         'ns': 'New Songs',
         'lb': 'New Songs (LB)',
+        'nt': 'New Tune',
       };
 
       // Filter out categories that don't exist in the JSON

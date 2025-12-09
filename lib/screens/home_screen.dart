@@ -6,6 +6,7 @@ import 'song_lists_screen.dart';
 import 'song_list_detail_screen.dart';
 import '../services/hymn_loader_service.dart';
 import '../providers/song_list_provider.dart';
+import '../services/song_list_service.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -108,6 +109,25 @@ class _HomeScreenState extends State<HomeScreen> {
         title: Text(bookDisplayName),
         centerTitle: true,
         actions: [
+          IconButton(
+            icon: const Icon(Icons.favorite),
+            tooltip: 'Favorites',
+            onPressed: () async {
+              // Navigate to default favorites list
+              final songListService = SongListService();
+              final defaultList = await songListService.getDefaultList();
+
+              if (defaultList != null) {
+                if (!context.mounted) return;
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => SongListDetailScreen(listId: defaultList.id),
+                  ),
+                );
+              }
+            },
+          ),
           IconButton(
             icon: const Icon(Icons.search),
             tooltip: '搜索诗歌',
