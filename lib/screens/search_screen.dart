@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
 import '../models/hymn_db.dart';
 import '../services/hymn_db_service.dart';
-import 'hymn_detail_screen.dart';
 
 class SearchScreen extends StatefulWidget {
   const SearchScreen({super.key});
@@ -56,15 +56,7 @@ class _SearchScreenState extends State<SearchScreen> {
   }
 
   void _navigateToHymn(HymnDb hymn) {
-    Navigator.push(
-      context,
-      MaterialPageRoute(
-        builder: (context) => HymnDetailScreen(
-          initialHymnNumber: hymn.number,
-          bookId: hymn.bookId,
-        ),
-      ),
-    );
+    context.push('/hymn/${hymn.bookId}/${hymn.number}');
   }
 
   String _getHighlightedText(String text, String query) {

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:share_plus/share_plus.dart';
 import '../models/hymn_song.dart';
 import '../services/hymn_loader_service.dart';
 import '../widgets/hymn_display.dart';
@@ -125,6 +126,23 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   }
 
   String get _currentHymnId => '${_currentBookId}_$_currentHymnNumber';
+
+  void _shareHymn() {
+    final shortName = _bookShortNames[_currentBookId] ?? _currentBookId.toUpperCase();
+    final hymnTitle = _currentHymn?.title ?? 'Hymn';
+    final deepLink = 'hymns://open/hymn/$_currentBookId/$_currentHymnNumber';
+
+    final shareText = '''
+Check out this hymn: $shortName$_currentHymnNumber - $hymnTitle
+
+Open in Hymns app: $deepLink
+''';
+
+    Share.share(
+      shareText,
+      subject: '$shortName$_currentHymnNumber - $hymnTitle',
+    );
+  }
 
   void _showAddToListMenu() {
     final songListProvider = Provider.of<SongListProvider>(context, listen: false);
@@ -256,6 +274,11 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
             icon: const Icon(Icons.playlist_add),
             onPressed: _showAddToListMenu,
             tooltip: 'Add to list',
+          ),
+          IconButton(
+            icon: const Icon(Icons.share),
+            onPressed: _shareHymn,
+            tooltip: 'Share hymn',
           ),
           IconButton(
             icon: const Icon(Icons.arrow_back_ios),

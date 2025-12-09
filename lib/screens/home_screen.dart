@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'hymn_detail_screen.dart';
+import 'package:go_router/go_router.dart';
 import 'search_screen.dart';
 import 'song_lists_screen.dart';
 import 'song_list_detail_screen.dart';
@@ -77,15 +77,7 @@ class _HomeScreenState extends State<HomeScreen> {
             _isLoading = false;
           });
 
-          Navigator.push(
-            context,
-            MaterialPageRoute(
-              builder: (context) => HymnDetailScreen(
-                initialHymnNumber: hymnNumber,
-                bookId: _selectedBookId,
-              ),
-            ),
-          );
+          context.push('/hymn/$_selectedBookId/$hymnNumber');
         }
       } catch (e) {
         // If hymn doesn't exist, show error message

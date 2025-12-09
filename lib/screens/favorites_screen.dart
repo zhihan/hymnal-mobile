@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:go_router/go_router.dart';
 import '../providers/favorites_provider.dart';
 import '../services/hymn_db_service.dart';
 import '../services/hymn_loader_service.dart';
 import '../models/hymn_db.dart';
-import 'hymn_detail_screen.dart';
 
 class FavoritesScreen extends StatefulWidget {
   const FavoritesScreen({super.key});
@@ -65,15 +65,7 @@ class _FavoritesScreenState extends State<FavoritesScreen> {
   }
 
   void _navigateToHymn(HymnDb hymn) {
-    Navigator.push(
-      context,
-      MaterialPageRoute(
-        builder: (context) => HymnDetailScreen(
-          initialHymnNumber: hymn.number,
-          bookId: hymn.bookId,
-        ),
-      ),
-    ).then((_) {
+    context.push('/hymn/${hymn.bookId}/${hymn.number}').then((_) {
       _loadFavoriteHymns();
     });
   }

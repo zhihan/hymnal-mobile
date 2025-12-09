@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:go_router/go_router.dart';
 import '../providers/song_list_provider.dart';
 import '../services/hymn_db_service.dart';
 import '../services/hymn_loader_service.dart';
 import '../models/hymn_db.dart';
-import 'hymn_detail_screen.dart';
 
 class SongListDetailScreen extends StatefulWidget {
   final String listId;
@@ -71,15 +71,7 @@ class _SongListDetailScreenState extends State<SongListDetailScreen> {
   }
 
   void _navigateToHymn(HymnDb hymn) {
-    Navigator.push(
-      context,
-      MaterialPageRoute(
-        builder: (context) => HymnDetailScreen(
-          initialHymnNumber: hymn.number,
-          bookId: hymn.bookId,
-        ),
-      ),
-    ).then((_) {
+    context.push('/hymn/${hymn.bookId}/${hymn.number}').then((_) {
       _loadHymns();
     });
   }
