@@ -334,13 +334,13 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
               ),
               const SizedBox(height: 16),
               Text(
-                '无法加载诗歌',
+                'Unable to Load Hymn',
                 style: Theme.of(context).textTheme.titleLarge,
               ),
               const SizedBox(height: 8),
               Text(
                 _error!.contains('Failed to load')
-                    ? '诗歌编号 $_currentHymnNumber 不存在\n请返回选择其他诗歌'
+                    ? 'Hymn #$_currentHymnNumber does not exist\nPlease go back and select another hymn'
                     : _error!,
                 textAlign: TextAlign.center,
                 style: Theme.of(context).textTheme.bodyMedium,

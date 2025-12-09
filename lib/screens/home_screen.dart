@@ -92,7 +92,7 @@ class _HomeScreenState extends State<HomeScreen> {
         if (mounted) {
           setState(() {
             _isLoading = false;
-            _errorMessage = '诗歌编号 $hymnNumber 不存在，请输入其他编号';
+            _errorMessage = 'Hymn #$hymnNumber does not exist, please enter another number';
           });
         }
       }
@@ -130,7 +130,7 @@ class _HomeScreenState extends State<HomeScreen> {
           ),
           IconButton(
             icon: const Icon(Icons.search),
-            tooltip: '搜索诗歌',
+            tooltip: 'Search Hymns',
             onPressed: () {
               Navigator.push(
                 context,
@@ -224,8 +224,8 @@ class _HomeScreenState extends State<HomeScreen> {
                               fontWeight: FontWeight.bold,
                             ),
                             decoration: InputDecoration(
-                              labelText: '请输入诗歌编号',
-                              hintText: '例如: 1, 101, 501',
+                              labelText: 'Enter hymn number',
+                              hintText: 'e.g.: 1, 101, 501',
                               border: const OutlineInputBorder(),
                               contentPadding: const EdgeInsets.symmetric(
                                 vertical: 20,
@@ -236,14 +236,14 @@ class _HomeScreenState extends State<HomeScreen> {
                             ),
                             validator: (value) {
                               if (value == null || value.isEmpty) {
-                                return '请输入诗歌编号';
+                                return 'Please enter a hymn number';
                               }
                               final number = int.tryParse(value);
                               if (number == null) {
-                                return '请输入有效的数字';
+                                return 'Please enter a valid number';
                               }
                               if (number < 1) {
-                                return '请输入大于0的数字';
+                                return 'Please enter a number greater than 0';
                               }
                               return null;
                             },
@@ -277,7 +277,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                         strokeWidth: 2,
                                       ),
                                     )
-                                  : const Text('查看诗歌'),
+                                  : const Text('View Hymn'),
                             ),
                           ),
                         ],

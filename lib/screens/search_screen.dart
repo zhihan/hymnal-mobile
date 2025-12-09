@@ -49,7 +49,7 @@ class _SearchScreenState extends State<SearchScreen> {
       });
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(content: Text('搜索出错: $e')),
+          SnackBar(content: Text('Search error: $e')),
         );
       }
     }
@@ -107,7 +107,7 @@ class _SearchScreenState extends State<SearchScreen> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-        title: const Text('搜索诗歌'),
+        title: const Text('Search Hymns'),
         centerTitle: true,
       ),
       body: Column(
@@ -117,7 +117,7 @@ class _SearchScreenState extends State<SearchScreen> {
             child: TextField(
               controller: _searchController,
               decoration: InputDecoration(
-                hintText: '输入关键词搜索歌词...',
+                hintText: 'Enter keywords to search lyrics...',
                 prefixIcon: const Icon(Icons.search),
                 suffixIcon: _searchController.text.isNotEmpty
                     ? IconButton(
@@ -160,7 +160,7 @@ class _SearchScreenState extends State<SearchScreen> {
                     ),
                     SizedBox(height: 16),
                     Text(
-                      '输入关键词搜索歌词',
+                      'Enter keywords to search lyrics',
                       style: TextStyle(
                         fontSize: 18,
                         color: Colors.grey,
@@ -183,7 +183,7 @@ class _SearchScreenState extends State<SearchScreen> {
                     ),
                     SizedBox(height: 16),
                     Text(
-                      '未找到相关诗歌',
+                      'No hymns found',
                       style: TextStyle(
                         fontSize: 18,
                         color: Colors.grey,

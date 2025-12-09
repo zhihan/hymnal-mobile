@@ -29,7 +29,7 @@ class HymnalApp extends StatelessWidget {
         ),
       ],
       child: MaterialApp(
-        title: '补充本',
+        title: 'Hymnal',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
