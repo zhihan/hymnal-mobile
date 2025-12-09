@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:share_plus/share_plus.dart';
+import 'package:go_router/go_router.dart';
 import '../models/hymn_song.dart';
 import '../services/hymn_loader_service.dart';
 import '../widgets/hymn_display.dart';
@@ -259,8 +260,8 @@ View on Hymnal.net: $hymnalUrl
         leading: IconButton(
           icon: const Icon(Icons.home),
           onPressed: () {
-            // Navigate to home screen
-            Navigator.of(context).popUntil((route) => route.isFirst);
+            // Navigate to home screen using GoRouter
+            context.go('/');
           },
           tooltip: 'Home',
         ),
