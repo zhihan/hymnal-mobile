@@ -57,7 +57,40 @@ class HymnDb {
       }
     }
 
-    return buffer.toString().trim();
+    String result = buffer.toString().trim();
+
+    // Remove spaces between Chinese characters for Chinese hymn books
+    result = _removeSpacesBetweenChinese(result);
+
+    return result;
+  }
+
+  String _removeSpacesBetweenChinese(String text) {
+    // Regular expression to match Chinese characters (CJK Unified Ideographs)
+    // Unicode range: U+4E00 to U+9FFF covers most common Chinese characters
+    final chineseCharPattern = RegExp(r'[\u4E00-\u9FFF]');
+
+    final StringBuffer result = StringBuffer();
+
+    for (int i = 0; i < text.length; i++) {
+      final char = text[i];
+
+      // Skip spaces between Chinese characters
+      if (char == ' ' && i > 0 && i < text.length - 1) {
+        final prevChar = text[i - 1];
+        final nextChar = text[i + 1];
+
+        if (chineseCharPattern.hasMatch(prevChar) && chineseCharPattern.hasMatch(nextChar)) {
+          // Skip this space
+          continue;
+        }
+      }
+
+      // Add the current character
+      result.write(char);
+    }
+
+    return result.toString();
   }
 
   factory HymnDb.fromJson(String hymnId, Map<String, dynamic> json) {
