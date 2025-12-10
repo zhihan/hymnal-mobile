@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:share_plus/share_plus.dart';
 import '../providers/song_list_provider.dart';
 import '../models/song_list.dart';
+import '../services/song_list_share_service.dart';
 import 'song_list_detail_screen.dart';
 import 'create_edit_list_screen.dart';
 
@@ -52,6 +54,14 @@ class _SongListsScreenState extends State<SongListsScreen> {
           mainAxisSize: MainAxisSize.min,
           children: [
             ListTile(
+              leading: const Icon(Icons.share),
+              title: const Text('Share'),
+              onTap: () {
+                Navigator.pop(context);
+                _shareSongList(list);
+              },
+            ),
+            ListTile(
               leading: const Icon(Icons.edit),
               title: const Text('Rename'),
               onTap: () {
@@ -72,6 +82,20 @@ class _SongListsScreenState extends State<SongListsScreen> {
         ),
       ),
     );
+  }
+
+  void _shareSongList(SongList list) {
+    try {
+      final shareUrl = SongListShareService.generateShareUrl(list);
+      Share.share(
+        shareUrl,
+        subject: 'Share Song List: ${list.name}',
+      );
+    } catch (e) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('Failed to share: $e')),
+      );
+    }
   }
 
   void _renameList(SongList list) {

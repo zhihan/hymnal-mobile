@@ -141,8 +141,6 @@ class SongListService {
           id: _uuid.v4(),
           name: _defaultListName,
           hymnIds: [],
-          createdAt: DateTime.now(),
-          updatedAt: DateTime.now(),
           isDefault: true,
         );
         lists.insert(0, defaultList);
@@ -189,8 +187,6 @@ class SongListService {
       id: _uuid.v4(),
       name: name,
       hymnIds: [],
-      createdAt: DateTime.now(),
-      updatedAt: DateTime.now(),
       isDefault: false,
     );
 
@@ -208,7 +204,7 @@ class SongListService {
     final index = lists.indexWhere((list) => list.id == updatedList.id);
     if (index == -1) return false;
 
-    lists[index] = updatedList.copyWith(updatedAt: DateTime.now());
+    lists[index] = updatedList;
     await _saveLists(prefs, lists);
 
     return true;
@@ -305,6 +301,25 @@ class SongListService {
     return lists.where((list) => list.containsHymn(hymnId)).toList();
   }
 
+  // Import a song list with hymns (for sharing feature)
+  Future<SongList> importList(String name, List<String> hymnIds) async {
+    final prefs = await SharedPreferences.getInstance();
+    final lists = await getAllLists();
+
+    final newList = SongList(
+      id: _uuid.v4(),
+      name: name,
+      hymnIds: hymnIds,
+      isDefault: false,
+      isBuiltIn: false,
+    );
+
+    lists.add(newList);
+    await _saveLists(prefs, lists);
+
+    return newList;
+  }
+
   // Private helper: Save lists to SharedPreferences
   Future<void> _saveLists(SharedPreferences prefs, List<SongList> lists) async {
     final jsonString = jsonEncode(lists.map((list) => list.toJson()).toList());
@@ -317,8 +332,6 @@ class SongListService {
       id: _uuid.v4(),
       name: _defaultListName,
       hymnIds: [],
-      createdAt: DateTime.now(),
-      updatedAt: DateTime.now(),
       isDefault: true,
     );
 
@@ -352,8 +365,6 @@ class SongListService {
       id: _uuid.v4(),
       name: _defaultListName,
       hymnIds: oldFavorites,
-      createdAt: DateTime.now(),
-      updatedAt: DateTime.now(),
       isDefault: true,
     );
 
@@ -376,16 +387,12 @@ class SongListService {
         id: _uuid.v4(),
         name: _defaultListName,
         hymnIds: [],
-        createdAt: DateTime.now(),
-        updatedAt: DateTime.now(),
         isDefault: true,
       );
       final ypSongbook = SongList(
         id: _ypSongbookId,
         name: 'YP Songbook',
         hymnIds: List.from(_ypSongbookHymns),
-        createdAt: DateTime.now(),
-        updatedAt: DateTime.now(),
         isDefault: false,
         isBuiltIn: true,
       );
@@ -407,8 +414,6 @@ class SongListService {
           id: _uuid.v4(),
           name: _defaultListName,
           hymnIds: [],
-          createdAt: DateTime.now(),
-          updatedAt: DateTime.now(),
           isDefault: true,
         );
         lists.insert(0, defaultList); // Insert at beginning so it appears first
@@ -422,8 +427,6 @@ class SongListService {
           id: _ypSongbookId,
           name: 'YP Songbook',
           hymnIds: List.from(_ypSongbookHymns),
-          createdAt: DateTime.now(),
-          updatedAt: DateTime.now(),
           isDefault: false,
           isBuiltIn: true,
         );
@@ -458,7 +461,6 @@ class SongListService {
         // Update the list with new hymns
         lists[ypIndex] = currentYp.copyWith(
           hymnIds: List.from(_ypSongbookHymns),
-          updatedAt: DateTime.now(),
         );
         updated = true;
       }
@@ -468,8 +470,6 @@ class SongListService {
         id: _ypSongbookId,
         name: 'YP Songbook',
         hymnIds: List.from(_ypSongbookHymns),
-        createdAt: DateTime.now(),
-        updatedAt: DateTime.now(),
         isDefault: false,
         isBuiltIn: true,
       );

@@ -5,7 +5,10 @@ import 'package:app_links/app_links.dart';
 import 'dart:async';
 import 'screens/home_screen.dart';
 import 'screens/hymn_detail_screen.dart';
+import 'screens/song_list_detail_screen.dart';
 import 'services/hymn_db_service.dart';
+import 'services/song_list_share_service.dart';
+import 'services/song_list_service.dart';
 import 'providers/favorites_provider.dart';
 import 'providers/song_list_provider.dart';
 
@@ -55,6 +58,17 @@ class _HymnalAppState extends State<HymnalApp> {
             );
           },
         ),
+        GoRoute(
+          path: '/songlist/:encodedData',
+          builder: (context, state) {
+            final encodedData = state.pathParameters['encodedData'] ?? '';
+            // Show import confirmation dialog immediately
+            WidgetsBinding.instance.addPostFrameCallback((_) {
+              _showImportDialog(context, encodedData);
+            });
+            return const HomeScreen();
+          },
+        ),
       ],
     );
 
@@ -95,6 +109,144 @@ class _HymnalAppState extends State<HymnalApp> {
     if (path.isNotEmpty && path != '/') {
       debugPrint('Navigating to: $path');
       _router.go(path);
+    }
+  }
+
+  void _showImportDialog(BuildContext context, String encodedData) {
+    if (encodedData.isEmpty) {
+      return;
+    }
+
+    try {
+      // Decode the song list data
+      final data = SongListShareService.decodeSongListData(encodedData);
+      final name = data['name'] as String;
+      final hymnIds = data['hymnIds'] as List<String>;
+
+      // Validate hymn IDs
+      if (!SongListShareService.validateHymnIds(hymnIds)) {
+        _showErrorDialog(context, 'Invalid hymn IDs in song list');
+        return;
+      }
+
+      // Show confirmation dialog
+      showDialog(
+        context: context,
+        barrierDismissible: false,
+        builder: (dialogContext) => AlertDialog(
+          title: const Text('Import Song List'),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text('Do you want to import this song list?'),
+              const SizedBox(height: 16),
+              Text(
+                'Name: $name',
+                style: const TextStyle(fontWeight: FontWeight.bold),
+              ),
+              const SizedBox(height: 8),
+              Text('Hymns: ${hymnIds.length}'),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () {
+                Navigator.pop(dialogContext);
+                _router.go('/'); // Navigate back to home
+              },
+              child: const Text('Cancel'),
+            ),
+            FilledButton(
+              onPressed: () async {
+                Navigator.pop(dialogContext);
+                await _importSongList(context, name, hymnIds);
+              },
+              child: const Text('Import'),
+            ),
+          ],
+        ),
+      );
+    } catch (e) {
+      debugPrint('Error decoding song list: $e');
+      _showErrorDialog(context, 'Invalid or corrupted song list link');
+    }
+  }
+
+  void _showErrorDialog(BuildContext context, String message) {
+    showDialog(
+      context: context,
+      builder: (dialogContext) => AlertDialog(
+        title: const Text('Import Failed'),
+        content: Text(message),
+        actions: [
+          TextButton(
+            onPressed: () {
+              Navigator.pop(dialogContext);
+              _router.go('/');
+            },
+            child: const Text('OK'),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Future<void> _importSongList(
+    BuildContext context,
+    String name,
+    List<String> hymnIds,
+  ) async {
+    try {
+      final songListService = SongListService();
+      final existingLists = await songListService.getAllLists();
+
+      // Generate unique name
+      final uniqueName = SongListShareService.generateUniqueName(
+        name,
+        existingLists,
+      );
+
+      // Import the song list with all hymns in one operation
+      final newList = await songListService.importList(uniqueName, hymnIds);
+
+      // Reload lists in provider
+      if (context.mounted) {
+        final provider = Provider.of<SongListProvider>(context, listen: false);
+        await provider.loadLists();
+
+        // Navigate to the imported list
+        _router.go('/');
+
+        // Show success message after navigation
+        WidgetsBinding.instance.addPostFrameCallback((_) {
+          if (context.mounted) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              SnackBar(
+                content: Text('Imported: $uniqueName'),
+                action: SnackBarAction(
+                  label: 'View',
+                  onPressed: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => SongListDetailScreen(listId: newList.id),
+                      ),
+                    );
+                  },
+                ),
+              ),
+            );
+          }
+        });
+      }
+    } catch (e) {
+      debugPrint('Error importing song list: $e');
+      if (context.mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text('Failed to import song list: $e')),
+        );
+      }
     }
   }
 

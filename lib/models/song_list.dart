@@ -2,8 +2,6 @@ class SongList {
   final String id;
   final String name;
   final List<String> hymnIds;
-  final DateTime createdAt;
-  final DateTime updatedAt;
   final bool isDefault;
   final bool isBuiltIn;
 
@@ -13,8 +11,6 @@ class SongList {
     required this.id,
     required this.name,
     required this.hymnIds,
-    required this.createdAt,
-    required this.updatedAt,
     this.isDefault = false,
     this.isBuiltIn = false,
   });
@@ -24,8 +20,6 @@ class SongList {
     String? id,
     String? name,
     List<String>? hymnIds,
-    DateTime? createdAt,
-    DateTime? updatedAt,
     bool? isDefault,
     bool? isBuiltIn,
   }) {
@@ -33,8 +27,6 @@ class SongList {
       id: id ?? this.id,
       name: name ?? this.name,
       hymnIds: hymnIds ?? List.from(this.hymnIds),
-      createdAt: createdAt ?? this.createdAt,
-      updatedAt: updatedAt ?? this.updatedAt,
       isDefault: isDefault ?? this.isDefault,
       isBuiltIn: isBuiltIn ?? this.isBuiltIn,
     );
@@ -46,8 +38,6 @@ class SongList {
       'id': id,
       'name': name,
       'hymnIds': hymnIds,
-      'createdAt': createdAt.toIso8601String(),
-      'updatedAt': updatedAt.toIso8601String(),
       'isDefault': isDefault,
       'isBuiltIn': isBuiltIn,
     };
@@ -59,8 +49,6 @@ class SongList {
       id: json['id'] as String,
       name: json['name'] as String,
       hymnIds: (json['hymnIds'] as List<dynamic>).cast<String>(),
-      createdAt: DateTime.parse(json['createdAt'] as String),
-      updatedAt: DateTime.parse(json['updatedAt'] as String),
       isDefault: json['isDefault'] as bool? ?? false,
       isBuiltIn: json['isBuiltIn'] as bool? ?? false,
     );

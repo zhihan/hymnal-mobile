@@ -1,9 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:go_router/go_router.dart';
+import 'package:share_plus/share_plus.dart';
 import '../providers/song_list_provider.dart';
 import '../services/hymn_db_service.dart';
 import '../services/hymn_loader_service.dart';
+import '../services/song_list_share_service.dart';
 import '../models/hymn_db.dart';
 
 class SongListDetailScreen extends StatefulWidget {
@@ -103,6 +105,30 @@ class _SongListDetailScreenState extends State<SongListDetailScreen> {
     );
   }
 
+  void _shareSongList() {
+    final provider = Provider.of<SongListProvider>(context, listen: false);
+    final list = provider.getListById(widget.listId);
+
+    if (list == null) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(content: Text('Song list not found')),
+      );
+      return;
+    }
+
+    try {
+      final shareUrl = SongListShareService.generateShareUrl(list);
+      Share.share(
+        shareUrl,
+        subject: 'Share Song List: ${list.name}',
+      );
+    } catch (e) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('Failed to share: $e')),
+      );
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -114,6 +140,13 @@ class _SongListDetailScreenState extends State<SongListDetailScreen> {
             return Text(list?.name ?? 'Song List');
           },
         ),
+        actions: [
+          IconButton(
+            icon: const Icon(Icons.share),
+            tooltip: 'Share song list',
+            onPressed: _shareSongList,
+          ),
+        ],
       ),
       body: _buildBody(),
     );
