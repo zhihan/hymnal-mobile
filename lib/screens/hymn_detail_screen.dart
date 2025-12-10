@@ -134,17 +134,10 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     final hymnId = _currentHymnId;
     final deepLink = 'https://cicmusic.net/hymn/$_currentBookId/$_currentHymnNumber';
 
-    // Determine language for hymnal.net URL
-    // 'ch' and 'ts' use 'cn', everything else uses 'en'
-    final lang = (_currentBookId == 'ch' || _currentBookId == 'ts') ? 'cn' : 'en';
-    final hymnalUrl = 'https://hymnal.net/$lang/hymn/$_currentBookId/$_currentHymnNumber';
-
     final shareText = '''
 $hymnId - $hymnTitle
 
-Open in Hymns app: $deepLink
-
-View on Hymnal.net: $hymnalUrl
+$deepLink
 ''';
 
     Share.share(
