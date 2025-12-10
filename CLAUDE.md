@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a Flutter mobile application for displaying hymnals with chords inlined. The app is primarily targeted at Android devices, with potential future expansion to iOS.
+This is a Flutter mobile application called "诗歌 with Chords" for displaying hymnals with chords inlined. The app is primarily targeted at iOS devices, with Android support.
 
 **Data Source**: Hymnal data (songs, lyrics, chords) is loaded from local JSON assets bundled with the app. The app uses an Isar database for search functionality and metadata indexing.
 
