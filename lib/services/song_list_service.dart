@@ -305,56 +305,6 @@ class SongListService {
     return lists.where((list) => list.containsHymn(hymnId)).toList();
   }
 
-  // Export a list to JSON string
-  Future<String?> exportList(String listId) async {
-    final list = await getListById(listId);
-    if (list == null) return null;
-
-    final exportData = {
-      'version': '1.0',
-      'list': list.toJson(),
-    };
-
-    return jsonEncode(exportData);
-  }
-
-  // Import a list from JSON string
-  Future<SongList?> importList(String jsonString) async {
-    try {
-      final Map<String, dynamic> decoded = jsonDecode(jsonString);
-
-      // Validate version
-      if (decoded['version'] != '1.0') {
-        throw Exception('Unsupported version');
-      }
-
-      final listData = decoded['list'] as Map<String, dynamic>;
-      final importedList = SongList.fromJson(listData);
-
-      // Validate hymn count
-      if (importedList.hymnIds.length > SongList.maxHymnsPerList) {
-        throw Exception('List exceeds maximum hymn limit');
-      }
-
-      // Generate new ID to avoid conflicts
-      final newList = importedList.copyWith(
-        id: _uuid.v4(),
-        createdAt: DateTime.now(),
-        updatedAt: DateTime.now(),
-        isDefault: false, // Imported lists are never default
-      );
-
-      final prefs = await SharedPreferences.getInstance();
-      final lists = await getAllLists();
-      lists.add(newList);
-      await _saveLists(prefs, lists);
-
-      return newList;
-    } catch (e) {
-      return null;
-    }
-  }
-
   // Private helper: Save lists to SharedPreferences
   Future<void> _saveLists(SharedPreferences prefs, List<SongList> lists) async {
     final jsonString = jsonEncode(lists.map((list) => list.toJson()).toList());

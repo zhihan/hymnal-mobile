@@ -124,18 +124,4 @@ class SongListProvider extends ChangeNotifier {
     }
     return success;
   }
-
-  // Export a list
-  Future<String?> exportList(String listId) async {
-    return await _service.exportList(listId);
-  }
-
-  // Import a list
-  Future<SongList?> importList(String jsonString) async {
-    final importedList = await _service.importList(jsonString);
-    if (importedList != null) {
-      await loadLists();
-    }
-    return importedList;
-  }
 }

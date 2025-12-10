@@ -44,8 +44,7 @@ dependencies:
   path_provider: ^2.1.4
   shared_preferences: ^2.3.3
 
-  # File picker and UUID generation for song lists
-  file_picker: ^8.0.0+1
+  # UUID generation for song lists
   uuid: ^4.5.1
 
   # Share functionality
