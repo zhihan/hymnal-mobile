@@ -54,9 +54,15 @@
 			<string>net.cicmusic.hymns-mobile</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>hymns</string>
+				<string>https</string>
 			</array>
 		</dict>
+	</array>
+	<key>FlutterDeepLinkingEnabled</key>
+	<true/>
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:cicmusic.net</string>
 	</array>
 </dict>
 </plist>

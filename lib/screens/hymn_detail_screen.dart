@@ -132,7 +132,7 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     final shortName = _bookShortNames[_currentBookId] ?? _currentBookId.toUpperCase();
     final hymnTitle = _currentHymn?.title ?? 'Hymn';
     final hymnId = _currentHymnId;
-    final deepLink = 'hymns://open/hymn/$_currentBookId/$_currentHymnNumber';
+    final deepLink = 'https://cicmusic.net/hymn/$_currentBookId/$_currentHymnNumber';
 
     // Determine language for hymnal.net URL
     // 'ch' and 'ts' use 'cn', everything else uses 'en'

@@ -89,15 +89,12 @@ class _HymnalAppState extends State<HymnalApp> {
     debugPrint('Deep link received: $uri');
 
     // Extract the path from the URI
-    // For hymns://open/hymn/ts/1, uri.path will be "/open/hymn/ts/1"
-    // We need to remove the "/open" prefix to match our router path
+    // For https://cicmusic.net/hymn/ts/1, uri.path will be "/hymn/ts/1"
     final path = uri.path;
 
     if (path.isNotEmpty && path != '/') {
-      // Remove the "/open" prefix if present
-      final routePath = path.startsWith('/open') ? path.substring(5) : path;
-      debugPrint('Navigating to: $routePath');
-      _router.go(routePath);
+      debugPrint('Navigating to: $path');
+      _router.go(path);
     }
   }
 
