@@ -34,6 +34,15 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   int? _previousHymnNumber;
   bool _showLanguageNavigation = false;
 
+  // PageView state
+  late PageController _pageController;
+  List<int> _availableHymnNumbers = [];
+  int _currentPageIndex = 0;
+  Key _pageViewKey = UniqueKey(); // Key to force PageView rebuild when switching books
+
+  // Cache loaded hymns by hymn number
+  final Map<int, HymnSong> _hymnCache = {};
+
   // Book short names for display
   static const Map<String, String> _bookShortNames = {
     'ch': '大',
@@ -48,7 +57,39 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     super.initState();
     _currentHymnNumber = widget.initialHymnNumber;
     _currentBookId = widget.bookId;
-    _loadHymn(_currentHymnNumber);
+    _initializePageView();
+  }
+
+  Future<void> _initializePageView() async {
+    try {
+      // Load available hymn numbers for the current book
+      _availableHymnNumbers = await HymnLoaderService.getAvailableHymnNumbers(_currentBookId);
+
+      // Find the index of the current hymn in the available numbers
+      _currentPageIndex = _availableHymnNumbers.indexOf(_currentHymnNumber);
+      if (_currentPageIndex == -1) {
+        // If hymn number not found, default to first hymn
+        _currentPageIndex = 0;
+        _currentHymnNumber = _availableHymnNumbers.isNotEmpty ? _availableHymnNumbers[0] : 1;
+      }
+
+      // Initialize PageController
+      _pageController = PageController(initialPage: _currentPageIndex);
+
+      // Load the initial hymn
+      await _loadHymn(_currentHymnNumber);
+    } catch (e) {
+      setState(() {
+        _error = 'Failed to initialize: $e';
+        _isLoading = false;
+      });
+    }
+  }
+
+  @override
+  void dispose() {
+    _pageController.dispose();
+    super.dispose();
   }
 
   Future<void> _loadHymn(int hymnNumber) async {
@@ -58,21 +99,29 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     });
 
     try {
-      // Load the hymn first
-      final hymn = await HymnLoaderService.loadHymnByNumber(_currentBookId, hymnNumber);
+      // Load the hymn (from cache if available)
+      HymnSong hymn;
+      if (_hymnCache.containsKey(hymnNumber)) {
+        hymn = _hymnCache[hymnNumber]!;
+      } else {
+        hymn = await HymnLoaderService.loadHymnByNumber(_currentBookId, hymnNumber);
+        _hymnCache[hymnNumber] = hymn;
+      }
 
-      // Then load navigation info (these use cached available numbers)
-      // Wrap in try-catch to handle errors gracefully
+      // Update navigation info based on current page index
       int? nextNumber;
       int? previousNumber;
 
-      try {
-        nextNumber = await HymnLoaderService.getNextHymnNumber(_currentBookId, hymnNumber);
-        previousNumber = await HymnLoaderService.getPreviousHymnNumber(_currentBookId, hymnNumber);
-      } catch (navError) {
-        // If navigation loading fails, we can still show the hymn
-        // Just disable the navigation buttons
-        // Navigation will be null, buttons will be disabled
+      if (_availableHymnNumbers.isNotEmpty) {
+        final currentIndex = _availableHymnNumbers.indexOf(hymnNumber);
+        if (currentIndex != -1) {
+          if (currentIndex < _availableHymnNumbers.length - 1) {
+            nextNumber = _availableHymnNumbers[currentIndex + 1];
+          }
+          if (currentIndex > 0) {
+            previousNumber = _availableHymnNumbers[currentIndex - 1];
+          }
+        }
       }
 
       setState(() {
@@ -83,11 +132,75 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
         _isLoading = false;
         _transposeOffset = 0; // Reset transpose when loading new hymn
       });
+
+      // Preload adjacent hymns in the background
+      _preloadAdjacentHymns(hymnNumber);
     } catch (e) {
       setState(() {
         _error = e.toString();
         _isLoading = false;
       });
+    }
+  }
+
+  Future<void> _preloadAdjacentHymns(int currentHymnNumber) async {
+    if (_availableHymnNumbers.isEmpty) return;
+
+    final currentIndex = _availableHymnNumbers.indexOf(currentHymnNumber);
+    if (currentIndex == -1) return;
+
+    // Preload next hymn
+    if (currentIndex < _availableHymnNumbers.length - 1) {
+      final nextHymnNumber = _availableHymnNumbers[currentIndex + 1];
+      if (!_hymnCache.containsKey(nextHymnNumber)) {
+        try {
+          final nextHymn = await HymnLoaderService.loadHymnByNumber(_currentBookId, nextHymnNumber);
+          _hymnCache[nextHymnNumber] = nextHymn;
+        } catch (e) {
+          // Silently fail preloading
+        }
+      }
+    }
+
+    // Preload previous hymn
+    if (currentIndex > 0) {
+      final prevHymnNumber = _availableHymnNumbers[currentIndex - 1];
+      if (!_hymnCache.containsKey(prevHymnNumber)) {
+        try {
+          final prevHymn = await HymnLoaderService.loadHymnByNumber(_currentBookId, prevHymnNumber);
+          _hymnCache[prevHymnNumber] = prevHymn;
+        } catch (e) {
+          // Silently fail preloading
+        }
+      }
+    }
+  }
+
+  void _onPageChanged(int pageIndex) {
+    if (pageIndex >= 0 && pageIndex < _availableHymnNumbers.length) {
+      final hymnNumber = _availableHymnNumbers[pageIndex];
+      _currentPageIndex = pageIndex;
+      _loadHymn(hymnNumber);
+    }
+  }
+
+  void _navigateToPreviousHymn() {
+    if (_previousHymnNumber != null && _currentPageIndex > 0) {
+      _pageController.animateToPage(
+        _currentPageIndex - 1,
+        duration: const Duration(milliseconds: 300),
+        curve: Curves.easeInOut,
+      );
+    }
+  }
+
+  void _navigateToNextHymn() {
+    if (_nextHymnNumber != null && _currentPageIndex < _availableHymnNumbers.length - 1) {
+      _pageController.animateToPage(
+        _currentPageIndex + 1,
+        duration: const Duration(milliseconds: 300),
+        curve: Curves.easeInOut,
+      );
     }
   }
 
@@ -116,14 +229,101 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     return List<Map<String, dynamic>>.from(related);
   }
 
-  void _navigateToRelatedHymn(String bookId, String number) {
+  Future<void> _navigateToRelatedHymn(String bookId, String number) async {
     final hymnNumber = int.tryParse(number);
     if (hymnNumber == null) return;
 
+    // If switching to a different book, need to reload available numbers
+    if (bookId != _currentBookId) {
+      try {
+        // Load available hymn numbers for the new book
+        final newAvailableNumbers = await HymnLoaderService.getAvailableHymnNumbers(bookId);
+
+        // Find the index of the target hymn
+        int newPageIndex = newAvailableNumbers.indexOf(hymnNumber);
+        if (newPageIndex == -1) {
+          // If hymn not found, default to first hymn
+          newPageIndex = 0;
+          if (newAvailableNumbers.isNotEmpty) {
+            // Use the first available hymn number instead
+            final firstHymnNumber = newAvailableNumbers[0];
+            final firstHymn = await HymnLoaderService.loadHymnByNumber(bookId, firstHymnNumber);
+            _updateBookAndHymn(bookId, firstHymnNumber, firstHymn, newAvailableNumbers, 0);
+            return;
+          }
+        }
+
+        // Load the target hymn
+        final newHymn = await HymnLoaderService.loadHymnByNumber(bookId, hymnNumber);
+
+        // Update state
+        _updateBookAndHymn(bookId, hymnNumber, newHymn, newAvailableNumbers, newPageIndex);
+
+        // Preload adjacent hymns
+        _preloadAdjacentHymns(hymnNumber);
+      } catch (e) {
+        // Show error but don't block the UI
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(content: Text('Failed to load hymn: $e')),
+          );
+        }
+      }
+    } else {
+      // Same book, just navigate to the hymn
+      final pageIndex = _availableHymnNumbers.indexOf(hymnNumber);
+      if (pageIndex != -1) {
+        _pageController.animateToPage(
+          pageIndex,
+          duration: const Duration(milliseconds: 300),
+          curve: Curves.easeInOut,
+        );
+      }
+    }
+  }
+
+  void _updateBookAndHymn(String bookId, int hymnNumber, HymnSong hymn, List<int> availableNumbers, int pageIndex) {
+    if (!mounted) return;
+
+    // Save reference to old controller before setState
+    final oldController = _pageController;
+
     setState(() {
+      // Create new PageController FIRST
+      _pageController = PageController(initialPage: pageIndex);
+
+      // Generate new key to force PageView rebuild
+      _pageViewKey = UniqueKey();
+
+      // Update all state
       _currentBookId = bookId;
+      _currentHymnNumber = hymnNumber;
+      _availableHymnNumbers = availableNumbers;
+      _currentPageIndex = pageIndex;
+      _currentHymn = hymn;
+      _isLoading = false;  // Clear any loading state from previous operations
+      _error = null;  // Clear any error state
+      _transposeOffset = 0;
+
+      // Clear cache and add new hymn
+      _hymnCache.clear();
+      _hymnCache[hymnNumber] = hymn;
+
+      // Update navigation info
+      if (pageIndex < availableNumbers.length - 1) {
+        _nextHymnNumber = availableNumbers[pageIndex + 1];
+      } else {
+        _nextHymnNumber = null;
+      }
+      if (pageIndex > 0) {
+        _previousHymnNumber = availableNumbers[pageIndex - 1];
+      } else {
+        _previousHymnNumber = null;
+      }
     });
-    _loadHymn(hymnNumber);
+
+    // Dispose old controller AFTER setState completes
+    oldController.dispose();
   }
 
   String get _currentHymnId => '${_currentBookId}_$_currentHymnNumber';
@@ -289,7 +489,7 @@ $deepLink
           IconButton(
             icon: const Icon(Icons.arrow_back_ios),
             onPressed: _previousHymnNumber != null
-                ? () => _loadHymn(_previousHymnNumber!)
+                ? _navigateToPreviousHymn
                 : null,
             tooltip: _previousHymnNumber != null
                 ? 'Previous hymn ($_previousHymnNumber)'
@@ -298,7 +498,7 @@ $deepLink
           IconButton(
             icon: const Icon(Icons.arrow_forward_ios),
             onPressed: _nextHymnNumber != null
-                ? () => _loadHymn(_nextHymnNumber!)
+                ? _navigateToNextHymn
                 : null,
             tooltip: _nextHymnNumber != null
                 ? 'Next hymn ($_nextHymnNumber)'
@@ -491,14 +691,32 @@ $deepLink
               ],
             ),
           ),
-        // Hymn display
+        // Hymn display with PageView for swipe navigation
         Expanded(
-          child: HymnDisplay(
-            hymn: _currentHymn!,
-            transposeOffset: _transposeOffset,
-            showChords: _showChords,
-            hymnIdTag: '${_bookShortNames[_currentBookId] ?? _currentBookId.toUpperCase()}$_currentHymnNumber',
-          ),
+          child: _availableHymnNumbers.isEmpty
+              ? const Center(child: CircularProgressIndicator())
+              : PageView.builder(
+                  key: _pageViewKey,  // Force rebuild when switching books
+                  controller: _pageController,
+                  onPageChanged: _onPageChanged,
+                  itemCount: _availableHymnNumbers.length,
+                  itemBuilder: (context, index) {
+                    final hymnNumber = _availableHymnNumbers[index];
+
+                    // Check if this hymn is cached
+                    if (_hymnCache.containsKey(hymnNumber)) {
+                      return HymnDisplay(
+                        hymn: _hymnCache[hymnNumber]!,
+                        transposeOffset: index == _currentPageIndex ? _transposeOffset : 0,
+                        showChords: _showChords,
+                        hymnIdTag: '${_bookShortNames[_currentBookId] ?? _currentBookId.toUpperCase()}$hymnNumber',
+                      );
+                    }
+
+                    // Not cached yet, show loading indicator
+                    return const Center(child: CircularProgressIndicator());
+                  },
+                ),
         ),
       ],
     );
