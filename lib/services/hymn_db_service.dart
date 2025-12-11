@@ -7,7 +7,7 @@ import '../models/hymn_db.dart';
 
 class HymnDbService {
   static Isar? _isar;
-  static const int _currentDbVersion = 8; // Increment this when data structure changes
+  static const int _currentDbVersion = 9; // Increment this when data structure changes
 
   static Future<Isar> get isar async {
     if (_isar != null) return _isar!;
@@ -135,6 +135,44 @@ class HymnDbService {
         .filter()
         .hymnIdEqualTo(hymnId)
         .findFirst();
+  }
+
+  /// Get all unique categories sorted alphabetically
+  static Future<List<String>> getAllCategories() async {
+    final db = await isar;
+    final allHymns = await db.hymnDbs.where().findAll();
+    final categoriesSet = <String>{};
+    for (final hymn in allHymns) {
+      if (hymn.category.isNotEmpty) {
+        categoriesSet.add(hymn.category);
+      }
+    }
+    return categoriesSet.toList()..sort();
+  }
+
+  /// Get all hymns in a specific category, sorted by number
+  static Future<List<HymnDb>> getHymnsByCategory(String category) async {
+    final db = await isar;
+    return await db.hymnDbs
+        .filter()
+        .categoryEqualTo(category, caseSensitive: false)
+        .sortByNumber()
+        .findAll();
+  }
+
+  /// Get category statistics (name → count)
+  static Future<Map<String, int>> getCategoryStats() async {
+    final db = await isar;
+    final allHymns = await db.hymnDbs.where().findAll();
+    final stats = <String, int>{};
+    for (final hymn in allHymns) {
+      if (hymn.category.isNotEmpty) {
+        stats[hymn.category] = (stats[hymn.category] ?? 0) + 1;
+      }
+    }
+    return Map.fromEntries(
+      stats.entries.toList()..sort((a, b) => a.key.compareTo(b.key))
+    );
   }
 
   static Future<void> close() async {

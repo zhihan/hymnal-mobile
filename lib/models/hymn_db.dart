@@ -22,6 +22,7 @@ class HymnDb {
   @Index(type: IndexType.value)
   late String bookId;
 
+  @Index(type: IndexType.value, caseSensitive: false)
   late String category;
 
   String? time;

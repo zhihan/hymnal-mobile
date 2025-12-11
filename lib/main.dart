@@ -6,6 +6,8 @@ import 'dart:async';
 import 'screens/home_screen.dart';
 import 'screens/hymn_detail_screen.dart';
 import 'screens/song_list_detail_screen.dart';
+import 'screens/categories_screen.dart';
+import 'screens/category_detail_screen.dart';
 import 'services/hymn_db_service.dart';
 import 'services/song_list_share_service.dart';
 import 'services/song_list_service.dart';
@@ -67,6 +69,19 @@ class _HymnalAppState extends State<HymnalApp> {
               _showImportDialog(context, encodedData);
             });
             return const HomeScreen();
+          },
+        ),
+        GoRoute(
+          path: '/categories',
+          builder: (context, state) => const CategoriesScreen(),
+        ),
+        GoRoute(
+          path: '/category/:categoryName',
+          builder: (context, state) {
+            final categoryName = Uri.decodeComponent(
+              state.pathParameters['categoryName'] ?? '',
+            );
+            return CategoryDetailScreen(categoryName: categoryName);
           },
         ),
       ],

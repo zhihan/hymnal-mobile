@@ -120,6 +120,19 @@ const HymnDbSchema = CollectionSchema(
           caseSensitive: true,
         )
       ],
+    ),
+    r'category': IndexSchema(
+      id: -7560358558326323820,
+      name: r'category',
+      unique: false,
+      replace: false,
+      properties: [
+        IndexPropertySchema(
+          name: r'category',
+          type: IndexType.value,
+          caseSensitive: false,
+        )
+      ],
     )
   },
   links: {},
@@ -271,6 +284,14 @@ extension HymnDbQueryWhereSort on QueryBuilder<HymnDb, HymnDb, QWhere> {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
         const IndexWhereClause.any(indexName: r'bookId'),
+      );
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhere> anyCategory() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addWhereClause(
+        const IndexWhereClause.any(indexName: r'category'),
       );
     });
   }
@@ -877,6 +898,142 @@ extension HymnDbQueryWhere on QueryBuilder<HymnDb, HymnDb, QWhereClause> {
             ))
             .addWhereClause(IndexWhereClause.lessThan(
               indexName: r'bookId',
+              upper: [''],
+            ));
+      }
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> categoryEqualTo(
+      String category) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addWhereClause(IndexWhereClause.equalTo(
+        indexName: r'category',
+        value: [category],
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> categoryNotEqualTo(
+      String category) {
+    return QueryBuilder.apply(this, (query) {
+      if (query.whereSort == Sort.asc) {
+        return query
+            .addWhereClause(IndexWhereClause.between(
+              indexName: r'category',
+              lower: [],
+              upper: [category],
+              includeUpper: false,
+            ))
+            .addWhereClause(IndexWhereClause.between(
+              indexName: r'category',
+              lower: [category],
+              includeLower: false,
+              upper: [],
+            ));
+      } else {
+        return query
+            .addWhereClause(IndexWhereClause.between(
+              indexName: r'category',
+              lower: [category],
+              includeLower: false,
+              upper: [],
+            ))
+            .addWhereClause(IndexWhereClause.between(
+              indexName: r'category',
+              lower: [],
+              upper: [category],
+              includeUpper: false,
+            ));
+      }
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> categoryGreaterThan(
+    String category, {
+    bool include = false,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addWhereClause(IndexWhereClause.between(
+        indexName: r'category',
+        lower: [category],
+        includeLower: include,
+        upper: [],
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> categoryLessThan(
+    String category, {
+    bool include = false,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addWhereClause(IndexWhereClause.between(
+        indexName: r'category',
+        lower: [],
+        upper: [category],
+        includeUpper: include,
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> categoryBetween(
+    String lowerCategory,
+    String upperCategory, {
+    bool includeLower = true,
+    bool includeUpper = true,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addWhereClause(IndexWhereClause.between(
+        indexName: r'category',
+        lower: [lowerCategory],
+        includeLower: includeLower,
+        upper: [upperCategory],
+        includeUpper: includeUpper,
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> categoryStartsWith(
+      String CategoryPrefix) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addWhereClause(IndexWhereClause.between(
+        indexName: r'category',
+        lower: [CategoryPrefix],
+        upper: ['$CategoryPrefix\u{FFFFF}'],
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> categoryIsEmpty() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addWhereClause(IndexWhereClause.equalTo(
+        indexName: r'category',
+        value: [''],
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> categoryIsNotEmpty() {
+    return QueryBuilder.apply(this, (query) {
+      if (query.whereSort == Sort.asc) {
+        return query
+            .addWhereClause(IndexWhereClause.lessThan(
+              indexName: r'category',
+              upper: [''],
+            ))
+            .addWhereClause(IndexWhereClause.greaterThan(
+              indexName: r'category',
+              lower: [''],
+            ));
+      } else {
+        return query
+            .addWhereClause(IndexWhereClause.greaterThan(
+              indexName: r'category',
+              lower: [''],
+            ))
+            .addWhereClause(IndexWhereClause.lessThan(
+              indexName: r'category',
               upper: [''],
             ));
       }

@@ -4,6 +4,7 @@ import 'package:go_router/go_router.dart';
 import 'search_screen.dart';
 import 'song_lists_screen.dart';
 import 'song_list_detail_screen.dart';
+import 'categories_screen.dart';
 import '../services/hymn_loader_service.dart';
 import '../providers/song_list_provider.dart';
 import '../services/song_list_service.dart';
@@ -143,6 +144,61 @@ class _HomeScreenState extends State<HomeScreen> {
               const SizedBox(height: 16),
               // Song Lists Section
               _buildSongListsSection(),
+              const SizedBox(height: 24),
+              // Browse by Category Section
+              Padding(
+                padding: const EdgeInsets.symmetric(horizontal: 16.0),
+                child: Card(
+                  elevation: 2,
+                  child: InkWell(
+                    onTap: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (context) => const CategoriesScreen(),
+                        ),
+                      );
+                    },
+                    borderRadius: BorderRadius.circular(12),
+                    child: Padding(
+                      padding: const EdgeInsets.all(16.0),
+                      child: Row(
+                        children: [
+                          Icon(
+                            Icons.category,
+                            size: 32,
+                            color: Theme.of(context).colorScheme.primary,
+                          ),
+                          const SizedBox(width: 16),
+                          Expanded(
+                            child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                const Text(
+                                  'Browse by Category',
+                                  style: TextStyle(
+                                    fontSize: 18,
+                                    fontWeight: FontWeight.bold,
+                                  ),
+                                ),
+                                const SizedBox(height: 4),
+                                Text(
+                                  'Explore hymns by topic',
+                                  style: TextStyle(
+                                    fontSize: 14,
+                                    color: Colors.grey[600],
+                                  ),
+                                ),
+                              ],
+                            ),
+                          ),
+                          const Icon(Icons.chevron_right),
+                        ],
+                      ),
+                    ),
+                  ),
+                ),
+              ),
               const SizedBox(height: 32),
               // Main hymn lookup section
               Padding(

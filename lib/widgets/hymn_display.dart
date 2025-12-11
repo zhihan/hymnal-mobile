@@ -11,6 +11,7 @@ class HymnDisplay extends StatelessWidget {
   final int transposeOffset;
   final bool showChords;
   final String? hymnIdTag;
+  final Function(String category)? onCategoryTap;
 
   const HymnDisplay({
     super.key,
@@ -18,6 +19,7 @@ class HymnDisplay extends StatelessWidget {
     this.transposeOffset = 0,
     this.showChords = true,
     this.hymnIdTag,
+    this.onCategoryTap,
   });
 
   @override
@@ -71,11 +73,52 @@ class HymnDisplay extends StatelessWidget {
 
               // Metadata
               if (hymn.metadata != null) ...[
-                Text(
-                  'Time: ${hymn.metadata!['time'] ?? ''} | Category: ${hymn.metadata!['category'] ?? ''}',
-                  style: Theme.of(context).textTheme.bodySmall?.copyWith(
+                Row(
+                  children: [
+                    Text(
+                      'Time: ${hymn.metadata!['time'] ?? ''}',
+                      style: Theme.of(context).textTheme.bodySmall?.copyWith(
                         color: Colors.grey[600],
                       ),
+                    ),
+                    const Text(' | ', style: TextStyle(color: Colors.grey)),
+                    if (hymn.metadata!['category'] != null &&
+                        hymn.metadata!['category'].toString().isNotEmpty)
+                      GestureDetector(
+                        onTap: () {
+                          final category = hymn.metadata!['category'] as String;
+                          if (onCategoryTap != null) {
+                            onCategoryTap!(category);
+                          }
+                        },
+                        child: Row(
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
+                            Text(
+                              'Category: ${hymn.metadata!['category']}',
+                              style: Theme.of(context).textTheme.bodySmall?.copyWith(
+                                color: Theme.of(context).colorScheme.primary,
+                                decoration: TextDecoration.underline,
+                                fontWeight: FontWeight.w500,
+                              ),
+                            ),
+                            const SizedBox(width: 4),
+                            Icon(
+                              Icons.arrow_forward,
+                              size: 14,
+                              color: Theme.of(context).colorScheme.primary,
+                            ),
+                          ],
+                        ),
+                      )
+                    else
+                      Text(
+                        'Category: ${hymn.metadata!['category'] ?? ''}',
+                        style: Theme.of(context).textTheme.bodySmall?.copyWith(
+                          color: Colors.grey[600],
+                        ),
+                      ),
+                  ],
                 ),
                 const SizedBox(height: 24),
               ],

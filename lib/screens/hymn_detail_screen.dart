@@ -6,6 +6,7 @@ import '../models/hymn_song.dart';
 import '../services/hymn_loader_service.dart';
 import '../widgets/hymn_display.dart';
 import '../providers/song_list_provider.dart';
+import 'category_detail_screen.dart';
 
 class HymnDetailScreen extends StatefulWidget {
   final int initialHymnNumber;
@@ -710,6 +711,14 @@ $deepLink
                         transposeOffset: index == _currentPageIndex ? _transposeOffset : 0,
                         showChords: _showChords,
                         hymnIdTag: '${_bookShortNames[_currentBookId] ?? _currentBookId.toUpperCase()}$hymnNumber',
+                        onCategoryTap: (category) {
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                              builder: (context) => CategoryDetailScreen(categoryName: category),
+                            ),
+                          );
+                        },
                       );
                     }
 
