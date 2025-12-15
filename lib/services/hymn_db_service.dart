@@ -95,6 +95,16 @@ class HymnDbService {
     });
   }
 
+  /// Normalize text for phrase search by removing punctuation and extra spaces
+  static String _normalizeForPhraseSearch(String text) {
+    // Remove punctuation and normalize spaces
+    return text
+        .toLowerCase()
+        .replaceAll(RegExp(r'[^\w\s\u4E00-\u9FFF]'), ' ') // Remove punctuation, keep Chinese chars
+        .replaceAll(RegExp(r'\s+'), ' ') // Collapse multiple spaces
+        .trim();
+  }
+
   static Future<List<HymnDb>> searchHymns(String query) async {
     if (query.isEmpty) {
       return [];
@@ -108,25 +118,42 @@ class HymnDbService {
       return [];
     }
 
+    // For single-word queries, use the limit for performance
+    if (searchTerms.length == 1) {
+      return await db.hymnDbs
+          .filter()
+          .fullTextContains(searchTerms.first, caseSensitive: false)
+          .or()
+          .titleContains(searchTerms.first, caseSensitive: false)
+          .sortByNumber()
+          .limit(100)
+          .findAll();
+    }
+
+    // For multi-word phrase searches, don't limit initial results
+    // to ensure we don't miss matches in higher-numbered hymns
     final results = await db.hymnDbs
         .filter()
         .fullTextContains(searchTerms.first, caseSensitive: false)
         .or()
         .titleContains(searchTerms.first, caseSensitive: false)
         .sortByNumber()
-        .limit(100)
         .findAll();
 
-    if (searchTerms.length == 1) {
-      return results;
-    }
+    // Perform phrase search (preserve word order)
+    final normalizedQuery = _normalizeForPhraseSearch(query);
 
-    return results.where((hymn) {
-      final lowerFullText = hymn.fullText.toLowerCase();
-      final lowerTitle = hymn.title.toLowerCase();
-      return searchTerms.every((term) =>
-          lowerFullText.contains(term) || lowerTitle.contains(term));
+    final filteredResults = results.where((hymn) {
+      final normalizedFullText = _normalizeForPhraseSearch(hymn.fullText);
+      final normalizedTitle = _normalizeForPhraseSearch(hymn.title);
+
+      // Check if the phrase appears in order
+      return normalizedFullText.contains(normalizedQuery) ||
+             normalizedTitle.contains(normalizedQuery);
     }).toList();
+
+    // Apply limit after phrase filtering
+    return filteredResults.take(100).toList();
   }
 
   static Future<HymnDb?> getHymnById(String hymnId) async {
