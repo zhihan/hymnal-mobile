@@ -12,15 +12,15 @@
             },
             {
               "chord": "D",
-              "text": "阿， 儿"
+              "text": "阿， 兒"
             },
             {
               "chord": "G",
-              "text": "女 称"
+              "text": "女 稱"
             },
             {
               "chord": "D7",
-              "text": "颂 你"
+              "text": "頌 你"
             },
             {
               "chord": "G",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "D",
-              "text": "教 训；"
+              "text": "教 訓；"
             }
           ]
         },
@@ -52,11 +52,11 @@
             },
             {
               "chord": "D7",
-              "text": "们 欢"
+              "text": "們 歡"
             },
             {
               "chord": "Em",
-              "text": "乐， 因"
+              "text": "樂， 因"
             },
             {
               "chord": "B",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "",
-              "text": "们 归"
+              "text": "們 歸"
             },
             {
               "chord": "D7",
@@ -329,10 +329,11 @@
     "category": "敬拜父",
     "time": "4/4",
     "hymn_code": "354332215567132",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0044_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/47",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/47",
+        "language": "en",
         "category": "h",
         "number": "47",
         "title": "E47"
@@ -340,10 +341,10 @@
     ]
   },
   "raw_sections": [
-    "父阿， 儿女 称颂 你名，",
-    "是 受 恩典 的教 训；",
-    "我们 欢乐， 因你 生命，",
-    "已使 我们 归羊群。",
+    "父阿， 兒女 稱頌 你名，",
+    "是 受 恩典 的教 訓；",
+    "我們 歡樂， 因你 生命，",
+    "已使 我們 歸羊群。",
     "你所给的得救证实，",
     "远超我们的赞美；",
     "我们的心现在直指，",

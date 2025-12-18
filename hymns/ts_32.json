@@ -44,11 +44,11 @@
             },
             {
               "chord": "G",
-              "text": "调 和，"
+              "text": "調 和，"
             },
             {
               "chord": "",
-              "text": "价"
+              "text": "價"
             },
             {
               "chord": "A",
@@ -56,11 +56,11 @@
             },
             {
               "chord": "A7",
-              "text": "宝"
+              "text": "寶"
             },
             {
               "chord": "D",
-              "text": "贵；"
+              "text": "貴；"
             }
           ]
         },
@@ -68,19 +68,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "态"
+              "text": "態"
             },
             {
               "chord": "G",
-              "text": "度、 拣"
+              "text": "度、 揀"
             },
             {
               "chord": "",
-              "text": "选、 喜 悦 全"
+              "text": "選、 喜 悅 全"
             },
             {
               "chord": "C",
-              "text": "与 神"
+              "text": "與 神"
             },
             {
               "chord": "",
@@ -104,7 +104,7 @@
             },
             {
               "chord": "D",
-              "text": "的 帐"
+              "text": "的 帳"
             },
             {
               "chord": "D7",
@@ -353,10 +353,11 @@
     "category": "赞美的话",
     "time": "3/4",
     "hymn_code": "51123321271",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0032_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1082",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1082",
+        "language": "en",
         "category": "h",
         "number": "1082",
         "title": "E1082"
@@ -365,9 +366,9 @@
   },
   "raw_sections": [
     "基 督在 地 生 活 超凡 且佳美，",
-    "祂是 神、人调 和，价值 何宝贵；",
-    "态度、 拣选、 喜 悦 全与 神相合─ 惟",
-    "祂 是那 配 住 神的 帐幕者。",
+    "祂是 神、人調 和，價值 何寶貴；",
+    "態度、 揀選、 喜 悅 全與 神相合─ 惟",
+    "祂 是那 配 住 神的 帳幕者。",
     "\"神，求你保守我，因我投靠你\"─",
     "无论起何风暴，祂安居神里。",
     "\"你是我主我神，我一切好处\"─",

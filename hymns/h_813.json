@@ -477,10 +477,11 @@
     "category": "Study of the Word",
     "time": "3/4",
     "hymn_code": "332343321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0813_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/587",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/587",
+        "language": "cn",
         "category": "ch",
         "number": "587",
         "title": "C587"

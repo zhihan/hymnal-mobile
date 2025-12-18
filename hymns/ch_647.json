@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "你 愿"
+              "text": "你 願"
             },
             {
               "chord": "",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "",
-              "text": "胜 者？"
+              "text": "勝 者？"
             }
           ]
         },
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "愿 否"
+              "text": "願 否"
             },
             {
               "chord": "",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "",
-              "text": "从 者，"
+              "text": "從 者，"
             }
           ]
         },
@@ -64,15 +64,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "路 虽"
+              "text": "路 雖"
             },
             {
               "chord": "D7",
-              "text": "不 尽"
+              "text": "不 盡"
             },
             {
               "chord": "G7",
-              "text": "晓？"
+              "text": "曉？"
             }
           ]
         }
@@ -86,11 +86,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "你 愿"
+              "text": "你 願"
             },
             {
               "chord": "",
-              "text": "否 作 主 得 胜 者，"
+              "text": "否 作 主 得 勝 者，"
             }
           ]
         },
@@ -98,7 +98,7 @@
           "segments": [
             {
               "chord": "F",
-              "text": "满 足"
+              "text": "滿 足"
             },
             {
               "chord": "",
@@ -106,7 +106,7 @@
             },
             {
               "chord": "G",
-              "text": "愿？"
+              "text": "願？"
             }
           ]
         },
@@ -754,10 +754,11 @@
     "category": "属灵的争战",
     "time": "2/4",
     "hymn_code": "5653121656532",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0647_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/894",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/894",
+        "language": "en",
         "category": "h",
         "number": "894",
         "title": "E894"
@@ -765,12 +766,12 @@
     ]
   },
   "raw_sections": [
-    "你 愿否 作主 得胜 者？",
+    "你 願否 作主 得勝 者？",
     "主 正在 呼召！",
-    "愿 否作 主忠 心从 者，",
-    "路 虽不 尽晓？",
-    "你 愿否 作 主 得 胜 者，",
-    "满 足主 心愿？",
+    "願 否作 主忠 心從 者，",
+    "路 雖不 盡曉？",
+    "你 願否 作 主 得 勝 者，",
+    "滿 足主 心願？",
     "主 在呼 召，主 在呼 召，",
     "要 你得 冠冕！",
     "你愿否作主得胜者？",

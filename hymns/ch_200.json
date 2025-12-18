@@ -8,19 +8,19 @@
           "segments": [
             {
               "chord": "D",
-              "text": "现 今"
+              "text": "現 今"
             },
             {
               "chord": "",
-              "text": "神 的 圣"
+              "text": "神 的 聖"
             },
             {
               "chord": "A",
-              "text": "别 之"
+              "text": "別 之"
             },
             {
               "chord": "",
-              "text": "灵，"
+              "text": "靈，"
             }
           ]
         },
@@ -44,7 +44,7 @@
             },
             {
               "chord": "",
-              "text": "灵；"
+              "text": "靈；"
             }
           ]
         },
@@ -52,15 +52,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "将"
+              "text": "將"
             },
             {
               "chord": "D",
-              "text": "我 点"
+              "text": "我 點"
             },
             {
               "chord": "",
-              "text": "活， 赐"
+              "text": "活， 賜"
             },
             {
               "chord": "A",
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "使 我 适 合 神"
+              "text": "使 我 適 合 神"
             },
             {
               "chord": "A7",
@@ -363,10 +363,11 @@
     "category": "圣灵的丰满",
     "time": "4/4",
     "hymn_code": "1323343445176655",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0200_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/244",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/244",
+        "language": "en",
         "category": "h",
         "number": "244",
         "title": "E244"
@@ -374,10 +375,10 @@
     ]
   },
   "raw_sections": [
-    "现 今神 的 圣别 之灵，",
-    "乃是 神的 生命 之灵；",
-    "将我 点活， 赐我 生命，",
-    "使 我 适 合 神所 命定。",
+    "現 今神 的 聖別 之靈，",
+    "乃是 神的 生命 之靈；",
+    "將我 點活， 賜我 生命，",
+    "使 我 適 合 神所 命定。",
     "祂作活水，解我干渴，",
     "永远供我生命水流；",
     "供应基督作我生命，",

@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "爱 何"
+              "text": "愛 何"
             },
             {
               "chord": "",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "D",
-              "text": "广，"
+              "text": "廣，"
             }
           ]
         },
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "神 差 爱 子 来"
+              "text": "神 差 愛 子 來"
             },
             {
               "chord": "Em",
@@ -48,11 +48,11 @@
             },
             {
               "chord": "",
-              "text": "审"
+              "text": "審"
             },
             {
               "chord": "Bm",
-              "text": "判 归"
+              "text": "判 歸"
             },
             {
               "chord": "G",
@@ -68,7 +68,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "祂 为"
+              "text": "祂 為"
             },
             {
               "chord": "",
@@ -88,7 +88,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "爱 路，"
+              "text": "愛 路，"
             },
             {
               "chord": "",
@@ -96,15 +96,15 @@
             },
             {
               "chord": "A7",
-              "text": "门， 今"
+              "text": "門， 今"
             },
             {
               "chord": "D",
-              "text": "正 齐"
+              "text": "正 齊"
             },
             {
               "chord": "",
-              "text": "开，"
+              "text": "開，"
             }
           ]
         },
@@ -112,7 +112,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "无 别"
+              "text": "無 別"
             },
             {
               "chord": "",
@@ -148,7 +148,7 @@
             },
             {
               "chord": "D",
-              "text": "来，"
+              "text": "來，"
             }
           ]
         },
@@ -172,7 +172,7 @@
             },
             {
               "chord": "D",
-              "text": "爱。"
+              "text": "愛。"
             }
           ]
         }
@@ -185,10 +185,11 @@
     "category": "福音",
     "time": "4/4",
     "hymn_code": "33211443321532",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0690_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8690",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8690",
+        "language": "en",
         "category": "h",
         "number": "8690",
         "title": "E8690"
@@ -196,13 +197,13 @@
     ]
   },
   "raw_sections": [
-    "爱 何奇妙， 恩何 深广，",
-    "神 差 爱 子 来此；",
-    "罪 的审判 归祂 身上，",
-    "祂 为你我 代死。",
-    "爱 路，恩门， 今正 齐开，",
-    "无 别拯救 舍此 以外，",
-    "神 心 依依 等待 你来，",
-    "切 莫拒祂恩爱。"
+    "愛 何奇妙， 恩何 深廣，",
+    "神 差 愛 子 來此；",
+    "罪 的審判 歸祂 身上，",
+    "祂 為你我 代死。",
+    "愛 路，恩門， 今正 齊開，",
+    "無 別拯救 舍此 以外，",
+    "神 心 依依 等待 你來，",
+    "切 莫拒祂恩愛。"
   ]
 }

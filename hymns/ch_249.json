@@ -12,11 +12,11 @@
             },
             {
               "chord": "",
-              "text": "银"
+              "text": "銀"
             },
             {
               "chord": "A",
-              "text": "炼 将"
+              "text": "鍊 將"
             },
             {
               "chord": "",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "Bm",
-              "text": "断，"
+              "text": "斷，"
             }
           ]
         },
@@ -56,7 +56,7 @@
             },
             {
               "chord": "D",
-              "text": "来 何"
+              "text": "來 何"
             },
             {
               "chord": "A",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "Bm",
-              "text": "欢，"
+              "text": "歡，"
             }
           ]
         },
@@ -80,7 +80,7 @@
             },
             {
               "chord": "A7",
-              "text": "见 我"
+              "text": "見 我"
             },
             {
               "chord": "D",
@@ -98,7 +98,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 要 看 见 祂 面 对"
+              "text": "我 要 看 見 祂 面 對"
             },
             {
               "chord": "A",
@@ -114,7 +114,7 @@
             },
             {
               "chord": "Em",
-              "text": "说 救"
+              "text": "說 救"
             },
             {
               "chord": "A7",
@@ -138,11 +138,11 @@
             },
             {
               "chord": "D",
-              "text": "见 祂"
+              "text": "見 祂"
             },
             {
               "chord": "",
-              "text": "面 对"
+              "text": "面 對"
             },
             {
               "chord": "Em",
@@ -162,7 +162,7 @@
             },
             {
               "chord": "G",
-              "text": "说 救"
+              "text": "說 救"
             },
             {
               "chord": "A7",
@@ -407,10 +407,11 @@
     "category": "得救的证实与快乐",
     "time": "3/4",
     "hymn_code": "3343252117143262",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0249_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/316",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/316",
+        "language": "en",
         "category": "h",
         "number": "316",
         "title": "E316"
@@ -418,14 +419,14 @@
     ]
   },
   "raw_sections": [
-    "有 日银链 将要 折断，",
+    "有 日銀鍊 將要 折斷，",
     "我 就 不再 如此 歌唱；",
-    "但 我 醒来 何等 喜欢，",
-    "竟 然 得以 面见 我王。",
-    "我 要 看 见 祂 面 对面，",
-    "我 要 述说 救我 恩典；",
-    "我要 看见 祂面 对面，",
-    "我要 述说 救我 恩典。",
+    "但 我 醒來 何等 喜歡，",
+    "竟 然 得以 面見 我王。",
+    "我 要 看 見 祂 面 對面，",
+    "我 要 述說 救我 恩典；",
+    "我要 看見 祂面 對面，",
+    "我要 述說 救我 恩典。",
     "有日地上帐棚倾覆，",
     "我也不知何日何载；",
     "但我确知有个去处，",

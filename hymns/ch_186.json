@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "神 圣、"
+              "text": "神 聖、"
             },
             {
               "chord": "",
-              "text": "爱"
+              "text": "愛"
             },
             {
               "chord": "A7",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "A",
-              "text": "馐，"
+              "text": "饈，"
             }
           ]
         },
@@ -40,7 +40,7 @@
             },
             {
               "chord": "A",
-              "text": "于 恩"
+              "text": "於 恩"
             },
             {
               "chord": "D",
@@ -64,11 +64,11 @@
             },
             {
               "chord": "D",
-              "text": "这"
+              "text": "這"
             },
             {
               "chord": "A",
-              "text": "饼 与"
+              "text": "餅 與"
             },
             {
               "chord": "D",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "Bm",
-              "text": "们 将"
+              "text": "們 將"
             },
             {
               "chord": "D",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "A7",
-              "text": "记"
+              "text": "記"
             },
             {
               "chord": "D",
@@ -299,10 +299,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "123343323211253",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0186_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/228",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/228",
+        "language": "en",
         "category": "h",
         "number": "228",
         "title": "E228"
@@ -310,10 +311,10 @@
     ]
   },
   "raw_sections": [
-    "神 圣、爱的珍馐，",
-    "乃是 出于 恩典；",
-    "藉著 享受这饼 与酒，",
-    "我们 将你记念。",
+    "神 聖、愛的珍饈，",
+    "乃是 出於 恩典；",
+    "藉著 享受這餅 與酒，",
+    "我們 將你記念。",
     "在此我们都愿",
     "从你得以看见：",
     "你父对你所有心愿，",

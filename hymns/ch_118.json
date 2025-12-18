@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "从 前"
+              "text": "從 前"
             },
             {
               "chord": "",
-              "text": "那 戴 荆"
+              "text": "那 戴 荊"
             },
             {
               "chord": "C",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "",
-              "text": "头，"
+              "text": "頭，"
             }
           ]
         },
@@ -32,7 +32,7 @@
             },
             {
               "chord": "G",
-              "text": "戴 荣"
+              "text": "戴 榮"
             },
             {
               "chord": "",
@@ -52,11 +52,11 @@
             },
             {
               "chord": "G",
-              "text": "耶 稣，"
+              "text": "耶 穌，"
             },
             {
               "chord": "G7",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "C",
@@ -241,10 +241,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "3455132161655132",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0118_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/141",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/141",
+        "language": "en",
         "category": "h",
         "number": "141",
         "title": "E141"
@@ -252,9 +253,9 @@
     ]
   },
   "raw_sections": [
-    "从 前那 戴 荆棘 的头，",
-    "今戴 荣耀 冠冕；",
-    "救 主耶 稣，我 们元 首，",
+    "從 前那 戴 荊棘 的頭，",
+    "今戴 榮耀 冠冕；",
+    "救 主耶 穌，我 們元 首，",
     "你 今已 升高 天。",
     "你是地上圣徒之乐，",
     "你是天上之光；",

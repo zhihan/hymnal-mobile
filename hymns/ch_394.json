@@ -36,7 +36,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "前 要 的 是 医 治，"
+              "text": "前 要 的 是 醫 治，"
             }
           ]
         },
@@ -64,11 +64,11 @@
             },
             {
               "chord": "A7",
-              "text": "贪 求"
+              "text": "貪 求"
             },
             {
               "chord": "D",
-              "text": "恩 赐，"
+              "text": "恩 賜，"
             }
           ]
         },
@@ -80,7 +80,7 @@
             },
             {
               "chord": "G",
-              "text": "赐 恩"
+              "text": "賜 恩"
             },
             {
               "chord": "D",
@@ -92,7 +92,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "前 我 寻 求 能 力，"
+              "text": "前 我 尋 求 能 力，"
             }
           ]
         },
@@ -122,7 +122,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "永 远 举 起"
+              "text": "永 遠 舉 起"
             },
             {
               "chord": "G",
@@ -130,7 +130,7 @@
             },
             {
               "chord": "D",
-              "text": "稣，"
+              "text": "穌，"
             }
           ]
         },
@@ -138,7 +138,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "赞 美 主 不"
+              "text": "讚 美 主 不"
             },
             {
               "chord": "A",
@@ -154,7 +154,7 @@
             },
             {
               "chord": "D7",
-              "text": "在 于"
+              "text": "在 於"
             },
             {
               "chord": "G",
@@ -618,10 +618,11 @@
     "category": "经历基督",
     "time": "6/8",
     "hymn_code": "15123132165",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0394_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/513",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/513",
+        "language": "en",
         "category": "h",
         "number": "513",
         "title": "E513"
@@ -631,15 +632,15 @@
   "raw_sections": [
     "前 要的 是 祝 福，",
     "今 要主 自己；",
-    "前 要 的 是 医 治，",
+    "前 要 的 是 醫 治，",
     "今 要主 而已；",
-    "前 我贪 求恩 赐，",
-    "今 要赐 恩者；",
-    "前 我 寻 求 能 力，",
+    "前 我貪 求恩 賜，",
+    "今 要賜 恩者；",
+    "前 我 尋 求 能 力，",
     "今 要全 能者。",
-    "永 远 举 起耶稣，",
-    "赞 美 主 不歇；",
-    "一 切在 于基督，",
+    "永 遠 舉 起耶穌，",
+    "讚 美 主 不歇；",
+    "一 切在 於基督，",
     "主 是我 一切。",
     "前常用手抓主，",
     "今主手牵我；",

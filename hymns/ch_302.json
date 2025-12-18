@@ -16,7 +16,7 @@
             },
             {
               "chord": "G",
-              "text": "奥 秘，"
+              "text": "奧 祕，"
             }
           ]
         },
@@ -24,7 +24,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "你 灵"
+              "text": "你 靈"
             },
             {
               "chord": "A7",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "D",
-              "text": "灵！"
+              "text": "靈！"
             }
           ]
         },
@@ -48,11 +48,11 @@
             },
             {
               "chord": "Em",
-              "text": "实"
+              "text": "實"
             },
             {
               "chord": "G",
-              "text": "际，"
+              "text": "際，"
             }
           ]
         },
@@ -60,7 +60,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "二 灵"
+              "text": "二 靈"
             },
             {
               "chord": "D7",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "G",
-              "text": "灵！"
+              "text": "靈！"
             }
           ]
         }
@@ -309,10 +309,11 @@
     "category": "羡慕",
     "time": "4/4",
     "hymn_code": "55661177165",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0302_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/782",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/782",
+        "language": "en",
         "category": "h",
         "number": "782",
         "title": "E782*"
@@ -320,10 +321,10 @@
     ]
   },
   "raw_sections": [
-    "主 阿，何 等奥 秘，",
-    "你 灵在 我灵！",
-    "也 是何 等实际，",
-    "二 灵成 一灵！",
+    "主 阿，何 等奧 祕，",
+    "你 靈在 我靈！",
+    "也 是何 等實際，",
+    "二 靈成 一靈！",
     "我能靠灵行动，",
     "因灵而属灵；",
     "也能凭灵事奉，",

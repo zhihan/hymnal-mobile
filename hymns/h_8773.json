@@ -1,6 +1,6 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/8773",
-  "title": "When I've run the race before me",
+  "url": "https://www.hymnal.net/en/hymn/h/8773",
+  "title": "When I’ve run the race before me",
   "verses": [
     {
       "lines": [
@@ -279,7 +279,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "The Holy City e'er"
+              "text": "The Holy City e’er"
             }
           ]
         },
@@ -317,7 +317,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Just by thinking of that city, I'm restored;"
+              "text": "Just by thinking of that city, I’m restored;"
             }
           ]
         },
@@ -371,7 +371,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "I pursue the prize, God's highest to obtain;"
+              "text": "I pursue the prize, God’s highest to obtain;"
             }
           ]
         },
@@ -409,7 +409,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "By His love and through His grace I'll"
+              "text": "By His love and through His grace I’ll"
             }
           ]
         },
@@ -461,6 +461,7 @@
     "category": "Encouragement",
     "time": "4/4",
     "hymn_code": "551111776656543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e8773_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ch/773",
@@ -488,21 +489,21 @@
     "While afflicted, I rejoice,",
     "For a better land I soon expect to see;",
     "Though all others seek for earthly gain,",
-    "The Holy City e'er",
+    "The Holy City e’er",
     "Will my aspiration be.",
     "Though my feet are often wearied",
     "On the rough and rugged path,",
-    "Just by thinking of that city, I'm restored;",
+    "Just by thinking of that city, I’m restored;",
     "Though my eyes be filled with tears,",
     "My heart will evermore be fixed",
     "On that City, my reward.",
     "With strong purpose I now wrestle,",
     "And I run toward the goal;",
-    "I pursue the prize, God's highest to obtain;",
+    "I pursue the prize, God’s highest to obtain;",
     "Pressing forward toward the mark,",
     "I run forgetting all behind,",
     "Thus the Holy City gain.",
-    "By His love and through His grace I'll",
+    "By His love and through His grace I’ll",
     "In the Holy City live—",
     "New Jerusalem, New Jerusalem;",
     "All saints leaping, singing, shouting,",

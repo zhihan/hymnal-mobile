@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 是 何 等 圣"
+              "text": "你 是 何 等 聖"
             },
             {
               "chord": "A",
-              "text": "别！"
+              "text": "別！"
             }
           ]
         },
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "D",
@@ -48,11 +48,11 @@
             },
             {
               "chord": "G",
-              "text": "与 你"
+              "text": "與 你"
             },
             {
               "chord": "D",
-              "text": "并 列，"
+              "text": "並 列，"
             }
           ]
         },
@@ -68,7 +68,7 @@
             },
             {
               "chord": "A",
-              "text": "绝！"
+              "text": "絕！"
             }
           ]
         },
@@ -92,7 +92,7 @@
             },
             {
               "chord": "D",
-              "text": "圣，"
+              "text": "聖，"
             }
           ]
         },
@@ -100,11 +100,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 是 圣 中 之"
+              "text": "你 是 聖 中 之"
             },
             {
               "chord": "A",
-              "text": "圣！"
+              "text": "聖！"
             }
           ]
         },
@@ -132,15 +132,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "远"
+              "text": "遠"
             },
             {
               "chord": "A",
-              "text": "超 万"
+              "text": "超 萬"
             },
             {
               "chord": "A7",
-              "text": "有、 众"
+              "text": "有、 眾"
             },
             {
               "chord": "D",
@@ -437,10 +437,11 @@
     "category": "敬拜父",
     "time": "4/4",
     "hymn_code": "13556531714332",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0010_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/15",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/15",
+        "language": "en",
         "category": "h",
         "number": "15",
         "title": "E15"
@@ -449,13 +450,13 @@
   },
   "raw_sections": [
     "哦 神，你是 何超 越，",
-    "你 是 何 等 圣别！",
-    "无何 能与 你并 列，",
-    "你 的 一切 超绝！",
-    "你是 宇宙 的至圣，",
-    "你 是 圣 中 之圣！",
+    "你 是 何 等 聖別！",
+    "無何 能與 你並 列，",
+    "你 的 一切 超絕！",
+    "你是 宇宙 的至聖，",
+    "你 是 聖 中 之聖！",
     "你的 永能 和神 性，",
-    "远超 万有、 众生！",
+    "遠超 萬有、 眾生！",
     "你是圣而有分别，",
     "非仅无罪圣洁；",
     "非仅丝毫无残缺，",

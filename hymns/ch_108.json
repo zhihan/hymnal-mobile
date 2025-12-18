@@ -12,11 +12,11 @@
             },
             {
               "chord": "",
-              "text": "基 督、 亲"
+              "text": "基 督、 親"
             },
             {
               "chord": "G",
-              "text": "爱"
+              "text": "愛"
             },
             {
               "chord": "A",
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "D",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "F♯m",
-              "text": "赎，"
+              "text": "贖，"
             }
           ]
         },
@@ -84,7 +84,7 @@
             },
             {
               "chord": "A",
-              "text": "们"
+              "text": "們"
             },
             {
               "chord": "E",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "A",
-              "text": "尝。"
+              "text": "嘗。"
             }
           ]
         },
@@ -108,11 +108,11 @@
             },
             {
               "chord": "G",
-              "text": "将"
+              "text": "將"
             },
             {
               "chord": "D",
-              "text": "敌"
+              "text": "敵"
             },
             {
               "chord": "Em",
@@ -132,7 +132,7 @@
             },
             {
               "chord": "G",
-              "text": "上 宝"
+              "text": "上 寶"
             },
             {
               "chord": "A",
@@ -144,15 +144,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "还 要 将"
+              "text": "還 要 將"
             },
             {
               "chord": "D",
-              "text": "我 带"
+              "text": "我 帶"
             },
             {
               "chord": "B7",
-              "text": "进 荣"
+              "text": "進 榮"
             },
             {
               "chord": "Em",
@@ -164,7 +164,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "进 入"
+              "text": "進 入"
             },
             {
               "chord": "Em",
@@ -180,7 +180,7 @@
             },
             {
               "chord": "D",
-              "text": "国。"
+              "text": "國。"
             }
           ]
         }
@@ -403,10 +403,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "3435123216531232",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0108_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/126",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/126",
+        "language": "en",
         "category": "h",
         "number": "126",
         "title": "E126"
@@ -414,14 +415,14 @@
     ]
   },
   "raw_sections": [
-    "神 的基 督、 亲爱救主，",
-    "我 们向你 歌唱；",
-    "你 曾流血、 成功 救赎，",
-    "福 杯我们得尝。",
-    "你 用 大能 已将敌剿，",
-    "今 登天上 宝座；",
-    "还 要 将我 带进 荣耀，",
-    "进 入你的天国。",
+    "神 的基 督、 親愛救主，",
+    "我 們向你 歌唱；",
+    "你 曾流血、 成功 救贖，",
+    "福 杯我們得嘗。",
+    "你 用 大能 已將敵剿，",
+    "今 登天上 寶座；",
+    "還 要 將我 帶進 榮耀，",
+    "進 入你的天國。",
     "神的基督、亲爱救主，",
     "我们向你歌唱；",
     "你已进攻死的领土，",

@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "与 主"
+              "text": "與 主"
             },
             {
               "chord": "",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "",
-              "text": "复"
+              "text": "復"
             },
             {
               "chord": "C",
@@ -32,15 +32,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "还 有 甚"
+              "text": "還 有 甚"
             },
             {
               "chord": "A",
-              "text": "么 留"
+              "text": "麼 留"
             },
             {
               "chord": "",
-              "text": "给 我 去"
+              "text": "給 我 去"
             },
             {
               "chord": "D",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "",
-              "text": "奋 斗 击"
+              "text": "奮 鬥 擊"
             },
             {
               "chord": "C",
@@ -88,11 +88,11 @@
             },
             {
               "chord": "",
-              "text": "举"
+              "text": "舉"
             },
             {
               "chord": "G",
-              "text": "动。"
+              "text": "動。"
             }
           ]
         },
@@ -100,11 +100,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "",
-              "text": "归 于"
+              "text": "歸 於"
             },
             {
               "chord": "G",
@@ -313,10 +313,11 @@
     "category": "与基督的联合",
     "time": "9/4",
     "hymn_code": "545351716671266717",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0364_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/483",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/483",
+        "language": "en",
         "category": "h",
         "number": "483",
         "title": "E483"
@@ -324,11 +325,11 @@
     ]
   },
   "raw_sections": [
-    "与 主同 葬， 也一 同复活，",
-    "还 有 甚么 留给 我 去作？",
-    "只 要我不 再奋 斗 击空，",
-    "只 要 我照 新生 而举动。",
-    "荣 耀归 于神！",
+    "與 主同 葬， 也一 同復活，",
+    "還 有 甚麼 留給 我 去作？",
+    "只 要我不 再奮 鬥 擊空，",
+    "只 要 我照 新生 而舉動。",
+    "榮 耀歸 於神！",
     "与主我的元首同复活，",
     "我今在圣洁路上走着；",
     "当我向前时，我就想到：",

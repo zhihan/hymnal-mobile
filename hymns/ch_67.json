@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "无 名"
+              "text": "無 名"
             },
             {
               "chord": "A",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "D",
-              "text": "无！"
+              "text": "無！"
             }
           ]
         },
@@ -52,15 +52,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "祂 离 荣 耀"
+              "text": "祂 離 榮 耀"
             },
             {
               "chord": "A",
-              "text": "来 世"
+              "text": "來 世"
             },
             {
               "chord": "A7",
-              "text": "界 时，"
+              "text": "界 時，"
             }
           ]
         },
@@ -68,15 +68,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "神 将"
+              "text": "神 將"
             },
             {
               "chord": "G",
-              "text": "这 名"
+              "text": "這 名"
             },
             {
               "chord": "D",
-              "text": "赐"
+              "text": "賜"
             },
             {
               "chord": "A7",
@@ -98,7 +98,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 们 爱 唱： 基 督"
+              "text": "我 們 愛 唱： 基 督"
             },
             {
               "chord": "A7",
@@ -110,19 +110,19 @@
           "segments": [
             {
               "chord": "D",
-              "text": "并 且"
+              "text": "並 且"
             },
             {
               "chord": "",
-              "text": "称 祂"
+              "text": "稱 祂"
             },
             {
               "chord": "Bm",
-              "text": "为 耶"
+              "text": "為 耶"
             },
             {
               "chord": "A",
-              "text": "稣；"
+              "text": "穌；"
             }
           ]
         },
@@ -130,11 +130,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "因 为"
+              "text": "因 為"
             },
             {
               "chord": "",
-              "text": "从 来"
+              "text": "從 來"
             },
             {
               "chord": "A",
@@ -150,11 +150,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "这 宝、"
+              "text": "這 寶、"
             },
             {
               "chord": "G",
-              "text": "这 甜，"
+              "text": "這 甜，"
             }
           ]
         },
@@ -170,7 +170,7 @@
             },
             {
               "chord": "D",
-              "text": "稣。』"
+              "text": "穌。』"
             }
           ]
         }
@@ -431,10 +431,11 @@
     "category": "赞美主",
     "time": "2/4",
     "hymn_code": "1231232123432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0067_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8067",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8067",
+        "language": "en",
         "category": "h",
         "number": "8067",
         "title": "E8067"
@@ -442,15 +443,15 @@
     ]
   },
   "raw_sections": [
-    "大 地无 名甜 至如 此！",
-    "名 甜至 此高天无！",
-    "祂 离 荣 耀来 世界 时，",
-    "神 将这 名赐救主。",
-    "我 们 爱 唱： 基 督神 子，",
-    "并 且称 祂为 耶稣；",
-    "因 为从 来未 有文 字，",
-    "这 宝、这 甜，",
-    "如『耶稣。』",
+    "大 地無 名甜 至如 此！",
+    "名 甜至 此高天無！",
+    "祂 離 榮 耀來 世界 時，",
+    "神 將這 名賜救主。",
+    "我 們 愛 唱： 基 督神 子，",
+    "並 且稱 祂為 耶穌；",
+    "因 為從 來未 有文 字，",
+    "這 寶、這 甜，",
+    "如『耶穌。』",
     "当人将祂挂在木上，",
     "他们同时挂这名，",
     "好叫天下都能欣赏",

@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "G",
-              "text": "当 我"
+              "text": "當 我"
             },
             {
               "chord": "",
-              "text": "们 开 口"
+              "text": "們 開 口"
             },
             {
               "chord": "D",
-              "text": "赞"
+              "text": "讚"
             },
             {
               "chord": "D7",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "",
-              "text": "著 荣"
+              "text": "著 榮"
             },
             {
               "chord": "D",
@@ -48,19 +48,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "当"
+              "text": "當"
             },
             {
               "chord": "G",
-              "text": "欢 声"
+              "text": "歡 聲"
             },
             {
               "chord": "G7",
-              "text": "响 彻"
+              "text": "響 徹"
             },
             {
               "chord": "C",
-              "text": "云 霄，"
+              "text": "雲 霄，"
             }
           ]
         },
@@ -88,11 +88,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 们 是 活 神"
+              "text": "我 們 是 活 神"
             },
             {
               "chord": "D",
-              "text": "见 证，"
+              "text": "見 證，"
             }
           ]
         },
@@ -100,7 +100,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "该 让 世 人 知"
+              "text": "該 讓 世 人 知"
             },
             {
               "chord": "G",
@@ -116,11 +116,11 @@
             },
             {
               "chord": "G7",
-              "text": "军 必"
+              "text": "軍 必"
             },
             {
               "chord": "C",
-              "text": "溃 散，"
+              "text": "潰 散，"
             }
           ]
         },
@@ -128,15 +128,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "闻"
+              "text": "聞"
             },
             {
               "chord": "G",
-              "text": "声 四"
+              "text": "聲 四"
             },
             {
               "chord": "D7",
-              "text": "处 窜"
+              "text": "處 竄"
             },
             {
               "chord": "G",
@@ -363,10 +363,11 @@
     "category": "赞美的话",
     "time": "4/4",
     "hymn_code": "5565117711432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0001_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1095",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1095",
+        "language": "en",
         "category": "h",
         "number": "1095",
         "title": "E1095"
@@ -374,14 +375,14 @@
     ]
   },
   "raw_sections": [
-    "当 我们 开 口赞美，",
-    "主就 得著 荣耀；",
-    "当欢 声响 彻云 霄，",
+    "當 我們 開 口讚美，",
+    "主就 得著 榮耀；",
+    "當歡 聲響 徹雲 霄，",
     "天使 拍手 叫好！",
-    "我 们 是 活 神见 证，",
-    "该 让 世 人 知道；",
-    "撒 但 全军 必溃 散，",
-    "闻声 四处 窜逃。",
+    "我 們 是 活 神見 證，",
+    "該 讓 世 人 知道；",
+    "撒 但 全軍 必潰 散，",
+    "聞聲 四處 竄逃。",
     "我们闭口就失败，",
     "换来魔鬼嘲笑；",
     "因此为何不开火，",

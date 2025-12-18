@@ -24,7 +24,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "虽 然"
+              "text": "雖 然"
             },
             {
               "chord": "Bm",
@@ -48,11 +48,11 @@
             },
             {
               "chord": "",
-              "text": "脚 踪 步 步"
+              "text": "腳 蹤 步 步"
             },
             {
               "chord": "Bm",
-              "text": "追 随，"
+              "text": "追 隨，"
             }
           ]
         },
@@ -94,7 +94,7 @@
             },
             {
               "chord": "D",
-              "text": "随，"
+              "text": "隨，"
             }
           ]
         },
@@ -106,7 +106,7 @@
             },
             {
               "chord": "Bm",
-              "text": "跟 随"
+              "text": "跟 隨"
             },
             {
               "chord": "Em",
@@ -114,7 +114,7 @@
             },
             {
               "chord": "A7",
-              "text": "稣；"
+              "text": "穌；"
             }
           ]
         },
@@ -134,7 +134,7 @@
             },
             {
               "chord": "D",
-              "text": "随，"
+              "text": "隨，"
             }
           ]
         },
@@ -391,10 +391,11 @@
     "category": "经历基督",
     "time": "4/4",
     "hymn_code": "5671321611353232",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0428_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/587",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/587",
+        "language": "en",
         "category": "h",
         "number": "587",
         "title": "E587"
@@ -403,12 +404,12 @@
   },
   "raw_sections": [
     "跟 主行 走， 心 中甜 美，",
-    "虽 然身 外有 苦楚；",
-    "主 的脚 踪 步 步追 随，",
+    "雖 然身 外有 苦楚；",
+    "主 的腳 蹤 步 步追 隨，",
     "天 天跟 主走 窄路。",
-    "步 步 追，步 步随，",
-    "步 步跟 随耶稣；",
-    "天 天追，天 天随，",
+    "步 步 追，步 步隨，",
+    "步 步跟 隨耶穌；",
+    "天 天追，天 天隨，",
     "天 天行 走窄路。",
     "跟主行走，必得光辉，",
     "必见晨光到日午；",

@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "新 约"
+              "text": "新 約"
             },
             {
               "chord": "",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "A",
-              "text": "灵；"
+              "text": "靈；"
             }
           ]
         },
@@ -48,11 +48,11 @@
             },
             {
               "chord": "",
-              "text": "乃 是 将 人"
+              "text": "乃 是 將 人"
             },
             {
               "chord": "A",
-              "text": "杀 死，"
+              "text": "殺 死，"
             }
           ]
         },
@@ -64,7 +64,7 @@
             },
             {
               "chord": "D",
-              "text": "灵 是"
+              "text": "靈 是"
             },
             {
               "chord": "A7",
@@ -100,7 +100,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "里 面"
+              "text": "裡 面"
             },
             {
               "chord": "D",
@@ -108,7 +108,7 @@
             },
             {
               "chord": "E7",
-              "text": "才 算"
+              "text": "纔 算"
             },
             {
               "chord": "A",
@@ -128,11 +128,11 @@
             },
             {
               "chord": "",
-              "text": "旧 的"
+              "text": "舊 的"
             },
             {
               "chord": "G",
-              "text": "仪 文，"
+              "text": "儀 文，"
             }
           ]
         },
@@ -140,11 +140,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "乃 是 照 灵"
+              "text": "乃 是 照 靈"
             },
             {
               "chord": "A7",
-              "text": "新 样"
+              "text": "新 樣"
             },
             {
               "chord": "D",
@@ -371,10 +371,11 @@
     "category": "事奉",
     "time": "4/4",
     "hymn_code": "3653121765135432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0654_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/908",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/908",
+        "language": "en",
         "category": "h",
         "number": "908",
         "title": "E908"
@@ -382,14 +383,14 @@
     ]
   },
   "raw_sections": [
-    "新 约之 下 所 有事 奉，",
-    "不 在字 句只 在灵；",
-    "字 句乃 是 将 人杀 死，",
-    "惟 有灵 是叫 人生。",
+    "新 約之 下 所 有事 奉，",
+    "不 在字 句只 在靈；",
+    "字 句乃 是 將 人殺 死，",
+    "惟 有靈 是叫 人生。",
     "外 面作 的全 都不 算，",
-    "里 面作 的才 算是；",
-    "不 是按 著旧 的仪 文，",
-    "乃 是 照 灵新 样式。",
+    "裡 面作 的纔 算是；",
+    "不 是按 著舊 的儀 文，",
+    "乃 是 照 靈新 樣式。",
     "不是仅借外面教导，",
     "乃靠里面的恩膏；",
     "不是仅借外面样式，",

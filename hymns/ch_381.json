@@ -28,7 +28,7 @@
             },
             {
               "chord": "",
-              "text": "我 里"
+              "text": "我 裡"
             },
             {
               "chord": "D",
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "带 著"
+              "text": "帶 著"
             },
             {
               "chord": "D7",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "G",
-              "text": "丰 盛，"
+              "text": "豐 盛，"
             }
           ]
         },
@@ -56,7 +56,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "来 将"
+              "text": "來 將"
             },
             {
               "chord": "A7",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "D",
-              "text": "满。"
+              "text": "滿。"
             }
           ]
         },
@@ -72,7 +72,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 的 圣 别"
+              "text": "你 的 聖 別"
             },
             {
               "chord": "G",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "G",
-              "text": "圣；"
+              "text": "聖；"
             }
           ]
         },
@@ -100,7 +100,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 的 复 活 大 能，"
+              "text": "你 的 復 活 大 能，"
             }
           ]
         },
@@ -116,7 +116,7 @@
             },
             {
               "chord": "G",
-              "text": "胜。"
+              "text": "勝。"
             }
           ]
         }
@@ -479,10 +479,11 @@
     "category": "经历基督",
     "time": "4/4",
     "hymn_code": "33321643217",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0381_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/841",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/841",
+        "language": "en",
         "category": "h",
         "number": "841",
         "title": "E841"
@@ -491,13 +492,13 @@
   },
   "raw_sections": [
     "主， 你是 我生 命，",
-    "活 在我 里面；",
-    "带 著神 的丰 盛，",
-    "来 将我 充满。",
-    "你 的 圣 别性 情，",
-    "使 我能 成圣；",
-    "你 的 复 活 大 能，",
-    "使 我能 得胜。",
+    "活 在我 裡面；",
+    "帶 著神 的豐 盛，",
+    "來 將我 充滿。",
+    "你 的 聖 別性 情，",
+    "使 我能 成聖；",
+    "你 的 復 活 大 能，",
+    "使 我能 得勝。",
     "你这生命流通，",
     "我就蒙光照，",
     "使我活在光中，",

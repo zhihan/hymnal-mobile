@@ -12,11 +12,11 @@
             },
             {
               "chord": "",
-              "text": "荣 耀！ 何 等"
+              "text": "榮 耀！ 何 等"
             },
             {
               "chord": "E",
-              "text": "神 圣！"
+              "text": "神 聖！"
             }
           ]
         },
@@ -28,7 +28,7 @@
             },
             {
               "chord": "A",
-              "text": "永 远"
+              "text": "永 遠"
             },
             {
               "chord": "E7",
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "丰 富、 无 限、 坚 强、"
+              "text": "豐 富、 無 限、 堅 強、"
             },
             {
               "chord": "E",
@@ -56,7 +56,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "圣 洁、"
+              "text": "聖 潔、"
             },
             {
               "chord": "A",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "C♯7",
-              "text": "丰 盛，"
+              "text": "豐 盛，"
             }
           ]
         },
@@ -100,11 +100,11 @@
             },
             {
               "chord": "A",
-              "text": "在 于"
+              "text": "在 於"
             },
             {
               "chord": "E7",
-              "text": "这 生"
+              "text": "這 生"
             },
             {
               "chord": "A",
@@ -445,10 +445,11 @@
     "category": "经历神",
     "time": "4/4",
     "hymn_code": "1231345517653221",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0443_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/602",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/602",
+        "language": "en",
         "category": "h",
         "number": "602",
         "title": "E602"
@@ -456,12 +457,12 @@
     ]
   },
   "raw_sections": [
-    "何 等荣 耀！ 何 等神 圣！",
-    "神 是永 远的 生命！",
-    "丰 富、 无 限、 坚 强、有 能、",
-    "圣 洁、慈 仁又 光明！",
-    "祂 的本 性、祂 的丰 盛，",
-    "全 都在 于这 生命。",
+    "何 等榮 耀！ 何 等神 聖！",
+    "神 是永 遠的 生命！",
+    "豐 富、 無 限、 堅 強、有 能、",
+    "聖 潔、慈 仁又 光明！",
+    "祂 的本 性、祂 的豐 盛，",
+    "全 都在 於這 生命。",
     "何等慈爱！何等恩典！",
     "神之于人是生命！",
     "祂要进入人的里面，",

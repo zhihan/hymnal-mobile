@@ -16,11 +16,11 @@
             },
             {
               "chord": "C",
-              "text": "爱， 过"
+              "text": "愛， 過"
             },
             {
               "chord": "G",
-              "text": "于 人"
+              "text": "於 人"
             },
             {
               "chord": "",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "D7",
-              "text": "耶 稣！"
+              "text": "耶 穌！"
             },
             {
               "chord": "G",
@@ -64,11 +64,11 @@
             },
             {
               "chord": "",
-              "text": "的 高、 深、 长、"
+              "text": "的 高、 深、 長、"
             },
             {
               "chord": "G",
-              "text": "阔，"
+              "text": "闊，"
             }
           ]
         },
@@ -88,7 +88,7 @@
             },
             {
               "chord": "C",
-              "text": "显 越"
+              "text": "顯 越"
             },
             {
               "chord": "",
@@ -401,10 +401,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "5117665453",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0134_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/154",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/154",
+        "language": "en",
         "category": "h",
         "number": "154",
         "title": "E154"
@@ -412,10 +413,10 @@
     ]
   },
   "raw_sections": [
-    "你 的大爱， 过于 人所 能 度，",
-    "我救 主耶 稣！但 不堪 的 我，",
-    "真 要 知道 祂的 高、 深、 长、阔，",
-    "好 叫 祂的 能力 越显 越多",
+    "你 的大愛， 過於 人所 能 度，",
+    "我救 主耶 穌！但 不堪 的 我，",
+    "真 要 知道 祂的 高、 深、 長、闊，",
+    "好 叫 祂的 能力 越顯 越多",
     "在我身上！",
     "你的慈爱，过于人所能论，",
     "我救主耶稣！但我的嘴唇",

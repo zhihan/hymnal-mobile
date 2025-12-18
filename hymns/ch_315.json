@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "嘴 唇"
+              "text": "嘴 脣"
             },
             {
               "chord": "",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "A7",
-              "text": "洁、"
+              "text": "潔、"
             },
             {
               "chord": "D",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "D",
-              "text": "洁，"
+              "text": "潔，"
             }
           ]
         },
@@ -48,7 +48,7 @@
             },
             {
               "chord": "D",
-              "text": "败、 都"
+              "text": "敗、 都"
             },
             {
               "chord": "E7",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "A",
-              "text": "秽；"
+              "text": "穢；"
             }
           ]
         },
@@ -80,11 +80,11 @@
             },
             {
               "chord": "D",
-              "text": "销"
+              "text": "銷"
             },
             {
               "chord": "G",
-              "text": "灭，"
+              "text": "滅，"
             }
           ]
         },
@@ -319,10 +319,11 @@
     "category": "羡慕",
     "time": "4/4",
     "hymn_code": "33343554344433445",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0315_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8315",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8315",
+        "language": "en",
         "category": "h",
         "number": "8315",
         "title": "E8315"
@@ -330,9 +331,9 @@
     ]
   },
   "raw_sections": [
-    "嘴 唇不洁、心意不洁，",
-    "都 是失败、 都是 污秽；",
-    "前所 希望 今已销灭，",
+    "嘴 脣不潔、心意不潔，",
+    "都 是失敗、 都是 污穢；",
+    "前所 希望 今已銷滅，",
     "主，你 是否仍有恩惠？",
     "圣洁里面仍有行为，",
     "谦卑时候仍凭自己；",

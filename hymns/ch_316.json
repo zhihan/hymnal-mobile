@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "当 我"
+              "text": "當 我"
             },
             {
               "chord": "",
@@ -36,7 +36,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "可 怜！"
+              "text": "可 憐！"
             },
             {
               "chord": "",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "C♯",
-              "text": "觉"
+              "text": "覺"
             },
             {
               "chord": "F♯m",
@@ -108,7 +108,7 @@
             },
             {
               "chord": "C♯7",
-              "text": "记"
+              "text": "記"
             },
             {
               "chord": "F♯m",
@@ -152,7 +152,7 @@
             },
             {
               "chord": "D",
-              "text": "许 自"
+              "text": "許 自"
             },
             {
               "chord": "Em",
@@ -771,10 +771,11 @@
     "category": "羡慕",
     "time": "3/4",
     "hymn_code": "123542123436511712",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0316_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8316",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8316",
+        "language": "en",
         "category": "h",
         "number": "8316",
         "title": "E8316"
@@ -782,12 +783,12 @@
     ]
   },
   "raw_sections": [
-    "当 我蒙恩 能彀施恩，",
-    "可 怜！我竟自己 知道！",
+    "當 我蒙恩 能彀施恩，",
+    "可 憐！我竟自己 知道！",
     "我 是如何 超越 本分，",
-    "自 己觉得、自己记牢！",
+    "自 己覺得、自己記牢！",
     "我 想我是 活在 神前，",
-    "但 我暗许 自己敬虔！",
+    "但 我暗許 自己敬虔！",
     "我的一生充满试炼，",
     "大至不是常人可忍；",
     "人虽不知我的苦艰，",

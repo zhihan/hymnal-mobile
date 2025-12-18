@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
-              "text": "独"
+              "text": "獨"
             },
             {
               "chord": "Gm",
-              "text": "自 为"
+              "text": "自 為"
             },
             {
               "chord": "",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "D",
-              "text": "祷，"
+              "text": "禱，"
             }
           ]
         },
@@ -40,7 +40,7 @@
             },
             {
               "chord": "",
-              "text": "西 马"
+              "text": "西 馬"
             },
             {
               "chord": "Gm",
@@ -52,7 +52,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "极 其 伤"
+              "text": "極 其 傷"
             },
             {
               "chord": "D7",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "",
-              "text": "声 哀"
+              "text": "聲 哀"
             },
             {
               "chord": "G",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "D",
-              "text": "汗 犹"
+              "text": "汗 猶"
             },
             {
               "chord": "A7",
@@ -98,11 +98,11 @@
           "segments": [
             {
               "chord": "D7",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "G",
-              "text": "我！ 为"
+              "text": "我！ 為"
             },
             {
               "chord": "D",
@@ -114,7 +114,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "E",
@@ -122,7 +122,7 @@
             },
             {
               "chord": "E7",
-              "text": "钉 十"
+              "text": "釘 十"
             },
             {
               "chord": "A",
@@ -134,7 +134,7 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "舍"
+              "text": "捨"
             },
             {
               "chord": "D",
@@ -146,11 +146,11 @@
             },
             {
               "chord": "",
-              "text": "我 赎"
+              "text": "我 贖"
             },
             {
               "chord": "G",
-              "text": "价；"
+              "text": "價；"
             }
           ]
         },
@@ -166,7 +166,7 @@
             },
             {
               "chord": "B",
-              "text": "蜡 镕"
+              "text": "蠟 鎔"
             },
             {
               "chord": "E",
@@ -178,11 +178,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "A7",
-              "text": "我！ 为"
+              "text": "我！ 為"
             },
             {
               "chord": "D",
@@ -613,10 +613,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "11231413354223",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0088_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/91",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/91",
+        "language": "en",
         "category": "h",
         "number": "91",
         "title": "E91"
@@ -624,15 +625,15 @@
     ]
   },
   "raw_sections": [
-    "耶 稣独自 为我 祈祷，",
-    "在那 客西 马尼，",
-    "极 其 伤痛， 大声 哀告，",
-    "流汗 犹如 血滴。",
-    "为我！ 为我！",
-    "为我 祂钉 十架，",
-    "舍命 流血 作我 赎价；",
-    "祂心 如蜡 镕化，",
-    "为我！ 为我！",
+    "耶 穌獨自 為我 祈禱，",
+    "在那 客西 馬尼，",
+    "極 其 傷痛， 大聲 哀告，",
+    "流汗 猶如 血滴。",
+    "為我！ 為我！",
+    "為我 祂釘 十架，",
+    "捨命 流血 作我 贖價；",
+    "祂心 如蠟 鎔化，",
+    "為我！ 為我！",
     "耶稣独自为我被捆，",
     "在祂被卖晚间；",
     "并且独自为我受审，",

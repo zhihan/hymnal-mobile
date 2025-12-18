@@ -7,12 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "Everybody"
-            },
-            {
               "chord": "",
-              "text": "ought to know; Everybody ought to know;"
+              "text": "Everybody ought to know; (Everybody ought to know)"
             }
           ]
         },
@@ -20,27 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Everybody ought to"
-            },
-            {
-              "chord": "Em",
-              "text": "know;"
-            },
-            {
-              "chord": "A",
-              "text": "Where"
-            },
-            {
-              "chord": "A7",
-              "text": "Jesus"
-            },
-            {
-              "chord": "D",
-              "text": "dwells. Every"
-            },
-            {
-              "chord": "A7",
-              "text": "body"
+              "text": "Everybody ought to know; (Everybody ought to know)"
             }
           ]
         },
@@ -48,47 +24,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "ought to"
-            },
-            {
-              "chord": "D",
-              "text": "dwells. He"
-            },
-            {
-              "chord": "",
-              "text": "is"
-            },
-            {
-              "chord": "D7",
-              "text": "dwelling"
-            },
-            {
-              "chord": "",
-              "text": "in our"
+              "text": "Everybody ought to know; (Everybody ought to know)"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "spir"
-            },
-            {
-              "chord": "Em",
-              "text": "it;"
-            },
-            {
-              "chord": "F♯m",
-              "text": "He is"
+              "chord": "",
+              "text": "Where Jesus dwells."
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "Bm",
-              "text": "Breath"
+              "chord": "",
+              "text": "(Repeat)"
             }
           ]
         }
@@ -102,47 +54,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "and Life to"
-            },
-            {
-              "chord": "Em",
-              "text": "us;"
-            },
-            {
-              "chord": "D",
-              "text": "We are"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D7",
-              "text": "one with"
-            },
-            {
-              "chord": "",
-              "text": "Him in"
-            },
-            {
-              "chord": "G",
-              "text": "spir"
-            },
-            {
-              "chord": "E7",
-              "text": "it."
-            },
-            {
-              "chord": "D",
-              "text": "Every"
-            },
-            {
-              "chord": "A7",
-              "text": "body"
-            },
-            {
-              "chord": "",
-              "text": "ought"
+              "text": "He is dwelling in our spirit;"
             }
           ]
         },
@@ -150,11 +62,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "to"
-            },
+              "text": "He is Breath and Life to us;"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "D",
-              "text": "know."
+              "chord": "",
+              "text": "We are one with Him in spirit."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Everybody ought to know."
             }
           ]
         }
@@ -249,10 +173,11 @@
     "category": "Fullness of the Spirit",
     "time": "4/4",
     "hymn_code": "55654535565453",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0170_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/107",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/107",
+        "language": "cn",
         "category": "ts",
         "number": "107",
         "title": "Cs107"
@@ -260,14 +185,15 @@
     ]
   },
   "raw_sections": [
-    "Everybodyought to know; Everybody ought to know;",
-    "Everybody ought toknow;WhereJesusdwells. Everybody",
-    "ought todwells. Heisdwellingin our",
-    "spirit;He is",
-    "Breath",
-    "and Life tous;We are",
-    "one withHim inspirit.Everybodyought",
-    "toknow.",
+    "Everybody ought to know; (Everybody ought to know)",
+    "Everybody ought to know; (Everybody ought to know)",
+    "Everybody ought to know; (Everybody ought to know)",
+    "Where Jesus dwells.",
+    "(Repeat)",
+    "He is dwelling in our spirit;",
+    "He is Breath and Life to us;",
+    "We are one with Him in spirit.",
+    "Everybody ought to know.",
     "Everybody ought to know;",
     "Everybody ought to know;",
     "Everybody ought to know;",

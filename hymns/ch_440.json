@@ -12,11 +12,11 @@
             },
             {
               "chord": "G",
-              "text": "面 虽"
+              "text": "面 雖"
             },
             {
               "chord": "D",
-              "text": "被 旷"
+              "text": "被 曠"
             },
             {
               "chord": "A",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "",
-              "text": "阳 晒"
+              "text": "陽 曬"
             },
             {
               "chord": "D",
@@ -44,11 +44,11 @@
             },
             {
               "chord": "Bm",
-              "text": "子 里"
+              "text": "子 裡"
             },
             {
               "chord": "E",
-              "text": "面 却"
+              "text": "面 卻"
             },
             {
               "chord": "E7",
@@ -64,7 +64,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "奥 秘"
+              "text": "奧 祕"
             },
             {
               "chord": "",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "Em",
-              "text": "乐 远"
+              "text": "樂 遠"
             },
             {
               "chord": "A7",
@@ -92,7 +92,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "荣 耀 之"
+              "text": "榮 耀 之"
             },
             {
               "chord": "G",
@@ -104,15 +104,15 @@
             },
             {
               "chord": "A",
-              "text": "个 都"
+              "text": "個 都"
             },
             {
               "chord": "E7",
-              "text": "已 赏"
+              "text": "已 賞"
             },
             {
               "chord": "A",
-              "text": "赐；"
+              "text": "賜；"
             }
           ]
         },
@@ -124,7 +124,7 @@
             },
             {
               "chord": "",
-              "text": "从 来"
+              "text": "從 來"
             },
             {
               "chord": "G",
@@ -168,7 +168,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "圣 徒 住"
+              "text": "聖 徒 住"
             },
             {
               "chord": "G",
@@ -200,7 +200,7 @@
             },
             {
               "chord": "Em",
-              "text": "隐"
+              "text": "隱"
             },
             {
               "chord": "D",
@@ -212,7 +212,7 @@
             },
             {
               "chord": "D",
-              "text": "荣。"
+              "text": "榮。"
             }
           ]
         }
@@ -505,10 +505,11 @@
     "category": "经历基督",
     "time": "4/4",
     "hymn_code": "5565117123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0440_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/598",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/598",
+        "language": "en",
         "category": "h",
         "number": "598",
         "title": "E598"
@@ -516,14 +517,14 @@
     ]
   },
   "raw_sections": [
-    "外面 虽被 旷野 太阳 晒黑，",
-    "光明 之子 里面 却都 秀美；",
-    "奥 秘之乐 远非 人所 能知，",
-    "荣 耀 之王每个 都已 赏赐；",
-    "人 心从 来未曾 想到，",
+    "外面 雖被 曠野 太陽 曬黑，",
+    "光明 之子 裡面 卻都 秀美；",
+    "奧 祕之樂 遠非 人所 能知，",
+    "榮 耀 之王每個 都已 賞賜；",
+    "人 心從 來未曾 想到，",
     "人 手也永 不能 摸著；",
-    "圣 徒 住在 神的光中，",
-    "得 到 神的隐藏光荣。",
+    "聖 徒 住在 神的光中，",
+    "得 到 神的隱藏光榮。",
     "在人看来，乃是亚当族类，",
     "带着属地形状，病、苦缠累，",
     "和那堕落罪人完全相像，",

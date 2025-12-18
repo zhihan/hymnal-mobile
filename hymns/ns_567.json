@@ -7,12 +7,8 @@
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "We know,"
-            },
-            {
               "chord": "",
-              "text": "we know (We know, we know)"
+              "text": "We know, we know (We know, we know)"
             }
           ]
         },
@@ -20,15 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "That we have"
-            },
-            {
-              "chord": "C",
-              "text": "passed (That"
-            },
-            {
-              "chord": "",
-              "text": "we have passed)"
+              "text": "That we have passed (That we have passed)"
             }
           ]
         },
@@ -36,15 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Out of"
-            },
-            {
-              "chord": "G",
-              "text": "death (Out"
-            },
-            {
-              "chord": "",
-              "text": "of death)"
+              "text": "Out of death (Out of death)"
             }
           ]
         },
@@ -52,15 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "And into"
-            },
-            {
-              "chord": "D",
-              "text": "life (And"
-            },
-            {
-              "chord": "",
-              "text": "into life)"
+              "text": "And into life (And into life)"
             }
           ]
         },
@@ -68,15 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Because we"
-            },
-            {
-              "chord": "G",
-              "text": "love, (Because"
-            },
-            {
-              "chord": "",
-              "text": "we love)"
+              "text": "Because we love (Because we love),"
             }
           ]
         },
@@ -84,15 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "We love the"
-            },
-            {
-              "chord": "C",
-              "text": "brothers."
-            },
-            {
-              "chord": "",
-              "text": "(We love the brothers)"
+              "text": "We love the brothers (We love the brothers)."
             }
           ]
         },
@@ -100,19 +56,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "We know we've"
-            },
-            {
-              "chord": "G",
-              "text": "passed from"
-            },
-            {
-              "chord": "",
-              "text": "death to"
-            },
-            {
-              "chord": "D",
-              "text": "life"
+              "text": "We know we’ve passed from death to life"
             }
           ]
         },
@@ -120,11 +64,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Because we love the"
-            },
-            {
-              "chord": "G",
-              "text": "brothers."
+              "text": "Because we love the brothers."
             }
           ]
         }
@@ -138,23 +78,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "The spon"
-            },
-            {
-              "chord": "C",
-              "text": "taneous"
-            },
-            {
-              "chord": "",
-              "text": "issue of the"
-            },
-            {
-              "chord": "G",
-              "text": "life of"
-            },
-            {
-              "chord": "",
-              "text": "God"
+              "text": "The spontaneous issue of the life of God"
             }
           ]
         },
@@ -162,19 +86,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Is a"
-            },
-            {
-              "chord": "C",
-              "text": "love for"
-            },
-            {
-              "chord": "",
-              "text": "all the sons of"
-            },
-            {
-              "chord": "D",
-              "text": "God."
+              "text": "Is a love for all the sons of God."
             }
           ]
         },
@@ -182,23 +94,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "It's by"
-            },
-            {
-              "chord": "C",
-              "text": "faith we"
-            },
-            {
-              "chord": "",
-              "text": "apprehend and en"
-            },
-            {
-              "chord": "G",
-              "text": "joy His"
-            },
-            {
-              "chord": "",
-              "text": "life"
+              "text": "It’s by faith we apprehend and enjoy His life"
             }
           ]
         },
@@ -206,19 +102,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "And it's"
-            },
-            {
-              "chord": "C",
-              "text": "love which"
-            },
-            {
-              "chord": "",
-              "text": "is the evi"
-            },
-            {
-              "chord": "D",
-              "text": "dence."
+              "text": "And it’s love which is the evidence."
             }
           ]
         }
@@ -230,20 +114,21 @@
   "metadata": {
     "category": "Scriptures for Singing",
     "time": "4/4",
-    "hymn_code": "1715171517161716"
+    "hymn_code": "1715171517161716",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0567_tune.midi"
   },
   "raw_sections": [
-    "We know,we know (We know, we know)",
-    "That we havepassed (Thatwe have passed)",
-    "Out ofdeath (Outof death)",
-    "And intolife (Andinto life)",
-    "Because welove, (Becausewe love)",
-    "We love thebrothers.(We love the brothers)",
-    "We know we'vepassed fromdeath tolife",
-    "Because we love thebrothers.",
-    "The spontaneousissue of thelife ofGod",
-    "Is alove forall the sons ofGod.",
-    "It's byfaith weapprehend and enjoy Hislife",
-    "And it'slove whichis the evidence."
+    "We know, we know (We know, we know)",
+    "That we have passed (That we have passed)",
+    "Out of death (Out of death)",
+    "And into life (And into life)",
+    "Because we love (Because we love),",
+    "We love the brothers (We love the brothers).",
+    "We know we’ve passed from death to life",
+    "Because we love the brothers.",
+    "The spontaneous issue of the life of God",
+    "Is a love for all the sons of God.",
+    "It’s by faith we apprehend and enjoy His life",
+    "And it’s love which is the evidence."
   ]
 }

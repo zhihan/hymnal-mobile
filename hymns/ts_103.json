@@ -12,7 +12,7 @@
             },
             {
               "chord": "A",
-              "text": "以 审"
+              "text": "以 審"
             },
             {
               "chord": "A7",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "灵，"
+              "text": "靈，"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "审 判"
+              "text": "審 判"
             },
             {
               "chord": "G",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "D",
-              "text": "切 恶"
+              "text": "切 惡"
             },
             {
               "chord": "A7",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "A",
-              "text": "凭 自"
+              "text": "憑 自"
             },
             {
               "chord": "A7",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "D",
-              "text": "寻，"
+              "text": "尋，"
             }
           ]
         },
@@ -72,15 +72,15 @@
             },
             {
               "chord": "G",
-              "text": "你 灵"
+              "text": "你 靈"
             },
             {
               "chord": "A",
-              "text": "来"
+              "text": "來"
             },
             {
               "chord": "A7",
-              "text": "显"
+              "text": "顯"
             },
             {
               "chord": "D",
@@ -324,13 +324,14 @@
   "metadata": {
     "category": "灵与生命",
     "time": "3/4",
-    "hymn_code": "117544353542132"
+    "hymn_code": "117544353542132",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0103_tune.midi"
   },
   "raw_sections": [
-    "哦 主，以 审判 的灵，",
-    "审 判我 一切 恶行！",
-    "我 不凭 自己 搜寻，",
-    "只 等你 灵来显明。",
+    "哦 主，以 審判 的靈，",
+    "審 判我 一切 惡行！",
+    "我 不憑 自己 搜尋，",
+    "只 等你 靈來顯明。",
     "哦主，以焚烧的灵，",
     "烧去我所有污秽；",
     "把世界一烧而空，",

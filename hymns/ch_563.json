@@ -11,27 +11,27 @@
               "text": "要 在"
             },
             {
-              "chord": "",
-              "text": "灵 里"
+              "chord": "C",
+              "text": "靈 裡"
             },
             {
-              "chord": "C",
+              "chord": "",
               "text": "同 心"
             },
             {
               "chord": "G",
-              "text": "祷 告，"
+              "text": "禱 告，"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "",
+              "chord": "Am",
               "text": "不 照"
             },
             {
-              "chord": "D",
+              "chord": "D7",
               "text": "你 心"
             },
             {
@@ -39,7 +39,7 @@
               "text": "所 思"
             },
             {
-              "chord": "D7",
+              "chord": "G",
               "text": "想，"
             }
           ]
@@ -51,32 +51,32 @@
               "text": "只 照"
             },
             {
-              "chord": "G",
-              "text": "深 处"
+              "chord": "C",
+              "text": "深 處"
             },
             {
-              "chord": "C",
+              "chord": "",
               "text": "恩 膏"
             },
             {
               "chord": "G",
-              "text": "涂 抹，"
+              "text": "塗 抹，"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "",
+              "chord": "Am",
               "text": "成 全"
             },
             {
-              "chord": "D",
+              "chord": "D7",
               "text": "主 心"
             },
             {
-              "chord": "D7",
-              "text": "所 愿"
+              "chord": "",
+              "text": "所 願"
             },
             {
               "chord": "G",
@@ -93,31 +93,27 @@
         {
           "segments": [
             {
-              "chord": "",
+              "chord": "D",
               "text": "要 在"
             },
             {
-              "chord": "D",
-              "text": "灵 里"
-            },
-            {
               "chord": "",
-              "text": "同 心"
+              "text": "靈 裡 同 心"
             },
             {
               "chord": "G",
-              "text": "祷 告，"
+              "text": "禱 告，"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "",
+              "chord": "A",
               "text": "不 照"
             },
             {
-              "chord": "C",
+              "chord": "A7",
               "text": "你 心"
             },
             {
@@ -125,7 +121,7 @@
               "text": "所 思"
             },
             {
-              "chord": "G",
+              "chord": "D",
               "text": "想，"
             }
           ]
@@ -133,12 +129,12 @@
         {
           "segments": [
             {
-              "chord": "",
+              "chord": "G",
               "text": "只 照"
             },
             {
-              "chord": "D",
-              "text": "深 处"
+              "chord": "C",
+              "text": "深 處"
             },
             {
               "chord": "",
@@ -146,23 +142,23 @@
             },
             {
               "chord": "G",
-              "text": "涂 抹，"
+              "text": "塗 抹，"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "",
+              "chord": "Am",
               "text": "成 全"
             },
             {
-              "chord": "C",
+              "chord": "D7",
               "text": "主 心"
             },
             {
-              "chord": "D7",
-              "text": "所 愿"
+              "chord": "",
+              "text": "所 願"
             },
             {
               "chord": "G",
@@ -551,12 +547,13 @@
   ],
   "metadata": {
     "category": "祷告",
-    "time": "3/4",
-    "hymn_code": "513161655171232",
+    "time": "4/4",
+    "hymn_code": "5651766543456553",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0563_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/779",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/779",
+        "language": "en",
         "category": "h",
         "number": "779",
         "title": "E779"
@@ -564,14 +561,14 @@
     ]
   },
   "raw_sections": [
-    "要 在灵 里同 心祷 告，",
+    "要 在靈 裡同 心禱 告，",
     "不 照你 心所 思想，",
-    "只 照深 处恩 膏涂 抹，",
-    "成 全主 心所 愿望。",
-    "要 在灵 里同 心祷 告，",
+    "只 照深 處恩 膏塗 抹，",
+    "成 全主 心所 願望。",
+    "要 在靈 裡 同 心禱 告，",
     "不 照你 心所 思想，",
-    "只 照深 处恩 膏涂 抹，",
-    "成 全主 心所 愿望。",
+    "只 照深 處恩 膏塗 抹，",
+    "成 全主 心所 願望。",
     "要在灵里同心祷告，",
     "借着十架否认己；",
     "一切愿望、所有心意，",

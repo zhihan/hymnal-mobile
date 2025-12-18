@@ -16,7 +16,7 @@
             },
             {
               "chord": "A",
-              "text": "这 福"
+              "text": "這 福"
             },
             {
               "chord": "D",
@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "怎 能 闭 口"
+              "text": "怎 能 閉 口"
             },
             {
               "chord": "A",
-              "text": "不 赞"
+              "text": "不 讚"
             },
             {
               "chord": "D",
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 为"
+              "text": "你 為"
             },
             {
               "chord": "A",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "",
-              "text": "的 宝"
+              "text": "的 寶"
             },
             {
               "chord": "D",
@@ -64,19 +64,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "价 值"
+              "text": "價 值"
             },
             {
               "chord": "A",
-              "text": "谁 能"
+              "text": "誰 能"
             },
             {
               "chord": "E",
-              "text": "尽 领"
+              "text": "盡 領"
             },
             {
               "chord": "A",
-              "text": "会！"
+              "text": "會！"
             }
           ]
         },
@@ -88,11 +88,11 @@
             },
             {
               "chord": "D",
-              "text": "何 宝"
+              "text": "何 寶"
             },
             {
               "chord": "",
-              "text": "贵！"
+              "text": "貴！"
             }
           ]
         },
@@ -104,7 +104,7 @@
             },
             {
               "chord": "",
-              "text": "问 题 全 应"
+              "text": "問 題 全 應"
             },
             {
               "chord": "G",
@@ -120,7 +120,7 @@
             },
             {
               "chord": "D",
-              "text": "的 宝"
+              "text": "的 寶"
             },
             {
               "chord": "",
@@ -136,7 +136,7 @@
             },
             {
               "chord": "D",
-              "text": "忧 惧"
+              "text": "憂 懼"
             },
             {
               "chord": "A",
@@ -577,10 +577,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "33531233353123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0175_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/224",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/224",
+        "language": "en",
         "category": "h",
         "number": "224",
         "title": "E224"
@@ -588,14 +589,14 @@
     ]
   },
   "raw_sections": [
-    "在 此分 享这 福杯，",
-    "怎 能 闭 口不 赞美？",
-    "你 为我 流的 宝血，",
-    "价 值谁 能尽 领会！",
-    "哦 主， 你 血何 宝贵！",
-    "我 的问 题 全 应付；",
-    "因 你 有 效的 宝血，",
-    "一 切忧 惧都 消除。",
+    "在 此分 享這 福杯，",
+    "怎 能 閉 口不 讚美？",
+    "你 為我 流的 寶血，",
+    "價 值誰 能盡 領會！",
+    "哦 主， 你 血何 寶貴！",
+    "我 的問 題 全 應付；",
+    "因 你 有 效的 寶血，",
+    "一 切憂 懼都 消除。",
     "借这有效的宝血，",
     "新约为我得成立；",
     "为着这个更美约，",

@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "萄 树，"
+              "text": "萄 樹，"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 们 是 祂 真 枝"
+              "text": "我 們 是 祂 真 枝"
             },
             {
               "chord": "A",
@@ -44,15 +44,15 @@
             },
             {
               "chord": "D",
-              "text": "主 里，"
+              "text": "主 裏，"
             },
             {
               "chord": "",
-              "text": "让 祂"
+              "text": "讓 祂"
             },
             {
               "chord": "G",
-              "text": "内 住，"
+              "text": "內 住，"
             }
           ]
         },
@@ -90,7 +90,7 @@
             },
             {
               "chord": "A",
-              "text": "树， 真"
+              "text": "樹， 真"
             },
             {
               "chord": "",
@@ -98,7 +98,7 @@
             },
             {
               "chord": "D",
-              "text": "处，"
+              "text": "處，"
             }
           ]
         },
@@ -106,11 +106,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "是 我 主 与 我 联"
+              "text": "是 我 主 與 我 聯"
             },
             {
               "chord": "A",
-              "text": "属；"
+              "text": "屬；"
             }
           ]
         },
@@ -118,7 +118,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "与 主"
+              "text": "與 主"
             },
             {
               "chord": "D",
@@ -126,11 +126,11 @@
             },
             {
               "chord": "",
-              "text": "时 刻"
+              "text": "時 刻"
             },
             {
               "chord": "G",
-              "text": "无 阻，"
+              "text": "無 阻，"
             }
           ]
         },
@@ -142,11 +142,11 @@
             },
             {
               "chord": "D",
-              "text": "得 识"
+              "text": "得 識"
             },
             {
               "chord": "A7",
-              "text": "祂 丰"
+              "text": "祂 豐"
             },
             {
               "chord": "D",
@@ -462,10 +462,11 @@
     "category": "追求与长进",
     "time": "3/4",
     "hymn_code": "513172151353132",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0443_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1163",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1163",
+        "language": "en",
         "category": "h",
         "number": "1163",
         "title": "E1163"
@@ -473,14 +474,14 @@
     ]
   },
   "raw_sections": [
-    "基 督乃 是真 葡萄 树，",
-    "我 们 是 祂 真 枝子；",
-    "住 在主 里，让 祂内 住，",
+    "基 督乃 是真 葡萄 樹，",
+    "我 們 是 祂 真 枝子；",
+    "住 在主 裏，讓 祂內 住，",
     "生 命流 通永 不止。",
-    "葡 萄树， 真住处，",
-    "是 我 主 与 我 联属；",
-    "与 主互 住时 刻无 阻，",
-    "我 就得 识祂 丰富。",
+    "葡 萄樹， 真住處，",
+    "是 我 主 與 我 聯屬；",
+    "與 主互 住時 刻無 阻，",
+    "我 就得 識祂 豐富。",
     "祂乃是话内住我灵，",
     "说话丰富且应时；",
     "神圣发言儆醒倾听，",

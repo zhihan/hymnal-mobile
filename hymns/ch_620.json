@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "圣 灵"
+              "text": "聖 靈"
             },
             {
               "chord": "",
-              "text": "的 大 云，"
+              "text": "的 大 雲，"
             }
           ]
         },
@@ -20,11 +20,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "圣"
+              "text": "聖"
             },
             {
               "chord": "A",
-              "text": "别 的"
+              "text": "別 的"
             },
             {
               "chord": "",
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "显 出"
+              "text": "顯 出"
             },
             {
               "chord": "Bm",
@@ -104,11 +104,11 @@
             },
             {
               "chord": "E7",
-              "text": "命 显"
+              "text": "命 顯"
             },
             {
               "chord": "A7",
-              "text": "于 人"
+              "text": "於 人"
             },
             {
               "chord": "D",
@@ -503,10 +503,11 @@
     "category": "召会",
     "time": "6/4",
     "hymn_code": "533343222322111176",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0620_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8620",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8620",
+        "language": "en",
         "category": "h",
         "number": "8620",
         "title": "E8620"
@@ -514,12 +515,12 @@
     ]
   },
   "raw_sections": [
-    "圣 灵的 大 云，",
-    "圣别 的烈火，",
-    "显 出光 耀精金 神性；",
-    "借此，",
+    "聖 靈的 大 雲，",
+    "聖別 的烈火，",
+    "顯 出光 耀精金 神性；",
+    "藉此，",
     "受 造者 得生 而活 著，",
-    "神的 生命 显于 人形。",
+    "神的 生命 顯於 人形。",
     "生活如常人，",
     "雄壮似猛狮，",
     "劳役如牛，超脱似鹰；",

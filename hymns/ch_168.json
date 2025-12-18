@@ -12,15 +12,15 @@
             },
             {
               "chord": "D",
-              "text": "耶 稣，"
+              "text": "耶 穌，"
             },
             {
               "chord": "",
-              "text": "当 我"
+              "text": "當 我"
             },
             {
               "chord": "A7",
-              "text": "们 想"
+              "text": "們 想"
             },
             {
               "chord": "D",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "D",
-              "text": "爱，"
+              "text": "愛，"
             }
           ]
         },
@@ -60,7 +60,7 @@
             },
             {
               "chord": "A",
-              "text": "们"
+              "text": "們"
             },
             {
               "chord": "D",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "G",
-              "text": "灵 盼"
+              "text": "靈 盼"
             },
             {
               "chord": "D",
@@ -84,11 +84,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "当"
+              "text": "當"
             },
             {
               "chord": "Bm",
-              "text": "面 见"
+              "text": "面 見"
             },
             {
               "chord": "Em",
@@ -265,10 +265,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "512321356543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0168_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/207",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/207",
+        "language": "en",
         "category": "h",
         "number": "207",
         "title": "E207"
@@ -276,10 +277,10 @@
     ]
   },
   "raw_sections": [
-    "主耶 稣，当 我们 想到",
-    "你的 一切恩爱，",
-    "我们的灵 盼望 最好",
-    "当面 见你丰采。",
+    "主耶 穌，當 我們 想到",
+    "你的 一切恩愛，",
+    "我們的靈 盼望 最好",
+    "當面 見你丰采。",
     "虽然我们行在野地，",
     "寂寞、干渴、骇惊，",
     "左右荆棘，前后蒺藜，",

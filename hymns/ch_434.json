@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "宝 贝，"
+              "text": "寶 貝，"
             }
           ]
         },
@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "丰 富"
+              "text": "豐 富"
             },
             {
               "chord": "",
-              "text": "无 人"
+              "text": "無 人"
             },
             {
               "chord": "A7",
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "永 远 心 爱"
+              "text": "永 遠 心 愛"
             },
             {
               "chord": "A",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "D",
-              "text": "宝 贵，"
+              "text": "寶 貴，"
             }
           ]
         },
@@ -88,7 +88,7 @@
             },
             {
               "chord": "D7",
-              "text": "宝 贝，"
+              "text": "寶 貝，"
             }
           ]
         },
@@ -96,7 +96,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "价 值"
+              "text": "價 值"
             },
             {
               "chord": "D",
@@ -116,19 +116,19 @@
           "segments": [
             {
               "chord": "D",
-              "text": "极 深"
+              "text": "極 深"
             },
             {
               "chord": "",
-              "text": "心 爱"
+              "text": "心 愛"
             },
             {
               "chord": "A7",
-              "text": "人 难"
+              "text": "人 難"
             },
             {
               "chord": "D",
-              "text": "测 窥－"
+              "text": "測 窺－"
             }
           ]
         },
@@ -140,7 +140,7 @@
             },
             {
               "chord": "",
-              "text": "启 示"
+              "text": "啟 示"
             },
             {
               "chord": "A7",
@@ -148,7 +148,7 @@
             },
             {
               "chord": "D",
-              "text": "里。"
+              "text": "裡。"
             }
           ]
         }
@@ -371,10 +371,11 @@
     "category": "经历基督",
     "time": "2/4",
     "hymn_code": "565354432613543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0434_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/589",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/589",
+        "language": "en",
         "category": "h",
         "number": "589",
         "title": "E589"
@@ -382,14 +383,14 @@
     ]
   },
   "raw_sections": [
-    "神 在天 上有 一宝 贝，",
-    "丰 富无 人能 言述；",
-    "永 远 心 爱祂 所宝 贵，",
+    "神 在天 上有 一寶 貝，",
+    "豐 富無 人能 言述；",
+    "永 遠 心 愛祂 所寶 貴，",
     "就 是祂 子主 基督。",
-    "神 在 地 上 有 一宝 贝，",
-    "价 值惟 有神 知悉；",
-    "极 深心 爱人 难测 窥－",
-    "基 督启 示我 心里。",
+    "神 在 地 上 有 一寶 貝，",
+    "價 值惟 有神 知悉；",
+    "極 深心 愛人 難測 窺－",
+    "基 督啟 示我 心裡。",
     "神借火焰舌头临到，",
     "用这永远无穷尽、",
     "取用不竭的无价宝，",

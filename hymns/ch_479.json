@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "想 耶 稣，"
+              "text": "想 耶 穌，"
             }
           ]
         },
@@ -52,11 +52,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "显 出"
+              "text": "顯 出"
             },
             {
               "chord": "D7",
-              "text": "祂 荣"
+              "text": "祂 榮"
             },
             {
               "chord": "G",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "",
-              "text": "经 赐 你"
+              "text": "經 賜 你"
             }
           ]
         },
@@ -80,7 +80,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "永 远"
+              "text": "永 遠"
             },
             {
               "chord": "D7",
@@ -96,7 +96,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "并 使"
+              "text": "並 使"
             },
             {
               "chord": "",
@@ -108,7 +108,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "复 活"
+              "text": "復 活"
             },
             {
               "chord": "G",
@@ -343,10 +343,11 @@
     "category": "鼓励",
     "time": "4/4",
     "hymn_code": "1461111765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0479_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/656",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/656",
+        "language": "en",
         "category": "h",
         "number": "656",
         "title": "E656"
@@ -354,14 +355,14 @@
     ]
   },
   "raw_sections": [
-    "要 思想 耶 稣，",
+    "要 思想 耶 穌，",
     "以 祂作 模型，",
     "好 在你身 上",
-    "显 出祂 荣形：",
-    "祂 已经 赐 你",
-    "永 远的 生命，",
-    "并 使你 享 受",
-    "复 活的大能。",
+    "顯 出祂 榮形：",
+    "祂 已經 賜 你",
+    "永 遠的 生命，",
+    "並 使你 享 受",
+    "復 活的大能。",
     "要思想耶稣，",
     "天天都如此，",
     "要自甘卑微，",

@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "当 向"
+              "text": "當 向"
             },
             {
               "chord": "",
-              "text": "标"
+              "text": "標"
             },
             {
               "chord": "C",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "虽"
+              "text": "雖"
             },
             {
               "chord": "C",
@@ -36,11 +36,11 @@
             },
             {
               "chord": "D7",
-              "text": "单， 不"
+              "text": "單， 不"
             },
             {
               "chord": "G",
-              "text": "变；"
+              "text": "變；"
             }
           ]
         },
@@ -48,11 +48,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "那 开 路"
+              "text": "那 開 路"
             },
             {
               "chord": "C",
-              "text": "者 现"
+              "text": "者 現"
             },
             {
               "chord": "G",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "C",
-              "text": "以 当"
+              "text": "以 當"
             },
             {
               "chord": "D7",
@@ -207,10 +207,11 @@
     "category": "鼓励",
     "time": "6/8",
     "hymn_code": "53721655665653",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0484_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/662",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/662",
+        "language": "en",
         "category": "h",
         "number": "662",
         "title": "E662"
@@ -218,10 +219,10 @@
     ]
   },
   "raw_sections": [
-    "当 向标竿 力前！",
-    "虽然 孤单， 不变；",
-    "那 开 路者 现在 召你，",
-    "所以 当前 勿延。",
+    "當 向標竿 力前！",
+    "雖然 孤單， 不變；",
+    "那 開 路者 現在 召你，",
+    "所以 當前 勿延。",
     "当向标竿力前！",
     "主眼睛像火焰，",
     "正在看你；人算甚么？",

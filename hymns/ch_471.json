@@ -12,11 +12,11 @@
             },
             {
               "chord": "E7",
-              "text": "毁"
+              "text": "毀"
             },
             {
               "chord": "A",
-              "text": "带 我"
+              "text": "帶 我"
             },
             {
               "chord": "E",
@@ -24,11 +24,11 @@
             },
             {
               "chord": "A",
-              "text": "怀！』"
+              "text": "懷！』"
             },
             {
               "chord": "D",
-              "text": "毁 后"
+              "text": "毀 後"
             }
           ]
         },
@@ -48,7 +48,7 @@
             },
             {
               "chord": "E",
-              "text": "来！"
+              "text": "來！"
             },
             {
               "chord": "A",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "E",
-              "text": "紧 靠"
+              "text": "緊 靠"
             },
             {
               "chord": "F♯m",
@@ -84,7 +84,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "风 浪"
+              "text": "風 浪"
             },
             {
               "chord": "B",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "B7",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "E",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "E7",
-              "text": "难 知"
+              "text": "難 知"
             }
           ]
         },
@@ -112,15 +112,15 @@
             },
             {
               "chord": "",
-              "text": "的 怀"
+              "text": "的 懷"
             },
             {
               "chord": "E",
-              "text": "里，"
+              "text": "裡，"
             },
             {
               "chord": "D",
-              "text": "毁 后"
+              "text": "毀 後"
             }
           ]
         },
@@ -174,7 +174,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "使我主怀享𫗪养。"
+              "text": "使我主怀享餧养。"
             }
           ]
         },
@@ -311,10 +311,11 @@
     "category": "十字架的道路",
     "time": "3/4",
     "hymn_code": "534512171616535432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0471_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/637",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/637",
+        "language": "en",
         "category": "h",
         "number": "637",
         "title": "E637"
@@ -322,16 +323,16 @@
     ]
   },
   "raw_sections": [
-    "『破毁带 我到 主怀！』毁 后",
-    "如 此唱出来！小船",
-    "若 是紧 靠岸，深 怕",
-    "风 浪的为患，难 知",
-    "在 主的 怀里，毁 后",
+    "『破毀帶 我到 主懷！』毀 後",
+    "如 此唱出來！小船",
+    "若 是緊 靠岸，深 怕",
+    "風 浪的為患，難 知",
+    "在 主的 懷裡，毀 後",
     "所 享的 安息。",
     "我们哀叹：‘被破毁！’",
     "岂知‘破毁’当赞美！",
     "风浪无情的损伤，",
-    "使我主怀享𫗪养。",
+    "使我主怀享餧养。",
     "在此安息主怀中，",
     "何能再将我摇动？",
     "‘破毁’之后，不需要",

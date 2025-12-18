@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "来 向"
+              "text": "來 向"
             },
             {
               "chord": "",
-              "text": "基 督 赞"
+              "text": "基 督 讚"
             },
             {
               "chord": "F",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "C",
-              "text": "颂，"
+              "text": "頌，"
             }
           ]
         },
@@ -52,7 +52,7 @@
             },
             {
               "chord": "F",
-              "text": "圣 生"
+              "text": "聖 生"
             },
             {
               "chord": "C",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "",
-              "text": "规 条 一 无"
+              "text": "規 條 一 無"
             },
             {
               "chord": "G7",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "F",
-              "text": "虽 努"
+              "text": "雖 努"
             },
             {
               "chord": "C",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "C",
-              "text": "胜，"
+              "text": "勝，"
             }
           ]
         },
@@ -108,7 +108,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "神 圣 生 命 才"
+              "text": "神 聖 生 命 纔"
             },
             {
               "chord": "D7",
@@ -124,7 +124,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "将"
+              "text": "將"
             },
             {
               "chord": "F",
@@ -132,7 +132,7 @@
             },
             {
               "chord": "",
-              "text": "变 带 来"
+              "text": "變 帶 來"
             },
             {
               "chord": "G7",
@@ -525,10 +525,11 @@
     "category": "赞美的话",
     "time": "3/2",
     "hymn_code": "13451765654323421",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0034_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1130",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1130",
+        "language": "en",
         "category": "h",
         "number": "1130",
         "title": "E1130"
@@ -536,13 +537,13 @@
     ]
   },
   "raw_sections": [
-    "来 向基 督 赞美 歌颂，",
+    "來 向基 督 讚美 歌頌，",
     "神 使救 恩 藉 祂成功；",
-    "得 救 惟 靠 神圣 生命，",
-    "律 法规 条 一 无所成；",
-    "人虽 努力 不能 得胜，",
-    "神 圣 生 命 才有 大能；",
-    "将人 改变 带 来重生。",
+    "得 救 惟 靠 神聖 生命，",
+    "律 法規 條 一 無所成；",
+    "人雖 努力 不能 得勝，",
+    "神 聖 生 命 纔有 大能；",
+    "將人 改變 帶 來重生。",
     "借祂赐下生命能力，",
     "祂将信徒拯救到底；",
     "神圣生命注入人里，",

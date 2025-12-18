@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "耶 稣，"
+              "text": "耶 穌，"
             },
             {
               "chord": "G",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "G",
-              "text": "悦！"
+              "text": "悅！"
             }
           ]
         },
@@ -80,11 +80,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "引 导"
+              "text": "引 導"
             },
             {
               "chord": "",
-              "text": "和 保 护，"
+              "text": "和 保 護，"
             }
           ]
         },
@@ -104,7 +104,7 @@
             },
             {
               "chord": "F",
-              "text": "过，"
+              "text": "過，"
             }
           ]
         },
@@ -128,11 +128,11 @@
           "segments": [
             {
               "chord": "G7",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "C",
@@ -150,11 +150,11 @@
           "segments": [
             {
               "chord": "G7",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "C",
@@ -166,11 +166,11 @@
           "segments": [
             {
               "chord": "G7",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "C",
@@ -182,7 +182,7 @@
           "segments": [
             {
               "chord": "F",
-              "text": "每 时"
+              "text": "每 時"
             },
             {
               "chord": "",
@@ -190,7 +190,7 @@
             },
             {
               "chord": "C",
-              "text": "每 处"
+              "text": "每 處"
             },
             {
               "chord": "Am",
@@ -206,11 +206,11 @@
             },
             {
               "chord": "C",
-              "text": "稣"
+              "text": "穌"
             },
             {
               "chord": "G7",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "C",
@@ -654,10 +654,11 @@
     "category": "经历基督",
     "time": "3/4",
     "hymn_code": "3135351715",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0390_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/517",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/517",
+        "language": "en",
         "category": "h",
         "number": "517",
         "title": "E517"
@@ -665,18 +666,18 @@
     ]
   },
   "raw_sections": [
-    "耶 稣，我救 主，",
+    "耶 穌，我救 主，",
     "祂是 我一切！",
     "奇 妙的救 主，",
-    "何等 的可悦！",
-    "引 导和 保 护，",
-    "所有 安度过，",
+    "何等 的可悅！",
+    "引 導和 保 護，",
+    "所有 安度過，",
     "大 能的救 主－",
-    "耶 稣为我。",
-    "耶 稣为我！",
-    "耶 稣为我！",
-    "每 时候，每 处所，",
-    "耶稣为我！",
+    "耶 穌為我。",
+    "耶 穌為我！",
+    "耶 穌為我！",
+    "每 時候，每 處所，",
+    "耶穌為我！",
     "耶稣于康健，",
     "耶稣于病痛，",
     "耶稣于富裕，",

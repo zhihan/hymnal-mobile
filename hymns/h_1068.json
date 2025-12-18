@@ -562,10 +562,11 @@
     "category": "Gospel",
     "time": "6/8",
     "hymn_code": "5511217121231",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1068_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/737",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/737",
+        "language": "cn",
         "category": "ch",
         "number": "737",
         "title": "C737"

@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "与"
+              "text": "與"
             },
             {
               "chord": "A",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "G",
-              "text": "阳 西"
+              "text": "陽 西"
             },
             {
               "chord": "A7",
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "黑 暗 渐"
+              "text": "黑 暗 漸"
             },
             {
               "chord": "G",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "A",
-              "text": "主 与"
+              "text": "主 與"
             },
             {
               "chord": "E7",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "G",
-              "text": "无 何"
+              "text": "無 何"
             },
             {
               "chord": "B7",
@@ -100,7 +100,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "A7",
@@ -112,7 +112,7 @@
             },
             {
               "chord": "G",
-              "text": "你 与"
+              "text": "你 與"
             },
             {
               "chord": "D",
@@ -327,10 +327,11 @@
     "category": "羡慕",
     "time": "4/4",
     "hymn_code": "3321565543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0288_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/370",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/370",
+        "language": "en",
         "category": "h",
         "number": "370",
         "title": "E370"
@@ -338,10 +339,10 @@
     ]
   },
   "raw_sections": [
-    "与我 同住，夕阳 西沉 迅速；",
-    "黑 暗 渐深，求主 与我 同住；",
-    "安慰 消逝，且无 何人 能助；",
-    "无助 之助， 求你 与我同住。",
+    "與我 同住，夕陽 西沉 迅速；",
+    "黑 暗 漸深，求主 與我 同住；",
+    "安慰 消逝，且無 何人 能助；",
+    "無助 之助， 求你 與我同住。",
     "人生短日，转瞬就已入暮，",
     "地乐灯残，世荣花谢草枯；",
     "四境所见，尽是变迁朽腐；",

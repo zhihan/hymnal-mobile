@@ -427,10 +427,11 @@
     "category": "Gospel",
     "time": "4/4",
     "hymn_code": "5555556665",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1009_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/687",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/687",
+        "language": "cn",
         "category": "ch",
         "number": "687",
         "title": "C687"

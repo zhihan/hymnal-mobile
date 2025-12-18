@@ -7,28 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "To the"
-            },
-            {
               "chord": "",
-              "text": "church of"
-            },
-            {
-              "chord": "G",
-              "text": "God which"
-            },
-            {
-              "chord": "",
-              "text": "is"
-            },
-            {
-              "chord": "A",
-              "text": "in Cor"
-            },
-            {
-              "chord": "D",
-              "text": "inth,"
+              "text": "To the church of God which is in Corinth,"
             }
           ]
         },
@@ -36,27 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "To those who"
-            },
-            {
-              "chord": "G",
-              "text": "have been"
-            },
-            {
-              "chord": "",
-              "text": "sancti"
-            },
-            {
-              "chord": "A",
-              "text": "fied in"
-            },
-            {
-              "chord": "",
-              "text": "Christ"
-            },
-            {
-              "chord": "D",
-              "text": "Jesus,"
+              "text": "To those who have been sanctified in Christ Jesus,"
             }
           ]
         },
@@ -64,19 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "The called"
-            },
-            {
-              "chord": "G",
-              "text": "saints, with"
-            },
-            {
-              "chord": "",
-              "text": "all"
-            },
-            {
-              "chord": "A",
-              "text": "those"
+              "text": "The called saints, with all those"
             }
           ]
         },
@@ -84,19 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Who call upon the"
-            },
-            {
-              "chord": "Bm",
-              "text": "name of"
-            },
-            {
-              "chord": "",
-              "text": "our Lord Jesus"
-            },
-            {
-              "chord": "G",
-              "text": "Christ"
+              "text": "Who call upon the name of our Lord Jesus Christ"
             }
           ]
         },
@@ -104,31 +40,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "In every"
-            },
-            {
-              "chord": "Em",
-              "text": "place,"
-            },
-            {
-              "chord": "C♯♭",
-              "text": "who is"
-            },
-            {
-              "chord": "",
-              "text": "theirs and"
-            },
-            {
-              "chord": "Asus4",
-              "text": "ours."
+              "text": "In every place, who is theirs and ours."
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "C♯♭",
-              "text": "who"
+              "chord": "",
+              "text": "(repeat)"
             }
           ]
         }
@@ -141,79 +61,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "is theirs and"
-            },
-            {
-              "chord": "Asus4",
-              "text": "ours."
-            },
-            {
-              "chord": "A",
-              "text": "Who call"
-            },
-            {
-              "chord": "",
-              "text": "upon the"
-            },
-            {
-              "chord": "Bm",
-              "text": "name of"
-            },
-            {
-              "chord": "",
-              "text": "our Lord Jesus"
+              "text": "Who call upon the name of our Lord Jesus Christ in every place,"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "Christ in"
-            },
-            {
               "chord": "",
-              "text": "every"
-            },
-            {
-              "chord": "Em",
-              "text": "place,"
-            },
-            {
-              "chord": "A",
-              "text": "Who call"
-            },
-            {
-              "chord": "",
-              "text": "upon the"
-            },
-            {
-              "chord": "Bm",
-              "text": "name of"
-            },
-            {
-              "chord": "",
-              "text": "our Lord Jesus"
+              "text": "Who call upon the name of our Lord Jesus Christ in every place,"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "Christ in"
-            },
-            {
               "chord": "",
-              "text": "every"
-            },
-            {
-              "chord": "Em",
-              "text": "place,"
-            },
-            {
-              "chord": "A7",
-              "text": "Who"
+              "text": "Who is theirs and ours."
             }
           ]
         }
@@ -224,17 +88,18 @@
   "metadata": {
     "category": "Scriptures for Singing",
     "time": "4/4",
-    "hymn_code": "123166176535"
+    "hymn_code": "123166176535",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1003_tune.midi"
   },
   "raw_sections": [
-    "To thechurch ofGod whichisin Corinth,",
-    "To those whohave beensanctified inChristJesus,",
-    "The calledsaints, withallthose",
-    "Who call upon thename ofour Lord JesusChrist",
-    "In everyplace,who istheirs andours.",
-    "who",
-    "is theirs andours.Who callupon thename ofour Lord Jesus",
-    "Christ ineveryplace,Who callupon thename ofour Lord Jesus",
-    "Christ ineveryplace,Who"
+    "To the church of God which is in Corinth,",
+    "To those who have been sanctified in Christ Jesus,",
+    "The called saints, with all those",
+    "Who call upon the name of our Lord Jesus Christ",
+    "In every place, who is theirs and ours.",
+    "(repeat)",
+    "Who call upon the name of our Lord Jesus Christ in every place,",
+    "Who call upon the name of our Lord Jesus Christ in every place,",
+    "Who is theirs and ours."
   ]
 }

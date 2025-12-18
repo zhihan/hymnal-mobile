@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "国 度 今"
+              "text": "國 度 今"
             },
             {
               "chord": "D",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "",
-              "text": "权 在 我"
+              "text": "權 在 我"
             },
             {
               "chord": "A7",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "D",
-              "text": "里；"
+              "text": "裏；"
             }
           ]
         },
@@ -64,7 +64,7 @@
             },
             {
               "chord": "",
-              "text": "我 里"
+              "text": "我 裏"
             },
             {
               "chord": "D",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "",
-              "text": "王 统"
+              "text": "王 統"
             },
             {
               "chord": "D",
@@ -333,10 +333,11 @@
     "category": "国度",
     "time": "3/4",
     "hymn_code": "5543511271",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0746_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/942",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/942",
+        "language": "en",
         "category": "h",
         "number": "942",
         "title": "E942"
@@ -344,10 +345,10 @@
     ]
   },
   "raw_sections": [
-    "神 的国 度 今在 地上，",
-    "是神 掌权 在 我心里；",
-    "乃 是基督 活我 里面，",
-    "作主 作王 统治 管理。",
+    "神 的國 度 今在 地上，",
+    "是神 掌權 在 我心裏；",
+    "乃 是基督 活我 裏面，",
+    "作主 作王 統治 管理。",
     "基督生命同祂权柄，",
     "使祂登极在我心中，",
     "管理全人每一部分，",

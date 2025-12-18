@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "怜 悯，"
+              "text": "憐 憫，"
             }
           ]
         },
@@ -20,7 +20,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 眼 得 开 识"
+              "text": "我 眼 得 開 識"
             },
             {
               "chord": "Am",
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "喜 脱"
+              "text": "喜 脫"
             },
             {
               "chord": "",
@@ -257,10 +257,11 @@
     "category": "事奉与福音",
     "time": "2/4",
     "hymn_code": "35131215176",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0835_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1351",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1351",
+        "language": "en",
         "category": "h",
         "number": "1351",
         "title": "E1351"
@@ -268,9 +269,9 @@
     ]
   },
   "raw_sections": [
-    "何 大怜 悯，",
-    "我 眼 得 开 识真 神，",
-    "喜 脱黑 暗，",
+    "何 大憐 憫，",
+    "我 眼 得 開 識真 神，",
+    "喜 脫黑 暗，",
     "得享 光明 自由！",
     "何 奇 恩 典，",
     "我能 白白 得救 恩，",

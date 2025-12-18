@@ -7,24 +7,8 @@
         {
           "segments": [
             {
-              "chord": "C",
-              "text": "Lord, Your"
-            },
-            {
               "chord": "",
-              "text": "beauty and"
-            },
-            {
-              "chord": "G7",
-              "text": "love have"
-            },
-            {
-              "chord": "",
-              "text": "drawn"
-            },
-            {
-              "chord": "C",
-              "text": "me,"
+              "text": "Lord, Your beauty and love have drawn me,"
             }
           ]
         },
@@ -32,19 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "To pur"
-            },
-            {
-              "chord": "Dm",
-              "text": "sue after"
-            },
-            {
-              "chord": "C",
-              "text": "You speedi"
-            },
-            {
-              "chord": "G",
-              "text": "ly."
+              "text": "To pursue after You speedily."
             }
           ]
         },
@@ -52,39 +24,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "In Your"
-            },
-            {
-              "chord": "C",
-              "text": "chambers"
-            },
-            {
-              "chord": "E7",
-              "text": "I am"
-            },
-            {
-              "chord": "Am",
-              "text": "brought,"
+              "text": "In Your chambers I am brought,"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "C",
-              "text": "And"
-            },
-            {
-              "chord": "F",
-              "text": "nourished"
-            },
-            {
-              "chord": "G7",
-              "text": "here by"
-            },
-            {
-              "chord": "C",
-              "text": "Thee."
+              "chord": "",
+              "text": "And nourished here by Thee."
             }
           ]
         }
@@ -98,19 +46,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "My Belov'd, I"
-            },
-            {
-              "chord": "C7",
-              "text": "belong"
-            },
-            {
-              "chord": "",
-              "text": "to"
-            },
-            {
-              "chord": "F",
-              "text": "You."
+              "text": "My Belov’d, I belong to You."
             }
           ]
         },
@@ -118,19 +54,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "O my"
-            },
-            {
-              "chord": "C",
-              "text": "Love, You're"
-            },
-            {
-              "chord": "D7",
-              "text": "so beauti"
-            },
-            {
-              "chord": "G",
-              "text": "ful."
+              "text": "O my Love, You’re so beautiful."
             }
           ]
         },
@@ -138,23 +62,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "We're the"
-            },
-            {
-              "chord": "C",
-              "text": "same in"
-            },
-            {
-              "chord": "C7",
-              "text": "life and"
-            },
-            {
-              "chord": "",
-              "text": "in"
-            },
-            {
-              "chord": "F",
-              "text": "nature,"
+              "text": "We’re the same in life and in nature,"
             }
           ]
         },
@@ -162,19 +70,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "In"
-            },
-            {
-              "chord": "C",
-              "text": "love ever"
-            },
-            {
-              "chord": "G7",
-              "text": "insep'ra"
-            },
-            {
-              "chord": "C",
-              "text": "ble."
+              "text": "In love ever insep’rable."
             }
           ]
         }
@@ -187,7 +83,31 @@
           "segments": [
             {
               "chord": "",
-              "text": "By Your..."
+              "text": "By Your nature is mine sanctified,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And my beauty’s from Your life divine."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I’m renewed, submissive, sweet,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "With Thee, with hind’s feet leap."
             }
           ]
         }
@@ -313,10 +233,11 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "123234345",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0290_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/343",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/343",
+        "language": "cn",
         "category": "ts",
         "number": "343",
         "title": "Cs343"
@@ -324,15 +245,18 @@
     ]
   },
   "raw_sections": [
-    "Lord, Yourbeauty andlove havedrawnme,",
-    "To pursue afterYou speedily.",
-    "In YourchambersI ambrought,",
-    "Andnourishedhere byThee.",
-    "My Belov'd, IbelongtoYou.",
-    "O myLove, You'reso beautiful.",
-    "We're thesame inlife andinnature,",
-    "Inlove everinsep'rable.",
-    "By Your...",
+    "Lord, Your beauty and love have drawn me,",
+    "To pursue after You speedily.",
+    "In Your chambers I am brought,",
+    "And nourished here by Thee.",
+    "My Belov’d, I belong to You.",
+    "O my Love, You’re so beautiful.",
+    "We’re the same in life and in nature,",
+    "In love ever insep’rable.",
+    "By Your nature is mine sanctified,",
+    "And my beauty’s from Your life divine.",
+    "I’m renewed, submissive, sweet,",
+    "With Thee, with hind’s feet leap.",
     "As a dove, You alone do I see;",
     "As a lily, I’m trusting in Thee.",
     "I’m transformed and built by Thee",

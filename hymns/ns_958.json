@@ -7,20 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "Love is"
-            },
-            {
               "chord": "",
-              "text": "the most"
-            },
-            {
-              "chord": "A",
-              "text": "excellent"
-            },
-            {
-              "chord": "",
-              "text": "way,"
+              "text": "Love is the most excellent way,"
             }
           ]
         },
@@ -28,19 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Love pre"
-            },
-            {
-              "chord": "Bm",
-              "text": "vails! Never"
-            },
-            {
-              "chord": "G",
-              "text": "fails!"
-            },
-            {
-              "chord": "D",
-              "text": "More"
+              "text": "(Brothers) Love prevails! Never fails!"
             }
           ]
         },
@@ -48,27 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "than what we"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "A",
-              "text": "do or"
-            },
-            {
-              "chord": "",
-              "text": "say, Love pre"
-            },
-            {
-              "chord": "Bm",
-              "text": "vails! Never"
-            },
-            {
-              "chord": "G",
-              "text": "fails!"
+              "text": "(Sisters) Love prevails!"
             }
           ]
         },
@@ -76,55 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Love"
-            },
-            {
-              "chord": "A",
-              "text": "pre"
-            },
-            {
-              "chord": "Bm",
-              "text": "vails when"
-            },
-            {
-              "chord": "",
-              "text": "all"
-            },
-            {
-              "chord": "A",
-              "text": "else"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "G",
-              "text": "fails; Love"
-            },
-            {
-              "chord": "",
-              "text": "never"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D",
-              "text": "fails! The"
-            },
-            {
-              "chord": "G",
-              "text": "love described"
-            },
-            {
-              "chord": "",
-              "text": "by"
-            },
-            {
-              "chord": "D",
-              "text": "God's"
+              "text": "More than what we do or say,"
             }
           ]
         },
@@ -132,11 +40,31 @@
           "segments": [
             {
               "chord": "",
-              "text": "own word Ex"
-            },
+              "text": "(Brothers) Love prevails! Never fails!"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "F♯m",
-              "text": "presses"
+              "chord": "",
+              "text": "(Sisters) Love prevails!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Love prevails when all else fails;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Love never fails!"
             }
           ]
         }
@@ -149,19 +77,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "God as"
-            },
-            {
-              "chord": "Bm",
-              "text": "life; The"
-            },
-            {
-              "chord": "G",
-              "text": "life, a"
-            },
-            {
-              "chord": "",
-              "text": "law,"
+              "text": "The love described by God’s own word"
             }
           ]
         },
@@ -169,11 +85,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "within God's"
-            },
-            {
-              "chord": "F♯m",
-              "text": "heart Is"
+              "text": "Expresses God as life;"
             }
           ]
         },
@@ -181,23 +93,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "Em",
-              "text": "Spirit"
-            },
+              "text": "The life, a law, within God’s heart"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "of"
-            },
-            {
-              "chord": "G",
-              "text": "Jesus"
-            },
-            {
-              "chord": "A7",
-              "text": "Christ."
+              "text": "Is the Spirit of Jesus Christ."
             }
           ]
         }
@@ -323,20 +227,22 @@
   "metadata": {
     "category": "Experience of Christ",
     "time": "4/4",
-    "hymn_code": "15512232123554"
+    "hymn_code": "15512232123554",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0958_tune.midi"
   },
   "raw_sections": [
-    "Love isthe mostexcellentway,",
-    "Love prevails! Neverfails!More",
-    "than what we",
-    "do orsay, Love prevails! Neverfails!",
-    "Loveprevails whenallelse",
-    "fails; Lovenever",
-    "fails! Thelove describedbyGod's",
-    "own word Expresses",
-    "God aslife; Thelife, alaw,",
-    "within God'sheart Is",
-    "theSpiritofJesusChrist.",
+    "Love is the most excellent way,",
+    "(Brothers) Love prevails! Never fails!",
+    "(Sisters) Love prevails!",
+    "More than what we do or say,",
+    "(Brothers) Love prevails! Never fails!",
+    "(Sisters) Love prevails!",
+    "Love prevails when all else fails;",
+    "Love never fails!",
+    "The love described by God’s own word",
+    "Expresses God as life;",
+    "The life, a law, within God’s heart",
+    "Is the Spirit of Jesus Christ.",
     "The love of God poured out from God,",
     "Through Christ into our hearts,",
     "Is nothing less than Christ Himself",

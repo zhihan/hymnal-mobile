@@ -12,15 +12,15 @@
             },
             {
               "chord": "F",
-              "text": "纳 我"
+              "text": "納 我"
             },
             {
               "chord": "",
-              "text": "们 的"
+              "text": "們 的"
             },
             {
               "chord": "C",
-              "text": "诗 歌，"
+              "text": "詩 歌，"
             }
           ]
         },
@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "虽 然 声 音"
+              "text": "雖 然 聲 音"
             },
             {
               "chord": "D",
-              "text": "顶 柔"
+              "text": "頂 柔"
             },
             {
               "chord": "G",
@@ -44,11 +44,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "F",
-              "text": "述 说"
+              "text": "述 說"
             },
             {
               "chord": "",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "C",
-              "text": "恩 笃，"
+              "text": "恩 篤，"
             }
           ]
         },
@@ -68,7 +68,7 @@
             },
             {
               "chord": "G",
-              "text": "们 救"
+              "text": "們 救"
             },
             {
               "chord": "C",
@@ -313,10 +313,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "536176531123565",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0073_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/90",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/90",
+        "language": "en",
         "category": "h",
         "number": "90",
         "title": "E90"
@@ -324,10 +325,10 @@
     ]
   },
   "raw_sections": [
-    "主， 接纳 我们 的诗 歌，",
-    "虽 然 声 音顶 柔弱；",
-    "我 们述 说你 的恩 笃，",
-    "因 你 是 我们 救主。",
+    "主， 接納 我們 的詩 歌，",
+    "雖 然 聲 音頂 柔弱；",
+    "我 們述 說你 的恩 篤，",
+    "因 你 是 我們 救主。",
     "因你舍去荣耀、丰富，",
     "你的信徒才得福；",
     "你变贫穷，叫你信徒",

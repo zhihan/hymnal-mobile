@@ -32,11 +32,11 @@
             },
             {
               "chord": "A",
-              "text": "恋 红"
+              "text": "戀 紅"
             },
             {
               "chord": "D",
-              "text": "尘；"
+              "text": "塵；"
             }
           ]
         },
@@ -44,11 +44,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "儆 醒 阿， 白 昼"
+              "text": "儆 醒 阿， 白 晝"
             },
             {
               "chord": "G",
-              "text": "将"
+              "text": "將"
             },
             {
               "chord": "D",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "A7",
-              "text": "要 来！"
+              "text": "要 來！"
             }
           ]
         },
@@ -100,11 +100,11 @@
             },
             {
               "chord": "E7",
-              "text": "松 腰"
+              "text": "鬆 腰"
             },
             {
               "chord": "A",
-              "text": "带；"
+              "text": "帶；"
             }
           ]
         },
@@ -293,10 +293,11 @@
     "category": "鼓励",
     "time": "4/4",
     "hymn_code": "5345565111123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0486_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/666",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/666",
+        "language": "en",
         "category": "h",
         "number": "666",
         "title": "E666"
@@ -305,11 +306,11 @@
   },
   "raw_sections": [
     "儆 醒阿， 黑 夜已深！",
-    "儆 醒， 莫恋 红尘；",
-    "儆 醒 阿， 白 昼将近！",
+    "儆 醒， 莫戀 紅塵；",
+    "儆 醒 阿， 白 晝將近！",
     "儆 醒，莫 睡沉。",
-    "儆 醒阿， 主 就要 来！",
-    "儆 醒，莫松 腰带；",
+    "儆 醒阿， 主 就要 來！",
+    "儆 醒，莫鬆 腰帶；",
     "儆 醒阿， 主 在等待！",
     "儆 醒，莫 懈怠。",
     "儆醒阿，起来事奉！",

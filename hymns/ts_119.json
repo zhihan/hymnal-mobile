@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "赐 生"
+              "text": "賜 生"
             },
             {
               "chord": "Em",
@@ -24,7 +24,7 @@
           "segments": [
             {
               "chord": "F",
-              "text": "赐 我"
+              "text": "賜 我"
             },
             {
               "chord": "",
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "当"
+              "text": "當"
             },
             {
               "chord": "F",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "D7",
-              "text": "就 释"
+              "text": "就 釋"
             },
             {
               "chord": "",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "G",
-              "text": "灵。"
+              "text": "靈。"
             }
           ]
         },
@@ -88,7 +88,7 @@
             },
             {
               "chord": "",
-              "text": "赐 生"
+              "text": "賜 生"
             },
             {
               "chord": "Em",
@@ -108,7 +108,7 @@
             },
             {
               "chord": "C",
-              "text": "里；"
+              "text": "裡；"
             }
           ]
         },
@@ -120,7 +120,7 @@
             },
             {
               "chord": "F",
-              "text": "不 仅"
+              "text": "不 僅"
             },
             {
               "chord": "",
@@ -128,7 +128,7 @@
             },
             {
               "chord": "C",
-              "text": "个 名"
+              "text": "個 名"
             },
             {
               "chord": "Am",
@@ -148,11 +148,11 @@
             },
             {
               "chord": "G7",
-              "text": "的 实"
+              "text": "的 實"
             },
             {
               "chord": "C",
-              "text": "际。"
+              "text": "際。"
             }
           ]
         }
@@ -165,10 +165,11 @@
     "category": "灵与生命",
     "time": "4/4",
     "hymn_code": "1111756115",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0119_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/6119",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/6119",
+        "language": "en",
         "category": "h",
         "number": "6119",
         "title": "E6119"
@@ -176,13 +177,13 @@
     ]
   },
   "raw_sections": [
-    "主 是赐 生命 者，",
-    "赐 我生命；",
-    "当每 一次 我呼 喊祂，",
-    "祂就 释放 我灵。",
-    "主 是赐 生命 者，",
-    "住 在我里；",
-    "祂不 仅是 一个 名字，",
-    "乃是 我的 实际。"
+    "主 是賜 生命 者，",
+    "賜 我生命；",
+    "當每 一次 我呼 喊祂，",
+    "祂就 釋放 我靈。",
+    "主 是賜 生命 者，",
+    "住 在我裡；",
+    "祂不 僅是 一個 名字，",
+    "乃是 我的 實際。"
   ]
 }

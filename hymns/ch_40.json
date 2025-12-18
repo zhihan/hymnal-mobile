@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "没 有"
+              "text": "沒 有"
             },
             {
               "chord": "",
-              "text": "血、 没 有"
+              "text": "血、 沒 有"
             },
             {
               "chord": "A",
-              "text": "坛，"
+              "text": "壇，"
             }
           ]
         },
@@ -32,7 +32,7 @@
             },
             {
               "chord": "",
-              "text": "成 过"
+              "text": "成 過"
             },
             {
               "chord": "D",
@@ -44,11 +44,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "没 有 烟"
+              "text": "沒 有 煙"
             },
             {
               "chord": "Bm",
-              "text": "冒、 没"
+              "text": "冒、 沒"
             },
             {
               "chord": "Em",
@@ -64,7 +64,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "牺"
+              "text": "犧"
             },
             {
               "chord": "D",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "A7",
@@ -108,7 +108,7 @@
             },
             {
               "chord": "A",
-              "text": "贵"
+              "text": "貴"
             },
             {
               "chord": "E7",
@@ -116,7 +116,7 @@
             },
             {
               "chord": "A",
-              "text": "脉，"
+              "text": "脈，"
             }
           ]
         },
@@ -128,11 +128,11 @@
             },
             {
               "chord": "D",
-              "text": "净 人"
+              "text": "淨 人"
             },
             {
               "chord": "",
-              "text": "的 污 秽，"
+              "text": "的 污 穢，"
             }
           ]
         },
@@ -144,7 +144,7 @@
             },
             {
               "chord": "G",
-              "text": "偿 人"
+              "text": "償 人"
             },
             {
               "chord": "D",
@@ -156,7 +156,7 @@
             },
             {
               "chord": "D",
-              "text": "债。"
+              "text": "債。"
             }
           ]
         }
@@ -433,10 +433,11 @@
     "category": "敬拜父",
     "time": "4/4",
     "hymn_code": "51332125244323",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0040_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/106",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/106",
+        "language": "en",
         "category": "h",
         "number": "106",
         "title": "E106"
@@ -444,13 +445,13 @@
     ]
   },
   "raw_sections": [
-    "没 有血、 没 有坛，",
-    "祭祀 已成 过去；",
-    "没 有 烟冒、 没有 火燃，",
-    "牺牲 再无必需；",
-    "更美 的血 流自更贵的脉，",
-    "洗净 人的 污 秽，",
-    "清偿 人的罪债。",
+    "沒 有血、 沒 有壇，",
+    "祭祀 已成 過去；",
+    "沒 有 煙冒、 沒有 火燃，",
+    "犧牲 再無必需；",
+    "更美 的血 流自更貴的脈，",
+    "洗淨 人的 污 穢，",
+    "清償 人的罪債。",
     "神，我们感谢你，",
     "为你儿子的血，",
     "靠祂我们被称为义，",

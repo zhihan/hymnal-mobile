@@ -75,11 +75,11 @@
               "text": "entrance"
             },
             {
-              "chord": "A",
+              "chord": "",
               "text": "we"
             },
             {
-              "chord": "Bm",
+              "chord": "A",
               "text": "had,"
             }
           ]
@@ -88,10 +88,18 @@
           "segments": [
             {
               "chord": "",
-              "text": "For they themselves re"
+              "text": "For"
             },
             {
-              "chord": "G",
+              "chord": "D",
+              "text": "they them"
+            },
+            {
+              "chord": "A",
+              "text": "selves re"
+            },
+            {
+              "chord": "Bm",
               "text": "port"
             }
           ]
@@ -103,11 +111,11 @@
               "text": "con"
             },
             {
-              "chord": "A",
+              "chord": "G",
               "text": "cerning"
             },
             {
-              "chord": "Bm",
+              "chord": "D",
               "text": "us"
             }
           ]
@@ -116,18 +124,22 @@
           "segments": [
             {
               "chord": "",
-              "text": "what kind of"
-            },
-            {
-              "chord": "A",
-              "text": "en"
+              "text": "what"
             },
             {
               "chord": "G",
-              "text": "trance we"
+              "text": "kind of"
+            },
+            {
+              "chord": "D",
+              "text": "entrance"
             },
             {
               "chord": "",
+              "text": "we"
+            },
+            {
+              "chord": "A",
               "text": "had"
             }
           ]
@@ -135,12 +147,12 @@
         {
           "segments": [
             {
-              "chord": "",
-              "text": "toward"
+              "chord": "Bm",
+              "text": "to"
             },
             {
               "chord": "A",
-              "text": "you"
+              "text": "ward you"
             }
           ]
         },
@@ -148,18 +160,22 @@
           "segments": [
             {
               "chord": "",
-              "text": "and how you turned to"
+              "text": "and how you"
             },
             {
               "chord": "G",
-              "text": "God from"
-            },
-            {
-              "chord": "",
-              "text": "the"
+              "text": "turned to"
             },
             {
               "chord": "A",
+              "text": "God"
+            },
+            {
+              "chord": "F♯m",
+              "text": "from the"
+            },
+            {
+              "chord": "Bm",
               "text": "idols"
             }
           ]
@@ -167,24 +183,28 @@
         {
           "segments": [
             {
-              "chord": "F♯m",
+              "chord": "",
               "text": "to"
             },
             {
-              "chord": "Bm",
+              "chord": "Em7",
               "text": "serve a"
             },
             {
-              "chord": "",
-              "text": "liv"
-            },
-            {
-              "chord": "Em7",
-              "text": "ing and"
-            },
-            {
               "chord": "A7",
-              "text": "true God,"
+              "text": "living"
+            },
+            {
+              "chord": "",
+              "text": "and"
+            },
+            {
+              "chord": "D",
+              "text": "true"
+            },
+            {
+              "chord": "A",
+              "text": "God,"
             }
           ]
         },
@@ -192,15 +212,47 @@
           "segments": [
             {
               "chord": "",
-              "text": "how"
+              "text": "how you"
             },
             {
-              "chord": "D",
-              "text": "you turned"
+              "chord": "G",
+              "text": "turned to"
             },
             {
               "chord": "A",
+              "text": "God"
+            },
+            {
+              "chord": "F♯m",
+              "text": "from the"
+            },
+            {
+              "chord": "Bm",
+              "text": "idols"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
               "text": "to"
+            },
+            {
+              "chord": "Em7",
+              "text": "serve a"
+            },
+            {
+              "chord": "A7",
+              "text": "living,"
+            },
+            {
+              "chord": "",
+              "text": "true"
+            },
+            {
+              "chord": "D",
+              "text": "God."
             }
           ]
         }
@@ -211,19 +263,21 @@
   "metadata": {
     "category": "Scriptures for Singing",
     "time": "4/4",
-    "hymn_code": "17765617511223"
+    "hymn_code": "17765617511223",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0584_tune.midi"
   },
   "raw_sections": [
     "FirstThessalonians One:Nine:",
     "Forthey themselves report",
     "concerningus",
     "whatkind ofentrancewehad,",
-    "For they themselves report",
+    "Forthey themselves report",
     "concerningus",
-    "what kind ofentrance wehad",
-    "towardyou",
-    "and how you turned toGod fromtheidols",
-    "toserve aliving andtrue God,",
-    "howyou turnedto"
+    "whatkind ofentrancewehad",
+    "toward you",
+    "and how youturned toGodfrom theidols",
+    "toserve alivingandtrueGod,",
+    "how youturned toGodfrom theidols",
+    "toserve aliving,trueGod."
   ]
 }

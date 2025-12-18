@@ -28,11 +28,11 @@
             },
             {
               "chord": "G",
-              "text": "须 死"
+              "text": "須 死"
             },
             {
               "chord": "A7",
-              "text": "髑 髅"
+              "text": "髑 髏"
             },
             {
               "chord": "D",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "",
-              "text": "典 无 门，"
+              "text": "典 無 門，"
             }
           ]
         },
@@ -60,7 +60,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "来"
+              "text": "來"
             },
             {
               "chord": "A",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "E7",
-              "text": "凉 罪"
+              "text": "涼 罪"
             },
             {
               "chord": "A",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "",
-              "text": "儿"
+              "text": "兒"
             },
             {
               "chord": "Em",
@@ -96,7 +96,7 @@
             },
             {
               "chord": "D",
-              "text": "当 流"
+              "text": "當 流"
             },
             {
               "chord": "",
@@ -112,7 +112,7 @@
             },
             {
               "chord": "Em",
-              "text": "人 才"
+              "text": "人 纔"
             },
             {
               "chord": "",
@@ -128,7 +128,7 @@
             },
             {
               "chord": "A",
-              "text": "洁，"
+              "text": "潔，"
             }
           ]
         },
@@ -144,7 +144,7 @@
             },
             {
               "chord": "A",
-              "text": "才"
+              "text": "纔"
             },
             {
               "chord": "D",
@@ -160,7 +160,7 @@
             },
             {
               "chord": "D",
-              "text": "洁。"
+              "text": "潔。"
             }
           ]
         }
@@ -335,10 +335,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "5123453132171",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0091_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/105",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/105",
+        "language": "en",
         "category": "h",
         "number": "105",
         "title": "E105"
@@ -347,12 +348,12 @@
   },
   "raw_sections": [
     "祂 不能 救 自己，",
-    "必须 死髑 髅地；",
-    "不然， 恩典 无 门，",
-    "来救 荒凉 罪人；",
-    "真的， 神儿子当 流血，",
-    "罪人 才能洗得 清洁，",
-    "罪人才能 洗得清洁。",
+    "必須 死髑 髏地；",
+    "不然， 恩典 無 門，",
+    "來救 荒涼 罪人；",
+    "真的， 神兒子當 流血，",
+    "罪人 纔能洗得 清潔，",
+    "罪人纔能 洗得清潔。",
     "祂不能救自己，",
     "必须成全公义；",
     "我罪当有刑罚，",

@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "生 命 之 灵，"
+              "text": "生 命 之 靈，"
             }
           ]
         },
@@ -20,7 +20,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "进"
+              "text": "進"
             },
             {
               "chord": "D",
@@ -28,7 +28,7 @@
             },
             {
               "chord": "D7",
-              "text": "里"
+              "text": "裡"
             },
             {
               "chord": "G",
@@ -84,11 +84,11 @@
             },
             {
               "chord": "G",
-              "text": "可 饮"
+              "text": "可 飲"
             },
             {
               "chord": "",
-              "text": "于 这 灵，"
+              "text": "於 這 靈，"
             }
           ]
         },
@@ -108,7 +108,7 @@
             },
             {
               "chord": "D",
-              "text": "满，"
+              "text": "滿，"
             }
           ]
         },
@@ -132,7 +132,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "涌"
+              "text": "湧"
             },
             {
               "chord": "D",
@@ -144,7 +144,7 @@
             },
             {
               "chord": "G",
-              "text": "远。"
+              "text": "遠。"
             }
           ]
         }
@@ -577,10 +577,11 @@
     "category": "圣灵的丰满",
     "time": "3/4",
     "hymn_code": "51123321271",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0226_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/278",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/278",
+        "language": "en",
         "category": "h",
         "number": "278",
         "title": "E278"
@@ -588,14 +589,14 @@
     ]
   },
   "raw_sections": [
-    "主 的生 命 之 灵，",
-    "进到 我里面，",
+    "主 的生 命 之 靈，",
+    "進到 我裡面，",
     "如同 活水解 渴，",
     "作我 活水泉；",
-    "我可 饮于 这 灵，",
-    "且被 祂充满，",
+    "我可 飲於 這 靈，",
+    "且被 祂充滿，",
     "直到 如同 江 河，",
-    "涌流 到永远。",
+    "湧流 到永遠。",
     "主的能力之灵，",
     "降到我身上，",
     "犹如外衣遮身，",

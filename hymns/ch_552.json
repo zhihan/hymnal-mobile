@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "祷 告"
+              "text": "禱 告"
             },
             {
               "chord": "",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "G",
-              "text": "是 灵"
+              "text": "是 靈"
             },
             {
               "chord": "A",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "A7",
-              "text": "烧 圣"
+              "text": "燒 聖"
             },
             {
               "chord": "D",
@@ -36,7 +36,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "经 过 破"
+              "text": "經 過 破"
             },
             {
               "chord": "G",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "",
-              "text": "人 向 神 献"
+              "text": "人 向 神 獻"
             },
             {
               "chord": "A",
@@ -60,15 +60,15 @@
             },
             {
               "chord": "",
-              "text": "圣 灵 焚 烧 之"
+              "text": "聖 靈 焚 燒 之"
             },
             {
               "chord": "E7",
-              "text": "气 所"
+              "text": "氣 所"
             },
             {
               "chord": "A",
-              "text": "点，"
+              "text": "點，"
             }
           ]
         },
@@ -88,7 +88,7 @@
             },
             {
               "chord": "",
-              "text": "求 带"
+              "text": "求 帶"
             },
             {
               "chord": "A",
@@ -303,10 +303,11 @@
     "category": "祷告",
     "time": "4/4",
     "hymn_code": "1234321171",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0552_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/762",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/762",
+        "language": "en",
         "category": "h",
         "number": "762",
         "title": "E762"
@@ -314,10 +315,10 @@
     ]
   },
   "raw_sections": [
-    "祷 告乃是 灵中 所烧 圣香，",
-    "经 过 破碎 之人 向 神 献上：",
-    "乃 是圣 灵 焚 烧 之气 所点，",
-    "再 由信心 呼求 带到神前。",
+    "禱 告乃是 靈中 所燒 聖香，",
+    "經 過 破碎 之人 向 神 獻上：",
+    "乃 是聖 靈 焚 燒 之氣 所點，",
+    "再 由信心 呼求 帶到神前。",
     "祷告乃是恩典所产香料，",
     "信心、爱心、苦难之花所调，",
     "藏在满了香气的话里面，",

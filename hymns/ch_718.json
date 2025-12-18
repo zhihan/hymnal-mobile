@@ -16,7 +16,7 @@
             },
             {
               "chord": "A",
-              "text": "弃 绝"
+              "text": "棄 絕"
             },
             {
               "chord": "",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "A7",
-              "text": "闭 目"
+              "text": "閉 目"
             },
             {
               "chord": "",
@@ -56,11 +56,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "亲"
+              "text": "親"
             },
             {
               "chord": "G",
-              "text": "爱 的，"
+              "text": "愛 的，"
             },
             {
               "chord": "",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "A7",
-              "text": "当 趁"
+              "text": "當 趁"
             },
             {
               "chord": "D",
@@ -106,7 +106,7 @@
             },
             {
               "chord": "A7",
-              "text": "再 迟"
+              "text": "再 遲"
             },
             {
               "chord": "D",
@@ -126,7 +126,7 @@
             },
             {
               "chord": "A7",
-              "text": "再 迟"
+              "text": "再 遲"
             },
             {
               "chord": "D",
@@ -166,7 +166,7 @@
             },
             {
               "chord": "A7",
-              "text": "再 迟"
+              "text": "再 遲"
             },
             {
               "chord": "D",
@@ -407,10 +407,11 @@
     "category": "福音",
     "time": "4/4",
     "hymn_code": "12333323135554243",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0718_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1045",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1045",
+        "language": "en",
         "category": "h",
         "number": "1045",
         "title": "E1045"
@@ -418,14 +419,14 @@
     ]
   },
   "raw_sections": [
-    "哦， 不要弃 绝主 恩道，",
-    "也不 要闭 目拒 光照；",
-    "亲爱 的，切 莫 心 硬著！",
-    "得救当 趁早！",
-    "何 必再 迟延？",
-    "何必再 迟延？",
+    "哦， 不要棄 絕主 恩道，",
+    "也不 要閉 目拒 光照；",
+    "親愛 的，切 莫 心 硬著！",
+    "得救當 趁早！",
+    "何 必再 遲延？",
+    "何必再 遲延？",
     "你要 得救援，",
-    "何必再 迟延？",
+    "何必再 遲延？",
     "明天的太阳不一定",
     "还照你受欺的眼睛；",
     "今夜是时机！该聪明！",

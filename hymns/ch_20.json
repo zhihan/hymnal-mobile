@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "你 曾 凭"
+              "text": "你 曾 憑"
             },
             {
               "chord": "D",
@@ -32,11 +32,11 @@
             },
             {
               "chord": "D7",
-              "text": "爱 心"
+              "text": "愛 心"
             },
             {
               "chord": "G",
-              "text": "愿，"
+              "text": "願，"
             }
           ]
         },
@@ -44,15 +44,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "为 子 制 定 永"
+              "text": "為 子 制 定 永"
             },
             {
               "chord": "D",
-              "text": "远 计"
+              "text": "遠 計"
             },
             {
               "chord": "",
-              "text": "画："
+              "text": "畫："
             }
           ]
         },
@@ -60,7 +60,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "万"
+              "text": "萬"
             },
             {
               "chord": "A7",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "D7",
-              "text": "满。"
+              "text": "滿。"
             }
           ]
         }
@@ -110,7 +110,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "谁 能 测"
+              "text": "誰 能 測"
             },
             {
               "chord": "D7",
@@ -118,7 +118,7 @@
             },
             {
               "chord": "G",
-              "text": "寻？"
+              "text": "尋？"
             }
           ]
         },
@@ -138,7 +138,7 @@
             },
             {
               "chord": "G",
-              "text": "这 智"
+              "text": "這 智"
             },
             {
               "chord": "",
@@ -158,11 +158,11 @@
             },
             {
               "chord": "D7",
-              "text": "惠、 怜"
+              "text": "惠、 憐"
             },
             {
               "chord": "G",
-              "text": "悯！"
+              "text": "憫！"
             }
           ]
         }
@@ -549,10 +549,11 @@
     "category": "敬拜父",
     "time": "4/4",
     "hymn_code": "55335522345675",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0020_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/23",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/23",
+        "language": "en",
         "category": "h",
         "number": "23",
         "title": "E23"
@@ -560,14 +561,14 @@
     ]
   },
   "raw_sections": [
-    "父 神，你 曾 凭你 智慧，",
-    "照 你 所爱 心愿，",
-    "为 子 制 定 永远 计划：",
-    "万有 由祂 充满。",
+    "父 神，你 曾 憑你 智慧，",
+    "照 你 所愛 心願，",
+    "為 子 制 定 永遠 計畫：",
+    "萬有 由祂 充滿。",
     "深哉、 富哉， 你的 智慧，",
-    "谁 能 测度、 追寻？",
-    "然而 父神， 因这 智慧，",
-    "我蒙 恩惠、 怜悯！",
+    "誰 能 測度、 追尋？",
+    "然而 父神， 因這 智慧，",
+    "我蒙 恩惠、 憐憫！",
     "你造万有，何其奇妙，",
     "你心谁能洞鉴？",
     "一切由你、靠你、归你，",

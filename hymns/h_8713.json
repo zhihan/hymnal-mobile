@@ -1,6 +1,6 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/8713",
-  "title": "Are you a lost sheep along life's way",
+  "url": "https://www.hymnal.net/en/hymn/h/8713",
+  "title": "Are you a lost sheep along life’s way",
   "verses": [
     {
       "lines": [
@@ -155,7 +155,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Are you a lost man along life's way?"
+              "text": "Are you a lost man along life’s way?"
             }
           ]
         },
@@ -230,7 +230,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "O wand'ring soul, have you rest today?"
+              "text": "O wand’ring soul, have you rest today?"
             }
           ]
         },
@@ -238,7 +238,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "The Father's longing for you always."
+              "text": "The Father’s longing for you always."
             }
           ]
         },
@@ -284,7 +284,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "The Father's longing for you always."
+              "text": "The Father’s longing for you always."
             }
           ]
         },
@@ -304,6 +304,7 @@
     "category": "Gospel",
     "time": "4/4",
     "hymn_code": "332117615",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e8713_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ch/713",
@@ -323,7 +324,7 @@
     "Oh, could it beyou?",
     "One ina hundred sheep'smissed today.",
     "Oh, couldit beyou?",
-    "Are you a lost man along life's way?",
+    "Are you a lost man along life’s way?",
     "The Spirit seeks you without delay.",
     "One out of ten coins is missed today.",
     "Oh, could it be you?",
@@ -331,13 +332,13 @@
     "Oh, could it be you?",
     "One out of ten coins are missed today.",
     "Oh, could it be you?",
-    "O wand'ring soul, have you rest today?",
-    "The Father's longing for you always.",
+    "O wand’ring soul, have you rest today?",
+    "The Father’s longing for you always.",
     "Joyful, a son will come home to stay.",
     "Oh, could it be you?",
     "Oh, could it be you?",
     "Oh, could it be you?",
-    "The Father's longing for you always.",
+    "The Father’s longing for you always.",
     "Oh, could it be you?"
   ]
 }

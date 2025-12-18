@@ -16,7 +16,7 @@
             },
             {
               "chord": "G",
-              "text": "里"
+              "text": "裡"
             },
             {
               "chord": "D",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "这"
+              "text": "這"
             },
             {
               "chord": "D",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "A",
-              "text": "愿，"
+              "text": "願，"
             }
           ]
         },
@@ -60,7 +60,7 @@
             },
             {
               "chord": "G",
-              "text": "里 面，"
+              "text": "裡 面，"
             }
           ]
         },
@@ -68,7 +68,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "时 刻"
+              "text": "時 刻"
             },
             {
               "chord": "E",
@@ -76,11 +76,11 @@
             },
             {
               "chord": "E7",
-              "text": "间"
+              "text": "間"
             },
             {
               "chord": "A",
-              "text": "断；"
+              "text": "斷；"
             }
           ]
         },
@@ -100,7 +100,7 @@
             },
             {
               "chord": "D",
-              "text": "与"
+              "text": "與"
             },
             {
               "chord": "E",
@@ -108,11 +108,11 @@
             },
             {
               "chord": "E7",
-              "text": "树 相"
+              "text": "樹 相"
             },
             {
               "chord": "A",
-              "text": "联，"
+              "text": "聯，"
             }
           ]
         },
@@ -128,7 +128,7 @@
             },
             {
               "chord": "Em",
-              "text": "愿，"
+              "text": "願，"
             }
           ]
         },
@@ -152,7 +152,7 @@
             },
             {
               "chord": "A7",
-              "text": "里"
+              "text": "裡"
             },
             {
               "chord": "D",
@@ -339,10 +339,11 @@
     "category": "经历基督",
     "time": "4/4",
     "hymn_code": "3214323127",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0420_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/563",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/563",
+        "language": "en",
         "category": "h",
         "number": "563",
         "title": "E563"
@@ -350,13 +351,13 @@
     ]
   },
   "raw_sections": [
-    "住 在你里面，",
-    "这是我心愿，",
-    "住 在你里 面，",
-    "时 刻不间断；",
-    "枝 子如何与葡 萄树 相联，",
-    "我 也深愿，",
-    "主，住在你里面。",
+    "住 在你裡面，",
+    "這是我心願，",
+    "住 在你裡 面，",
+    "時 刻不間斷；",
+    "枝 子如何與葡 萄樹 相聯，",
+    "我 也深願，",
+    "主，住在你裡面。",
     "住在你里面，",
     "你富我享受，",
     "你所是一切，",

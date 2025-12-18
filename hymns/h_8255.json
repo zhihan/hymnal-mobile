@@ -1,6 +1,6 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/8255",
-  "title": "Within my heart a praise o'erflowing",
+  "url": "https://www.hymnal.net/en/hymn/h/8255",
+  "title": "Within my heart a praise o’erflowing",
   "verses": [
     {
       "lines": [
@@ -219,7 +219,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Amazing grace! He's living now in me;"
+              "text": "Amazing grace! He’s living now in me;"
             }
           ]
         },
@@ -377,7 +377,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Where the vict'ry song we'll sing;"
+              "text": "Where the vict’ry song we’ll sing;"
             }
           ]
         },
@@ -393,7 +393,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Angels' celebrations ring."
+              "text": "Angels’ celebrations ring."
             }
           ]
         }
@@ -533,6 +533,7 @@
   "metadata": {
     "category": "Assurance and Joy of Salvation",
     "time": "4/4",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e8255_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ch/255",
@@ -555,7 +556,7 @@
     "Theresprings amelody oflove.",
     "Oh, wondrous love, the Lord has saved me,",
     "Granting me new life and joy;",
-    "Amazing grace! He's living now in me;",
+    "Amazing grace! He’s living now in me;",
     "Grace and love I now enjoy.",
     "In my heart there springs a melody,",
     "The sweetest melody,",
@@ -572,9 +573,9 @@
     "In my heart there springs a melody;",
     "There springs a melody of love.",
     "Oh, what release! I shall be raptured,",
-    "Where the vict'ry song we'll sing;",
+    "Where the vict’ry song we’ll sing;",
     "Oh, what an honor, reigning with the Lord;",
-    "Angels' celebrations ring.",
+    "Angels’ celebrations ring.",
     "In my heart there springs a melody,",
     "The sweetest melody,",
     "A song so heavenly,",

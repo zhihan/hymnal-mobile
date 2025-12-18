@@ -127,7 +127,13 @@
               "text": "ly."
             }
           ]
-        },
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
         {
           "segments": [
             {
@@ -209,8 +215,7 @@
           ]
         }
       ],
-      "type": "verse",
-      "number": "1"
+      "type": "chorus"
     },
     {
       "lines": [
@@ -261,7 +266,13 @@
               "text": "Loving You, Jesus Lord."
             }
           ]
-        },
+        }
+      ],
+      "type": "verse",
+      "number": "2"
+    },
+    {
+      "lines": [
         {
           "segments": [
             {
@@ -290,13 +301,12 @@
           "segments": [
             {
               "chord": "",
-              "text": "I open wide to Thee."
+              "text": "My full reality."
             }
           ]
         }
       ],
-      "type": "verse",
-      "number": "2"
+      "type": "chorus"
     },
     {
       "lines": [
@@ -347,7 +357,13 @@
               "text": "Loving You constantly."
             }
           ]
-        },
+        }
+      ],
+      "type": "verse",
+      "number": "3"
+    },
+    {
+      "lines": [
         {
           "segments": [
             {
@@ -381,8 +397,7 @@
           ]
         }
       ],
-      "type": "verse",
-      "number": "3"
+      "type": "chorus"
     },
     {
       "lines": [
@@ -433,7 +448,13 @@
               "text": "Lord, I belong to You."
             }
           ]
-        },
+        }
+      ],
+      "type": "verse",
+      "number": "4"
+    },
+    {
+      "lines": [
         {
           "segments": [
             {
@@ -467,14 +488,14 @@
           ]
         }
       ],
-      "type": "verse",
-      "number": "4"
+      "type": "chorus"
     }
   ],
   "metadata": {
     "category": "Consecration",
     "time": "4/4",
-    "hymn_code": "1232217112355176"
+    "hymn_code": "1232217112355176",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0074_tune.midi"
   },
   "raw_sections": [
     "Jesus,OlivingWord ofGod,",
@@ -496,7 +517,7 @@
     "Jesus, precious One,",
     "Be so real to me.",
     "You are all I want;",
-    "I open wide to Thee.",
+    "My full reality.",
     "Jesus, Oh living One in me,",
     "Open my eyes that I might see",
     "All that You are to me.",

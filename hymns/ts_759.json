@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "当 主"
+              "text": "當 主"
             },
             {
               "chord": "D",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "A7",
-              "text": "与 人"
+              "text": "與 人"
             },
             {
               "chord": "D",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "A",
-              "text": "弃；"
+              "text": "棄；"
             }
           ]
         },
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "D",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "G",
-              "text": "主 里"
+              "text": "主 裏"
             },
             {
               "chord": "F♯m",
@@ -68,15 +68,15 @@
           "segments": [
             {
               "chord": "Bm",
-              "text": "仪 文"
+              "text": "儀 文"
             },
             {
               "chord": "G",
-              "text": "岂 可"
+              "text": "豈 可"
             },
             {
               "chord": "A7",
-              "text": "再 凭"
+              "text": "再 憑"
             },
             {
               "chord": "D",
@@ -88,19 +88,19 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "哦， 让"
+              "text": "哦， 讓"
             },
             {
               "chord": "D",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "G",
-              "text": "在 复"
+              "text": "在 復"
             },
             {
               "chord": "D",
-              "text": "活 里，"
+              "text": "活 裏，"
             }
           ]
         },
@@ -116,11 +116,11 @@
             },
             {
               "chord": "E7",
-              "text": "为 实"
+              "text": "為 實"
             },
             {
               "chord": "A",
-              "text": "际，"
+              "text": "際，"
             }
           ]
         },
@@ -140,7 +140,7 @@
             },
             {
               "chord": "D",
-              "text": "新 样，"
+              "text": "新 樣，"
             }
           ]
         },
@@ -152,15 +152,15 @@
             },
             {
               "chord": "D",
-              "text": "虚 仪"
+              "text": "虛 儀"
             },
             {
               "chord": "",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "A7",
-              "text": "踪"
+              "text": "蹤"
             },
             {
               "chord": "G",
@@ -387,10 +387,11 @@
     "category": "教会的生活",
     "time": "3/4",
     "hymn_code": "123124313346532",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0759_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1281",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1281",
+        "language": "en",
         "category": "h",
         "number": "1281",
         "title": "E1281"
@@ -398,14 +399,14 @@
     ]
   },
   "raw_sections": [
-    "当 主在 地与 人同 聚，",
-    "宗 教、老 套全 撇弃；",
-    "我 们今 日主 里聚 集，",
-    "仪 文岂 可再 凭倚？",
-    "哦， 让我 们在 复活 里，",
-    "以 主基 督为 实际，",
-    "每 逢聚 集都 是新 样，",
-    "死 沉、虚 仪无踪迹。",
+    "當 主在 地與 人同 聚，",
+    "宗 教、老 套全 撇棄；",
+    "我 們今 日主 裏聚 集，",
+    "儀 文豈 可再 憑倚？",
+    "哦， 讓我 們在 復活 裏，",
+    "以 主基 督為 實際，",
+    "每 逢聚 集都 是新 樣，",
+    "死 沉、虛 儀無蹤迹。",
     "主已复活，桎梏全除，",
     "宗教事物已过时；",
     "祂是活殿，是真供物，",

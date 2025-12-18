@@ -16,7 +16,7 @@
             },
             {
               "chord": "G",
-              "text": "绑，"
+              "text": "綁，"
             }
           ]
         },
@@ -28,11 +28,11 @@
             },
             {
               "chord": "D",
-              "text": "才 得"
+              "text": "纔 得"
             },
             {
               "chord": "",
-              "text": "著 释"
+              "text": "著 釋"
             },
             {
               "chord": "A",
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "愿"
+              "text": "願"
             },
             {
               "chord": "D",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "E7",
-              "text": "主 缴"
+              "text": "主 繳"
             },
             {
               "chord": "A",
@@ -68,11 +68,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 才 得"
+              "text": "我 纔 得"
             },
             {
               "chord": "E7",
-              "text": "胜 奏"
+              "text": "勝 奏"
             },
             {
               "chord": "A",
@@ -84,7 +84,7 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "当"
+              "text": "當"
             },
             {
               "chord": "D",
@@ -112,7 +112,7 @@
             },
             {
               "chord": "",
-              "text": "败 危"
+              "text": "敗 危"
             },
             {
               "chord": "A",
@@ -124,7 +124,7 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "当"
+              "text": "當"
             },
             {
               "chord": "D",
@@ -132,11 +132,11 @@
             },
             {
               "chord": "",
-              "text": "臂 将"
+              "text": "臂 將"
             },
             {
               "chord": "A",
-              "text": "我 监"
+              "text": "我 監"
             },
             {
               "chord": "D",
@@ -160,7 +160,7 @@
             },
             {
               "chord": "D",
-              "text": "劲。"
+              "text": "勁。"
             }
           ]
         }
@@ -383,10 +383,11 @@
     "category": "羡慕",
     "time": "4/4",
     "hymn_code": "111336651432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0322_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/422",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/422",
+        "language": "en",
         "category": "h",
         "number": "422",
         "title": "E422"
@@ -394,14 +395,14 @@
     ]
   },
   "raw_sections": [
-    "求 主把 我 捆绑，",
-    "我才 得著 释放；",
-    "愿主 迫我 向主 缴械，",
-    "我 才 得胜 奏捷；",
-    "当我 倚靠 自己，",
-    "我就 失败 危亟；",
-    "当主 膀臂 将我 监禁，",
-    "我手 就更 有劲。",
+    "求 主把 我 捆綁，",
+    "我纔 得著 釋放；",
+    "願主 迫我 向主 繳械，",
+    "我 纔 得勝 奏捷；",
+    "當我 倚靠 自己，",
+    "我就 失敗 危亟；",
+    "當主 膀臂 將我 監禁，",
+    "我手 就更 有勁。",
     "我心未交主时，",
     "真是软弱愚痴，",
     "自己所愿自己不行，",

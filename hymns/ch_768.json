@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "中 心 的 观 念，"
+              "text": "中 心 的 觀 念，"
             }
           ]
         },
@@ -24,15 +24,15 @@
             },
             {
               "chord": "",
-              "text": "与 人"
+              "text": "與 人"
             },
             {
               "chord": "A7",
-              "text": "相 结"
+              "text": "相 結"
             },
             {
               "chord": "D",
-              "text": "联，"
+              "text": "聯，"
             }
           ]
         },
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "祂 来 作 人 的 一 切，"
+              "text": "祂 來 作 人 的 一 切，"
             }
           ]
         },
@@ -52,7 +52,7 @@
             },
             {
               "chord": "A",
-              "text": "计 画"
+              "text": "計 畫"
             },
             {
               "chord": "",
@@ -377,10 +377,11 @@
     "category": "终极的显出",
     "time": "4/4",
     "hymn_code": "32143212176543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0768_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/972",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/972",
+        "language": "en",
         "category": "h",
         "number": "972",
         "title": "E972"
@@ -388,10 +389,10 @@
     ]
   },
   "raw_sections": [
-    "阿， 神中 心 的 观 念，",
-    "乃 是与 人相 结联，",
-    "祂 来 作 人 的 一 切，",
-    "使 祂计 画得 成全。",
+    "阿， 神中 心 的 觀 念，",
+    "乃 是與 人相 結聯，",
+    "祂 來 作 人 的 一 切，",
+    "使 祂計 畫得 成全。",
     "人是被造的瓦器，",
     "有灵、有魂也有体；",
     "人可取神作生命，",

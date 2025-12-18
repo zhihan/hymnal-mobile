@@ -7,80 +7,8 @@
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "Jehovah"
-            },
-            {
               "chord": "",
-              "text": "bless you and"
-            },
-            {
-              "chord": "D",
-              "text": "keep you;"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "Em",
-              "text": "Jehovah"
-            },
-            {
-              "chord": "",
-              "text": "make His face"
-            },
-            {
-              "chord": "Bm",
-              "text": "shine upon"
-            },
-            {
-              "chord": "",
-              "text": "you"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "C",
-              "text": "And be"
-            },
-            {
-              "chord": "",
-              "text": "gracious"
-            },
-            {
-              "chord": "G",
-              "text": "to"
-            },
-            {
-              "chord": "Em",
-              "text": "you;"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "Bm",
-              "text": "Jehovah"
-            },
-            {
-              "chord": "",
-              "text": "lift up His"
-            },
-            {
-              "chord": "C",
-              "text": "countenance"
-            },
-            {
-              "chord": "",
-              "text": "upon"
-            },
-            {
-              "chord": "D",
-              "text": "you"
+              "text": "Jehovah bless you and keep you;"
             }
           ]
         },
@@ -88,11 +16,31 @@
           "segments": [
             {
               "chord": "",
-              "text": "And give you"
-            },
+              "text": "Jehovah make His face shine upon you"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "G",
-              "text": "peace."
+              "chord": "",
+              "text": "And be gracious to you;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Jehovah lift up His countenance upon you"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And give you peace."
             }
           ]
         }
@@ -105,11 +53,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "the Father's keep"
-            },
-            {
-              "chord": "D",
-              "text": "ing; God"
+              "text": "God the Father’s keeping;"
             }
           ]
         },
@@ -117,19 +61,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "Em",
-              "text": "Son is"
-            },
-            {
-              "chord": "",
-              "text": "shin"
-            },
-            {
-              "chord": "Bm",
-              "text": "ing; God"
+              "text": "God the Son is shining;"
             }
           ]
         },
@@ -137,31 +69,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "C",
-              "text": "Spirit's"
-            },
-            {
-              "chord": "",
-              "text": "counte"
-            },
-            {
-              "chord": "D",
-              "text": "nance Cheering,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "G",
-              "text": "uplifting"
-            },
-            {
-              "chord": "D7",
-              "text": "you; What"
+              "text": "God the Spirit’s countenance"
             }
           ]
         },
@@ -169,19 +77,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "a"
-            },
-            {
-              "chord": "G",
-              "text": "Triune"
-            },
-            {
-              "chord": "",
-              "text": "bless"
-            },
-            {
-              "chord": "D",
-              "text": "ing; God"
+              "text": "Cheering, uplifting you;"
             }
           ]
         },
@@ -189,15 +85,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Him"
-            },
-            {
-              "chord": "Em",
-              "text": "self dispens"
-            },
-            {
-              "chord": "Bm",
-              "text": "ing, For"
+              "text": "What a Triune blessing;"
             }
           ]
         },
@@ -205,15 +93,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "your"
-            },
-            {
-              "chord": "C",
-              "text": "rich enjoy"
-            },
-            {
-              "chord": "D",
-              "text": "ment All"
+              "text": "God Himself dispensing,"
             }
           ]
         },
@@ -221,11 +101,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "your"
-            },
+              "text": "For your rich enjoyment"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "G",
-              "text": "days."
+              "chord": "",
+              "text": "All your days."
             }
           ]
         }
@@ -236,21 +120,22 @@
   "metadata": {
     "category": "Experience of God",
     "time": "4/4",
-    "hymn_code": "3343212321123217717"
+    "hymn_code": "3343212321123217717",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0491_tune.midi"
   },
   "raw_sections": [
-    "Jehovahbless you andkeep you;",
-    "Jehovahmake His faceshine uponyou",
-    "And begracioustoyou;",
-    "Jehovahlift up Hiscountenanceuponyou",
-    "And give youpeace.",
-    "the Father's keeping; God",
-    "theSon isshining; God",
-    "theSpirit'scountenance Cheering,",
-    "upliftingyou; What",
-    "aTriuneblessing; God",
-    "Himself dispensing, For",
-    "yourrich enjoyment All",
-    "yourdays."
+    "Jehovah bless you and keep you;",
+    "Jehovah make His face shine upon you",
+    "And be gracious to you;",
+    "Jehovah lift up His countenance upon you",
+    "And give you peace.",
+    "God the Father’s keeping;",
+    "God the Son is shining;",
+    "God the Spirit’s countenance",
+    "Cheering, uplifting you;",
+    "What a Triune blessing;",
+    "God Himself dispensing,",
+    "For your rich enjoyment",
+    "All your days."
   ]
 }

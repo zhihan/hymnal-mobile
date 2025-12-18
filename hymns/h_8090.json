@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/8090",
+  "url": "https://www.hymnal.net/en/hymn/h/8090",
   "title": "Praise and unceasing praise",
   "verses": [
     {
@@ -138,7 +138,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Nor friend's nor parent's love"
+              "text": "Nor friend’s nor parent’s love"
             }
           ]
         },
@@ -162,7 +162,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "A Savior's love applied."
+              "text": "A Savior’s love applied."
             }
           ]
         },
@@ -170,7 +170,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Behold, God's Son on Golgotha;"
+              "text": "Behold, God’s Son on Golgotha;"
             }
           ]
         },
@@ -178,7 +178,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "For you and me He's crucified."
+              "text": "For you and me He’s crucified."
             }
           ]
         }
@@ -216,7 +216,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "From Christ's own loving side."
+              "text": "From Christ’s own loving side."
             }
           ]
         },
@@ -224,7 +224,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Behold, God's Son on Golgotha;"
+              "text": "Behold, God’s Son on Golgotha;"
             }
           ]
         },
@@ -232,7 +232,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "For you and me He's crucified."
+              "text": "For you and me He’s crucified."
             }
           ]
         }
@@ -245,6 +245,7 @@
     "category": "Praise of the Lord",
     "time": "4/4",
     "hymn_code": "51715617654321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e8090_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ch/90",
@@ -262,17 +263,17 @@
     "Whogrieved andbled anddied.",
     "Behold, God'sSon onGolgotha;",
     "Foryou andmeHe'scrucified.",
-    "Nor friend's nor parent's love",
+    "Nor friend’s nor parent’s love",
     "Could reach this deep or wide;",
     "Sinners redeemed must sing",
-    "A Savior's love applied.",
-    "Behold, God's Son on Golgotha;",
-    "For you and me He's crucified.",
+    "A Savior’s love applied.",
+    "Behold, God’s Son on Golgotha;",
+    "For you and me He’s crucified.",
     "Sinners redeemed defeat",
     "The snake that came and lied;",
     "Nothing can keep us now",
-    "From Christ's own loving side.",
-    "Behold, God's Son on Golgotha;",
-    "For you and me He's crucified."
+    "From Christ’s own loving side.",
+    "Behold, God’s Son on Golgotha;",
+    "For you and me He’s crucified."
   ]
 }

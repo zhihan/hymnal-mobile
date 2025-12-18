@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "气，"
+              "text": "氣，"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "将 你 活 泉 从"
+              "text": "將 你 活 泉 從"
             },
             {
               "chord": "E",
@@ -36,11 +36,11 @@
             },
             {
               "chord": "E7",
-              "text": "开"
+              "text": "開"
             },
             {
               "chord": "A",
-              "text": "启；"
+              "text": "啟；"
             }
           ]
         },
@@ -52,7 +52,7 @@
             },
             {
               "chord": "",
-              "text": "里 面 将"
+              "text": "裡 面 將"
             },
             {
               "chord": "B7",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "Em",
-              "text": "动，"
+              "text": "動，"
             }
           ]
         },
@@ -249,10 +249,11 @@
     "category": "圣灵的丰满",
     "time": "3/4",
     "hymn_code": "33333543117123212",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0211_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/254",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/254",
+        "language": "en",
         "category": "h",
         "number": "254",
         "title": "E254"
@@ -260,9 +261,9 @@
     ]
   },
   "raw_sections": [
-    "生 命之 主， 向我 吹气，",
-    "将 你 活 泉 从我开启；",
-    "在 我里 面 将我 推动，",
+    "生 命之 主， 向我 吹氣，",
+    "將 你 活 泉 從我開啟；",
+    "在 我裡 面 將我 推動，",
     "生 命之光 照我 心中。",
     "主，何希奇，你在我里，",
     "不必天上、阴间寻你，",

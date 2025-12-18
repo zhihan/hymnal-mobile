@@ -12,15 +12,15 @@
             },
             {
               "chord": "",
-              "text": "凭 灵 并"
+              "text": "憑 靈 並"
             },
             {
               "chord": "Am",
-              "text": "凭 实"
+              "text": "憑 實"
             },
             {
               "chord": "",
-              "text": "际，"
+              "text": "際，"
             }
           ]
         },
@@ -32,7 +32,7 @@
             },
             {
               "chord": "C",
-              "text": "们 在"
+              "text": "們 在"
             },
             {
               "chord": "",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "",
-              "text": "说，"
+              "text": "說，"
             }
           ]
         },
@@ -80,11 +80,11 @@
             },
             {
               "chord": "D7",
-              "text": "们 今"
+              "text": "們 今"
             },
             {
               "chord": "G",
-              "text": "来。"
+              "text": "來。"
             }
           ]
         }
@@ -363,10 +363,11 @@
     "category": "聚会",
     "time": "4/4",
     "hymn_code": "53451177123432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0626_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/865",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/865",
+        "language": "en",
         "category": "h",
         "number": "865",
         "title": "E865"
@@ -374,10 +375,10 @@
     ]
   },
   "raw_sections": [
-    "哦 神，凭 灵 并凭 实际，",
-    "我们 在此 敬拜；",
-    "照著 你子 基督 所说，",
-    "你前 我们 今来。",
+    "哦 神，憑 靈 並憑 實際，",
+    "我們 在此 敬拜；",
+    "照著 你子 基督 所說，",
+    "你前 我們 今來。",
     "感谢父神，你乃是灵，",
     "对我何亲何近！",
     "使我凭灵与你接触，",

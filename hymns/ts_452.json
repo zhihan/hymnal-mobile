@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "宝 贵"
+              "text": "寶 貴"
             },
             {
               "chord": "",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "经 一"
+              "text": "經 一"
             },
             {
               "chord": "",
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "永 远 交 付 圣"
+              "text": "永 遠 交 付 聖"
             },
             {
               "chord": "A",
@@ -56,11 +56,11 @@
             },
             {
               "chord": "F♯m",
-              "text": "力 争"
+              "text": "力 爭"
             },
             {
               "chord": "Bm",
-              "text": "辩"
+              "text": "辯"
             }
           ]
         },
@@ -76,7 +76,7 @@
             },
             {
               "chord": "A7",
-              "text": "们 托"
+              "text": "們 託"
             },
             {
               "chord": "D",
@@ -94,7 +94,7 @@
           "segments": [
             {
               "chord": "D7",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "G",
@@ -110,7 +110,7 @@
             },
             {
               "chord": "Bm",
-              "text": "谁，"
+              "text": "誰，"
             }
           ]
         },
@@ -118,7 +118,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "并 且 凭"
+              "text": "並 且 憑"
             },
             {
               "chord": "Em7",
@@ -126,15 +126,15 @@
             },
             {
               "chord": "A7",
-              "text": "爱、 藉"
+              "text": "愛、 藉"
             },
             {
               "chord": "",
-              "text": "内 住"
+              "text": "內 住"
             },
             {
               "chord": "D",
-              "text": "圣 灵，"
+              "text": "聖 靈，"
             }
           ]
         },
@@ -154,7 +154,7 @@
             },
             {
               "chord": "D",
-              "text": "托 付─"
+              "text": "託 付─"
             },
             {
               "chord": "",
@@ -170,15 +170,15 @@
             },
             {
               "chord": "Em",
-              "text": "话 语"
+              "text": "話 語"
             },
             {
               "chord": "A7",
-              "text": "的 规"
+              "text": "的 規"
             },
             {
               "chord": "D",
-              "text": "范。"
+              "text": "範。"
             }
           ]
         }
@@ -565,10 +565,11 @@
     "category": "追求与长进",
     "time": "4/4",
     "hymn_code": "133432165535565432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0452_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1285",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1285",
+        "language": "en",
         "category": "h",
         "number": "1285",
         "title": "E1285"
@@ -576,14 +577,14 @@
     ]
   },
   "raw_sections": [
-    "宝 贵信仰 已经 一次",
-    "永 远 交 付 圣徒，",
-    "持守 信仰、 竭力 争辩",
-    "乃是 我们 托付。",
-    "我 们深 知所 信 的是谁，",
-    "并 且 凭信、爱、 藉内 住圣 灵，",
-    "保守 那美 好 的托 付─健",
-    "康话 语的 规范。",
+    "寶 貴信仰 已經 一次",
+    "永 遠 交 付 聖徒，",
+    "持守 信仰、 竭力 爭辯",
+    "乃是 我們 託付。",
+    "我 們深 知所 信 的是誰，",
+    "並 且 憑信、愛、 藉內 住聖 靈，",
+    "保守 那美 好 的託 付─健",
+    "康話 語的 規範。",
     "美好托付务必持守，",
     "绝不稍微偏离；",
     "这是神经纶的标的，",

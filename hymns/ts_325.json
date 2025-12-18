@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "从"
+              "text": "從"
             },
             {
               "chord": "F♯m",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "涌 出"
+              "text": "湧 出"
             },
             {
               "chord": "Em",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "Asus4",
-              "text": "乐，"
+              "text": "樂，"
             }
           ]
         },
@@ -52,7 +52,7 @@
             },
             {
               "chord": "Bm",
-              "text": "爱，"
+              "text": "愛，"
             },
             {
               "chord": "Em",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "D",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "A7",
-              "text": "舍"
+              "text": "捨"
             },
             {
               "chord": "D",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "D",
-              "text": "转 脸"
+              "text": "轉 臉"
             },
             {
               "chord": "Em",
@@ -112,7 +112,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "当"
+              "text": "當"
             },
             {
               "chord": "G",
@@ -124,7 +124,7 @@
             },
             {
               "chord": "Bm",
-              "text": "润"
+              "text": "潤"
             },
             {
               "chord": "Em",
@@ -140,11 +140,11 @@
             },
             {
               "chord": "A7",
-              "text": "爱"
+              "text": "愛"
             },
             {
               "chord": "D",
-              "text": "里。"
+              "text": "裡。"
             }
           ]
         },
@@ -156,7 +156,7 @@
             },
             {
               "chord": "",
-              "text": "何 丰"
+              "text": "何 豐"
             },
             {
               "chord": "Bm",
@@ -168,11 +168,11 @@
             },
             {
               "chord": "",
-              "text": "何 实"
+              "text": "何 實"
             },
             {
               "chord": "Bm",
-              "text": "际，"
+              "text": "際，"
             }
           ]
         },
@@ -180,7 +180,7 @@
           "segments": [
             {
               "chord": "F♯m",
-              "text": "喜 乐"
+              "text": "喜 樂"
             },
             {
               "chord": "",
@@ -260,7 +260,7 @@
             },
             {
               "chord": "",
-              "text": "将"
+              "text": "將"
             },
             {
               "chord": "D",
@@ -268,7 +268,7 @@
             },
             {
               "chord": "A7",
-              "text": "给"
+              "text": "給"
             },
             {
               "chord": "D",
@@ -363,10 +363,11 @@
     "category": "爱慕耶稣",
     "time": "4/4",
     "hymn_code": "15123432671234321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0325_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/ns/238",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/ns/238",
+        "language": "en",
         "category": "ns",
         "number": "238",
         "title": "NS238"
@@ -374,14 +375,14 @@
     ]
   },
   "raw_sections": [
-    "从我心涌 出了音乐，",
-    "流向我爱，祂 曾为我舍己。",
-    "我怎能转 脸不向你，",
-    "当我浸润在 你不移爱里。",
-    "享 受何 丰富，生 命何 实际，",
-    "喜 乐何 洋溢， 哦主， 得我 全心！",
+    "從我心湧 出了音樂，",
+    "流向我愛，祂 曾為我捨己。",
+    "我怎能轉 臉不向你，",
+    "當我浸潤在 你不移愛裡。",
+    "享 受何 豐富，生 命何 實際，",
+    "喜 樂何 洋溢， 哦主， 得我 全心！",
     "得我心，也 得我全人，",
-    "恩主，我不得 不将我给你。",
+    "恩主，我不得 不將我給你。",
     "从那日，当我遇见你，",
     "我怎能不深深坠入爱里；",
     "我曾是虚空又忧郁，",

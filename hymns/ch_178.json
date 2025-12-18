@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "为 这"
+              "text": "為 這"
             },
             {
               "chord": "",
-              "text": "筵 席 我 献"
+              "text": "筵 席 我 獻"
             },
             {
               "chord": "A",
-              "text": "感 谢，"
+              "text": "感 謝，"
             }
           ]
         },
@@ -24,7 +24,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "饼、 杯"
+              "text": "餅、 杯"
             },
             {
               "chord": "A",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "A7",
-              "text": "同 陈"
+              "text": "同 陳"
             },
             {
               "chord": "D",
@@ -56,11 +56,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "神 圣"
+              "text": "神 聖"
             },
             {
               "chord": "A7",
-              "text": "爱 筵"
+              "text": "愛 筵"
             },
             {
               "chord": "",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "D",
-              "text": "绝。"
+              "text": "絕。"
             }
           ]
         },
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "这 饼"
+              "text": "這 餅"
             },
             {
               "chord": "A7",
@@ -84,11 +84,11 @@
             },
             {
               "chord": "D",
-              "text": "所 舍"
+              "text": "所 捨"
             },
             {
               "chord": "",
-              "text": "身 体，"
+              "text": "身 體，"
             }
           ]
         },
@@ -96,7 +96,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "A7",
@@ -116,7 +116,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "这 杯 是 你"
+              "text": "這 杯 是 你"
             },
             {
               "chord": "G",
@@ -124,7 +124,7 @@
             },
             {
               "chord": "D",
-              "text": "宝 血，"
+              "text": "寶 血，"
             }
           ]
         },
@@ -132,7 +132,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "D",
@@ -140,11 +140,11 @@
             },
             {
               "chord": "A7",
-              "text": "同 饮"
+              "text": "同 飲"
             },
             {
               "chord": "D",
-              "text": "尝。"
+              "text": "嘗。"
             }
           ]
         }
@@ -158,7 +158,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "看， 这 神 圣 筵"
+              "text": "看， 這 神 聖 筵"
             },
             {
               "chord": "A",
@@ -178,7 +178,7 @@
             },
             {
               "chord": "D",
-              "text": "表 记！"
+              "text": "表 記！"
             }
           ]
         },
@@ -186,7 +186,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "意 义 深 厚，"
+              "text": "意 義 深 厚，"
             },
             {
               "chord": "G",
@@ -543,10 +543,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "546553543243321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0178_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/221",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/221",
+        "language": "en",
         "category": "h",
         "number": "221",
         "title": "E221"
@@ -554,17 +555,17 @@
     ]
   },
   "raw_sections": [
-    "为 这筵 席 我 献感 谢，",
-    "饼、 杯在 此同 陈列；",
+    "為 這筵 席 我 獻感 謝，",
+    "餅、 杯在 此同 陳列；",
     "藉 此 享 受 你 的自 己，",
-    "神 圣爱 筵何 超绝。",
-    "这 饼是 你所 舍身 体，",
-    "我 们在 此同 分享；",
-    "这 杯 是 你所 流宝 血，",
-    "我 们在 此同 饮尝。",
-    "看， 这 神 圣 筵席！",
-    "其 上何 等表 记！",
-    "意 义 深 厚，永 垂不 朽，",
+    "神 聖愛 筵何 超絕。",
+    "這 餅是 你所 捨身 體，",
+    "我 們在 此同 分享；",
+    "這 杯 是 你所 流寶 血，",
+    "我 們在 此同 飲嘗。",
+    "看， 這 神 聖 筵席！",
+    "其 上何 等表 記！",
+    "意 義 深 厚，永 垂不 朽，",
     "人 知何 能及！",
     "借着你的救赎之死，",
     "你将生命来分赐；",

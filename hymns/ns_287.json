@@ -7,16 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "There are"
-            },
-            {
               "chord": "",
-              "text": "times in my"
-            },
-            {
-              "chord": "Bm",
-              "text": "life"
+              "text": "There are times in my life"
             }
           ]
         },
@@ -24,19 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "When my"
-            },
-            {
-              "chord": "G",
-              "text": "heart is"
-            },
-            {
-              "chord": "",
-              "text": "em"
-            },
-            {
-              "chord": "A7",
-              "text": "bittered."
+              "text": "When my heart is embittered."
             }
           ]
         },
@@ -44,19 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "There are"
-            },
-            {
-              "chord": "D",
-              "text": "questions"
-            },
-            {
-              "chord": "",
-              "text": "un"
-            },
-            {
-              "chord": "Bm",
-              "text": "answered,"
+              "text": "There are questions unanswered,"
             }
           ]
         },
@@ -64,15 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Yet,"
-            },
-            {
-              "chord": "G",
-              "text": "You're drawing"
-            },
-            {
-              "chord": "Asus4",
-              "text": "me"
+              "text": "Yet, You’re drawing me"
             }
           ]
         }
@@ -85,56 +45,8 @@
         {
           "segments": [
             {
-              "chord": "A",
-              "text": "To enter"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D",
-              "text": "Into"
-            },
-            {
               "chord": "",
-              "text": "Your blessed sanctu"
-            },
-            {
-              "chord": "Bm",
-              "text": "ary"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "G",
-              "text": "And turning"
-            },
-            {
-              "chord": "",
-              "text": "my eyes heav"
-            },
-            {
-              "chord": "Asus4",
-              "text": "enward,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D",
-              "text": "The questions"
-            },
-            {
-              "chord": "",
-              "text": "of constant in"
-            },
-            {
-              "chord": "Bm",
-              "text": "quiry"
+              "text": "To enter"
             }
           ]
         },
@@ -142,19 +54,31 @@
           "segments": [
             {
               "chord": "",
-              "text": "Are"
-            },
-            {
-              "chord": "G",
-              "text": "changed to"
-            },
+              "text": "Into Your blessed sanctuary"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "these"
-            },
+              "text": "And turning my eyes heavenward,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "A",
-              "text": "words,"
+              "chord": "",
+              "text": "The questions of constant inquiry"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Are changed to these words,"
             }
           ]
         }
@@ -166,16 +90,32 @@
         {
           "segments": [
             {
-              "chord": "Asus4",
-              "text": "play"
-            },
+              "chord": "",
+              "text": "Whom do I have in heaven"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "A",
-              "text": "In every"
-            },
+              "chord": "",
+              "text": "But You, dear Jehovah."
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "D",
-              "text": "way."
+              "chord": "",
+              "text": "My flesh and my heart"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Constantly fail,"
             }
           ]
         }
@@ -323,19 +263,23 @@
   "metadata": {
     "category": "Comfort in Trials",
     "time": "4/4",
-    "hymn_code": "1751761714312"
+    "hymn_code": "1751761714312",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0287_tune.midi"
   },
   "raw_sections": [
-    "There aretimes in mylife",
-    "When myheart isembittered.",
-    "There arequestionsunanswered,",
-    "Yet,You're drawingme",
-    "To enter",
-    "IntoYour blessed sanctuary",
-    "And turningmy eyes heavenward,",
-    "The questionsof constant inquiry",
-    "Arechanged tothesewords,",
-    "playIn everyway.",
+    "There are times in my life",
+    "When my heart is embittered.",
+    "There are questions unanswered,",
+    "Yet, You’re drawing me",
+    "To enter",
+    "Into Your blessed sanctuary",
+    "And turning my eyes heavenward,",
+    "The questions of constant inquiry",
+    "Are changed to these words,",
+    "Whom do I have in heaven",
+    "But You, dear Jehovah.",
+    "My flesh and my heart",
+    "Constantly fail,",
     "But God’s still",
     "The strength of my heart and my portion;",
     "To Him forever I’ll draw near.",

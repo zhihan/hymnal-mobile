@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "给"
+              "text": "給"
             },
             {
               "chord": "A",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "",
-              "text": "给"
+              "text": "給"
             },
             {
               "chord": "A",
@@ -36,7 +36,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "并 且"
+              "text": "並 且"
             },
             {
               "chord": "",
@@ -64,7 +64,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "连 摇 带"
+              "text": "連 搖 帶"
             },
             {
               "chord": "G",
@@ -96,7 +96,7 @@
             },
             {
               "chord": "G",
-              "text": "怀，"
+              "text": "懷，"
             },
             {
               "chord": "D",
@@ -108,7 +108,7 @@
             },
             {
               "chord": "D",
-              "text": "怀。"
+              "text": "懷。"
             }
           ]
         }
@@ -120,12 +120,13 @@
   "metadata": {
     "category": "教会的生活",
     "time": "3/4",
-    "hymn_code": "1712353232165121"
+    "hymn_code": "1712353232165121",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0738_tune.midi"
   },
   "raw_sections": [
-    "你 要给人神 必给你，",
-    "并 且要用十足 升斗，",
-    "连 摇 带按，上尖 下流，",
-    "倒在 你怀，倒在 你怀。"
+    "你 要給人神 必給你，",
+    "並 且要用十足 升斗，",
+    "連 搖 帶按，上尖 下流，",
+    "倒在 你懷，倒在 你懷。"
   ]
 }

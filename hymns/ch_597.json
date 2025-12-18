@@ -12,11 +12,11 @@
             },
             {
               "chord": "",
-              "text": "永 远"
+              "text": "永 遠"
             },
             {
               "chord": "C",
-              "text": "创 世"
+              "text": "創 世"
             },
             {
               "chord": "G",
@@ -28,15 +28,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "喜 悦、"
+              "text": "喜 悅、"
             },
             {
               "chord": "D",
-              "text": "拣 选"
+              "text": "揀 選"
             },
             {
               "chord": "D7",
-              "text": "并 豫"
+              "text": "並 豫"
             },
             {
               "chord": "G",
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "要 叫 召 会"
+              "text": "要 叫 召 會"
             },
             {
               "chord": "C",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "G",
-              "text": "里 面，"
+              "text": "裡 面，"
             }
           ]
         },
@@ -72,11 +72,11 @@
             },
             {
               "chord": "D7",
-              "text": "成 为"
+              "text": "成 為"
             },
             {
               "chord": "G",
-              "text": "圣；"
+              "text": "聖；"
             }
           ]
         },
@@ -88,7 +88,7 @@
             },
             {
               "chord": "D7",
-              "text": "救 赎，"
+              "text": "救 贖，"
             },
             {
               "chord": "",
@@ -96,7 +96,7 @@
             },
             {
               "chord": "G",
-              "text": "产 业，"
+              "text": "產 業，"
             }
           ]
         },
@@ -108,15 +108,15 @@
             },
             {
               "chord": "A7",
-              "text": "圣 灵"
+              "text": "聖 靈"
             },
             {
               "chord": "A",
-              "text": "为 印"
+              "text": "為 印"
             },
             {
               "chord": "D",
-              "text": "记，"
+              "text": "記，"
             }
           ]
         },
@@ -124,7 +124,7 @@
           "segments": [
             {
               "chord": "D7",
-              "text": "保 证"
+              "text": "保 證"
             },
             {
               "chord": "G",
@@ -136,7 +136,7 @@
             },
             {
               "chord": "G",
-              "text": "基 业，"
+              "text": "基 業，"
             }
           ]
         },
@@ -144,7 +144,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "并 得"
+              "text": "並 得"
             },
             {
               "chord": "D",
@@ -737,10 +737,11 @@
     "category": "召会",
     "time": "6/4",
     "hymn_code": "5133433113276721",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0597_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/823",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/823",
+        "language": "en",
         "category": "h",
         "number": "823",
         "title": "E823"
@@ -748,14 +749,14 @@
     ]
   },
   "raw_sections": [
-    "神 在永 远创 世之 前，",
-    "喜 悦、拣 选并 豫定，",
-    "要 叫 召 会在 子里 面，",
-    "得 子名 分成 为圣；",
-    "得 蒙救 赎，作 祂产 业，",
-    "受 祂圣 灵为 印记，",
-    "保 证必 得祂 的基 业，",
-    "并 得先 享祂 自己。",
+    "神 在永 遠創 世之 前，",
+    "喜 悅、揀 選並 豫定，",
+    "要 叫 召 會在 子裡 面，",
+    "得 子名 分成 為聖；",
+    "得 蒙救 贖，作 祂產 業，",
+    "受 祂聖 靈為 印記，",
+    "保 證必 得祂 的基 業，",
+    "並 得先 享祂 自己。",
     "基督升天坐在神右，",
     "远超一切的势力；",
     "神使祂作万有元首，",

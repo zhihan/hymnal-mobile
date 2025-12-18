@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "听 这"
+              "text": "聽 這"
             },
             {
               "chord": "",
-              "text": "流 浪 者 的 歌 声，"
+              "text": "流 浪 者 的 歌 聲，"
             }
           ]
         },
@@ -20,7 +20,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "把 他 经 历 道"
+              "text": "把 他 經 歷 道"
             },
             {
               "chord": "G",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "G7",
-              "text": "过 的"
+              "text": "過 的"
             },
             {
               "chord": "C",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "",
-              "text": "里，"
+              "text": "裡，"
             }
           ]
         },
@@ -56,7 +56,7 @@
             },
             {
               "chord": "F",
-              "text": "总 常"
+              "text": "總 常"
             },
             {
               "chord": "G7",
@@ -78,11 +78,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "赞 美"
+              "text": "讚 美"
             },
             {
               "chord": "G7",
-              "text": "主！ 赞"
+              "text": "主！ 讚"
             },
             {
               "chord": "",
@@ -98,7 +98,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "赞 美"
+              "text": "讚 美"
             },
             {
               "chord": "G7",
@@ -114,11 +114,11 @@
             },
             {
               "chord": "C",
-              "text": "路 亚，"
+              "text": "路 亞，"
             },
             {
               "chord": "",
-              "text": "阿 利 路 亚，"
+              "text": "阿 利 路 亞，"
             }
           ]
         },
@@ -126,11 +126,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "赞 美"
+              "text": "讚 美"
             },
             {
               "chord": "G7",
-              "text": "主！ 赞"
+              "text": "主！ 讚"
             },
             {
               "chord": "",
@@ -162,7 +162,7 @@
             },
             {
               "chord": "C",
-              "text": "样！"
+              "text": "樣！"
             }
           ]
         }
@@ -455,10 +455,11 @@
     "category": "教会的生活",
     "time": "4/4",
     "hymn_code": "55554433333534",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0701_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1235",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1235",
+        "language": "en",
         "category": "h",
         "number": "1235",
         "title": "E1235"
@@ -466,15 +467,15 @@
     ]
   },
   "raw_sections": [
-    "听 这流 浪 者 的 歌 声，",
-    "把 他 经 历 道出：",
-    "在 他 已过 的年 日里，",
-    "他总 常感 不足。",
-    "赞 美主！ 赞美主！",
-    "赞 美主！",
-    "阿 利路 亚，阿 利 路 亚，",
-    "赞 美主！ 赞美主！",
-    "我永 不再那样！",
+    "聽 這流 浪 者 的 歌 聲，",
+    "把 他 經 歷 道出：",
+    "在 他 已過 的年 日裡，",
+    "他總 常感 不足。",
+    "讚 美主！ 讚美主！",
+    "讚 美主！",
+    "阿 利路 亞，阿 利 路 亞，",
+    "讚 美主！ 讚美主！",
+    "我永 不再那樣！",
     "流浪奔波在世界里，",
     "寻求快乐满足；",
     "但是我的肉体心灵，",

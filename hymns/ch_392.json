@@ -20,7 +20,7 @@
             },
             {
               "chord": "A7",
-              "text": "亲－"
+              "text": "親－"
             }
           ]
         },
@@ -40,7 +40,7 @@
             },
             {
               "chord": "D7",
-              "text": "爱；"
+              "text": "愛；"
             }
           ]
         },
@@ -60,7 +60,7 @@
             },
             {
               "chord": "Bm",
-              "text": "寻，"
+              "text": "尋，"
             }
           ]
         },
@@ -72,7 +72,7 @@
             },
             {
               "chord": "G",
-              "text": "生 终"
+              "text": "生 終"
             },
             {
               "chord": "A7",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "D",
-              "text": "赖。"
+              "text": "賴。"
             }
           ]
         }
@@ -169,10 +169,11 @@
     "category": "经历基督",
     "time": "4/4",
     "hymn_code": "531324323135543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0392_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8392",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8392",
+        "language": "en",
         "category": "h",
         "number": "8392",
         "title": "E8392"
@@ -180,10 +181,10 @@
     ]
   },
   "raw_sections": [
-    "祂是 一切 最亲－",
-    "我所 一切 最爱；",
-    "人生 平常 所寻，",
-    "人生 终久 所赖。",
+    "祂是 一切 最親－",
+    "我所 一切 最愛；",
+    "人生 平常 所尋，",
+    "人生 終久 所賴。",
     "缺乏之时豫备，",
     "无倚之时扶持，",
     "所有美时，最美，",

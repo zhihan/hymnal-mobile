@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "C",
-              "text": "若 无"
+              "text": "若 無"
             },
             {
               "chord": "",
-              "text": "损 失， 就"
+              "text": "損 失， 就"
             },
             {
               "chord": "Dm",
-              "text": "无 得"
+              "text": "無 得"
             },
             {
               "chord": "",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "G7",
-              "text": "经 十"
+              "text": "經 十"
             },
             {
               "chord": "",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "E",
-              "text": "粒 麦"
+              "text": "粒 麥"
             },
             {
               "chord": "",
@@ -76,11 +76,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "就 难 结"
+              "text": "就 難 結"
             },
             {
               "chord": "G",
-              "text": "出 许"
+              "text": "出 許"
             },
             {
               "chord": "D7",
@@ -104,7 +104,7 @@
             },
             {
               "chord": "",
-              "text": "要 结"
+              "text": "要 結"
             },
             {
               "chord": "C",
@@ -152,7 +152,7 @@
             },
             {
               "chord": "",
-              "text": "要 结"
+              "text": "要 結"
             },
             {
               "chord": "C",
@@ -329,10 +329,11 @@
     "category": "十字架的道路",
     "time": "3/4",
     "hymn_code": "15436544",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0460_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/623",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/623",
+        "language": "en",
         "category": "h",
         "number": "623",
         "title": "E623"
@@ -340,13 +341,13 @@
     ]
   },
   "raw_sections": [
-    "若 无损 失， 就无 得著；",
-    "非经 十架， 不能 生活；",
-    "一粒 麦子 不落 死地，",
-    "就 难 结出 许多 子粒；",
-    "如果 我要 结果 百倍，",
+    "若 無損 失， 就無 得著；",
+    "非經 十架， 不能 生活；",
+    "一粒 麥子 不落 死地，",
+    "就 難 結出 許多 子粒；",
+    "如果 我要 結果 百倍，",
     "怎能 完整， 不被 破碎？",
-    "如果 我要 结果 百倍，",
+    "如果 我要 結果 百倍，",
     "怎 能 完 整， 不被 破碎？",
     "魂所抓者将魂抓住，",
     "金链之中无不为奴；",

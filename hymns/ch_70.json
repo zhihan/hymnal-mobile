@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
-              "text": "这 名 何"
+              "text": "這 名 何"
             },
             {
               "chord": "D",
@@ -28,19 +28,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "犹 如 音"
+              "text": "猶 如 音"
             },
             {
               "chord": "D7",
-              "text": "乐 我"
+              "text": "樂 我"
             },
             {
               "chord": "G",
-              "text": "爱 称"
+              "text": "愛 稱"
             },
             {
               "chord": "",
-              "text": "赞，"
+              "text": "讚，"
             }
           ]
         },
@@ -48,11 +48,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "祂 使 我 乐 丰"
+              "text": "祂 使 我 樂 豐"
             },
             {
               "chord": "C",
-              "text": "满 完"
+              "text": "滿 完"
             },
             {
               "chord": "",
@@ -64,11 +64,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "耶 稣 宝"
+              "text": "耶 穌 寶"
             },
             {
               "chord": "A7",
-              "text": "贵 之"
+              "text": "貴 之"
             },
             {
               "chord": "D7",
@@ -86,11 +86,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "耶 稣！"
+              "text": "耶 穌！"
             },
             {
               "chord": "",
-              "text": "这 名"
+              "text": "這 名"
             },
             {
               "chord": "D",
@@ -106,7 +106,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "耶 稣！ 天 天"
+              "text": "耶 穌！ 天 天"
             },
             {
               "chord": "G",
@@ -114,7 +114,7 @@
             },
             {
               "chord": "",
-              "text": "变；"
+              "text": "變；"
             }
           ]
         },
@@ -122,15 +122,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "耶 稣！ 圣 徒"
+              "text": "耶 穌！ 聖 徒"
             },
             {
               "chord": "C",
-              "text": "当 称"
+              "text": "當 稱"
             },
             {
               "chord": "",
-              "text": "赞"
+              "text": "讚"
             }
           ]
         },
@@ -138,7 +138,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "祂 的 价"
+              "text": "祂 的 價"
             },
             {
               "chord": "G",
@@ -150,7 +150,7 @@
             },
             {
               "chord": "G",
-              "text": "远。"
+              "text": "遠。"
             }
           ]
         }
@@ -387,10 +387,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "5176354472174655",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0070_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/67",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/67",
+        "language": "en",
         "category": "h",
         "number": "67",
         "title": "E67"
@@ -398,14 +399,14 @@
     ]
   },
   "raw_sections": [
-    "耶 稣这 名 何其 甘甜，",
-    "犹 如 音乐 我爱 称赞，",
-    "祂 使 我 乐 丰满 完全，",
-    "耶 稣 宝贵 之名。",
-    "耶 稣！这 名何 甘甜，",
-    "耶 稣！ 天 天不 改变；",
-    "耶 稣！ 圣 徒当 称赞",
-    "祂 的 价值 到永远。",
+    "耶 穌這 名 何其 甘甜，",
+    "猶 如 音樂 我愛 稱讚，",
+    "祂 使 我 樂 豐滿 完全，",
+    "耶 穌 寶貴 之名。",
+    "耶 穌！這 名何 甘甜，",
+    "耶 穌！ 天 天不 改變；",
+    "耶 穌！ 聖 徒當 稱讚",
+    "祂 的 價值 到永遠。",
     "我爱那爱我者之名，",
     "祂知我苦，分担、同情，",
     "命令忧惧从我隐形，",

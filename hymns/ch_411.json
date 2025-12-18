@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "夕 阳"
+              "text": "夕 陽"
             },
             {
               "chord": "C",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "",
-              "text": "静，"
+              "text": "靜，"
             }
           ]
         },
@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "猬 务"
+              "text": "蝟 務"
             },
             {
               "chord": "C",
-              "text": "完 毕"
+              "text": "完 畢"
             },
             {
               "chord": "G",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "A7",
-              "text": "灵 里"
+              "text": "靈 裡"
             },
             {
               "chord": "D",
@@ -88,7 +88,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "静"
+              "text": "靜"
             },
             {
               "chord": "D",
@@ -150,11 +150,11 @@
             },
             {
               "chord": "",
-              "text": "所 羡"
+              "text": "所 羨"
             },
             {
               "chord": "G",
-              "text": "灵 所"
+              "text": "靈 所"
             },
             {
               "chord": "Em",
@@ -170,7 +170,7 @@
             },
             {
               "chord": "D7",
-              "text": "可 爱"
+              "text": "可 愛"
             },
             {
               "chord": "G",
@@ -190,7 +190,7 @@
             },
             {
               "chord": "G",
-              "text": "亲"
+              "text": "親"
             },
             {
               "chord": "D7",
@@ -483,10 +483,11 @@
     "category": "经历基督",
     "time": "6/4",
     "hymn_code": "11165451116545",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0411_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/616",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/616",
+        "language": "en",
         "category": "h",
         "number": "616",
         "title": "E616"
@@ -494,16 +495,16 @@
     ]
   },
   "raw_sections": [
-    "夕 阳西 沉大 地静，",
-    "猬 务完 毕我 心定，",
+    "夕 陽西 沉大 地靜，",
+    "蝟 務完 畢我 心定，",
     "晚 星高 照暗 中明，",
-    "幽 夜近 主灵 里清，",
-    "静候俯伏。",
+    "幽 夜近 主靈 裡清，",
+    "靜候俯伏。",
     "近 乎，近 乎，近 乎，",
     "可近 之主！",
-    "我 心所 羡灵 所慕，",
-    "是 你可 爱的 面目，",
-    "可亲之主！",
+    "我 心所 羨靈 所慕，",
+    "是 你可 愛的 面目，",
+    "可親之主！",
     "在这宇宙广厦中，",
     "我心寻求你面容，",
     "深愿能在我四围，",

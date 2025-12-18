@@ -7,20 +7,8 @@
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "应 当"
-            },
-            {
               "chord": "",
-              "text": "宣 扬， 宣 扬 主 话 使 国"
-            },
-            {
-              "chord": "C",
-              "text": "度 来"
-            },
-            {
-              "chord": "G",
-              "text": "临；"
+              "text": "应当宣扬，宣扬主话使国度来临；"
             }
           ]
         },
@@ -28,15 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "尽 力 宣 扬， 宣 扬 主 话 直 到"
-            },
-            {
-              "chord": "A",
-              "text": "国 度"
-            },
-            {
-              "chord": "D",
-              "text": "临。"
+              "text": "尽力宣扬，宣扬主话直到国度临。"
             }
           ]
         },
@@ -44,19 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "和 平 福"
-            },
-            {
-              "chord": "G",
-              "text": "音， 不"
-            },
-            {
-              "chord": "",
-              "text": "该 藏"
-            },
-            {
-              "chord": "C",
-              "text": "隐；"
+              "text": "和平福音，和平福音，"
             }
           ]
         },
@@ -64,19 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "应 当"
-            },
-            {
-              "chord": "G",
-              "text": "宣 扬，"
-            },
-            {
-              "chord": "",
-              "text": "宣 扬"
-            },
-            {
-              "chord": "D",
-              "text": "主 话"
+              "text": "不该藏隐；不该藏隐；"
             }
           ]
         },
@@ -84,15 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "直 到"
-            },
-            {
-              "chord": "D7",
-              "text": "国 度"
-            },
-            {
-              "chord": "G",
-              "text": "临。"
+              "text": "应当宣扬，宣扬主话直到国度临。"
             }
           ]
         }
@@ -257,10 +205,11 @@
     "category": "事奉与福音",
     "time": "2/2",
     "hymn_code": "5671651165161",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0857_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1294",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1294",
+        "language": "en",
         "category": "h",
         "number": "1294",
         "title": "E1294"
@@ -268,11 +217,11 @@
     ]
   },
   "raw_sections": [
-    "应 当宣 扬， 宣 扬 主 话 使 国度 来临；",
-    "尽 力 宣 扬， 宣 扬 主 话 直 到国 度临。",
-    "和 平 福音， 不该 藏隐；",
-    "应 当宣 扬，宣 扬主 话",
-    "直 到国 度临。",
+    "应当宣扬，宣扬主话使国度来临；",
+    "尽力宣扬，宣扬主话直到国度临。",
+    "和平福音，和平福音，",
+    "不该藏隐；不该藏隐；",
+    "应当宣扬，宣扬主话直到国度临。",
     "主话有能，尽管释放，必不归徒然；",
     "凭信撒种，必有结果，绝不归徒然。",
     "殷勤撒种，必得亨通；",

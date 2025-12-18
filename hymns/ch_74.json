@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "听 阿，"
+              "text": "聽 阿，"
             },
             {
               "chord": "",
-              "text": "天 使 赞 高"
+              "text": "天 使 讚 高"
             },
             {
               "chord": "A",
-              "text": "声，"
+              "text": "聲，"
             }
           ]
         },
@@ -24,7 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "颂 扬 救 主 今 诞"
+              "text": "頌 揚 救 主 今 誕"
             },
             {
               "chord": "D",
@@ -36,7 +36,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "『荣 耀 在 天 归 与"
+              "text": "『榮 耀 在 天 歸 與"
             },
             {
               "chord": "A",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "E7",
-              "text": "临 及"
+              "text": "臨 及"
             },
             {
               "chord": "A",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "D",
-              "text": "兴 起！"
+              "text": "興 起！"
             }
           ]
         },
@@ -72,15 +72,15 @@
             },
             {
               "chord": "G",
-              "text": "众 生"
+              "text": "眾 生"
             },
             {
               "chord": "A",
-              "text": "灵，"
+              "text": "靈，"
             },
             {
               "chord": "D",
-              "text": "响 应"
+              "text": "響 應"
             }
           ]
         },
@@ -92,11 +92,11 @@
             },
             {
               "chord": "G",
-              "text": "赞 美"
+              "text": "讚 美"
             },
             {
               "chord": "A",
-              "text": "声；"
+              "text": "聲；"
             },
             {
               "chord": "G",
@@ -108,11 +108,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "地 和 乐 欢"
+              "text": "地 和 樂 歡"
             },
             {
               "chord": "A",
-              "text": "腾， 基"
+              "text": "騰， 基"
             },
             {
               "chord": "",
@@ -124,7 +124,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "诞 生"
+              "text": "誕 生"
             },
             {
               "chord": "A",
@@ -132,7 +132,7 @@
             },
             {
               "chord": "A7",
-              "text": "卫"
+              "text": "衛"
             },
             {
               "chord": "D",
@@ -148,11 +148,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "地 和 乐 欢"
+              "text": "地 和 樂 歡"
             },
             {
               "chord": "A",
-              "text": "腾，"
+              "text": "騰，"
             },
             {
               "chord": "A7",
@@ -164,7 +164,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "诞 生"
+              "text": "誕 生"
             },
             {
               "chord": "A",
@@ -172,7 +172,7 @@
             },
             {
               "chord": "A7",
-              "text": "卫"
+              "text": "衛"
             },
             {
               "chord": "D",
@@ -455,10 +455,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "511713325554323",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0074_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/84",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/84",
+        "language": "en",
         "category": "h",
         "number": "84",
         "title": "E84"
@@ -466,16 +467,16 @@
     ]
   },
   "raw_sections": [
-    "听 阿，天 使 赞 高声，",
-    "颂 扬 救 主 今 诞生！",
-    "『荣 耀 在 天 归 与神， 平",
-    "安 在 地临 及人。』兴 起！",
-    "地 上众 生灵，响 应",
-    "天 上赞 美声；天 唱",
-    "地 和 乐 欢腾， 基督",
-    "诞 生大卫城。天 唱",
-    "地 和 乐 欢腾，基 督",
-    "诞 生大卫城。",
+    "聽 阿，天 使 讚 高聲，",
+    "頌 揚 救 主 今 誕生！",
+    "『榮 耀 在 天 歸 與神， 平",
+    "安 在 地臨 及人。』興 起！",
+    "地 上眾 生靈，響 應",
+    "天 上讚 美聲；天 唱",
+    "地 和 樂 歡騰， 基督",
+    "誕 生大衛城。天 唱",
+    "地 和 樂 歡騰，基 督",
+    "誕 生大衛城。",
     "基督本有神形像，",
     "基督原居神荣光，",
     "竟在末世从天降，",

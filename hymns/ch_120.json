@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "你 是 万"
+              "text": "你 是 萬"
             },
             {
               "chord": "D",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "A",
-              "text": "得 荣"
+              "text": "得 榮"
             },
             {
               "chord": "A7",
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "因 你 权"
+              "text": "因 你 權"
             },
             {
               "chord": "G",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "",
-              "text": "严，"
+              "text": "嚴，"
             }
           ]
         },
@@ -68,11 +68,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "万"
+              "text": "萬"
             },
             {
               "chord": "D",
-              "text": "众 将"
+              "text": "眾 將"
             },
             {
               "chord": "",
@@ -80,11 +80,11 @@
             },
             {
               "chord": "D7",
-              "text": "称"
+              "text": "稱"
             },
             {
               "chord": "G",
-              "text": "赞。"
+              "text": "讚。"
             }
           ]
         }
@@ -287,10 +287,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "512316713251765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0120_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/133",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/133",
+        "language": "en",
         "category": "h",
         "number": "133",
         "title": "E133"
@@ -298,10 +299,10 @@
     ]
   },
   "raw_sections": [
-    "哦 主，你 是 万有 的主，",
-    "已得 荣耀 冠冕；",
-    "因 你 权柄 和你 威严，",
-    "万众 将你称赞。",
+    "哦 主，你 是 萬有 的主，",
+    "已得 榮耀 冠冕；",
+    "因 你 權柄 和你 威嚴，",
+    "萬眾 將你稱讚。",
     "神在人里活在地上，",
     "曾经成为奴仆；",
     "人在神里住在天上，",

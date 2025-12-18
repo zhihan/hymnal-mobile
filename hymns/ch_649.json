@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "早 已 定 规 抵 敌"
+              "text": "早 已 定 規 抵 敵"
             }
           ]
         },
@@ -24,7 +24,7 @@
             },
             {
               "chord": "D",
-              "text": "的 后"
+              "text": "的 後"
             },
             {
               "chord": "G",
@@ -36,7 +36,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "从 军"
+              "text": "從 軍"
             },
             {
               "chord": "D",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "Em",
-              "text": "会， 当"
+              "text": "會， 當"
             },
             {
               "chord": "G",
@@ -78,7 +78,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "主 留 我 们 今 日 在 世，"
+              "text": "主 留 我 們 今 日 在 世，"
             }
           ]
         },
@@ -86,7 +86,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "原 是 为 争 战；"
+              "text": "原 是 為 爭 戰；"
             }
           ]
         },
@@ -110,7 +110,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "就 须"
+              "text": "就 須"
             },
             {
               "chord": "D7",
@@ -118,7 +118,7 @@
             },
             {
               "chord": "G",
-              "text": "场。"
+              "text": "場。"
             }
           ]
         }
@@ -655,10 +655,11 @@
     "category": "属灵的争战",
     "time": "2/4",
     "hymn_code": "5555513126223",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0649_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8649",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8649",
+        "language": "en",
         "category": "h",
         "number": "8649",
         "title": "E8649"
@@ -666,14 +667,14 @@
     ]
   },
   "raw_sections": [
-    "撒 但早 已 定 规 抵 敌",
-    "我 神的 后裔；",
-    "从 军的 召会， 当注 意！",
+    "撒 但早 已 定 規 抵 敵",
+    "我 神的 後裔；",
+    "從 軍的 召會， 當注 意！",
     "你 已得 消息！",
-    "主 留 我 们 今 日 在 世，",
-    "原 是 为 争 战；",
+    "主 留 我 們 今 日 在 世，",
+    "原 是 為 爭 戰；",
     "所 以 若 要成 功神 旨，",
-    "就 须上 疆场。",
+    "就 須上 疆場。",
     "黑暗军兵已经聚集，",
     "他们已逼近；",
     "从军的召会，当奋起！",

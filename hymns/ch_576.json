@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "复 兴"
+              "text": "復 興"
             },
             {
               "chord": "",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "Em",
-              "text": "你 圣"
+              "text": "你 聖"
             },
             {
               "chord": "D",
@@ -44,11 +44,11 @@
             },
             {
               "chord": "G",
-              "text": "显"
+              "text": "顯"
             },
             {
               "chord": "A",
-              "text": "现；"
+              "text": "現；"
             }
           ]
         },
@@ -64,11 +64,11 @@
             },
             {
               "chord": "G",
-              "text": "权 发"
+              "text": "權 發"
             },
             {
               "chord": "",
-              "text": "命 监"
+              "text": "命 監"
             },
             {
               "chord": "D",
@@ -80,19 +80,19 @@
           "segments": [
             {
               "chord": "Bm",
-              "text": "让"
+              "text": "讓"
             },
             {
               "chord": "Em",
-              "text": "你 儿"
+              "text": "你 兒"
             },
             {
               "chord": "A7",
-              "text": "女 检"
+              "text": "女 檢"
             },
             {
               "chord": "D",
-              "text": "点。"
+              "text": "點。"
             }
           ]
         }
@@ -106,11 +106,11 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "复"
+              "text": "復"
             },
             {
               "chord": "D",
-              "text": "兴 你"
+              "text": "興 你"
             },
             {
               "chord": "G",
@@ -130,7 +130,7 @@
             },
             {
               "chord": "F♯m",
-              "text": "们 现"
+              "text": "們 現"
             },
             {
               "chord": "Bm",
@@ -150,15 +150,15 @@
             },
             {
               "chord": "D",
-              "text": "愿 正"
+              "text": "願 正"
             },
             {
               "chord": "G",
-              "text": "当 我"
+              "text": "當 我"
             },
             {
               "chord": "",
-              "text": "们 俯"
+              "text": "們 俯"
             },
             {
               "chord": "D",
@@ -174,11 +174,11 @@
             },
             {
               "chord": "Em",
-              "text": "就 显"
+              "text": "就 顯"
             },
             {
               "chord": "A7",
-              "text": "现 能"
+              "text": "現 能"
             },
             {
               "chord": "D",
@@ -569,10 +569,11 @@
     "category": "祷告",
     "time": "4/4",
     "hymn_code": "12321651122232",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0576_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/797",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/797",
+        "language": "en",
         "category": "h",
         "number": "797",
         "title": "E797"
@@ -580,14 +581,14 @@
     ]
   },
   "raw_sections": [
-    "复 兴你工作，主！",
-    "向你 圣徒显现；",
-    "求你 用权 发命 监督，",
-    "让你 儿女 检点。",
-    "复兴 你工 作，主！",
-    "我们 现今 等候；",
-    "但愿 正当 我们 俯伏，",
-    "你就 显现 能手。",
+    "復 興你工作，主！",
+    "向你 聖徒顯現；",
+    "求你 用權 發命 監督，",
+    "讓你 兒女 檢點。",
+    "復興 你工 作，主！",
+    "我們 現今 等候；",
+    "但願 正當 我們 俯伏，",
+    "你就 顯現 能手。",
     "复兴你工作，主！",
     "求你感动召会，",
     "为着罪恶，忧伤痛悔，",

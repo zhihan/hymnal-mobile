@@ -7,72 +7,8 @@
         {
           "segments": [
             {
-              "chord": "A",
-              "text": "The water"
-            },
-            {
               "chord": "",
-              "text": "in the word, the"
-            },
-            {
-              "chord": "D",
-              "text": "water"
-            },
-            {
-              "chord": "",
-              "text": "in the word,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "A",
-              "text": "Washing"
-            },
-            {
-              "chord": "",
-              "text": "by the"
-            },
-            {
-              "chord": "F♯m",
-              "text": "water,"
-            },
-            {
-              "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "D",
-              "text": "water"
-            },
-            {
-              "chord": "",
-              "text": "in the"
-            },
-            {
-              "chord": "E",
-              "text": "word,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "A",
-              "text": "That He"
-            },
-            {
-              "chord": "",
-              "text": "might sanctify her,"
-            },
-            {
-              "chord": "D",
-              "text": "cleansing"
-            },
-            {
-              "chord": "",
-              "text": "her,"
+              "text": "The water in the word, the water in the word,"
             }
           ]
         },
@@ -80,27 +16,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "Cleansing by the"
-            },
-            {
-              "chord": "A",
-              "text": "washing"
-            },
-            {
-              "chord": "",
-              "text": "of the"
-            },
-            {
-              "chord": "E",
-              "text": "water"
-            },
+              "text": "Washing by the water, the water in the word,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "in the"
-            },
+              "text": "That He might sanctify her, cleansing her,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "A",
-              "text": "word."
+              "chord": "",
+              "text": "Cleansing by the washing of the water in the word."
             }
           ]
         }
@@ -113,11 +45,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "washing of the"
-            },
-            {
-              "chord": "E",
-              "text": "water"
+              "text": "Husbands, love your wives"
             }
           ]
         },
@@ -125,55 +53,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "in the"
-            },
-            {
-              "chord": "A",
-              "text": "word."
-            },
-            {
-              "chord": "C♯m",
-              "text": "Husbands,"
-            },
-            {
-              "chord": "",
-              "text": "love your"
+              "text": "Even as Christ loved the church"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "Bm",
-              "text": "wives Even"
-            },
-            {
               "chord": "",
-              "text": "as"
-            },
-            {
-              "chord": "A",
-              "text": "Christ loved"
-            },
-            {
-              "chord": "",
-              "text": "the"
+              "text": "And gave Himself up for her,"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "Bm",
-              "text": "church And"
-            },
-            {
-              "chord": "C♯m",
-              "text": "gave Himself"
-            },
-            {
               "chord": "",
-              "text": "up"
+              "text": "Gave Himself up for her."
             }
           ]
         }
@@ -186,27 +82,31 @@
           "segments": [
             {
               "chord": "",
-              "text": "for"
-            },
-            {
-              "chord": "Bm",
-              "text": "her, Gave"
-            },
-            {
-              "chord": "",
-              "text": "Him"
-            },
-            {
-              "chord": "A",
-              "text": "self"
-            },
-            {
-              "chord": "E",
-              "text": "up for"
-            },
+              "text": "The water in the word, the water in the word,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "her."
+              "text": "Washing by the water, the water in the word,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "That He might sanctify her, cleansing her,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Cleansing by the washing of the water in the word,"
             }
           ]
         }
@@ -291,18 +191,22 @@
   "metadata": {
     "category": "Scriptures for Singing",
     "time": "4/4",
-    "hymn_code": "235565121121217121132132"
+    "hymn_code": "235565121121217121132132",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0540_tune.midi"
   },
   "raw_sections": [
-    "The waterin the word, thewaterin the word,",
-    "Washingby thewater,thewaterin theword,",
-    "That Hemight sanctify her,cleansingher,",
-    "Cleansing by thewashingof thewaterin theword.",
-    "washing of thewater",
-    "in theword.Husbands,love your",
-    "wives EvenasChrist lovedthe",
-    "church Andgave Himselfup",
-    "forher, GaveHimselfup forher.",
+    "The water in the word, the water in the word,",
+    "Washing by the water, the water in the word,",
+    "That He might sanctify her, cleansing her,",
+    "Cleansing by the washing of the water in the word.",
+    "Husbands, love your wives",
+    "Even as Christ loved the church",
+    "And gave Himself up for her,",
+    "Gave Himself up for her.",
+    "The water in the word, the water in the word,",
+    "Washing by the water, the water in the word,",
+    "That He might sanctify her, cleansing her,",
+    "Cleansing by the washing of the water in the word,",
     "That He might present",
     "The church to Himself glorious,",
     "Not having spot or wrinkle",

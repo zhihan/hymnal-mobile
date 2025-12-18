@@ -497,10 +497,11 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "5565117123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0598_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/440",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/440",
+        "language": "cn",
         "category": "ch",
         "number": "440",
         "title": "C440"

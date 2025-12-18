@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "我 从"
+              "text": "我 從"
             },
             {
               "chord": "",
-              "text": "来 不 后 悔"
+              "text": "來 不 後 悔"
             }
           ]
         },
@@ -20,7 +20,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "答 应 神 呼"
+              "text": "答 應 神 呼"
             },
             {
               "chord": "D",
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 从 来 不 后"
+              "text": "我 從 來 不 後"
             },
             {
               "chord": "D7",
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "完 全 献 给"
+              "text": "完 全 獻 給"
             },
             {
               "chord": "G",
@@ -56,7 +56,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 与 恩 主 同"
+              "text": "我 與 恩 主 同"
             },
             {
               "chord": "G7",
@@ -80,11 +80,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 从 来 不"
+              "text": "我 從 來 不"
             },
             {
               "chord": "G",
-              "text": "后"
+              "text": "後"
             },
             {
               "chord": "Am",
@@ -120,16 +120,17 @@
   "metadata": {
     "category": "事奉与福音",
     "time": "4/4",
-    "hymn_code": "53231511767"
+    "hymn_code": "53231511767",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0803_tune.midi"
   },
   "raw_sections": [
-    "我 从来 不 后 悔",
-    "答 应 神 呼召，",
-    "我 从 来 不 后悔",
-    "完 全 献 给主；",
-    "我 与 恩 主 同行，",
+    "我 從來 不 後 悔",
+    "答 應 神 呼召，",
+    "我 從 來 不 後悔",
+    "完 全 獻 給主；",
+    "我 與 恩 主 同行，",
     "天 天 在 登高，",
-    "我 从 来 不后悔",
+    "我 從 來 不後悔",
     "所走 每步路。"
   ]
 }

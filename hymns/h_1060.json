@@ -436,10 +436,11 @@
     "category": "Gospel",
     "time": "4/4",
     "hymn_code": "135551332171",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1060_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/732",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/732",
+        "language": "cn",
         "category": "ch",
         "number": "732",
         "title": "C732"

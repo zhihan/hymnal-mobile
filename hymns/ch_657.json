@@ -48,7 +48,7 @@
             },
             {
               "chord": "G",
-              "text": "住 处，"
+              "text": "住 處，"
             },
             {
               "chord": "",
@@ -64,7 +64,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "并 有"
+              "text": "並 有"
             },
             {
               "chord": "G",
@@ -72,11 +72,11 @@
             },
             {
               "chord": "D",
-              "text": "为 产"
+              "text": "為 產"
             },
             {
               "chord": "G",
-              "text": "业。"
+              "text": "業。"
             }
           ]
         }
@@ -122,7 +122,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "衣、 食、 住 处，"
+              "text": "衣、 食、 住 處，"
             },
             {
               "chord": "G7",
@@ -138,7 +138,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "并 有"
+              "text": "並 有"
             },
             {
               "chord": "G",
@@ -146,15 +146,15 @@
             },
             {
               "chord": "D",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "D7",
-              "text": "产"
+              "text": "產"
             },
             {
               "chord": "G",
-              "text": "业。"
+              "text": "業。"
             }
           ]
         }
@@ -541,10 +541,11 @@
     "category": "事奉",
     "time": "3/4",
     "hymn_code": "123123211651712",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0657_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/911",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/911",
+        "language": "en",
         "category": "h",
         "number": "911",
         "title": "E911"
@@ -554,12 +555,12 @@
   "raw_sections": [
     "祭 司生 活 何 等有 福，",
     "得 享基 督作 一切！",
-    "衣、 食、住 处，全 是基 督，",
-    "并 有基 督为 产业。",
+    "衣、 食、住 處，全 是基 督，",
+    "並 有基 督為 產業。",
     "祭 司 生 活 何 等有 福，",
     "得 享基 督作 一切！",
-    "衣、 食、 住 处，全 是基 督，",
-    "并 有基 督为产业。",
+    "衣、 食、 住 處，全 是基 督，",
+    "並 有基 督為產業。",
     "祭司供职所披所戴，",
     "全是基督的荣美；",
     "圣服、圣冠、面牌、胸牌，",

@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "神 圣"
+              "text": "神 聖"
             },
             {
               "chord": "",
@@ -20,11 +20,11 @@
             },
             {
               "chord": "G7",
-              "text": "广 无"
+              "text": "廣 無"
             },
             {
               "chord": "C",
-              "text": "边，"
+              "text": "邊，"
             }
           ]
         },
@@ -36,11 +36,11 @@
             },
             {
               "chord": "G",
-              "text": "智 岂"
+              "text": "智 豈"
             },
             {
               "chord": "D7",
-              "text": "能 局"
+              "text": "能 侷"
             },
             {
               "chord": "G",
@@ -56,15 +56,15 @@
             },
             {
               "chord": "C",
-              "text": "己 残"
+              "text": "己 殘"
             },
             {
               "chord": "F",
-              "text": "见， 囿"
+              "text": "見， 囿"
             },
             {
               "chord": "G7",
-              "text": "于 时"
+              "text": "於 時"
             },
             {
               "chord": "C",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "Am",
-              "text": "将 天"
+              "text": "將 天"
             },
             {
               "chord": "E",
@@ -96,7 +96,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "崭"
+              "text": "嶄"
             },
             {
               "chord": "C",
@@ -124,7 +124,7 @@
             },
             {
               "chord": "F",
-              "text": "愿 人"
+              "text": "願 人"
             },
             {
               "chord": "",
@@ -132,7 +132,7 @@
             },
             {
               "chord": "G",
-              "text": "见："
+              "text": "見："
             }
           ]
         },
@@ -144,7 +144,7 @@
             },
             {
               "chord": "C",
-              "text": "话 真"
+              "text": "話 真"
             },
             {
               "chord": "F",
@@ -164,7 +164,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "释"
+              "text": "釋"
             },
             {
               "chord": "Dm",
@@ -172,7 +172,7 @@
             },
             {
               "chord": "G7",
-              "text": "理 无"
+              "text": "理 無"
             },
             {
               "chord": "C",
@@ -469,10 +469,11 @@
     "category": "追求与长进",
     "time": "4/4",
     "hymn_code": "13516543325665",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0470_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/817",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/817",
+        "language": "en",
         "category": "h",
         "number": "817",
         "title": "E817"
@@ -480,14 +481,14 @@
     ]
   },
   "raw_sections": [
-    "神 圣真理 深广 无边，",
-    "人智 岂能 局限？",
-    "一己 残见， 囿于 时空，",
-    "勿将 天光 遮掩。",
-    "崭新 亮光， 更美 盼望，",
-    "惟愿 人心 能见：",
-    "主话 真光 越照 越明，",
-    "释放 真理 无限。",
+    "神 聖真理 深廣 無邊，",
+    "人智 豈能 侷限？",
+    "一己 殘見， 囿於 時空，",
+    "勿將 天光 遮掩。",
+    "嶄新 亮光， 更美 盼望，",
+    "惟願 人心 能見：",
+    "主話 真光 越照 越明，",
+    "釋放 真理 無限。",
     "天来圣谕普赐万邦，",
     "历代人当称羡；",
     "谁竟擅用无知言语，",

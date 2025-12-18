@@ -7,12 +7,8 @@
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "瞧！ 我"
-            },
-            {
               "chord": "",
-              "text": "是 人，"
+              "text": "瞧！我是人，"
             }
           ]
         },
@@ -20,15 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 是 这 个 宇 宙"
-            },
-            {
-              "chord": "C",
-              "text": "的 意"
-            },
-            {
-              "chord": "G",
-              "text": "义，"
+              "text": "我是这个宇宙的意义，"
             }
           ]
         },
@@ -36,7 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "对， 我 是 人，"
+              "text": "对，我是人，"
             }
           ]
         },
@@ -44,15 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 是 这 个 宇 宙"
-            },
-            {
-              "chord": "A",
-              "text": "的 意"
-            },
-            {
-              "chord": "D",
-              "text": "义！"
+              "text": "我是这个宇宙的意义！"
             }
           ]
         },
@@ -60,19 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "神 造 了"
-            },
-            {
-              "chord": "G",
-              "text": "我， 身"
-            },
-            {
-              "chord": "",
-              "text": "分 崇"
-            },
-            {
-              "chord": "C",
-              "text": "高，"
+              "text": "神造了我，神造了我，"
             }
           ]
         },
@@ -80,19 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "使 我"
-            },
-            {
-              "chord": "G",
-              "text": "成 为"
-            },
-            {
-              "chord": "",
-              "text": "这 个"
-            },
-            {
-              "chord": "D",
-              "text": "宇 宙"
+              "text": "身分崇高，身分崇高，"
             }
           ]
         },
@@ -100,19 +56,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "中 心"
-            },
-            {
-              "chord": "D7",
-              "text": "和 意"
+              "text": "使我成为"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "义。"
+              "chord": "",
+              "text": "这个宇宙中心和意义。"
             }
           ]
         }
@@ -341,10 +293,11 @@
     "category": "事奉与福音",
     "time": "2/2",
     "hymn_code": "5671651165161",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0815_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1293",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1293",
+        "language": "en",
         "category": "h",
         "number": "1293",
         "title": "E1293"
@@ -352,14 +305,14 @@
     ]
   },
   "raw_sections": [
-    "瞧！ 我是 人，",
-    "我 是 这 个 宇 宙的 意义，",
-    "对， 我 是 人，",
-    "我 是 这 个 宇 宙的 意义！",
-    "神 造 了我， 身分 崇高，",
-    "使 我成 为这 个宇 宙",
-    "中 心和 意",
-    "义。",
+    "瞧！我是人，",
+    "我是这个宇宙的意义，",
+    "对，我是人，",
+    "我是这个宇宙的意义！",
+    "神造了我，神造了我，",
+    "身分崇高，身分崇高，",
+    "使我成为",
+    "这个宇宙中心和意义。",
     "我有基督─",
     "祂乃是我人生的意义！",
     "（重复）",

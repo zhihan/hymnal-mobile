@@ -12,11 +12,11 @@
             },
             {
               "chord": "",
-              "text": "一 个"
+              "text": "一 個"
             },
             {
               "chord": "C",
-              "text": "异 乡"
+              "text": "異 鄉"
             },
             {
               "chord": "G",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "跋 涉 遥 远 的 道"
+              "text": "跋 涉 遙 遠 的 道"
             },
             {
               "chord": "D",
@@ -40,15 +40,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "虽 然"
+              "text": "雖 然"
             },
             {
               "chord": "G",
-              "text": "有 时"
+              "text": "有 時"
             },
             {
               "chord": "C",
-              "text": "遇 见"
+              "text": "遇 見"
             },
             {
               "chord": "G",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "G",
-              "text": "亲"
+              "text": "親"
             },
             {
               "chord": "D7",
@@ -84,11 +84,11 @@
             },
             {
               "chord": "D",
-              "text": "虽 有"
+              "text": "雖 有"
             },
             {
               "chord": "",
-              "text": "乌 云 笼 罩，"
+              "text": "烏 雲 籠 罩，"
             }
           ]
         },
@@ -104,7 +104,7 @@
             },
             {
               "chord": "D7",
-              "text": "扰，"
+              "text": "擾，"
             }
           ]
         },
@@ -112,15 +112,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "思 虑、"
+              "text": "思 慮、"
             },
             {
               "chord": "G",
-              "text": "烦 恼"
+              "text": "煩 惱"
             },
             {
               "chord": "",
-              "text": "把 我 压 倒，"
+              "text": "把 我 壓 倒，"
             }
           ]
         },
@@ -363,10 +363,11 @@
     "category": "试炼中的安慰",
     "time": "3/4",
     "hymn_code": "345132153456532",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0512_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8512",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8512",
+        "language": "en",
         "category": "h",
         "number": "8512",
         "title": "E8512"
@@ -374,13 +375,13 @@
     ]
   },
   "raw_sections": [
-    "我 是一 个异 乡旅 客，",
-    "跋 涉 遥 远 的 道路；",
-    "虽 然有 时遇 见阻 隔，",
-    "引 我亲天父。",
-    "途 中虽 有乌 云 笼 罩，",
-    "也 有 意 外的 打扰，",
-    "思 虑、烦 恼把 我 压 倒，",
+    "我 是一 個異 鄉旅 客，",
+    "跋 涉 遙 遠 的 道路；",
+    "雖 然有 時遇 見阻 隔，",
+    "引 我親天父。",
+    "途 中雖 有烏 雲 籠 罩，",
+    "也 有 意 外的 打擾，",
+    "思 慮、煩 惱把 我 壓 倒，",
     "但 我父知道。",
     "父是知道，何等保证！",
     "沿途试炼有何害？",

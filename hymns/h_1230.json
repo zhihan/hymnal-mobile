@@ -321,10 +321,11 @@
     "category": "The Church",
     "time": "4/4",
     "hymn_code": "15123432234321171",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1230_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/625",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/625",
+        "language": "cn",
         "category": "ts",
         "number": "625",
         "title": "Cs625"

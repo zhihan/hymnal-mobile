@@ -12,7 +12,7 @@
             },
             {
               "chord": "G",
-              "text": "每 时"
+              "text": "每 時"
             },
             {
               "chord": "",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "C",
-              "text": "爱 恩"
+              "text": "愛 恩"
             },
             {
               "chord": "G",
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "D",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "",
-              "text": "声 似"
+              "text": "聲 似"
             },
             {
               "chord": "Em",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "D",
-              "text": "抚。"
+              "text": "撫。"
             }
           ]
         }
@@ -110,7 +110,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "每 时"
+              "text": "每 時"
             },
             {
               "chord": "B",
@@ -130,11 +130,11 @@
             },
             {
               "chord": "C",
-              "text": "主， 现"
+              "text": "主， 現"
             },
             {
               "chord": "Am",
-              "text": "在 赐"
+              "text": "在 賜"
             },
             {
               "chord": "G",
@@ -150,7 +150,7 @@
             },
             {
               "chord": "G",
-              "text": "来"
+              "text": "來"
             },
             {
               "chord": "D7",
@@ -470,10 +470,11 @@
     "category": "羡慕",
     "time": "3/4",
     "hymn_code": "132171112165",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0286_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/371",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/371",
+        "language": "en",
         "category": "h",
         "number": "371",
         "title": "E371"
@@ -481,14 +482,14 @@
     ]
   },
   "raw_sections": [
-    "我每 时刻 需你，",
-    "可爱 恩主；",
-    "无人 柔声 似你，",
-    "能施安抚。",
+    "我每 時刻 需你，",
+    "可愛 恩主；",
+    "無人 柔聲 似你，",
+    "能施安撫。",
     "我需 你，主， 我需 你，",
-    "每 时刻 我需 你；",
-    "哦主， 现在 赐恩 力，",
-    "我来就你。",
+    "每 時刻 我需 你；",
+    "哦主， 現在 賜恩 力，",
+    "我來就你。",
     "我每时刻需你，",
     "求你来临；",
     "试探失去能力，",

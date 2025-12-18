@@ -7,16 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "Lord, do"
-            },
-            {
               "chord": "",
-              "text": "un"
-            },
-            {
-              "chord": "Dmaj7",
-              "text": "veil"
+              "text": "Lord, do unveil"
             }
           ]
         },
@@ -24,15 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "The more we"
-            },
-            {
-              "chord": "G",
-              "text": "strive, the"
-            },
-            {
-              "chord": "",
-              "text": "more we fail"
+              "text": "The more we strive, the more we fail"
             }
           ]
         },
@@ -40,47 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "All the"
-            },
-            {
-              "chord": "A7",
-              "text": "strife— they"
-            },
-            {
-              "chord": "",
-              "text": "all come"
-            },
-            {
-              "chord": "D",
-              "text": "out to"
-            },
-            {
-              "chord": "A",
-              "text": "no a"
-            },
-            {
-              "chord": "Bm",
-              "text": "vail."
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D",
-              "text": "Lord, they're"
-            },
-            {
-              "chord": "G",
-              "text": "just not"
-            },
-            {
-              "chord": "D",
-              "text": "for your"
-            },
-            {
-              "chord": "",
-              "text": "need"
+              "text": "All the strife—they all come out to no avail."
             }
           ]
         },
@@ -88,19 +32,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "By"
-            },
-            {
-              "chord": "Em",
-              "text": "\"self\", we"
-            },
+              "text": "Lord, they’re just not for your need"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "won't suc"
-            },
-            {
-              "chord": "Asus4",
-              "text": "ceed."
+              "text": "By “self”, we won’t succeed."
             }
           ]
         }
@@ -113,36 +53,40 @@
         {
           "segments": [
             {
-              "chord": "A7",
-              "text": "Lord, we"
-            },
-            {
               "chord": "",
-              "text": "con"
-            },
-            {
-              "chord": "Em",
-              "text": "Christ"
+              "text": "Lord, we confess"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "in"
-            },
+              "chord": "",
+              "text": "We are not able, Lord, unless"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "G",
-              "text": "us"
-            },
+              "chord": "",
+              "text": "We have You; You’re all in all—You’re our success!"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "A7",
-              "text": "in"
-            },
+              "chord": "",
+              "text": "All we need, O Lord, is You"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "D",
-              "text": "creased."
+              "chord": "",
+              "text": "’Cause nothing else will do."
             }
           ]
         }
@@ -246,16 +190,20 @@
   "metadata": {
     "category": "Longings",
     "time": "4/4",
-    "hymn_code": "554334556434"
+    "hymn_code": "554334556434",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0206_tune.midi"
   },
   "raw_sections": [
-    "Lord, dounveil",
-    "The more westrive, themore we fail",
-    "All thestrife— theyall comeout tono avail.",
-    "Lord, they'rejust notfor yourneed",
-    "By\"self\", wewon't succeed.",
-    "Lord, weconChrist",
-    "inusincreased.",
+    "Lord, do unveil",
+    "The more we strive, the more we fail",
+    "All the strife—they all come out to no avail.",
+    "Lord, they’re just not for your need",
+    "By “self”, we won’t succeed.",
+    "Lord, we confess",
+    "We are not able, Lord, unless",
+    "We have You; You’re all in all—You’re our success!",
+    "All we need, O Lord, is You",
+    "’Cause nothing else will do.",
     "O Lord, we pray",
     "Increase Thyself in us each day",
     "And the “self”—decrease it ’til it’s done away.",

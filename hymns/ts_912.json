@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
-              "text": "灯 里 有"
+              "text": "燈 裡 有"
             },
             {
               "chord": "D7",
@@ -24,11 +24,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "灵 里"
+              "text": "靈 裡"
             },
             {
               "chord": "G",
-              "text": "焚 烧，"
+              "text": "焚 燒，"
             }
           ]
         },
@@ -36,11 +36,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "D",
-              "text": "灯 里"
+              "text": "燈 裡"
             },
             {
               "chord": "",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "D",
-              "text": "断 使"
+              "text": "斷 使"
             },
             {
               "chord": "",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "D7",
-              "text": "们"
+              "text": "們"
             }
           ]
         },
@@ -76,11 +76,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "转 到"
+              "text": "轉 到"
             },
             {
               "chord": "G",
-              "text": "灵 里，"
+              "text": "靈 裡，"
             }
           ]
         },
@@ -96,11 +96,11 @@
             },
             {
               "chord": "",
-              "text": "不 绝，"
+              "text": "不 絕，"
             },
             {
               "chord": "A7",
-              "text": "灯 不"
+              "text": "燈 不"
             },
             {
               "chord": "D",
@@ -116,7 +116,7 @@
             },
             {
               "chord": "D7",
-              "text": "阿 们！"
+              "text": "阿 們！"
             },
             {
               "chord": "G",
@@ -124,7 +124,7 @@
             },
             {
               "chord": "",
-              "text": "路 亚！"
+              "text": "路 亞！"
             }
           ]
         },
@@ -132,19 +132,19 @@
           "segments": [
             {
               "chord": "A",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "A7",
-              "text": "昼 夜"
+              "text": "晝 夜"
             },
             {
               "chord": "",
-              "text": "焚 烧，"
+              "text": "焚 燒，"
             },
             {
               "chord": "D",
-              "text": "灯 不"
+              "text": "燈 不"
             },
             {
               "chord": "A7",
@@ -160,7 +160,7 @@
             },
             {
               "chord": "D7",
-              "text": "阿 们！"
+              "text": "阿 們！"
             },
             {
               "chord": "G",
@@ -168,7 +168,7 @@
             },
             {
               "chord": "",
-              "text": "路 亚！"
+              "text": "路 亞！"
             }
           ]
         },
@@ -176,19 +176,19 @@
           "segments": [
             {
               "chord": "A",
-              "text": "不 断"
+              "text": "不 斷"
             },
             {
               "chord": "A7",
-              "text": "转 回"
+              "text": "轉 回"
             },
             {
               "chord": "",
-              "text": "到 灵"
+              "text": "到 靈"
             },
             {
               "chord": "D",
-              "text": "里！"
+              "text": "裡！"
             }
           ]
         }
@@ -357,10 +357,11 @@
     "category": "盼望与豫备",
     "time": "4/4",
     "hymn_code": "5553212161",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0912_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1308",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1308",
+        "language": "en",
         "category": "h",
         "number": "1308",
         "title": "E1308"
@@ -368,16 +369,16 @@
     ]
   },
   "raw_sections": [
-    "我 们灯 里 有油，",
-    "灵 里焚 烧，",
-    "我 们灯 里有 油， 今朝！",
-    "主， 不断 使我们",
-    "转 到灵 里，",
-    "使 油源 源不 绝，灯 不熄。",
-    "哦 主！阿 们！阿 利路 亚！",
-    "我 们昼 夜焚 烧，灯 不熄！",
-    "哦 主！阿 们！阿 利路 亚！",
-    "不 断转 回到 灵里！",
+    "我 們燈 裡 有油，",
+    "靈 裡焚 燒，",
+    "我 們燈 裡有 油， 今朝！",
+    "主， 不斷 使我們",
+    "轉 到靈 裡，",
+    "使 油源 源不 絕，燈 不熄。",
+    "哦 主！阿 們！阿 利路 亞！",
+    "我 們晝 夜焚 燒，燈 不熄！",
+    "哦 主！阿 們！阿 利路 亞！",
+    "不 斷轉 回到 靈裡！",
     "但我们的器皿必须有油，",
     "你来时才不致蒙羞。主，",
     "浸透我们魂每一角落，",

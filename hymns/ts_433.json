@@ -16,7 +16,7 @@
             },
             {
               "chord": "G7",
-              "text": "不 迟"
+              "text": "不 遲"
             },
             {
               "chord": "C",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "每 日 迈"
+              "text": "每 日 邁"
             },
             {
               "chord": "G",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "G",
-              "text": "中， 祷"
+              "text": "中， 禱"
             },
             {
               "chord": "G7",
@@ -106,7 +106,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 力， 将 我 举"
+              "text": "我 力， 將 我 舉"
             },
             {
               "chord": "D",
@@ -146,7 +146,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "境 地， 凭"
+              "text": "境 地， 憑"
             },
             {
               "chord": "G7",
@@ -415,10 +415,11 @@
     "category": "追求与长进",
     "time": "3/4",
     "hymn_code": "5513321621651312",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0433_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/396",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/396",
+        "language": "en",
         "category": "h",
         "number": "396",
         "title": "E396"
@@ -426,13 +427,13 @@
     ]
   },
   "raw_sections": [
-    "我 今上 行， 毫不 迟疑，",
-    "每 日 迈向 更高 境地；",
-    "前行 途中， 祷告 不息：",
+    "我 今上 行， 毫不 遲疑，",
+    "每 日 邁向 更高 境地；",
+    "前行 途中， 禱告 不息：",
     "\"主 使 我立 更高之地。\" 主，加",
-    "我 力， 将 我 举起， 使我",
+    "我 力， 將 我 舉起， 使我",
     "踏上 更高 之地； 更高",
-    "境 地， 凭信 站立； 主，使",
+    "境 地， 憑信 站立； 主，使",
     "我立 更高 之地。",
     "我心不愿徘徊旧地，",
     "疑惑四起，恐惧来袭；",

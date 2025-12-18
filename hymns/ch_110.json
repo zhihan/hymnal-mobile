@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "G",
-              "text": "听 哪，"
+              "text": "聽 哪，"
             },
             {
               "chord": "",
-              "text": "千 万 声 音"
+              "text": "千 萬 聲 音"
             },
             {
               "chord": "D",
-              "text": "雷 鸣，"
+              "text": "雷 鳴，"
             }
           ]
         },
@@ -24,11 +24,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "同 声"
+              "text": "同 聲"
             },
             {
               "chord": "D7",
-              "text": "高 举"
+              "text": "高 舉"
             },
             {
               "chord": "",
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "万 万 千 千"
+              "text": "萬 萬 千 千"
             },
             {
               "chord": "G7",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "C",
-              "text": "响 应，"
+              "text": "響 應，"
             }
           ]
         },
@@ -60,19 +60,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "和 声"
+              "text": "和 聲"
             },
             {
               "chord": "G",
-              "text": "爆 发"
+              "text": "爆 發"
             },
             {
               "chord": "D7",
-              "text": "同 颂"
+              "text": "同 頌"
             },
             {
               "chord": "G",
-              "text": "扬。"
+              "text": "揚。"
             }
           ]
         }
@@ -313,10 +313,11 @@
     "category": "赞美主",
     "time": "9/8",
     "hymn_code": "5651332125",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0110_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/127",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/127",
+        "language": "en",
         "category": "h",
         "number": "127",
         "title": "E127"
@@ -324,10 +325,10 @@
     ]
   },
   "raw_sections": [
-    "听 哪，千 万 声 音雷 鸣，",
-    "同 声高 举神 羔羊；",
-    "万 万 千 千立 即响 应，",
-    "和 声爆 发同 颂扬。",
+    "聽 哪，千 萬 聲 音雷 鳴，",
+    "同 聲高 舉神 羔羊；",
+    "萬 萬 千 千立 即響 應，",
+    "和 聲爆 發同 頌揚。",
     "‘赞美羔羊！’声音四合，",
     "全天会集来歌诵，",
     "万口莫不响亮协和，",

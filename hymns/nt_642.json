@@ -7,16 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "\"Within"
-            },
-            {
               "chord": "",
-              "text": "the Veil\": be this, belov'd, thy"
-            },
-            {
-              "chord": "Em",
-              "text": "portion,"
+              "text": "“Within the Veil”: be this, belov’d, thy portion,"
             }
           ]
         },
@@ -24,51 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Within the"
-            },
-            {
-              "chord": "A",
-              "text": "secret"
-            },
-            {
-              "chord": "A7",
-              "text": "of thy"
-            },
-            {
-              "chord": "",
-              "text": "Lord to"
-            },
-            {
-              "chord": "D",
-              "text": "dwell;"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D7",
-              "text": "Beholding"
-            },
-            {
-              "chord": "G",
-              "text": "Him, un"
-            },
-            {
-              "chord": "A7",
-              "text": "til thy"
-            },
-            {
-              "chord": "",
-              "text": "face His"
-            },
-            {
-              "chord": "F♯m",
-              "text": "glo"
-            },
-            {
-              "chord": "Bm",
-              "text": "ry,"
+              "text": "Within the secret of thy Lord to dwell;"
             }
           ]
         },
@@ -76,27 +24,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "Thy"
-            },
-            {
-              "chord": "A",
-              "text": "life His"
-            },
-            {
-              "chord": "",
-              "text": "love, thy"
-            },
-            {
-              "chord": "E7",
-              "text": "lips His"
-            },
+              "text": "Beholding Him, until thy face His glory,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "praise shall"
-            },
-            {
-              "chord": "A",
-              "text": "tell."
+              "text": "Thy life His love, thy lips His praise shall tell."
             }
           ]
         }
@@ -109,8 +45,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "Lord,"
+              "chord": "",
+              "text": "Sisters:"
             }
           ]
         },
@@ -118,11 +54,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "I"
-            },
-            {
-              "chord": "G",
-              "text": "come, My"
+              "text": "Lord, I come,"
             }
           ]
         },
@@ -130,11 +62,55 @@
           "segments": [
             {
               "chord": "",
-              "text": "de"
-            },
+              "text": "Seeking You,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "A7",
-              "text": "light."
+              "chord": "",
+              "text": "Bring me in,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "To Your light,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You’re so rich,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "You’re so full,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Wonderful,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My delight."
             }
           ]
         }
@@ -336,16 +312,23 @@
   "metadata": {
     "category": "Encouragement",
     "time": "4/4",
-    "hymn_code": "33511113554"
+    "hymn_code": "33511113554",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e0642_new_tune.midi"
   },
   "raw_sections": [
-    "\"Withinthe Veil\": be this, belov'd, thyportion,",
-    "Within thesecretof thyLord todwell;",
-    "BeholdingHim, until thyface Hisglory,",
-    "Thylife Hislove, thylips Hispraise shalltell.",
-    "Lord,",
-    "Icome, My",
-    "delight.",
+    "“Within the Veil”: be this, belov’d, thy portion,",
+    "Within the secret of thy Lord to dwell;",
+    "Beholding Him, until thy face His glory,",
+    "Thy life His love, thy lips His praise shall tell.",
+    "Sisters:",
+    "Lord, I come,",
+    "Seeking You,",
+    "Bring me in,",
+    "To Your light,",
+    "You’re so rich,",
+    "You’re so full,",
+    "Wonderful,",
+    "My delight.",
     "Brothers:",
     "Open me,",
     "Turn my heart,",

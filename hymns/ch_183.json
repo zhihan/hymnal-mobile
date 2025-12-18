@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "咒 诅"
+              "text": "咒 詛"
             },
             {
               "chord": "",
@@ -44,11 +44,11 @@
             },
             {
               "chord": "G",
-              "text": "饮，"
+              "text": "飲，"
             },
             {
               "chord": "D",
-              "text": "爱"
+              "text": "愛"
             },
             {
               "chord": "A7",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "D",
-              "text": "尝；"
+              "text": "嘗；"
             }
           ]
         },
@@ -64,7 +64,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "恩 爱 高"
+              "text": "恩 愛 高"
             },
             {
               "chord": "G",
@@ -72,11 +72,11 @@
             },
             {
               "chord": "D",
-              "text": "谁"
+              "text": "誰"
             },
             {
               "chord": "E7",
-              "text": "能 测"
+              "text": "能 測"
             },
             {
               "chord": "A",
@@ -100,11 +100,11 @@
             },
             {
               "chord": "D",
-              "text": "应"
+              "text": "應"
             },
             {
               "chord": "A7",
-              "text": "当 歌"
+              "text": "當 歌"
             },
             {
               "chord": "D",
@@ -121,10 +121,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "1712353232165121",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0183_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8183",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8183",
+        "language": "en",
         "category": "h",
         "number": "8183",
         "title": "E8183"
@@ -132,9 +133,9 @@
     ]
   },
   "raw_sections": [
-    "咒 诅祂受，祝 福我享；",
-    "苦 杯祂饮，爱筵 我尝；",
-    "恩 爱 高深，谁能 测量？",
-    "我的 心哪，应当 歌唱！"
+    "咒 詛祂受，祝 福我享；",
+    "苦 杯祂飲，愛筵 我嘗；",
+    "恩 愛 高深，誰能 測量？",
+    "我的 心哪，應當 歌唱！"
   ]
 }

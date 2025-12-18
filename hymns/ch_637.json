@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "G",
-              "text": "争 战"
+              "text": "爭 戰"
             },
             {
               "chord": "",
-              "text": "要 在 身 体"
+              "text": "要 在 身 體"
             },
             {
               "chord": "C",
-              "text": "里 面，"
+              "text": "裡 面，"
             }
           ]
         },
@@ -28,7 +28,7 @@
             },
             {
               "chord": "A",
-              "text": "单 独"
+              "text": "單 獨"
             },
             {
               "chord": "A7",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "D",
-              "text": "敌；"
+              "text": "敵；"
             }
           ]
         },
@@ -48,11 +48,11 @@
             },
             {
               "chord": "G",
-              "text": "身 体"
+              "text": "身 體"
             },
             {
               "chord": "",
-              "text": "联 于"
+              "text": "聯 於"
             },
             {
               "chord": "C",
@@ -64,7 +64,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "宝 座"
+              "text": "寶 座"
             },
             {
               "chord": "G",
@@ -72,11 +72,11 @@
             },
             {
               "chord": "D7",
-              "text": "将 敌"
+              "text": "將 敵"
             },
             {
               "chord": "G",
-              "text": "袭。"
+              "text": "襲。"
             }
           ]
         }
@@ -90,7 +90,7 @@
           "segments": [
             {
               "chord": "G7",
-              "text": "争 战"
+              "text": "爭 戰"
             },
             {
               "chord": "C",
@@ -98,11 +98,11 @@
             },
             {
               "chord": "",
-              "text": "身 体"
+              "text": "身 體"
             },
             {
               "chord": "G",
-              "text": "里 面，"
+              "text": "裡 面，"
             }
           ]
         },
@@ -122,7 +122,7 @@
             },
             {
               "chord": "D",
-              "text": "绩；"
+              "text": "績；"
             }
           ]
         },
@@ -134,7 +134,7 @@
             },
             {
               "chord": "G",
-              "text": "身 体"
+              "text": "身 體"
             },
             {
               "chord": "",
@@ -142,7 +142,7 @@
             },
             {
               "chord": "C",
-              "text": "稳 坚，"
+              "text": "穩 堅，"
             }
           ]
         },
@@ -162,7 +162,7 @@
             },
             {
               "chord": "D7",
-              "text": "胜"
+              "text": "勝"
             },
             {
               "chord": "G",
@@ -628,10 +628,11 @@
     "category": "属灵的争战",
     "time": "3/2",
     "hymn_code": "565321766621712",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0637_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/885",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/885",
+        "language": "en",
         "category": "h",
         "number": "885",
         "title": "E885"
@@ -639,14 +640,14 @@
     ]
   },
   "raw_sections": [
-    "争 战要 在 身 体里 面，",
-    "永 勿单 独去 迎敌；",
-    "同 著身 体联 于元 首，",
-    "宝 座之 上将 敌袭。",
-    "争 战要 在身 体里 面，",
-    "藉 著元 首的 功绩；",
-    "同 著身 体站 得稳 坚，",
-    "你 就必 定得胜利。",
+    "爭 戰要 在 身 體裡 面，",
+    "永 勿單 獨去 迎敵；",
+    "同 著身 體聯 於元 首，",
+    "寶 座之 上將 敵襲。",
+    "爭 戰要 在身 體裡 面，",
+    "藉 著元 首的 功績；",
+    "同 著身 體站 得穩 堅，",
+    "你 就必 定得勝利。",
     "神的军装乃为身体，",
     "非为任何的个人；",
     "当你凭著身体争战，",

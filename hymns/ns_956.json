@@ -7,12 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "And the"
-            },
-            {
               "chord": "",
-              "text": "life was manifested,"
+              "text": "And the life was manifested,"
             }
           ]
         },
@@ -20,27 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "and we have seen and"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "G",
-              "text": "testify"
-            },
-            {
-              "chord": "Em",
-              "text": "and re"
-            },
-            {
-              "chord": "A",
-              "text": "port to"
-            },
-            {
-              "chord": "D",
-              "text": "you"
+              "text": "and we have seen and"
             }
           ]
         },
@@ -48,43 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "The e"
-            },
-            {
-              "chord": "G",
-              "text": "ternal"
-            },
-            {
-              "chord": "A",
-              "text": "life, which"
-            },
-            {
-              "chord": "D",
-              "text": "was with"
-            },
-            {
-              "chord": "",
-              "text": "the Father and"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "G",
-              "text": "was mani"
-            },
-            {
-              "chord": "A",
-              "text": "fested"
-            },
-            {
-              "chord": "",
-              "text": "to"
-            },
-            {
-              "chord": "D",
-              "text": "us,"
+              "text": "testify and report to you"
             }
           ]
         },
@@ -92,39 +32,31 @@
           "segments": [
             {
               "chord": "",
-              "text": "The e"
-            },
-            {
-              "chord": "G",
-              "text": "ternal"
-            },
-            {
-              "chord": "A",
-              "text": "life, which"
-            },
-            {
-              "chord": "D",
-              "text": "was with"
-            },
-            {
-              "chord": "",
-              "text": "the Father and"
+              "text": "The eternal life, which was with the Father and"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "E7",
-              "text": "was manifested"
-            },
+              "chord": "",
+              "text": "was manifested to us,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "to"
-            },
+              "text": "The eternal life, which was with the Father and"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "A",
-              "text": "us."
+              "chord": "",
+              "text": "was manifested to us."
             }
           ]
         }
@@ -137,27 +69,55 @@
           "segments": [
             {
               "chord": "",
-              "text": "And the"
-            },
-            {
-              "chord": "G",
-              "text": "was mani"
-            },
-            {
-              "chord": "A",
-              "text": "fested"
-            },
-            {
-              "chord": "",
-              "text": "to"
+              "text": "And the life was manifested,"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "us."
+              "chord": "",
+              "text": "and we have seen and"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "testify and report to you"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The eternal life, which was with the Father and"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "was manifested to us,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The eternal life, which was with the Father and"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "was manifested to us."
             }
           ]
         }
@@ -168,17 +128,23 @@
   "metadata": {
     "category": "Scriptures for Singing",
     "time": "4/4",
-    "hymn_code": "5511151354333222443211"
+    "hymn_code": "5511151354333222443211",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0956_tune.midi"
   },
   "raw_sections": [
-    "And thelife was manifested,",
-    "and we have seen and",
-    "testifyand report toyou",
-    "The eternallife, whichwas withthe Father and",
-    "was manifestedtous,",
-    "The eternallife, whichwas withthe Father and",
-    "was manifestedtous.",
-    "And thewas manifestedto",
-    "us."
+    "And the life was manifested,",
+    "and we have seen and",
+    "testify and report to you",
+    "The eternal life, which was with the Father and",
+    "was manifested to us,",
+    "The eternal life, which was with the Father and",
+    "was manifested to us.",
+    "And the life was manifested,",
+    "and we have seen and",
+    "testify and report to you",
+    "The eternal life, which was with the Father and",
+    "was manifested to us,",
+    "The eternal life, which was with the Father and",
+    "was manifested to us."
   ]
 }

@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "当 我 们"
+              "text": "當 我 們"
             },
             {
               "chord": "G",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "D7",
-              "text": "历 路"
+              "text": "歷 路"
             },
             {
               "chord": "G",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "G",
-              "text": "爱 对"
+              "text": "愛 對"
             },
             {
               "chord": "C",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "G",
-              "text": "诚 对"
+              "text": "誠 對"
             },
             {
               "chord": "C",
@@ -279,10 +279,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "54351527543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0079_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/87",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/87",
+        "language": "en",
         "category": "h",
         "number": "87",
         "title": "E87"
@@ -290,10 +291,10 @@
     ]
   },
   "raw_sections": [
-    "哦 主，当 我 们想 到你",
-    "在 世 所历 路程：",
-    "（你以 恩爱 对待 群黎， 你",
-    "以 忠诚 对神。",
+    "哦 主，當 我 們想 到你",
+    "在 世 所歷 路程：",
+    "（你以 恩愛 對待 群黎， 你",
+    "以 忠誠 對神。",
     "你爱虽然被人辜负，",
     "显为比死更强；",
     "刺你的枪，不过引出",

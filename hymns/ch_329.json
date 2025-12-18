@@ -16,11 +16,11 @@
             },
             {
               "chord": "A",
-              "text": "离 主，"
+              "text": "離 主，"
             },
             {
               "chord": "",
-              "text": "别"
+              "text": "別"
             },
             {
               "chord": "D",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "",
-              "text": "护，"
+              "text": "護，"
             }
           ]
         },
@@ -72,15 +72,15 @@
             },
             {
               "chord": "A",
-              "text": "动 心"
+              "text": "動 心"
             },
             {
               "chord": "",
-              "text": "贪"
+              "text": "貪"
             },
             {
               "chord": "G",
-              "text": "爱 世"
+              "text": "愛 世"
             },
             {
               "chord": "",
@@ -138,7 +138,7 @@
             },
             {
               "chord": "A",
-              "text": "犹 如"
+              "text": "猶 如"
             },
             {
               "chord": "",
@@ -638,10 +638,11 @@
     "category": "羡慕",
     "time": "6/4",
     "hymn_code": "333212333444323444",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0329_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8329",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8329",
+        "language": "en",
         "category": "h",
         "number": "8329",
         "title": "E8329"
@@ -649,13 +650,13 @@
     ]
   },
   "raw_sections": [
-    "有 人已离 主，别行 他途，",
-    "有 人已溜 出羊群 保护，",
-    "有 人已动 心贪爱 世俗，",
+    "有 人已離 主，別行 他途，",
+    "有 人已溜 出羊群 保護，",
+    "有 人已動 心貪愛 世俗，",
     "主， 是我否？",
     "主， 是我 否？",
     "主， 是 我 否？",
-    "此 言犹 如利刃刺 入我 心，",
+    "此 言猶 如利刃刺 入我 心，",
     "刺 入何 等的深！",
     "若 有一 人 要 失去 主的 分，",
     "主， 是 我否？",

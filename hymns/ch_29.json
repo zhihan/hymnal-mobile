@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
-              "text": "从"
+              "text": "從"
             },
             {
               "chord": "G",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "G",
-              "text": "过 就"
+              "text": "過 就"
             },
             {
               "chord": "Am",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "G7",
-              "text": "恶；"
+              "text": "惡；"
             }
           ]
         },
@@ -64,11 +64,11 @@
             },
             {
               "chord": "C",
-              "text": "们"
+              "text": "們"
             },
             {
               "chord": "F",
-              "text": "现"
+              "text": "現"
             },
             {
               "chord": "C",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "C",
-              "text": "是 来"
+              "text": "是 來"
             },
             {
               "chord": "Dm7",
@@ -421,10 +421,11 @@
     "category": "敬拜父",
     "time": "3/4",
     "hymn_code": "15117654332365545",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0029_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/31",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/31",
+        "language": "en",
         "category": "h",
         "number": "31",
         "title": "E31"
@@ -432,10 +433,10 @@
     ]
   },
   "raw_sections": [
-    "我 们从前 所有，",
-    "不过 就是死亡、罪恶；",
-    "我们现今 所有 福分，",
-    "都是 来自我神。",
+    "我 們從前 所有，",
+    "不過 就是死亡、罪惡；",
+    "我們現今 所有 福分，",
+    "都是 來自我神。",
     "我在罪中，你爱来寻，",
     "感动我心相信；",
     "叫我因信得着安乐，",

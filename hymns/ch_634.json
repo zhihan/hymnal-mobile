@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "冲 过！"
+              "text": "衝 過！"
             },
             {
               "chord": "",
-              "text": "战"
+              "text": "戰"
             },
             {
               "chord": "G",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "冲 过！"
+              "text": "衝 過！"
             }
           ]
         },
@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "前 线 正"
+              "text": "前 線 正"
             },
             {
               "chord": "G",
-              "text": "在 开"
+              "text": "在 開"
             },
             {
               "chord": "A",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "A",
-              "text": "得 胜，"
+              "text": "得 勝，"
             }
           ]
         },
@@ -64,7 +64,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "请 你 常"
+              "text": "請 你 常"
             },
             {
               "chord": "E",
@@ -80,15 +80,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "黑 暗 权"
+              "text": "黑 暗 權"
             },
             {
               "chord": "A7",
-              "text": "势 应"
+              "text": "勢 應"
             },
             {
               "chord": "D",
-              "text": "当 退，"
+              "text": "當 退，"
             }
           ]
         },
@@ -100,7 +100,7 @@
             },
             {
               "chord": "B7",
-              "text": "但 阴"
+              "text": "但 陰"
             },
             {
               "chord": "",
@@ -116,15 +116,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "万"
+              "text": "萬"
             },
             {
               "chord": "A",
-              "text": "军 之"
+              "text": "軍 之"
             },
             {
               "chord": "",
-              "text": "主 的 元 帅，"
+              "text": "主 的 元 帥，"
             }
           ]
         },
@@ -140,11 +140,11 @@
             },
             {
               "chord": "A",
-              "text": "凯"
+              "text": "凱"
             },
             {
               "chord": "A7",
-              "text": "归"
+              "text": "歸"
             },
             {
               "chord": "D",
@@ -511,10 +511,11 @@
     "category": "属灵的争战",
     "time": "4/4",
     "hymn_code": "135654532123462",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0634_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/873",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/873",
+        "language": "en",
         "category": "h",
         "number": "873",
         "title": "E873"
@@ -522,14 +523,14 @@
     ]
   },
   "raw_sections": [
-    "冲 过！战士 哪，冲 过！",
-    "前 线 正在 开火；",
-    "但各 各他 已得 胜，",
-    "请 你 常唱 此歌。",
-    "黑 暗 权势 应当 退，",
-    "撒但 阴府 已危！",
-    "万军 之主 的 元 帅，",
-    "快要 奏凯归回。",
+    "衝 過！戰士 哪，衝 過！",
+    "前 線 正在 開火；",
+    "但各 各他 已得 勝，",
+    "請 你 常唱 此歌。",
+    "黑 暗 權勢 應當 退，",
+    "撒但 陰府 已危！",
+    "萬軍 之主 的 元 帥，",
+    "快要 奏凱歸回。",
     "‘冲过！战士哪，冲过！",
     "仰起你头看我；",
     "你若为我打胜仗，",

@@ -16,11 +16,11 @@
             },
             {
               "chord": "A",
-              "text": "爱 将"
+              "text": "愛 將"
             },
             {
               "chord": "A7",
-              "text": "我 围"
+              "text": "我 圍"
             },
             {
               "chord": "D",
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "有 如 强 潮 澎"
+              "text": "有 如 強 潮 澎"
             },
             {
               "chord": "E7",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "A",
-              "text": "来；"
+              "text": "來；"
             }
           ]
         },
@@ -56,11 +56,11 @@
             },
             {
               "chord": "",
-              "text": "自 缚， 全"
+              "text": "自 縛， 全"
             },
             {
               "chord": "G",
-              "text": "人 欢"
+              "text": "人 歡"
             },
             {
               "chord": "",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "D",
-              "text": "顺，"
+              "text": "順，"
             }
           ]
         },
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "好 让"
+              "text": "好 讓"
             },
             {
               "chord": "",
@@ -84,15 +84,15 @@
             },
             {
               "chord": "D",
-              "text": "爱 流"
+              "text": "愛 流"
             },
             {
               "chord": "",
-              "text": "过， 毫"
+              "text": "過， 毫"
             },
             {
               "chord": "A",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "A7",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "D",
-              "text": "碍。"
+              "text": "礙。"
             }
           ]
         }
@@ -227,10 +227,11 @@
     "category": "追求与长进",
     "time": "4/4",
     "hymn_code": "3231123453",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0439_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/431",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/431",
+        "language": "en",
         "category": "h",
         "number": "431",
         "title": "E431"
@@ -238,10 +239,10 @@
     ]
   },
   "raw_sections": [
-    "神 阿，你 的 大爱 将我 围困，",
-    "有 如 强 潮 澎湃 迫我 而来；",
-    "不 再自 缚， 全人 欢然 投顺，",
-    "好 让你爱 流过， 毫无阻碍。",
+    "神 阿，你 的 大愛 將我 圍困，",
+    "有 如 強 潮 澎湃 迫我 而來；",
+    "不 再自 縛， 全人 歡然 投順，",
+    "好 讓你愛 流過， 毫無阻礙。",
     "困迫之爱，大能有谁能档？",
     "爱潮汹涌，我岂能再顽固？",
     "我神，你的恩慈有谁能抗？",

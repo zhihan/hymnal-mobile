@@ -16,7 +16,7 @@
             },
             {
               "chord": "D7",
-              "text": "稣 大"
+              "text": "穌 大"
             },
             {
               "chord": "G",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "D",
-              "text": "我 显"
+              "text": "我 顯"
             },
             {
               "chord": "G",
@@ -116,15 +116,15 @@
             },
             {
               "chord": "",
-              "text": "对"
+              "text": "對"
             },
             {
               "chord": "G",
-              "text": "你 坚"
+              "text": "你 堅"
             },
             {
               "chord": "D",
-              "text": "信 确"
+              "text": "信 確"
             },
             {
               "chord": "G",
@@ -389,10 +389,11 @@
     "category": "追求与长进",
     "time": "3/4",
     "hymn_code": "3211712671",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0431_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/535",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/535",
+        "language": "en",
         "category": "h",
         "number": "535",
         "title": "E535"
@@ -400,11 +401,11 @@
     ]
   },
   "raw_sections": [
-    "只 要相 信 耶稣 大名，",
+    "只 要相 信 耶穌 大名，",
     "在 信的人 凡事 都能；",
     "主， 求使我不辱你名，",
-    "使 你真理在我 显明。",
-    "只 要对你 坚信 确定，",
+    "使 你真理在我 顯明。",
+    "只 要對你 堅信 確定，",
     "在 信的人凡事都能。",
     "罪恶权势纠缠不已，",
     "我欲挣脱，毫无能力；",

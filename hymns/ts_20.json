@@ -16,7 +16,7 @@
             },
             {
               "chord": "D",
-              "text": "权"
+              "text": "權"
             },
             {
               "chord": "G",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "Am",
-              "text": "稣"
+              "text": "穌"
             },
             {
               "chord": "D7",
@@ -88,7 +88,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "献 上 冠 冕，"
+              "text": "獻 上 冠 冕，"
             },
             {
               "chord": "C",
@@ -150,7 +150,7 @@
             },
             {
               "chord": "G",
-              "text": "万"
+              "text": "萬"
             },
             {
               "chord": "D7",
@@ -414,10 +414,11 @@
     "category": "赞美的话",
     "time": "3/4",
     "hymn_code": "51234512171",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0020_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/139",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/139",
+        "language": "en",
         "category": "h",
         "number": "139",
         "title": "E139"
@@ -425,12 +426,12 @@
     ]
   },
   "raw_sections": [
-    "何等权能！ 耶稣尊名！",
+    "何等權能！ 耶穌尊名！",
     "天使 全都 俯伏，",
     "天使全都俯伏，",
-    "献 上 冠 冕，同心尊敬。",
+    "獻 上 冠 冕，同心尊敬。",
     "加 冠 祂，加 冠，加 冠，",
-    "加 冠，加冠祂万有主！",
+    "加 冠，加冠祂萬有主！",
     "你们堕落亚当后代，",
     "今成被赎圣徒，",
     "今成被赎圣徒，",

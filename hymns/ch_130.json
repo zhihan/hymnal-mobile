@@ -16,7 +16,7 @@
             },
             {
               "chord": "Dm",
-              "text": "爱 何"
+              "text": "愛 何"
             },
             {
               "chord": "",
@@ -28,7 +28,7 @@
             },
             {
               "chord": "Dm",
-              "text": "广！"
+              "text": "廣！"
             }
           ]
         },
@@ -36,11 +36,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "过"
+              "text": "過"
             },
             {
               "chord": "A",
-              "text": "于"
+              "text": "於"
             },
             {
               "chord": "Dm",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "A",
-              "text": "能 测"
+              "text": "能 測"
             },
             {
               "chord": "",
@@ -60,15 +60,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 爱"
+              "text": "你 愛"
             },
             {
               "chord": "Dm",
-              "text": "深 广，"
+              "text": "深 廣，"
             },
             {
               "chord": "",
-              "text": "远 超 海"
+              "text": "遠 超 海"
             },
             {
               "chord": "C",
@@ -80,7 +80,7 @@
           "segments": [
             {
               "chord": "Dm",
-              "text": "这 爱"
+              "text": "這 愛"
             },
             {
               "chord": "",
@@ -307,10 +307,11 @@
     "category": "赞美主",
     "time": "4/2",
     "hymn_code": "6671767712176",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0130_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/152",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/152",
+        "language": "en",
         "category": "h",
         "number": "152",
         "title": "E152"
@@ -318,10 +319,10 @@
     ]
   },
   "raw_sections": [
-    "哦主， 你爱 何等深广！",
-    "过于我 所能 测度！",
-    "你 爱深 广，远 超 海洋！",
-    "这 爱竟 然",
+    "哦主， 你愛 何等深廣！",
+    "過於我 所能 測度！",
+    "你 愛深 廣，遠 超 海洋！",
+    "這 愛竟 然",
     "你爱所给、所作太多！",
     "过于我所能述说！",
     "最大乃是与我联合，",

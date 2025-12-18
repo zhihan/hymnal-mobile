@@ -12,11 +12,11 @@
             },
             {
               "chord": "Bm",
-              "text": "所 赐"
+              "text": "所 賜"
             },
             {
               "chord": "A",
-              "text": "丰 满"
+              "text": "豐 滿"
             },
             {
               "chord": "D",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "A",
-              "text": "得 胜"
+              "text": "得 勝"
             },
             {
               "chord": "D",
@@ -72,11 +72,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "秘"
+              "text": "祕"
             },
             {
               "chord": "A7",
-              "text": "诀"
+              "text": "訣"
             },
             {
               "chord": "D",
@@ -100,11 +100,11 @@
             },
             {
               "chord": "G",
-              "text": "于 祂"
+              "text": "於 祂"
             },
             {
               "chord": "D",
-              "text": "圣 言："
+              "text": "聖 言："
             }
           ]
         },
@@ -116,7 +116,7 @@
             },
             {
               "chord": "G",
-              "text": "们 生"
+              "text": "們 生"
             },
             {
               "chord": "A",
@@ -136,15 +136,15 @@
             },
             {
               "chord": "A",
-              "text": "敞 开"
+              "text": "敞 開"
             },
             {
               "chord": "D",
-              "text": "心 怀，"
+              "text": "心 懷，"
             },
             {
               "chord": "",
-              "text": "凭"
+              "text": "憑"
             },
             {
               "chord": "A7",
@@ -160,7 +160,7 @@
             },
             {
               "chord": "A7",
-              "text": "祂 丰"
+              "text": "祂 豐"
             },
             {
               "chord": "D",
@@ -387,10 +387,11 @@
     "category": "追求与长进",
     "time": "2/4",
     "hymn_code": "332112231",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0436_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/641",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/641",
+        "language": "en",
         "category": "h",
         "number": "641",
         "title": "E641"
@@ -398,14 +399,14 @@
     ]
   },
   "raw_sections": [
-    "基 督所 赐丰 满福 分，",
+    "基 督所 賜豐 滿福 分，",
     "是否渴 慕能 得著？",
-    "主 所命 定得 胜生 活，",
-    "秘诀是 否已 掌握？",
-    "答 案 明 示于 祂圣 言：",
-    "\"基 督 是 我们 生命；\"只 要",
-    "向 祂敞 开心 怀，凭信",
-    "取 用祂 丰盛。",
+    "主 所命 定得 勝生 活，",
+    "祕訣是 否已 掌握？",
+    "答 案 明 示於 祂聖 言：",
+    "\"基 督 是 我們 生命；\"只 要",
+    "向 祂敞 開心 懷，憑信",
+    "取 用祂 豐盛。",
     "基督受死将你救赎，",
     "且要居衷掌王权；",
     "在你里外显祂能力，",

@@ -427,10 +427,11 @@
     "category": "Experience of God",
     "time": "4/4",
     "hymn_code": "1115671765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1198_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/142",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/142",
+        "language": "cn",
         "category": "ts",
         "number": "142",
         "title": "Cs142"

@@ -16,11 +16,11 @@
             },
             {
               "chord": "G",
-              "text": "实 见"
+              "text": "實 見"
             },
             {
               "chord": "D",
-              "text": "证，"
+              "text": "證，"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "或 在 本 质、 或 在 言"
+              "text": "或 在 本 質、 或 在 言"
             },
             {
               "chord": "A",
@@ -40,15 +40,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "完 满"
+              "text": "完 滿"
             },
             {
               "chord": "",
-              "text": "显 出 神"
+              "text": "顯 出 神"
             },
             {
               "chord": "G",
-              "text": "的 荣"
+              "text": "的 榮"
             },
             {
               "chord": "A",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "",
-              "text": "看 见 神"
+              "text": "看 見 神"
             },
             {
               "chord": "A",
@@ -241,10 +241,11 @@
     "category": "经历基督",
     "time": "4/4",
     "hymn_code": "1345671765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0373_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/494",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/494",
+        "language": "en",
         "category": "h",
         "number": "494",
         "title": "E494"
@@ -252,10 +253,10 @@
     ]
   },
   "raw_sections": [
-    "基 督是 神 真实 见证，",
-    "或 在 本 质、 或 在 言行；",
-    "完 满显 出 神的 荣耀，",
-    "使 人看 见 神的性情。",
+    "基 督是 神 真實 見證，",
+    "或 在 本 質、 或 在 言行；",
+    "完 滿顯 出 神的 榮耀，",
+    "使 人看 見 神的性情。",
     "基督作神完满见证，",
     "远胜律法为神所作；",
     "律法不过只用字句，",

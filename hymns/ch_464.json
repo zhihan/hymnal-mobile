@@ -12,11 +12,11 @@
             },
             {
               "chord": "",
-              "text": "认 识"
+              "text": "認 識"
             },
             {
               "chord": "A",
-              "text": "复 活"
+              "text": "復 活"
             },
             {
               "chord": "",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "必 爱"
+              "text": "必 愛"
             },
             {
               "chord": "",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "",
-              "text": "长 成，"
+              "text": "長 成，"
             }
           ]
         },
@@ -122,7 +122,7 @@
             },
             {
               "chord": "G",
-              "text": "长 成，"
+              "text": "長 成，"
             }
           ]
         },
@@ -300,10 +300,11 @@
     "category": "十字架的道路",
     "time": "4/4",
     "hymn_code": "334322321143231",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0464_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/631",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/631",
+        "language": "en",
         "category": "h",
         "number": "631",
         "title": "E631"
@@ -311,13 +312,13 @@
     ]
   },
   "raw_sections": [
-    "我 若认 识复 活大 能，",
-    "必 爱十 架的 模型；",
-    "惟 死 能 使生 命长 成，",
+    "我 若認 識復 活大 能，",
+    "必 愛十 架的 模型；",
+    "惟 死 能 使生 命長 成，",
     "若 不死 了，就 不生。",
     "不 死 就 不生，",
     "不 死就 不生，",
-    "惟 死 能 使 生 命长 成，",
+    "惟 死 能 使 生 命長 成，",
     "不 死就 不生。",
     "基督要在我心成形，",
     "我就必须死干净，",

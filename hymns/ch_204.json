@@ -36,7 +36,7 @@
             },
             {
               "chord": "",
-              "text": "宝"
+              "text": "寶"
             },
             {
               "chord": "A",
@@ -48,11 +48,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "带 著"
+              "text": "帶 著"
             },
             {
               "chord": "",
-              "text": "权"
+              "text": "權"
             },
             {
               "chord": "G",
@@ -72,7 +72,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "无 处 不 能"
+              "text": "無 處 不 能"
             },
             {
               "chord": "A7",
@@ -110,7 +110,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "处 处 都 要"
+              "text": "處 處 都 要"
             },
             {
               "chord": "A7",
@@ -126,7 +126,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "带 著 权 柄 施"
+              "text": "帶 著 權 柄 施"
             },
             {
               "chord": "E",
@@ -138,7 +138,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "处 处"
+              "text": "處 處"
             },
             {
               "chord": "",
@@ -466,10 +466,11 @@
     "category": "圣灵的丰满",
     "time": "6/4",
     "hymn_code": "343267151216712",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0204_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/984",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/984",
+        "language": "en",
         "category": "h",
         "number": "984",
         "title": "E984"
@@ -478,13 +479,13 @@
   },
   "raw_sections": [
     "生 命活水 水晶 河，",
-    "流 自 天上 的宝座，",
-    "带 著权柄 施交通，",
-    "无 处 不 能流 得通。",
+    "流 自 天上 的寶座，",
+    "帶 著權柄 施交通，",
+    "無 處 不 能流 得通。",
     "生 命活 水 在 流通，",
-    "处 处 都 要流 得通，",
-    "带 著 权 柄 施交 通，",
-    "处 处都要 流得通。",
+    "處 處 都 要流 得通，",
+    "帶 著 權 柄 施交 通，",
+    "處 處都要 流得通。",
     "生命活水是圣灵，",
     "是神流出作生命，",
     "带着权柄而流通，",

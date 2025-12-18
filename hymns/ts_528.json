@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "Gm",
-              "text": "这"
+              "text": "這"
             },
             {
               "chord": "D7",
-              "text": "是 时"
+              "text": "是 時"
             },
             {
               "chord": "Gm",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "F",
-              "text": "经 不"
+              "text": "經 不"
             },
             {
               "chord": "",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "Cm",
-              "text": "谁，"
+              "text": "誰，"
             }
           ]
         },
@@ -68,15 +68,15 @@
             },
             {
               "chord": "Gm",
-              "text": "须 趁"
+              "text": "須 趁"
             },
             {
               "chord": "",
-              "text": "早 选"
+              "text": "早 選"
             },
             {
               "chord": "D7",
-              "text": "择！"
+              "text": "擇！"
             }
           ]
         },
@@ -84,11 +84,11 @@
           "segments": [
             {
               "chord": "Gm",
-              "text": "愿 否"
+              "text": "願 否"
             },
             {
               "chord": "",
-              "text": "同 一 阵 线，"
+              "text": "同 一 陣 線，"
             }
           ]
         },
@@ -96,7 +96,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "为 主 奋 勇 争 战，"
+              "text": "為 主 奮 勇 爭 戰，"
             }
           ]
         },
@@ -104,7 +104,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "击 溃 仇 敌─ 那"
+              "text": "擊 潰 仇 敵─ 那"
             }
           ]
         },
@@ -311,10 +311,11 @@
     "category": "教会的异象",
     "time": "4/4",
     "hymn_code": "117766665544",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0528_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/ns/222",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/ns/222",
+        "language": "en",
         "category": "ns",
         "number": "222",
         "title": "NS222"
@@ -322,13 +323,13 @@
     ]
   },
   "raw_sections": [
-    "这是 时候， 朋友，",
-    "日 子已经 不多；",
-    "要 事奉谁，",
-    "必须 趁早 选择！",
-    "愿 否同 一 阵 线，",
-    "为 主 奋 勇 争 战，",
-    "击 溃 仇 敌─ 那",
+    "這是 時候， 朋友，",
+    "日 子已經 不多；",
+    "要 事奉誰，",
+    "必須 趁早 選擇！",
+    "願 否同 一 陣 線，",
+    "為 主 奮 勇 爭 戰，",
+    "擊 潰 仇 敵─ 那",
     "狡 猾 的 撒 但？",
     "这是时候，圣徒，",
     "到处人心惶惶，",

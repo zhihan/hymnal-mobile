@@ -7,28 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "When the"
-            },
-            {
               "chord": "",
-              "text": "Lord turned a"
-            },
-            {
-              "chord": "A7",
-              "text": "gain the"
-            },
-            {
-              "chord": "",
-              "text": "cap"
-            },
-            {
-              "chord": "D",
-              "text": "tivity"
-            },
-            {
-              "chord": "",
-              "text": "of Zion,"
+              "text": "When the Lord turned again the captivity of Zion,"
             }
           ]
         },
@@ -36,19 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "We were"
-            },
-            {
-              "chord": "G",
-              "text": "like them"
-            },
-            {
-              "chord": "",
-              "text": "that"
-            },
-            {
-              "chord": "D",
-              "text": "dream,"
+              "text": "We were like them that dream,"
             }
           ]
         },
@@ -56,19 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "We were"
-            },
-            {
-              "chord": "G",
-              "text": "like them"
-            },
-            {
-              "chord": "",
-              "text": "that"
-            },
-            {
-              "chord": "D",
-              "text": "dream."
+              "text": "We were like them that dream."
             }
           ]
         }
@@ -82,27 +38,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "_ _ _ _"
-            },
-            {
-              "chord": "A7",
-              "text": "_ _"
-            },
-            {
-              "chord": "",
-              "text": "_"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D",
-              "text": "_ _"
-            },
-            {
-              "chord": "",
-              "text": "_ _ _"
+              "text": "Then was our mouth filled with laughter,"
             }
           ]
         },
@@ -110,15 +46,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "_ _ _"
-            },
-            {
-              "chord": "G",
-              "text": "_ _"
-            },
-            {
-              "chord": "",
-              "text": "_"
+              "text": "And our tongue with singing:"
             }
           ]
         },
@@ -126,19 +54,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "_"
-            },
-            {
-              "chord": "D",
-              "text": "_ _"
-            },
-            {
-              "chord": "",
-              "text": "_ _"
-            },
-            {
-              "chord": "G",
-              "text": "_"
+              "text": "Then said they among the nations,"
             }
           ]
         },
@@ -146,19 +62,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "_ _ _"
-            },
-            {
-              "chord": "D",
-              "text": "_ _"
-            },
+              "text": "The Lord hath done great things,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "_ _"
-            },
-            {
-              "chord": "G",
-              "text": "_"
+              "text": "The Lord hath done great things for them."
             }
           ]
         }
@@ -172,19 +84,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "_"
-            },
-            {
-              "chord": "D",
-              "text": "_ _"
-            },
-            {
-              "chord": "",
-              "text": "_ _ _ The"
-            },
-            {
-              "chord": "G",
-              "text": "Lord"
+              "text": "The Lord hath done great things for us;"
             }
           ]
         },
@@ -192,11 +92,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "hath done great"
-            },
-            {
-              "chord": "D",
-              "text": "things"
+              "text": "Whereof we are glad."
             }
           ]
         },
@@ -204,35 +100,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "for us; Whereof"
-            },
-            {
-              "chord": "Em",
-              "text": "we are"
-            },
-            {
-              "chord": "A",
-              "text": "glad. The"
-            },
-            {
-              "chord": "",
-              "text": "Lord"
+              "text": "The Lord hath done great things for us;"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "hath done"
-            },
-            {
               "chord": "",
-              "text": "great"
-            },
-            {
-              "chord": "D",
-              "text": "things"
+              "text": "Whereof we are glad."
             }
           ]
         }
@@ -245,15 +121,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "for us; Whereof"
-            },
+              "text": "Turn again our captivity, O Lord, as the streams,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "Em",
-              "text": "we are"
-            },
+              "chord": "",
+              "text": "As the streams in the south,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "A",
-              "text": "glad."
+              "chord": "",
+              "text": "As the streams in the south."
             }
           ]
         }
@@ -401,10 +285,11 @@
     "category": "Scriptures for Singing",
     "time": "2/4",
     "hymn_code": "12333444555543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1337_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/502",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/502",
+        "language": "cn",
         "category": "ts",
         "number": "502",
         "title": "Cs502*"
@@ -412,19 +297,21 @@
     ]
   },
   "raw_sections": [
-    "When theLord turned again thecaptivityof Zion,",
-    "We werelike themthatdream,",
-    "We werelike themthatdream.",
-    "_ _ _ __ __",
-    "_ __ _ _",
-    "_ _ __ __",
-    "__ __ __",
-    "_ _ __ __ __",
-    "__ __ _ _ TheLord",
-    "hath done greatthings",
-    "for us; Whereofwe areglad. TheLord",
-    "hath donegreatthings",
-    "for us; Whereofwe areglad.",
+    "When the Lord turned again the captivity of Zion,",
+    "We were like them that dream,",
+    "We were like them that dream.",
+    "Then was our mouth filled with laughter,",
+    "And our tongue with singing:",
+    "Then said they among the nations,",
+    "The Lord hath done great things,",
+    "The Lord hath done great things for them.",
+    "The Lord hath done great things for us;",
+    "Whereof we are glad.",
+    "The Lord hath done great things for us;",
+    "Whereof we are glad.",
+    "Turn again our captivity, O Lord, as the streams,",
+    "As the streams in the south,",
+    "As the streams in the south.",
     "They that sow in tears shall reap in joy,",
     "They that sow in tears shall reap in joy.",
     "He that goeth forth and weepeth,",

@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "朝 见"
+              "text": "朝 見"
             },
             {
               "chord": "A7",
@@ -36,11 +36,11 @@
             },
             {
               "chord": "",
-              "text": "对"
+              "text": "對"
             },
             {
               "chord": "G",
-              "text": "讲，"
+              "text": "講，"
             }
           ]
         },
@@ -56,7 +56,7 @@
             },
             {
               "chord": "A7",
-              "text": "里"
+              "text": "裡"
             },
             {
               "chord": "D",
@@ -72,15 +72,15 @@
             },
             {
               "chord": "E7",
-              "text": "祂 话"
+              "text": "祂 話"
             },
             {
               "chord": "",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "A",
-              "text": "粮。"
+              "text": "糧。"
             }
           ]
         },
@@ -104,7 +104,7 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "柔 顺"
+              "text": "柔 順"
             },
             {
               "chord": "",
@@ -144,7 +144,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "寻"
+              "text": "尋"
             },
             {
               "chord": "A7",
@@ -379,10 +379,11 @@
     "category": "鼓励",
     "time": "6/4",
     "hymn_code": "33234312171",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0477_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/643",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/643",
+        "language": "en",
         "category": "h",
         "number": "643",
         "title": "E643"
@@ -390,14 +391,14 @@
     ]
   },
   "raw_sections": [
-    "用 功朝 见主面，",
-    "多和 主对讲，",
-    "常 住在 祂里面，",
-    "以祂 话为粮。",
+    "用 功朝 見主面，",
+    "多和 主對講，",
+    "常 住在 祂裡面，",
+    "以祂 話為糧。",
     "等 候在 祂面 前，",
-    "柔 顺且 降服，",
+    "柔 順且 降服，",
     "每件 事上不忘",
-    "寻求 祂祝福。",
+    "尋求 祂祝福。",
     "用功朝见主面，",
     "事务虽忙碌；",
     "多花时间单独",

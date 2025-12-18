@@ -16,7 +16,7 @@
             },
             {
               "chord": "D",
-              "text": "爱、 我"
+              "text": "愛、 我"
             },
             {
               "chord": "G",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "D7",
-              "text": "你 无"
+              "text": "你 無"
             },
             {
               "chord": "G",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "D7",
-              "text": "你 无"
+              "text": "你 無"
             },
             {
               "chord": "G",
@@ -299,10 +299,11 @@
     "category": "经历神",
     "time": "6/8",
     "hymn_code": "51122321566165",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0441_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/600",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/600",
+        "language": "en",
         "category": "h",
         "number": "600",
         "title": "E600"
@@ -310,11 +311,11 @@
     ]
   },
   "raw_sections": [
-    "我 神、我爱、 我的 永分，",
+    "我 神、我愛、 我的 永分，",
     "你永 是我 一切；",
     "你 外， 在天 我有 何人，",
-    "在 地 有你 无缺！",
-    "在 地 有你 无缺！",
+    "在 地 有你 無缺！",
+    "在 地 有你 無缺！",
     "天上一切尽都空虚，",
     "地上更是如此！",
     "并无一物值得欢娱，",

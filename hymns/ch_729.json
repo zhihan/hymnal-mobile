@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "耶 稣，"
+              "text": "耶 穌，"
             },
             {
               "chord": "",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "A",
-              "text": "的 爱"
+              "text": "的 愛"
             },
             {
               "chord": "",
@@ -28,15 +28,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "你 怀"
+              "text": "你 懷"
             },
             {
               "chord": "",
-              "text": "让 我"
+              "text": "讓 我"
             },
             {
               "chord": "A",
-              "text": "来"
+              "text": "來"
             },
             {
               "chord": "A7",
@@ -52,11 +52,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "惊 波， 骇 涛"
+              "text": "驚 波， 駭 濤"
             },
             {
               "chord": "A",
-              "text": "滚 滚"
+              "text": "滾 滾"
             },
             {
               "chord": "",
@@ -68,7 +68,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "狂 风"
+              "text": "狂 風"
             },
             {
               "chord": "",
@@ -76,15 +76,15 @@
             },
             {
               "chord": "A",
-              "text": "阵"
+              "text": "陣"
             },
             {
               "chord": "A7",
-              "text": "阵"
+              "text": "陣"
             },
             {
               "chord": "D",
-              "text": "紧！"
+              "text": "緊！"
             }
           ]
         },
@@ -112,11 +112,11 @@
             },
             {
               "chord": "G",
-              "text": "风 波"
+              "text": "風 波"
             },
             {
               "chord": "D",
-              "text": "过！"
+              "text": "過！"
             }
           ]
         },
@@ -132,7 +132,7 @@
             },
             {
               "chord": "",
-              "text": "尽，"
+              "text": "盡，"
             }
           ]
         },
@@ -140,7 +140,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "至 终"
+              "text": "至 終"
             },
             {
               "chord": "",
@@ -152,7 +152,7 @@
             },
             {
               "chord": "A7",
-              "text": "灵"
+              "text": "靈"
             },
             {
               "chord": "D",
@@ -379,10 +379,11 @@
     "category": "福音",
     "time": "6/8",
     "hymn_code": "33312223354321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0729_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1057",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1057",
+        "language": "en",
         "category": "h",
         "number": "1057",
         "title": "E1057"
@@ -390,14 +391,14 @@
     ]
   },
   "raw_sections": [
-    "耶 稣，我 人的 爱人，",
-    "你 怀让 我来藏身；",
-    "惊 波， 骇 涛滚 滚近！",
-    "狂 风暴 雨阵阵紧！",
+    "耶 穌，我 人的 愛人，",
+    "你 懷讓 我來藏身；",
+    "驚 波， 駭 濤滾 滾近！",
+    "狂 風暴 雨陣陣緊！",
     "藏 我！ 哦， 主，求 藏我！",
-    "直 到 今 生风 波过！",
-    "引 我 安 全到 路尽，",
-    "至 终求 接我灵魂！",
+    "直 到 今 生風 波過！",
+    "引 我 安 全到 路盡，",
+    "至 終求 接我靈魂！",
     "别无避所能藏隐，",
     "无助之人托你身；",
     "不！哦，不要丢弃我！",

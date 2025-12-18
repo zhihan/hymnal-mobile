@@ -12,7 +12,7 @@
             },
             {
               "chord": "D",
-              "text": "们"
+              "text": "們"
             },
             {
               "chord": "A",
@@ -20,11 +20,11 @@
             },
             {
               "chord": "D",
-              "text": "从 那"
+              "text": "從 那"
             },
             {
               "chord": "G",
-              "text": "里 说"
+              "text": "裡 說"
             },
             {
               "chord": "D",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "Em",
-              "text": "赐 一"
+              "text": "賜 一"
             },
             {
               "chord": "D",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "A7",
-              "text": "气？"
+              "text": "氣？"
             }
           ]
         },
@@ -64,7 +64,7 @@
             },
             {
               "chord": "A",
-              "text": "脱"
+              "text": "脫"
             },
             {
               "chord": "D",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "D",
-              "text": "隶，"
+              "text": "隸，"
             }
           ]
         },
@@ -104,7 +104,7 @@
             },
             {
               "chord": "D",
-              "text": "敌；"
+              "text": "敵；"
             }
           ]
         },
@@ -116,7 +116,7 @@
             },
             {
               "chord": "A",
-              "text": "当"
+              "text": "當"
             },
             {
               "chord": "A7",
@@ -140,7 +140,7 @@
             },
             {
               "chord": "A",
-              "text": "礼，"
+              "text": "禮，"
             }
           ]
         },
@@ -156,7 +156,7 @@
             },
             {
               "chord": "D",
-              "text": "举 才"
+              "text": "舉 纔"
             },
             {
               "chord": "G",
@@ -164,7 +164,7 @@
             },
             {
               "chord": "A7",
-              "text": "适"
+              "text": "適"
             },
             {
               "chord": "D",
@@ -343,10 +343,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "5535511765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0144_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/178",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/178",
+        "language": "en",
         "category": "h",
         "number": "178",
         "title": "E178"
@@ -354,12 +355,12 @@
     ]
   },
   "raw_sections": [
-    "我们要从 那里 说起，",
-    "主， 你 所赐 一切 福气？",
-    "既然脱罪 不作 奴隶，",
-    "既然 免死 不作仇敌；",
-    "我当如何向你拜礼，",
-    "把你 高举 才算适宜？",
+    "我們要從 那裡 說起，",
+    "主， 你 所賜 一切 福氣？",
+    "既然脫罪 不作 奴隸，",
+    "既然 免死 不作仇敵；",
+    "我當如何向你拜禮，",
+    "把你 高舉 纔算適宜？",
     "你向我们所施安抚，",
     "我们怎能用口倾吐？",
     "可怒之子当下火湖，",

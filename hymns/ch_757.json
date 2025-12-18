@@ -20,7 +20,7 @@
             },
             {
               "chord": "A",
-              "text": "来 的"
+              "text": "來 的"
             },
             {
               "chord": "D",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "E7",
-              "text": "断 想"
+              "text": "斷 想"
             },
             {
               "chord": "A",
@@ -56,7 +56,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "我 为"
+              "text": "我 為"
             },
             {
               "chord": "",
@@ -72,7 +72,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 为 祂"
+              "text": "我 為 祂"
             },
             {
               "chord": "A",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "E7",
-              "text": "晨 诗"
+              "text": "晨 詩"
             },
             {
               "chord": "A",
@@ -98,11 +98,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "来 罢！"
+              "text": "來 罷！"
             },
             {
               "chord": "A",
-              "text": "亲 爱"
+              "text": "親 愛"
             },
             {
               "chord": "D",
@@ -114,11 +114,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "来"
+              "text": "來"
             },
             {
               "chord": "A",
-              "text": "罢！"
+              "text": "罷！"
             },
             {
               "chord": "D",
@@ -130,11 +130,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "来"
+              "text": "來"
             },
             {
               "chord": "D",
-              "text": "罢！"
+              "text": "罷！"
             },
             {
               "chord": "A7",
@@ -489,10 +489,11 @@
     "category": "荣耀的盼望",
     "time": "3/4",
     "hymn_code": "3333352311113245",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0757_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8757",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8757",
+        "language": "en",
         "category": "h",
         "number": "8757",
         "title": "E8757"
@@ -500,13 +501,13 @@
     ]
   },
   "raw_sections": [
-    "我 能否忘 快来 的主？",
-    "否， 否，我心 不断 想慕：",
-    "我 为祂 向 父 神 求索，",
-    "我 为 祂唱 早晨 诗歌。",
-    "来 罢！亲 爱主！",
-    "来罢！主！",
-    "来罢！我王！",
+    "我 能否忘 快來 的主？",
+    "否， 否，我心 不斷 想慕：",
+    "我 為祂 向 父 神 求索，",
+    "我 為 祂唱 早晨 詩歌。",
+    "來 罷！親 愛主！",
+    "來罷！主！",
+    "來罷！我王！",
     "我今能否忘了儆醒？",
     "否，否，我心早晚深省！",
     "惟恐错过被提机会，",

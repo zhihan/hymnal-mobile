@@ -1,6 +1,6 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/8174",
-  "title": "Lord, You've raised love's banner o'er us",
+  "url": "https://www.hymnal.net/en/hymn/h/8174",
+  "title": "Lord, You’ve raised love’s banner o’er us",
   "verses": [
     {
       "lines": [
@@ -264,7 +264,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "How at God's right in the heavens"
+              "text": "How at God’s right in the heavens"
             }
           ]
         },
@@ -301,6 +301,7 @@
     "category": "Praise of the Lord",
     "time": "3/4",
     "hymn_code": "123216531232352",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e8174_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ch/174",
@@ -332,7 +333,7 @@
     "God-forsaken, man-condemned;",
     "How alone You paid our ransom,",
     "Boundless love exhibited;",
-    "How at God's right in the heavens",
+    "How at God’s right in the heavens",
     "Constantly You intercede;",
     "How You promised reappearance;",
     "Soon fulfill this word, we plead."

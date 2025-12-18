@@ -632,10 +632,11 @@
     "category": "Experience of God",
     "time": "3/4",
     "hymn_code": "51111235556522543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/LongBeach/midi/tunes/lb60_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/148",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/148",
+        "language": "cn",
         "category": "ts",
         "number": "148",
         "title": "Cs148"

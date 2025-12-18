@@ -443,10 +443,11 @@
     "category": "Gospel",
     "time": "4/4",
     "hymn_code": "3453231533216332",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0370_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/817",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/817",
+        "language": "cn",
         "category": "ts",
         "number": "817",
         "title": "Cs817"

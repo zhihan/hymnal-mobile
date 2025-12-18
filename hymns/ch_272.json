@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "旷 野"
+              "text": "曠 野"
             },
             {
               "chord": "A",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "A7",
-              "text": "为 著"
+              "text": "為 著"
             },
             {
               "chord": "D",
@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "一 丛"
+              "text": "一 叢"
             },
             {
               "chord": "G",
-              "text": "荆 棘"
+              "text": "荊 棘"
             },
             {
               "chord": "D",
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "愿 我"
+              "text": "願 我"
             },
             {
               "chord": "A",
@@ -72,11 +72,11 @@
             },
             {
               "chord": "G",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "A",
-              "text": "显"
+              "text": "顯"
             },
             {
               "chord": "A7",
@@ -211,10 +211,11 @@
     "category": "羡慕",
     "time": "3/4",
     "hymn_code": "117544353542132",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0272_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/352",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/352",
+        "language": "en",
         "category": "h",
         "number": "352",
         "title": "E352"
@@ -222,10 +223,10 @@
     ]
   },
   "raw_sections": [
-    "旷 野之 中为 著神！",
-    "一 丛荆 棘在 火焚！",
-    "愿 我如 此蒙 你恩，",
-    "使 你荣 耀显我身。",
+    "曠 野之 中為 著神！",
+    "一 叢荊 棘在 火焚！",
+    "願 我如 此蒙 你恩，",
+    "使 你榮 耀顯我身。",
     "仅是平常的荆棘，",
     "神能在它显为奇，",
     "神能凭它显能力，",

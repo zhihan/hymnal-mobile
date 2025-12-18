@@ -7,28 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "For I"
-            },
-            {
               "chord": "",
-              "text": "do not"
-            },
-            {
-              "chord": "A",
-              "text": "do the"
-            },
-            {
-              "chord": "G",
-              "text": "good"
-            },
-            {
-              "chord": "D",
-              "text": "which I"
-            },
-            {
-              "chord": "A",
-              "text": "will;"
+              "text": "For I do not do the good which I will;"
             }
           ]
         },
@@ -36,23 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "But the"
-            },
-            {
-              "chord": "D",
-              "text": "evil"
-            },
-            {
-              "chord": "A",
-              "text": "which I"
-            },
-            {
-              "chord": "G",
-              "text": "do not"
-            },
-            {
-              "chord": "D",
-              "text": "will,"
+              "text": "But the evil which I do not will,"
             }
           ]
         },
@@ -60,11 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "This I prac"
-            },
-            {
-              "chord": "A",
-              "text": "tice."
+              "text": "This I practice."
             }
           ]
         }
@@ -78,27 +38,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "But the"
-            },
-            {
-              "chord": "G",
-              "text": "law of"
-            },
-            {
-              "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "A",
-              "text": "Spirit"
-            },
-            {
-              "chord": "",
-              "text": "of"
-            },
-            {
-              "chord": "D",
-              "text": "life"
+              "text": "But the law of the Spirit of life"
             }
           ]
         },
@@ -106,23 +46,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Has"
-            },
-            {
-              "chord": "G",
-              "text": "freed me"
-            },
-            {
-              "chord": "",
-              "text": "in Christ"
-            },
-            {
-              "chord": "D",
-              "text": "Je"
-            },
-            {
-              "chord": "A",
-              "text": "sus"
+              "text": "Has freed me in Christ Jesus"
             }
           ]
         },
@@ -130,27 +54,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "From the"
-            },
-            {
-              "chord": "G",
-              "text": "law of"
-            },
-            {
-              "chord": "A",
-              "text": "sin and"
-            },
-            {
-              "chord": "",
-              "text": "of"
-            },
-            {
-              "chord": "D",
-              "text": "death, freed"
-            },
-            {
-              "chord": "A7",
-              "text": "me."
+              "text": "From the law of sin and of death, freed me."
             }
           ]
         }
@@ -163,11 +67,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "But me, freed"
-            },
+              "text": "But if what I, I do not will, this I do,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "D",
-              "text": "me."
+              "chord": "",
+              "text": "It’s no longer I that work it out"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "But sin that dwells in me."
             }
           ]
         }
@@ -208,16 +124,19 @@
   "metadata": {
     "category": "Scriptures for Singing",
     "time": "4/4",
-    "hymn_code": "123322433212332244312355"
+    "hymn_code": "123322433212332244312355",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0703_tune.midi"
   },
   "raw_sections": [
-    "For Ido notdo thegoodwhich Iwill;",
-    "But theevilwhich Ido notwill,",
-    "This I practice.",
-    "But thelaw oftheSpiritoflife",
-    "Hasfreed mein ChristJesus",
-    "From thelaw ofsin andofdeath, freedme.",
-    "But me, freedme.",
+    "For I do not do the good which I will;",
+    "But the evil which I do not will,",
+    "This I practice.",
+    "But the law of the Spirit of life",
+    "Has freed me in Christ Jesus",
+    "From the law of sin and of death, freed me.",
+    "But if what I, I do not will, this I do,",
+    "It’s no longer I that work it out",
+    "But sin that dwells in me.",
     "But the law of the Spirit of life",
     "Has freed me in Christ Jesus",
     "From the law of sin and of death, freed me."

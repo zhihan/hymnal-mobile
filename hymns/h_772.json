@@ -608,10 +608,11 @@
     "category": "Prayer",
     "time": "4/4",
     "hymn_code": "35655431765312",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0772_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/555",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/555",
+        "language": "cn",
         "category": "ch",
         "number": "555",
         "title": "C555"

@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "主 随"
+              "text": "主 隨"
             },
             {
               "chord": "",
-              "text": "时 随 刻 都 可 能 回 来，"
+              "text": "時 隨 刻 都 可 能 回 來，"
             }
           ]
         },
@@ -20,11 +20,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "主 随 时"
+              "text": "主 隨 時"
             },
             {
               "chord": "F",
-              "text": "随 刻"
+              "text": "隨 刻"
             },
             {
               "chord": "",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "C",
-              "text": "回 来，"
+              "text": "回 來，"
             }
           ]
         },
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "主 随 时 随 刻 都 可 能 回 来，"
+              "text": "主 隨 時 隨 刻 都 可 能 回 來，"
             }
           ]
         },
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "哦， 让 我 们"
+              "text": "哦， 讓 我 們"
             },
             {
               "chord": "G7",
@@ -185,10 +185,11 @@
     "category": "盼望与豫备",
     "time": "4/4",
     "hymn_code": "11355565321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0903_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/6903",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/6903",
+        "language": "en",
         "category": "h",
         "number": "6903",
         "title": "E6903"
@@ -196,10 +197,10 @@
     ]
   },
   "raw_sections": [
-    "主 随时 随 刻 都 可 能 回 来，",
-    "主 随 时随 刻都 可 能回 来，",
-    "主 随 时 随 刻 都 可 能 回 来，",
-    "哦， 让 我 们儆 醒等待！",
+    "主 隨時 隨 刻 都 可 能 回 來，",
+    "主 隨 時隨 刻都 可 能回 來，",
+    "主 隨 時 隨 刻 都 可 能 回 來，",
+    "哦， 讓 我 們儆 醒等待！",
     "基督是我们可爱的新郎，",
     "（重复三次，下同）",
     "我们乃是祂的新妇！",

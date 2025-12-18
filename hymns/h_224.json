@@ -577,10 +577,11 @@
     "category": "Praise of the Lord",
     "time": "4/4",
     "hymn_code": "33531233353123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0224_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/175",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/175",
+        "language": "cn",
         "category": "ch",
         "number": "175",
         "title": "C175"

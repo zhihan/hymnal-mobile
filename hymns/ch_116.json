@@ -16,7 +16,7 @@
             },
             {
               "chord": "",
-              "text": "稣， 我"
+              "text": "穌， 我"
             },
             {
               "chord": "A",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "D",
-              "text": "乐，"
+              "text": "樂，"
             }
           ]
         },
@@ -36,7 +36,7 @@
             },
             {
               "chord": "G",
-              "text": "你 为"
+              "text": "你 為"
             },
             {
               "chord": "",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "D",
-              "text": "历 坎"
+              "text": "歷 坎"
             },
             {
               "chord": "A",
@@ -56,11 +56,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "现 今 已 经"
+              "text": "現 今 已 經"
             },
             {
               "chord": "E7",
-              "text": "过"
+              "text": "過"
             },
             {
               "chord": "A",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "A",
-              "text": "胜，"
+              "text": "勝，"
             }
           ]
         },
@@ -124,7 +124,7 @@
             },
             {
               "chord": "Em",
-              "text": "神 荣"
+              "text": "神 榮"
             },
             {
               "chord": "D",
@@ -136,7 +136,7 @@
             },
             {
               "chord": "D",
-              "text": "举。"
+              "text": "舉。"
             }
           ]
         }
@@ -311,10 +311,11 @@
     "category": "赞美主",
     "time": "3/2",
     "hymn_code": "1333234536665432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0116_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/131",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/131",
+        "language": "en",
         "category": "h",
         "number": "131",
         "title": "E131"
@@ -322,12 +323,12 @@
     ]
   },
   "raw_sections": [
-    "哦主 耶稣， 我心 喜乐，",
-    "因你 为我 所历 坎坷，",
-    "现 今 已 经过去；",
-    "你的 工作 都已 得胜，",
+    "哦主 耶穌， 我心 喜樂，",
+    "因你 為我 所歷 坎坷，",
+    "現 今 已 經過去；",
+    "你的 工作 都已 得勝，",
     "你今 就是 坐享 其成，",
-    "被神 荣耀高举。",
+    "被神 榮耀高舉。",
     "你的圣首曾被芒刺，",
     "现今已得荣冕装饰，",
     "并坐父的座位。",

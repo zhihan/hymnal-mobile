@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/en/hymn/ts/258",
+  "url": "https://www.hymnal.net/cn/hymn/ts/258",
   "title": "我在你内，你在我里",
   "verses": [
     {
@@ -16,7 +16,7 @@
             },
             {
               "chord": "Bm",
-              "text": "内， 你"
+              "text": "內， 你"
             },
             {
               "chord": "G",
@@ -28,7 +28,7 @@
             },
             {
               "chord": "D",
-              "text": "里；"
+              "text": "裏；"
             }
           ]
         },
@@ -40,11 +40,11 @@
             },
             {
               "chord": "Em",
-              "text": "你 里"
+              "text": "你 裏"
             },
             {
               "chord": "A",
-              "text": "面， 时"
+              "text": "面， 時"
             },
             {
               "chord": "G",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "D",
-              "text": "离；"
+              "text": "離；"
             }
           ]
         },
@@ -64,7 +64,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 与"
+              "text": "你 與"
             },
             {
               "chord": "A",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "A",
-              "text": "亲"
+              "text": "親"
             },
             {
               "chord": "D",
@@ -100,19 +100,19 @@
             },
             {
               "chord": "Em",
-              "text": "们 彼"
+              "text": "們 彼"
             },
             {
               "chord": "A",
-              "text": "此， 联"
+              "text": "此， 聯"
             },
             {
               "chord": "G",
-              "text": "结"
+              "text": "結"
             },
             {
               "chord": "A",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "D",
@@ -130,19 +130,19 @@
           "segments": [
             {
               "chord": "A",
-              "text": "神 圣"
+              "text": "神 聖"
             },
             {
               "chord": "",
-              "text": "经 纶，"
+              "text": "經 綸，"
             },
             {
               "chord": "D",
-              "text": "神 圣"
+              "text": "神 聖"
             },
             {
               "chord": "",
-              "text": "分 赐，"
+              "text": "分 賜，"
             }
           ]
         },
@@ -158,7 +158,7 @@
             },
             {
               "chord": "D",
-              "text": "里；"
+              "text": "裏；"
             }
           ]
         },
@@ -170,15 +170,15 @@
             },
             {
               "chord": "",
-              "text": "传 输，"
+              "text": "傳 輸，"
             },
             {
               "chord": "D",
-              "text": "与 我"
+              "text": "與 我"
             },
             {
               "chord": "",
-              "text": "调 和，"
+              "text": "調 和，"
             }
           ]
         },
@@ -581,6 +581,7 @@
     "category": "享受基督",
     "time": "4/4",
     "hymn_code": "1354332123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0258_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/en/hymn/lb/23",
@@ -592,13 +593,13 @@
     ]
   },
   "raw_sections": [
-    "主， 我在 你内， 你在我里；",
-    "住 在你 里面， 时刻不离；",
-    "你 与我 同在，何其亲密；",
-    "主， 我们 彼此， 联结为一。",
-    "神 圣经 纶，神 圣分 赐，",
-    "在 你三 一里；",
-    "向 我传 输，与 我调 和，",
+    "主， 我在 你內， 你在我裏；",
+    "住 在你 裏面， 時刻不離；",
+    "你 與我 同在，何其親密；",
+    "主， 我們 彼此， 聯結為一。",
+    "神 聖經 綸，神 聖分 賜，",
+    "在 你三 一裏；",
+    "向 我傳 輸，與 我調 和，",
     "用 你的 自己。",
     "我是你枝子，你是真树；",
     "我在你里面，安然居住；",

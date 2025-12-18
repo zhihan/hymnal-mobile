@@ -12,15 +12,15 @@
             },
             {
               "chord": "",
-              "text": "为 我"
+              "text": "為 我"
             },
             {
               "chord": "A",
-              "text": "舍 弃"
+              "text": "捨 棄"
             },
             {
               "chord": "",
-              "text": "尊 贵，"
+              "text": "尊 貴，"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "为 我"
+              "text": "為 我"
             },
             {
               "chord": "",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "A7",
-              "text": "处 卑"
+              "text": "處 卑"
             },
             {
               "chord": "D",
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "为 我 饱 尝"
+              "text": "為 我 飽 嘗"
             },
             {
               "chord": "A",
@@ -64,11 +64,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "为 我"
+              "text": "為 我"
             },
             {
               "chord": "",
-              "text": "担 当"
+              "text": "擔 當"
             },
             {
               "chord": "A7",
@@ -102,7 +102,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "真 报"
+              "text": "真 報"
             },
             {
               "chord": "A7",
@@ -110,7 +110,7 @@
             },
             {
               "chord": "D",
-              "text": "来！"
+              "text": "來！"
             }
           ]
         },
@@ -122,7 +122,7 @@
             },
             {
               "chord": "G",
-              "text": "的 爱，"
+              "text": "的 愛，"
             }
           ]
         },
@@ -130,7 +130,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "永 献"
+              "text": "永 獻"
             },
             {
               "chord": "A7",
@@ -150,10 +150,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "334322321143231",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0137_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8137",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8137",
+        "language": "en",
         "category": "h",
         "number": "8137",
         "title": "E8137"
@@ -161,13 +162,13 @@
     ]
   },
   "raw_sections": [
-    "恩 主为 我舍 弃尊 贵，",
-    "为 我降 世处 卑微，",
-    "为 我 饱 尝十 架苦 味，",
-    "为 我担 当所 有罪。",
+    "恩 主為 我捨 棄尊 貴，",
+    "為 我降 世處 卑微，",
+    "為 我 飽 嘗十 架苦 味，",
+    "為 我擔 當所 有罪。",
     "恩 深 逾 洋海，",
-    "真 报答 不来！",
-    "惟 有 把 我 全 般的 爱，",
-    "永 献我 主宰。"
+    "真 報答 不來！",
+    "惟 有 把 我 全 般的 愛，",
+    "永 獻我 主宰。"
   ]
 }

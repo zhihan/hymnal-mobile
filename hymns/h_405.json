@@ -450,10 +450,11 @@
     "category": "Longings",
     "time": "4/4",
     "hymn_code": "333323532255423",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0405_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/308",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/308",
+        "language": "cn",
         "category": "ch",
         "number": "308",
         "title": "C308"

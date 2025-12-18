@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "径，"
+              "text": "徑，"
             }
           ]
         },
@@ -40,7 +40,7 @@
             },
             {
               "chord": "A",
-              "text": "丽！"
+              "text": "麗！"
             }
           ]
         },
@@ -76,15 +76,15 @@
             },
             {
               "chord": "G",
-              "text": "人 叹"
+              "text": "人 歎"
             },
             {
               "chord": "A",
-              "text": "赏、"
+              "text": "賞、"
             },
             {
               "chord": "A7",
-              "text": "惊"
+              "text": "驚"
             },
             {
               "chord": "D",
@@ -261,10 +261,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "5342542171",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0078_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/89",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/89",
+        "language": "en",
         "category": "h",
         "number": "89",
         "title": "E89*"
@@ -272,10 +273,10 @@
     ]
   },
   "raw_sections": [
-    "你 在地 上 所有 行径，",
-    "何其 仁慈、 美丽！",
+    "你 在地 上 所有 行徑，",
+    "何其 仁慈、 美麗！",
     "你在 人性 不凡 生平，",
-    "令人 叹赏、惊奇！",
+    "令人 歎賞、驚奇！",
     "你在艰苦历程显出",
     "何等忍耐的爱！",
     "艰苦至死亦所不顾，",

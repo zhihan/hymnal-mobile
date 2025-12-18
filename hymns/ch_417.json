@@ -16,7 +16,7 @@
             },
             {
               "chord": "G7",
-              "text": "现，"
+              "text": "現，"
             }
           ]
         },
@@ -28,7 +28,7 @@
             },
             {
               "chord": "C",
-              "text": "来 到"
+              "text": "來 到"
             },
             {
               "chord": "",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "D",
-              "text": "在 里"
+              "text": "在 裡"
             },
             {
               "chord": "",
@@ -76,15 +76,15 @@
             },
             {
               "chord": "A7",
-              "text": "见 祂"
+              "text": "見 祂"
             },
             {
               "chord": "D",
-              "text": "的 荣"
+              "text": "的 榮"
             },
             {
               "chord": "D7",
-              "text": "颜。"
+              "text": "顏。"
             }
           ]
         },
@@ -96,11 +96,11 @@
             },
             {
               "chord": "G",
-              "text": "我 发"
+              "text": "我 發"
             },
             {
               "chord": "",
-              "text": "言、 给"
+              "text": "言、 給"
             },
             {
               "chord": "D",
@@ -108,7 +108,7 @@
             },
             {
               "chord": "",
-              "text": "见："
+              "text": "見："
             }
           ]
         },
@@ -116,11 +116,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "祂 的 丰 富"
+              "text": "祂 的 豐 富"
             },
             {
               "chord": "D7",
-              "text": "是 为"
+              "text": "是 為"
             },
             {
               "chord": "",
@@ -136,11 +136,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "甜 美、 欢"
+              "text": "甜 美、 歡"
             },
             {
               "chord": "B7",
-              "text": "乐， 将"
+              "text": "樂， 將"
             },
             {
               "chord": "Em",
@@ -160,23 +160,23 @@
             },
             {
               "chord": "G",
-              "text": "有 饥"
+              "text": "有 飢"
             },
             {
               "chord": "",
-              "text": "饿"
+              "text": "餓"
             },
             {
               "chord": "D7",
-              "text": "全 变"
+              "text": "全 變"
             },
             {
               "chord": "",
-              "text": "饱"
+              "text": "飽"
             },
             {
               "chord": "G",
-              "text": "满。"
+              "text": "滿。"
             }
           ]
         }
@@ -329,10 +329,11 @@
     "category": "经历基督",
     "time": "6/8",
     "hymn_code": "55345123211121615",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0417_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/554",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/554",
+        "language": "en",
         "category": "h",
         "number": "554",
         "title": "E554"
@@ -340,14 +341,14 @@
     ]
   },
   "raw_sections": [
-    "夜 影尚 存， 晨 光 未现，",
-    "重 新来 到恩 主面 前；",
-    "祂在 里面 放明、 照耀，",
-    "我得 看见 祂的 荣颜。",
-    "向我 发言、 给我 看见：",
-    "祂 的 丰 富是 为今天；",
-    "甜 美、 欢乐， 将祂 享受，",
-    "所有 饥饿全 变饱满。",
+    "夜 影尚 存， 晨 光 未現，",
+    "重 新來 到恩 主面 前；",
+    "祂在 裡面 放明、 照耀，",
+    "我得 看見 祂的 榮顏。",
+    "向我 發言、 給我 看見：",
+    "祂 的 豐 富是 為今天；",
+    "甜 美、 歡樂， 將祂 享受，",
+    "所有 飢餓全 變飽滿。",
     "主灵借话与我交谈，",
     "直到我心发出颂赞，",
     "生命活泉，带着恩力，",

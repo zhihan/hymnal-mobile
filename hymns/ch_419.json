@@ -12,11 +12,11 @@
             },
             {
               "chord": "",
-              "text": "你 说 你 是"
+              "text": "你 說 你 是"
             },
             {
               "chord": "A",
-              "text": "真 树，"
+              "text": "真 樹，"
             }
           ]
         },
@@ -52,11 +52,11 @@
             },
             {
               "chord": "D7",
-              "text": "为 何"
+              "text": "為 何"
             },
             {
               "chord": "Gm",
-              "text": "缘 故，"
+              "text": "緣 故，"
             }
           ]
         },
@@ -72,11 +72,11 @@
             },
             {
               "chord": "A",
-              "text": "不 结"
+              "text": "不 結"
             },
             {
               "chord": "Dm",
-              "text": "实。"
+              "text": "實。"
             }
           ]
         }
@@ -431,10 +431,11 @@
     "category": "经历基督",
     "time": "2/4",
     "hymn_code": "6321767652143323",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0419_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/561",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/561",
+        "language": "en",
         "category": "h",
         "number": "561",
         "title": "E561"
@@ -442,10 +443,10 @@
     ]
   },
   "raw_sections": [
-    "我 主，你 说 你 是真 树，",
+    "我 主，你 說 你 是真 樹，",
     "我 是你 的真 枝子；",
-    "但 我不 知为 何缘 故，",
-    "我 是如 此不 结实。",
+    "但 我不 知為 何緣 故，",
+    "我 是如 此不 結實。",
     "我心羡慕结果更多，",
     "更能彰显你生命；",
     "更能荣耀归与宝座，",

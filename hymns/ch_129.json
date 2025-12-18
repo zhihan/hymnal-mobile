@@ -32,11 +32,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "祂 的 爱"
+              "text": "祂 的 愛"
             },
             {
               "chord": "D",
-              "text": "情 举"
+              "text": "情 舉"
             },
             {
               "chord": "",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "",
-              "text": "虽"
+              "text": "雖"
             },
             {
               "chord": "G",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "F♯",
-              "text": "祂 还"
+              "text": "祂 還"
             },
             {
               "chord": "",
@@ -80,7 +80,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "高 天 虽"
+              "text": "高 天 雖"
             },
             {
               "chord": "Em",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "Bm",
-              "text": "还"
+              "text": "還"
             },
             {
               "chord": "F♯",
@@ -112,7 +112,7 @@
             },
             {
               "chord": "D",
-              "text": "陈、"
+              "text": "陳、"
             }
           ]
         },
@@ -120,7 +120,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "又 挚、"
+              "text": "又 摯、"
             },
             {
               "chord": "",
@@ -168,11 +168,11 @@
             },
             {
               "chord": "D",
-              "text": "爱 我，"
+              "text": "愛 我，"
             },
             {
               "chord": "",
-              "text": "赞"
+              "text": "讚"
             },
             {
               "chord": "G",
@@ -481,10 +481,11 @@
     "category": "赞美主",
     "time": "3/2",
     "hymn_code": "5123343223455432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0129_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/156",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/156",
+        "language": "en",
         "category": "h",
         "number": "156",
         "title": "E156"
@@ -493,13 +494,13 @@
   },
   "raw_sections": [
     "我 有一位 奇妙 救主，",
-    "祂 的 爱情 举世 莫如，",
-    "深 海虽深，祂 还要深，",
-    "高 天 虽高， 祂还要高；",
-    "亦 新、亦陈、",
-    "又 挚、又真，",
+    "祂 的 愛情 舉世 莫如，",
+    "深 海雖深，祂 還要深，",
+    "高 天 雖高， 祂還要高；",
+    "亦 新、亦陳、",
+    "又 摯、又真，",
     "不 分境地、 不理晚早；",
-    "祂爱 我，赞美祂的名！",
+    "祂愛 我，讚美祂的名！",
     "祂在天上位分至尊，",
     "天使、天军无不拜顿，",
     "却因情爱非常坚强，",

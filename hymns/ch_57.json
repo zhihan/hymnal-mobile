@@ -16,7 +16,7 @@
             },
             {
               "chord": "D",
-              "text": "为 人"
+              "text": "為 人"
             },
             {
               "chord": "G",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "D",
-              "text": "们 人"
+              "text": "們 人"
             },
             {
               "chord": "A",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "D7",
-              "text": "们 血"
+              "text": "們 血"
             },
             {
               "chord": "G",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "",
-              "text": "体，"
+              "text": "體，"
             }
           ]
         },
@@ -76,15 +76,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "D",
-              "text": "一 贞"
+              "text": "一 貞"
             },
             {
               "chord": "",
-              "text": "洁 童"
+              "text": "潔 童"
             },
             {
               "chord": "C",
@@ -337,10 +337,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "517125671",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0057_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/61",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/61",
+        "language": "en",
         "category": "h",
         "number": "61",
         "title": "E61"
@@ -348,10 +349,10 @@
     ]
   },
   "raw_sections": [
-    "哦 主，你 曾 成为 人子，",
-    "有 了我们 人的 性情，",
-    "穿上 我们 血肉 之体，",
-    "为一 贞洁 童女所生。",
+    "哦 主，你 曾 成為 人子，",
+    "有 了我們 人的 性情，",
+    "穿上 我們 血肉 之體，",
+    "為一 貞潔 童女所生。",
     "虚己取了奴仆形像，",
     "行走在这艰苦尘世；",
     "尝尽人生所有苦味，",

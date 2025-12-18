@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "爱 中，"
+              "text": "愛 中，"
             }
           ]
         },
@@ -36,11 +36,11 @@
             },
             {
               "chord": "",
-              "text": "变 一"
+              "text": "變 一"
             },
             {
               "chord": "A",
-              "text": "点；"
+              "text": "點；"
             }
           ]
         },
@@ -72,7 +72,7 @@
             },
             {
               "chord": "D",
-              "text": "此 没"
+              "text": "此 沒"
             },
             {
               "chord": "A7",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "D",
-              "text": "变。"
+              "text": "變。"
             }
           ]
         },
@@ -92,11 +92,11 @@
             },
             {
               "chord": "G",
-              "text": "许 狂"
+              "text": "許 狂"
             },
             {
               "chord": "",
-              "text": "风 四"
+              "text": "風 四"
             },
             {
               "chord": "D",
@@ -112,7 +112,7 @@
             },
             {
               "chord": "G",
-              "text": "许 无"
+              "text": "許 無"
             },
             {
               "chord": "",
@@ -132,11 +132,11 @@
             },
             {
               "chord": "G",
-              "text": "面 来"
+              "text": "面 來"
             },
             {
               "chord": "D",
-              "text": "护"
+              "text": "護"
             },
             {
               "chord": "A",
@@ -453,10 +453,11 @@
     "category": "试炼中的安慰",
     "time": "4/4",
     "hymn_code": "3332211144342",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0490_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8490",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8490",
+        "language": "en",
         "category": "h",
         "number": "8490",
         "title": "E8490"
@@ -464,13 +465,13 @@
     ]
   },
   "raw_sections": [
-    "我 常居住 天爱 中，",
-    "不怕 改变 一点；",
+    "我 常居住 天愛 中，",
+    "不怕 改變 一點；",
     "如 此把 握 不落空，",
-    "在此 没有 改变。",
-    "也许 狂风 四面 起，",
-    "也许 无多 希望；",
-    "但 神 四面 来护庇，",
+    "在此 沒有 改變。",
+    "也許 狂風 四面 起，",
+    "也許 無多 希望；",
+    "但 神 四面 來護庇，",
     "我怎 能彀 徬徨？",
     "穷困难迫我回头，",
     "任主领我何方；",

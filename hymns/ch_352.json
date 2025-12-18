@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
-              "text": "虽 然 时"
+              "text": "雖 然 時"
             },
             {
               "chord": "A",
@@ -20,11 +20,11 @@
             },
             {
               "chord": "A7",
-              "text": "摇"
+              "text": "搖"
             },
             {
               "chord": "D",
-              "text": "动，"
+              "text": "動，"
             }
           ]
         },
@@ -32,11 +32,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "但 祂 依 然 历 久 不"
+              "text": "但 祂 依 然 歷 久 不"
             },
             {
               "chord": "A",
-              "text": "变；"
+              "text": "變；"
             }
           ]
         },
@@ -48,7 +48,7 @@
             },
             {
               "chord": "",
-              "text": "应 许 无"
+              "text": "應 許 無"
             },
             {
               "chord": "A",
@@ -68,19 +68,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "天 地 没 有 那"
+              "text": "天 地 沒 有 那"
             },
             {
               "chord": "A",
-              "text": "样"
+              "text": "樣"
             },
             {
               "chord": "A7",
-              "text": "贞"
+              "text": "貞"
             },
             {
               "chord": "D",
-              "text": "坚。"
+              "text": "堅。"
             }
           ]
         }
@@ -321,10 +321,11 @@
     "category": "奉献",
     "time": "2/2",
     "hymn_code": "1123234323",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0352_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8352",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8352",
+        "language": "en",
         "category": "h",
         "number": "8352",
         "title": "E8352"
@@ -332,10 +333,10 @@
     ]
   },
   "raw_sections": [
-    "我 们虽 然 时常摇动，",
-    "但 祂 依 然 历 久 不变；",
-    "祂 的应 许 无一落空，",
-    "天 地 没 有 那样贞坚。",
+    "我 們雖 然 時常搖動，",
+    "但 祂 依 然 歷 久 不變；",
+    "祂 的應 許 無一落空，",
+    "天 地 沒 有 那樣貞堅。",
     "我们虽然二三其心，",
     "但祂不肯撇弃我们；",
     "虽受冷落，仍要亲近，",

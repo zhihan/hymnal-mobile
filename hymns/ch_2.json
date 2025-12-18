@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "荣 耀、"
+              "text": "榮 耀、"
             },
             {
               "chord": "",
-              "text": "荣 耀、 荣"
+              "text": "榮 耀、 榮"
             },
             {
               "chord": "A",
@@ -24,11 +24,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "赞 美、"
+              "text": "讚 美、"
             },
             {
               "chord": "",
-              "text": "崇 敬、 爱"
+              "text": "崇 敬、 愛"
             },
             {
               "chord": "A",
@@ -40,15 +40,15 @@
           "segments": [
             {
               "chord": "G",
-              "text": "听 哪，"
+              "text": "聽 哪，"
             },
             {
               "chord": "",
-              "text": "颂 赞"
+              "text": "頌 讚"
             },
             {
               "chord": "D",
-              "text": "声"
+              "text": "聲"
             },
             {
               "chord": "Bm",
@@ -60,7 +60,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "从 永"
+              "text": "從 永"
             },
             {
               "chord": "",
@@ -84,15 +84,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "圣 父、"
+              "text": "聖 父、"
             },
             {
               "chord": "",
-              "text": "圣 子、 圣"
+              "text": "聖 子、 聖"
             },
             {
               "chord": "A",
-              "text": "灵－"
+              "text": "靈－"
             }
           ]
         },
@@ -104,7 +104,7 @@
             },
             {
               "chord": "G",
-              "text": "启 示"
+              "text": "啟 示"
             },
             {
               "chord": "D",
@@ -112,7 +112,7 @@
             },
             {
               "chord": "A",
-              "text": "来，"
+              "text": "來，"
             }
           ]
         },
@@ -128,7 +128,7 @@
             },
             {
               "chord": "G",
-              "text": "当 向"
+              "text": "當 向"
             },
             {
               "chord": "Em7",
@@ -305,10 +305,11 @@
     "category": "颂赞三一神",
     "time": "4/4",
     "hymn_code": "551232123532",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0002_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/2",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/2",
+        "language": "en",
         "category": "h",
         "number": "2",
         "title": "E2"
@@ -316,13 +317,13 @@
     ]
   },
   "raw_sections": [
-    "荣 耀、荣 耀、 荣耀、",
-    "赞 美、崇 敬、 爱戴！",
-    "听 哪，颂 赞声浪，",
-    "从 永世 一直澎湃！",
-    "圣 父、圣 子、 圣灵－",
-    "神， 已启 示出来，",
-    "人人 都当 向祂",
+    "榮 耀、榮 耀、 榮耀、",
+    "讚 美、崇 敬、 愛戴！",
+    "聽 哪，頌 讚聲浪，",
+    "從 永世 一直澎湃！",
+    "聖 父、聖 子、 聖靈－",
+    "神， 已啟 示出來，",
+    "人人 都當 向祂",
     "俯伏敬拜！",
     "圣父乃是源头，",
     "荣耀、无限、丰厚；",

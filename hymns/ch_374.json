@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "是 万 有"
+              "text": "是 萬 有"
             }
           ]
         },
@@ -24,11 +24,11 @@
             },
             {
               "chord": "",
-              "text": "的 实"
+              "text": "的 實"
             },
             {
               "chord": "C",
-              "text": "际，"
+              "text": "際，"
             }
           ]
         },
@@ -80,11 +80,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "无 法"
+              "text": "無 法"
             },
             {
               "chord": "D7",
-              "text": "寻 到"
+              "text": "尋 到"
             },
             {
               "chord": "G",
@@ -108,7 +108,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "万 有"
+              "text": "萬 有"
             },
             {
               "chord": "G",
@@ -483,10 +483,11 @@
     "category": "经历基督",
     "time": "4/4",
     "hymn_code": "1461111765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0374_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/496",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/496",
+        "language": "en",
         "category": "h",
         "number": "496",
         "title": "E496"
@@ -494,14 +495,14 @@
     ]
   },
   "raw_sections": [
-    "基 督是 万 有",
-    "惟 一的 实际，",
+    "基 督是 萬 有",
+    "惟 一的 實際，",
     "在 神或在 人",
     "一 切同 此理；",
     "人 在祂 以 外，",
-    "无 法寻 到神，",
+    "無 法尋 到神，",
     "除 非有 祂 在，",
-    "万 有全不真。",
+    "萬 有全不真。",
     "一切的形像、",
     "所有的豫表，",
     "并人之所需，",

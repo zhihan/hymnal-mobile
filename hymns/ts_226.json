@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "婴"
+              "text": "嬰"
             },
             {
               "chord": "G",
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "有 一 儿"
+              "text": "有 一 兒"
             },
             {
               "chord": "Em",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "",
-              "text": "远 的"
+              "text": "遠 的"
             },
             {
               "chord": "D",
@@ -84,7 +84,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "神 人 相 调 在"
+              "text": "神 人 相 調 在"
             },
             {
               "chord": "Em",
@@ -100,7 +100,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "来 作 策"
+              "text": "來 作 策"
             },
             {
               "chord": "Bm",
@@ -120,11 +120,11 @@
             },
             {
               "chord": "A7",
-              "text": "远 救"
+              "text": "遠 救"
             },
             {
               "chord": "D",
-              "text": "赎。"
+              "text": "贖。"
             }
           ]
         },
@@ -132,7 +132,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "国 度 政 权，"
+              "text": "國 度 政 權，"
             }
           ]
         },
@@ -140,11 +140,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "必 担 在 祂 肩"
+              "text": "必 擔 在 祂 肩"
             },
             {
               "chord": "Em",
-              "text": "头"
+              "text": "頭"
             },
             {
               "chord": "A7",
@@ -180,11 +180,11 @@
             },
             {
               "chord": "A7",
-              "text": "增 无"
+              "text": "增 無"
             },
             {
               "chord": "D",
-              "text": "穷！"
+              "text": "窮！"
             }
           ]
         }
@@ -197,10 +197,11 @@
     "category": "享受基督",
     "time": "4/4",
     "hymn_code": "32343231223",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0226_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/6226",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/6226",
+        "language": "en",
         "category": "h",
         "number": "6226",
         "title": "E6226"
@@ -208,17 +209,17 @@
     ]
   },
   "raw_sections": [
-    "有 一婴孩，",
+    "有 一嬰孩，",
     "祂是 全能 的神；",
-    "有 一 儿子，",
-    "祂是 永远 的父。",
+    "有 一 兒子，",
+    "祂是 永遠 的父。",
     "哦， 何 奇 妙！",
-    "神 人 相 调 在祂身；",
-    "来 作 策士，",
-    "完成 永远 救赎。",
-    "国 度 政 权，",
-    "必 担 在 祂 肩头上！",
+    "神 人 相 調 在祂身；",
+    "來 作 策士，",
+    "完成 永遠 救贖。",
+    "國 度 政 權，",
+    "必 擔 在 祂 肩頭上！",
     "和平 的君，",
-    "平安 加增 无穷！"
+    "平安 加增 無窮！"
   ]
 }

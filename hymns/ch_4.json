@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "圣 哉、"
+              "text": "聖 哉、"
             },
             {
               "chord": "",
-              "text": "圣 哉、"
+              "text": "聖 哉、"
             },
             {
               "chord": "A",
-              "text": "圣"
+              "text": "聖"
             },
             {
               "chord": "D",
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "D",
-              "text": "扬 声，"
+              "text": "揚 聲，"
             }
           ]
         },
@@ -60,11 +60,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "颂"
+              "text": "頌"
             },
             {
               "chord": "E",
-              "text": "赞 直"
+              "text": "讚 直"
             },
             {
               "chord": "",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "A",
-              "text": "远；"
+              "text": "遠；"
             }
           ]
         },
@@ -80,15 +80,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "圣 哉、"
+              "text": "聖 哉、"
             },
             {
               "chord": "",
-              "text": "圣 哉、"
+              "text": "聖 哉、"
             },
             {
               "chord": "A",
-              "text": "圣"
+              "text": "聖"
             },
             {
               "chord": "D",
@@ -108,7 +108,7 @@
             },
             {
               "chord": "D",
-              "text": "慈 怜！"
+              "text": "慈 憐！"
             }
           ]
         },
@@ -116,7 +116,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "一 神 别"
+              "text": "一 神 別"
             },
             {
               "chord": "G",
@@ -363,10 +363,11 @@
     "category": "颂赞三一神",
     "time": "4/4",
     "hymn_code": "113355666653",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0004_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/6",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/6",
+        "language": "en",
         "category": "h",
         "number": "6",
         "title": "E6"
@@ -374,13 +375,13 @@
     ]
   },
   "raw_sections": [
-    "圣 哉、圣 哉、圣哉，",
+    "聖 哉、聖 哉、聖哉，",
     "全 能的主 神！",
-    "我 们向 你扬 声，",
-    "颂赞 直到 永远；",
-    "圣 哉、圣 哉、圣哉，",
-    "全 能而 又慈 怜！",
-    "一 神 别三位，",
+    "我 們向 你揚 聲，",
+    "頌讚 直到 永遠；",
+    "聖 哉、聖 哉、聖哉，",
+    "全 能而 又慈 憐！",
+    "一 神 別三位，",
     "三 位是 一身！",
     "圣哉、圣哉、圣哉，",
     "众圣都俯伏；",

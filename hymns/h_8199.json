@@ -1,6 +1,6 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/8199",
-  "title": "From the heav'ns, O glorious Lord",
+  "url": "https://www.hymnal.net/en/hymn/h/8199",
+  "title": "From the heav’ns, O glorious Lord",
   "verses": [
     {
       "lines": [
@@ -178,7 +178,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "All Your gifts, all You've attained;"
+              "text": "All Your gifts, all You’ve attained;"
             }
           ]
         },
@@ -186,7 +186,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "I'm a member, so, 'tis plain,"
+              "text": "I’m a member, so, ’tis plain,"
             }
           ]
         },
@@ -216,7 +216,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "You've received the highest name;"
+              "text": "You’ve received the highest name;"
             }
           ]
         },
@@ -294,7 +294,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Pow'r unlimited outpour;"
+              "text": "Pow’r unlimited outpour;"
             }
           ]
         },
@@ -315,6 +315,7 @@
     "category": "Fulness of the Spirit",
     "time": "3/4",
     "hymn_code": "3332344444432555",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e8199_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ch/199",
@@ -335,11 +336,11 @@
     "I was baptized in Your name;",
     "Spirits two thus one became;",
     "Lord, Your Body has obtained",
-    "All Your gifts, all You've attained;",
-    "I'm a member, so, 'tis plain,",
+    "All Your gifts, all You’ve attained;",
+    "I’m a member, so, ’tis plain,",
     "I, too, will this power gain.",
     "Grant me power to proclaim",
-    "You've received the highest name;",
+    "You’ve received the highest name;",
     "Grant the gift that I might preach,",
     "All Your works to sinners reach.",
     "For Your service, knowledge grant,",
@@ -348,7 +349,7 @@
     "As I make a vow to Thee,",
     "Gifts I long for solemnly.",
     "On Your facts I base my plea:",
-    "Pow'r unlimited outpour;",
+    "Pow’r unlimited outpour;",
     "Make us useful vessels, Lord."
   ]
 }

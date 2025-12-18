@@ -219,10 +219,11 @@
     "category": "Prayer",
     "time": "3/4",
     "hymn_code": "355117665",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0776_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/561",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/561",
+        "language": "cn",
         "category": "ch",
         "number": "561",
         "title": "C561"

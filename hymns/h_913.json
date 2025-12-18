@@ -699,10 +699,11 @@
     "category": "Service",
     "time": "3/2",
     "hymn_code": "3453465333432132",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0913_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/656",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/656",
+        "language": "cn",
         "category": "ch",
         "number": "656",
         "title": "C656"

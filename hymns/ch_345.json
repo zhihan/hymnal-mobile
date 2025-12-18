@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "我 当"
+              "text": "我 當"
             },
             {
               "chord": "",
-              "text": "如 何 爱"
+              "text": "如 何 愛"
             },
             {
               "chord": "D",
@@ -36,11 +36,11 @@
             },
             {
               "chord": "D",
-              "text": "献 使"
+              "text": "獻 使"
             },
             {
               "chord": "A",
-              "text": "祂 欢"
+              "text": "祂 歡"
             },
             {
               "chord": "D",
@@ -56,11 +56,11 @@
             },
             {
               "chord": "G",
-              "text": "稍 离"
+              "text": "稍 離"
             },
             {
               "chord": "D7",
-              "text": "开 祂"
+              "text": "開 祂"
             },
             {
               "chord": "G",
@@ -76,15 +76,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "学"
+              "text": "學"
             },
             {
               "chord": "D",
-              "text": "习 如"
+              "text": "習 如"
             },
             {
               "chord": "",
-              "text": "何 与"
+              "text": "何 與"
             },
             {
               "chord": "C",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "D7",
-              "text": "亲"
+              "text": "親"
             },
             {
               "chord": "G",
@@ -261,10 +261,11 @@
     "category": "奉献",
     "time": "3/4",
     "hymn_code": "517125671",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0345_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/462",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/462",
+        "language": "en",
         "category": "h",
         "number": "462",
         "title": "E462"
@@ -272,10 +273,10 @@
     ]
   },
   "raw_sections": [
-    "我 当如 何 爱我 的主？",
-    "如 何奉献 使祂 欢喜？",
-    "不稍 离开 祂的 道路，",
-    "学习 如何 与祂亲密？",
+    "我 當如 何 愛我 的主？",
+    "如 何奉獻 使祂 歡喜？",
+    "不稍 離開 祂的 道路，",
+    "學習 如何 與祂親密？",
     "我的途径若是痛苦，",
     "主，我求你，禁我退缩，",
     "使我仍然向你顺服，",

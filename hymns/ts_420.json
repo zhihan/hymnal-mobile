@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
@@ -20,15 +20,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "脱"
+              "text": "脫"
             },
             {
               "chord": "C",
-              "text": "去 缠"
+              "text": "去 纏"
             },
             {
               "chord": "",
-              "text": "累， 放 下 重 负，"
+              "text": "累， 放 下 重 負，"
             }
           ]
         },
@@ -36,15 +36,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "来 望"
+              "text": "來 望"
             },
             {
               "chord": "G",
-              "text": "断， 来"
+              "text": "斷， 來"
             },
             {
               "chord": "",
-              "text": "望 断，"
+              "text": "望 斷，"
             }
           ]
         },
@@ -52,15 +52,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "来 望"
+              "text": "來 望"
             },
             {
               "chord": "D7",
-              "text": "断 及"
+              "text": "斷 及"
             },
             {
               "chord": "",
-              "text": "于"
+              "text": "於"
             },
             {
               "chord": "G",
@@ -72,7 +72,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "荣 耀 在 望， 欢 然 冲 刺，"
+              "text": "榮 耀 在 望， 歡 然 衝 刺，"
             }
           ]
         },
@@ -96,15 +96,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "当 望"
+              "text": "當 望"
             },
             {
               "chord": "G",
-              "text": "断， 当"
+              "text": "斷， 當"
             },
             {
               "chord": "",
-              "text": "望 断，"
+              "text": "望 斷，"
             }
           ]
         },
@@ -112,15 +112,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "当 望"
+              "text": "當 望"
             },
             {
               "chord": "D7",
-              "text": "断 及"
+              "text": "斷 及"
             },
             {
               "chord": "",
-              "text": "于"
+              "text": "於"
             },
             {
               "chord": "G",
@@ -131,16 +131,8 @@
         {
           "segments": [
             {
-              "chord": "C",
-              "text": "祂 已"
-            },
-            {
               "chord": "",
-              "text": "经 领"
-            },
-            {
-              "chord": "A7",
-              "text": "先"
+              "text": "祂 已 經 領 先"
             },
             {
               "chord": "C",
@@ -152,14 +144,14 @@
           "segments": [
             {
               "chord": "",
-              "text": "赢"
+              "text": "贏"
             },
             {
-              "chord": "G",
-              "text": "了！ 赢"
+              "chord": "A7",
+              "text": "了！ 贏"
             },
             {
-              "chord": "",
+              "chord": "D",
               "text": "了！"
             }
           ]
@@ -171,16 +163,20 @@
               "text": "祂"
             },
             {
-              "chord": "D",
+              "chord": "G",
               "text": "如 今"
             },
             {
               "chord": "",
-              "text": "坐 在 神"
+              "text": "坐 在"
             },
             {
-              "chord": "G",
-              "text": "右 边，"
+              "chord": "C",
+              "text": "神 右"
+            },
+            {
+              "chord": "",
+              "text": "邊，"
             }
           ]
         },
@@ -191,16 +187,16 @@
               "text": "要"
             },
             {
-              "chord": "D",
-              "text": "带 我"
+              "chord": "G",
+              "text": "帶 我"
             },
             {
               "chord": "",
-              "text": "们 进 荣"
+              "text": "們 進"
             },
             {
-              "chord": "G",
-              "text": "耀！"
+              "chord": "D",
+              "text": "榮 耀！"
             }
           ]
         },
@@ -208,7 +204,59 @@
           "segments": [
             {
               "chord": "",
-              "text": "望 断，"
+              "text": "望"
+            },
+            {
+              "chord": "G",
+              "text": "斷， 望"
+            },
+            {
+              "chord": "D",
+              "text": "斷，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "望"
+            },
+            {
+              "chord": "G",
+              "text": "斷 以"
+            },
+            {
+              "chord": "",
+              "text": "及 於 耶 穌，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "望 斷， 望"
+            },
+            {
+              "chord": "D",
+              "text": "斷，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "望"
+            },
+            {
+              "chord": "G",
+              "text": "斷 以"
+            },
+            {
+              "chord": "",
+              "text": "及 於 耶 穌。"
             }
           ]
         }
@@ -221,10 +269,11 @@
     "category": "追求与长进",
     "time": "2/4",
     "hymn_code": "531112345553",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0420_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/6420",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/6420",
+        "language": "en",
         "category": "h",
         "number": "6420",
         "title": "E6420"
@@ -232,18 +281,21 @@
     ]
   },
   "raw_sections": [
-    "我 们奔 那 前 面 的 路，",
-    "脱去 缠累， 放 下 重 负，",
-    "来 望断， 来望 断，",
-    "来 望断 及于主。",
-    "荣 耀 在 望， 欢 然 冲 刺，",
+    "我 們奔 那 前 面 的 路，",
+    "脫去 纏累， 放 下 重 負，",
+    "來 望斷， 來望 斷，",
+    "來 望斷 及於主。",
+    "榮 耀 在 望， 歡 然 衝 刺，",
     "主必 加力， 主 必 扶 持；",
-    "当 望断， 当望 断，",
-    "当 望断 及于主。",
-    "祂 已经 领先跑 到，",
-    "赢了！ 赢了！",
-    "祂如 今坐 在 神右 边，",
-    "要带 我们 进 荣耀！",
-    "望 断，"
+    "當 望斷， 當望 斷，",
+    "當 望斷 及於主。",
+    "祂 已 經 領 先跑 到，",
+    "贏了！ 贏了！",
+    "祂如 今坐 在神 右邊，",
+    "要帶 我們 進榮 耀！",
+    "望斷， 望斷，",
+    "望斷 以及 於 耶 穌，",
+    "望 斷， 望斷，",
+    "望斷 以及 於 耶 穌。"
   ]
 }

@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "荣 光"
+              "text": "榮 光"
             },
             {
               "chord": "C",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "G",
-              "text": "间，"
+              "text": "間，"
             }
           ]
         },
@@ -32,11 +32,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "胜"
+              "text": "勝"
             },
             {
               "chord": "Am",
-              "text": "于 星"
+              "text": "於 星"
             },
             {
               "chord": "D7",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "G",
-              "text": "阳；"
+              "text": "陽；"
             }
           ]
         },
@@ -52,7 +52,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "光 线"
+              "text": "光 線"
             },
             {
               "chord": "G",
@@ -60,15 +60,15 @@
             },
             {
               "chord": "C",
-              "text": "辉 煌"
+              "text": "輝 煌"
             },
             {
               "chord": "",
-              "text": "又 灿"
+              "text": "又 燦"
             },
             {
               "chord": "G",
-              "text": "烂，"
+              "text": "爛，"
             }
           ]
         },
@@ -84,7 +84,7 @@
             },
             {
               "chord": "A7",
-              "text": "是 这"
+              "text": "是 這"
             },
             {
               "chord": "D",
@@ -102,7 +102,7 @@
           "segments": [
             {
               "chord": "D7",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "G",
@@ -114,7 +114,7 @@
             },
             {
               "chord": "",
-              "text": "乐"
+              "text": "樂"
             },
             {
               "chord": "G",
@@ -126,7 +126,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "带 来 平 安 喜 乐 滚 滚"
+              "text": "帶 來 平 安 喜 樂 滾 滾"
             },
             {
               "chord": "D",
@@ -138,15 +138,15 @@
           "segments": [
             {
               "chord": "D7",
-              "text": "当 主"
+              "text": "當 主"
             },
             {
               "chord": "G",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
-              "text": "笑 脸"
+              "text": "笑 臉"
             },
             {
               "chord": "C",
@@ -162,7 +162,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "G",
@@ -411,10 +411,11 @@
     "category": "得救的证实与快乐",
     "time": "4/4",
     "hymn_code": "1235671233432521",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0262_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/343",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/343",
+        "language": "en",
         "category": "h",
         "number": "343",
         "title": "E343"
@@ -422,14 +423,14 @@
     ]
   },
   "raw_sections": [
-    "今 有荣 光照 耀我 魂间，",
-    "胜于 星月 太阳；",
-    "光 线清 新，辉 煌又 灿烂，",
-    "因主 就是 这光。",
-    "荣 耀之光！ 福乐之 光！",
-    "带 来 平 安 喜 乐 滚 滚浪；",
-    "当 主耶 稣笑 脸欣 欣放，",
-    "荣 耀之 光照 明亮。",
+    "今 有榮 光照 耀我 魂間，",
+    "勝於 星月 太陽；",
+    "光 線清 新，輝 煌又 燦爛，",
+    "因主 就是 這光。",
+    "榮 耀之光！ 福樂之 光！",
+    "帶 來 平 安 喜 樂 滾 滾浪；",
+    "當 主耶 穌笑 臉欣 欣放，",
+    "榮 耀之 光照 明亮。",
     "今有音乐洋溢我魂间，",
     "颂赞我主我王；",
     "恩主在听，且也会听见，",

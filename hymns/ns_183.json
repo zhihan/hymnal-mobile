@@ -7,20 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "Christ is"
-            },
-            {
               "chord": "",
-              "text": "a"
-            },
-            {
-              "chord": "Bm",
-              "text": "genuine"
-            },
-            {
-              "chord": "A",
-              "text": "man,"
+              "text": "Christ is a genuine man,"
             }
           ]
         },
@@ -28,23 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "The"
-            },
-            {
-              "chord": "D",
-              "text": "perfect"
-            },
-            {
-              "chord": "",
-              "text": "and"
-            },
-            {
-              "chord": "Bm",
-              "text": "finest"
-            },
-            {
-              "chord": "A",
-              "text": "man,"
+              "text": "The perfect and finest man,"
             }
           ]
         },
@@ -52,59 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "O"
-            },
-            {
-              "chord": "D",
-              "text": "bedient,"
-            },
-            {
-              "chord": "A7",
-              "text": "serving,"
-            },
-            {
-              "chord": "",
-              "text": "no ap"
-            },
-            {
-              "chord": "D",
-              "text": "pearance"
-            },
-            {
-              "chord": "",
-              "text": "of"
-            },
-            {
-              "chord": "A",
-              "text": "e"
-            },
-            {
-              "chord": "D",
-              "text": "vil,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "G",
-              "text": "The"
-            },
-            {
-              "chord": "A",
-              "text": "finest"
-            },
-            {
-              "chord": "",
-              "text": "perso"
-            },
-            {
-              "chord": "D",
-              "text": "nali"
-            },
-            {
-              "chord": "Bm",
-              "text": "ty,"
+              "text": "Obedient, serving, no appearance of evil,"
             }
           ]
         },
@@ -112,27 +32,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "Di"
-            },
-            {
-              "chord": "G",
-              "text": "vinity"
-            },
-            {
-              "chord": "",
-              "text": "ex"
-            },
-            {
-              "chord": "A7",
-              "text": "pressed through"
-            },
+              "text": "The finest personality,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "hu"
-            },
-            {
-              "chord": "D",
-              "text": "manity."
+              "text": "Divinity expressed through humanity."
             }
           ]
         }
@@ -145,80 +53,8 @@
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "Christ is"
-            },
-            {
               "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "D",
-              "text": "pattern"
-            },
-            {
-              "chord": "",
-              "text": "for"
-            },
-            {
-              "chord": "G",
-              "text": "our human"
-            },
-            {
-              "chord": "D",
-              "text": "living."
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "G",
-              "text": "His perfect"
-            },
-            {
-              "chord": "D",
-              "text": "life is"
-            },
-            {
-              "chord": "",
-              "text": "fill"
-            },
-            {
-              "chord": "A",
-              "text": "ing"
-            },
-            {
-              "chord": "D",
-              "text": "us."
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "G",
-              "text": "Christ is"
-            },
-            {
-              "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "D",
-              "text": "pattern"
-            },
-            {
-              "chord": "",
-              "text": "for"
-            },
-            {
-              "chord": "G",
-              "text": "our human"
-            },
-            {
-              "chord": "D",
-              "text": "living,"
+              "text": "Christ is the pattern for our human living."
             }
           ]
         },
@@ -226,31 +62,31 @@
           "segments": [
             {
               "chord": "",
-              "text": "The"
-            },
-            {
-              "chord": "Em",
-              "text": "fine and"
-            },
-            {
-              "chord": "Em7",
-              "text": "balanced"
-            },
+              "text": "His perfect life is filling us."
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "hu"
-            },
-            {
-              "chord": "D",
-              "text": "manity"
-            },
+              "text": "Christ is the pattern for our human living,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "of"
-            },
+              "text": "The fine and balanced humanity of Jesus!"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "A7",
-              "text": "Jesus!"
+              "chord": "",
+              "text": "(Repeat 1st stanza)"
             }
           ]
         }
@@ -262,17 +98,19 @@
   "metadata": {
     "category": "Praise of the Lord",
     "time": "4/4",
-    "hymn_code": "111217675333432112"
+    "hymn_code": "111217675333432112",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0183_tune.midi"
   },
   "raw_sections": [
-    "Christ isagenuineman,",
-    "Theperfectandfinestman,",
-    "Obedient,serving,no appearanceofevil,",
-    "Thefinestpersonality,",
-    "Divinityexpressed throughhumanity.",
-    "Christ isthepatternforour humanliving.",
-    "His perfectlife isfillingus.",
-    "Christ isthepatternforour humanliving,",
-    "Thefine andbalancedhumanityofJesus!"
+    "Christ is a genuine man,",
+    "The perfect and finest man,",
+    "Obedient, serving, no appearance of evil,",
+    "The finest personality,",
+    "Divinity expressed through humanity.",
+    "Christ is the pattern for our human living.",
+    "His perfect life is filling us.",
+    "Christ is the pattern for our human living,",
+    "The fine and balanced humanity of Jesus!",
+    "(Repeat 1st stanza)"
   ]
 }

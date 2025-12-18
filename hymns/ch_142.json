@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "凉 爽，"
+              "text": "涼 爽，"
             },
             {
               "chord": "",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "A",
-              "text": "风，"
+              "text": "風，"
             }
           ]
         },
@@ -24,7 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "怎 能 将"
+              "text": "怎 能 將"
             },
             {
               "chord": "A7",
@@ -40,11 +40,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "芬 芳 胜"
+              "text": "芬 芳 勝"
             },
             {
               "chord": "B7",
-              "text": "过 所"
+              "text": "過 所"
             },
             {
               "chord": "Em",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "",
-              "text": "丛，"
+              "text": "叢，"
             }
           ]
         },
@@ -60,15 +60,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "如 同 没"
+              "text": "如 同 沒"
             },
             {
               "chord": "A",
-              "text": "药 在"
+              "text": "藥 在"
             },
             {
               "chord": "D",
-              "text": "我 怀"
+              "text": "我 懷"
             },
             {
               "chord": "",
@@ -349,10 +349,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "56717127572543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0142_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/172",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/172",
+        "language": "en",
         "category": "h",
         "number": "172",
         "title": "E172"
@@ -360,10 +361,10 @@
     ]
   },
   "raw_sections": [
-    "凉 爽，你 像 柔 和 微风，",
-    "怎 能 将你 吸彀！",
-    "芬 芳 胜过 所有 花丛，",
-    "如 同 没药 在我 怀中，",
+    "涼 爽，你 像 柔 和 微風，",
+    "怎 能 將你 吸彀！",
+    "芬 芳 勝過 所有 花叢，",
+    "如 同 沒藥 在我 懷中，",
     "又像 天上 膏油！",
     "又像 天上 膏油！",
     "滋润，你像清晨甘露，",

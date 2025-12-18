@@ -16,7 +16,7 @@
             },
             {
               "chord": "D",
-              "text": "为 何"
+              "text": "為 何"
             },
             {
               "chord": "G",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "赐"
+              "text": "賜"
             },
             {
               "chord": "C",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "Am",
-              "text": "稣 基"
+              "text": "穌 基"
             },
             {
               "chord": "D",
@@ -48,11 +48,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 的 亲"
+              "text": "你 的 親"
             },
             {
               "chord": "Em",
-              "text": "爱 儿"
+              "text": "愛 兒"
             },
             {
               "chord": "Am",
@@ -64,11 +64,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "来"
+              "text": "來"
             },
             {
               "chord": "G",
-              "text": "为 罪"
+              "text": "為 罪"
             },
             {
               "chord": "D7",
@@ -84,7 +84,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "无 他， 乃"
+              "text": "無 他， 乃"
             },
             {
               "chord": "C",
@@ -96,7 +96,7 @@
             },
             {
               "chord": "",
-              "text": "爱，"
+              "text": "愛，"
             }
           ]
         },
@@ -104,7 +104,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "无 他， 乃"
+              "text": "無 他， 乃"
             },
             {
               "chord": "C",
@@ -116,7 +116,7 @@
             },
             {
               "chord": "Em",
-              "text": "爱，"
+              "text": "愛，"
             }
           ]
         },
@@ -128,11 +128,11 @@
             },
             {
               "chord": "Am",
-              "text": "你 这"
+              "text": "你 這"
             },
             {
               "chord": "G",
-              "text": "样 舍"
+              "text": "樣 捨"
             },
             {
               "chord": "C",
@@ -144,7 +144,7 @@
             },
             {
               "chord": "G",
-              "text": "爱。"
+              "text": "愛。"
             }
           ]
         }
@@ -343,10 +343,11 @@
     "category": "敬拜父",
     "time": "3/4",
     "hymn_code": "513234316714332",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0027_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/29",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/29",
+        "language": "en",
         "category": "h",
         "number": "29",
         "title": "E29"
@@ -354,13 +355,13 @@
     ]
   },
   "raw_sections": [
-    "神 阿，你为 何故",
-    "赐下 耶稣 基督，",
-    "你 的 亲爱 儿子，",
-    "来为 罪人 受死？",
-    "无 他， 乃是 你的 大爱，",
-    "无 他， 乃是 你的 大爱，",
-    "叫你 这样 舍去心爱。",
+    "神 阿，你為 何故",
+    "賜下 耶穌 基督，",
+    "你 的 親愛 兒子，",
+    "來為 罪人 受死？",
+    "無 他， 乃是 你的 大愛，",
+    "無 他， 乃是 你的 大愛，",
+    "叫你 這樣 捨去心愛。",
     "神，你儿子为何",
     "离开天上宝座，",
     "受苦直到命绝，",

@@ -12,7 +12,7 @@
             },
             {
               "chord": "C",
-              "text": "带 领"
+              "text": "帶 領"
             },
             {
               "chord": "",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "Am",
-              "text": "满 天"
+              "text": "滿 天"
             },
             {
               "chord": "F",
@@ -56,11 +56,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "处"
+              "text": "處"
             },
             {
               "chord": "C",
-              "text": "处、 事"
+              "text": "處、 事"
             },
             {
               "chord": "C7",
@@ -96,11 +96,11 @@
             },
             {
               "chord": "Am",
-              "text": "手 来"
+              "text": "手 來"
             },
             {
               "chord": "G7",
-              "text": "带 领"
+              "text": "帶 領"
             },
             {
               "chord": "C",
@@ -118,7 +118,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "祂 带 领"
+              "text": "祂 帶 領"
             },
             {
               "chord": "G",
@@ -126,11 +126,11 @@
             },
             {
               "chord": "C",
-              "text": "带"
+              "text": "帶"
             },
             {
               "chord": "F",
-              "text": "领"
+              "text": "領"
             },
             {
               "chord": "C",
@@ -142,7 +142,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "祂 是 亲"
+              "text": "祂 是 親"
             },
             {
               "chord": "Am",
@@ -150,7 +150,7 @@
             },
             {
               "chord": "F",
-              "text": "带 领"
+              "text": "帶 領"
             },
             {
               "chord": "G7",
@@ -166,7 +166,7 @@
             },
             {
               "chord": "C",
-              "text": "分 时"
+              "text": "分 時"
             },
             {
               "chord": "G",
@@ -178,7 +178,7 @@
             },
             {
               "chord": "F",
-              "text": "随"
+              "text": "隨"
             },
             {
               "chord": "C",
@@ -190,7 +190,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "因 祂 亲"
+              "text": "因 祂 親"
             },
             {
               "chord": "Am",
@@ -198,7 +198,7 @@
             },
             {
               "chord": "G7",
-              "text": "带 领"
+              "text": "帶 領"
             },
             {
               "chord": "C",
@@ -439,10 +439,11 @@
     "category": "经历基督",
     "time": "4/4",
     "hymn_code": "53215644653321332",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0404_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/585",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/585",
+        "language": "en",
         "category": "h",
         "number": "585",
         "title": "E585"
@@ -450,15 +451,15 @@
     ]
   },
   "raw_sections": [
-    "祂带 领我， 此意 何美！",
-    "此言 充满 天上 安慰！",
-    "处处、 事事、",
+    "祂帶 領我， 此意 何美！",
+    "此言 充滿 天上 安慰！",
+    "處處、 事事、",
     "所是、 所作，",
-    "都有 主手 来带 领我。",
-    "祂 带 领我， 祂带领我，",
-    "祂 是 亲手 在带 领我；",
-    "不分 时地， 我都随著，",
-    "因 祂 亲手 在带 领我。",
+    "都有 主手 來帶 領我。",
+    "祂 帶 領我， 祂帶領我，",
+    "祂 是 親手 在帶 領我；",
+    "不分 時地， 我都隨著，",
+    "因 祂 親手 在帶 領我。",
     "有时似堕痛苦深渊，",
     "有时似在快乐伊甸；",
     "或遇平顺，或遭风波，",

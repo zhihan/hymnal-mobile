@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "我 无"
+              "text": "我 無"
             },
             {
               "chord": "",
@@ -28,15 +28,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "无 法"
+              "text": "無 法"
             },
             {
               "chord": "C",
-              "text": "孤 独、"
+              "text": "孤 獨、"
             },
             {
               "chord": "G",
-              "text": "孤 独"
+              "text": "孤 獨"
             },
             {
               "chord": "A7",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "G",
-              "text": "软 弱"
+              "text": "軟 弱"
             },
             {
               "chord": "C",
@@ -102,7 +102,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "每 一 点， 每 一 天，"
+              "text": "每 一 點， 每 一 天，"
             }
           ]
         },
@@ -114,7 +114,7 @@
             },
             {
               "chord": "C",
-              "text": "一 样"
+              "text": "一 樣"
             },
             {
               "chord": "",
@@ -134,11 +134,11 @@
             },
             {
               "chord": "G",
-              "text": "一 样"
+              "text": "一 樣"
             },
             {
               "chord": "C",
-              "text": "是 无"
+              "text": "是 無"
             },
             {
               "chord": "G",
@@ -162,7 +162,7 @@
             },
             {
               "chord": "D7",
-              "text": "显 自"
+              "text": "顯 自"
             },
             {
               "chord": "G",
@@ -478,10 +478,11 @@
     "category": "羡慕",
     "time": "3/4",
     "hymn_code": "3212165556151322",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0319_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8319",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8319",
+        "language": "en",
         "category": "h",
         "number": "8319",
         "title": "E8319"
@@ -489,14 +490,14 @@
     ]
   },
   "raw_sections": [
-    "我 无能 力，我 的主，",
-    "无 法孤 独、孤 独的 站立；",
-    "我 的软 弱成 祝福，",
+    "我 無能 力，我 的主，",
+    "無 法孤 獨、孤 獨的 站立；",
+    "我 的軟 弱成 祝福，",
     "如 果完 全、完 全倚 靠你。",
-    "每 一 点， 每 一 天，",
-    "我 是一 样需 恩典，",
-    "我 仍一 样是 无倚，",
-    "求 你更 多、更 多显 自己。",
+    "每 一 點， 每 一 天，",
+    "我 是一 樣需 恩典，",
+    "我 仍一 樣是 無倚，",
+    "求 你更 多、更 多顯 自己。",
     "我的路途真孤苦，",
     "时常疲倦、疲倦不唱诗；",
     "我不认识我路途，",

@@ -403,10 +403,11 @@
     "category": "Gospel",
     "time": "6/4",
     "hymn_code": "54532176517122123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1050_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/725",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/725",
+        "language": "cn",
         "category": "ch",
         "number": "725",
         "title": "C725"

@@ -12,15 +12,15 @@
             },
             {
               "chord": "G",
-              "text": "对 这"
+              "text": "對 這"
             },
             {
               "chord": "",
-              "text": "山 说："
+              "text": "山 說："
             },
             {
               "chord": "D",
-              "text": "『去， 离"
+              "text": "『去， 離"
             }
           ]
         },
@@ -36,7 +36,7 @@
             },
             {
               "chord": "D",
-              "text": "里！』"
+              "text": "裡！』"
             },
             {
               "chord": "G",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "A7",
-              "text": "就 于"
+              "text": "就 於"
             },
             {
               "chord": "D",
@@ -96,7 +96,7 @@
             },
             {
               "chord": "Em",
-              "text": "话， 必"
+              "text": "話， 必"
             },
             {
               "chord": "C",
@@ -116,7 +116,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "里 面 吩"
+              "text": "裡 面 吩"
             },
             {
               "chord": "G",
@@ -411,10 +411,11 @@
     "category": "祷告",
     "time": "4/4",
     "hymn_code": "53511175514332",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0560_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/777",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/777",
+        "language": "en",
         "category": "h",
         "number": "777",
         "title": "E777"
@@ -422,12 +423,12 @@
     ]
   },
   "raw_sections": [
-    "要对 这山 说：『去， 离",
-    "此， 投在 海里！』心 中",
+    "要對 這山 說：『去， 離",
+    "此， 投在 海裡！』心 中",
     "若不 疑惑， 就必",
-    "成就 于你。相信",
-    "主话， 必要 成全， 在主",
-    "里 面 吩咐你山！",
+    "成就 於你。相信",
+    "主話， 必要 成全， 在主",
+    "裡 面 吩咐你山！",
     "取用救赎权利，",
     "主的宝血所买；",
     "使这权利有效，",

@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "G",
-              "text": "神 圣"
+              "text": "神 聖"
             },
             {
               "chord": "",
-              "text": "应"
+              "text": "應"
             },
             {
               "chord": "D",
-              "text": "许 甘"
+              "text": "許 甘"
             },
             {
               "chord": "G",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "D",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "G",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "A7",
-              "text": "和 华"
+              "text": "和 華"
             },
             {
               "chord": "D",
@@ -56,7 +56,7 @@
           "segments": [
             {
               "chord": "D7",
-              "text": "必 见"
+              "text": "必 見"
             },
             {
               "chord": "",
@@ -64,11 +64,11 @@
             },
             {
               "chord": "G",
-              "text": "义 日"
+              "text": "義 日"
             },
             {
               "chord": "",
-              "text": "头 升"
+              "text": "頭 升"
             },
             {
               "chord": "C",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "G",
-              "text": "医"
+              "text": "醫"
             },
             {
               "chord": "D7",
@@ -261,10 +261,11 @@
     "category": "享受基督",
     "time": "3/4",
     "hymn_code": "56175123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0252_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/754",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/754",
+        "language": "en",
         "category": "h",
         "number": "754",
         "title": "E754"
@@ -272,10 +273,10 @@
     ]
   },
   "raw_sections": [
-    "神 圣应许 甘甜无比：",
-    "人 若 敬畏 耶和 华名，",
-    "必 见公义 日头 升起，",
-    "其 翼能医罪、病。",
+    "神 聖應許 甘甜無比：",
+    "人 若 敬畏 耶和 華名，",
+    "必 見公義 日頭 升起，",
+    "其 翼能醫罪、病。",
     "救主满带医治大能，",
     "信祂名者祂必不弃；",
     "痛悔之心速来投诚，",

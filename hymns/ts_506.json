@@ -8,19 +8,19 @@
           "segments": [
             {
               "chord": "C",
-              "text": "当"
+              "text": "當"
             },
             {
               "chord": "F",
-              "text": "周 游，"
+              "text": "周 遊，"
             },
             {
               "chord": "",
-              "text": "当 周 游"
+              "text": "當 周 遊"
             },
             {
               "chord": "C",
-              "text": "锡 安，"
+              "text": "錫 安，"
             }
           ]
         },
@@ -36,11 +36,11 @@
             },
             {
               "chord": "",
-              "text": "四 围 旋"
+              "text": "四 圍 旋"
             },
             {
               "chord": "C",
-              "text": "绕；"
+              "text": "繞；"
             }
           ]
         },
@@ -48,19 +48,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "当"
+              "text": "當"
             },
             {
               "chord": "F",
-              "text": "周 游，"
+              "text": "周 遊，"
             },
             {
               "chord": "",
-              "text": "当 周 游"
+              "text": "當 周 遊"
             },
             {
               "chord": "C",
-              "text": "锡 安，"
+              "text": "錫 安，"
             }
           ]
         },
@@ -68,15 +68,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "数"
+              "text": "數"
             },
             {
               "chord": "G",
-              "text": "点 她"
+              "text": "點 她"
             },
             {
               "chord": "G7",
-              "text": "城 楼"
+              "text": "城 樓"
             },
             {
               "chord": "",
@@ -98,15 +98,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "数"
+              "text": "數"
             },
             {
               "chord": "Dm",
-              "text": "点 她"
+              "text": "點 她"
             },
             {
               "chord": "G7",
-              "text": "城 楼"
+              "text": "城 樓"
             },
             {
               "chord": "",
@@ -431,10 +431,11 @@
     "category": "教会的异象",
     "time": "6/8",
     "hymn_code": "566617665",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0506_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1223",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1223",
+        "language": "en",
         "category": "h",
         "number": "1223",
         "title": "E1223"
@@ -442,11 +443,11 @@
     ]
   },
   "raw_sections": [
-    "当周 游，当 周 游锡 安，",
-    "在她 的四 围 旋绕；",
-    "当周 游，当 周 游锡 安，",
-    "数点 她城 楼多少。",
-    "数点 她城 楼多少。",
+    "當周 遊，當 周 遊錫 安，",
+    "在她 的四 圍 旋繞；",
+    "當周 遊，當 周 遊錫 安，",
+    "數點 她城 樓多少。",
+    "數點 她城 樓多少。",
     "她在北面居高华美，",
     "乃为全地所喜悦！",
     "她在北面居高华美，",

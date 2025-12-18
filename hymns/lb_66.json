@@ -447,10 +447,11 @@
     "category": "Gospel",
     "time": "4/4",
     "hymn_code": "33336543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/LongBeach/midi/tunes/lb66_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/877",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/877",
+        "language": "cn",
         "category": "ts",
         "number": "877",
         "title": "Cs877"

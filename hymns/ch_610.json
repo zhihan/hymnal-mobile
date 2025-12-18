@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "释 放"
+              "text": "釋 放"
             },
             {
               "chord": "",
-              "text": "我 灵！"
+              "text": "我 靈！"
             }
           ]
         },
@@ -20,7 +20,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "这 是 我"
+              "text": "這 是 我"
             },
             {
               "chord": "D",
@@ -36,7 +36,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "使 我 能 和 众"
+              "text": "使 我 能 和 眾"
             },
             {
               "chord": "A",
@@ -48,15 +48,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "灵"
+              "text": "靈"
             },
             {
               "chord": "A7",
-              "text": "里 相"
+              "text": "裡 相"
             },
             {
               "chord": "D",
-              "text": "调，"
+              "text": "調，"
             }
           ]
         },
@@ -68,11 +68,11 @@
             },
             {
               "chord": "G",
-              "text": "再 单"
+              "text": "再 單"
             },
             {
               "chord": "",
-              "text": "独 追 求，"
+              "text": "獨 追 求，"
             }
           ]
         },
@@ -92,11 +92,11 @@
             },
             {
               "chord": "C",
-              "text": "全 脱"
+              "text": "全 脫"
             },
             {
               "chord": "",
-              "text": "离 自"
+              "text": "離 自"
             },
             {
               "chord": "D",
@@ -108,7 +108,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "适"
+              "text": "適"
             },
             {
               "chord": "D7",
@@ -479,10 +479,11 @@
     "category": "召会",
     "time": "4/4",
     "hymn_code": "5153455671",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0610_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/845",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/845",
+        "language": "en",
         "category": "h",
         "number": "845",
         "title": "E845"
@@ -490,14 +491,14 @@
     ]
   },
   "raw_sections": [
-    "释 放我 灵！",
-    "这 是 我心 所要：",
-    "使 我 能 和 众人",
-    "灵里 相调，",
-    "不再 单独 追 求，",
+    "釋 放我 靈！",
+    "這 是 我心 所要：",
+    "使 我 能 和 眾人",
+    "靈裡 相調，",
+    "不再 單獨 追 求，",
     "不 再 假 冒，",
-    "完全 脱离 自己，",
-    "适合 建造。",
+    "完全 脫離 自己，",
+    "適合 建造。",
     "释放我灵！",
     "这是我心所求：",
     "使我不再关闭，",

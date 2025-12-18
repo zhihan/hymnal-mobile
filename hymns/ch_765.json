@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "当 我"
+              "text": "當 我"
             },
             {
               "chord": "",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "D",
-              "text": "临 时"
+              "text": "臨 時"
             },
             {
               "chord": "",
@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 要 脱 尽 所"
+              "text": "我 要 脫 盡 所"
             },
             {
               "chord": "G",
-              "text": "有 忧"
+              "text": "有 憂"
             },
             {
               "chord": "",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "C",
-              "text": "众 圣"
+              "text": "眾 聖"
             },
             {
               "chord": "",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "D7",
-              "text": "赞 美"
+              "text": "讚 美"
             },
             {
               "chord": "G",
@@ -84,7 +84,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "哦！ 赞"
+              "text": "哦！ 讚"
             },
             {
               "chord": "",
@@ -104,7 +104,7 @@
             },
             {
               "chord": "A7",
-              "text": "赞 美"
+              "text": "讚 美"
             },
             {
               "chord": "D",
@@ -120,7 +120,7 @@
             },
             {
               "chord": "G",
-              "text": "众 圣"
+              "text": "眾 聖"
             },
             {
               "chord": "G7",
@@ -144,7 +144,7 @@
             },
             {
               "chord": "D7",
-              "text": "赞 美"
+              "text": "讚 美"
             },
             {
               "chord": "G",
@@ -359,10 +359,11 @@
     "category": "荣耀的盼望",
     "time": "4/4",
     "hymn_code": "5333234322",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0765_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/965",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/965",
+        "language": "en",
         "category": "h",
         "number": "965",
         "title": "E965"
@@ -370,14 +371,14 @@
     ]
   },
   "raw_sections": [
-    "当 我恩 主 降临 时候，",
-    "我 要 脱 尽 所有 忧愁，",
-    "同众 圣徒 跟祂 而走，",
-    "哦！赞 美主！",
-    "哦！ 赞美主！",
-    "哦！赞 美主！",
-    "同众 圣徒 跟祂 而走，",
-    "哦！赞 美主！",
+    "當 我恩 主 降臨 時候，",
+    "我 要 脫 盡 所有 憂愁，",
+    "同眾 聖徒 跟祂 而走，",
+    "哦！讚 美主！",
+    "哦！ 讚美主！",
+    "哦！讚 美主！",
+    "同眾 聖徒 跟祂 而走，",
+    "哦！讚 美主！",
     "当我亲眼见我救主，",
     "与祂荣中永远同住，",
     "我心快乐，我口欢呼，",

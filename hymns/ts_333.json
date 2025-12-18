@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "我 爱"
+              "text": "我 愛"
             },
             {
               "chord": "",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "G",
-              "text": "爱；"
+              "text": "愛；"
             }
           ]
         },
@@ -32,11 +32,11 @@
             },
             {
               "chord": "D",
-              "text": "无 可"
+              "text": "無 可"
             },
             {
               "chord": "D7",
-              "text": "以 给"
+              "text": "以 給"
             },
             {
               "chord": "G",
@@ -48,11 +48,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "主， 我 爱 你， 这 爱 全"
+              "text": "主， 我 愛 你， 這 愛 全"
             },
             {
               "chord": "C",
-              "text": "然 属"
+              "text": "然 屬"
             },
             {
               "chord": "G",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "G",
-              "text": "里。"
+              "text": "裏。"
             }
           ]
         },
@@ -88,7 +88,7 @@
             },
             {
               "chord": "",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "G",
@@ -96,15 +96,15 @@
             },
             {
               "chord": "C",
-              "text": "却 欢"
+              "text": "卻 歡"
             },
             {
               "chord": "",
-              "text": "然 经"
+              "text": "然 經"
             },
             {
               "chord": "G",
-              "text": "历，"
+              "text": "歷，"
             }
           ]
         },
@@ -124,7 +124,7 @@
             },
             {
               "chord": "C",
-              "text": "没 在"
+              "text": "沒 在"
             },
             {
               "chord": "D",
@@ -132,11 +132,11 @@
             },
             {
               "chord": "D7",
-              "text": "爱"
+              "text": "愛"
             },
             {
               "chord": "G",
-              "text": "里。"
+              "text": "裏。"
             }
           ]
         }
@@ -203,10 +203,11 @@
     "category": "爱慕耶稣",
     "time": "4/4",
     "hymn_code": "5543531615355443",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0333_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/546",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/546",
+        "language": "en",
         "category": "h",
         "number": "546",
         "title": "E546"
@@ -214,12 +215,12 @@
     ]
   },
   "raw_sections": [
-    "我 爱我 主， 非 用 天然 之爱；",
-    "我无 可以 给你。",
-    "主， 我 爱 你， 这 爱 全然 属你，",
-    "使我 活在 你里。",
-    "我 一无所 有，却 欢然 经历，",
-    "倒 空，消失， 浸没 在你爱里。",
+    "我 愛我 主， 非 用 天然 之愛；",
+    "我無 可以 給你。",
+    "主， 我 愛 你， 這 愛 全然 屬你，",
+    "使我 活在 你裏。",
+    "我 一無所 有，卻 歡然 經歷，",
+    "倒 空，消失， 浸沒 在你愛裏。",
     "我主，惟你是我一切所需，",
     "我心别无所愿；",
     "住在你里，经历祝福江河，",

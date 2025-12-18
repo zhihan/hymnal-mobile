@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "远 在"
+              "text": "遠 在"
             },
             {
               "chord": "D7",
-              "text": "时 间"
+              "text": "時 間"
             },
             {
               "chord": "G",
@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "万 有"
+              "text": "萬 有"
             },
             {
               "chord": "",
-              "text": "尚 都 未 开"
+              "text": "尚 都 未 開"
             },
             {
               "chord": "A7",
@@ -48,15 +48,15 @@
             },
             {
               "chord": "D7",
-              "text": "怀 中"
+              "text": "懷 中"
             },
             {
               "chord": "G",
-              "text": "并 荣"
+              "text": "並 榮"
             },
             {
               "chord": "",
-              "text": "耀 里，"
+              "text": "耀 裡，"
             }
           ]
         },
@@ -72,7 +72,7 @@
             },
             {
               "chord": "A",
-              "text": "独"
+              "text": "獨"
             },
             {
               "chord": "A7",
@@ -88,15 +88,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "当 父 将 你"
+              "text": "當 父 將 你"
             },
             {
               "chord": "A",
-              "text": "赐 给"
+              "text": "賜 給"
             },
             {
               "chord": "A7",
-              "text": "我 们，"
+              "text": "我 們，"
             }
           ]
         },
@@ -116,7 +116,7 @@
             },
             {
               "chord": "A7",
-              "text": "样，"
+              "text": "樣，"
             }
           ]
         },
@@ -124,7 +124,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "为 将"
+              "text": "為 將"
             },
             {
               "chord": "D7",
@@ -136,7 +136,7 @@
             },
             {
               "chord": "",
-              "text": "丰 满，"
+              "text": "豐 滿，"
             }
           ]
         },
@@ -148,11 +148,11 @@
             },
             {
               "chord": "",
-              "text": "圣 灵"
+              "text": "聖 靈"
             },
             {
               "chord": "A",
-              "text": "来"
+              "text": "來"
             },
             {
               "chord": "A7",
@@ -160,7 +160,7 @@
             },
             {
               "chord": "D",
-              "text": "扬。"
+              "text": "揚。"
             }
           ]
         }
@@ -383,10 +383,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "333211121655113212",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0154_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/203",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/203",
+        "language": "en",
         "category": "h",
         "number": "203",
         "title": "E203"
@@ -394,14 +395,14 @@
     ]
   },
   "raw_sections": [
-    "远 在时 间尚 未起 首，",
-    "万 有尚 都 未 开始，",
-    "在 父怀 中并 荣耀 里，",
-    "你 是神 的独生子。",
-    "当 父 将 你赐 给我 们，",
-    "你 的身 位仍 一样，",
-    "为 将父 的所 有丰 满，",
-    "藉 著圣 灵来表扬。",
+    "遠 在時 間尚 未起 首，",
+    "萬 有尚 都 未 開始，",
+    "在 父懷 中並 榮耀 裡，",
+    "你 是神 的獨生子。",
+    "當 父 將 你賜 給我 們，",
+    "你 的身 位仍 一樣，",
+    "為 將父 的所 有豐 滿，",
+    "藉 著聖 靈來表揚。",
     "借着你死并你复活，",
     "你就成为神长子；",
     "借着重生分赐生命，",

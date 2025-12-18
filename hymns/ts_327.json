@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "我 爱"
+              "text": "我 愛"
             },
             {
               "chord": "D7",
@@ -24,7 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 实"
+              "text": "我 實"
             },
             {
               "chord": "G",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "",
-              "text": "爱"
+              "text": "愛"
             },
             {
               "chord": "Gm",
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "Em",
@@ -92,7 +92,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "极 其"
+              "text": "極 其"
             },
             {
               "chord": "G",
@@ -116,7 +116,7 @@
             },
             {
               "chord": "Em",
-              "text": "的 丰"
+              "text": "的 豐"
             },
             {
               "chord": "",
@@ -124,7 +124,7 @@
             },
             {
               "chord": "A7",
-              "text": "追 测"
+              "text": "追 測"
             },
             {
               "chord": "",
@@ -132,7 +132,7 @@
             },
             {
               "chord": "D7",
-              "text": "尽。"
+              "text": "盡。"
             }
           ]
         },
@@ -164,7 +164,7 @@
             },
             {
               "chord": "",
-              "text": "人 满"
+              "text": "人 滿"
             },
             {
               "chord": "A7",
@@ -180,7 +180,7 @@
             },
             {
               "chord": "Bm",
-              "text": "你 属"
+              "text": "你 屬"
             },
             {
               "chord": "",
@@ -200,7 +200,7 @@
             },
             {
               "chord": "A",
-              "text": "属"
+              "text": "屬"
             },
             {
               "chord": "A7",
@@ -212,15 +212,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "联 结"
+              "text": "聯 結"
             },
             {
               "chord": "D",
-              "text": "调 和"
+              "text": "調 和"
             },
             {
               "chord": "",
-              "text": "于"
+              "text": "於"
             },
             {
               "chord": "D7",
@@ -236,11 +236,11 @@
             },
             {
               "chord": "G",
-              "text": "合 并"
+              "text": "合 併"
             },
             {
               "chord": "",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "Gm",
@@ -252,7 +252,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "豫 尝"
+              "text": "豫 嘗"
             },
             {
               "chord": "Em",
@@ -268,11 +268,11 @@
             },
             {
               "chord": "",
-              "text": "实"
+              "text": "實"
             },
             {
               "chord": "D",
-              "text": "际。"
+              "text": "際。"
             }
           ]
         }
@@ -285,10 +285,11 @@
     "category": "爱慕耶稣",
     "time": "3/4",
     "hymn_code": "345465321721",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0327_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/ns/25",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/ns/25",
+        "language": "en",
         "category": "ns",
         "number": "25",
         "title": "NS25"
@@ -296,18 +297,18 @@
     ]
   },
   "raw_sections": [
-    "主 阿！我 爱你，",
-    "我 实在 深爱你，",
-    "无你 活著枉 然、失意。",
+    "主 阿！我 愛你，",
+    "我 實在 深愛你，",
+    "無你 活著枉 然、失意。",
     "你 是富 有吸引，",
-    "极 其引 人著迷，",
-    "你的 丰富追 测不尽。",
+    "極 其引 人著迷，",
+    "你的 豐富追 測不盡。",
     "我主 名何 甜 蜜，",
-    "呼求 叫人 满意，",
-    "主，你 属我；",
-    "主， 我也属你。",
-    "联 结调 和于你，",
-    "神 人合 并为一，",
-    "豫 尝新 耶路撒 冷实际。"
+    "呼求 叫人 滿意，",
+    "主，你 屬我；",
+    "主， 我也屬你。",
+    "聯 結調 和於你，",
+    "神 人合 併為一，",
+    "豫 嘗新 耶路撒 冷實際。"
   ]
 }

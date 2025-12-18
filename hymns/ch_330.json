@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "G",
-              "text": "主 爱"
+              "text": "主 愛"
             },
             {
               "chord": "",
-              "text": "长"
+              "text": "長"
             },
             {
               "chord": "Am",
-              "text": "阔 高"
+              "text": "闊 高"
             },
             {
               "chord": "D",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "D7",
-              "text": "实"
+              "text": "實"
             },
             {
               "chord": "G",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "G",
-              "text": "测；"
+              "text": "測；"
             }
           ]
         },
@@ -60,11 +60,11 @@
             },
             {
               "chord": "C",
-              "text": "我 这"
+              "text": "我 這"
             },
             {
               "chord": "A7",
-              "text": "样 罪"
+              "text": "樣 罪"
             },
             {
               "chord": "D7",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "C",
-              "text": "满"
+              "text": "滿"
             },
             {
               "chord": "Am",
@@ -96,7 +96,7 @@
             },
             {
               "chord": "G",
-              "text": "泽。"
+              "text": "澤。"
             }
           ]
         }
@@ -451,10 +451,11 @@
     "category": "奉献",
     "time": "4/4",
     "hymn_code": "51612165561612321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0330_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8330",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8330",
+        "language": "en",
         "category": "h",
         "number": "8330",
         "title": "E8330"
@@ -462,10 +463,10 @@
     ]
   },
   "raw_sections": [
-    "主 爱长阔 高深，",
-    "实在 不能推测；",
-    "不然， 像我 这样 罪人，",
-    "怎能满被恩泽。",
+    "主 愛長闊 高深，",
+    "實在 不能推測；",
+    "不然， 像我 這樣 罪人，",
+    "怎能滿被恩澤。",
     "我主出了重价，",
     "买我回来归祂；",
     "我今愿意背十字架，",

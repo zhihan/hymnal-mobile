@@ -24,7 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "奥"
+              "text": "奧"
             },
             {
               "chord": "G",
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "启"
+              "text": "啟"
             },
             {
               "chord": "Em",
@@ -343,10 +343,11 @@
     "category": "受浸",
     "time": "3/2",
     "hymn_code": "55132165551312",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0744_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8744",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8744",
+        "language": "en",
         "category": "h",
         "number": "8744",
         "title": "E8744"
@@ -355,8 +356,8 @@
   },
   "raw_sections": [
     "『藉 水得 救』， 此言",
-    "奥妙，哦，主，",
-    "启示 其意，使我",
+    "奧妙，哦，主，",
+    "啟示 其意，使我",
     "知道救恩 何高，救我",
     "到何 境地。",
     "‘借水得救’，",

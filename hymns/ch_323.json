@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "愿 光"
+              "text": "願 光"
             },
             {
               "chord": "",
@@ -60,7 +60,7 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "照 进"
+              "text": "照 進"
             },
             {
               "chord": "",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "D",
-              "text": "内。"
+              "text": "內。"
             }
           ]
         }
@@ -274,13 +274,14 @@
   "metadata": {
     "category": "羡慕",
     "time": "6/4",
-    "hymn_code": "54565424347653"
+    "hymn_code": "54565424347653",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0323_tune.midi"
   },
   "raw_sections": [
-    "愿 光今天 照亮， 主，",
+    "願 光今天 照亮， 主，",
     "在 我最 黑 路上， 主，",
     "我 求 你的 大光， 主，",
-    "照 进我的 心内。",
+    "照 進我的 心內。",
     "光来明显一切，主，",
     "光来除去自借，主，",
     "光来，当光正缺，主，",

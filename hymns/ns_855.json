@@ -83,8 +83,52 @@
         {
           "segments": [
             {
+              "chord": "",
+              "text": "With"
+            },
+            {
+              "chord": "D",
+              "text": "loving"
+            },
+            {
+              "chord": "A",
+              "text": "kindness."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Therefore I"
+            },
+            {
               "chord": "G",
-              "text": "With lov"
+              "text": "have,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Drawn you,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "With loving"
+            },
+            {
+              "chord": "A",
+              "text": "kind"
+            },
+            {
+              "chord": "D",
+              "text": "ness."
             }
           ]
         }
@@ -95,7 +139,8 @@
   "metadata": {
     "category": "Scriptures for Singing",
     "time": "3/4",
-    "hymn_code": "11223215567112335653211"
+    "hymn_code": "11223215567112335653211",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0855_tune.midi"
   },
   "raw_sections": [
     "Jehovah'ppeared to me",
@@ -103,6 +148,9 @@
     "Saying, Indeed Ihaveloved you",
     "With an eternallove,",
     "ThereforeI havedrawn you",
-    "With lov"
+    "Withlovingkindness.",
+    "Therefore Ihave,",
+    "Drawn you,",
+    "With lovingkindness."
   ]
 }

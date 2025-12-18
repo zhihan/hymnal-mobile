@@ -16,7 +16,7 @@
             },
             {
               "chord": "G",
-              "text": "华 仆"
+              "text": "華 僕"
             },
             {
               "chord": "C",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "夜 间 站 在 祂 的 殿 中"
+              "text": "夜 間 站 在 祂 的 殿 中"
             },
             {
               "chord": "G",
@@ -40,15 +40,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 们"
+              "text": "你 們"
             },
             {
               "chord": "C",
-              "text": "当"
+              "text": "當"
             },
             {
               "chord": "G7",
-              "text": "称 颂"
+              "text": "稱 頌"
             },
             {
               "chord": "C",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "F",
-              "text": "华！"
+              "text": "華！"
             }
           ]
         },
@@ -64,11 +64,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "当"
+              "text": "當"
             },
             {
               "chord": "G7",
-              "text": "称 颂"
+              "text": "稱 頌"
             },
             {
               "chord": "",
@@ -84,15 +84,15 @@
           "segments": [
             {
               "chord": "F",
-              "text": "你 们"
+              "text": "你 們"
             },
             {
               "chord": "",
-              "text": "当 向 圣 所"
+              "text": "當 向 聖 所"
             },
             {
               "chord": "C",
-              "text": "举 手，"
+              "text": "舉 手，"
             }
           ]
         },
@@ -100,11 +100,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "称"
+              "text": "稱"
             },
             {
               "chord": "D",
-              "text": "颂 耶"
+              "text": "頌 耶"
             },
             {
               "chord": "",
@@ -112,7 +112,7 @@
             },
             {
               "chord": "G",
-              "text": "华！"
+              "text": "華！"
             }
           ]
         },
@@ -120,7 +120,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "愿"
+              "text": "願"
             },
             {
               "chord": "C",
@@ -136,7 +136,7 @@
             },
             {
               "chord": "",
-              "text": "华，"
+              "text": "華，"
             }
           ]
         },
@@ -144,15 +144,15 @@
           "segments": [
             {
               "chord": "C",
-              "text": "从 锡"
+              "text": "從 錫"
             },
             {
               "chord": "",
-              "text": "安 赐 福"
+              "text": "安 賜 福"
             },
             {
               "chord": "G7",
-              "text": "给"
+              "text": "給"
             },
             {
               "chord": "C",
@@ -168,16 +168,17 @@
   "metadata": {
     "category": "赞美的话",
     "time": "4/4",
-    "hymn_code": "5433551765365432"
+    "hymn_code": "5433551765365432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0012_tune.midi"
   },
   "raw_sections": [
-    "看 哪，耶 和华 仆人，",
-    "夜 间 站 在 祂 的 殿 中的，",
-    "你 们当称 颂耶 和华！",
-    "当称 颂祂名。",
-    "你 们当 向 圣 所举 手，",
-    "称颂 耶和华！",
-    "愿造 天地 的耶 和华，",
-    "从 锡安 赐 福给你。"
+    "看 哪，耶 和華 僕人，",
+    "夜 間 站 在 祂 的 殿 中的，",
+    "你 們當稱 頌耶 和華！",
+    "當稱 頌祂名。",
+    "你 們當 向 聖 所舉 手，",
+    "稱頌 耶和華！",
+    "願造 天地 的耶 和華，",
+    "從 錫安 賜 福給你。"
   ]
 }

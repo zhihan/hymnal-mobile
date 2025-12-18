@@ -36,7 +36,7 @@
             },
             {
               "chord": "A",
-              "text": "稣，"
+              "text": "穌，"
             },
             {
               "chord": "A7",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "D",
-              "text": "稣，"
+              "text": "穌，"
             }
           ]
         },
@@ -56,7 +56,7 @@
             },
             {
               "chord": "A",
-              "text": "稣，"
+              "text": "穌，"
             },
             {
               "chord": "A7",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "D",
-              "text": "稣，"
+              "text": "穌，"
             }
           ]
         },
@@ -265,10 +265,11 @@
     "category": "爱慕耶稣",
     "time": "3/4",
     "hymn_code": "51712165172321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0302_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1084",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1084",
+        "language": "en",
         "category": "h",
         "number": "1084",
         "title": "E1084"
@@ -277,8 +278,8 @@
   },
   "raw_sections": [
     "你 名如 同倒 出香膏，",
-    "耶稣，耶稣，",
-    "耶稣，耶稣，",
+    "耶穌，耶穌，",
+    "耶穌，耶穌，",
     "你名 如同倒 出香膏，",
     "你名 如同倒 出香膏。",
     "你的爱情比酒更美",

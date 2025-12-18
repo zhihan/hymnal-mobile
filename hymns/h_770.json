@@ -308,10 +308,11 @@
     "category": "Prayer",
     "time": "4/4",
     "hymn_code": "5512312165",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0770_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/557",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/557",
+        "language": "cn",
         "category": "ch",
         "number": "557",
         "title": "C557"

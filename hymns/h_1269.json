@@ -390,10 +390,11 @@
     "category": "The Church",
     "time": "4/4",
     "hymn_code": "555556522123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1269_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/1269",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/1269",
+        "language": "cn",
         "category": "ch",
         "number": "1269",
         "title": "C1269"

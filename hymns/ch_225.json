@@ -20,7 +20,7 @@
             },
             {
               "chord": "",
-              "text": "寻"
+              "text": "尋"
             },
             {
               "chord": "Am",
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "对 你"
+              "text": "對 你"
             },
             {
               "chord": "",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "G",
-              "text": "无 所"
+              "text": "無 所"
             },
             {
               "chord": "",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "",
-              "text": "无 能，"
+              "text": "無 能，"
             }
           ]
         },
@@ -72,7 +72,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "实"
+              "text": "實"
             },
             {
               "chord": "C",
@@ -92,7 +92,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "给 我"
+              "text": "給 我"
             },
             {
               "chord": "",
@@ -118,7 +118,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "谦 卑 俯 伏，"
+              "text": "謙 卑 俯 伏，"
             },
             {
               "chord": "A7",
@@ -134,7 +134,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "诚 恳"
+              "text": "誠 懇"
             },
             {
               "chord": "D7",
@@ -158,7 +158,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "给 我 能 力， 给"
+              "text": "給 我 能 力， 給"
             },
             {
               "chord": "C",
@@ -178,7 +178,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "给 我"
+              "text": "給 我"
             },
             {
               "chord": "",
@@ -427,10 +427,11 @@
     "category": "圣灵的丰满",
     "time": "4/4",
     "hymn_code": "565351216771231765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0225_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/274",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/274",
+        "language": "en",
         "category": "h",
         "number": "274",
         "title": "E274"
@@ -438,15 +439,15 @@
     ]
   },
   "raw_sections": [
-    "主， 你能 力 我今 在寻求，",
-    "对 你工作 我无 所成就，",
-    "懦 弱、无 能，",
-    "实在 已彀久，",
-    "给 我穿上 能力！",
-    "谦 卑 俯 伏，我 在此 等 候，",
-    "诚 恳迫 切，我 向你 呼求，",
-    "给 我 能 力， 给我 毫不留，",
-    "给 我穿上 能力！",
+    "主， 你能 力 我今 在尋求，",
+    "對 你工作 我無 所成就，",
+    "懦 弱、無 能，",
+    "實在 已彀久，",
+    "給 我穿上 能力！",
+    "謙 卑 俯 伏，我 在此 等 候，",
+    "誠 懇迫 切，我 向你 呼求，",
+    "給 我 能 力， 給我 毫不留，",
+    "給 我穿上 能力！",
     "施恩眷顾，我今在此催，",
     "将你恩赐分给你召会，",
     "使我工作，永不再气馁，",

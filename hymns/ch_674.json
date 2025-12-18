@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "医"
+              "text": "醫"
             },
             {
               "chord": "G",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "亲 可"
+              "text": "親 可"
             },
             {
               "chord": "A7",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "D",
-              "text": "稣，"
+              "text": "穌，"
             }
           ]
         },
@@ -56,15 +56,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "能 医 罪"
+              "text": "能 醫 罪"
             },
             {
               "chord": "A",
-              "text": "伤， 能"
+              "text": "傷， 能"
             },
             {
               "chord": "Bm",
-              "text": "解 忧"
+              "text": "解 憂"
             },
             {
               "chord": "D",
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "请"
+              "text": "請"
             },
             {
               "chord": "G",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "D",
-              "text": "来 就"
+              "text": "來 就"
             },
             {
               "chord": "A7",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "D",
-              "text": "稣。"
+              "text": "穌。"
             }
           ]
         }
@@ -106,7 +106,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "祂 为 你 受"
+              "text": "祂 為 你 受"
             },
             {
               "chord": "A7",
@@ -122,15 +122,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "祂 将 你 众"
+              "text": "祂 將 你 眾"
             },
             {
               "chord": "E7",
-              "text": "罪 担"
+              "text": "罪 擔"
             },
             {
               "chord": "A",
-              "text": "当，"
+              "text": "當，"
             }
           ]
         },
@@ -138,7 +138,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "祂 寻"
+              "text": "祂 尋"
             },
             {
               "chord": "A",
@@ -146,11 +146,11 @@
             },
             {
               "chord": "Bm",
-              "text": "来 医"
+              "text": "來 醫"
             },
             {
               "chord": "D",
-              "text": "伤，"
+              "text": "傷，"
             }
           ]
         },
@@ -158,11 +158,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "速 来"
+              "text": "速 來"
             },
             {
               "chord": "D",
-              "text": "就 这"
+              "text": "就 這"
             },
             {
               "chord": "A7",
@@ -170,7 +170,7 @@
             },
             {
               "chord": "D",
-              "text": "稣。"
+              "text": "穌。"
             }
           ]
         }
@@ -484,10 +484,11 @@
     "category": "福音",
     "time": "6/8",
     "hymn_code": "553123455513121",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0674_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/990",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/990",
+        "language": "en",
         "category": "h",
         "number": "990",
         "title": "E990"
@@ -495,14 +496,14 @@
     ]
   },
   "raw_sections": [
-    "至 大医生 可亲 可近，",
-    "就是 同情 的耶稣，",
-    "能 医 罪伤， 能解 忧困，",
-    "请你 速来 就耶稣。",
-    "祂 为 你 受死 木上，",
-    "祂 将 你 众罪 担当，",
-    "祂 寻你 前来 医伤，",
-    "速 来就 这耶稣。",
+    "至 大醫生 可親 可近，",
+    "就是 同情 的耶穌，",
+    "能 醫 罪傷， 能解 憂困，",
+    "請你 速來 就耶穌。",
+    "祂 為 你 受死 木上，",
+    "祂 將 你 眾罪 擔當，",
+    "祂 尋你 前來 醫傷，",
+    "速 來就 這耶穌。",
     "罪孽虽多，必蒙赦免，",
     "只要肯来就耶稣！",
     "良心虽亏，必得平安，",

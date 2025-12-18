@@ -7,20 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "Until"
-            },
-            {
               "chord": "",
-              "text": "He"
-            },
-            {
-              "chord": "A",
-              "text": "comes a"
-            },
-            {
-              "chord": "Bm",
-              "text": "gain,"
+              "text": "Until He comes again,"
             }
           ]
         },
@@ -28,19 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "I'll watch and"
-            },
-            {
-              "chord": "G",
-              "text": "wait and"
-            },
-            {
-              "chord": "A7",
-              "text": "call on"
-            },
-            {
-              "chord": "D",
-              "text": "Him"
+              "text": "I’ll watch and wait and call on Him"
             }
           ]
         },
@@ -48,19 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "I'll pray that"
-            },
-            {
-              "chord": "A",
-              "text": "by His"
-            },
-            {
-              "chord": "",
-              "text": "life and"
-            },
-            {
-              "chord": "G",
-              "text": "power,"
+              "text": "I’ll pray that by His life and power,"
             }
           ]
         },
@@ -68,19 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "I'll over"
-            },
-            {
-              "chord": "Asus4",
-              "text": "come in"
-            },
-            {
-              "chord": "A7",
-              "text": "every"
-            },
-            {
-              "chord": "D",
-              "text": "hour."
+              "text": "I’ll overcome in every hour."
             }
           ]
         }
@@ -94,15 +46,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Until He"
-            },
-            {
-              "chord": "A",
-              "text": "comes a"
-            },
-            {
-              "chord": "Bm",
-              "text": "gain,"
+              "text": "Until He comes again,"
             }
           ]
         },
@@ -110,19 +54,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "His blood will"
-            },
-            {
-              "chord": "G",
-              "text": "cleanse me"
-            },
-            {
-              "chord": "A7",
-              "text": "of my"
-            },
-            {
-              "chord": "D",
-              "text": "sin"
+              "text": "His blood will cleanse me of my sin"
             }
           ]
         },
@@ -130,19 +62,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "His word will"
-            },
-            {
-              "chord": "A",
-              "text": "sanctify"
-            },
-            {
-              "chord": "",
-              "text": "with"
-            },
-            {
-              "chord": "G",
-              "text": "in,"
+              "text": "His word will sanctify within,"
             }
           ]
         },
@@ -150,19 +70,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "And make me"
-            },
-            {
-              "chord": "Asus4",
-              "text": "wholly"
-            },
-            {
-              "chord": "A7",
-              "text": "unto"
-            },
-            {
-              "chord": "D",
-              "text": "Him."
+              "text": "And make me wholly unto Him."
             }
           ]
         }
@@ -176,31 +84,47 @@
           "segments": [
             {
               "chord": "",
-              "text": "He rose"
-            },
-            {
-              "chord": "F♯m",
-              "text": "and as"
-            },
-            {
-              "chord": "",
-              "text": "Spir"
-            },
-            {
-              "chord": "A7",
-              "text": "it He"
-            },
-            {
-              "chord": "",
-              "text": "Now lives"
+              "text": "(Bro.) He died to be life to me—"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "in me."
+              "chord": "",
+              "text": "From death I’m free."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "(Sis.) He rose and as Spirit He"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Now lives in me."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "(Bro.) In splendor and in glory"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Like Him I’ll be."
             }
           ]
         }
@@ -340,19 +264,24 @@
   "metadata": {
     "category": "Hope of Glory",
     "time": "4/4",
-    "hymn_code": "111254323"
+    "hymn_code": "111254323",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0106_tune.midi"
   },
   "raw_sections": [
-    "UntilHecomes again,",
-    "I'll watch andwait andcall onHim",
-    "I'll pray thatby Hislife andpower,",
-    "I'll overcome ineveryhour.",
-    "Until Hecomes again,",
-    "His blood willcleanse meof mysin",
-    "His word willsanctifywithin,",
-    "And make mewhollyuntoHim.",
-    "He roseand asSpirit HeNow lives",
-    "in me.",
+    "Until He comes again,",
+    "I’ll watch and wait and call on Him",
+    "I’ll pray that by His life and power,",
+    "I’ll overcome in every hour.",
+    "Until He comes again,",
+    "His blood will cleanse me of my sin",
+    "His word will sanctify within,",
+    "And make me wholly unto Him.",
+    "(Bro.) He died to be life to me—",
+    "From death I’m free.",
+    "(Sis.) He rose and as Spirit He",
+    "Now lives in me.",
+    "(Bro.) In splendor and in glory",
+    "Like Him I’ll be.",
     "Until He comes again,",
     "My soul-life I’ll give up for Him.",
     "No worldly pleasure can compare",

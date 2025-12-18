@@ -40,15 +40,15 @@
           "segments": [
             {
               "chord": "A",
-              "text": "神 愿"
+              "text": "神 願"
             },
             {
               "chord": "D",
-              "text": "赐 给"
+              "text": "賜 給"
             },
             {
               "chord": "A",
-              "text": "我 们，"
+              "text": "我 們，"
             }
           ]
         },
@@ -60,11 +60,11 @@
             },
             {
               "chord": "E7",
-              "text": "脱 重"
+              "text": "脫 重"
             },
             {
               "chord": "A",
-              "text": "负；"
+              "text": "負；"
             }
           ]
         },
@@ -104,7 +104,7 @@
             },
             {
               "chord": "D",
-              "text": "脱 离"
+              "text": "脫 離"
             },
             {
               "chord": "A",
@@ -417,10 +417,11 @@
     "category": "经历基督",
     "time": "4/4",
     "hymn_code": "11765353212",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0402_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/541",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/541",
+        "language": "en",
         "category": "h",
         "number": "541",
         "title": "E541"
@@ -430,11 +431,11 @@
   "raw_sections": [
     "不 是字 句律 法，",
     "乃 是生 命主，",
-    "神 愿赐 给我 们，",
-    "救 我脱 重负；",
+    "神 願賜 給我 們，",
+    "救 我脫 重負；",
     "不 是任 何 道 理，",
     "乃 是主 基督，",
-    "使 我脱 离自 己，",
+    "使 我脫 離自 己，",
     "不 再作 罪奴。",
     "任何一种仪式，",
     "任何的教训，",

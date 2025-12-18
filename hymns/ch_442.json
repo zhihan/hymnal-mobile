@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "当"
+              "text": "當"
             },
             {
               "chord": "D7",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "G",
-              "text": "为 撒"
+              "text": "為 撒"
             },
             {
               "chord": "D7",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "G",
-              "text": "掳，"
+              "text": "擄，"
             }
           ]
         },
@@ -56,19 +56,19 @@
             },
             {
               "chord": "D7",
-              "text": "因 爱"
+              "text": "因 愛"
             },
             {
               "chord": "G",
-              "text": "怜 前"
+              "text": "憐 前"
             },
             {
               "chord": "D",
-              "text": "来 眷"
+              "text": "來 眷"
             },
             {
               "chord": "Em",
-              "text": "顾，"
+              "text": "顧，"
             }
           ]
         },
@@ -76,15 +76,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "将"
+              "text": "將"
             },
             {
               "chord": "C",
-              "text": "我 带"
+              "text": "我 帶"
             },
             {
               "chord": "G",
-              "text": "回 归"
+              "text": "回 歸"
             },
             {
               "chord": "D7",
@@ -114,7 +114,7 @@
             },
             {
               "chord": "G",
-              "text": "恩 将"
+              "text": "恩 將"
             },
             {
               "chord": "",
@@ -130,7 +130,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "赐 我 新"
+              "text": "賜 我 新"
             },
             {
               "chord": "D7",
@@ -138,11 +138,11 @@
             },
             {
               "chord": "",
-              "text": "赐 新"
+              "text": "賜 新"
             },
             {
               "chord": "G",
-              "text": "灵，"
+              "text": "靈，"
             }
           ]
         },
@@ -154,11 +154,11 @@
             },
             {
               "chord": "C",
-              "text": "将 祂"
+              "text": "將 祂"
             },
             {
               "chord": "G",
-              "text": "灵 放"
+              "text": "靈 放"
             },
             {
               "chord": "G7",
@@ -166,7 +166,7 @@
             },
             {
               "chord": "C",
-              "text": "灵，"
+              "text": "靈，"
             }
           ]
         },
@@ -502,10 +502,11 @@
     "category": "经历神",
     "time": "3/2",
     "hymn_code": "34453321535772665",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0442_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8442",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8442",
+        "language": "en",
         "category": "h",
         "number": "8442",
         "title": "E8442*"
@@ -513,13 +514,13 @@
     ]
   },
   "raw_sections": [
-    "当我 已为 撒但 所掳，",
+    "當我 已為 撒但 所擄，",
     "正 在 死地 作罪 囚奴；",
-    "神因 爱怜 前来 眷顾，",
-    "将我 带回 归向 基督。",
-    "神的 宏恩 将我 重生，",
-    "赐 我 新心， 又赐 新灵，",
-    "且将 祂灵 放在 我灵，",
+    "神因 愛憐 前來 眷顧，",
+    "將我 帶回 歸向 基督。",
+    "神的 宏恩 將我 重生，",
+    "賜 我 新心， 又賜 新靈，",
+    "且將 祂靈 放在 我靈，",
     "使我 有分 祂的 性情。",
     "神用清水洒在我身，",
     "污秽、偶像我全脱尽；",

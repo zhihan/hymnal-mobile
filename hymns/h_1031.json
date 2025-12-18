@@ -387,10 +387,11 @@
     "category": "Gospel",
     "time": "4/4",
     "hymn_code": "55651332155312",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1031_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/717",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/717",
+        "language": "cn",
         "category": "ch",
         "number": "717",
         "title": "C717"

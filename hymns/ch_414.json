@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "进 入"
+              "text": "進 入"
             },
             {
               "chord": "",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "G",
-              "text": "内，"
+              "text": "內，"
             }
           ]
         },
@@ -32,7 +32,7 @@
             },
             {
               "chord": "A7",
-              "text": "到 营"
+              "text": "到 營"
             },
             {
               "chord": "D",
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "尝 到 天"
+              "text": "嘗 到 天"
             },
             {
               "chord": "G",
@@ -56,11 +56,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "就 必 丢 弃 地"
+              "text": "就 必 丟 棄 地"
             },
             {
               "chord": "A",
-              "text": "爱；"
+              "text": "愛；"
             }
           ]
         },
@@ -68,11 +68,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "圣 中"
+              "text": "聖 中"
             },
             {
               "chord": "",
-              "text": "之 圣 如 果 满"
+              "text": "之 聖 如 果 滿"
             },
             {
               "chord": "E7",
@@ -96,7 +96,7 @@
             },
             {
               "chord": "G",
-              "text": "空 岂"
+              "text": "空 豈"
             },
             {
               "chord": "",
@@ -104,7 +104,7 @@
             },
             {
               "chord": "A",
-              "text": "骗"
+              "text": "騙"
             },
             {
               "chord": "A7",
@@ -473,10 +473,11 @@
     "category": "经历基督",
     "time": "4/4",
     "hymn_code": "1234321171",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0414_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/549",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/549",
+        "language": "en",
         "category": "h",
         "number": "549",
         "title": "E549"
@@ -484,12 +485,12 @@
     ]
   },
   "raw_sections": [
-    "进 入幔内，",
-    "就必 出到 营外，",
-    "尝 到 天美，",
-    "就 必 丢 弃 地爱；",
-    "圣 中之 圣 如 果 满足 我心，",
-    "空 中之空 岂能 欺骗我魂？",
+    "進 入幔內，",
+    "就必 出到 營外，",
+    "嘗 到 天美，",
+    "就 必 丟 棄 地愛；",
+    "聖 中之 聖 如 果 滿足 我心，",
+    "空 中之空 豈能 欺騙我魂？",
     "进入幔内，",
     "就必出到营外，",
     "天一同在，",

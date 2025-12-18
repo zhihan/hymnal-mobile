@@ -7,88 +7,32 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "Worldly"
-            },
-            {
               "chord": "",
-              "text": "affairs encumbered me;"
-            },
-            {
-              "chord": "G",
-              "text": "till the"
-            },
-            {
-              "chord": "",
-              "text": "Lord said, \"Come, follow"
-            },
-            {
-              "chord": "A",
-              "text": "Me!\""
+              "text": "Worldly affairs encumbered me; till the Lord said, “Come, follow Me!”"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "F♯",
-              "text": "I was"
-            },
-            {
               "chord": "",
-              "text": "ex"
-            },
-            {
-              "chord": "F♯7",
-              "text": "hausted,"
-            },
-            {
-              "chord": "Bm",
-              "text": "falterbut"
-            },
-            {
-              "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "G",
-              "text": "earth to"
-            },
-            {
-              "chord": "",
-              "text": "heaven they join; In Your"
-            },
-            {
-              "chord": "A",
-              "text": "smile's"
+              "text": "I was exhausted, faltering; still He called and would not leave me be;"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "F♯7",
-              "text": "delight,"
-            },
+              "chord": "",
+              "text": "At once, when I responded: “Yes!”, He shined His glad’ning ray!"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "I fix my"
-            },
-            {
-              "chord": "Bm",
-              "text": "sight, running"
-            },
-            {
-              "chord": "",
-              "text": "towards"
-            },
-            {
-              "chord": "G",
-              "text": "th'_eternal"
-            },
-            {
-              "chord": "",
-              "text": "crown."
+              "text": "Glory, rest, shouts of praise fill all my days as I follow on His way."
             }
           ]
         }
@@ -221,12 +165,14 @@
   "metadata": {
     "category": "Consecration",
     "time": "4/4",
-    "hymn_code": "5565551166661617"
+    "hymn_code": "5565551166661617",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0513_tune.midi"
   },
   "raw_sections": [
-    "Worldlyaffairs encumbered me;till theLord said, \"Come, followMe!\"",
-    "I wasexhausted,falterbuttheearth toheaven they join; In Yoursmile's",
-    "delight,I fix mysight, runningtowardsth'_eternalcrown.",
+    "Worldly affairs encumbered me; till the Lord said, “Come, follow Me!”",
+    "I was exhausted, faltering; still He called and would not leave me be;",
+    "At once, when I responded: “Yes!”, He shined His glad’ning ray!",
+    "Glory, rest, shouts of praise fill all my days as I follow on His way.",
     "Though in this world a way exists",
     "Filled with crowds with greatness obsessed;",
     "My heart already is possessed, let those who would take it try their best;",

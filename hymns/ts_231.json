@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "每 当"
+              "text": "每 當"
             },
             {
               "chord": "",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "C7",
-              "text": "稣，"
+              "text": "穌，"
             }
           ]
         },
@@ -36,15 +36,15 @@
             },
             {
               "chord": "F",
-              "text": "处 总"
+              "text": "處 總"
             },
             {
               "chord": "",
-              "text": "觉 发"
+              "text": "覺 發"
             },
             {
               "chord": "C",
-              "text": "烫；"
+              "text": "燙；"
             }
           ]
         },
@@ -80,7 +80,7 @@
             },
             {
               "chord": "D",
-              "text": "我 里"
+              "text": "我 裡"
             },
             {
               "chord": "D7",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "G",
-              "text": "长。"
+              "text": "長。"
             }
           ]
         },
@@ -96,11 +96,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "请"
+              "text": "請"
             },
             {
               "chord": "C",
-              "text": "来 同"
+              "text": "來 同"
             },
             {
               "chord": "G",
@@ -112,7 +112,7 @@
             },
             {
               "chord": "C7",
-              "text": "稣，"
+              "text": "穌，"
             }
           ]
         },
@@ -120,19 +120,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "这 喜"
+              "text": "這 喜"
             },
             {
               "chord": "F",
-              "text": "乐 地"
+              "text": "樂 地"
             },
             {
               "chord": "",
-              "text": "上 无"
+              "text": "上 無"
             },
             {
               "chord": "C",
-              "text": "双；"
+              "text": "雙；"
             }
           ]
         },
@@ -144,7 +144,7 @@
             },
             {
               "chord": "Am",
-              "text": "要 进"
+              "text": "要 進"
             },
             {
               "chord": "F",
@@ -152,7 +152,7 @@
             },
             {
               "chord": "C",
-              "text": "里"
+              "text": "裡"
             },
             {
               "chord": "A7",
@@ -403,10 +403,11 @@
     "category": "享受基督",
     "time": "3/4",
     "hymn_code": "53321353146165",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0231_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/6231",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/6231",
+        "language": "en",
         "category": "h",
         "number": "6231",
         "title": "E6231"
@@ -414,13 +415,13 @@
     ]
   },
   "raw_sections": [
-    "每 当我喊 主耶稣，",
-    "我 深处 总觉 发烫；",
+    "每 當我喊 主耶穌，",
+    "我 深處 總覺 發燙；",
     "祂 生命 冉冉 而升上，",
-    "在我 里面 成长。",
-    "请来 同喊 主耶稣，",
-    "这 喜乐 地上 无双；",
-    "主 且要 进入 你里面，",
+    "在我 裡面 成長。",
+    "請來 同喊 主耶穌，",
+    "這 喜樂 地上 無雙；",
+    "主 且要 進入 你裡面，",
     "作你 生命供 你享。",
     "请来同喊主耶稣，",
     "祂必使你得释放─",

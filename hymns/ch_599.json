@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "召 会"
+              "text": "召 會"
             },
             {
               "chord": "",
-              "text": "的 种 子，"
+              "text": "的 種 子，"
             }
           ]
         },
@@ -52,7 +52,7 @@
             },
             {
               "chord": "A",
-              "text": "里，"
+              "text": "裡，"
             }
           ]
         },
@@ -60,11 +60,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "要 长"
+              "text": "要 長"
             },
             {
               "chord": "",
-              "text": "成 麦 子，"
+              "text": "成 麥 子，"
             }
           ]
         },
@@ -72,11 +72,11 @@
           "segments": [
             {
               "chord": "B7",
-              "text": "细 面"
+              "text": "細 麵"
             },
             {
               "chord": "",
-              "text": "能 产"
+              "text": "能 產"
             },
             {
               "chord": "Em",
@@ -104,7 +104,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "神 与 人"
+              "text": "神 與 人"
             },
             {
               "chord": "A",
@@ -112,7 +112,7 @@
             },
             {
               "chord": "A7",
-              "text": "满"
+              "text": "滿"
             },
             {
               "chord": "D",
@@ -689,10 +689,11 @@
     "category": "召会",
     "time": "2/2",
     "hymn_code": "3423355645",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0599_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/829",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/829",
+        "language": "en",
         "category": "h",
         "number": "829",
         "title": "E829"
@@ -700,14 +701,14 @@
     ]
   },
   "raw_sections": [
-    "召 会的 种 子，",
+    "召 會的 種 子，",
     "乃 基 督 自 己",
     "作 生命子 粒，",
-    "撒 在人 心里，",
-    "要 长成 麦 子，",
-    "细 面能 产出，",
+    "撒 在人 心裡，",
+    "要 長成 麥 子，",
+    "細 麵能 產出，",
     "作 食物使",
-    "神 与 人得满足。",
+    "神 與 人得滿足。",
     "但魔鬼却来，",
     "把虚假信徒",
     "撒在圣徒中，",

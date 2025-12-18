@@ -12,7 +12,7 @@
             },
             {
               "chord": "G",
-              "text": "耶 稣，"
+              "text": "耶 穌，"
             }
           ]
         },
@@ -28,7 +28,7 @@
             },
             {
               "chord": "",
-              "text": "宝 贵"
+              "text": "寶 貴"
             }
           ]
         },
@@ -36,15 +36,15 @@
           "segments": [
             {
               "chord": "G",
-              "text": "圣 名，"
+              "text": "聖 名，"
             },
             {
               "chord": "C",
-              "text": "丰 美、"
+              "text": "豐 美、"
             },
             {
               "chord": "D",
-              "text": "真 实！"
+              "text": "真 實！"
             },
             {
               "chord": "",
@@ -380,7 +380,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "解我饥渴，苏我困惫，"
+              "text": "解我饥渴，甦我困惫，"
             }
           ]
         },
@@ -591,10 +591,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "5511712212332122",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0061_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/78",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/78",
+        "language": "en",
         "category": "h",
         "number": "78",
         "title": "E78"
@@ -602,9 +603,9 @@
     ]
   },
   "raw_sections": [
-    "恩 主耶 稣，",
-    "你 名『我 是，』宝 贵",
-    "圣 名，丰 美、真 实！我 所",
+    "恩 主耶 穌，",
+    "你 名『我 是，』寶 貴",
+    "聖 名，豐 美、真 實！我 所",
     "需 要全 都在 此－全 在",
     "你所是！",
     "你是圣子、又是圣父，",
@@ -637,7 +638,7 @@
     "使我占上风。",
     "你是灵粮、你是活水，",
     "为作供应，甘愿降卑，",
-    "解我饥渴，苏我困惫，",
+    "解我饥渴，甦我困惫，",
     "作了我美味。",
     "你是牧人、你是医生，",
     "为我舍命，医我疾病，",

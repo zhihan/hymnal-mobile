@@ -619,10 +619,11 @@
     "category": "Consecration",
     "time": "4/4",
     "hymn_code": "3435234123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0456_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/342",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/342",
+        "language": "cn",
         "category": "ch",
         "number": "342",
         "title": "C342"

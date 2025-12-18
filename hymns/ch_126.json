@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "爱 为"
+              "text": "愛 為"
             },
             {
               "chord": "Em",
@@ -32,15 +32,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "这"
+              "text": "這"
             },
             {
               "chord": "G",
-              "text": "挚！ 这"
+              "text": "摯！ 這"
             },
             {
               "chord": "",
-              "text": "宽！ 这"
+              "text": "寬！ 這"
             },
             {
               "chord": "D",
@@ -96,7 +96,7 @@
             },
             {
               "chord": "D",
-              "text": "全 归"
+              "text": "全 歸"
             },
             {
               "chord": "G",
@@ -341,10 +341,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "535117143223",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0126_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/153",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/153",
+        "language": "en",
         "category": "h",
         "number": "153",
         "title": "E153"
@@ -352,10 +353,10 @@
     ]
   },
   "raw_sections": [
-    "我 的救主， 你爱 为何",
-    "这挚！ 这宽！ 这博！",
+    "我 的救主， 你愛 為何",
+    "這摯！ 這寬！ 這博！",
     "不然，我心、我命、 我力，",
-    "那肯完全 归你！",
+    "那肯完全 歸你！",
     "我们爱你，因你自己",
     "上下千秋无匹；",
     "我们爱你，因你忍受",

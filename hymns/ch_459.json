@@ -24,7 +24,7 @@
             },
             {
               "chord": "G",
-              "text": "越 亲"
+              "text": "越 親"
             },
             {
               "chord": "D",
@@ -36,15 +36,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "外 无 十"
+              "text": "外 無 十"
             },
             {
               "chord": "Em",
-              "text": "架， 内"
+              "text": "架， 內"
             },
             {
               "chord": "D",
-              "text": "即 无"
+              "text": "即 無"
             },
             {
               "chord": "A7",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "G",
-              "text": "被 践"
+              "text": "被 踐"
             },
             {
               "chord": "D",
@@ -96,7 +96,7 @@
             },
             {
               "chord": "D",
-              "text": "负"
+              "text": "負"
             },
             {
               "chord": "A7",
@@ -124,7 +124,7 @@
             },
             {
               "chord": "D",
-              "text": "于"
+              "text": "於"
             },
             {
               "chord": "A",
@@ -148,11 +148,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "虽"
+              "text": "雖"
             },
             {
               "chord": "G",
-              "text": "受 损"
+              "text": "受 損"
             },
             {
               "chord": "D",
@@ -164,7 +164,7 @@
             },
             {
               "chord": "A7",
-              "text": "欢"
+              "text": "歡"
             },
             {
               "chord": "D",
@@ -289,10 +289,11 @@
     "category": "十字架的道路",
     "time": "3/4",
     "hymn_code": "5535511765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0459_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/624",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/624",
+        "language": "en",
         "category": "h",
         "number": "624",
         "title": "E624"
@@ -300,12 +301,12 @@
     ]
   },
   "raw_sections": [
-    "十架越重， 神越 亲近；",
-    "外 无 十架， 内即 无神！",
-    "黑暗君王 必被 践踏，",
-    "如果 我肯 背负十架。",
-    "神所置于十架之人，",
-    "虽受 损失， 也是欢欣。",
+    "十架越重， 神越 親近；",
+    "外 無 十架， 內即 無神！",
+    "黑暗君王 必被 踐踏，",
+    "如果 我肯 背負十架。",
+    "神所置於十架之人，",
+    "雖受 損失， 也是歡欣。",
     "十架越重，圣徒越佳，",
     "这是神的试金估价。",
     "若无眼睛流泪浇灌，",

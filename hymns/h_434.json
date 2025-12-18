@@ -253,10 +253,11 @@
     "category": "Consecration",
     "time": "4/4",
     "hymn_code": "15171231",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0434_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/430",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/430",
+        "language": "cn",
         "category": "ts",
         "number": "430",
         "title": "Cs430"

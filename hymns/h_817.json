@@ -465,10 +465,11 @@
     "category": "Study of the Word",
     "time": "4/4",
     "hymn_code": "13516543325665",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0817_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/470",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/470",
+        "language": "cn",
         "category": "ts",
         "number": "470",
         "title": "Cs470"

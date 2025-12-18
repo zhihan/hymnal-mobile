@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "你 这"
+              "text": "你 這"
             },
             {
               "chord": "",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "G",
-              "text": "静』 隐"
+              "text": "靜』 隱"
             },
             {
               "chord": "D",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "G",
-              "text": "你 这"
+              "text": "你 這"
             }
           ]
         },
@@ -44,7 +44,7 @@
             },
             {
               "chord": "D",
-              "text": "圣"
+              "text": "聖"
             },
             {
               "chord": "Bm",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "A",
-              "text": "爱；"
+              "text": "愛；"
             },
             {
               "chord": "D",
@@ -68,7 +68,7 @@
           "segments": [
             {
               "chord": "B",
-              "text": "帮"
+              "text": "幫"
             },
             {
               "chord": "Em",
@@ -116,7 +116,7 @@
             },
             {
               "chord": "A",
-              "text": "我 从"
+              "text": "我 從"
             }
           ]
         },
@@ -128,7 +128,7 @@
             },
             {
               "chord": "D",
-              "text": "切 忧"
+              "text": "切 憂"
             },
             {
               "chord": "A",
@@ -136,11 +136,11 @@
             },
             {
               "chord": "D",
-              "text": "缠，"
+              "text": "纏，"
             },
             {
               "chord": "G",
-              "text": "前 来"
+              "text": "前 來"
             }
           ]
         },
@@ -160,7 +160,7 @@
             },
             {
               "chord": "A7",
-              "text": "里"
+              "text": "裡"
             },
             {
               "chord": "D",
@@ -339,10 +339,11 @@
     "category": "经历基督",
     "time": "3/4",
     "hymn_code": "123542123436511712",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0391_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/532",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/532",
+        "language": "en",
         "category": "h",
         "number": "532",
         "title": "E532"
@@ -350,12 +351,12 @@
     ]
   },
   "raw_sections": [
-    "你 这『恬静』 隐密之源，你 这",
-    "神圣全足 的爱；是 我",
-    "帮助， 是我 靠山，我 的",
-    "安全是你同在；我 从",
-    "一切 忧困、 罪缠，前 来",
-    "藏身 在你里面。",
+    "你 這『恬靜』 隱密之源，你 這",
+    "神聖全足 的愛；是 我",
+    "幫助， 是我 靠山，我 的",
+    "安全是你同在；我 從",
+    "一切 憂困、 罪纏，前 來",
+    "藏身 在你裡面。",
     "你是我的一切需要，",
     "劳中之息，苦中之逸；",
     "你是敷我伤心之膏，",

@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "误 事， 因"
+              "text": "誤 事， 因"
             },
             {
               "chord": "E",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "",
-              "text": "误"
+              "text": "誤"
             },
             {
               "chord": "A",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "E",
-              "text": "乐"
+              "text": "樂"
             },
             {
               "chord": "B7",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "",
-              "text": "误 事， 祂"
+              "text": "誤 事， 祂"
             },
             {
               "chord": "E",
@@ -72,11 +72,11 @@
             },
             {
               "chord": "E7",
-              "text": "许"
+              "text": "許"
             },
             {
               "chord": "A",
-              "text": "过！"
+              "text": "過！"
             }
           ]
         },
@@ -84,7 +84,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "A",
-              "text": "神， 还"
+              "text": "神， 還"
             },
             {
               "chord": "E",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "E7",
-              "text": "谁"
+              "text": "誰"
             },
             {
               "chord": "A",
@@ -383,10 +383,11 @@
     "category": "试炼中的安慰",
     "time": "2/2",
     "hymn_code": "5345117671",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0506_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/693",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/693",
+        "language": "en",
         "category": "h",
         "number": "693",
         "title": "E693"
@@ -394,10 +395,10 @@
     ]
   },
   "raw_sections": [
-    "祂 不误 事， 因祂是神！",
-    "祂 不误事， 祂乐施恩！",
-    "祂 不误 事， 祂已许过！",
-    "我 们有神， 还怕谁何？",
+    "祂 不誤 事， 因祂是神！",
+    "祂 不誤事， 祂樂施恩！",
+    "祂 不誤 事， 祂已許過！",
+    "我 們有神， 還怕誰何？",
     "有何高山你不能锄？",
     "有何深水你不能渡？",
     "我们的神专门处置",

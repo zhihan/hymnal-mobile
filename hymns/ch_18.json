@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "为 著"
+              "text": "為 著"
             },
             {
               "chord": "G",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "D",
-              "text": "义，"
+              "text": "義，"
             }
           ]
         },
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
@@ -60,15 +60,15 @@
             },
             {
               "chord": "G",
-              "text": "称 我"
+              "text": "稱 我"
             },
             {
               "chord": "A",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "D",
-              "text": "义，"
+              "text": "義，"
             }
           ]
         },
@@ -76,11 +76,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "谁 能"
+              "text": "誰 能"
             },
             {
               "chord": "",
-              "text": "将 我"
+              "text": "將 我"
             },
             {
               "chord": "E7",
@@ -96,7 +96,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 既 公 义， 你 又 信 实，"
+              "text": "你 既 公 義， 你 又 信 實，"
             }
           ]
         },
@@ -108,7 +108,7 @@
             },
             {
               "chord": "",
-              "text": "公 义"
+              "text": "公 義"
             },
             {
               "chord": "E7",
@@ -128,15 +128,15 @@
             },
             {
               "chord": "",
-              "text": "永 无"
+              "text": "永 無"
             },
             {
               "chord": "G",
-              "text": "半 点"
+              "text": "半 點"
             },
             {
               "chord": "D",
-              "text": "不 义，"
+              "text": "不 義，"
             }
           ]
         },
@@ -144,11 +144,11 @@
           "segments": [
             {
               "chord": "A",
-              "text": "谁 能"
+              "text": "誰 能"
             },
             {
               "chord": "D",
-              "text": "转 动"
+              "text": "轉 動"
             },
             {
               "chord": "A",
@@ -156,7 +156,7 @@
             },
             {
               "chord": "A7",
-              "text": "义"
+              "text": "義"
             },
             {
               "chord": "D",
@@ -383,10 +383,11 @@
     "category": "敬拜父",
     "time": "4/4",
     "hymn_code": "12324327165432315",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0018_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/20",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/20",
+        "language": "en",
         "category": "h",
         "number": "20",
         "title": "E20"
@@ -394,14 +395,14 @@
     ]
   },
   "raw_sections": [
-    "父 神，为 著你 的公义，",
-    "我 们俯 伏敬 拜你；",
-    "你 既因 主称 我为义，",
-    "谁 能将 我良 心抑？",
-    "你 既 公 义， 你 又 信 实，",
-    "靠 你公 义我 站立；",
-    "在 你永 无半 点不 义，",
-    "谁 能转 动你义臂？",
+    "父 神，為 著你 的公義，",
+    "我 們俯 伏敬 拜你；",
+    "你 既因 主稱 我為義，",
+    "誰 能將 我良 心抑？",
+    "你 既 公 義， 你 又 信 實，",
+    "靠 你公 義我 站立；",
+    "在 你永 無半 點不 義，",
+    "誰 能轉 動你義臂？",
     "你将我罪已归耶稣，",
     "你的公义将祂诛；",
     "你的律法所有要求，",

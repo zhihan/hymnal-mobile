@@ -20,7 +20,7 @@
             },
             {
               "chord": "",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "A",
@@ -60,11 +60,11 @@
             },
             {
               "chord": "A",
-              "text": "们"
+              "text": "們"
             },
             {
               "chord": "D",
-              "text": "现 在"
+              "text": "現 在"
             },
             {
               "chord": "",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "D",
-              "text": "来"
+              "text": "來"
             },
             {
               "chord": "A7",
@@ -96,7 +96,7 @@
             },
             {
               "chord": "D",
-              "text": "觐；"
+              "text": "覲；"
             }
           ]
         },
@@ -116,7 +116,7 @@
             },
             {
               "chord": "",
-              "text": "赞"
+              "text": "讚"
             },
             {
               "chord": "G",
@@ -140,7 +140,7 @@
             },
             {
               "chord": "Em",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "A7",
@@ -323,10 +323,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "123143321432171",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0123_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/144",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/144",
+        "language": "en",
         "category": "h",
         "number": "144",
         "title": "E144"
@@ -334,12 +335,12 @@
     ]
   },
   "raw_sections": [
-    "神的基 督、荣 耀的 主，",
+    "神的基 督、榮 耀的 主，",
     "你 的心 慈、你恩溥！",
-    "我们现 在全 魂、全 心，",
-    "到 你面 前来朝觐；",
-    "我敬拜 你、赞美你，",
-    "你 的道 路无可比！",
+    "我們現 在全 魂、全 心，",
+    "到 你面 前來朝覲；",
+    "我敬拜 你、讚美你，",
+    "你 的道 路無可比！",
     "受膏的王、一切的主，",
     "进入荣耀得万福！",
     "前曾被人讥笑、厌弃，",

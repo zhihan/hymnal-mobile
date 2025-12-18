@@ -12,7 +12,7 @@
             },
             {
               "chord": "Bm",
-              "text": "是 乐"
+              "text": "是 樂"
             },
             {
               "chord": "Em",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "A7",
-              "text": "乐，"
+              "text": "樂，"
             }
           ]
         },
@@ -36,7 +36,7 @@
             },
             {
               "chord": "A7",
-              "text": "我 干"
+              "text": "我 乾"
             },
             {
               "chord": "D7",
@@ -511,10 +511,11 @@
     "category": "经历基督",
     "time": "4/4",
     "hymn_code": "531324323135543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0393_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8393",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8393",
+        "language": "en",
         "category": "h",
         "number": "8393",
         "title": "E8393"
@@ -522,8 +523,8 @@
     ]
   },
   "raw_sections": [
-    "祂是 乐中 之乐，",
-    "祂已 解我 干渴；",
+    "祂是 樂中 之樂，",
+    "祂已 解我 乾渴；",
     "祂是 歌中 之歌，",
     "祂今 消我 寂寞。",
     "祂是美中之美，",

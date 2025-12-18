@@ -16,15 +16,15 @@
             },
             {
               "chord": "C",
-              "text": "话 如"
+              "text": "話 如"
             },
             {
               "chord": "G",
-              "text": "同 粮"
+              "text": "同 糧"
             },
             {
               "chord": "",
-              "text": "仓，"
+              "text": "倉，"
             }
           ]
         },
@@ -36,7 +36,7 @@
             },
             {
               "chord": "C",
-              "text": "应 充"
+              "text": "應 充"
             },
             {
               "chord": "D7",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "G",
-              "text": "饥 饿"
+              "text": "飢 餓"
             },
             {
               "chord": "D7",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "G",
-              "text": "可 来"
+              "text": "可 來"
             },
             {
               "chord": "",
@@ -76,19 +76,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "荣"
+              "text": "榮"
             },
             {
               "chord": "D",
-              "text": "耀， 丰"
+              "text": "耀， 豐"
             },
             {
               "chord": "A7",
-              "text": "富 饱"
+              "text": "富 飽"
             },
             {
               "chord": "D",
-              "text": "尝。"
+              "text": "嘗。"
             }
           ]
         },
@@ -100,7 +100,7 @@
             },
             {
               "chord": "D7",
-              "text": "话 又"
+              "text": "話 又"
             },
             {
               "chord": "G",
@@ -108,11 +108,11 @@
             },
             {
               "chord": "D",
-              "text": "处 宝"
+              "text": "處 寶"
             },
             {
               "chord": "G",
-              "text": "矿，"
+              "text": "礦，"
             }
           ]
         },
@@ -128,7 +128,7 @@
             },
             {
               "chord": "A7",
-              "text": "物 尽"
+              "text": "物 盡"
             },
             {
               "chord": "D7",
@@ -144,11 +144,11 @@
             },
             {
               "chord": "G",
-              "text": "寻 求"
+              "text": "尋 求"
             },
             {
               "chord": "C",
-              "text": "者 来"
+              "text": "者 來"
             },
             {
               "chord": "G",
@@ -172,7 +172,7 @@
             },
             {
               "chord": "D7",
-              "text": "宝 无"
+              "text": "寶 無"
             },
             {
               "chord": "G",
@@ -399,10 +399,11 @@
     "category": "追求与长进",
     "time": "4/4",
     "hymn_code": "51176565562171",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0437_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/804",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/804",
+        "language": "en",
         "category": "h",
         "number": "804",
         "title": "E804"
@@ -410,14 +411,14 @@
     ]
   },
   "raw_sections": [
-    "哦 主，你话 如同 粮仓，",
-    "供应 充足、 多方；",
-    "凡饥 饿者 都可 来此",
-    "荣耀， 丰富 饱尝。",
-    "你话 又如 深处 宝矿，",
-    "稀有 珍物 尽藏；",
-    "凡寻 求者 来此 挖掘，",
-    "必得 至宝 无上。",
+    "哦 主，你話 如同 糧倉，",
+    "供應 充足、 多方；",
+    "凡飢 餓者 都可 來此",
+    "榮耀， 豐富 飽嘗。",
+    "你話 又如 深處 寶礦，",
+    "稀有 珍物 盡藏；",
+    "凡尋 求者 來此 挖掘，",
+    "必得 至寶 無上。",
     "你话犹如众星发亮，",
     "光芒四射辉煌；",
     "天程旅客在此光中",

@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/8710",
+  "url": "https://www.hymnal.net/en/hymn/h/8710",
   "title": "Knocking, knocking, who is there?",
   "verses": [
     {
@@ -102,7 +102,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Knocking, knocking, still He's there,"
+              "text": "Knocking, knocking, still He’s there,"
             }
           ]
         },
@@ -188,7 +188,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "And beneath the thorn-wreath'd hair"
+              "text": "And beneath the thorn-wreath’d hair"
             }
           ]
         },
@@ -225,6 +225,7 @@
     "category": "Gospel",
     "time": "4/4",
     "hymn_code": "3333543222243212323453",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e8710_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ch/710",
@@ -242,7 +243,7 @@
     "Never such was seen before;",
     "Ah! mysoul, for such a wonder",
     "Wilt thounot undo thedoor?",
-    "Knocking, knocking, still He's there,",
+    "Knocking, knocking, still He’s there,",
     "Waiting, waiting, wondrous fair;",
     "But the door is hard to open,",
     "For the weeds and ivy vine",
@@ -252,7 +253,7 @@
     "Knocking, knocking what! still there?",
     "Waiting, waiting, grand and fair;",
     "Yea, the wounded hand still knocketh,",
-    "And beneath the thorn-wreath'd hair",
+    "And beneath the thorn-wreath’d hair",
     "Beam the patient eyes, so tender,",
     "Of thy Savior waiting there;",
     "Wilt thou keep him waiting there?"

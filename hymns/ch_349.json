@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "A",
-              "text": "众 人"
+              "text": "眾 人"
             },
             {
               "chord": "E",
-              "text": "涌 进"
+              "text": "湧 進"
             },
             {
               "chord": "A",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "",
-              "text": "国 度，"
+              "text": "國 度，"
             }
           ]
         },
@@ -36,7 +36,7 @@
             },
             {
               "chord": "E7",
-              "text": "负；"
+              "text": "負；"
             }
           ]
         },
@@ -44,11 +44,11 @@
           "segments": [
             {
               "chord": "A",
-              "text": "众 人"
+              "text": "眾 人"
             },
             {
               "chord": "E",
-              "text": "争 夺"
+              "text": "爭 奪"
             },
             {
               "chord": "F♯m",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "A",
-              "text": "赏 赐，"
+              "text": "賞 賜，"
             }
           ]
         },
@@ -68,11 +68,11 @@
             },
             {
               "chord": "B",
-              "text": "有 谁"
+              "text": "有 誰"
             },
             {
               "chord": "E",
-              "text": "辞？"
+              "text": "辭？"
             }
           ]
         },
@@ -80,11 +80,11 @@
           "segments": [
             {
               "chord": "E7",
-              "text": "人 虽"
+              "text": "人 雖"
             },
             {
               "chord": "",
-              "text": "无 心"
+              "text": "無 心"
             },
             {
               "chord": "A",
@@ -116,11 +116,11 @@
           "segments": [
             {
               "chord": "A",
-              "text": "人 虽"
+              "text": "人 雖"
             },
             {
               "chord": "E",
-              "text": "无 心"
+              "text": "無 心"
             },
             {
               "chord": "F♯m",
@@ -373,10 +373,11 @@
     "category": "奉献",
     "time": "6/8",
     "hymn_code": "55535123161765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0349_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/472",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/472",
+        "language": "en",
         "category": "h",
         "number": "472",
         "title": "E472"
@@ -384,13 +385,13 @@
     ]
   },
   "raw_sections": [
-    "众 人涌 进主 的国 度，",
-    "十 架少 人负；",
-    "众 人争 夺主 的赏 赐，",
-    "世 界有 谁辞？",
-    "人 虽无 心走 主道 路，",
+    "眾 人湧 進主 的國 度，",
+    "十 架少 人負；",
+    "眾 人爭 奪主 的賞 賜，",
+    "世 界有 誰辭？",
+    "人 雖無 心走 主道 路，",
     "仍 想主 祝福！",
-    "人 虽无 心走 主道 路，",
+    "人 雖無 心走 主道 路，",
     "仍 想主 祝福！",
     "众人都慕得主荣耀，",
     "羞辱少人要；",

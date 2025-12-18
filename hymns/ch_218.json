@@ -16,11 +16,11 @@
             },
             {
               "chord": "C",
-              "text": "宝 血"
+              "text": "寶 血"
             },
             {
               "chord": "G",
-              "text": "洗 净，"
+              "text": "洗 淨，"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "充 满"
+              "text": "充 滿"
             },
             {
               "chord": "D",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "D7",
-              "text": "乐；"
+              "text": "樂；"
             }
           ]
         },
@@ -56,7 +56,7 @@
             },
             {
               "chord": "C",
-              "text": "永 远"
+              "text": "永 遠"
             },
             {
               "chord": "G",
@@ -68,7 +68,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "成 为"
+              "text": "成 為"
             },
             {
               "chord": "D",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "D7",
-              "text": "的 运"
+              "text": "的 運"
             },
             {
               "chord": "G",
@@ -94,7 +94,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 愿"
+              "text": "我 願"
             },
             {
               "chord": "D",
@@ -106,7 +106,7 @@
             },
             {
               "chord": "G",
-              "text": "运 河，"
+              "text": "運 河，"
             }
           ]
         },
@@ -114,7 +114,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "充 满"
+              "text": "充 滿"
             },
             {
               "chord": "C",
@@ -122,11 +122,11 @@
             },
             {
               "chord": "",
-              "text": "的 圣"
+              "text": "的 聖"
             },
             {
               "chord": "G",
-              "text": "灵，"
+              "text": "靈，"
             }
           ]
         },
@@ -134,7 +134,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "灌 输"
+              "text": "灌 輸"
             },
             {
               "chord": "D",
@@ -146,7 +146,7 @@
             },
             {
               "chord": "G",
-              "text": "干 渴，"
+              "text": "乾 渴，"
             }
           ]
         },
@@ -154,7 +154,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "涌 流"
+              "text": "湧 流"
             },
             {
               "chord": "C",
@@ -162,7 +162,7 @@
             },
             {
               "chord": "D7",
-              "text": "无 止"
+              "text": "無 止"
             },
             {
               "chord": "G",
@@ -403,10 +403,11 @@
     "category": "圣灵的丰满",
     "time": "3/4",
     "hymn_code": "513161655171232",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0218_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/268",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/268",
+        "language": "en",
         "category": "h",
         "number": "268",
         "title": "E268"
@@ -414,14 +415,14 @@
     ]
   },
   "raw_sections": [
-    "我 已得 蒙宝 血洗 净，",
-    "充 满天 上的 喜乐；",
-    "我 已得 著永 远生 命，",
-    "成 为活 水的 运河。",
-    "我 愿作 主活 水运 河，",
-    "充 满生 命的 圣灵，",
-    "灌 输生 命，解 人干 渴，",
-    "涌 流活 水无 止境。",
+    "我 已得 蒙寶 血洗 淨，",
+    "充 滿天 上的 喜樂；",
+    "我 已得 著永 遠生 命，",
+    "成 為活 水的 運河。",
+    "我 願作 主活 水運 河，",
+    "充 滿生 命的 聖靈，",
+    "灌 輸生 命，解 人乾 渴，",
+    "湧 流活 水無 止境。",
     "奇妙救恩，甜美、丰盛，",
     "满足我心如我意；",
     "我愿天天作此见证，",

@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "四 围"
+              "text": "四 圍"
             },
             {
               "chord": "",
-              "text": "墙 垣 坚 而 固，"
+              "text": "牆 垣 堅 而 固，"
             }
           ]
         },
@@ -20,11 +20,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "终"
+              "text": "終"
             },
             {
               "chord": "G",
-              "text": "日 将"
+              "text": "日 將"
             },
             {
               "chord": "D",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "G",
-              "text": "闭；"
+              "text": "閉；"
             }
           ]
         },
@@ -48,11 +48,11 @@
             },
             {
               "chord": "D",
-              "text": "那 关"
+              "text": "那 關"
             },
             {
               "chord": "A",
-              "text": "闭 我"
+              "text": "閉 我"
             },
             {
               "chord": "Bm",
@@ -76,11 +76,11 @@
             },
             {
               "chord": "E7",
-              "text": "神 远"
+              "text": "神 遠"
             },
             {
               "chord": "A",
-              "text": "离："
+              "text": "離："
             }
           ]
         },
@@ -88,11 +88,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "监"
+              "text": "監"
             },
             {
               "chord": "G",
-              "text": "牢 墙"
+              "text": "牢 牆"
             },
             {
               "chord": "A7",
@@ -100,11 +100,11 @@
             },
             {
               "chord": "D",
-              "text": "变 可"
+              "text": "變 可"
             },
             {
               "chord": "Bm",
-              "text": "爱，"
+              "text": "愛，"
             }
           ]
         },
@@ -116,7 +116,7 @@
             },
             {
               "chord": "Em",
-              "text": "为 我"
+              "text": "為 我"
             },
             {
               "chord": "",
@@ -303,10 +303,11 @@
     "category": "试炼中的安慰",
     "time": "6/4",
     "hymn_code": "133335433326123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0525_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/725",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/725",
+        "language": "en",
         "category": "h",
         "number": "725",
         "title": "E725"
@@ -314,12 +315,12 @@
     ]
   },
   "raw_sections": [
-    "四 围墙 垣 坚 而 固，",
-    "终日 将我禁闭；",
-    "但那 关闭 我的人，",
-    "不能 使神 远离：",
-    "监牢 墙垣 全变 可爱，",
-    "因为 我神 在此 同在。",
+    "四 圍牆 垣 堅 而 固，",
+    "終日 將我禁閉；",
+    "但那 關閉 我的人，",
+    "不能 使神 遠離：",
+    "監牢 牆垣 全變 可愛，",
+    "因為 我神 在此 同在。",
     "关闭我者都知道，",
     "甚难使我孤单；",
     "但是他们却不知",

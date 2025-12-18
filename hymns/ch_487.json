@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "灵 要"
+              "text": "靈 要"
             },
             {
               "chord": "A",
-              "text": "操 练"
+              "text": "操 練"
             },
             {
               "chord": "D",
-              "text": "运 用，"
+              "text": "運 用，"
             }
           ]
         },
@@ -24,7 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "魂 却"
+              "text": "魂 卻"
             },
             {
               "chord": "E7",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "A",
-              "text": "绝；"
+              "text": "絕；"
             }
           ]
         },
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "无 论"
+              "text": "無 論"
             },
             {
               "chord": "",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "G",
-              "text": "行 动，"
+              "text": "行 動，"
             }
           ]
         },
@@ -60,11 +60,11 @@
             },
             {
               "chord": "A7",
-              "text": "为 秘"
+              "text": "為 祕"
             },
             {
               "chord": "D",
-              "text": "诀。"
+              "text": "訣。"
             }
           ]
         }
@@ -305,10 +305,11 @@
     "category": "鼓励",
     "time": "4/4",
     "hymn_code": "11265333445",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0487_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8487",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8487",
+        "language": "en",
         "category": "h",
         "number": "8487",
         "title": "E8487"
@@ -316,10 +317,10 @@
     ]
   },
   "raw_sections": [
-    "灵 要操 练运 用，",
-    "魂 却要 拒绝；",
-    "无 论生 活行 动，",
-    "以 此为 秘诀。",
+    "靈 要操 練運 用，",
+    "魂 卻要 拒絕；",
+    "無 論生 活行 動，",
+    "以 此為 祕訣。",
     "灵要操练运用，",
     "规条要弃绝；",
     "恩膏涂抹顺从，",

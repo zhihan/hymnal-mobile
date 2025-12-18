@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "",
-              "text": "归"
+              "text": "歸"
             },
             {
               "chord": "A",
-              "text": "于 我"
+              "text": "於 我"
             },
             {
               "chord": "D",
@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "天 地 齐"
+              "text": "天 地 齊"
             },
             {
               "chord": "G",
-              "text": "来 欢"
+              "text": "來 歡"
             },
             {
               "chord": "A",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "",
-              "text": "赞"
+              "text": "讚"
             },
             {
               "chord": "A",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "",
-              "text": "爱，"
+              "text": "愛，"
             }
           ]
         },
@@ -96,7 +96,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "高 唱 直 到 万 代，"
+              "text": "高 唱 直 到 萬 代，"
             }
           ]
         },
@@ -311,10 +311,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "531217112345432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0147_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/179",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/179",
+        "language": "en",
         "category": "h",
         "number": "179",
         "title": "E179"
@@ -322,12 +323,12 @@
     ]
   },
   "raw_sections": [
-    "荣 耀归于 我主，",
-    "天 地 齐来 欢呼，",
-    "向 祂赞美；",
-    "祂 的 恩典、 慈爱，",
+    "榮 耀歸於 我主，",
+    "天 地 齊來 歡呼，",
+    "向 祂讚美；",
+    "祂 的 恩典、 慈愛，",
     "除 我死亡、 悲哀；",
-    "高 唱 直 到 万 代，",
+    "高 唱 直 到 萬 代，",
     "『羔 羊是配。』",
     "蒙恩人们都来，",
     "环绕宝座敬拜，",

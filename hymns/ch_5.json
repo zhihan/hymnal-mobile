@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "赞 美"
+              "text": "讚 美"
             },
             {
               "chord": "",
@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "赞 美 子 将 救"
+              "text": "讚 美 子 將 救"
             },
             {
               "chord": "C",
-              "text": "赎 成"
+              "text": "贖 成"
             },
             {
               "chord": "D",
@@ -44,15 +44,15 @@
           "segments": [
             {
               "chord": "G",
-              "text": "赞"
+              "text": "讚"
             },
             {
               "chord": "D",
-              "text": "美 灵"
+              "text": "美 靈"
             },
             {
               "chord": "",
-              "text": "来 实 施、 运"
+              "text": "來 實 施、 運"
             },
             {
               "chord": "G",
@@ -64,19 +64,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "赞 美 圣"
+              "text": "讚 美 聖"
             },
             {
               "chord": "D",
-              "text": "父、 圣"
+              "text": "父、 聖"
             },
             {
               "chord": "D7",
-              "text": "子、 圣"
+              "text": "子、 聖"
             },
             {
               "chord": "G",
-              "text": "灵！"
+              "text": "靈！"
             }
           ]
         }
@@ -127,10 +127,11 @@
     "category": "颂赞三一神",
     "time": "4/4",
     "hymn_code": "1176512333321432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0005_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8",
+        "language": "en",
         "category": "h",
         "number": "8",
         "title": "E8"
@@ -138,10 +139,10 @@
     ]
   },
   "raw_sections": [
-    "赞 美父 乃 祝福 之源，",
-    "赞 美 子 将 救赎 成全，",
-    "赞美 灵来 实 施、 运行，",
-    "赞 美 圣父、 圣子、 圣灵！",
+    "讚 美父 乃 祝福 之源，",
+    "讚 美 子 將 救贖 成全，",
+    "讚美 靈來 實 施、 運行，",
+    "讚 美 聖父、 聖子、 聖靈！",
     "赞美父是永活源头，",
     "赞美子作生命涌流，",
     "赞美灵已流入我心，",

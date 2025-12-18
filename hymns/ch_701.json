@@ -16,7 +16,7 @@
             },
             {
               "chord": "A",
-              "text": "劳 碌，"
+              "text": "勞 碌，"
             },
             {
               "chord": "",
@@ -36,15 +36,15 @@
             },
             {
               "chord": "A",
-              "text": "人 厌，"
+              "text": "人 厭，"
             },
             {
               "chord": "A7",
-              "text": "万 事"
+              "text": "萬 事"
             },
             {
               "chord": "",
-              "text": "无 新"
+              "text": "無 新"
             },
             {
               "chord": "D",
@@ -60,15 +60,15 @@
             },
             {
               "chord": "G",
-              "text": "过 去，"
+              "text": "過 去，"
             },
             {
               "chord": "",
-              "text": "无 人 再 记"
+              "text": "無 人 再 記"
             },
             {
               "chord": "D",
-              "text": "忆！"
+              "text": "憶！"
             }
           ]
         },
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "虚"
+              "text": "虛"
             },
             {
               "chord": "A",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "A7",
-              "text": "的 虚"
+              "text": "的 虛"
             },
             {
               "chord": "D",
@@ -146,7 +146,7 @@
             },
             {
               "chord": "",
-              "text": "虚"
+              "text": "虛"
             },
             {
               "chord": "D",
@@ -170,7 +170,7 @@
             },
             {
               "chord": "D",
-              "text": "风。"
+              "text": "風。"
             }
           ]
         }
@@ -371,10 +371,11 @@
     "category": "福音",
     "time": "4/4",
     "hymn_code": "12333323135554243",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0701_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1080",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1080",
+        "language": "en",
         "category": "h",
         "number": "1080",
         "title": "E1080"
@@ -382,14 +383,14 @@
     ]
   },
   "raw_sections": [
-    "日 光下劳 碌，有 何益？",
-    "令人 厌，万 事无 新奇！",
-    "一过 去，无 人 再 记忆！",
-    "虚空的 虚空！",
+    "日 光下勞 碌，有 何益？",
+    "令人 厭，萬 事無 新奇！",
+    "一過 去，無 人 再 記憶！",
+    "虛空的 虛空！",
     "空 空 空！空 空空！",
     "空 空空！空 空空！",
-    "凡事 都虚空，",
-    "如 捉影，如 捕风。",
+    "凡事 都虛空，",
+    "如 捉影，如 捕風。",
     "人生的经验是苦难：",
     "多有了智慧，多愁烦！",
     "增加了知识，增悲叹！",

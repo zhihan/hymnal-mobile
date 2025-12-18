@@ -8,6 +8,68 @@
           "segments": [
             {
               "chord": "",
+              "text": "Brothers’ part:"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Whom have I in heaven but Thee?"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And there’s none upon the earth that I"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "desire beside Thee."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Whom have I in heaven but Thee?"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And there’s none upon the earth that I"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "desire beside Thee."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
               "text": "My flesh and my heart faileth."
             }
           ]
@@ -355,9 +417,17 @@
   ],
   "metadata": {
     "category": "Scriptures for Singing",
-    "time": "4/4"
+    "time": "4/4",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/LongBeach/midi/tunes/lb25_tune.midi"
   },
   "raw_sections": [
+    "Brothers’ part:",
+    "Whom have I in heaven but Thee?",
+    "And there’s none upon the earth that I",
+    "desire beside Thee.",
+    "Whom have I in heaven but Thee?",
+    "And there’s none upon the earth that I",
+    "desire beside Thee.",
     "My flesh and my heart faileth.",
     "But God is the strength of my heart",
     "And my portion forever.",

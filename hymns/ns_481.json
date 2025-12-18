@@ -7,32 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "We have"
-            },
-            {
               "chord": "",
-              "text": "not one"
-            },
-            {
-              "chord": "Bm",
-              "text": "regret"
-            },
-            {
-              "chord": "",
-              "text": "for"
-            },
-            {
-              "chord": "Em",
-              "text": "taking"
-            },
-            {
-              "chord": "",
-              "text": "this"
-            },
-            {
-              "chord": "A",
-              "text": "way,"
+              "text": "We have not one regret for taking this way,"
             }
           ]
         },
@@ -40,31 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Not"
-            },
-            {
-              "chord": "D",
-              "text": "a single"
-            },
-            {
-              "chord": "",
-              "text": "re"
-            },
-            {
-              "chord": "Bm",
-              "text": "gret, jour"
-            },
-            {
-              "chord": "Em",
-              "text": "neying"
-            },
-            {
-              "chord": "A7",
-              "text": "this"
-            },
-            {
-              "chord": "D",
-              "text": "day;"
+              "text": "Not a single regret, journeying this day;"
             }
           ]
         },
@@ -72,31 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Rough"
-            },
-            {
-              "chord": "G",
-              "text": "and winding"
-            },
-            {
-              "chord": "",
-              "text": "ter"
-            },
-            {
-              "chord": "A",
-              "text": "rain, rocks"
-            },
-            {
-              "chord": "F♯m",
-              "text": "and thorns"
-            },
-            {
-              "chord": "",
-              "text": "can't dis"
-            },
-            {
-              "chord": "Bm",
-              "text": "suade,"
+              "text": "Rough and winding terrain, rocks and thorns can’t dissuade,"
             }
           ]
         },
@@ -104,35 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Nar"
-            },
-            {
-              "chord": "G",
-              "text": "row gate,"
-            },
-            {
-              "chord": "",
-              "text": "narrow"
-            },
-            {
-              "chord": "Em",
-              "text": "way, the"
-            },
-            {
-              "chord": "",
-              "text": "cross"
-            },
-            {
-              "chord": "G",
-              "text": "'s"
-            },
-            {
-              "chord": "A7",
-              "text": "wounds per"
-            },
-            {
-              "chord": "D",
-              "text": "vade."
+              "text": "Narrow gate, narrow way, the cross’s wounds pervade."
             }
           ]
         }
@@ -145,20 +45,8 @@
         {
           "segments": [
             {
-              "chord": "G",
-              "text": ""
-            },
-            {
-              "chord": "A7",
-              "text": ""
-            },
-            {
-              "chord": "D",
-              "text": "Lord,"
-            },
-            {
               "chord": "",
-              "text": "once"
+              "text": "Without any regret, our all we consecrate;"
             }
           ]
         },
@@ -166,23 +54,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "more I'd give"
-            },
-            {
-              "chord": "G",
-              "text": "myself"
-            },
-            {
-              "chord": "",
-              "text": "unto"
-            },
-            {
-              "chord": "A7",
-              "text": "Thee; Be"
-            },
-            {
-              "chord": "",
-              "text": "the"
+              "text": "Never any regret, our first love we waste."
             }
           ]
         },
@@ -190,31 +62,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "grace and will"
-            },
-            {
-              "chord": "F♯m",
-              "text": "ingness"
-            },
-            {
-              "chord": "",
-              "text": "in"
-            },
-            {
-              "chord": "Bm",
-              "text": "me, Shine"
-            },
-            {
-              "chord": "G",
-              "text": "forth light"
-            },
-            {
-              "chord": "",
-              "text": "and reali"
-            },
-            {
-              "chord": "Em",
-              "text": "ty"
+              "text": "Though constricted the gate, on this way, Lord, You lead;"
             }
           ]
         },
@@ -222,19 +70,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "And on Zi"
-            },
-            {
-              "chord": "G",
-              "text": "on's high"
-            },
-            {
-              "chord": "A7",
-              "text": "ways lead"
-            },
-            {
-              "chord": "",
-              "text": "me."
+              "text": "Rough and narrow the way, companions compass me."
             }
           ]
         }
@@ -404,17 +240,18 @@
   "metadata": {
     "category": "Consecration",
     "time": "4/4",
-    "hymn_code": "3332166123212"
+    "hymn_code": "3332166123212",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0481_tune.midi"
   },
   "raw_sections": [
-    "We havenot oneregretfortakingthisway,",
-    "Nota singleregret, journeyingthisday;",
-    "Roughand windingterrain, rocksand thornscan't dissuade,",
-    "Narrow gate,narrowway, thecross'swounds pervade.",
-    "Lord,once",
-    "more I'd givemyselfuntoThee; Bethe",
-    "grace and willingnessinme, Shineforth lightand reality",
-    "And on Zion's highways leadme.",
+    "We have not one regret for taking this way,",
+    "Not a single regret, journeying this day;",
+    "Rough and winding terrain, rocks and thorns can’t dissuade,",
+    "Narrow gate, narrow way, the cross’s wounds pervade.",
+    "Without any regret, our all we consecrate;",
+    "Never any regret, our first love we waste.",
+    "Though constricted the gate, on this way, Lord, You lead;",
+    "Rough and narrow the way, companions compass me.",
     "Lord, once more I’d give myself unto Thee;",
     "Be the grace and willingness in me,",
     "Shine forth light and reality",

@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D7",
-              "text": "宁 舍"
+              "text": "寧 捨"
             },
             {
               "chord": "",
@@ -36,7 +36,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "因 祂 满"
+              "text": "因 祂 滿"
             },
             {
               "chord": "Am",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "G7",
-              "text": "所 爱"
+              "text": "所 愛"
             },
             {
               "chord": "C",
@@ -72,7 +72,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "何 况 世"
+              "text": "何 況 世"
             },
             {
               "chord": "D",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "D7",
-              "text": "尽 虚"
+              "text": "盡 虛"
             },
             {
               "chord": "G",
@@ -98,7 +98,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "哦， 祂 丰 满"
+              "text": "哦， 祂 豐 滿"
             },
             {
               "chord": "C",
@@ -118,15 +118,15 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "但 这"
+              "text": "但 這"
             },
             {
               "chord": "",
-              "text": "丰"
+              "text": "豐"
             },
             {
               "chord": "Am",
-              "text": "满"
+              "text": "滿"
             },
             {
               "chord": "D7",
@@ -158,7 +158,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "但 这 甘"
+              "text": "但 這 甘"
             },
             {
               "chord": "D",
@@ -166,7 +166,7 @@
             },
             {
               "chord": "D7",
-              "text": "我 尝"
+              "text": "我 嘗"
             },
             {
               "chord": "G",
@@ -407,10 +407,11 @@
     "category": "经历基督",
     "time": "6/8",
     "hymn_code": "5451176554346523",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0437_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1025",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1025",
+        "language": "en",
         "category": "h",
         "number": "1025",
         "title": "E1025"
@@ -418,14 +419,14 @@
     ]
   },
   "raw_sections": [
-    "宁 舍世界而 要基督，",
-    "因 祂 满足我 情衷；",
-    "除 祂 以 外， 何所 爱慕？",
-    "何 况 世福尽 虚空！",
-    "哦， 祂 丰 满我 不能言！",
-    "但 这丰满我 知道；",
+    "寧 捨世界而 要基督，",
+    "因 祂 滿足我 情衷；",
+    "除 祂 以 外， 何所 愛慕？",
+    "何 況 世福盡 虛空！",
+    "哦， 祂 豐 滿我 不能言！",
+    "但 這豐滿我 知道；",
     "哦， 祂 甘 甜 真是 超凡！",
-    "但 这 甘甜我 尝到。",
+    "但 這 甘甜我 嘗到。",
     "宁舍世界而要基督，",
     "有祂我就别无需；",
     "得着世界仍是缺如，",

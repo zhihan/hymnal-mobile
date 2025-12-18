@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/8511",
+  "url": "https://www.hymnal.net/en/hymn/h/8511",
   "title": "The Lord knows all that frustrates thee",
   "verses": [
     {
@@ -216,7 +216,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Since the Lord knows, my heart's at peace!"
+              "text": "Since the Lord knows, my heart’s at peace!"
             }
           ]
         },
@@ -224,7 +224,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Since the Lord knows, my joy's complete!"
+              "text": "Since the Lord knows, my joy’s complete!"
             }
           ]
         },
@@ -232,7 +232,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Since the Lord knows, my rescue's sure!"
+              "text": "Since the Lord knows, my rescue’s sure!"
             }
           ]
         },
@@ -253,6 +253,7 @@
     "category": "Comfort in Trials",
     "time": "3/4",
     "hymn_code": "3335122355545342",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e8511_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ch/511",
@@ -280,9 +281,9 @@
     "All of your sighs on Him outpour.",
     "His heart of love your sorrow knows;",
     "He cares for you and grace bestows.",
-    "Since the Lord knows, my heart's at peace!",
-    "Since the Lord knows, my joy's complete!",
-    "Since the Lord knows, my rescue's sure!",
+    "Since the Lord knows, my heart’s at peace!",
+    "Since the Lord knows, my joy’s complete!",
+    "Since the Lord knows, my rescue’s sure!",
     "Since the Lord knows, I am secure."
   ]
 }

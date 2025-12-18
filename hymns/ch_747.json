@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "G",
-              "text": "国 度"
+              "text": "國 度"
             },
             {
               "chord": "",
-              "text": "要 求， 标"
+              "text": "要 求， 標"
             },
             {
               "chord": "D",
-              "text": "准 严"
+              "text": "準 嚴"
             },
             {
               "chord": "G",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "远"
+              "text": "遠"
             },
             {
               "chord": "C",
@@ -60,11 +60,11 @@
             },
             {
               "chord": "",
-              "text": "求 无"
+              "text": "求 無"
             },
             {
               "chord": "D",
-              "text": "论 大"
+              "text": "論 大"
             },
             {
               "chord": "G",
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "C",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "",
-              "text": "这 高"
+              "text": "這 高"
             },
             {
               "chord": "D",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "D7",
-              "text": "难"
+              "text": "難"
             },
             {
               "chord": "G",
@@ -391,10 +391,11 @@
     "category": "国度",
     "time": "4/4",
     "hymn_code": "533343212356712765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0747_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/943",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/943",
+        "language": "en",
         "category": "h",
         "number": "943",
         "title": "E943"
@@ -402,10 +403,10 @@
     ]
   },
   "raw_sections": [
-    "国 度要 求， 标准 严格，",
-    "远超 律法 所有 要求；",
-    "神的 要求 无论 大小，",
-    "无一 比这 高而难就。",
+    "國 度要 求， 標準 嚴格，",
+    "遠超 律法 所有 要求；",
+    "神的 要求 無論 大小，",
+    "無一 比這 高而難就。",
     "天国近了，",
     "‘应当悔改’，",
     "这是国度首一要求；",

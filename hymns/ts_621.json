@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "让 我"
+              "text": "讓 我"
             },
             {
               "chord": "",
-              "text": "们 同 来 聚 集 擘 饼，"
+              "text": "們 同 來 聚 集 擘 餅，"
             }
           ]
         },
@@ -20,7 +20,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "赞 美"
+              "text": "讚 美"
             },
             {
               "chord": "A",
@@ -32,11 +32,11 @@
             },
             {
               "chord": "",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "D",
-              "text": "成 为"
+              "text": "成 為"
             },
             {
               "chord": "",
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "饱 尝 祂， 众 人 同 心 合 意，"
+              "text": "飽 嘗 祂， 眾 人 同 心 合 意，"
             }
           ]
         },
@@ -60,11 +60,11 @@
             },
             {
               "chord": "A",
-              "text": "召 会，"
+              "text": "召 會，"
             },
             {
               "chord": "A7",
-              "text": "全 归"
+              "text": "全 歸"
             },
             {
               "chord": "",
@@ -86,15 +86,15 @@
           "segments": [
             {
               "chord": "D7",
-              "text": "圣 徒"
+              "text": "聖 徒"
             },
             {
               "chord": "G",
-              "text": "们， 我"
+              "text": "們， 我"
             },
             {
               "chord": "",
-              "text": "们 吃 饼 喝"
+              "text": "們 喫 餅 喝"
             },
             {
               "chord": "D",
@@ -110,11 +110,11 @@
             },
             {
               "chord": "A",
-              "text": "里 我"
+              "text": "裏 我"
             },
             {
               "chord": "A7",
-              "text": "们 是"
+              "text": "們 是"
             },
             {
               "chord": "D",
@@ -126,7 +126,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "吃 喝"
+              "text": "喫 喝"
             },
             {
               "chord": "G",
@@ -146,19 +146,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "见 证 基 督 身"
+              "text": "見 證 基 督 身"
             },
             {
               "chord": "E7",
-              "text": "体 的"
+              "text": "體 的"
             },
             {
               "chord": "",
-              "text": "实"
+              "text": "實"
             },
             {
               "chord": "A",
-              "text": "际。"
+              "text": "際。"
             }
           ]
         }
@@ -433,10 +433,11 @@
     "category": "建造与合一",
     "time": "4/4",
     "hymn_code": "151234531234275123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0621_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1108",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1108",
+        "language": "en",
         "category": "h",
         "number": "1108",
         "title": "E1108"
@@ -444,14 +445,14 @@
     ]
   },
   "raw_sections": [
-    "让 我们 同 来 聚 集 擘 饼，",
-    "赞 美主！ 因祂 使我 们成 为一。",
-    "饱 尝 祂， 众 人 同 心 合 意，",
-    "作 祂召 会，全 归祂 自己。",
-    "圣 徒们， 我们 吃 饼 喝杯；",
-    "在 主里 我们 是一。",
-    "吃 喝享 受，建 造 在 一起；",
-    "见 证 基 督 身体 的实际。",
+    "讓 我們 同 來 聚 集 擘 餅，",
+    "讚 美主！ 因祂 使我 們成 為一。",
+    "飽 嘗 祂， 眾 人 同 心 合 意，",
+    "作 祂召 會，全 歸祂 自己。",
+    "聖 徒們， 我們 喫 餅 喝杯；",
+    "在 主裏 我們 是一。",
+    "喫 喝享 受，建 造 在 一起；",
+    "見 證 基 督 身體 的實際。",
     "让我们同来聚集喝杯─是召会，",
     "宝血所买，珍贵无比；",
     "蒙救赎，众人同心合意，",

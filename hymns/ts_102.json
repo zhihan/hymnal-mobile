@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "时 代 已 转 移，"
+              "text": "時 代 已 轉 移，"
             }
           ]
         },
@@ -20,19 +20,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "随 主"
+              "text": "隨 主"
             },
             {
               "chord": "A",
-              "text": "转 入"
+              "text": "轉 入"
             },
             {
               "chord": "A7",
-              "text": "圣 灵"
+              "text": "聖 靈"
             },
             {
               "chord": "D",
-              "text": "里，"
+              "text": "裡，"
             }
           ]
         },
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "神 宝 座 前 的 七 灵，"
+              "text": "神 寶 座 前 的 七 靈，"
             }
           ]
         },
@@ -78,11 +78,11 @@
             },
             {
               "chord": "G",
-              "text": "七 灵，"
+              "text": "七 靈，"
             },
             {
               "chord": "",
-              "text": "我 恳"
+              "text": "我 懇"
             },
             {
               "chord": "A",
@@ -94,7 +94,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "愿 你"
+              "text": "願 你"
             },
             {
               "chord": "A7",
@@ -114,11 +114,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "将 我 鉴 察 并 焚"
+              "text": "將 我 鑒 察 並 焚"
             },
             {
               "chord": "G",
-              "text": "烧，"
+              "text": "燒，"
             }
           ]
         },
@@ -126,11 +126,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "为 著"
+              "text": "為 著"
             },
             {
               "chord": "D",
-              "text": "召 会"
+              "text": "召 會"
             },
             {
               "chord": "A7",
@@ -146,7 +146,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "鉴"
+              "text": "鑒"
             },
             {
               "chord": "G",
@@ -154,7 +154,7 @@
             },
             {
               "chord": "D",
-              "text": "烧，"
+              "text": "燒，"
             }
           ]
         },
@@ -162,11 +162,11 @@
           "segments": [
             {
               "chord": "A",
-              "text": "为 著"
+              "text": "為 著"
             },
             {
               "chord": "",
-              "text": "召 会"
+              "text": "召 會"
             },
             {
               "chord": "A7",
@@ -641,10 +641,11 @@
     "category": "灵与生命",
     "time": "6/8",
     "hymn_code": "55172133425231",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0102_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1122",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1122",
+        "language": "en",
         "category": "h",
         "number": "1122",
         "title": "E1122"
@@ -652,16 +653,16 @@
     ]
   },
   "raw_sections": [
-    "看 哪，时 代 已 转 移，",
-    "随 主转 入圣 灵里，",
-    "神 宝 座 前 的 七 灵，",
+    "看 哪，時 代 已 轉 移，",
+    "隨 主轉 入聖 靈裡，",
+    "神 寶 座 前 的 七 靈，",
     "奉 差遣 到全 地去。",
-    "哦， 神七 灵，我 恳求，",
-    "愿 你工 作得 成就！",
-    "将 我 鉴 察 并 焚烧，",
-    "为 著召 会的 建造，",
-    "鉴察， 焚烧，",
-    "为 著召 会的 建造。",
+    "哦， 神七 靈，我 懇求，",
+    "願 你工 作得 成就！",
+    "將 我 鑒 察 並 焚燒，",
+    "為 著召 會的 建造，",
+    "鑒察， 焚燒，",
+    "為 著召 會的 建造。",
     "圣灵乃是七倍灵，",
     "应付召会死光景，",
     "圣徒转回得复苏，",

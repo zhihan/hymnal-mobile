@@ -1,6 +1,6 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/6304",
-  "title": "I'm my beloved's sweet",
+  "url": "https://www.hymnal.net/en/hymn/h/6304",
+  "title": "I’m my beloved’s sweet",
   "verses": [
     {
       "lines": [
@@ -122,7 +122,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Let's rise at dawn's first hue,"
+              "text": "Let’s rise at dawn’s first hue,"
             }
           ]
         },
@@ -138,7 +138,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Enjoy together our labor's fruit;"
+              "text": "Enjoy together our labor’s fruit;"
             }
           ]
         },
@@ -192,7 +192,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "These, my Beloved, I've stored up for You;"
+              "text": "These, my Beloved, I’ve stored up for You;"
             }
           ]
         },
@@ -208,7 +208,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "And I'll enjoy You, too;"
+              "text": "And I’ll enjoy You, too;"
             }
           ]
         },
@@ -216,7 +216,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Love's strong as death twixt me and You."
+              "text": "Love’s strong as death twixt me and You."
             }
           ]
         }
@@ -229,6 +229,7 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "1112713333423",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e6304_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ts/304",
@@ -246,17 +247,17 @@
     "In love,together,let's",
     "Lodge in thevillages,",
     "Enjoy thelove twixtYouandme.",
-    "Let's rise at dawn's first hue,",
+    "Let’s rise at dawn’s first hue,",
     "See the vineyards, I and You,",
-    "Enjoy together our labor's fruit;",
+    "Enjoy together our labor’s fruit;",
     "See if the vine has bloomed,",
     "The pomegranates, too;",
     "There I will give my love to You.",
     "Mandrakes with sweet perfume,",
     "Choicest fruits, both old and new,",
-    "These, my Beloved, I've stored up for You;",
+    "These, my Beloved, I’ve stored up for You;",
     "My love belongs to You,",
-    "And I'll enjoy You, too;",
-    "Love's strong as death twixt me and You."
+    "And I’ll enjoy You, too;",
+    "Love’s strong as death twixt me and You."
   ]
 }

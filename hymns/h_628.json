@@ -655,10 +655,11 @@
     "category": "The Way of the Cross",
     "time": "4/4",
     "hymn_code": "556531165131532",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0628_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/469",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/469",
+        "language": "cn",
         "category": "ch",
         "number": "469",
         "title": "C469"

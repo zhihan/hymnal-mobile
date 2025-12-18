@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "在 你 名 里"
+              "text": "在 你 名 裡"
             },
             {
               "chord": "D",
@@ -28,11 +28,11 @@
             },
             {
               "chord": "G",
-              "text": "不 见"
+              "text": "不 見"
             },
             {
               "chord": "A7",
-              "text": "惟 见"
+              "text": "惟 見"
             },
             {
               "chord": "D7",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "C",
-              "text": "欢 喜，"
+              "text": "歡 喜，"
             }
           ]
         },
@@ -68,11 +68,11 @@
             },
             {
               "chord": "",
-              "text": "来"
+              "text": "來"
             },
             {
               "chord": "D7",
-              "text": "归"
+              "text": "歸"
             },
             {
               "chord": "G",
@@ -279,10 +279,11 @@
     "category": "赞美主",
     "time": "2/4",
     "hymn_code": "566551171655676225",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0166_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/204",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/204",
+        "language": "en",
         "category": "h",
         "number": "204",
         "title": "E204"
@@ -290,10 +291,10 @@
     ]
   },
   "raw_sections": [
-    "哦 主，在 你 名 里聚 集，",
-    "任 何不 见惟 见你，",
-    "你 的同 在 使 我欢 喜，",
-    "呼 召我 心来归依。",
+    "哦 主，在 你 名 裡聚 集，",
+    "任 何不 見惟 見你，",
+    "你 的同 在 使 我歡 喜，",
+    "呼 召我 心來歸依。",
     "爱我之爱无知其限，",
     "除了父对你的爱；",
     "父神对你所有意念，",

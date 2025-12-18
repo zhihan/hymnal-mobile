@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "挣 扎，"
+              "text": "掙 扎，"
             },
             {
               "chord": "A",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "归 依，"
+              "text": "歸 依，"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "会 使"
+              "text": "會 使"
             },
             {
               "chord": "G",
@@ -44,11 +44,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "挣 扎"
+              "text": "掙 扎"
             },
             {
               "chord": "A",
-              "text": "不 会"
+              "text": "不 會"
             },
             {
               "chord": "",
@@ -64,11 +64,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "归 依"
+              "text": "歸 依"
             },
             {
               "chord": "A",
-              "text": "才"
+              "text": "纔"
             },
             {
               "chord": "A7",
@@ -211,10 +211,11 @@
     "category": "奉献",
     "time": "3/4",
     "hymn_code": "323432321545652",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0343_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/451",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/451",
+        "language": "en",
         "category": "h",
         "number": "451",
         "title": "E451"
@@ -222,10 +223,10 @@
     ]
   },
   "raw_sections": [
-    "不 是挣 扎，乃 是归 依，",
-    "会 使我 得力；",
-    "挣 扎不 会使 我得 益，",
-    "归 依才安息。",
+    "不 是掙 扎，乃 是歸 依，",
+    "會 使我 得力；",
+    "掙 扎不 會使 我得 益，",
+    "歸 依纔安息。",
     "我若不作无谓奋勉，",
     "并不再努力，",
     "没有条件完全奉献，",

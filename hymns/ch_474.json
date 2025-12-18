@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "你 这"
+              "text": "你 這"
             },
             {
               "chord": "",
@@ -52,15 +52,15 @@
             },
             {
               "chord": "D",
-              "text": "断 以"
+              "text": "斷 以"
             },
             {
               "chord": "",
-              "text": "及 于"
+              "text": "及 於"
             },
             {
               "chord": "G",
-              "text": "耶 稣，"
+              "text": "耶 穌，"
             }
           ]
         },
@@ -100,7 +100,7 @@
             },
             {
               "chord": "A7",
-              "text": "灿 烂，"
+              "text": "燦 爛，"
             }
           ]
         },
@@ -108,11 +108,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "驱"
+              "text": "驅"
             },
             {
               "chord": "D",
-              "text": "尽 困"
+              "text": "盡 困"
             },
             {
               "chord": "E7",
@@ -140,7 +140,7 @@
             },
             {
               "chord": "G",
-              "text": "荣 面，"
+              "text": "榮 面，"
             }
           ]
         },
@@ -453,10 +453,11 @@
     "category": "鼓励",
     "time": "3/4",
     "hymn_code": "532177651432117",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0474_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8474",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8474",
+        "language": "en",
         "category": "h",
         "number": "8474",
         "title": "E8474*"
@@ -464,13 +465,13 @@
     ]
   },
   "raw_sections": [
-    "你 这因 著 奔正路，",
+    "你 這因 著 奔正路，",
     "手垂 腿酸 之人，",
-    "望断 以及 于耶 稣，",
+    "望斷 以及 於耶 穌，",
     "免得 疲倦 灰心；",
-    "祂的 面光 照灿 烂，",
-    "驱尽 困人 黑暗，",
-    "你若 仰望 祂荣 面，",
+    "祂的 面光 照燦 爛，",
+    "驅盡 困人 黑暗，",
+    "你若 仰望 祂榮 面，",
     "就必 明如 中天。",
     "望断以及于耶稣，",
     "你就必不看见",

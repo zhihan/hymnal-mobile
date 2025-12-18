@@ -7,16 +7,8 @@
         {
           "segments": [
             {
-              "chord": "C",
-              "text": "Always"
-            },
-            {
               "chord": "",
-              "text": "re"
-            },
-            {
-              "chord": "G7",
-              "text": "joice,"
+              "text": "Always rejoice,"
             }
           ]
         },
@@ -24,11 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Unceasingly"
-            },
-            {
-              "chord": "C",
-              "text": "pray,"
+              "text": "Unceasingly pray,"
             }
           ]
         },
@@ -36,19 +24,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "In everything give"
-            },
-            {
-              "chord": "G",
-              "text": "thanks."
+              "text": "In everything give thanks."
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "C",
-              "text": "Always"
+              "chord": "",
+              "text": "(repeat)"
             }
           ]
         }
@@ -62,27 +46,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "re"
-            },
-            {
-              "chord": "G7",
-              "text": "joice, Unceasingly"
-            },
-            {
-              "chord": "C",
-              "text": "pray, In"
-            },
-            {
-              "chord": "",
-              "text": "everything give"
-            },
-            {
-              "chord": "G",
-              "text": "thanks. For"
-            },
-            {
-              "chord": "F",
-              "text": "this is"
+              "text": "For this is the will of God in Christ Jesus,"
             }
           ]
         },
@@ -90,31 +54,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "the will of"
-            },
-            {
-              "chord": "Em",
-              "text": "God in"
-            },
-            {
-              "chord": "",
-              "text": "Christ Jesus, The"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "Dm",
-              "text": "will of"
-            },
-            {
-              "chord": "G7",
-              "text": "God in"
-            },
-            {
-              "chord": "",
-              "text": "Christ"
+              "text": "The will of God in Christ for you."
             }
           ]
         },
@@ -122,15 +62,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "for"
-            },
+              "text": "Therefore always rejoice, unceasingly pray,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "C",
-              "text": "you. Therefore"
-            },
-            {
-              "chord": "F",
-              "text": "always"
+              "chord": "",
+              "text": "In everything give thanks."
             }
           ]
         }
@@ -144,23 +84,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "rejoice, un"
-            },
-            {
-              "chord": "Em",
-              "text": "ceasingly"
-            },
-            {
-              "chord": "Dm",
-              "text": "pray, In"
-            },
-            {
-              "chord": "",
-              "text": "every"
-            },
-            {
-              "chord": "G7",
-              "text": "thing"
+              "text": "Do not quench the Spirit,"
             }
           ]
         },
@@ -168,11 +92,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "give thanks."
-            },
-            {
-              "chord": "C",
-              "text": "Do not"
+              "text": "Do not despise prophecies,"
             }
           ]
         },
@@ -180,15 +100,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "quench the"
-            },
-            {
-              "chord": "F",
-              "text": "Spirit,"
-            },
-            {
-              "chord": "",
-              "text": "Do"
+              "text": "But prove all things,"
             }
           ]
         },
@@ -196,47 +108,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "not de"
-            },
-            {
-              "chord": "C",
-              "text": "spise prophecies,"
-            },
-            {
-              "chord": "",
-              "text": "But"
-            },
-            {
-              "chord": "Dm",
-              "text": "prove all"
+              "text": "Hold fast to what is good,"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "things, Hold"
-            },
-            {
               "chord": "",
-              "text": "fast to what is"
+              "text": "Abstain from every kind of evil."
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "Am",
-              "text": "good, Abstain"
-            },
-            {
               "chord": "",
-              "text": "from every"
-            },
-            {
-              "chord": "F",
-              "text": "kind"
+              "text": "(Repeat 1st and 2nd stanzas)"
             }
           ]
         }
@@ -248,22 +136,23 @@
   "metadata": {
     "category": "Scriptures for Singing",
     "time": "4/4",
-    "hymn_code": "5354221711357165"
+    "hymn_code": "5354221711357165",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0271_tune.midi"
   },
   "raw_sections": [
-    "Alwaysrejoice,",
-    "Unceasinglypray,",
-    "In everything givethanks.",
-    "Always",
-    "rejoice, Unceasinglypray, Ineverything givethanks. Forthis is",
-    "the will ofGod inChrist Jesus, The",
-    "will ofGod inChrist",
-    "foryou. Thereforealways",
-    "rejoice, unceasinglypray, Ineverything",
-    "give thanks.Do not",
-    "quench theSpirit,Do",
-    "not despise prophecies,Butprove all",
-    "things, Holdfast to what is",
-    "good, Abstainfrom everykind"
+    "Always rejoice,",
+    "Unceasingly pray,",
+    "In everything give thanks.",
+    "(repeat)",
+    "For this is the will of God in Christ Jesus,",
+    "The will of God in Christ for you.",
+    "Therefore always rejoice, unceasingly pray,",
+    "In everything give thanks.",
+    "Do not quench the Spirit,",
+    "Do not despise prophecies,",
+    "But prove all things,",
+    "Hold fast to what is good,",
+    "Abstain from every kind of evil.",
+    "(Repeat 1st and 2nd stanzas)"
   ]
 }

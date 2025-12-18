@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "虚 空 又 痛"
+              "text": "虛 空 又 痛"
             },
             {
               "chord": "A♯",
@@ -24,7 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "不 明 白 活 著 为 何"
+              "text": "不 明 白 活 著 為 何"
             },
             {
               "chord": "Cm",
@@ -56,7 +56,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "虽 强 作 欢 颜， 里 面"
+              "text": "雖 強 作 歡 顏， 裡 面"
             },
             {
               "chord": "G♯",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "D♯",
-              "text": "泪，"
+              "text": "淚，"
             }
           ]
         },
@@ -72,7 +72,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "这"
+              "text": "這"
             },
             {
               "chord": "G♯",
@@ -80,11 +80,11 @@
             },
             {
               "chord": "",
-              "text": "滋 味 无 人 能 领"
+              "text": "滋 味 無 人 能 領"
             },
             {
               "chord": "D♯",
-              "text": "会；"
+              "text": "會；"
             }
           ]
         },
@@ -104,7 +104,7 @@
           "segments": [
             {
               "chord": "D♯",
-              "text": "曾 几"
+              "text": "曾 幾"
             },
             {
               "chord": "",
@@ -112,11 +112,11 @@
             },
             {
               "chord": "A♯",
-              "text": "时， 又"
+              "text": "時， 又"
             },
             {
               "chord": "",
-              "text": "归"
+              "text": "歸"
             },
             {
               "chord": "Cm",
@@ -257,10 +257,11 @@
     "category": "事奉与福音",
     "time": "4/4",
     "hymn_code": "66113325577221",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0822_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/6822",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/6822",
+        "language": "en",
         "category": "h",
         "number": "6822",
         "title": "E6822"
@@ -268,13 +269,13 @@
     ]
   },
   "raw_sections": [
-    "我 曾虚 空 又 痛苦，",
-    "不 明 白 活 著 为 何故，",
+    "我 曾虛 空 又 痛苦，",
+    "不 明 白 活 著 為 何故，",
     "常 今朝 有 酒 就 今朝醉，",
-    "虽 强 作 欢 颜， 里 面流泪，",
-    "这辛 酸滋 味 无 人 能 领会；",
+    "雖 強 作 歡 顏， 裡 面流淚，",
+    "這辛 酸滋 味 無 人 能 領會；",
     "把 它 麻醉，",
-    "曾 几何时， 又归回。",
+    "曾 幾何時， 又歸回。",
     "虽然我并不知道，",
     "当如何解决或祷告，",
     "但是我深处总是渴慕，",

@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "信 我 已 听 见："
+              "text": "信 我 已 聽 見："
             }
           ]
         },
@@ -32,15 +32,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "这 佳"
+              "text": "這 佳"
             },
             {
               "chord": "D",
-              "text": "音 务"
+              "text": "音 務"
             },
             {
               "chord": "",
-              "text": "要 传 遍："
+              "text": "要 傳 遍："
             }
           ]
         },
@@ -76,7 +76,7 @@
             },
             {
               "chord": "",
-              "text": "外 人 间，"
+              "text": "外 人 間，"
             }
           ]
         },
@@ -88,15 +88,15 @@
             },
             {
               "chord": "D",
-              "text": "顾 路"
+              "text": "顧 路"
             },
             {
               "chord": "",
-              "text": "途 艰"
+              "text": "途 艱"
             },
             {
               "chord": "A",
-              "text": "险，"
+              "text": "險，"
             }
           ]
         },
@@ -112,11 +112,11 @@
             },
             {
               "chord": "D7",
-              "text": "处 宣"
+              "text": "處 宣"
             },
             {
               "chord": "G",
-              "text": "传："
+              "text": "傳："
             }
           ]
         },
@@ -429,10 +429,11 @@
     "category": "福音",
     "time": "3/4",
     "hymn_code": "5515123555312",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0676_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/991",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/991",
+        "language": "en",
         "category": "h",
         "number": "991",
         "title": "E991"
@@ -440,13 +441,13 @@
     ]
   },
   "raw_sections": [
-    "大 喜信 我 已 听 见：",
+    "大 喜信 我 已 聽 見：",
     "主 救 人！ 主 救人！",
-    "这 佳音 务要 传 遍：",
+    "這 佳音 務要 傳 遍：",
     "主 救人！主 救人！",
-    "去 天下 中外 人 间，",
-    "不 要顾 路途 艰险，",
-    "遵 主命 到处 宣传：",
+    "去 天下 中外 人 間，",
+    "不 要顧 路途 艱險，",
+    "遵 主命 到處 宣傳：",
     "主 救人！主 救人！",
     "去通知贫富家门：",
     "主救人！主救人！",

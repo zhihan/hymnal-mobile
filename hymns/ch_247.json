@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "惊 人"
+              "text": "驚 人"
             },
             {
               "chord": "",
@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "来 救 无"
+              "text": "來 救 無"
             },
             {
               "chord": "A7",
-              "text": "赖 如"
+              "text": "賴 如"
             },
             {
               "chord": "D",
@@ -56,11 +56,11 @@
             },
             {
               "chord": "C",
-              "text": "被 寻"
+              "text": "被 尋"
             },
             {
               "chord": "G",
-              "text": "见！"
+              "text": "見！"
             }
           ]
         },
@@ -207,10 +207,11 @@
     "category": "得救的证实与快乐",
     "time": "3/4",
     "hymn_code": "513132165",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0247_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/313",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/313",
+        "language": "en",
         "category": "h",
         "number": "313",
         "title": "E313"
@@ -218,9 +219,9 @@
     ]
   },
   "raw_sections": [
-    "惊 人恩 典！ 何等 甘甜，",
-    "来 救 无赖 如我！",
-    "前曾 失落， 今被 寻见！",
+    "驚 人恩 典！ 何等 甘甜，",
+    "來 救 無賴 如我！",
+    "前曾 失落， 今被 尋見！",
     "前 盲， 今不摸索！",
     "恩典教导我心惧怕，",
     "又将惧怕除掉；",

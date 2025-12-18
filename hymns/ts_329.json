@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "喜 乐，"
+              "text": "喜 樂，"
             },
             {
               "chord": "A",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "",
-              "text": "喜 乐，"
+              "text": "喜 樂，"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "Bm",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "F♯m",
-              "text": "一 无"
+              "text": "一 無"
             },
             {
               "chord": "",
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "一 无"
+              "text": "一 無"
             },
             {
               "chord": "",
@@ -56,11 +56,11 @@
             },
             {
               "chord": "D",
-              "text": "一 无"
+              "text": "一 無"
             },
             {
               "chord": "",
-              "text": "所 见，"
+              "text": "所 見，"
             }
           ]
         },
@@ -68,15 +68,15 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "惟 见"
+              "text": "惟 見"
             },
             {
               "chord": "",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "A",
-              "text": "里 的"
+              "text": "裡 的"
             },
             {
               "chord": "",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "",
-              "text": "喜 乐，"
+              "text": "喜 樂，"
             },
             {
               "chord": "A",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "",
-              "text": "喜 乐，"
+              "text": "喜 樂，"
             }
           ]
         },
@@ -108,7 +108,7 @@
           "segments": [
             {
               "chord": "Bm",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
@@ -116,7 +116,7 @@
             },
             {
               "chord": "F♯m",
-              "text": "一 无"
+              "text": "一 無"
             },
             {
               "chord": "",
@@ -128,7 +128,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "一 无"
+              "text": "一 無"
             },
             {
               "chord": "",
@@ -136,11 +136,11 @@
             },
             {
               "chord": "D",
-              "text": "一 无"
+              "text": "一 無"
             },
             {
               "chord": "",
-              "text": "所 顾，"
+              "text": "所 顧，"
             }
           ]
         },
@@ -148,7 +148,7 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "惟 顾"
+              "text": "惟 顧"
             },
             {
               "chord": "G",
@@ -160,7 +160,7 @@
             },
             {
               "chord": "A7",
-              "text": "权"
+              "text": "權"
             },
             {
               "chord": "D",
@@ -177,10 +177,11 @@
     "category": "爱慕耶稣",
     "time": "4/4",
     "hymn_code": "3553255213317337",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0329_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/ns/27",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/ns/27",
+        "language": "en",
         "category": "ns",
         "number": "27",
         "title": "NS27"
@@ -188,13 +189,13 @@
     ]
   },
   "raw_sections": [
-    "何 等喜 乐，何 等喜 乐，",
-    "我 们能 彀一 无所 有，",
-    "一 无所 是，一 无所 见，",
-    "惟 见荣 耀里 的基 督；",
-    "何 等喜 乐，何 等喜 乐，",
-    "我 们能 彀一 无所 有，",
-    "一 无所 是，一 无所 顾，",
-    "惟 顾祂 在地权益。"
+    "何 等喜 樂，何 等喜 樂，",
+    "我 們能 彀一 無所 有，",
+    "一 無所 是，一 無所 見，",
+    "惟 見榮 耀裡 的基 督；",
+    "何 等喜 樂，何 等喜 樂，",
+    "我 們能 彀一 無所 有，",
+    "一 無所 是，一 無所 顧，",
+    "惟 顧祂 在地權益。"
   ]
 }

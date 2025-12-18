@@ -351,10 +351,11 @@
     "category": "Gospel",
     "time": "4/4",
     "hymn_code": "117534444565",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/LongBeach/midi/tunes/lb11_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/876",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/876",
+        "language": "cn",
         "category": "ts",
         "number": "876",
         "title": "Cs876"

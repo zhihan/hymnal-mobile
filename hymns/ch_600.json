@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "圣 徒"
+              "text": "聖 徒"
             },
             {
               "chord": "",
-              "text": "实 际 活"
+              "text": "實 際 活"
             },
             {
               "chord": "A7",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "才"
+              "text": "纔"
             },
             {
               "chord": "D",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "",
-              "text": "会 的"
+              "text": "會 的"
             },
             {
               "chord": "A7",
@@ -52,11 +52,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "内 住 圣 灵 将"
+              "text": "內 住 聖 靈 將"
             },
             {
               "chord": "E",
-              "text": "这 合"
+              "text": "這 合"
             },
             {
               "chord": "E7",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "",
-              "text": "有 圣"
+              "text": "有 聖"
             },
             {
               "chord": "E7",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "A",
-              "text": "里。"
+              "text": "裡。"
             }
           ]
         },
@@ -100,11 +100,11 @@
             },
             {
               "chord": "",
-              "text": "于 圣"
+              "text": "於 聖"
             },
             {
               "chord": "A",
-              "text": "灵 自"
+              "text": "靈 自"
             },
             {
               "chord": "",
@@ -120,11 +120,11 @@
             },
             {
               "chord": "D",
-              "text": "称 圣"
+              "text": "稱 聖"
             },
             {
               "chord": "G",
-              "text": "灵 的"
+              "text": "靈 的"
             },
             {
               "chord": "A",
@@ -148,11 +148,11 @@
             },
             {
               "chord": "",
-              "text": "据 所"
+              "text": "據 所"
             },
             {
               "chord": "A7",
-              "text": "有 圣"
+              "text": "有 聖"
             },
             {
               "chord": "",
@@ -473,10 +473,11 @@
     "category": "召会",
     "time": "4/4",
     "hymn_code": "5333343225632121",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0600_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/831",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/831",
+        "language": "en",
         "category": "h",
         "number": "831",
         "title": "E831"
@@ -484,13 +485,13 @@
     ]
   },
   "raw_sections": [
-    "圣 徒实 际 活在 一起，",
-    "才是 召会 的合一；",
-    "内 住 圣 灵 将这 合一",
-    "放在 所有 圣徒里。",
-    "因是 出于 圣灵 自己，",
-    "故称 圣灵 的合一；",
-    "乃是 根据 所有 圣徒",
+    "聖 徒實 際 活在 一起，",
+    "纔是 召會 的合一；",
+    "內 住 聖 靈 將這 合一",
+    "放在 所有 聖徒裡。",
+    "因是 出於 聖靈 自己，",
+    "故稱 聖靈 的合一；",
+    "乃是 根據 所有 聖徒",
     "同得 之信 而有的。",
     "所有圣徒共同所得",
     "一样宝贵的信心，",

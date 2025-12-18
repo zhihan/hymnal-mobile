@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "听 见"
+              "text": "聽 見"
             },
             {
               "chord": "B7",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "A",
-              "text": "听 见"
+              "text": "聽 見"
             },
             {
               "chord": "A7",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "D",
-              "text": "听 见"
+              "text": "聽 見"
             },
             {
               "chord": "B",
@@ -98,11 +98,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "无 论"
+              "text": "無 論"
             },
             {
               "chord": "D",
-              "text": "何 处"
+              "text": "何 處"
             },
             {
               "chord": "B7",
@@ -110,7 +110,7 @@
             },
             {
               "chord": "Em",
-              "text": "跟 随，"
+              "text": "跟 隨，"
             }
           ]
         },
@@ -118,11 +118,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "无 论"
+              "text": "無 論"
             },
             {
               "chord": "A",
-              "text": "何 时"
+              "text": "何 時"
             },
             {
               "chord": "A7",
@@ -130,7 +130,7 @@
             },
             {
               "chord": "D",
-              "text": "跟 随，"
+              "text": "跟 隨，"
             }
           ]
         },
@@ -138,15 +138,15 @@
           "segments": [
             {
               "chord": "G",
-              "text": "无 论"
+              "text": "無 論"
             },
             {
               "chord": "D",
-              "text": "祸 福，"
+              "text": "禍 福，"
             },
             {
               "chord": "B",
-              "text": "无 论"
+              "text": "無 論"
             },
             {
               "chord": "Em",
@@ -162,7 +162,7 @@
             },
             {
               "chord": "D",
-              "text": "跟 随，"
+              "text": "跟 隨，"
             }
           ]
         },
@@ -170,7 +170,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "跟 随，"
+              "text": "跟 隨，"
             },
             {
               "chord": "A7",
@@ -419,10 +419,11 @@
     "category": "经历基督",
     "time": "4/4",
     "hymn_code": "5133433257213221",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0427_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/586",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/586",
+        "language": "en",
         "category": "h",
         "number": "586",
         "title": "E586"
@@ -430,15 +431,15 @@
     ]
   },
   "raw_sections": [
-    "我 今听 见救 主招 呼，",
-    "我 今听 见救 主招 呼，",
-    "我 今听 见救 主招 呼，",
+    "我 今聽 見救 主招 呼，",
+    "我 今聽 見救 主招 呼，",
+    "我 今聽 見救 主招 呼，",
     "要 我跟 祂，跟 祂走 窄路。",
-    "无 论何 处要 我跟 随，",
-    "无 论何 时要 我跟 随，",
-    "无 论祸 福，无 论安 危，",
-    "要 我跟 随，",
-    "跟 随，不 稍退。",
+    "無 論何 處要 我跟 隨，",
+    "無 論何 時要 我跟 隨，",
+    "無 論禍 福，無 論安 危，",
+    "要 我跟 隨，",
+    "跟 隨，不 稍退。",
     "我今答应救主招呼，",
     "我今答应救主招呼，",
     "我今答应救主招呼，",

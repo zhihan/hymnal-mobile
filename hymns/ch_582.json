@@ -16,7 +16,7 @@
             },
             {
               "chord": "C",
-              "text": "话， 你"
+              "text": "話， 你"
             },
             {
               "chord": "D7",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "G",
-              "text": "灵，"
+              "text": "靈，"
             }
           ]
         },
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 们 赞"
+              "text": "我 們 讚"
             },
             {
               "chord": "D",
@@ -40,11 +40,11 @@
             },
             {
               "chord": "A7",
-              "text": "灵 和"
+              "text": "靈 和"
             },
             {
               "chord": "D",
-              "text": "声！"
+              "text": "聲！"
             }
           ]
         },
@@ -52,7 +52,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "赞"
+              "text": "讚"
             },
             {
               "chord": "G",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "",
-              "text": "话 使"
+              "text": "話 使"
             },
             {
               "chord": "C",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "",
-              "text": "晓，"
+              "text": "曉，"
             }
           ]
         },
@@ -80,11 +80,11 @@
             },
             {
               "chord": "G",
-              "text": "灵 使"
+              "text": "靈 使"
             },
             {
               "chord": "D",
-              "text": "我 触"
+              "text": "我 觸"
             },
             {
               "chord": "G",
@@ -367,10 +367,11 @@
     "category": "读经",
     "time": "4/4",
     "hymn_code": "5156654334325545",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0582_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/802",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/802",
+        "language": "en",
         "category": "h",
         "number": "802",
         "title": "E802"
@@ -378,10 +379,10 @@
     ]
   },
   "raw_sections": [
-    "主， 你是话， 你也 是灵，",
-    "我 们 赞美 同灵 和声！",
-    "赞美 你话 使我 知晓，",
-    "敬 拜 你灵 使我 触到。",
+    "主， 你是話， 你也 是靈，",
+    "我 們 讚美 同靈 和聲！",
+    "讚美 你話 使我 知曉，",
+    "敬 拜 你靈 使我 觸到。",
     "恩主，你是我的一切，",
     "全在你能与我联结；",
     "所以是话，且又是灵，",

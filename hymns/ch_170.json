@@ -16,7 +16,7 @@
             },
             {
               "chord": "G",
-              "text": "心 对"
+              "text": "心 對"
             },
             {
               "chord": "",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "D",
-              "text": "爱、"
+              "text": "愛、"
             },
             {
               "chord": "A7",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "D",
-              "text": "宝，"
+              "text": "寶，"
             }
           ]
         },
@@ -52,11 +52,11 @@
             },
             {
               "chord": "A",
-              "text": "要 欢"
+              "text": "要 歡"
             },
             {
               "chord": "E7",
-              "text": "乐 发"
+              "text": "樂 發"
             },
             {
               "chord": "A",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "A",
-              "text": "这 复"
+              "text": "這 復"
             },
             {
               "chord": "Bm",
@@ -96,7 +96,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "现"
+              "text": "現"
             },
             {
               "chord": "A7",
@@ -112,11 +112,11 @@
             },
             {
               "chord": "G",
-              "text": "你 献"
+              "text": "你 獻"
             },
             {
               "chord": "A7",
-              "text": "上 称"
+              "text": "上 稱"
             },
             {
               "chord": "D",
@@ -247,10 +247,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "3324321123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0170_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/212",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/212",
+        "language": "en",
         "category": "h",
         "number": "212",
         "title": "E212"
@@ -258,10 +259,10 @@
     ]
   },
   "raw_sections": [
-    "恩 主，我心 对你 所爱、所宝，",
-    "在此， 我口 都要 欢乐 发表；",
-    "你这 复活， 作我 福分 的主，",
-    "现今 我要向你 献上 称祝。",
+    "恩 主，我心 對你 所愛、所寶，",
+    "在此， 我口 都要 歡樂 發表；",
+    "你這 復活， 作我 福分 的主，",
+    "現今 我要向你 獻上 稱祝。",
     "在此，你给我们再次尝到",
     "你的同在何其可爱、可宝；",
     "在你荫下我们欢乐、安息，",

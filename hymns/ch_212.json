@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "圣 灵"
+              "text": "聖 靈"
             },
             {
               "chord": "",
-              "text": "的 大 风，"
+              "text": "的 大 風，"
             }
           ]
         },
@@ -20,15 +20,15 @@
           "segments": [
             {
               "chord": "C",
-              "text": "从 天"
+              "text": "從 天"
             },
             {
               "chord": "G",
-              "text": "来 吹"
+              "text": "來 吹"
             },
             {
               "chord": "",
-              "text": "动，"
+              "text": "動，"
             }
           ]
         },
@@ -40,7 +40,7 @@
             },
             {
               "chord": "",
-              "text": "我 群 众，"
+              "text": "我 群 眾，"
             },
             {
               "chord": "A7",
@@ -60,7 +60,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "吹 软"
+              "text": "吹 軟"
             },
             {
               "chord": "",
@@ -104,11 +104,11 @@
             },
             {
               "chord": "D7",
-              "text": "脱"
+              "text": "脫"
             },
             {
               "chord": "G",
-              "text": "尽。"
+              "text": "盡。"
             }
           ]
         }
@@ -130,11 +130,11 @@
           "segments": [
             {
               "chord": "D7",
-              "text": "圣 灵"
+              "text": "聖 靈"
             },
             {
               "chord": "",
-              "text": "大 风"
+              "text": "大 風"
             },
             {
               "chord": "G",
@@ -158,11 +158,11 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "灵 恩"
+              "text": "靈 恩"
             },
             {
               "chord": "",
-              "text": "大 云"
+              "text": "大 雲"
             },
             {
               "chord": "D7",
@@ -174,11 +174,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "焚 烧！"
+              "text": "焚 燒！"
             },
             {
               "chord": "",
-              "text": "焚 烧！"
+              "text": "焚 燒！"
             }
           ]
         },
@@ -186,7 +186,7 @@
           "segments": [
             {
               "chord": "D7",
-              "text": "圣 别"
+              "text": "聖 別"
             },
             {
               "chord": "",
@@ -194,7 +194,7 @@
             },
             {
               "chord": "G",
-              "text": "焚 烧！"
+              "text": "焚 燒！"
             }
           ]
         },
@@ -202,11 +202,11 @@
           "segments": [
             {
               "chord": "G7",
-              "text": "显 耀！"
+              "text": "顯 耀！"
             },
             {
               "chord": "C",
-              "text": "显 耀！"
+              "text": "顯 耀！"
             }
           ]
         },
@@ -222,7 +222,7 @@
             },
             {
               "chord": "D7",
-              "text": "显"
+              "text": "顯"
             },
             {
               "chord": "G",
@@ -615,10 +615,11 @@
     "category": "圣灵的丰满",
     "time": "4/4",
     "hymn_code": "5534564321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0212_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8212",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8212",
+        "language": "en",
         "category": "h",
         "number": "8212",
         "title": "E8212"
@@ -626,20 +627,20 @@
     ]
   },
   "raw_sections": [
-    "圣 灵的 大 风，",
-    "从 天来 吹动，",
-    "吹 到我 群 众，如 在五旬；",
-    "吹 软我 硬 心，",
+    "聖 靈的 大 風，",
+    "從 天來 吹動，",
+    "吹 到我 群 眾，如 在五旬；",
+    "吹 軟我 硬 心，",
     "吹 活我 全人，",
-    "吹 得我 更新， 罪孽脱尽。",
+    "吹 得我 更新， 罪孽脫盡。",
     "吹 到！ 吹 到！",
-    "圣 灵大 风吹 到！",
+    "聖 靈大 風吹 到！",
     "覆 罩！覆 罩！",
-    "灵 恩大 云覆 罩！",
-    "焚 烧！焚 烧！",
-    "圣 别烈 火焚 烧！",
-    "显 耀！显 耀！",
-    "神 精金显耀！",
+    "靈 恩大 雲覆 罩！",
+    "焚 燒！焚 燒！",
+    "聖 別烈 火焚 燒！",
+    "顯 耀！顯 耀！",
+    "神 精金顯耀！",
     "灵恩的大云，",
     "满带神洪恩，",
     "覆罩我众人，如覆帐幕；",

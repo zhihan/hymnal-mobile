@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "快 乐 日，"
+              "text": "快 樂 日，"
             }
           ]
         },
@@ -20,7 +20,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "当"
+              "text": "當"
             },
             {
               "chord": "D7",
@@ -28,11 +28,11 @@
             },
             {
               "chord": "",
-              "text": "经 别"
+              "text": "經 別"
             },
             {
               "chord": "G",
-              "text": "无 他"
+              "text": "無 他"
             },
             {
               "chord": "",
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "当 主 夺 取 我"
+              "text": "當 主 奪 取 我"
             },
             {
               "chord": "D",
@@ -56,7 +56,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "从 无 边 黑 暗"
+              "text": "從 無 邊 黑 暗"
             }
           ]
         },
@@ -64,7 +64,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "进"
+              "text": "進"
             },
             {
               "chord": "A",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "",
-              "text": "的 国"
+              "text": "的 國"
             },
             {
               "chord": "D",
@@ -231,10 +231,11 @@
     "category": "爱慕耶稣",
     "time": "2/4",
     "hymn_code": "5431155435411",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0310_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1333",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1333",
+        "language": "en",
         "category": "h",
         "number": "1333",
         "title": "E1333"
@@ -242,11 +243,11 @@
     ]
   },
   "raw_sections": [
-    "何 等快 乐 日，",
-    "当我 已经 别无 他途，",
-    "当 主 夺 取 我心，",
-    "从 无 边 黑 暗",
-    "进入 祂光 明的 国度。",
+    "何 等快 樂 日，",
+    "當我 已經 別無 他途，",
+    "當 主 奪 取 我心，",
+    "從 無 邊 黑 暗",
+    "進入 祂光 明的 國度。",
     "我新生开始，",
     "这新生命是神爱子，",
     "我不再为幻梦",

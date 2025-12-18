@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "在 众"
+              "text": "在 眾"
             },
             {
               "chord": "G",
-              "text": "召 会"
+              "text": "召 會"
             },
             {
               "chord": "",
-              "text": "涌 流"
+              "text": "湧 流"
             },
             {
               "chord": "A",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "D",
-              "text": "爱； 生"
+              "text": "愛； 生"
             }
           ]
         },
@@ -44,7 +44,7 @@
             },
             {
               "chord": "G",
-              "text": "光、 爱，"
+              "text": "光、 愛，"
             },
             {
               "chord": "",
@@ -64,11 +64,11 @@
             },
             {
               "chord": "D",
-              "text": "爱。"
+              "text": "愛。"
             },
             {
               "chord": "G",
-              "text": "联 结"
+              "text": "聯 結"
             }
           ]
         },
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "为 一， 毫 无 猜 忌； 照 神"
+              "text": "為 一， 毫 無 猜 忌； 照 神"
             }
           ]
         },
@@ -84,11 +84,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "接 纳，"
+              "text": "接 納，"
             },
             {
               "chord": "A",
-              "text": "不 凭"
+              "text": "不 憑"
             },
             {
               "chord": "A7",
@@ -104,15 +104,15 @@
           "segments": [
             {
               "chord": "G",
-              "text": "让 神"
+              "text": "讓 神"
             },
             {
               "chord": "",
-              "text": "圣 灵"
+              "text": "聖 靈"
             },
             {
               "chord": "A",
-              "text": "忧 戚─"
+              "text": "憂 戚─"
             },
             {
               "chord": "G",
@@ -124,7 +124,7 @@
             },
             {
               "chord": "D",
-              "text": "爱。"
+              "text": "愛。"
             }
           ]
         }
@@ -321,10 +321,11 @@
     "category": "教会的异象",
     "time": "4/4",
     "hymn_code": "176121756771",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0538_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1277",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1277",
+        "language": "en",
         "category": "h",
         "number": "1277",
         "title": "E1277"
@@ -332,11 +333,11 @@
     ]
   },
   "raw_sections": [
-    "在 众召 会涌 流不 息─弟兄 相爱； 生",
-    "命、光、 爱，流 通、洋 溢─弟兄 相爱。联 结",
-    "为 一， 毫 无 猜 忌； 照 神",
-    "接 纳，不 凭人 意；不 再",
-    "让 神圣 灵忧 戚─弟兄 相爱。",
+    "在 眾召 會湧 流不 息─弟兄 相愛； 生",
+    "命、光、 愛，流 通、洋 溢─弟兄 相愛。聯 結",
+    "為 一， 毫 無 猜 忌； 照 神",
+    "接 納，不 憑人 意；不 再",
+    "讓 神聖 靈憂 戚─弟兄 相愛。",
     "爱中洗涤，交通无碍─弟兄相爱；",
     "以爱裹伤，彼此怀搋─弟兄相爱。",
     "凡事相信，凡事忍耐，",

@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "C",
-              "text": "谁 肯"
+              "text": "誰 肯"
             },
             {
               "chord": "F",
-              "text": "受 托，"
+              "text": "受 託，"
             },
             {
               "chord": "",
-              "text": "宣 扬"
+              "text": "宣 揚"
             },
             {
               "chord": "C",
@@ -32,11 +32,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "谁 愿"
+              "text": "誰 願"
             },
             {
               "chord": "F",
-              "text": "答 应，"
+              "text": "答 應，"
             },
             {
               "chord": "",
@@ -56,11 +56,11 @@
           "segments": [
             {
               "chord": "F",
-              "text": "主 爱"
+              "text": "主 愛"
             },
             {
               "chord": "G7",
-              "text": "激 励"
+              "text": "激 勵"
             },
             {
               "chord": "",
@@ -88,15 +88,15 @@
             },
             {
               "chord": "Dm",
-              "text": "起 来"
+              "text": "起 來"
             },
             {
               "chord": "",
-              "text": "应 声："
+              "text": "應 聲："
             },
             {
               "chord": "G",
-              "text": "『请 差"
+              "text": "『請 差"
             },
             {
               "chord": "G7",
@@ -108,7 +108,7 @@
             },
             {
               "chord": "C",
-              "text": "愿"
+              "text": "願"
             }
           ]
         }
@@ -142,11 +142,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 奉 献 刚"
+              "text": "我 奉 獻 剛"
             },
             {
               "chord": "F",
-              "text": "强 开"
+              "text": "強 開"
             },
             {
               "chord": "G",
@@ -154,7 +154,7 @@
             },
             {
               "chord": "C",
-              "text": "应"
+              "text": "應"
             }
           ]
         },
@@ -166,15 +166,15 @@
             },
             {
               "chord": "F",
-              "text": "勇 迈"
+              "text": "勇 邁"
             },
             {
               "chord": "G",
-              "text": "进， 跟"
+              "text": "進， 跟"
             },
             {
               "chord": "Am",
-              "text": "随 羔"
+              "text": "隨 羔"
             },
             {
               "chord": "C",
@@ -194,7 +194,7 @@
           "segments": [
             {
               "chord": "Dm7",
-              "text": "叩 门！"
+              "text": "叩 門！"
             },
             {
               "chord": "C",
@@ -202,7 +202,7 @@
             },
             {
               "chord": "F",
-              "text": "愿 你"
+              "text": "願 你"
             },
             {
               "chord": "G7",
@@ -210,7 +210,7 @@
             },
             {
               "chord": "C",
-              "text": "临！"
+              "text": "臨！"
             }
           ]
         }
@@ -297,10 +297,11 @@
     "category": "事奉与福音",
     "time": "4/4",
     "hymn_code": "51145654535",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0869_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/ns/372",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/ns/372",
+        "language": "en",
         "category": "ns",
         "number": "372",
         "title": "NS372"
@@ -308,14 +309,14 @@
     ]
   },
   "raw_sections": [
-    "谁 肯受 托，宣 扬神 福音？",
-    "谁 愿答 应，受 差遣 前行？",
-    "主 爱激 励困迫， 不再 我活。",
-    "今 日起 来应 声：『请 差遣 我！』深愿",
+    "誰 肯受 託，宣 揚神 福音？",
+    "誰 願答 應，受 差遣 前行？",
+    "主 愛激 勵困迫， 不再 我活。",
+    "今 日起 來應 聲：『請 差遣 我！』深願",
     "神 福 音 成我 生活， 更新",
-    "我 奉 献 刚强 开拓， 答应",
-    "主 呼 召， 忠勇 迈进， 跟随 羔羊 前行， 遍地",
-    "叩 门！主 阿，愿 你快临！",
+    "我 奉 獻 剛強 開拓， 答應",
+    "主 呼 召， 忠勇 邁進， 跟隨 羔羊 前行， 遍地",
+    "叩 門！主 阿，願 你快臨！",
     "生死伙伴，爱里相提携。",
     "同灵站住，同魂齐努力。",
     "只为基督身体，不顾自己。",

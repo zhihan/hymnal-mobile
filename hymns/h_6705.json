@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/6705",
+  "url": "https://www.hymnal.net/en/hymn/h/6705",
   "title": "The Lord is my greatest love",
   "verses": [
     {
@@ -238,7 +238,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "The Lord's beloved bride is she,"
+              "text": "The Lord’s beloved bride is she,"
             }
           ]
         },
@@ -262,7 +262,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "God's river of life we share;"
+              "text": "God’s river of life we share;"
             }
           ]
         },
@@ -270,7 +270,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "I'm strengthened every day,"
+              "text": "I’m strengthened every day,"
             }
           ]
         },
@@ -307,6 +307,7 @@
     "category": "The Church",
     "time": "4/4",
     "hymn_code": "5325321565132",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e6705_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ts/705",
@@ -330,11 +331,11 @@
     "Evermore, IloveThee!",
     "The church is my home sweet home,",
     "She fills all my longing,",
-    "The Lord's beloved bride is she,",
+    "The Lord’s beloved bride is she,",
     "All my days for her shall be.",
     "O home full of love and care!",
-    "God's river of life we share;",
-    "I'm strengthened every day,",
+    "God’s river of life we share;",
+    "I’m strengthened every day,",
     "And guided all the way;",
     "Dear Church! How I love Thee,",
     "Home sweet home, I love Thee!"

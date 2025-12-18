@@ -80,7 +80,7 @@
             },
             {
               "chord": "",
-              "text": "婴 孩 降 生，"
+              "text": "嬰 孩 降 生，"
             }
           ]
         },
@@ -92,15 +92,15 @@
             },
             {
               "chord": "",
-              "text": "赐"
+              "text": "賜"
             },
             {
               "chord": "Em",
-              "text": "给 我"
+              "text": "給 我"
             },
             {
               "chord": "",
-              "text": "们，"
+              "text": "們，"
             }
           ]
         },
@@ -128,7 +128,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "A7",
@@ -144,11 +144,11 @@
           "segments": [
             {
               "chord": "A",
-              "text": "赞 美"
+              "text": "讚 美"
             },
             {
               "chord": "",
-              "text": "创"
+              "text": "創"
             },
             {
               "chord": "A7",
@@ -160,7 +160,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
@@ -180,7 +180,7 @@
             },
             {
               "chord": "E7",
-              "text": "灵 内"
+              "text": "靈 內"
             },
             {
               "chord": "A7",
@@ -192,11 +192,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "在 灵"
+              "text": "在 靈"
             },
             {
               "chord": "",
-              "text": "里 敬 拜 祂，"
+              "text": "裡 敬 拜 祂，"
             }
           ]
         },
@@ -204,11 +204,11 @@
           "segments": [
             {
               "chord": "B7",
-              "text": "爱 祂"
+              "text": "愛 祂"
             },
             {
               "chord": "",
-              "text": "并"
+              "text": "並"
             },
             {
               "chord": "Em",
@@ -244,7 +244,7 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
@@ -265,10 +265,11 @@
     "category": "享受基督",
     "time": "3/4",
     "hymn_code": "333211443322",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0227_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1085",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1085",
+        "language": "en",
         "category": "h",
         "number": "1085",
         "title": "E1085"
@@ -280,16 +281,16 @@
     "祂 的名是 策士，",
     "祂 是全能 的神，",
     "永 在的父；",
-    "有 一婴 孩 降 生，",
-    "一 子赐给 我们，",
+    "有 一嬰 孩 降 生，",
+    "一 子賜給 我們，",
     "祂 是和平 的君，",
-    "耶 稣我主。",
-    "赞 美创造 主，",
-    "耶 稣我 救 主，",
-    "生 命的灵 内住；",
-    "在 灵里 敬 拜 祂，",
-    "爱 祂并事 奉祂，",
+    "耶 穌我主。",
+    "讚 美創造 主，",
+    "耶 穌我 救 主，",
+    "生 命的靈 內住；",
+    "在 靈裡 敬 拜 祂，",
+    "愛 祂並事 奉祂，",
     "祂 的名是 奇妙，",
-    "耶 稣我主。"
+    "耶 穌我主。"
   ]
 }

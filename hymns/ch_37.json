@@ -16,11 +16,11 @@
             },
             {
               "chord": "G",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "A",
-              "text": "现"
+              "text": "現"
             },
             {
               "chord": "D",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "A",
-              "text": "来；"
+              "text": "來；"
             }
           ]
         },
@@ -56,7 +56,7 @@
             },
             {
               "chord": "",
-              "text": "儿 女"
+              "text": "兒 女"
             },
             {
               "chord": "G",
@@ -76,11 +76,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "愿 得"
+              "text": "願 得"
             },
             {
               "chord": "",
-              "text": "应 许"
+              "text": "應 許"
             },
             {
               "chord": "E7",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "A",
-              "text": "气。"
+              "text": "氣。"
             }
           ]
         },
@@ -96,7 +96,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "祂 的 宝 血 已 洗 我 们，"
+              "text": "祂 的 寶 血 已 洗 我 們，"
             }
           ]
         },
@@ -104,7 +104,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
@@ -112,7 +112,7 @@
             },
             {
               "chord": "E7",
-              "text": "来 得"
+              "text": "來 得"
             },
             {
               "chord": "A",
@@ -124,7 +124,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "你 灵"
+              "text": "你 靈"
             },
             {
               "chord": "",
@@ -136,7 +136,7 @@
             },
             {
               "chord": "D",
-              "text": "我 们"
+              "text": "我 們"
             }
           ]
         },
@@ -383,10 +383,11 @@
     "category": "敬拜父",
     "time": "4/4",
     "hymn_code": "12324327165432315",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0037_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/43",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/43",
+        "language": "en",
         "category": "h",
         "number": "43",
         "title": "E43"
@@ -394,13 +395,13 @@
     ]
   },
   "raw_sections": [
-    "阿 爸，父 阿，我 们现在",
-    "因 主到 你面 前来；",
-    "你 的儿 女到 此聚集，",
-    "愿 得应 许的 福气。",
-    "祂 的 宝 血 已 洗 我 们，",
-    "我 们藉 祂来 得恩；",
-    "你 灵也 已指 教我 们",
+    "阿 爸，父 阿，我 們現在",
+    "因 主到 你面 前來；",
+    "你 的兒 女到 此聚集，",
+    "願 得應 許的 福氣。",
+    "祂 的 寶 血 已 洗 我 們，",
+    "我 們藉 祂來 得恩；",
+    "你 靈也 已指 教我 們",
     "呼 喊阿 爸，近你身。",
     "我们从前好像浪子，",
     "离你流荡真无知；",

@@ -20,7 +20,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "标 竿 是 万 有"
+              "text": "標 竿 是 萬 有"
             },
             {
               "chord": "G",
@@ -32,19 +32,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "为 得 奖"
+              "text": "為 得 獎"
             },
             {
               "chord": "G7",
-              "text": "赏， 别"
+              "text": "賞， 別"
             },
             {
               "chord": "C",
-              "text": "无 旁"
+              "text": "無 旁"
             },
             {
               "chord": "",
-              "text": "顾，"
+              "text": "顧，"
             }
           ]
         },
@@ -110,7 +110,7 @@
             },
             {
               "chord": "C",
-              "text": "路 亚，"
+              "text": "路 亞，"
             }
           ]
         },
@@ -118,7 +118,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "要 得 奖 赏 向 前"
+              "text": "要 得 獎 賞 向 前"
             },
             {
               "chord": "G7",
@@ -134,7 +134,7 @@
             },
             {
               "chord": "C",
-              "text": "跑！ 为"
+              "text": "跑！ 為"
             },
             {
               "chord": "F",
@@ -387,10 +387,11 @@
     "category": "追求与长进",
     "time": "4/4",
     "hymn_code": "55554433333534",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0423_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1205",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1205",
+        "language": "en",
         "category": "h",
         "number": "1205",
         "title": "E1205"
@@ -399,13 +400,13 @@
   },
   "raw_sections": [
     "向 前直 跑， 向 前 直 跑！",
-    "标 竿 是 万 有主；",
-    "为 得 奖赏， 别无 旁顾，",
+    "標 竿 是 萬 有主；",
+    "為 得 獎賞， 別無 旁顧，",
     "一直 跑向 基督。",
     "向 前跑， 向前跑，",
-    "向 前跑！ 阿利路 亚，",
-    "要 得 奖 赏 向 前跑，",
-    "一 直跑！ 为要 得著基督。",
+    "向 前跑！ 阿利路 亞，",
+    "要 得 獎 賞 向 前跑，",
+    "一 直跑！ 為要 得著基督。",
     "向前直跑！丢弃万事，",
     "看万物如粪土！",
     "神的基督，荣耀奖赏，",

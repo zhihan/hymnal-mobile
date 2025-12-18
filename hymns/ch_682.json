@@ -12,11 +12,11 @@
             },
             {
               "chord": "D",
-              "text": "听 救"
+              "text": "聽 救"
             },
             {
               "chord": "G",
-              "text": "主 声"
+              "text": "主 聲"
             },
             {
               "chord": "D",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "说"
+              "text": "說"
             },
             {
               "chord": "Em",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "D",
-              "text": "非 诚"
+              "text": "非 誠"
             },
             {
               "chord": "A",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "D",
-              "text": "过。"
+              "text": "過。"
             }
           ]
         }
@@ -98,7 +98,7 @@
             },
             {
               "chord": "A7",
-              "text": "千 万"
+              "text": "千 萬"
             },
             {
               "chord": "D",
@@ -114,11 +114,11 @@
             },
             {
               "chord": "Bm",
-              "text": "我 还"
+              "text": "我 還"
             },
             {
               "chord": "Em",
-              "text": "尽；"
+              "text": "盡；"
             }
           ]
         },
@@ -150,11 +150,11 @@
             },
             {
               "chord": "A7",
-              "text": "免、 怜"
+              "text": "免、 憐"
             },
             {
               "chord": "G",
-              "text": "悯。"
+              "text": "憫。"
             }
           ]
         }
@@ -466,10 +466,11 @@
     "category": "福音",
     "time": "3/4",
     "hymn_code": "1356531122123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0682_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/997",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/997",
+        "language": "en",
         "category": "h",
         "number": "997",
         "title": "E997"
@@ -477,14 +478,14 @@
     ]
   },
   "raw_sections": [
-    "我听 救主 声音，",
-    "说我 能力 薄弱，",
-    "若非 诚心 相信，",
-    "不能 免去 罪过。",
-    "我 欠千 万金，",
-    "主 替我 还尽；",
+    "我聽 救主 聲音，",
+    "說我 能力 薄弱，",
+    "若非 誠心 相信，",
+    "不能 免去 罪過。",
+    "我 欠千 萬金，",
+    "主 替我 還盡；",
     "一 生犯 罪 真 苦辛，",
-    "主今 赦免、 怜悯。",
+    "主今 赦免、 憐憫。",
     "主，我今才看明，",
     "惟你有这力量，",
     "能洗污秽洁净，",

@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "或 这"
+              "text": "或 這"
             },
             {
               "chord": "",
-              "text": "样，"
+              "text": "樣，"
             },
             {
               "chord": "A",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "那 样，"
+              "text": "那 樣，"
             }
           ]
         },
@@ -32,7 +32,7 @@
             },
             {
               "chord": "D",
-              "text": "总 必"
+              "text": "總 必"
             },
             {
               "chord": "G",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "A",
-              "text": "备："
+              "text": "備："
             }
           ]
         },
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "虽"
+              "text": "雖"
             },
             {
               "chord": "G",
@@ -108,11 +108,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "D",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "A7",
@@ -120,7 +120,7 @@
             },
             {
               "chord": "D",
-              "text": "备。"
+              "text": "備。"
             }
           ]
         }
@@ -162,7 +162,7 @@
             },
             {
               "chord": "A",
-              "text": "备；"
+              "text": "備；"
             }
           ]
         },
@@ -202,7 +202,7 @@
             },
             {
               "chord": "D",
-              "text": "备。"
+              "text": "備。"
             }
           ]
         }
@@ -487,10 +487,11 @@
     "category": "试炼中的安慰",
     "time": "3/4",
     "hymn_code": "51123323345",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0513_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/705",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/705",
+        "language": "en",
         "category": "h",
         "number": "705",
         "title": "E705"
@@ -498,16 +499,16 @@
     ]
   },
   "raw_sections": [
-    "或 这样，或那 样，",
-    "主总 必豫备：",
-    "虽不 照我方 法，",
+    "或 這樣，或那 樣，",
+    "主總 必豫備：",
+    "雖不 照我方 法，",
     "也不 照你方 法，",
     "主要 照祂方 法，",
-    "为我 们豫备。",
+    "為我 們豫備。",
     "我 安 心靠主，",
-    "因主 必豫备；",
+    "因主 必豫備；",
     "我完 全望主，",
-    "因主 要豫备。",
+    "因主 要豫備。",
     "或这时，或那时，",
     "主总必豫备：",
     "虽不照我时候，",

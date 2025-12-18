@@ -16,11 +16,11 @@
             },
             {
               "chord": "Am",
-              "text": "稣，"
+              "text": "穌，"
             },
             {
               "chord": "C",
-              "text": "当"
+              "text": "當"
             },
             {
               "chord": "F",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "Am",
-              "text": "们 与"
+              "text": "們 與"
             },
             {
               "chord": "D7",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "G",
-              "text": "处；"
+              "text": "處；"
             }
           ]
         },
@@ -80,7 +80,7 @@
             },
             {
               "chord": "C",
-              "text": "们 对"
+              "text": "們 對"
             },
             {
               "chord": "Dm",
@@ -104,7 +104,7 @@
             },
             {
               "chord": "F",
-              "text": "识"
+              "text": "識"
             },
             {
               "chord": "G7",
@@ -112,7 +112,7 @@
             },
             {
               "chord": "Am",
-              "text": "识，"
+              "text": "識，"
             },
             {
               "chord": "C",
@@ -445,10 +445,11 @@
     "category": "经历基督",
     "time": "3/4",
     "hymn_code": "135154321131671545",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0370_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/489",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/489",
+        "language": "en",
         "category": "h",
         "number": "489",
         "title": "E489"
@@ -456,10 +457,10 @@
     ]
   },
   "raw_sections": [
-    "哦， 主耶稣，当你在地，",
-    "他们 与你 多年同处；",
-    "但是他们 对你自己，",
-    "似识不识，似悟不悟。",
+    "哦， 主耶穌，當你在地，",
+    "他們 與你 多年同處；",
+    "但是他們 對你自己，",
+    "似識不識，似悟不悟。",
     "他们听过你的声音，",
     "他们见过你的丰姿，",
     "他们挤过你的肉身，",

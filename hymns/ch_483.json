@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "前 进！"
+              "text": "前 進！"
             },
             {
               "chord": "G",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "A",
-              "text": "号，"
+              "text": "號，"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "步 声"
+              "text": "步 聲"
             },
             {
               "chord": "G",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "A",
-              "text": "联；"
+              "text": "聯；"
             }
           ]
         },
@@ -48,7 +48,7 @@
             },
             {
               "chord": "B",
-              "text": "标 竿"
+              "text": "標 竿"
             },
             {
               "chord": "Em",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "A7",
-              "text": "回 头"
+              "text": "回 頭"
             },
             {
               "chord": "D",
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "军 前"
+              "text": "軍 前"
             },
             {
               "chord": "A7",
@@ -84,11 +84,11 @@
             },
             {
               "chord": "D",
-              "text": "灿"
+              "text": "燦"
             },
             {
               "chord": "B7",
-              "text": "烂，"
+              "text": "爛，"
             }
           ]
         },
@@ -112,11 +112,11 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "谁 还"
+              "text": "誰 還"
             },
             {
               "chord": "A7",
-              "text": "畏 缩"
+              "text": "畏 縮"
             },
             {
               "chord": "D",
@@ -140,7 +140,7 @@
             },
             {
               "chord": "D",
-              "text": "领。"
+              "text": "領。"
             }
           ]
         },
@@ -148,15 +148,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "前 进！"
+              "text": "前 進！"
             },
             {
               "chord": "G",
-              "text": "经 过"
+              "text": "經 過"
             },
             {
               "chord": "D",
-              "text": "旷"
+              "text": "曠"
             },
             {
               "chord": "A",
@@ -168,15 +168,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "经 过"
+              "text": "經 過"
             },
             {
               "chord": "G",
-              "text": "苦 战"
+              "text": "苦 戰"
             },
             {
               "chord": "A",
-              "text": "争；"
+              "text": "爭；"
             }
           ]
         },
@@ -192,7 +192,7 @@
             },
             {
               "chord": "Em",
-              "text": "隐 约，"
+              "text": "隱 約，"
             }
           ]
         },
@@ -200,7 +200,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "锡 安"
+              "text": "錫 安"
             },
             {
               "chord": "A7",
@@ -425,10 +425,11 @@
     "category": "鼓励",
     "time": "4/4",
     "hymn_code": "33221555662443326",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0483_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/663",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/663",
+        "language": "en",
         "category": "h",
         "number": "663",
         "title": "E663"
@@ -436,18 +437,18 @@
     ]
   },
   "raw_sections": [
-    "前 进！是 我口号，",
-    "步 声相 接联；",
-    "向 著标 竿直 跑，",
-    "永 不回 头看。",
-    "军 前火 柱灿烂，",
+    "前 進！是 我口號，",
+    "步 聲相 接聯；",
+    "向 著標 竿直 跑，",
+    "永 不回 頭看。",
+    "軍 前火 柱燦爛，",
     "照 明我 路程；",
-    "谁 还畏 缩不前，",
-    "基 督在 率领。",
-    "前 进！经 过旷野，",
-    "经 过苦 战争；",
-    "迦 南不 再隐 约，",
-    "锡 安放 光明。",
+    "誰 還畏 縮不前，",
+    "基 督在 率領。",
+    "前 進！經 過曠野，",
+    "經 過苦 戰爭；",
+    "迦 南不 再隱 約，",
+    "錫 安放 光明。",
     "荣耀又加荣耀，",
     "父神已豫备；",
     "凡爱神者必要",

@@ -12,7 +12,7 @@
             },
             {
               "chord": "G",
-              "text": "时 当"
+              "text": "時 當"
             },
             {
               "chord": "D",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "",
-              "text": "稣，"
+              "text": "穌，"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "A",
-              "text": "稣 在"
+              "text": "穌 在"
             },
             {
               "chord": "D",
@@ -80,19 +80,19 @@
           "segments": [
             {
               "chord": "A",
-              "text": "众 人"
+              "text": "眾 人"
             },
             {
               "chord": "",
-              "text": "拢"
+              "text": "攏"
             },
             {
               "chord": "D",
-              "text": "总 当"
+              "text": "總 當"
             },
             {
               "chord": "",
-              "text": "来，"
+              "text": "來，"
             }
           ]
         },
@@ -100,15 +100,15 @@
           "segments": [
             {
               "chord": "G",
-              "text": "时 日"
+              "text": "時 日"
             },
             {
               "chord": "",
-              "text": "机"
+              "text": "機"
             },
             {
               "chord": "D",
-              "text": "会 不"
+              "text": "會 不"
             },
             {
               "chord": "A",
@@ -124,7 +124,7 @@
             },
             {
               "chord": "A",
-              "text": "可 迟"
+              "text": "可 遲"
             },
             {
               "chord": "Bm",
@@ -144,7 +144,7 @@
             },
             {
               "chord": "A7",
-              "text": "稣 在"
+              "text": "穌 在"
             },
             {
               "chord": "D",
@@ -371,10 +371,11 @@
     "category": "福音",
     "time": "6/8",
     "hymn_code": "56532121235",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0714_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8714",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8714",
+        "language": "en",
         "category": "h",
         "number": "8714",
         "title": "E8714"
@@ -382,14 +383,14 @@
     ]
   },
   "raw_sections": [
-    "此时 当就 耶稣，",
-    "耶 稣在此；",
+    "此時 當就 耶穌，",
+    "耶 穌在此；",
     "不可 再行 死路，",
-    "耶稣 在此；",
-    "众 人拢总 当来，",
-    "时 日机会 不再，",
-    "不可 迟延 等待，",
-    "耶稣 在此。",
+    "耶穌 在此；",
+    "眾 人攏總 當來，",
+    "時 日機會 不再，",
+    "不可 遲延 等待，",
+    "耶穌 在此。",
     "此时当就耶稣，",
     "耶稣在此；",
     "不可因循自误，",

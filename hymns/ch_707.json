@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "我 听"
+              "text": "我 聽"
             },
             {
               "chord": "",
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "『跟 从"
+              "text": "『跟 從"
             },
             {
               "chord": "D",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "",
-              "text": "从"
+              "text": "從"
             },
             {
               "chord": "A7",
@@ -52,7 +52,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "从"
+              "text": "從"
             },
             {
               "chord": "D",
@@ -68,11 +68,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "声"
+              "text": "聲"
             },
             {
               "chord": "A7",
-              "text": "音 终"
+              "text": "音 終"
             },
             {
               "chord": "",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "",
-              "text": "从"
+              "text": "從"
             }
           ]
         },
@@ -96,7 +96,7 @@
             },
             {
               "chord": "",
-              "text": "从"
+              "text": "從"
             },
             {
               "chord": "A7",
@@ -104,7 +104,7 @@
             },
             {
               "chord": "",
-              "text": "从"
+              "text": "從"
             },
             {
               "chord": "D",
@@ -116,7 +116,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "G",
@@ -128,11 +128,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "走 艰 辛 路"
+              "text": "走 艱 辛 路"
             },
             {
               "chord": "Bm",
-              "text": "途， 为"
+              "text": "途， 為"
             },
             {
               "chord": "Em",
@@ -152,11 +152,11 @@
             },
             {
               "chord": "D7",
-              "text": "顾， 并"
+              "text": "顧， 並"
             },
             {
               "chord": "G",
-              "text": "尝 苦"
+              "text": "嘗 苦"
             }
           ]
         },
@@ -164,15 +164,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "胆 免 你 重"
+              "text": "膽 免 你 重"
             },
             {
               "chord": "Bm",
-              "text": "负， 跟"
+              "text": "負， 跟"
             },
             {
               "chord": "",
-              "text": "从"
+              "text": "從"
             },
             {
               "chord": "G",
@@ -184,7 +184,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "跟 从"
+              "text": "跟 從"
             },
             {
               "chord": "A7",
@@ -192,7 +192,7 @@
             },
             {
               "chord": "",
-              "text": "从"
+              "text": "從"
             },
             {
               "chord": "D",
@@ -397,10 +397,11 @@
     "category": "福音",
     "time": "4/4",
     "hymn_code": "13232353123342671",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0707_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1030",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1030",
+        "language": "en",
         "category": "h",
         "number": "1030",
         "title": "E1030"
@@ -408,16 +409,16 @@
     ]
   },
   "raw_sections": [
-    "我 听我的 救主 吩咐：",
-    "『跟 从我， 跟从我， 跟",
-    "从我；』 祂的",
-    "声音 终日 招呼： 『跟从",
-    "我， 跟从我， 跟从我；",
-    "为你， 我",
-    "走 艰 辛 路途， 为你， 我",
-    "曾 性命 不顾， 并尝 苦",
-    "胆 免 你 重负， 跟从我，",
-    "跟 从我， 跟从我。",
+    "我 聽我的 救主 吩咐：",
+    "『跟 從我， 跟從我， 跟",
+    "從我；』 祂的",
+    "聲音 終日 招呼： 『跟從",
+    "我， 跟從我， 跟從我；",
+    "為你， 我",
+    "走 艱 辛 路途， 為你， 我",
+    "曾 性命 不顧， 並嘗 苦",
+    "膽 免 你 重負， 跟從我，",
+    "跟 從我， 跟從我。",
     "你虽有罪，我必宽宥，",
     "跟从我，跟从我，",
     "跟从我；",

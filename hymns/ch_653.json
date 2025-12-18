@@ -20,7 +20,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "来 为 主 同 作 工；"
+              "text": "來 為 主 同 作 工；"
             }
           ]
         },
@@ -52,7 +52,7 @@
             },
             {
               "chord": "D",
-              "text": "话 来"
+              "text": "話 來"
             },
             {
               "chord": "",
@@ -92,15 +92,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "为 召"
+              "text": "為 召"
             },
             {
               "chord": "A",
-              "text": "会， 为"
+              "text": "會， 為"
             },
             {
               "chord": "",
-              "text": "国"
+              "text": "國"
             },
             {
               "chord": "E7",
@@ -112,7 +112,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "在 此 时 同 事"
+              "text": "在 此 時 同 事"
             },
             {
               "chord": "A7",
@@ -182,11 +182,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "与"
+              "text": "與"
             },
             {
               "chord": "D",
-              "text": "圣 徒"
+              "text": "聖 徒"
             },
             {
               "chord": "",
@@ -424,10 +424,11 @@
     "category": "事奉",
     "time": "4/4",
     "hymn_code": "345555123333",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0653_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/909",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/909",
+        "language": "en",
         "category": "h",
         "number": "909",
         "title": "E909"
@@ -436,17 +437,17 @@
   },
   "raw_sections": [
     "在 流中！ 在 流 中！",
-    "来 为 主 同 作 工；",
+    "來 為 主 同 作 工；",
     "遵 主旨， 行主路，",
-    "照 主话 来事奉。",
+    "照 主話 來事奉。",
     "在 生命 水流 中，",
     "靠 主 能 而 作 工；",
-    "为 召会， 为国度，",
-    "在 此 时 同 事奉。",
+    "為 召會， 為國度，",
+    "在 此 時 同 事奉。",
     "在 流中！ 在流中！",
     "同 作 工在 流中！",
     "在 流 中！在 流中！",
-    "与圣 徒配 搭而 事奉。",
+    "與聖 徒配 搭而 事奉。",
     "在流中！在流中！",
     "来为主同作工；",
     "在圣灵水流中，",

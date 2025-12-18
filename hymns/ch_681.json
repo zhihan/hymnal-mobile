@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "救 主 身 悬 木 架，"
+              "text": "救 主 身 懸 木 架，"
             }
           ]
         },
@@ -28,7 +28,7 @@
             },
             {
               "chord": "Em",
-              "text": "钉 难"
+              "text": "釘 難"
             },
             {
               "chord": "A",
@@ -40,11 +40,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "头"
+              "text": "頭"
             },
             {
               "chord": "D",
-              "text": "戴 荆"
+              "text": "戴 荊"
             },
             {
               "chord": "A",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "A7",
-              "text": "打 伤"
+              "text": "打 傷"
             },
             {
               "chord": "D",
@@ -102,7 +102,7 @@
             },
             {
               "chord": "Em",
-              "text": "见 主"
+              "text": "見 主"
             },
             {
               "chord": "",
@@ -118,7 +118,7 @@
             },
             {
               "chord": "A7",
-              "text": "担 从"
+              "text": "擔 從"
             },
             {
               "chord": "",
@@ -126,7 +126,7 @@
             },
             {
               "chord": "D",
-              "text": "脱！"
+              "text": "脫！"
             }
           ]
         },
@@ -170,15 +170,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "从 今"
+              "text": "從 今"
             },
             {
               "chord": "Em",
-              "text": "后， 我"
+              "text": "後， 我"
             },
             {
               "chord": "",
-              "text": "终"
+              "text": "終"
             },
             {
               "chord": "A7",
@@ -186,11 +186,11 @@
             },
             {
               "chord": "",
-              "text": "欢"
+              "text": "歡"
             },
             {
               "chord": "D",
-              "text": "乐！"
+              "text": "樂！"
             }
           ]
         }
@@ -657,10 +657,11 @@
     "category": "福音",
     "time": "4/4",
     "hymn_code": "13213543565432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0681_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/999",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/999",
+        "language": "en",
         "category": "h",
         "number": "999",
         "title": "E999"
@@ -668,16 +669,16 @@
     ]
   },
   "raw_sections": [
-    "阿 呀！救 主 身 悬 木 架，",
-    "手足 被钉 难忍，",
-    "头戴 荆冕， 利刺 痛扎，",
-    "身有 鞭打 伤痕。",
+    "阿 呀！救 主 身 懸 木 架，",
+    "手足 被釘 難忍，",
+    "頭戴 荊冕， 利刺 痛扎，",
+    "身有 鞭打 傷痕。",
     "在 十 架， 在 十 架，",
-    "我 看见 主恩 光，",
-    "罪 重担 从我 身 全 卸脱！",
+    "我 看見 主恩 光，",
+    "罪 重擔 從我 身 全 卸脫！",
     "在 十架， 我因 信，",
     "眼 明亮， 心平康，",
-    "从 今后， 我终日 能欢乐！",
+    "從 今後， 我終日 能歡樂！",
     "祂在十架这样被难，",
     "乃是替我受谴；",
     "怜悯惊人，恩难测算，",

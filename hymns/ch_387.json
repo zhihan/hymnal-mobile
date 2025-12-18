@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "无 论"
+              "text": "無 論"
             },
             {
               "chord": "A",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "D",
-              "text": "恶 如"
+              "text": "惡 如"
             },
             {
               "chord": "",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "E",
-              "text": "剧，"
+              "text": "劇，"
             }
           ]
         },
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "无 论"
+              "text": "無 論"
             },
             {
               "chord": "",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "A",
-              "text": "岖，"
+              "text": "嶇，"
             }
           ]
         },
@@ -56,7 +56,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "无 论"
+              "text": "無 論"
             },
             {
               "chord": "A",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "Em",
-              "text": "虑，"
+              "text": "慮，"
             }
           ]
         },
@@ -84,7 +84,7 @@
             },
             {
               "chord": "",
-              "text": "总"
+              "text": "總"
             },
             {
               "chord": "A7",
@@ -257,10 +257,11 @@
     "category": "经历基督",
     "time": "3/4",
     "hymn_code": "5123355444433262",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0387_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/533",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/533",
+        "language": "en",
         "category": "h",
         "number": "533",
         "title": "E533"
@@ -268,10 +269,10 @@
     ]
   },
   "raw_sections": [
-    "无 论罪恶 如何 深剧，",
-    "无 论道路 如何 崎岖，",
-    "无 论境遇 如何 可虑，",
-    "主， 你总是 彀用！",
+    "無 論罪惡 如何 深劇，",
+    "無 論道路 如何 崎嶇，",
+    "無 論境遇 如何 可慮，",
+    "主， 你總是 彀用！",
     "遇到试炼，无论大小，",
     "有了罣虑，无论多少，",
     "即使脚步尽都跌倒，",

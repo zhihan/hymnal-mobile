@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "亲 爱"
+              "text": "親 愛"
             },
             {
               "chord": "",
@@ -16,11 +16,11 @@
             },
             {
               "chord": "C",
-              "text": "宝"
+              "text": "寶"
             },
             {
               "chord": "G",
-              "text": "贝 主！"
+              "text": "貝 主！"
             }
           ]
         },
@@ -32,7 +32,7 @@
             },
             {
               "chord": "D",
-              "text": "轻 视"
+              "text": "輕 視"
             },
             {
               "chord": "A7",
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "有 谁"
+              "text": "有 誰"
             },
             {
               "chord": "D7",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "G",
-              "text": "美 丽？"
+              "text": "美 麗？"
             }
           ]
         },
@@ -80,7 +80,7 @@
             },
             {
               "chord": "G",
-              "text": "柔 细？"
+              "text": "柔 細？"
             }
           ]
         },
@@ -88,7 +88,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 是 人 中 无 比，"
+              "text": "你 是 人 中 無 比，"
             }
           ]
         },
@@ -96,11 +96,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "谁 能"
+              "text": "誰 能"
             },
             {
               "chord": "D",
-              "text": "与 你"
+              "text": "與 你"
             },
             {
               "chord": "",
@@ -445,10 +445,11 @@
     "category": "羡慕",
     "time": "3/4",
     "hymn_code": "565176535171765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0275_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1158",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1158",
+        "language": "en",
         "category": "h",
         "number": "1158",
         "title": "E1158"
@@ -456,12 +457,12 @@
     ]
   },
   "raw_sections": [
-    "亲 爱主！宝贝 主！",
-    "我轻 视我 事物；",
-    "有 谁像 你如 此美 丽？",
-    "如 此甘 甜？如 此柔 细？",
-    "你 是 人 中 无 比，",
-    "谁 能与 你相匹？",
+    "親 愛主！寶貝 主！",
+    "我輕 視我 事物；",
+    "有 誰像 你如 此美 麗？",
+    "如 此甘 甜？如 此柔 細？",
+    "你 是 人 中 無 比，",
+    "誰 能與 你相匹？",
     "亲爱主！宝贝主！",
     "我听见你招呼；",
     "你的声音入我心内，",

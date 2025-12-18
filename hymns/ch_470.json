@@ -16,7 +16,7 @@
             },
             {
               "chord": "A",
-              "text": "代 价，"
+              "text": "代 價，"
             }
           ]
         },
@@ -24,7 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "愿 背"
+              "text": "願 背"
             },
             {
               "chord": "G",
@@ -40,15 +40,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "A7",
-              "text": "才 会"
+              "text": "纔 會"
             },
             {
               "chord": "",
-              "text": "得 胜，"
+              "text": "得 勝，"
             }
           ]
         },
@@ -56,7 +56,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "才 会"
+              "text": "纔 會"
             },
             {
               "chord": "A",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "E7",
-              "text": "权"
+              "text": "權"
             },
             {
               "chord": "A",
@@ -116,7 +116,7 @@
             },
             {
               "chord": "G",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "A",
@@ -132,7 +132,7 @@
             },
             {
               "chord": "D",
-              "text": "们"
+              "text": "們"
             },
             {
               "chord": "A7",
@@ -140,7 +140,7 @@
             },
             {
               "chord": "D",
-              "text": "赢。"
+              "text": "贏。"
             }
           ]
         }
@@ -162,7 +162,7 @@
             },
             {
               "chord": "Bm",
-              "text": "代 价，"
+              "text": "代 價，"
             }
           ]
         },
@@ -170,7 +170,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "愿 背"
+              "text": "願 背"
             },
             {
               "chord": "A7",
@@ -186,15 +186,15 @@
           "segments": [
             {
               "chord": "G",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "D",
-              "text": "才 会"
+              "text": "纔 會"
             },
             {
               "chord": "Em",
-              "text": "得 胜，"
+              "text": "得 勝，"
             }
           ]
         },
@@ -202,11 +202,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "才"
+              "text": "纔"
             },
             {
               "chord": "G",
-              "text": "会"
+              "text": "會"
             },
             {
               "chord": "D",
@@ -214,7 +214,7 @@
             },
             {
               "chord": "A7",
-              "text": "权"
+              "text": "權"
             },
             {
               "chord": "D",
@@ -551,10 +551,11 @@
     "category": "十字架的道路",
     "time": "4/4",
     "hymn_code": "516217731432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0470_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/634",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/634",
+        "language": "en",
         "category": "h",
         "number": "634",
         "title": "E634"
@@ -562,18 +563,18 @@
     ]
   },
   "raw_sections": [
-    "惟 有常 出代 价，",
-    "愿 背十 字架，",
-    "我 们才 会得 胜，",
-    "才 会得权能。",
+    "惟 有常 出代 價，",
+    "願 背十 字架，",
+    "我 們纔 會得 勝，",
+    "纔 會得權能。",
     "不 是自 己力量，",
     "不 是人 思想，",
-    "乃 是耶 稣尊 名，",
-    "使 我们得赢。",
-    "惟 有常 出代 价，",
-    "愿 背十 字架，",
-    "我 们才 会得 胜，",
-    "才会得权能。",
+    "乃 是耶 穌尊 名，",
+    "使 我們得贏。",
+    "惟 有常 出代 價，",
+    "願 背十 字架，",
+    "我 們纔 會得 勝，",
+    "纔會得權能。",
     "应当除去夸耀，",
     "绝一切机巧；",
     "我们应当争战，",

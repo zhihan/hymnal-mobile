@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/8714",
+  "url": "https://www.hymnal.net/en/hymn/h/8714",
   "title": "Do come to Jesus now",
   "verses": [
     {
@@ -194,7 +194,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "The Savior's favor gain;"
+              "text": "The Savior’s favor gain;"
             }
           ]
         },
@@ -202,7 +202,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Break now from Satan's chain;"
+              "text": "Break now from Satan’s chain;"
             }
           ]
         },
@@ -334,7 +334,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Redemption's work is done;"
+              "text": "Redemption’s work is done;"
             }
           ]
         },
@@ -371,6 +371,7 @@
     "category": "Gospel",
     "time": "6/8",
     "hymn_code": "56532121235",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e8714_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ch/714",
@@ -394,8 +395,8 @@
     "Jesus is here.",
     "Nor drift, sure loss allow;",
     "Jesus is here.",
-    "The Savior's favor gain;",
-    "Break now from Satan's chain;",
+    "The Savior’s favor gain;",
+    "Break now from Satan’s chain;",
     "Love not this world again.",
     "Jesus is here.",
     "Do come to Jesus now;",
@@ -410,7 +411,7 @@
     "Jesus is here.",
     "To His dominion bow;",
     "Jesus is here.",
-    "Redemption's work is done;",
+    "Redemption’s work is done;",
     "He is your hope alone;",
     "Unto His welcome run.",
     "Jesus is here."

@@ -16,11 +16,11 @@
             },
             {
               "chord": "C",
-              "text": "为 我"
+              "text": "為 我"
             },
             {
               "chord": "G",
-              "text": "开，"
+              "text": "開，"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "让 我"
+              "text": "讓 我"
             },
             {
               "chord": "G",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "G",
-              "text": "怀；"
+              "text": "懷；"
             }
           ]
         },
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "愿 你"
+              "text": "願 你"
             },
             {
               "chord": "Am",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "D",
-              "text": "血 与"
+              "text": "血 與"
             },
             {
               "chord": "Em",
@@ -68,7 +68,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "解 决"
+              "text": "解 決"
             },
             {
               "chord": "Am",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "D7",
-              "text": "双 重"
+              "text": "雙 重"
             },
             {
               "chord": "G",
@@ -88,7 +88,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "赎 我"
+              "text": "贖 我"
             },
             {
               "chord": "G",
@@ -112,11 +112,11 @@
             },
             {
               "chord": "G",
-              "text": "脱 离"
+              "text": "脫 離"
             },
             {
               "chord": "D7",
-              "text": "它 权"
+              "text": "它 權"
             },
             {
               "chord": "C",
@@ -295,10 +295,11 @@
     "category": "福音",
     "time": "3/4",
     "hymn_code": "56531651232171",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0731_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1058",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1058",
+        "language": "en",
         "category": "h",
         "number": "1058",
         "title": "E1058"
@@ -306,12 +307,12 @@
     ]
   },
   "raw_sections": [
-    "永 久磐 石为 我开，",
-    "让 我藏 身在 你怀；",
-    "愿 你所 流血 与水，",
-    "解 决我 的双 重罪：",
-    "赎 我免 去它 永刑，",
-    "救 我脱 离它 权能。",
+    "永 久磐 石為 我開，",
+    "讓 我藏 身在 你懷；",
+    "願 你所 流血 與水，",
+    "解 決我 的雙 重罪：",
+    "贖 我免 去它 永刑，",
+    "救 我脫 離它 權能。",
     "纵我双手不罢休，",
     "不能满足你要求；",
     "纵我热心能持久，",

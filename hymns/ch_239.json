@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "神 将"
+              "text": "神 將"
             },
             {
               "chord": "",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "G7",
-              "text": "罪 归"
+              "text": "罪 歸"
             },
             {
               "chord": "C",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "Am",
-              "text": "稣，"
+              "text": "穌，"
             }
           ]
         },
@@ -36,11 +36,11 @@
             },
             {
               "chord": "G",
-              "text": "的 圣"
+              "text": "的 聖"
             },
             {
               "chord": "Em",
-              "text": "洁 羔"
+              "text": "潔 羔"
             },
             {
               "chord": "Am",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "Am",
-              "text": "诅，"
+              "text": "詛，"
             }
           ]
         },
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "将"
+              "text": "將"
             },
             {
               "chord": "G",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "D7",
-              "text": "人 释"
+              "text": "人 釋"
             },
             {
               "chord": "G",
@@ -100,15 +100,15 @@
             },
             {
               "chord": "D",
-              "text": "将 我"
+              "text": "將 我"
             },
             {
               "chord": "",
-              "text": "愆 归"
+              "text": "愆 歸"
             },
             {
               "chord": "G",
-              "text": "耶 稣，"
+              "text": "耶 穌，"
             }
           ]
         },
@@ -120,7 +120,7 @@
             },
             {
               "chord": "C",
-              "text": "的 无"
+              "text": "的 無"
             },
             {
               "chord": "Am",
@@ -160,7 +160,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "将"
+              "text": "將"
             },
             {
               "chord": "G",
@@ -168,11 +168,11 @@
             },
             {
               "chord": "D7",
-              "text": "债 清"
+              "text": "債 清"
             },
             {
               "chord": "G",
-              "text": "偿。"
+              "text": "償。"
             }
           ]
         }
@@ -395,10 +395,11 @@
     "category": "得救的证实与快乐",
     "time": "4/4",
     "hymn_code": "5113116151232",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0239_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8239",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8239",
+        "language": "en",
         "category": "h",
         "number": "8239",
         "title": "E8239"
@@ -406,14 +407,14 @@
     ]
   },
   "raw_sections": [
-    "神 将我罪 归耶稣，",
-    "神的 圣洁 羔羊；",
-    "使祂 替我 受咒诅，",
-    "将我 全人 释放。",
-    "神将 我愆 归耶 稣，",
-    "神的 无疵 羔羊；",
+    "神 將我罪 歸耶穌，",
+    "神的 聖潔 羔羊；",
+    "使祂 替我 受咒詛，",
+    "將我 全人 釋放。",
+    "神將 我愆 歸耶 穌，",
+    "神的 無疵 羔羊；",
     "使祂 替我 受痛苦，",
-    "将我 罪债 清偿。",
+    "將我 罪債 清償。",
     "我的疾病归耶稣，",
     "为我祂受鞭伤；",
     "我的软弱祂背负，",

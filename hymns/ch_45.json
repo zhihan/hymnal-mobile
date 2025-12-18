@@ -12,11 +12,11 @@
             },
             {
               "chord": "",
-              "text": "我 们 称"
+              "text": "我 們 稱"
             },
             {
               "chord": "G",
-              "text": "颂"
+              "text": "頌"
             },
             {
               "chord": "C",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "E7",
-              "text": "们 欢"
+              "text": "們 歡"
             },
             {
               "chord": "F",
@@ -48,11 +48,11 @@
             },
             {
               "chord": "C",
-              "text": "远 脱"
+              "text": "遠 脫"
             },
             {
               "chord": "E7",
-              "text": "开 了"
+              "text": "開 了"
             },
             {
               "chord": "Am",
@@ -64,11 +64,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "与"
+              "text": "與"
             },
             {
               "chord": "D",
-              "text": "你 儿"
+              "text": "你 兒"
             },
             {
               "chord": "",
@@ -128,7 +128,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "E7",
@@ -136,7 +136,7 @@
             },
             {
               "chord": "Am",
-              "text": "爱 里，"
+              "text": "愛 裡，"
             },
             {
               "chord": "",
@@ -144,7 +144,7 @@
             },
             {
               "chord": "F",
-              "text": "远"
+              "text": "遠"
             }
           ]
         },
@@ -160,7 +160,7 @@
             },
             {
               "chord": "C",
-              "text": "宠。"
+              "text": "寵。"
             }
           ]
         }
@@ -313,10 +313,11 @@
     "category": "敬拜父",
     "time": "4/4",
     "hymn_code": "1214321351756",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0045_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/48",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/48",
+        "language": "en",
         "category": "h",
         "number": "48",
         "title": "E48"
@@ -324,14 +325,14 @@
     ]
   },
   "raw_sections": [
-    "父 神，我 们 称颂你，",
-    "你 前 我们 欢喜；",
-    "永远 脱开 了死 亡，",
-    "与你 儿子 一起。",
+    "父 神，我 們 稱頌你，",
+    "你 前 我們 歡喜；",
+    "永遠 脫開 了死 亡，",
+    "與你 兒子 一起。",
     "祂是 一『人』 活你前， 在那",
     "清 明 光中， 在你",
-    "无限 的爱 里，永远",
-    "蒙你 恩宠。",
+    "無限 的愛 裡，永遠",
+    "蒙你 恩寵。",
     "祂父就是我们父，",
     "祂神就是我神；",
     "祂是你爱的儿子，",

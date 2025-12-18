@@ -7,16 +7,8 @@
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "Before"
-            },
-            {
               "chord": "",
-              "text": "time be"
-            },
-            {
-              "chord": "D",
-              "text": "gan"
+              "text": "Before time began"
             }
           ]
         },
@@ -24,23 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "You de"
-            },
-            {
-              "chord": "Em",
-              "text": "sired to"
-            },
-            {
-              "chord": "D",
-              "text": "be one"
-            },
-            {
-              "chord": "",
-              "text": "with"
-            },
-            {
-              "chord": "C",
-              "text": "man."
+              "text": "You desired to be one with man."
             }
           ]
         },
@@ -48,39 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "You long for a"
-            },
-            {
-              "chord": "G",
-              "text": "bride"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D",
-              "text": "To share"
-            },
-            {
-              "chord": "",
-              "text": "in Your life."
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "G",
-              "text": "Though so"
-            },
-            {
-              "chord": "",
-              "text": "far a"
-            },
-            {
-              "chord": "D",
-              "text": "way,"
+              "text": "You long for a bride"
             }
           ]
         },
@@ -88,19 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Unde"
-            },
-            {
-              "chord": "Em",
-              "text": "terred, You"
-            },
-            {
-              "chord": "D",
-              "text": "called my"
-            },
-            {
-              "chord": "C",
-              "text": "name."
+              "text": "To share in Your life."
             }
           ]
         },
@@ -108,15 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "O Lord, You have"
-            },
-            {
-              "chord": "G",
-              "text": "won my"
-            },
-            {
-              "chord": "D",
-              "text": "heart."
+              "text": "Though so far away,"
             }
           ]
         },
@@ -124,11 +48,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "Love pre"
-            },
+              "text": "Undeterred, You called my name."
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "G",
-              "text": "vailed."
+              "chord": "",
+              "text": "O Lord, You have won my heart."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Love prevailed."
             }
           ]
         }
@@ -142,11 +78,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Love pre"
-            },
-            {
-              "chord": "D",
-              "text": "vails.Love"
+              "text": "Love prevails."
             }
           ]
         },
@@ -154,19 +86,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "pre"
-            },
-            {
-              "chord": "Em",
-              "text": "vails."
-            },
-            {
-              "chord": "C",
-              "text": "Your re"
-            },
-            {
-              "chord": "G",
-              "text": "sistless"
+              "text": "Love prevails."
             }
           ]
         },
@@ -174,23 +94,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "love"
-            },
-            {
-              "chord": "D",
-              "text": "never"
-            },
-            {
-              "chord": "",
-              "text": "fails. Love pre"
-            },
-            {
-              "chord": "Em",
-              "text": "vails."
-            },
-            {
-              "chord": "C",
-              "text": "Love"
+              "text": "Your resistless love never fails."
             }
           ]
         },
@@ -198,23 +102,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "pre"
-            },
-            {
-              "chord": "D",
-              "text": "vails.Your"
-            },
-            {
-              "chord": "",
-              "text": "love"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "Em",
-              "text": "has filled"
+              "text": "Love prevails."
             }
           ]
         },
@@ -222,19 +110,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "all"
-            },
-            {
-              "chord": "C",
-              "text": "our hearts."
-            },
+              "text": "Love prevails."
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "Love"
-            },
+              "text": "Your love has filled all our hearts."
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "G",
-              "text": "prevails."
+              "chord": "",
+              "text": "Love prevails."
             }
           ]
         }
@@ -507,23 +399,25 @@
   "metadata": {
     "category": "Experience of Christ",
     "time": "4/4",
-    "hymn_code": "554356711717644565"
+    "hymn_code": "554356711717644565",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0972_tune.midi"
   },
   "raw_sections": [
-    "Beforetime began",
-    "You desired tobe onewithman.",
-    "You long for abride",
-    "To sharein Your life.",
-    "Though sofar away,",
-    "Undeterred, Youcalled myname.",
-    "O Lord, You havewon myheart.",
-    "Love prevailed.",
-    "Love prevails.Love",
-    "prevails.Your resistless",
-    "loveneverfails. Love prevails.Love",
-    "prevails.Yourlove",
-    "has filled",
-    "allour hearts.Loveprevails.",
+    "Before time began",
+    "You desired to be one with man.",
+    "You long for a bride",
+    "To share in Your life.",
+    "Though so far away,",
+    "Undeterred, You called my name.",
+    "O Lord, You have won my heart.",
+    "Love prevailed.",
+    "Love prevails.",
+    "Love prevails.",
+    "Your resistless love never fails.",
+    "Love prevails.",
+    "Love prevails.",
+    "Your love has filled all our hearts.",
+    "Love prevails.",
     "You long for Your sons",
     "To be knit together as one",
     "In mind and in heart",

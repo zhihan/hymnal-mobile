@@ -7,140 +7,48 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "Come,"
-            },
-            {
-              "chord": "A",
-              "text": "come,"
-            },
-            {
-              "chord": "Bm",
-              "text": "let's sing"
-            },
-            {
               "chord": "",
-              "text": "for joy to Je"
-            },
-            {
-              "chord": "G",
-              "text": "hovah;"
+              "text": "Come, come, let’s sing for joy to Jehovah;"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "Come,"
-            },
-            {
-              "chord": "A",
-              "text": "come,"
-            },
-            {
-              "chord": "Bm",
-              "text": "let's sing"
-            },
-            {
               "chord": "",
-              "text": "for joy to Je"
-            },
-            {
-              "chord": "G",
-              "text": "hovah;"
+              "text": "Come, come, let’s sing for joy to Jehovah;"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "Let's make"
-            },
-            {
               "chord": "",
-              "text": "a joyful noise to the"
-            },
-            {
-              "chord": "A",
-              "text": "rock of"
-            },
-            {
-              "chord": "",
-              "text": "our salvation."
+              "text": "Let’s make a joyful noise to the rock of our salvation."
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "Bm",
-              "text": "Let's come"
-            },
-            {
               "chord": "",
-              "text": "before His presence"
-            },
-            {
-              "chord": "G",
-              "text": "with thanksgiving;"
+              "text": "Let’s come before His presence with thanksgiving;"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "Let's make"
-            },
-            {
               "chord": "",
-              "text": "a joyful noise to"
-            },
-            {
-              "chord": "A",
-              "text": "Him with"
-            },
-            {
-              "chord": "",
-              "text": "psalms."
+              "text": "Let’s make a joyful noise to Him with psalms."
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "Bm",
-              "text": "For Jehovah"
-            },
-            {
-              "chord": "G",
-              "text": "is a"
-            },
-            {
               "chord": "",
-              "text": "great"
-            },
-            {
-              "chord": "D",
-              "text": "God, a"
-            },
-            {
-              "chord": "",
-              "text": "great"
-            },
-            {
-              "chord": "A",
-              "text": "God, a"
-            },
-            {
-              "chord": "",
-              "text": "great"
-            },
-            {
-              "chord": "G",
-              "text": "God"
+              "text": "For Jehovah is a great God, a great God, a great God."
             }
           ]
         }
@@ -153,28 +61,8 @@
         {
           "segments": [
             {
-              "chord": "Bm",
-              "text": "God"
-            },
-            {
-              "chord": "G",
-              "text": "and a"
-            },
-            {
               "chord": "",
-              "text": "great"
-            },
-            {
-              "chord": "D",
-              "text": "King above"
-            },
-            {
-              "chord": "",
-              "text": "all"
-            },
-            {
-              "chord": "A",
-              "text": "gods,"
+              "text": "Come, come, let’s sing for joy to Jehovah;"
             }
           ]
         },
@@ -182,39 +70,63 @@
           "segments": [
             {
               "chord": "",
-              "text": "And a"
-            },
-            {
-              "chord": "G",
-              "text": "great"
-            },
-            {
-              "chord": "D",
-              "text": "King above"
-            },
-            {
-              "chord": "",
-              "text": "all"
-            },
-            {
-              "chord": "Bm",
-              "text": "gods, all"
+              "text": "Come, come, let’s sing for joy to Jehovah;"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "A",
-              "text": "gods. Jehovah"
-            },
+              "chord": "",
+              "text": "Let’s make a joyful noise to the rock of our salvation."
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "is a great"
-            },
+              "text": "Let’s come before His presence with thanksgiving;"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "D",
-              "text": "God!"
+              "chord": "",
+              "text": "Let’s make a joyful noise to Him with psalms."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For Jehovah is a great God, a great God, a great God"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And a great King above all gods,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And a great King above all gods, all gods."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Jehovah is a great God!"
             }
           ]
         }
@@ -226,17 +138,24 @@
   "metadata": {
     "category": "Scriptures for Singing",
     "time": "4/4",
-    "hymn_code": "123333236112333323431"
+    "hymn_code": "123333236112333323431",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0863_tune.midi"
   },
   "raw_sections": [
-    "Come,come,let's singfor joy to Jehovah;",
-    "Come,come,let's singfor joy to Jehovah;",
-    "Let's makea joyful noise to therock ofour salvation.",
-    "Let's comebefore His presencewith thanksgiving;",
-    "Let's makea joyful noise toHim withpsalms.",
-    "For Jehovahis agreatGod, agreatGod, agreatGod",
-    "Godand agreatKing aboveallgods,",
-    "And agreatKing aboveallgods, all",
-    "gods. Jehovahis a greatGod!"
+    "Come, come, let’s sing for joy to Jehovah;",
+    "Come, come, let’s sing for joy to Jehovah;",
+    "Let’s make a joyful noise to the rock of our salvation.",
+    "Let’s come before His presence with thanksgiving;",
+    "Let’s make a joyful noise to Him with psalms.",
+    "For Jehovah is a great God, a great God, a great God.",
+    "Come, come, let’s sing for joy to Jehovah;",
+    "Come, come, let’s sing for joy to Jehovah;",
+    "Let’s make a joyful noise to the rock of our salvation.",
+    "Let’s come before His presence with thanksgiving;",
+    "Let’s make a joyful noise to Him with psalms.",
+    "For Jehovah is a great God, a great God, a great God",
+    "And a great King above all gods,",
+    "And a great King above all gods, all gods.",
+    "Jehovah is a great God!"
   ]
 }

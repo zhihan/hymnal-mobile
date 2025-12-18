@@ -7,16 +7,8 @@
         {
           "segments": [
             {
-              "chord": "C",
-              "text": "And let"
-            },
-            {
               "chord": "",
-              "text": "the peace of"
-            },
-            {
-              "chord": "Em",
-              "text": "Christ"
+              "text": "And let the peace of Christ"
             }
           ]
         },
@@ -24,19 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "arbi"
-            },
-            {
-              "chord": "Am",
-              "text": "trate in"
-            },
-            {
-              "chord": "",
-              "text": "your"
-            },
-            {
-              "chord": "F",
-              "text": "hearts,"
+              "text": "Arbitrate in your hearts,"
             }
           ]
         },
@@ -44,11 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "to which"
-            },
-            {
-              "chord": "C",
-              "text": "also"
+              "text": "To which also"
             }
           ]
         },
@@ -56,11 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "you were"
-            },
-            {
-              "chord": "G",
-              "text": "called"
+              "text": "You were called"
             }
           ]
         },
@@ -68,15 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "in one"
-            },
-            {
-              "chord": "F",
-              "text": "Bod"
-            },
-            {
-              "chord": "G7",
-              "text": "y;"
+              "text": "In one Body;"
             }
           ]
         },
@@ -84,15 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "and be"
-            },
-            {
-              "chord": "C",
-              "text": "thank"
-            },
-            {
-              "chord": "G7",
-              "text": "ful."
+              "text": "And be thankful."
             }
           ]
         },
@@ -100,7 +56,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "And"
+              "text": "(repeat)"
             }
           ]
         }
@@ -111,15 +67,16 @@
   "metadata": {
     "category": "Scriptures for Singing",
     "time": "4/4",
-    "hymn_code": "11233456711756"
+    "hymn_code": "11233456711756",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0436_tune.midi"
   },
   "raw_sections": [
-    "And letthe peace ofChrist",
-    "arbitrate inyourhearts,",
-    "to whichalso",
-    "you werecalled",
-    "in oneBody;",
-    "and bethankful.",
-    "And"
+    "And let the peace of Christ",
+    "Arbitrate in your hearts,",
+    "To which also",
+    "You were called",
+    "In one Body;",
+    "And be thankful.",
+    "(repeat)"
   ]
 }

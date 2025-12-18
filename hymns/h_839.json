@@ -445,10 +445,11 @@
     "category": "The Church",
     "time": "3/2",
     "hymn_code": "12334433455432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0839_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/604",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/604",
+        "language": "cn",
         "category": "ch",
         "number": "604",
         "title": "C604"

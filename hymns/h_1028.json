@@ -327,10 +327,11 @@
     "category": "Gospel",
     "time": "6/4",
     "hymn_code": "555534567117676545",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1028_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/708",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/708",
+        "language": "cn",
         "category": "ch",
         "number": "708",
         "title": "C708"

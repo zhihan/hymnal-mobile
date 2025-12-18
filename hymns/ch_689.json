@@ -16,11 +16,11 @@
             },
             {
               "chord": "G",
-              "text": "爱， 耶"
+              "text": "愛， 耶"
             },
             {
               "chord": "F",
-              "text": "稣 从"
+              "text": "穌 從"
             },
             {
               "chord": "",
@@ -28,7 +28,7 @@
             },
             {
               "chord": "C",
-              "text": "来，"
+              "text": "來，"
             }
           ]
         },
@@ -40,7 +40,7 @@
             },
             {
               "chord": "F",
-              "text": "为 我"
+              "text": "為 我"
             },
             {
               "chord": "",
@@ -68,11 +68,11 @@
             },
             {
               "chord": "G",
-              "text": "爱， 耶"
+              "text": "愛， 耶"
             },
             {
               "chord": "F",
-              "text": "稣 被"
+              "text": "穌 被"
             },
             {
               "chord": "",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "C",
-              "text": "开，"
+              "text": "開，"
             }
           ]
         },
@@ -92,7 +92,7 @@
             },
             {
               "chord": "F",
-              "text": "为 我"
+              "text": "為 我"
             },
             {
               "chord": "",
@@ -104,11 +104,11 @@
             },
             {
               "chord": "G7",
-              "text": "血 还"
+              "text": "血 還"
             },
             {
               "chord": "C",
-              "text": "债。"
+              "text": "債。"
             }
           ]
         }
@@ -121,10 +121,11 @@
     "category": "福音",
     "time": "3/4",
     "hymn_code": "3212345671765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0689_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8689",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8689",
+        "language": "en",
         "category": "h",
         "number": "8689",
         "title": "E8689"
@@ -132,9 +133,9 @@
     ]
   },
   "raw_sections": [
-    "奇 妙的爱， 耶稣 从天来，",
-    "竟 肯为 我罪人 十架 受害；",
-    "奇 妙 的爱， 耶稣 被裂开，",
-    "白 白为 我罪人 流血 还债。"
+    "奇 妙的愛， 耶穌 從天來，",
+    "竟 肯為 我罪人 十架 受害；",
+    "奇 妙 的愛， 耶穌 被裂開，",
+    "白 白為 我罪人 流血 還債。"
   ]
 }

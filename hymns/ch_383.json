@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "",
@@ -36,11 +36,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "圣 洁、"
+              "text": "聖 潔、"
             },
             {
               "chord": "",
-              "text": "公 义"
+              "text": "公 義"
             },
             {
               "chord": "G",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "",
-              "text": "为 我 舍 生 命，"
+              "text": "為 我 捨 生 命，"
             }
           ]
         },
@@ -351,10 +351,11 @@
     "category": "经历基督",
     "time": "4/4",
     "hymn_code": "332151123253",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0383_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/505",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/505",
+        "language": "en",
         "category": "h",
         "number": "505",
         "title": "E505*"
@@ -362,11 +363,11 @@
     ]
   },
   "raw_sections": [
-    "荣 耀之 中 有 一 位，",
+    "榮 耀之 中 有 一 位，",
     "乃 是神 而人；",
-    "圣 洁、公 义又 智慧，",
+    "聖 潔、公 義又 智慧，",
     "光 明且 慈仁；",
-    "祂 曾为 我 舍 生 命，",
+    "祂 曾為 我 捨 生 命，",
     "成 功神 救法，",
     "使 我能 有祂 性情，",
     "使 我能 像祂。",

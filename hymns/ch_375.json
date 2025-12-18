@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "成 为"
+              "text": "成 為"
             },
             {
               "chord": "",
@@ -36,15 +36,15 @@
             },
             {
               "chord": "G",
-              "text": "们 活"
+              "text": "們 活"
             },
             {
               "chord": "A7",
-              "text": "的 实"
+              "text": "的 實"
             },
             {
               "chord": "D",
-              "text": "际；"
+              "text": "際；"
             }
           ]
         },
@@ -52,23 +52,23 @@
           "segments": [
             {
               "chord": "G",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "D",
-              "text": "实"
+              "text": "實"
             },
             {
               "chord": "Em",
-              "text": "际"
+              "text": "際"
             },
             {
               "chord": "G",
-              "text": "对"
+              "text": "對"
             },
             {
               "chord": "Am",
-              "text": "于"
+              "text": "於"
             },
             {
               "chord": "D",
@@ -84,7 +84,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "比 诸"
+              "text": "比 諸"
             },
             {
               "chord": "",
@@ -112,19 +112,19 @@
           "segments": [
             {
               "chord": "C",
-              "text": "可 爱"
+              "text": "可 愛"
             },
             {
               "chord": "",
-              "text": "实"
+              "text": "實"
             },
             {
               "chord": "G",
-              "text": "际， 其"
+              "text": "際， 其"
             },
             {
               "chord": "D",
-              "text": "亲 其"
+              "text": "親 其"
             },
             {
               "chord": "G",
@@ -148,7 +148,7 @@
             },
             {
               "chord": "Am",
-              "text": "亲"
+              "text": "親"
             },
             {
               "chord": "D",
@@ -156,7 +156,7 @@
             },
             {
               "chord": "D7",
-              "text": "难"
+              "text": "難"
             },
             {
               "chord": "G",
@@ -281,10 +281,11 @@
     "category": "经历基督",
     "time": "3/4",
     "hymn_code": "3211712671",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0375_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/526",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/526",
+        "language": "en",
         "category": "h",
         "number": "526",
         "title": "E526"
@@ -293,11 +294,11 @@
   },
   "raw_sections": [
     "主， 你已 使 你的 自己，",
-    "成 为我们 活的 实际；",
-    "荣 耀实际对于信心，",
-    "比 诸地上任何 都真；",
-    "可 爱实际， 其亲 其密，",
-    "地 上最近亲人难比。",
+    "成 為我們 活的 實際；",
+    "榮 耀實際對於信心，",
+    "比 諸地上任何 都真；",
+    "可 愛實際， 其親 其密，",
+    "地 上最近親人難比。",
     "有福异象我已看见：",
     "惟有你是我的完全；",
     "你已纯洁我的意愿，",

@@ -24,11 +24,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "说： 阿 利"
+              "text": "說： 阿 利"
             },
             {
               "chord": "G",
-              "text": "路 亚！"
+              "text": "路 亞！"
             }
           ]
         },
@@ -40,7 +40,7 @@
             },
             {
               "chord": "D",
-              "text": "里 面，"
+              "text": "裡 面，"
             }
           ]
         },
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "说： 阿 利"
+              "text": "說： 阿 利"
             },
             {
               "chord": "G",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "G7",
-              "text": "亚！"
+              "text": "亞！"
             }
           ]
         },
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "丰 富 又"
+              "text": "豐 富 又"
             },
             {
               "chord": "G",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "",
-              "text": "就 尝"
+              "text": "就 嘗"
             }
           ]
         },
@@ -245,10 +245,11 @@
     "category": "教会的生活",
     "time": "4/4",
     "hymn_code": "1234441233",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0720_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1196",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1196",
+        "language": "en",
         "category": "h",
         "number": "1196",
         "title": "E1196"
@@ -257,12 +258,12 @@
   },
   "raw_sections": [
     "基 督是活 神，",
-    "说： 阿 利路 亚！",
-    "祂 活 我里 面，",
-    "说： 阿 利路亚！",
+    "說： 阿 利路 亞！",
+    "祂 活 我裡 面，",
+    "說： 阿 利路亞！",
     "祂 是 我永 分，",
-    "丰 富 又美 佳；",
-    "只 要喊『哦， 主』就 尝",
+    "豐 富 又美 佳；",
+    "只 要喊『哦， 主』就 嘗",
     "祂。",
     "我们同聚集",
     "是好得无比；",

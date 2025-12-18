@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "耶 稣！"
+              "text": "耶 穌！"
             },
             {
               "chord": "D7",
-              "text": "永 远"
+              "text": "永 遠"
             },
             {
               "chord": "",
@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "耶 稣！"
+              "text": "耶 穌！"
             },
             {
               "chord": "D",
-              "text": "我 气"
+              "text": "我 氣"
             },
             {
               "chord": "D7",
@@ -52,11 +52,11 @@
             },
             {
               "chord": "D7",
-              "text": "胜 过"
+              "text": "勝 過"
             },
             {
               "chord": "",
-              "text": "阴 府"
+              "text": "陰 府"
             },
             {
               "chord": "G",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "D7",
-              "text": "与 受"
+              "text": "與 受"
             },
             {
               "chord": "G",
@@ -92,11 +92,11 @@
             },
             {
               "chord": "C",
-              "text": "经 过"
+              "text": "經 過"
             },
             {
               "chord": "",
-              "text": "火 热、"
+              "text": "火 熱、"
             },
             {
               "chord": "G",
@@ -112,7 +112,7 @@
             },
             {
               "chord": "C",
-              "text": "为 我"
+              "text": "為 我"
             },
             {
               "chord": "",
@@ -128,11 +128,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "千 千 万 万"
+              "text": "千 千 萬 萬"
             },
             {
               "chord": "B",
-              "text": "的 赞"
+              "text": "的 讚"
             },
             {
               "chord": "C",
@@ -144,7 +144,7 @@
           "segments": [
             {
               "chord": "Am",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "G",
@@ -164,11 +164,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "千 千 万 万"
+              "text": "千 千 萬 萬"
             },
             {
               "chord": "B",
-              "text": "的 赞"
+              "text": "的 讚"
             },
             {
               "chord": "C",
@@ -180,7 +180,7 @@
           "segments": [
             {
               "chord": "Am",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "G",
@@ -415,10 +415,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "511746655175671",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0081_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/98",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/98",
+        "language": "en",
         "category": "h",
         "number": "98",
         "title": "E98"
@@ -426,16 +427,16 @@
     ]
   },
   "raw_sections": [
-    "耶 稣！永 远生 命之 源！",
-    "耶 稣！我 气息 之始！",
-    "你 已胜 过阴 府黑 暗，",
-    "藉 著忍 辱与 受死。",
-    "你 曾经 过火 热、水 深，",
-    "屈 尊为 我成 功救 恩：",
-    "千 千 万 万的 赞美，",
-    "荣 耀救 主，惟 你配！",
-    "千 千 万 万的 赞美，",
-    "荣 耀救 主，惟 你配！",
+    "耶 穌！永 遠生 命之 源！",
+    "耶 穌！我 氣息 之始！",
+    "你 已勝 過陰 府黑 暗，",
+    "藉 著忍 辱與 受死。",
+    "你 曾經 過火 熱、水 深，",
+    "屈 尊為 我成 功救 恩：",
+    "千 千 萬 萬的 讚美，",
+    "榮 耀救 主，惟 你配！",
+    "千 千 萬 萬的 讚美，",
+    "榮 耀救 主，惟 你配！",
     "神的儿子，你曾忍受",
     "讥诮、妒恨与苦害！",
     "荣耀的王，为我愆尤，",

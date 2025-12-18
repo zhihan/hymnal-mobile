@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "愿 我"
+              "text": "願 我"
             },
             {
               "chord": "",
-              "text": "爱 你 更 深！"
+              "text": "愛 你 更 深！"
             }
           ]
         },
@@ -20,7 +20,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "爱 你 更"
+              "text": "愛 你 更"
             },
             {
               "chord": "Am",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "D",
-              "text": "主， 听"
+              "text": "主， 聽"
             },
             {
               "chord": "Em",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "G",
-              "text": "恳，"
+              "text": "懇，"
             }
           ]
         },
@@ -88,7 +88,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "爱"
+              "text": "愛"
             },
             {
               "chord": "B",
@@ -108,7 +108,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "爱 你"
+              "text": "愛 你"
             },
             {
               "chord": "",
@@ -124,7 +124,7 @@
           "segments": [
             {
               "chord": "Am",
-              "text": "爱"
+              "text": "愛"
             },
             {
               "chord": "D7",
@@ -355,10 +355,11 @@
     "category": "羡慕",
     "time": "4/4",
     "hymn_code": "5651233212",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0281_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/368",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/368",
+        "language": "en",
         "category": "h",
         "number": "368",
         "title": "E368"
@@ -366,14 +367,14 @@
     ]
   },
   "raw_sections": [
-    "愿 我爱 你 更 深！",
-    "爱 你 更深！",
-    "哦主， 听此 求恳，",
+    "願 我愛 你 更 深！",
+    "愛 你 更深！",
+    "哦主， 聽此 求懇，",
     "成全 此心。",
     "我 心真是 切慕：",
-    "爱你 更深， 我主，",
-    "爱 你更深，",
-    "爱你 更深！",
+    "愛你 更深， 我主，",
+    "愛 你更深，",
+    "愛你 更深！",
     "前我追求世福、",
     "贪享安乐，",
     "今只寻求基督，",

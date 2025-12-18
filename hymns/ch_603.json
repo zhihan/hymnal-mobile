@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "赞 美 你"
+              "text": "讚 美 你"
             },
             {
               "chord": "A",
@@ -20,11 +20,11 @@
             },
             {
               "chord": "A7",
-              "text": "计"
+              "text": "計"
             },
             {
               "chord": "D",
-              "text": "画，"
+              "text": "畫，"
             }
           ]
         },
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "要 使 我 们 成 为 你"
+              "text": "要 使 我 們 成 為 你"
             },
             {
               "chord": "A",
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "给 你"
+              "text": "給 你"
             },
             {
               "chord": "",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "D",
-              "text": "满，"
+              "text": "滿，"
             }
           ]
         },
@@ -68,7 +68,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 在 子 里 好"
+              "text": "你 在 子 裡 好"
             },
             {
               "chord": "A",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "D",
-              "text": "显。"
+              "text": "顯。"
             }
           ]
         }
@@ -359,10 +359,11 @@
     "category": "召会",
     "time": "2/2",
     "hymn_code": "1123234323",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0603_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/837",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/837",
+        "language": "en",
         "category": "h",
         "number": "837",
         "title": "E837"
@@ -370,10 +371,10 @@
     ]
   },
   "raw_sections": [
-    "神， 我赞 美 你的计划，",
-    "要 使 我 们 成 为 你家，",
-    "给 你安 居， 由你充满，",
-    "你 在 子 里 好得彰显。",
+    "神， 我讚 美 你的計畫，",
+    "要 使 我 們 成 為 你家，",
+    "給 你安 居， 由你充滿，",
+    "你 在 子 裡 好得彰顯。",
     "我们虽是你所创造，",
     "有你形像，作你代表，",
     "不过仅是土造陋器，",

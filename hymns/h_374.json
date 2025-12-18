@@ -223,10 +223,11 @@
     "category": "Longings",
     "time": "3/4",
     "hymn_code": "1111712321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0374_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/407",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/407",
+        "language": "cn",
         "category": "ch",
         "number": "407",
         "title": "C407"

@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "合 意\"─ 楼"
+              "text": "合 意\"─ 樓"
             },
             {
               "chord": "D",
@@ -28,7 +28,7 @@
             },
             {
               "chord": "",
-              "text": "稣 从"
+              "text": "穌 從"
             }
           ]
         },
@@ -40,7 +40,7 @@
             },
             {
               "chord": "A",
-              "text": "信 祷"
+              "text": "信 禱"
             },
             {
               "chord": "",
@@ -84,7 +84,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "标， 众"
+              "text": "標， 眾"
             },
             {
               "chord": "D",
@@ -223,10 +223,11 @@
     "category": "建造与合一",
     "time": "4/4",
     "hymn_code": "5565117123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0619_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/258",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/258",
+        "language": "en",
         "category": "h",
         "number": "258",
         "title": "E258"
@@ -234,10 +235,10 @@
     ]
   },
   "raw_sections": [
-    "\"同 心合 意\"─ 楼房 上同 聚集， 耶稣 从",
-    "者 忠信 祷告 不息； 同一 盼",
+    "\"同 心合 意\"─ 樓房 上同 聚集， 耶穌 從",
+    "者 忠信 禱告 不息； 同一 盼",
     "望， 每魂 儆醒 所期； 同一 目",
-    "标， 众人 心志 如一。",
+    "標， 眾人 心志 如一。",
     "\"同心合意\"─直等五旬能力",
     "全备灵中降临，浇灌、充溢；",
     "众见证人宣扬复活信息，",

@@ -478,10 +478,11 @@
     "category": "The Church",
     "time": "6/8",
     "hymn_code": "1333432135556523",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1224_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/501",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/501",
+        "language": "cn",
         "category": "ts",
         "number": "501",
         "title": "Cs501"

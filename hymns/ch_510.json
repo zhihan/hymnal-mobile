@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "当 我"
+              "text": "當 我"
             },
             {
               "chord": "",
@@ -44,11 +44,11 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "当 试"
+              "text": "當 試"
             },
             {
               "chord": "",
-              "text": "探 者 将 得 胜，"
+              "text": "探 者 將 得 勝，"
             }
           ]
         },
@@ -110,7 +110,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "因 为"
+              "text": "因 為"
             },
             {
               "chord": "",
@@ -118,7 +118,7 @@
             },
             {
               "chord": "G",
-              "text": "爱 我"
+              "text": "愛 我"
             },
             {
               "chord": "D",
@@ -375,10 +375,11 @@
     "category": "试炼中的安慰",
     "time": "4/4",
     "hymn_code": "3532253213176",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0510_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/577",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/577",
+        "language": "en",
         "category": "h",
         "number": "577",
         "title": "E577"
@@ -386,13 +387,13 @@
     ]
   },
   "raw_sections": [
-    "当 我信 心失 效能，",
+    "當 我信 心失 效能，",
     "主 必扶 持我；",
-    "当 试探 者 将 得 胜，",
+    "當 試探 者 將 得 勝，",
     "祂 必扶 持我。",
     "祂 必扶 持我，",
     "祂 必扶 持我，",
-    "因 为救 主爱 我甚，",
+    "因 為救 主愛 我甚，",
     "祂 必扶 持我。",
     "我向不能站得稳，",
     "须祂扶持我；",

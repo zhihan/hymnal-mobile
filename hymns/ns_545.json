@@ -7,12 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "Behold,"
-            },
-            {
               "chord": "",
-              "text": "I stand at the door and knock;"
+              "text": "Behold, I stand at the door and knock;"
             }
           ]
         },
@@ -20,11 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "If anyone hears My voice and opens the"
-            },
-            {
-              "chord": "G",
-              "text": "door,"
+              "text": "If anyone hears My voice and opens the door,"
             }
           ]
         },
@@ -32,23 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Then I will come"
-            },
-            {
-              "chord": "A",
-              "text": "in to"
-            },
-            {
-              "chord": "",
-              "text": "him and"
-            },
-            {
-              "chord": "G",
-              "text": "dine with"
-            },
-            {
-              "chord": "A7",
-              "text": "him"
+              "text": "Then I will come in to him and dine with him"
             }
           ]
         },
@@ -56,11 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "and he with"
-            },
-            {
-              "chord": "D",
-              "text": "Me."
+              "text": "and he with Me."
             }
           ]
         }
@@ -72,16 +44,8 @@
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "He who"
-            },
-            {
-              "chord": "A",
-              "text": "over"
-            },
-            {
-              "chord": "D",
-              "text": "comes,"
+              "chord": "",
+              "text": "He who overcomes,"
             }
           ]
         },
@@ -89,19 +53,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "To"
-            },
-            {
-              "chord": "G",
-              "text": "him"
-            },
-            {
-              "chord": "A",
-              "text": "I will"
-            },
-            {
-              "chord": "D",
-              "text": "give"
+              "text": "To him I will give"
             }
           ]
         },
@@ -109,39 +61,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "To"
-            },
-            {
-              "chord": "G",
-              "text": "sit with"
-            },
-            {
-              "chord": "A7",
-              "text": "Me on"
-            },
-            {
-              "chord": "",
-              "text": "My"
-            },
-            {
-              "chord": "D",
-              "text": "throne,"
+              "text": "To sit with Me on My throne,"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "As I"
-            },
-            {
-              "chord": "D",
-              "text": "also"
-            },
-            {
               "chord": "",
-              "text": "overcame and sat with My Father on His throne."
+              "text": "As I also overcame and sat with My Father on His throne."
             }
           ]
         }
@@ -152,16 +80,17 @@
   "metadata": {
     "category": "Scriptures for Singing",
     "time": "4/4",
-    "hymn_code": "15555653215555653221"
+    "hymn_code": "15555653215555653221",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0545_tune.midi"
   },
   "raw_sections": [
-    "Behold,I stand at the door and knock;",
-    "If anyone hears My voice and opens thedoor,",
-    "Then I will comein tohim anddine withhim",
-    "and he withMe.",
-    "He whoovercomes,",
-    "TohimI willgive",
-    "Tosit withMe onMythrone,",
-    "As Ialsoovercame and sat with My Father on His throne."
+    "Behold, I stand at the door and knock;",
+    "If anyone hears My voice and opens the door,",
+    "Then I will come in to him and dine with him",
+    "and he with Me.",
+    "He who overcomes,",
+    "To him I will give",
+    "To sit with Me on My throne,",
+    "As I also overcame and sat with My Father on His throne."
   ]
 }

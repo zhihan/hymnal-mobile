@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "亲"
+              "text": "親"
             },
             {
               "chord": "A",
-              "text": "爱 父"
+              "text": "愛 父"
             },
             {
               "chord": "D",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "Em",
-              "text": "们 向"
+              "text": "們 向"
             },
             {
               "chord": "A7",
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "有 谁 比"
+              "text": "有 誰 比"
             },
             {
               "chord": "G",
@@ -52,15 +52,15 @@
             },
             {
               "chord": "A",
-              "text": "们"
+              "text": "們"
             },
             {
               "chord": "D",
-              "text": "颂"
+              "text": "頌"
             },
             {
               "chord": "A7",
-              "text": "扬。"
+              "text": "揚。"
             }
           ]
         },
@@ -80,7 +80,7 @@
             },
             {
               "chord": "B",
-              "text": "灵 以"
+              "text": "靈 以"
             },
             {
               "chord": "B7",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "A",
-              "text": "我 们"
+              "text": "我 們"
             }
           ]
         },
@@ -108,7 +108,7 @@
             },
             {
               "chord": "G",
-              "text": "你 献"
+              "text": "你 獻"
             },
             {
               "chord": "D",
@@ -247,10 +247,11 @@
     "category": "敬拜父",
     "time": "4/4",
     "hymn_code": "3345122343",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0051_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/54",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/54",
+        "language": "en",
         "category": "h",
         "number": "54",
         "title": "E54"
@@ -258,10 +259,10 @@
     ]
   },
   "raw_sections": [
-    "亲爱 父神，我们 向你 歌唱，",
-    "有 谁 比你 更配 我们颂扬。",
-    "你今 要人 以灵 以『真』 敬拜，我 们",
-    "照此 向你 献上感戴。",
+    "親愛 父神，我們 向你 歌唱，",
+    "有 誰 比你 更配 我們頌揚。",
+    "你今 要人 以靈 以『真』 敬拜，我 們",
+    "照此 向你 獻上感戴。",
     "所有世界是你借子造成，",
     "万有也都由祂大能托撑；",
     "但我却是在你爱子里面，",

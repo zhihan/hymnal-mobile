@@ -20,11 +20,11 @@
             },
             {
               "chord": "",
-              "text": "圣 灵"
+              "text": "聖 靈"
             },
             {
               "chord": "G",
-              "text": "忧 愁，"
+              "text": "憂 愁，"
             }
           ]
         },
@@ -32,15 +32,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "流 荡、"
+              "text": "流 蕩、"
             },
             {
               "chord": "Am",
-              "text": "随 便"
+              "text": "隨 便"
             },
             {
               "chord": "C",
-              "text": "并 冷"
+              "text": "並 冷"
             },
             {
               "chord": "D",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "Em",
-              "text": "后，"
+              "text": "後，"
             }
           ]
         },
@@ -88,11 +88,11 @@
             },
             {
               "chord": "D7",
-              "text": "厌 倦"
+              "text": "厭 倦"
             },
             {
               "chord": "G",
-              "text": "过。"
+              "text": "過。"
             }
           ]
         }
@@ -114,15 +114,15 @@
             },
             {
               "chord": "D7",
-              "text": "赐 我"
+              "text": "賜 我"
             },
             {
               "chord": "",
-              "text": "们 以"
+              "text": "們 以"
             },
             {
               "chord": "G",
-              "text": "圣 灵，"
+              "text": "聖 靈，"
             }
           ]
         },
@@ -130,7 +130,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "让 祂"
+              "text": "讓 祂"
             },
             {
               "chord": "A",
@@ -138,11 +138,11 @@
             },
             {
               "chord": "A7",
-              "text": "并 焚"
+              "text": "並 焚"
             },
             {
               "chord": "D",
-              "text": "烧，"
+              "text": "燒，"
             }
           ]
         },
@@ -150,7 +150,7 @@
           "segments": [
             {
               "chord": "D7",
-              "text": "将"
+              "text": "將"
             },
             {
               "chord": "G",
@@ -158,11 +158,11 @@
             },
             {
               "chord": "C",
-              "text": "给 我"
+              "text": "給 我"
             },
             {
               "chord": "",
-              "text": "们 作"
+              "text": "們 作"
             },
             {
               "chord": "G",
@@ -186,7 +186,7 @@
             },
             {
               "chord": "D7",
-              "text": "的 祷"
+              "text": "的 禱"
             },
             {
               "chord": "G",
@@ -427,10 +427,11 @@
     "category": "圣灵的丰满",
     "time": "4/4",
     "hymn_code": "5332161511323432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0206_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8206",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8206",
+        "language": "en",
         "category": "h",
         "number": "8206",
         "title": "E8206"
@@ -438,14 +439,14 @@
     ]
   },
   "raw_sections": [
-    "主， 我曾否 叫圣 灵忧 愁，",
-    "流 荡、随 便并 冷落？",
-    "然而 我的 犯罪 和退后，",
-    "未 曾叫 祂厌 倦过。",
-    "求你 多赐 我们 以圣 灵，",
-    "让 祂光 照并 焚烧，",
-    "将『你』 供给 我们 作生命， 使我",
-    "不 住的 祷告。",
+    "主， 我曾否 叫聖 靈憂 愁，",
+    "流 蕩、隨 便並 冷落？",
+    "然而 我的 犯罪 和退後，",
+    "未 曾叫 祂厭 倦過。",
+    "求你 多賜 我們 以聖 靈，",
+    "讓 祂光 照並 焚燒，",
+    "將『你』 供給 我們 作生命， 使我",
+    "不 住的 禱告。",
     "你的圣灵曾如何忍耐，",
     "等我慢慢心转变；",
     "我曾如何弃绝你热爱，",

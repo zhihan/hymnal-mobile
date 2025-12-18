@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "同 环"
+              "text": "同 環"
             },
             {
               "chord": "",
-              "text": "绕 施 恩"
+              "text": "繞 施 恩"
             },
             {
               "chord": "D",
@@ -24,7 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "这"
+              "text": "這"
             },
             {
               "chord": "Em",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "D",
-              "text": "来 佳"
+              "text": "來 佳"
             },
             {
               "chord": "G",
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 们 在 至 圣"
+              "text": "我 們 在 至 聖"
             },
             {
               "chord": "D",
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "在 灵 里 面 一"
+              "text": "在 靈 裡 面 一"
             },
             {
               "chord": "C",
@@ -108,7 +108,7 @@
             },
             {
               "chord": "G",
-              "text": "远，"
+              "text": "遠，"
             }
           ]
         },
@@ -136,7 +136,7 @@
             },
             {
               "chord": "G",
-              "text": "远。"
+              "text": "遠。"
             }
           ]
         }
@@ -373,10 +373,11 @@
     "category": "追求与长进",
     "time": "4/4",
     "hymn_code": "111565512321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0416_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1209",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1209",
+        "language": "en",
         "category": "h",
         "number": "1209",
         "title": "E1209"
@@ -384,13 +385,13 @@
     ]
   },
   "raw_sections": [
-    "同 环绕 施 恩座，",
-    "这是 天来 佳音。",
-    "我 们 在 至 圣所，",
+    "同 環繞 施 恩座，",
+    "這是 天來 佳音。",
+    "我 們 在 至 聖所，",
     "享受 完全 救恩。",
-    "在 灵 里 面 一同 相聚，",
-    "享受 基督 直到 永远，",
-    "享受 基督 直到永远。",
+    "在 靈 裡 面 一同 相聚，",
+    "享受 基督 直到 永遠，",
+    "享受 基督 直到永遠。",
     "同奔入至圣所，",
     "直达施恩宝座；",
     "开始于外院子，",

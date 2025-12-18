@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "当 你"
+              "text": "當 你"
             },
             {
               "chord": "",
-              "text": "说"
+              "text": "說"
             },
             {
               "chord": "G",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "",
-              "text": "是 把 难 以"
+              "text": "是 把 難 以"
             }
           ]
         },
@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "形 容 的 一 语 道"
+              "text": "形 容 的 一 語 道"
             },
             {
               "chord": "D",
-              "text": "出； 当"
+              "text": "出； 當"
             },
             {
               "chord": "",
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "说"
+              "text": "說"
             },
             {
               "chord": "G",
@@ -60,7 +60,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "所 要 的 只 是 那 『万"
+              "text": "所 要 的 只 是 那 『萬"
             }
           ]
         },
@@ -76,7 +76,7 @@
             },
             {
               "chord": "C♯♭",
-              "text": "无 爱"
+              "text": "無 愛"
             },
             {
               "chord": "",
@@ -88,15 +88,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "万 事 尽"
+              "text": "萬 事 盡"
             },
             {
               "chord": "D",
-              "text": "是 虚"
+              "text": "是 虛"
             },
             {
               "chord": "",
-              "text": "无；"
+              "text": "無；"
             }
           ]
         },
@@ -124,7 +124,7 @@
             },
             {
               "chord": "D",
-              "text": "无 所"
+              "text": "無 所"
             },
             {
               "chord": "",
@@ -136,7 +136,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "当 你 说"
+              "text": "當 你 說"
             },
             {
               "chord": "G",
@@ -144,7 +144,7 @@
             },
             {
               "chord": "A",
-              "text": "耶 稣』，"
+              "text": "耶 穌』，"
             }
           ]
         },
@@ -152,7 +152,7 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "你 说"
+              "text": "你 說"
             },
             {
               "chord": "",
@@ -173,10 +173,11 @@
     "category": "享受基督",
     "time": "4/4",
     "hymn_code": "3456671211776655",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0232_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/ns/560",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/ns/560",
+        "language": "en",
         "category": "ns",
         "number": "560",
         "title": "NS560"
@@ -184,15 +185,15 @@
     ]
   },
   "raw_sections": [
-    "当 你说『主』， 你是 把 难 以",
-    "形 容 的 一 语 道出； 当你",
-    "说『主』， 你宣 告 你",
-    "所 要 的 只 是 那 『万",
-    "主 之主』。 除 祂 再无 爱慕，",
-    "万 事 尽是 虚无；",
+    "當 你說『主』， 你是 把 難 以",
+    "形 容 的 一 語 道出； 當你",
+    "說『主』， 你宣 告 你",
+    "所 要 的 只 是 那 『萬",
+    "主 之主』。 除 祂 再無 愛慕，",
+    "萬 事 盡是 虛無；",
     "祂 是 一切 一切，",
-    "在 祂 一无 所缺。",
-    "当 你 说『主耶 稣』，",
-    "你 说出 一切。"
+    "在 祂 一無 所缺。",
+    "當 你 說『主耶 穌』，",
+    "你 說出 一切。"
   ]
 }

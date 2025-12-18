@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "带 领"
+              "text": "帶 領"
             },
             {
               "chord": "",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "D7",
-              "text": "们 出"
+              "text": "們 出"
             },
             {
               "chord": "",
@@ -60,11 +60,11 @@
             },
             {
               "chord": "",
-              "text": "草 地， 广 阔"
+              "text": "草 地， 廣 闊"
             },
             {
               "chord": "G",
-              "text": "无 边，"
+              "text": "無 邊，"
             }
           ]
         },
@@ -72,11 +72,11 @@
           "segments": [
             {
               "chord": "A",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
-              "text": "处"
+              "text": "處"
             },
             {
               "chord": "A7",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "D7",
-              "text": "间！"
+              "text": "間！"
             }
           ]
         }
@@ -106,7 +106,7 @@
             },
             {
               "chord": "",
-              "text": "会 生 活，"
+              "text": "會 生 活，"
             }
           ]
         },
@@ -114,7 +114,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "无 比 荣"
+              "text": "無 比 榮"
             },
             {
               "chord": "A",
@@ -122,7 +122,7 @@
             },
             {
               "chord": "",
-              "text": "丰"
+              "text": "豐"
             },
             {
               "chord": "D",
@@ -142,7 +142,7 @@
             },
             {
               "chord": "C",
-              "text": "们 合"
+              "text": "們 合"
             },
             {
               "chord": "",
@@ -150,7 +150,7 @@
             },
             {
               "chord": "G",
-              "text": "相 处，"
+              "text": "相 處，"
             }
           ]
         },
@@ -486,10 +486,11 @@
     "category": "教会的生活",
     "time": "6/8",
     "hymn_code": "555567157777121",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0711_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1221",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1221",
+        "language": "en",
         "category": "h",
         "number": "1221",
         "title": "E1221"
@@ -497,13 +498,13 @@
     ]
   },
   "raw_sections": [
-    "耶 稣是那 奇妙牧 人，",
-    "带 领我们 出羊圈。",
-    "肥 沃草 地， 广 阔无 边，",
-    "我 们处身 在其间！",
-    "哦， 召会 生 活，",
-    "无 比 荣耀 又丰富！",
-    "在 此我们 合一相 处，",
+    "耶 穌是那 奇妙牧 人，",
+    "帶 領我們 出羊圈。",
+    "肥 沃草 地， 廣 闊無 邊，",
+    "我 們處身 在其間！",
+    "哦， 召會 生 活，",
+    "無 比 榮耀 又豐富！",
+    "在 此我們 合一相 處，",
     "享 受生命 的祝福。",
     "身处异地，饥寒交迫，",
     "是祂来把我找着；",

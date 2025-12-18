@@ -12,7 +12,7 @@
             },
             {
               "chord": "G",
-              "text": "耶 稣！』"
+              "text": "耶 穌！』"
             },
             {
               "chord": "Am",
@@ -36,19 +36,19 @@
           "segments": [
             {
               "chord": "G7",
-              "text": "终 日"
+              "text": "終 日"
             },
             {
               "chord": "C",
-              "text": "运 用"
+              "text": "運 用"
             },
             {
               "chord": "G",
-              "text": "灵；"
+              "text": "靈；"
             },
             {
               "chord": "C",
-              "text": "不 断"
+              "text": "不 斷"
             }
           ]
         },
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "来"
+              "text": "來"
             },
             {
               "chord": "D7",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "C",
-              "text": "满"
+              "text": "滿"
             },
             {
               "chord": "G7",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "C",
-              "text": "灵。 喊："
+              "text": "靈。 喊："
             },
             {
               "chord": "C7",
@@ -114,7 +114,7 @@
             },
             {
               "chord": "F",
-              "text": "耶 稣！』"
+              "text": "耶 穌！』"
             },
             {
               "chord": "Em",
@@ -134,7 +134,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "稣！』"
+              "text": "穌！』"
             },
             {
               "chord": "C",
@@ -146,11 +146,11 @@
             },
             {
               "chord": "F",
-              "text": "耶 稣！』"
+              "text": "耶 穌！』"
             },
             {
               "chord": "D7",
-              "text": "终"
+              "text": "終"
             }
           ]
         },
@@ -166,7 +166,7 @@
             },
             {
               "chord": "C",
-              "text": "稣！"
+              "text": "穌！"
             }
           ]
         }
@@ -419,10 +419,11 @@
     "category": "享受基督",
     "time": "4/4",
     "hymn_code": "53323556616655",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0234_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/6234",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/6234",
+        "language": "en",
         "category": "h",
         "number": "6234",
         "title": "E6234"
@@ -430,14 +431,14 @@
     ]
   },
   "raw_sections": [
-    "『哦， 主耶 稣！』喊 祂",
+    "『哦， 主耶 穌！』喊 祂",
     "名，使 我",
-    "终 日运 用灵；不 断",
+    "終 日運 用靈；不 斷",
     "呼 喊祂 的名，祂 就",
-    "来充满我灵。 喊：『哦，",
-    "主耶 稣！』喊：『哦， 主耶",
-    "稣！』喊：『哦， 主耶 稣！』终",
-    "日 喊主 耶稣！",
+    "來充滿我靈。 喊：『哦，",
+    "主耶 穌！』喊：『哦， 主耶",
+    "穌！』喊：『哦， 主耶 穌！』終",
+    "日 喊主 耶穌！",
     "‘哦，主耶稣！’",
     "就是路，",
     "使我不至走迷途。",

@@ -331,10 +331,11 @@
     "category": "Study of the Word",
     "time": "6/4",
     "hymn_code": "33235323123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0800_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/580",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/580",
+        "language": "cn",
         "category": "ch",
         "number": "580",
         "title": "C580"

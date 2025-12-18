@@ -12,7 +12,7 @@
             },
             {
               "chord": "A",
-              "text": "永 远"
+              "text": "永 遠"
             },
             {
               "chord": "D",
@@ -24,11 +24,11 @@
           "segments": [
             {
               "chord": "A",
-              "text": "是 与"
+              "text": "是 與"
             },
             {
               "chord": "D",
-              "text": "人 联"
+              "text": "人 聯"
             },
             {
               "chord": "A",
@@ -60,7 +60,7 @@
           "segments": [
             {
               "chord": "E",
-              "text": "来 将"
+              "text": "來 將"
             },
             {
               "chord": "E7",
@@ -92,7 +92,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "将 人"
+              "text": "將 人"
             },
             {
               "chord": "",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "A",
-              "text": "满，"
+              "text": "滿，"
             }
           ]
         },
@@ -112,7 +112,7 @@
             },
             {
               "chord": "",
-              "text": "与 祂"
+              "text": "與 祂"
             },
             {
               "chord": "G",
@@ -124,15 +124,15 @@
           "segments": [
             {
               "chord": "A",
-              "text": "将 祂"
+              "text": "將 祂"
             },
             {
               "chord": "A7",
-              "text": "来 彰"
+              "text": "來 彰"
             },
             {
               "chord": "D",
-              "text": "显。"
+              "text": "顯。"
             }
           ]
         }
@@ -495,10 +495,11 @@
     "category": "终极的显出",
     "time": "4/4",
     "hymn_code": "34271545312",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0769_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/971",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/971",
+        "language": "en",
         "category": "h",
         "number": "971",
         "title": "E971"
@@ -506,14 +507,14 @@
     ]
   },
   "raw_sections": [
-    "神 的永 远心 意，",
-    "是 与人 联合，",
+    "神 的永 遠心 意，",
+    "是 與人 聯合，",
     "要 人作 祂器皿，",
-    "来 将祂 盛著；",
+    "來 將祂 盛著；",
     "祂 作人 的生 命，",
-    "将 人全 充满，",
-    "使 人与 祂合 一，",
-    "将 祂来 彰显。",
+    "將 人全 充滿，",
+    "使 人與 祂合 一，",
+    "將 祂來 彰顯。",
     "神照自己形像，",
     "将人造完全，",
     "使人能有资格，",

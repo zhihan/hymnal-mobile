@@ -7,16 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "Making"
-            },
-            {
-              "chord": "G",
-              "text": "known to"
-            },
-            {
-              "chord": "D",
-              "text": "us"
+              "chord": "",
+              "text": "Making known to us"
             }
           ]
         },
@@ -24,19 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "The"
-            },
-            {
-              "chord": "G",
-              "text": "mystery"
-            },
-            {
-              "chord": "Bm",
-              "text": "of His"
-            },
-            {
-              "chord": "A",
-              "text": "will"
+              "text": "The mystery of His will"
             }
           ]
         },
@@ -44,23 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Ac"
-            },
-            {
-              "chord": "D",
-              "text": "cording"
-            },
-            {
-              "chord": "G",
-              "text": "to His"
-            },
-            {
-              "chord": "Bm",
-              "text": "good"
-            },
-            {
-              "chord": "G",
-              "text": "pleasure,"
+              "text": "According to His good pleasure,"
             }
           ]
         },
@@ -68,19 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Which He"
-            },
-            {
-              "chord": "D",
-              "text": "purposed"
-            },
-            {
-              "chord": "A",
-              "text": "in Him"
-            },
-            {
-              "chord": "D",
-              "text": "self,"
+              "text": "Which He purposed in Himself,"
             }
           ]
         }
@@ -93,27 +45,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Unto the e"
-            },
-            {
-              "chord": "G",
-              "text": "conomy"
-            },
-            {
-              "chord": "D",
-              "text": "of the"
-            },
-            {
-              "chord": "A",
-              "text": "fullness"
-            },
-            {
-              "chord": "",
-              "text": "of the"
-            },
-            {
-              "chord": "Bm",
-              "text": "times,"
+              "text": "Unto the economy of the fullness of the times,"
             }
           ]
         },
@@ -121,23 +53,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "To"
-            },
-            {
-              "chord": "G",
-              "text": "head up"
-            },
-            {
-              "chord": "",
-              "text": "all"
-            },
-            {
-              "chord": "D",
-              "text": "things in"
-            },
-            {
-              "chord": "A",
-              "text": "Christ,"
+              "text": "To head up all things in Christ,"
             }
           ]
         },
@@ -145,19 +61,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "The"
-            },
-            {
-              "chord": "G",
-              "text": "things in"
-            },
-            {
-              "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "D",
-              "text": "heavens"
+              "text": "The things in the heavens"
             }
           ]
         },
@@ -165,19 +69,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "And the"
-            },
-            {
-              "chord": "A",
-              "text": "things on"
-            },
-            {
-              "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "Bm",
-              "text": "earth,"
+              "text": "And the things on the earth,"
             }
           ]
         },
@@ -185,19 +77,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "In"
-            },
-            {
-              "chord": "G",
-              "text": "Him,"
-            },
-            {
-              "chord": "D",
-              "text": "in"
-            },
-            {
-              "chord": "A",
-              "text": "Him,"
+              "text": "In Him, in Him,"
             }
           ]
         }
@@ -221,18 +101,19 @@
   "metadata": {
     "category": "Scriptures for Singing",
     "time": "4/4",
-    "hymn_code": "31615561122"
+    "hymn_code": "31615561122",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0656_tune.midi"
   },
   "raw_sections": [
-    "Makingknown tous",
-    "Themysteryof Hiswill",
-    "Accordingto Hisgoodpleasure,",
-    "Which Hepurposedin Himself,",
-    "Unto the economyof thefullnessof thetimes,",
-    "Tohead upallthings inChrist,",
-    "Thethings intheheavens",
-    "And thethings ontheearth,",
-    "InHim,inHim,",
+    "Making known to us",
+    "The mystery of His will",
+    "According to His good pleasure,",
+    "Which He purposed in Himself,",
+    "Unto the economy of the fullness of the times,",
+    "To head up all things in Christ,",
+    "The things in the heavens",
+    "And the things on the earth,",
+    "In Him, in Him,",
     "In Him."
   ]
 }

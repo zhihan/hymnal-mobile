@@ -7,64 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "Christ is"
-            },
-            {
               "chord": "",
-              "text": "coming"
-            },
-            {
-              "chord": "Bm",
-              "text": "as a"
-            },
-            {
-              "chord": "",
-              "text": "thief to"
-            },
-            {
-              "chord": "G",
-              "text": "steal those"
-            },
-            {
-              "chord": "",
-              "text": "who are"
-            },
-            {
-              "chord": "A",
-              "text": "faithful,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D",
-              "text": "Those who"
-            },
-            {
-              "chord": "",
-              "text": "are most"
-            },
-            {
-              "chord": "Bm",
-              "text": "valuable"
-            },
-            {
-              "chord": "",
-              "text": "and"
-            },
-            {
-              "chord": "G",
-              "text": "in the"
-            },
-            {
-              "chord": "",
-              "text": "night, so"
-            },
-            {
-              "chord": "A",
-              "text": "watchful."
+              "text": "Christ is coming as a thief to steal those who are faithful,"
             }
           ]
         },
@@ -72,35 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "I"
-            },
-            {
-              "chord": "F♯m",
-              "text": "seek, Lord,"
-            },
-            {
-              "chord": "",
-              "text": "to be"
-            },
-            {
-              "chord": "Bm",
-              "text": "precious;"
-            },
-            {
-              "chord": "",
-              "text": "make"
-            },
-            {
-              "chord": "F♯m",
-              "text": "me a"
-            },
-            {
-              "chord": "",
-              "text": "crazy"
-            },
-            {
-              "chord": "Bm",
-              "text": "lover!"
+              "text": "Those who are most valuable and in the night, so watchful."
             }
           ]
         },
@@ -108,35 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "In"
-            },
-            {
-              "chord": "G",
-              "text": "crease Your"
-            },
-            {
-              "chord": "",
-              "text": "life with"
-            },
-            {
-              "chord": "A",
-              "text": "in me"
-            },
-            {
-              "chord": "",
-              "text": "that"
-            },
-            {
-              "chord": "G",
-              "text": "I would"
-            },
-            {
-              "chord": "A",
-              "text": "be Your"
-            },
-            {
-              "chord": "D",
-              "text": "treasure."
+              "text": "I seek, Lord, to be precious; make me a crazy lover!"
             }
           ]
         },
@@ -144,27 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Christ's coming is His"
-            },
-            {
-              "chord": "Bm",
-              "text": "presence"
-            },
-            {
-              "chord": "G",
-              "text": "Spreading"
-            },
-            {
-              "chord": "",
-              "text": "in"
-            },
-            {
-              "chord": "A",
-              "text": "us."
-            },
-            {
-              "chord": "D",
-              "text": "He's promised"
+              "text": "Increase Your life within me that I would be Your treasure."
             }
           ]
         },
@@ -172,23 +40,31 @@
           "segments": [
             {
               "chord": "",
-              "text": "to come"
-            },
+              "text": "Christ will come as a bridegroom—His person most attractive—"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "Bm",
-              "text": "quickly;"
-            },
+              "chord": "",
+              "text": "Taking virgins wise with Him—those in pursuit so active."
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "G",
-              "text": "Lord,"
-            },
+              "chord": "",
+              "text": "I buy oil for my vessel; may Thy life spread to my soul."
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "A7",
-              "text": "grow in"
-            },
-            {
-              "chord": "D",
-              "text": "us!"
+              "chord": "",
+              "text": "When we’d meet I’d be burning and savor Your feast so full."
             }
           ]
         }
@@ -451,15 +327,18 @@
   "metadata": {
     "category": "Hope of Glory",
     "time": "4/4",
-    "hymn_code": "11111235111565"
+    "hymn_code": "11111235111565",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0418_tune.midi"
   },
   "raw_sections": [
-    "Christ iscomingas athief tosteal thosewho arefaithful,",
-    "Those whoare mostvaluableandin thenight, sowatchful.",
-    "Iseek, Lord,to beprecious;makeme acrazylover!",
-    "Increase Yourlife within methatI wouldbe Yourtreasure.",
-    "Christ's coming is HispresenceSpreadinginus.He's promised",
-    "to comequickly;Lord,grow inus!",
+    "Christ is coming as a thief to steal those who are faithful,",
+    "Those who are most valuable and in the night, so watchful.",
+    "I seek, Lord, to be precious; make me a crazy lover!",
+    "Increase Your life within me that I would be Your treasure.",
+    "Christ will come as a bridegroom—His person most attractive—",
+    "Taking virgins wise with Him—those in pursuit so active.",
+    "I buy oil for my vessel; may Thy life spread to my soul.",
+    "When we’d meet I’d be burning and savor Your feast so full.",
     "Christ’s coming is His presence",
     "Spreading in us.",
     "He’s promised to come quickly;",

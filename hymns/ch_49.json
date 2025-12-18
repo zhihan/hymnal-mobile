@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "我 们 在 你 面"
+              "text": "我 們 在 你 面"
             },
             {
               "chord": "C",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "G",
-              "text": "礼，"
+              "text": "禮，"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "尊 敬 郑"
+              "text": "尊 敬 鄭"
             },
             {
               "chord": "D",
@@ -40,15 +40,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "现 在 我"
+              "text": "現 在 我"
             },
             {
               "chord": "G",
-              "text": "们 这"
+              "text": "們 這"
             },
             {
               "chord": "",
-              "text": "些 儿"
+              "text": "些 兒"
             },
             {
               "chord": "C",
@@ -68,11 +68,11 @@
             },
             {
               "chord": "D",
-              "text": "要 称"
+              "text": "要 稱"
             },
             {
               "chord": "G",
-              "text": "颂："
+              "text": "頌："
             }
           ]
         },
@@ -88,15 +88,15 @@
             },
             {
               "chord": "A",
-              "text": "何 带"
+              "text": "何 帶"
             },
             {
               "chord": "A7",
-              "text": "领 我"
+              "text": "領 我"
             },
             {
               "chord": "",
-              "text": "们 回"
+              "text": "們 回"
             },
             {
               "chord": "D7",
@@ -108,11 +108,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "与 你"
+              "text": "與 你"
             },
             {
               "chord": "",
-              "text": "儿"
+              "text": "兒"
             },
             {
               "chord": "C",
@@ -120,7 +120,7 @@
             },
             {
               "chord": "",
-              "text": "同 亲"
+              "text": "同 親"
             },
             {
               "chord": "D",
@@ -241,10 +241,11 @@
     "category": "敬拜父",
     "time": "3/4",
     "hymn_code": "512332161651712",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0049_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/52",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/52",
+        "language": "en",
         "category": "h",
         "number": "52",
         "title": "E52"
@@ -252,12 +253,12 @@
     ]
   },
   "raw_sections": [
-    "父 阿，我 们 在 你 面前 拜礼，",
-    "尊 敬 郑重；",
-    "现 在 我们 这些 儿女 聚集，",
-    "是要 称颂：",
-    "奇 恩如何 带领 我们 回家，",
-    "与 你儿子 一同 亲近 阿爸！",
+    "父 阿，我 們 在 你 面前 拜禮，",
+    "尊 敬 鄭重；",
+    "現 在 我們 這些 兒女 聚集，",
+    "是要 稱頌：",
+    "奇 恩如何 帶領 我們 回家，",
+    "與 你兒子 一同 親近 阿爸！",
     "知爱的人都知这里的爱，",
     "何等的深；",
     "从祂身上你爱已经布开，",

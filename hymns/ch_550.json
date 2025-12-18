@@ -8,19 +8,19 @@
           "segments": [
             {
               "chord": "G",
-              "text": "当 主"
+              "text": "當 主"
             },
             {
               "chord": "",
-              "text": "正 从 那"
+              "text": "正 從 那"
             },
             {
               "chord": "C",
-              "text": "里 经"
+              "text": "裡 經"
             },
             {
               "chord": "G",
-              "text": "过，"
+              "text": "過，"
             }
           ]
         },
@@ -28,19 +28,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "众 人"
+              "text": "眾 人"
             },
             {
               "chord": "Em",
-              "text": "拥 塞"
+              "text": "擁 塞"
             },
             {
               "chord": "",
-              "text": "将"
+              "text": "將"
             },
             {
               "chord": "A7",
-              "text": "祂 挤"
+              "text": "祂 擠"
             },
             {
               "chord": "D7",
@@ -52,15 +52,15 @@
           "segments": [
             {
               "chord": "G",
-              "text": "她 从"
+              "text": "她 從"
             },
             {
               "chord": "G7",
-              "text": "背 后"
+              "text": "背 後"
             },
             {
               "chord": "",
-              "text": "将"
+              "text": "將"
             },
             {
               "chord": "C",
@@ -142,7 +142,7 @@
             },
             {
               "chord": "G",
-              "text": "未 离"
+              "text": "未 離"
             },
             {
               "chord": "D7",
@@ -154,7 +154,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "前 来"
+              "text": "前 來"
             },
             {
               "chord": "",
@@ -174,7 +174,7 @@
             },
             {
               "chord": "Am",
-              "text": "虑，"
+              "text": "慮，"
             }
           ]
         },
@@ -510,10 +510,11 @@
     "category": "神医",
     "time": "6/8",
     "hymn_code": "55535665",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0550_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/759",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/759",
+        "language": "en",
         "category": "h",
         "number": "759",
         "title": "E759"
@@ -521,13 +522,13 @@
     ]
   },
   "raw_sections": [
-    "当 主正 从 那里 经过，",
-    "众 人拥 塞将祂 挤著，",
-    "她 从背 后将主 一摸，",
+    "當 主正 從 那裡 經過，",
+    "眾 人擁 塞將祂 擠著，",
+    "她 從背 後將主 一摸，",
     "立 刻得著 了痊愈。",
     "只 是一 摸，就得 痊愈！",
-    "主 仍在 此，尚未 离去，",
-    "前 来摸祂， 不必再 疑虑，",
+    "主 仍在 此，尚未 離去，",
+    "前 來摸祂， 不必再 疑慮，",
     "一 摸就必 得痊愈。",
     "只是一摸，就得痊愈，",
     "祂使我心平安无惧，",

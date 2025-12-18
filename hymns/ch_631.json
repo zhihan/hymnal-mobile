@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "在 我 们"
+              "text": "在 我 們"
             },
             {
               "chord": "A",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "A7",
-              "text": "散 会"
+              "text": "散 會"
             },
             {
               "chord": "D",
@@ -32,23 +32,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "为 著 你"
+              "text": "為 著 你"
             },
             {
               "chord": "A",
-              "text": "荣 耀、"
+              "text": "榮 耀、"
             },
             {
               "chord": "E",
-              "text": "丰 厚"
+              "text": "豐 厚"
             },
             {
               "chord": "E7",
-              "text": "的 显"
+              "text": "的 顯"
             },
             {
               "chord": "A",
-              "text": "现，"
+              "text": "現，"
             }
           ]
         },
@@ -56,11 +56,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "并 为"
+              "text": "並 為"
             },
             {
               "chord": "",
-              "text": "你 所 赐 新 鲜 的 恩"
+              "text": "你 所 賜 新 鮮 的 恩"
             },
             {
               "chord": "A",
@@ -72,11 +72,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
-              "text": "从"
+              "text": "從"
             },
             {
               "chord": "G",
@@ -96,7 +96,7 @@
             },
             {
               "chord": "D",
-              "text": "赞。"
+              "text": "讚。"
             }
           ]
         }
@@ -185,10 +185,11 @@
     "category": "聚会",
     "time": "4/4",
     "hymn_code": "3123543321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0631_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/868",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/868",
+        "language": "en",
         "category": "h",
         "number": "868",
         "title": "E868"
@@ -196,10 +197,10 @@
     ]
   },
   "raw_sections": [
-    "恩 主，在 我 们尚 未散 会前，",
-    "为 著 你荣 耀、丰 厚的 显现，",
-    "并 为你 所 赐 新 鲜 的 恩典，",
-    "我 们从心 中再 向你感赞。",
+    "恩 主，在 我 們尚 未散 會前，",
+    "為 著 你榮 耀、豐 厚的 顯現，",
+    "並 為你 所 賜 新 鮮 的 恩典，",
+    "我 們從心 中再 向你感讚。",
     "在你的恩中，聚会虽将完，",
     "但你的同在永远不间断；",
     "那在你灵里维持的能力，",

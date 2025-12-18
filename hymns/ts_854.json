@@ -20,7 +20,7 @@
             },
             {
               "chord": "",
-              "text": "广，"
+              "text": "廣，"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "涌"
+              "text": "湧"
             },
             {
               "chord": "D",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "Bm",
-              "text": "稣"
+              "text": "穌"
             },
             {
               "chord": "D",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "",
-              "text": "主 为"
+              "text": "主 為"
             },
             {
               "chord": "G",
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "将"
+              "text": "將"
             },
             {
               "chord": "D",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "",
-              "text": "债"
+              "text": "債"
             },
             {
               "chord": "A7",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "D",
-              "text": "偿。"
+              "text": "償。"
             }
           ]
         }
@@ -110,7 +110,7 @@
             },
             {
               "chord": "G",
-              "text": "见 血"
+              "text": "見 血"
             },
             {
               "chord": "",
@@ -150,7 +150,7 @@
             },
             {
               "chord": "",
-              "text": "洁！"
+              "text": "潔！"
             }
           ]
         },
@@ -158,7 +158,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "赞"
+              "text": "讚"
             },
             {
               "chord": "G",
@@ -166,7 +166,7 @@
             },
             {
               "chord": "",
-              "text": "主 为"
+              "text": "主 為"
             },
             {
               "chord": "D",
@@ -202,7 +202,7 @@
             },
             {
               "chord": "D",
-              "text": "洁！"
+              "text": "潔！"
             }
           ]
         }
@@ -364,10 +364,11 @@
     "category": "事奉与福音",
     "time": "3/2",
     "hymn_code": "13531611665532",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0854_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1010",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1010",
+        "language": "en",
         "category": "h",
         "number": "1010",
         "title": "E1010"
@@ -375,14 +376,14 @@
     ]
   },
   "raw_sections": [
-    "洗 罪之 泉 何其 深广，",
-    "涌自 耶稣肋旁！",
-    "大能 救主 为我 受戕，",
-    "将我 罪债清偿。",
-    "我见 血泉 流自 加畧，",
-    "立投 此泉，使罪 得洁！",
-    "赞美 救主 为我 流血，",
-    "罪魁 如我，竟也 得洁！",
+    "洗 罪之 泉 何其 深廣，",
+    "湧自 耶穌肋旁！",
+    "大能 救主 為我 受戕，",
+    "將我 罪債清償。",
+    "我見 血泉 流自 加畧，",
+    "立投 此泉，使罪 得潔！",
+    "讚美 救主 為我 流血，",
+    "罪魁 如我，竟也 得潔！",
     "复活救主，我得看见，",
     "听祂美言甘甜；",
     "更美之血为我美言，",

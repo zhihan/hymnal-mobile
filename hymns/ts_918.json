@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "时 日"
+              "text": "時 日"
             },
             {
               "chord": "",
-              "text": "或 许 更"
+              "text": "或 許 更"
             },
             {
               "chord": "G",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "C",
-              "text": "暗， 长"
+              "text": "暗， 長"
             },
             {
               "chord": "",
@@ -52,11 +52,11 @@
             },
             {
               "chord": "Am",
-              "text": "确 知，"
+              "text": "確 知，"
             },
             {
               "chord": "",
-              "text": "尽"
+              "text": "儘"
             },
             {
               "chord": "D",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "",
-              "text": "主 迟"
+              "text": "主 遲"
             },
             {
               "chord": "G",
@@ -80,15 +80,15 @@
             },
             {
               "chord": "E7",
-              "text": "必 显"
+              "text": "必 顯"
             },
             {
               "chord": "",
-              "text": "为 更"
+              "text": "為 更"
             },
             {
               "chord": "Am",
-              "text": "亲"
+              "text": "親"
             },
             {
               "chord": "G",
@@ -116,7 +116,7 @@
             },
             {
               "chord": "C",
-              "text": "亲、 更"
+              "text": "親、 更"
             },
             {
               "chord": "E7",
@@ -132,7 +132,7 @@
             },
             {
               "chord": "F",
-              "text": "主 与"
+              "text": "主 與"
             },
             {
               "chord": "G7",
@@ -140,7 +140,7 @@
             },
             {
               "chord": "C",
-              "text": "间。"
+              "text": "間。"
             }
           ]
         }
@@ -191,10 +191,11 @@
     "category": "盼望与豫备",
     "time": "4/4",
     "hymn_code": "1214321351756",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0918_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/710",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/710",
+        "language": "en",
         "category": "h",
         "number": "710",
         "title": "E710"
@@ -202,10 +203,10 @@
     ]
   },
   "raw_sections": [
-    "时 日或 许 更黑暗， 长夜 更令 人倦，",
-    "一事 我心 深确 知，尽管 我主 迟延：",
-    "祂必 显为 更亲近， 交通 必更 甘甜，",
-    "更亲、 更近、 更甘 甜，我主 与我 之间。",
+    "時 日或 許 更黑暗， 長夜 更令 人倦，",
+    "一事 我心 深確 知，儘管 我主 遲延：",
+    "祂必 顯為 更親近， 交通 必更 甘甜，",
+    "更親、 更近、 更甘 甜，我主 與我 之間。",
     "我们等候亲爱主─盼望！喜乐！友伴！",
     "一心只想迎见祂─也许在日尽前，",
     "就在隐密转角处，祂的荣身要显；",

@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "",
-              "text": "基 督， 亲 爱 救"
+              "text": "基 督， 親 愛 救"
             },
             {
               "chord": "G7",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "",
-              "text": "荣 耀 显"
+              "text": "榮 耀 顯"
             },
             {
               "chord": "G",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "",
-              "text": "远 无"
+              "text": "遠 無"
             },
             {
               "chord": "G",
@@ -72,11 +72,11 @@
             },
             {
               "chord": "A",
-              "text": "作 时"
+              "text": "作 時"
             },
             {
               "chord": "A7",
-              "text": "间 有"
+              "text": "間 有"
             },
             {
               "chord": "D",
@@ -98,7 +98,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "荣"
+              "text": "榮"
             },
             {
               "chord": "G",
@@ -122,7 +122,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "奥 妙、 丰 富，"
+              "text": "奧 妙、 豐 富，"
             },
             {
               "chord": "D7",
@@ -134,7 +134,7 @@
             },
             {
               "chord": "G",
-              "text": "尽！"
+              "text": "盡！"
             }
           ]
         },
@@ -142,11 +142,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "圣 中 之"
+              "text": "聖 中 之"
             },
             {
               "chord": "B7",
-              "text": "圣， 人"
+              "text": "聖， 人"
             },
             {
               "chord": "Em",
@@ -166,11 +166,11 @@
             },
             {
               "chord": "G",
-              "text": "我 灵"
+              "text": "我 靈"
             },
             {
               "chord": "",
-              "text": "里"
+              "text": "裡"
             },
             {
               "chord": "D7",
@@ -644,10 +644,11 @@
     "category": "经历基督",
     "time": "6/8",
     "hymn_code": "55345123211121615",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0382_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/501",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/501",
+        "language": "en",
         "category": "h",
         "number": "501",
         "title": "E501*"
@@ -655,14 +656,14 @@
     ]
   },
   "raw_sections": [
-    "荣 耀基 督， 亲 爱 救主，",
-    "你 是神 的荣 耀 显出！",
-    "原是 永远 无限 的神，",
-    "竟作 时间 有限 的人。",
-    "荣耀 基督， 大神 化身，",
-    "奥 妙、 丰 富，享 受不尽！",
-    "圣 中 之圣， 人中 之人，",
-    "在我 灵里作 我福分！",
+    "榮 耀基 督， 親 愛 救主，",
+    "你 是神 的榮 耀 顯出！",
+    "原是 永遠 無限 的神，",
+    "竟作 時間 有限 的人。",
+    "榮耀 基督， 大神 化身，",
+    "奧 妙、 豐 富，享 受不盡！",
+    "聖 中 之聖， 人中 之人，",
+    "在我 靈裡作 我福分！",
     "神的丰盛藏你里面，",
     "神的荣耀从你彰显；",
     "前在肉身成功救赎，",

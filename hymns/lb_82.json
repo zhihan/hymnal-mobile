@@ -751,10 +751,11 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "3345343211231217",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/LongBeach/midi/tunes/lb82_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/328",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/328",
+        "language": "cn",
         "category": "ts",
         "number": "328",
         "title": "Cs328"

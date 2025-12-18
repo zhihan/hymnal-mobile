@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "根 源 在 亘 古，"
+              "text": "根 源 在 亙 古，"
             }
           ]
         },
@@ -24,7 +24,7 @@
             },
             {
               "chord": "",
-              "text": "无 始"
+              "text": "無 始"
             },
             {
               "chord": "A7",
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "因 你 就 是 永 远 父，"
+              "text": "因 你 就 是 永 遠 父，"
             }
           ]
         },
@@ -263,10 +263,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "32143212176543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0072_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/81",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/81",
+        "language": "en",
         "category": "h",
         "number": "81",
         "title": "E81"
@@ -274,9 +275,9 @@
     ]
   },
   "raw_sections": [
-    "主， 你根 源 在 亘 古，",
-    "在 那无 始的 太初！",
-    "因 你 就 是 永 远 父，",
+    "主， 你根 源 在 亙 古，",
+    "在 那無 始的 太初！",
+    "因 你 就 是 永 遠 父，",
     "就 是自 有永 有主！",
     "你虽出生人世间，",
     "却是与神同永远！",

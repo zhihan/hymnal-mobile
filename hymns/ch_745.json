@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "国 度"
+              "text": "國 度"
             },
             {
               "chord": "",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "掌 权，"
+              "text": "掌 權，"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "维 持 神 的 荣"
+              "text": "維 持 神 的 榮"
             },
             {
               "chord": "A",
@@ -60,7 +60,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "将 祂 秩"
+              "text": "將 祂 秩"
             },
             {
               "chord": "E7",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "",
-              "text": "的 国"
+              "text": "的 國"
             },
             {
               "chord": "G",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "D",
-              "text": "里，"
+              "text": "裏，"
             }
           ]
         },
@@ -104,7 +104,7 @@
             },
             {
               "chord": "A",
-              "text": "权，"
+              "text": "權，"
             }
           ]
         },
@@ -120,7 +120,7 @@
             },
             {
               "chord": "G",
-              "text": "己 来"
+              "text": "己 來"
             },
             {
               "chord": "D",
@@ -140,11 +140,11 @@
             },
             {
               "chord": "A7",
-              "text": "永 远"
+              "text": "永 遠"
             },
             {
               "chord": "D",
-              "text": "远。"
+              "text": "遠。"
             }
           ]
         }
@@ -507,10 +507,11 @@
     "category": "国度",
     "time": "4/4",
     "hymn_code": "1355653171432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0745_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/941",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/941",
+        "language": "en",
         "category": "h",
         "number": "941",
         "title": "E941"
@@ -518,14 +519,14 @@
     ]
   },
   "raw_sections": [
-    "国 度是神 的掌 权，",
-    "维 持 神 的 荣耀；",
+    "國 度是神 的掌 權，",
+    "維 持 神 的 榮耀；",
     "是神 主宰 的管 治，",
-    "将 祂 秩序 建造。",
-    "神在 祂的 国度里，",
-    "施 行 祂 的 王权，",
-    "照祂 自己 来治 理，",
-    "直到 永永 远远。",
+    "將 祂 秩序 建造。",
+    "神在 祂的 國度裏，",
+    "施 行 祂 的 王權，",
+    "照祂 自己 來治 理，",
+    "直到 永永 遠遠。",
     "国度中心是宝座，",
     "神在其上掌权；",
     "一切带上祂正规，",

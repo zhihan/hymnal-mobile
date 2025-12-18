@@ -8,23 +8,23 @@
           "segments": [
             {
               "chord": "G",
-              "text": "贫"
+              "text": "貧"
             },
             {
               "chord": "C",
-              "text": "穷、"
+              "text": "窮、"
             },
             {
               "chord": "G",
-              "text": "软 弱、"
+              "text": "軟 弱、"
             },
             {
               "chord": "C",
-              "text": "悲 伤、"
+              "text": "悲 傷、"
             },
             {
               "chord": "G",
-              "text": "忧 愁，"
+              "text": "憂 愁，"
             }
           ]
         },
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "亲 爱"
+              "text": "親 愛"
             },
             {
               "chord": "C",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "G",
-              "text": "请"
+              "text": "請"
             },
             {
               "chord": "D7",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "G",
-              "text": "来！"
+              "text": "來！"
             }
           ]
         },
@@ -56,7 +56,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "耶 稣 等 著"
+              "text": "耶 穌 等 著"
             },
             {
               "chord": "D7",
@@ -72,11 +72,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "满 了 能 力 和 怜"
+              "text": "滿 了 能 力 和 憐"
             },
             {
               "chord": "D",
-              "text": "爱；"
+              "text": "愛；"
             }
           ]
         },
@@ -403,10 +403,11 @@
     "category": "福音",
     "time": "4/4",
     "hymn_code": "17653615332162171",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0721_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1032",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1032",
+        "language": "en",
         "category": "h",
         "number": "1032",
         "title": "E1032"
@@ -414,10 +415,10 @@
     ]
   },
   "raw_sections": [
-    "贫穷、软 弱、悲 伤、忧 愁，",
-    "亲 爱罪 人请你来！",
-    "耶 稣 等 著要 施拯 救，",
-    "满 了 能 力 和 怜爱；",
+    "貧窮、軟 弱、悲 傷、憂 愁，",
+    "親 愛罪 人請你來！",
+    "耶 穌 等 著要 施拯 救，",
+    "滿 了 能 力 和 憐愛；",
     "祂 能救 你！祂 能救 你！",
     "祂 肯救 你，莫疑猜。",
     "祂要欢迎，来罢，放心，",

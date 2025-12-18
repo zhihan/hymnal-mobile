@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "G",
-              "text": "为 著"
+              "text": "為 著"
             },
             {
               "chord": "",
-              "text": "这 饼 和"
+              "text": "這 餅 和"
             },
             {
               "chord": "D7",
-              "text": "这"
+              "text": "這"
             },
             {
               "chord": "G",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "Am",
-              "text": "为 著"
+              "text": "為 著"
             },
             {
               "chord": "",
@@ -52,7 +52,7 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "为 著"
+              "text": "為 著"
             },
             {
               "chord": "C",
@@ -76,11 +76,11 @@
             },
             {
               "chord": "",
-              "text": "们"
+              "text": "們"
             },
             {
               "chord": "D7",
-              "text": "感 谢"
+              "text": "感 謝"
             },
             {
               "chord": "G",
@@ -363,10 +363,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "33335432222432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0187_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/226",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/226",
+        "language": "en",
         "category": "h",
         "number": "226",
         "title": "E226"
@@ -374,10 +375,10 @@
     ]
   },
   "raw_sections": [
-    "为 著这 饼 和这杯，",
-    "为 著神 子曾降卑，",
-    "为 著神 恩如 雨沛，",
-    "主， 我们感 谢你。",
+    "為 著這 餅 和這杯，",
+    "為 著神 子曾降卑，",
+    "為 著神 恩如 雨沛，",
+    "主， 我們感 謝你。",
     "依然是酒、依然饼，",
     "借此信心却看明",
     "爱心神圣的小影，",

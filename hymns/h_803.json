@@ -387,10 +387,11 @@
     "category": "Study of the Word",
     "time": "4/4",
     "hymn_code": "123654333543221",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0803_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/9803",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/9803",
+        "language": "cn",
         "category": "ch",
         "number": "9803",
         "title": "C9803"

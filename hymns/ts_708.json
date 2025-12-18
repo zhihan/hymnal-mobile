@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
@@ -16,11 +16,11 @@
             },
             {
               "chord": "G",
-              "text": "声 歌"
+              "text": "聲 歌"
             },
             {
               "chord": "",
-              "text": "唱 欢"
+              "text": "唱 歡"
             },
             {
               "chord": "D",
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 们 与"
+              "text": "我 們 與"
             },
             {
               "chord": "A",
@@ -52,15 +52,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "异 象 清 楚， 向"
+              "text": "異 象 清 楚， 向"
             },
             {
               "chord": "Em",
-              "text": "主 绝"
+              "text": "主 絕"
             },
             {
               "chord": "",
-              "text": "对，"
+              "text": "對，"
             }
           ]
         },
@@ -68,7 +68,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "D",
@@ -76,11 +76,11 @@
             },
             {
               "chord": "",
-              "text": "拣"
+              "text": "揀"
             },
             {
               "chord": "A7",
-              "text": "选 的"
+              "text": "選 的"
             },
             {
               "chord": "",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "D",
-              "text": "会。"
+              "text": "會。"
             }
           ]
         }
@@ -177,10 +177,11 @@
     "category": "教会的生活",
     "time": "4/4",
     "hymn_code": "1111316133335313",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0708_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/6708",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/6708",
+        "language": "en",
         "category": "h",
         "number": "6708",
         "title": "E6708"
@@ -188,10 +189,10 @@
     ]
   },
   "raw_sections": [
-    "我 们同声 歌唱 欢呼，",
-    "我 们 与王 一同 居住！",
-    "异 象 清 楚， 向主 绝对，",
-    "我 们是 祂拣选 的召会。",
+    "我 們同聲 歌唱 歡呼，",
+    "我 們 與王 一同 居住！",
+    "異 象 清 楚， 向主 絕對，",
+    "我 們是 祂揀選 的召會。",
     "我们听见大雷声响，",
     "众圣站住地方立场，",
     "阿利路亚！我们欢呼，",

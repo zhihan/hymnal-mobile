@@ -7,16 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "I was"
-            },
-            {
-              "chord": "A",
-              "text": "going"
-            },
-            {
-              "chord": "Bm",
-              "text": "down"
+              "chord": "",
+              "text": "I was going down"
             }
           ]
         },
@@ -24,39 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "From"
-            },
-            {
-              "chord": "D",
-              "text": "Jerusa"
-            },
-            {
-              "chord": "G",
-              "text": "lem to"
-            },
-            {
-              "chord": "",
-              "text": "Jeri"
-            },
-            {
-              "chord": "A",
-              "text": "cho,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D",
-              "text": "Towards"
-            },
-            {
-              "chord": "F♯",
-              "text": "that cursed"
-            },
-            {
-              "chord": "Bm",
-              "text": "town,"
+              "text": "From Jerusalem to Jericho,"
             }
           ]
         },
@@ -64,19 +24,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "Exchanging peace"
-            },
-            {
-              "chord": "G",
-              "text": "for pain"
-            },
+              "text": "Towards that cursed town,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "and sor"
-            },
-            {
-              "chord": "A",
-              "text": "row."
+              "text": "Exchanging peace for pain and sorrow."
             }
           ]
         }
@@ -89,44 +45,8 @@
         {
           "segments": [
             {
-              "chord": "Bm",
-              "text": "Can somebody"
-            },
-            {
-              "chord": "F♯m",
-              "text": "help me?"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "Bm",
-              "text": "I'm hurting!"
-            },
-            {
               "chord": "",
-              "text": "I'm"
-            },
-            {
-              "chord": "F♯m",
-              "text": "dying!"
-            },
-            {
-              "chord": "",
-              "text": "Does"
-            },
-            {
-              "chord": "A",
-              "text": "anyone"
-            },
-            {
-              "chord": "Bm",
-              "text": "care? I"
-            },
-            {
-              "chord": "",
-              "text": "have"
+              "text": "Then the robbers came"
             }
           ]
         },
@@ -134,15 +54,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "an ur"
-            },
-            {
-              "chord": "F♯m",
-              "text": "gent need!"
-            },
-            {
-              "chord": "Bm",
-              "text": "But sadly"
+              "text": "Stripped me and beat me, left me half dead."
             }
           ]
         },
@@ -150,27 +62,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "it"
-            },
-            {
-              "chord": "F♯m",
-              "text": "seems that"
-            },
-            {
-              "chord": "",
-              "text": "no"
-            },
-            {
-              "chord": "A",
-              "text": "one is"
-            },
+              "text": "Stuck here, bruised and lame"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "a"
-            },
-            {
-              "chord": "D",
-              "text": "ware."
+              "text": "Will this wretched road be my deathbed?"
             }
           ]
         }
@@ -443,17 +343,18 @@
   "metadata": {
     "category": "Experience of Christ",
     "time": "4/4",
-    "hymn_code": "35271132711617"
+    "hymn_code": "35271132711617",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0646_tune.midi"
   },
   "raw_sections": [
-    "I wasgoingdown",
-    "FromJerusalem toJericho,",
-    "Towardsthat cursedtown,",
-    "Exchanging peacefor painand sorrow.",
-    "Can somebodyhelp me?",
-    "I'm hurting!I'mdying!Doesanyonecare? Ihave",
-    "an urgent need!But sadly",
-    "itseems thatnoone isaware.",
+    "I was going down",
+    "From Jerusalem to Jericho,",
+    "Towards that cursed town,",
+    "Exchanging peace for pain and sorrow.",
+    "Then the robbers came",
+    "Stripped me and beat me, left me half dead.",
+    "Stuck here, bruised and lame",
+    "Will this wretched road be my deathbed?",
     "Can somebody help me?",
     "I’m hurting! I’m dying! Does anyone care?",
     "I have an urgent need!",

@@ -12,15 +12,15 @@
             },
             {
               "chord": "",
-              "text": "独"
+              "text": "獨"
             },
             {
               "chord": "G",
-              "text": "行 这"
+              "text": "行 這"
             },
             {
               "chord": "A",
-              "text": "条 十"
+              "text": "條 十"
             },
             {
               "chord": "",
@@ -36,15 +36,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "客 西 马"
+              "text": "客 西 馬"
             },
             {
               "chord": "G",
-              "text": "尼， 别"
+              "text": "尼， 別"
             },
             {
               "chord": "",
-              "text": "后 成 殊"
+              "text": "後 成 殊"
             },
             {
               "chord": "A",
@@ -56,7 +56,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "羊 群 逃"
+              "text": "羊 羣 逃"
             },
             {
               "chord": "G",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "",
-              "text": "独 蹒"
+              "text": "獨 蹣"
             },
             {
               "chord": "Bm",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "G",
-              "text": "权，"
+              "text": "權，"
             },
             {
               "chord": "A7",
@@ -122,7 +122,7 @@
             },
             {
               "chord": "D",
-              "text": "挤，"
+              "text": "擠，"
             }
           ]
         },
@@ -134,7 +134,7 @@
             },
             {
               "chord": "A",
-              "text": "弃，"
+              "text": "棄，"
             }
           ]
         },
@@ -150,11 +150,11 @@
             },
             {
               "chord": "",
-              "text": "坚 石 肃"
+              "text": "堅 石 肅"
             },
             {
               "chord": "D",
-              "text": "然 伫"
+              "text": "然 佇"
             },
             {
               "chord": "Bm",
@@ -166,7 +166,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "主， 爱"
+              "text": "主， 愛"
             },
             {
               "chord": "",
@@ -174,11 +174,11 @@
             },
             {
               "chord": "A7",
-              "text": "却 不"
+              "text": "卻 不"
             },
             {
               "chord": "",
-              "text": "敢 认"
+              "text": "敢 認"
             },
             {
               "chord": "D",
@@ -419,10 +419,11 @@
     "category": "追求与长进",
     "time": "4/4",
     "hymn_code": "1356172675",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0461_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/6461",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/6461",
+        "language": "en",
         "category": "h",
         "number": "6461",
         "title": "E6461"
@@ -430,14 +431,14 @@
     ]
   },
   "raw_sections": [
-    "你 竟独行 这条 十架 窄路，",
-    "客 西 马尼， 别后 成 殊途。",
-    "羊 群 逃散，牧 人独 蹒跚，",
-    "幽 暗 掌权，炭 火添 冷淡。",
-    "在 人手 中被 推挤，",
-    "在 人 口 中 被 唾弃，",
-    "你面 如坚 石 肃然 伫立；",
-    "主， 爱你却 不敢 认你。",
+    "你 竟獨行 這條 十架 窄路，",
+    "客 西 馬尼， 別後 成 殊途。",
+    "羊 羣 逃散，牧 人獨 蹣跚，",
+    "幽 暗 掌權，炭 火添 冷淡。",
+    "在 人手 中被 推擠，",
+    "在 人 口 中 被 唾棄，",
+    "你面 如堅 石 肅然 佇立；",
+    "主， 愛你卻 不敢 認你。",
     "你何独行这条十架窄路？",
     "前说恩言，今被人厌诅！",
     "叹息声灭，欺凌却暴烈，",

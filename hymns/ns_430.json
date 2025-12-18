@@ -7,12 +7,8 @@
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "The spirit"
-            },
-            {
               "chord": "",
-              "text": "of man"
+              "text": "The spirit of man"
             }
           ]
         },
@@ -20,15 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "is the lamp of Je"
-            },
-            {
-              "chord": "B",
-              "text": "ho"
-            },
-            {
-              "chord": "B7",
-              "text": "vah,"
+              "text": "Is the lamp of Jehovah,"
             }
           ]
         },
@@ -36,15 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "searching"
-            },
-            {
-              "chord": "Em",
-              "text": "all the"
-            },
-            {
-              "chord": "",
-              "text": "innermost parts"
+              "text": "Searching all the innermost parts"
             }
           ]
         },
@@ -52,19 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "of the"
-            },
-            {
-              "chord": "A7",
-              "text": "inner"
-            },
-            {
-              "chord": "D",
-              "text": "be"
-            },
-            {
-              "chord": "D7",
-              "text": "ing."
+              "text": "Of the inner being."
             }
           ]
         },
@@ -72,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "The"
+              "text": "(repeat)"
             }
           ]
         }
@@ -85,15 +53,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "spirit of"
-            },
-            {
-              "chord": "D",
-              "text": "be"
-            },
-            {
-              "chord": "D7",
-              "text": "ing. The"
+              "text": "The spirit of man"
             }
           ]
         },
@@ -101,35 +61,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "spirit of"
-            },
-            {
-              "chord": "G",
-              "text": "man is"
-            },
-            {
-              "chord": "",
-              "text": "the"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "C",
-              "text": "lamp of"
-            },
-            {
-              "chord": "",
-              "text": "Je"
-            },
-            {
-              "chord": "Am7",
-              "text": "ho"
-            },
-            {
-              "chord": "D",
-              "text": "vah, The"
+              "text": "Is the lamp of Jehovah,"
             }
           ]
         },
@@ -137,35 +69,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "spirit of"
-            },
-            {
-              "chord": "G",
-              "text": "man is"
-            },
-            {
-              "chord": "",
-              "text": "the"
+              "text": "The spirit of man"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "C",
-              "text": "lamp of"
-            },
+              "chord": "",
+              "text": "Is the lamp of Jehovah,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "Je"
-            },
-            {
-              "chord": "Am7",
-              "text": "ho"
-            },
-            {
-              "chord": "D",
-              "text": "vah, The"
+              "text": "The spirit of man..."
             }
           ]
         }
@@ -176,18 +96,19 @@
   "metadata": {
     "category": "Scriptures for Singing",
     "time": "6/8",
-    "hymn_code": "334655555553"
+    "hymn_code": "334655555553",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0430_tune.midi"
   },
   "raw_sections": [
-    "The spiritof man",
-    "is the lamp of Jehovah,",
-    "searchingall theinnermost parts",
-    "of theinnerbeing.",
-    "The",
-    "spirit ofbeing. The",
-    "spirit ofman isthe",
-    "lamp ofJehovah, The",
-    "spirit ofman isthe",
-    "lamp ofJehovah, The"
+    "The spirit of man",
+    "Is the lamp of Jehovah,",
+    "Searching all the innermost parts",
+    "Of the inner being.",
+    "(repeat)",
+    "The spirit of man",
+    "Is the lamp of Jehovah,",
+    "The spirit of man",
+    "Is the lamp of Jehovah,",
+    "The spirit of man..."
   ]
 }

@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "G",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
-              "text": "当 来 同"
+              "text": "當 來 同"
             },
             {
               "chord": "D",
-              "text": "声 欢"
+              "text": "聲 歡"
             },
             {
               "chord": "G",
@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "称"
+              "text": "稱"
             },
             {
               "chord": "A",
-              "text": "颂 神"
+              "text": "頌 神"
             },
             {
               "chord": "A7",
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 们 若"
+              "text": "我 們 若"
             },
             {
               "chord": "G",
@@ -56,11 +56,11 @@
             },
             {
               "chord": "C",
-              "text": "万 舌"
+              "text": "萬 舌"
             },
             {
               "chord": "",
-              "text": "头，"
+              "text": "頭，"
             }
           ]
         },
@@ -68,7 +68,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "诗"
+              "text": "詩"
             },
             {
               "chord": "D",
@@ -249,10 +249,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "512316713251765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0146_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/183",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/183",
+        "language": "en",
         "category": "h",
         "number": "183",
         "title": "E183"
@@ -260,10 +261,10 @@
     ]
   },
   "raw_sections": [
-    "我 们当 来 同声 欢呼，",
-    "称颂 神的 基督；",
-    "我 们 若有 千万 舌头，",
-    "诗歌 只有一首。",
+    "我 們當 來 同聲 歡呼，",
+    "稱頌 神的 基督；",
+    "我 們 若有 千萬 舌頭，",
+    "詩歌 只有一首。",
     "‘升天羔羊，你真是配，",
     "来得这样赞美！’",
     "我们喊说：‘你真是配，",

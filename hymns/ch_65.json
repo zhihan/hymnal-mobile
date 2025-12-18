@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
-              "text": "大 名， 荣 耀、"
+              "text": "大 名， 榮 耀、"
             },
             {
               "chord": "A",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "D",
-              "text": "赞 美，"
+              "text": "讚 美，"
             },
             {
               "chord": "",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "A7",
-              "text": "我 胜"
+              "text": "我 勝"
             },
             {
               "chord": "D",
@@ -195,10 +195,11 @@
     "category": "赞美主",
     "time": "9/8",
     "hymn_code": "54333235443256543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0065_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/73",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/73",
+        "language": "en",
         "category": "h",
         "number": "73",
         "title": "E73"
@@ -206,10 +207,10 @@
     ]
   },
   "raw_sections": [
-    "耶 稣大 名， 荣 耀、有 能，",
+    "耶 穌大 名， 榮 耀、有 能，",
     "是 我 投 靠、是 我倚；",
-    "『坐 在 天 上，』我 今赞 美，你 名",
-    "就 是我 胜利。",
+    "『坐 在 天 上，』我 今讚 美，你 名",
+    "就 是我 勝利。",
     "可颂耶稣、大能救主，",
     "我所需要在你名；",
     "只要呼吸耶稣这名，",

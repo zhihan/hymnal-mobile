@@ -16,11 +16,11 @@
             },
             {
               "chord": "D",
-              "text": "神 见"
+              "text": "神 見"
             },
             {
               "chord": "G",
-              "text": "证，"
+              "text": "證，"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "说 明 神"
+              "text": "說 明 神"
             },
             {
               "chord": "D",
@@ -52,15 +52,15 @@
             },
             {
               "chord": "C",
-              "text": "何 圣"
+              "text": "何 聖"
             },
             {
               "chord": "G",
-              "text": "洁， 如"
+              "text": "潔， 如"
             },
             {
               "chord": "",
-              "text": "何 公 义，"
+              "text": "何 公 義，"
             }
           ]
         },
@@ -363,10 +363,11 @@
     "category": "里面生命的各方面",
     "time": "3/4",
     "hymn_code": "1176512171",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0531_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/735",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/735",
+        "language": "en",
         "category": "h",
         "number": "735",
         "title": "E735"
@@ -374,9 +375,9 @@
     ]
   },
   "raw_sections": [
-    "字 句律 法 是神 见证，",
-    "说 明 神是 如何 的神，",
-    "如何 圣洁， 如何 公 义，",
+    "字 句律 法 是神 見證，",
+    "說 明 神是 如何 的神，",
+    "如何 聖潔， 如何 公 義，",
     "如何 光明， 如何 慈仁。",
     "神的律法是要我们",
     "照神所是行事为人，",

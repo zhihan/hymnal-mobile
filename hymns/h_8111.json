@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/8111",
+  "url": "https://www.hymnal.net/en/hymn/h/8111",
   "title": "O Blessed Saviour, Son of God",
   "verses": [
     {
@@ -264,7 +264,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "And conquer Satan's pow'rs."
+              "text": "And conquer Satan’s pow’rs."
             }
           ]
         },
@@ -272,7 +272,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "And conquer Satan's pow'rs."
+              "text": "And conquer Satan’s pow’rs."
             }
           ]
         }
@@ -347,6 +347,7 @@
     "category": "Praise of the Lord",
     "time": "4/4",
     "hymn_code": "135567155356671255",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e8111_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ch/111",
@@ -377,8 +378,8 @@
     "All that Thou hast is ours.",
     "Our life and power Thou become,",
     "In all our motives, set Thy throne,",
-    "And conquer Satan's pow'rs.",
-    "And conquer Satan's pow'rs.",
+    "And conquer Satan’s pow’rs.",
+    "And conquer Satan’s pow’rs.",
     "Ere long that glorious day shall come,",
     "Your Body will be raptured home,",
     "To ever see Thy face.",

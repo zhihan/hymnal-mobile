@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "前 远"
+              "text": "前 遠"
             },
             {
               "chord": "",
-              "text": "离 神 死"
+              "text": "離 神 死"
             },
             {
               "chord": "G",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "D7",
-              "text": "话 照"
+              "text": "話 照"
             },
             {
               "chord": "G",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "",
-              "text": "里"
+              "text": "裡"
             },
             {
               "chord": "D",
@@ -98,7 +98,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "主 活 我 里"
+              "text": "主 活 我 裡"
             },
             {
               "chord": "A",
@@ -114,7 +114,7 @@
             },
             {
               "chord": "",
-              "text": "我 里"
+              "text": "我 裡"
             },
             {
               "chord": "F♯",
@@ -126,7 +126,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "哦， 这"
+              "text": "哦， 這"
             },
             {
               "chord": "",
@@ -154,7 +154,7 @@
             },
             {
               "chord": "",
-              "text": "里"
+              "text": "裡"
             },
             {
               "chord": "D",
@@ -395,10 +395,11 @@
     "category": "灵与生命",
     "time": "6/4",
     "hymn_code": "532111765561465",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0120_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/507",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/507",
+        "language": "en",
         "category": "h",
         "number": "507",
         "title": "E507"
@@ -406,14 +407,14 @@
     ]
   },
   "raw_sections": [
-    "前 远离 神 死在 罪中，",
+    "前 遠離 神 死在 罪中，",
     "黑暗 蒙蔽 心眼；",
-    "今 蒙 主话 照明 得知，",
-    "主活在 我里面。",
-    "主 活 我 里面，",
-    "主 活我 里面，",
-    "哦， 这是 何等 救恩，",
-    "主 竟活 我里面。",
+    "今 蒙 主話 照明 得知，",
+    "主活在 我裡面。",
+    "主 活 我 裡面，",
+    "主 活我 裡面，",
+    "哦， 這是 何等 救恩，",
+    "主 竟活 我裡面。",
     "如同阳光照射大地，",
     "百花盛开争艳；",
     "生命，光，爱从主而来，",

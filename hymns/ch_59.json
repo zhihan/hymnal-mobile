@@ -36,7 +36,7 @@
             },
             {
               "chord": "E7",
-              "text": "严、』 恩"
+              "text": "嚴、』 恩"
             },
             {
               "chord": "A",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "D",
-              "text": "带"
+              "text": "帶"
             },
             {
               "chord": "A",
@@ -56,7 +56,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "荣"
+              "text": "榮"
             },
             {
               "chord": "E",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "F♯m",
-              "text": "启"
+              "text": "啟"
             },
             {
               "chord": "D",
@@ -84,11 +84,11 @@
             },
             {
               "chord": "E7",
-              "text": "稣 面"
+              "text": "穌 面"
             },
             {
               "chord": "A",
-              "text": "间！ 当"
+              "text": "間！ 當"
             },
             {
               "chord": "E",
@@ -100,11 +100,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "注 目 来"
+              "text": "注 目 來"
             },
             {
               "chord": "A",
-              "text": "观 审"
+              "text": "觀 審"
             },
             {
               "chord": "",
@@ -112,7 +112,7 @@
             },
             {
               "chord": "B",
-              "text": "这"
+              "text": "這"
             }
           ]
         },
@@ -144,7 +144,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "惊"
+              "text": "驚"
             },
             {
               "chord": "E",
@@ -152,11 +152,11 @@
             },
             {
               "chord": "F♯m",
-              "text": "欢"
+              "text": "歡"
             },
             {
               "chord": "B",
-              "text": "欣， 满"
+              "text": "欣， 滿"
             },
             {
               "chord": "A",
@@ -176,7 +176,7 @@
             },
             {
               "chord": "A",
-              "text": "赏！"
+              "text": "賞！"
             }
           ]
         }
@@ -329,10 +329,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "554565153476543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0059_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/64",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/64",
+        "language": "en",
         "category": "h",
         "number": "64",
         "title": "E64"
@@ -341,13 +342,13 @@
   },
   "raw_sections": [
     "哦， 何感人 的故 事：",
-    "神的 『尊严、』 恩典，带著",
-    "荣光 的启示， 深刻",
-    "耶稣 面间！ 当我",
-    "注 目 来观 审神这",
+    "神的 『尊嚴、』 恩典，帶著",
+    "榮光 的啟示， 深刻",
+    "耶穌 面間！ 當我",
+    "注 目 來觀 審神這",
     "光明 形像，我心",
-    "惊喜 又欢欣， 满了",
-    "崇敬、 欣赏！",
+    "驚喜 又歡欣， 滿了",
+    "崇敬、 欣賞！",
     "你有完全的人性，",
     "神性在你也显；",
     "神的爱与人的情，",

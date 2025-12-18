@@ -20,11 +20,11 @@
             },
             {
               "chord": "",
-              "text": "会"
+              "text": "會"
             },
             {
               "chord": "Dm",
-              "text": "里，"
+              "text": "裡，"
             }
           ]
         },
@@ -32,11 +32,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "岂 不 令 你"
+              "text": "豈 不 令 你"
             },
             {
               "chord": "F",
-              "text": "欢 天"
+              "text": "歡 天"
             },
             {
               "chord": "G",
@@ -52,7 +52,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "赞"
+              "text": "讚"
             },
             {
               "chord": "Dm",
@@ -60,11 +60,11 @@
             },
             {
               "chord": "F",
-              "text": "实 在"
+              "text": "實 在"
             },
             {
               "chord": "",
-              "text": "是 荣"
+              "text": "是 榮"
             },
             {
               "chord": "C",
@@ -76,11 +76,11 @@
           "segments": [
             {
               "chord": "Dm",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "Gm",
-              "text": "终 于"
+              "text": "終 於"
             },
             {
               "chord": "Am",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "Dm",
-              "text": "标。"
+              "text": "標。"
             }
           ]
         }
@@ -219,10 +219,11 @@
     "category": "教会的生活",
     "time": "3/4",
     "hymn_code": "6633717635653423",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0704_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/6704",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/6704",
+        "language": "en",
         "category": "h",
         "number": "6704",
         "title": "E6704"
@@ -230,10 +231,10 @@
     ]
   },
   "raw_sections": [
-    "你 如今 活在 召会里，",
-    "岂 不 令 你欢 天喜地！？",
-    "赞美 主，实 在是 荣耀，",
-    "我 们终 于找 著目标。",
+    "你 如今 活在 召會裡，",
+    "豈 不 令 你歡 天喜地！？",
+    "讚美 主，實 在是 榮耀，",
+    "我 們終 於找 著目標。",
     "从此不再寻寻觅觅，",
     "我们已经回到家里。",
     "弟兄们和睦的同居，",

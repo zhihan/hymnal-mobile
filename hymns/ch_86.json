@@ -16,11 +16,11 @@
             },
             {
               "chord": "A",
-              "text": "强 暴"
+              "text": "強 暴"
             },
             {
               "chord": "",
-              "text": "压 逼，"
+              "text": "壓 逼，"
             }
           ]
         },
@@ -56,11 +56,11 @@
             },
             {
               "chord": "",
-              "text": "牵 到"
+              "text": "牽 到"
             },
             {
               "chord": "G",
-              "text": "宰 杀"
+              "text": "宰 殺"
             },
             {
               "chord": "D",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "D",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "A7",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "D",
-              "text": "应。"
+              "text": "應。"
             }
           ]
         }
@@ -110,7 +110,7 @@
             },
             {
               "chord": "D",
-              "text": "无 辜，"
+              "text": "無 辜，"
             },
             {
               "chord": "",
@@ -122,7 +122,7 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "为 我"
+              "text": "為 我"
             },
             {
               "chord": "",
@@ -138,7 +138,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "爱 既"
+              "text": "愛 既"
             },
             {
               "chord": "G",
@@ -146,7 +146,7 @@
             },
             {
               "chord": "D",
-              "text": "长 阔"
+              "text": "長 闊"
             },
             {
               "chord": "",
@@ -158,11 +158,11 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "余 生"
+              "text": "餘 生"
             },
             {
               "chord": "",
-              "text": "属 你"
+              "text": "屬 你"
             },
             {
               "chord": "A7",
@@ -407,10 +407,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "353171234325765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0086_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8086",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8086",
+        "language": "en",
         "category": "h",
         "number": "8086",
         "title": "E8086"
@@ -418,14 +419,14 @@
     ]
   },
   "raw_sections": [
-    "屈 身，低 首，强 暴压 逼，",
+    "屈 身，低 首，強 暴壓 逼，",
     "背 著十 架向前行；",
-    "如 羊牵 到宰 杀之 地，",
-    "忍 辱、忍 怨，无反应。",
-    "哦 主，你 是无 辜，竟 肯",
-    "为 我罪 愆 受 委屈！",
-    "爱 既如 此长 阔高 深，",
-    "余 生属 你永 不渝。",
+    "如 羊牽 到宰 殺之 地，",
+    "忍 辱、忍 怨，無反應。",
+    "哦 主，你 是無 辜，竟 肯",
+    "為 我罪 愆 受 委屈！",
+    "愛 既如 此長 闊高 深，",
+    "餘 生屬 你永 不渝。",
     "头戴荆冕，身悬木上，",
     "手足被钉，肋中枪，",
     "父神离弃，敌魔猖狂，",

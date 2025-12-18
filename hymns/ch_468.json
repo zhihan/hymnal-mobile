@@ -20,7 +20,7 @@
             },
             {
               "chord": "G",
-              "text": "离 正"
+              "text": "離 正"
             },
             {
               "chord": "C",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "G",
-              "text": "我 记"
+              "text": "我 記"
             },
             {
               "chord": "C",
@@ -443,10 +443,11 @@
     "category": "十字架的道路",
     "time": "3/4",
     "hymn_code": "132165612323532",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0468_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8468",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8468",
+        "language": "en",
         "category": "h",
         "number": "8468",
         "title": "E8468"
@@ -454,9 +455,9 @@
     ]
   },
   "raw_sections": [
-    "我 若稍微 偏离 正路，",
+    "我 若稍微 偏離 正路，",
     "我要 立刻 舒服；",
-    "但我 记念 我主 基督，",
+    "但我 記念 我主 基督，",
     "如何 忠心 受苦。",
     "我今已经撇弃世界，",
     "所有关系都解；",

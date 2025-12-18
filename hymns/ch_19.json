@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "圣 父，"
+              "text": "聖 父，"
             },
             {
               "chord": "F",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "献 上 同 声"
+              "text": "獻 上 同 聲"
             },
             {
               "chord": "D",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "G",
-              "text": "颂；"
+              "text": "頌；"
             }
           ]
         },
@@ -48,7 +48,7 @@
             },
             {
               "chord": "F",
-              "text": "圣 别、"
+              "text": "聖 別、"
             },
             {
               "chord": "",
@@ -64,7 +64,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "配 得 永 远"
+              "text": "配 得 永 遠"
             },
             {
               "chord": "G",
@@ -275,10 +275,11 @@
     "category": "敬拜父",
     "time": "4/4",
     "hymn_code": "536176531123565",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0019_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/22",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/22",
+        "language": "en",
         "category": "h",
         "number": "22",
         "title": "E22"
@@ -286,10 +287,10 @@
     ]
   },
   "raw_sections": [
-    "圣 父，我 们向 你下 拜，",
-    "献 上 同 声的 歌颂；",
-    "你 何圣 别、你 何超 凡，",
-    "配 得 永 远的 尊崇。",
+    "聖 父，我 們向 你下 拜，",
+    "獻 上 同 聲的 歌頌；",
+    "你 何聖 別、你 何超 凡，",
+    "配 得 永 遠的 尊崇。",
     "亲爱父神，你心是爱，",
     "你的作为是公义，",
     "但你性情却是圣别，",

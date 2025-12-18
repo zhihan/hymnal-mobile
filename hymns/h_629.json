@@ -205,10 +205,11 @@
     "category": "The Way of the Cross",
     "time": "4/4",
     "hymn_code": "33323554431122",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0629_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/467",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/467",
+        "language": "cn",
         "category": "ch",
         "number": "467",
         "title": "C467"

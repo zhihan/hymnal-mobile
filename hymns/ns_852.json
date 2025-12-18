@@ -7,112 +7,32 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "I'm very"
-            },
-            {
               "chord": "",
-              "text": "encour"
-            },
-            {
-              "chord": "F♯m",
-              "text": "aged, my"
-            },
-            {
-              "chord": "Em",
-              "text": "Lord is"
-            },
-            {
-              "chord": "",
-              "text": "Jesus"
-            },
-            {
-              "chord": "A",
-              "text": "Christ,"
+              "text": "I’m very encouraged, my Lord is Jesus Christ,"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "I'm very"
-            },
-            {
               "chord": "",
-              "text": "encour"
-            },
-            {
-              "chord": "F♯m",
-              "text": "aged, I"
-            },
-            {
-              "chord": "G",
-              "text": "have eternal"
-            },
-            {
-              "chord": "A",
-              "text": "life;"
+              "text": "I’m very encouraged, I have eternal life;"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "Bm",
-              "text": "For God"
-            },
-            {
               "chord": "",
-              "text": "my"
-            },
-            {
-              "chord": "F♯m",
-              "text": "Father"
-            },
-            {
-              "chord": "",
-              "text": "has"
-            },
-            {
-              "chord": "G",
-              "text": "chosen"
-            },
-            {
-              "chord": "",
-              "text": "me in"
-            },
-            {
-              "chord": "Em7",
-              "text": "love,"
+              "text": "For God my Father has chosen me in love,"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "And through"
-            },
-            {
               "chord": "",
-              "text": "His Spir"
-            },
-            {
-              "chord": "F♯m",
-              "text": "it I'm"
-            },
-            {
-              "chord": "Em7",
-              "text": "joined to"
-            },
-            {
-              "chord": "A",
-              "text": "His Be"
-            },
-            {
-              "chord": "D",
-              "text": "loved!"
+              "text": "And through His Spirit I’m joined to His Beloved!"
             }
           ]
         }
@@ -124,64 +44,16 @@
         {
           "segments": [
             {
-              "chord": "Bm",
-              "text": "Christ's work"
-            },
-            {
               "chord": "",
-              "text": "is"
-            },
-            {
-              "chord": "F♯m",
-              "text": "my faith,"
-            },
-            {
-              "chord": "",
-              "text": "My"
-            },
-            {
-              "chord": "G",
-              "text": "trust is"
-            },
-            {
-              "chord": "",
-              "text": "all in"
-            },
-            {
-              "chord": "A",
-              "text": "Him,"
+              "text": "Christ’s work is my faith, My trust is all in Him,"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "Bm",
-              "text": "And my"
-            },
-            {
               "chord": "",
-              "text": "sal"
-            },
-            {
-              "chord": "F♯m",
-              "text": "vation"
-            },
-            {
-              "chord": "",
-              "text": "has"
-            },
-            {
-              "chord": "G",
-              "text": "glory"
-            },
-            {
-              "chord": "",
-              "text": "as its"
-            },
-            {
-              "chord": "A",
-              "text": "end."
+              "text": "And my salvation has glory as its end."
             }
           ]
         }
@@ -237,15 +109,16 @@
   "metadata": {
     "category": "Encouragement",
     "time": "4/4",
-    "hymn_code": "112353343215"
+    "hymn_code": "112353343215",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0852_tune.midi"
   },
   "raw_sections": [
-    "I'm veryencouraged, myLord isJesusChrist,",
-    "I'm veryencouraged, Ihave eternallife;",
-    "For GodmyFatherhaschosenme inlove,",
-    "And throughHis Spirit I'mjoined toHis Beloved!",
-    "Christ's workismy faith,Mytrust isall inHim,",
-    "And mysalvationhasgloryas itsend.",
+    "I’m very encouraged, my Lord is Jesus Christ,",
+    "I’m very encouraged, I have eternal life;",
+    "For God my Father has chosen me in love,",
+    "And through His Spirit I’m joined to His Beloved!",
+    "Christ’s work is my faith, My trust is all in Him,",
+    "And my salvation has glory as its end.",
     "Now through the gospel, Christ’s vict’ry is my claim,",
     "And through His ministry in life I am the same.",
     "Now Him who loved us is comfort, hope, and grace,",

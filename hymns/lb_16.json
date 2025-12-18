@@ -7,80 +7,8 @@
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "I love"
-            },
-            {
               "chord": "",
-              "text": "You, Lord"
-            },
-            {
-              "chord": "C",
-              "text": "Je"
-            },
-            {
-              "chord": "D7",
-              "text": "sus!"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "G",
-              "text": "I love"
-            },
-            {
-              "chord": "",
-              "text": "You, Lord,"
-            },
-            {
-              "chord": "C",
-              "text": "precious"
-            },
-            {
-              "chord": "D7",
-              "text": "One!"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "G",
-              "text": "No other"
-            },
-            {
-              "chord": "Em",
-              "text": "one com"
-            },
-            {
-              "chord": "Am",
-              "text": "pares to"
-            },
-            {
-              "chord": "D",
-              "text": "You!"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "G",
-              "text": "Jesus,"
-            },
-            {
-              "chord": "",
-              "text": "Lord"
-            },
-            {
-              "chord": "D",
-              "text": "Jesus,"
-            },
-            {
-              "chord": "A",
-              "text": "Dear Lord,"
+              "text": "I love You, Lord Jesus!"
             }
           ]
         },
@@ -88,43 +16,63 @@
           "segments": [
             {
               "chord": "",
-              "text": "most"
-            },
-            {
-              "chord": "F♯7",
-              "text": "lovely"
-            },
-            {
-              "chord": "Bm",
-              "text": "One,"
-            },
-            {
-              "chord": "Am",
-              "text": "Noth"
-            },
-            {
-              "chord": "G",
-              "text": "ing"
-            },
-            {
-              "chord": "Am",
-              "text": "com"
-            },
-            {
-              "chord": "G",
-              "text": "pares"
-            },
-            {
-              "chord": "D7",
-              "text": "to"
+              "text": "I love You, Lord, precious One!"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "You!"
+              "chord": "",
+              "text": "No other one compares to You!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I love You, Lord Jesus!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I love You, Lord, precious One!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "No other one compares to You!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Jesus, Lord Jesus,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Dear Lord, most lovely One,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Nothing compares to You!"
             }
           ]
         }
@@ -136,14 +84,18 @@
   "metadata": {
     "category": "Experience of Christ",
     "time": "4/4",
-    "hymn_code": "33556543355654"
+    "hymn_code": "33556543355654",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/LongBeach/midi/tunes/lb16_tune.midi"
   },
   "raw_sections": [
-    "I loveYou, LordJesus!",
-    "I loveYou, Lord,preciousOne!",
-    "No otherone compares toYou!",
-    "Jesus,LordJesus,Dear Lord,",
-    "mostlovelyOne,Nothingcomparesto",
-    "You!"
+    "I love You, Lord Jesus!",
+    "I love You, Lord, precious One!",
+    "No other one compares to You!",
+    "I love You, Lord Jesus!",
+    "I love You, Lord, precious One!",
+    "No other one compares to You!",
+    "Jesus, Lord Jesus,",
+    "Dear Lord, most lovely One,",
+    "Nothing compares to You!"
   ]
 }

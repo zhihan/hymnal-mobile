@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "长 久"
+              "text": "長 久"
             },
             {
               "chord": "A",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "D",
-              "text": "入 忧"
+              "text": "入 憂"
             },
             {
               "chord": "Em",
@@ -60,7 +60,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "丝"
+              "text": "絲"
             },
             {
               "chord": "D",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "Bm",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "E7",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "",
-              "text": "干 我"
+              "text": "乾 我"
             },
             {
               "chord": "A",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "D",
-              "text": "泪，"
+              "text": "淚，"
             }
           ]
         },
@@ -116,11 +116,11 @@
             },
             {
               "chord": "G",
-              "text": "脸"
+              "text": "臉"
             },
             {
               "chord": "D",
-              "text": "满"
+              "text": "滿"
             },
             {
               "chord": "Em",
@@ -128,7 +128,7 @@
             },
             {
               "chord": "A",
-              "text": "辉，"
+              "text": "輝，"
             }
           ]
         },
@@ -140,11 +140,11 @@
             },
             {
               "chord": "G",
-              "text": "无 苦"
+              "text": "無 苦"
             },
             {
               "chord": "D",
-              "text": "泪"
+              "text": "淚"
             },
             {
               "chord": "A7",
@@ -381,10 +381,11 @@
     "category": "试炼中的安慰",
     "time": "3/4",
     "hymn_code": "1321554323",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0522_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/726",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/726",
+        "language": "en",
         "category": "h",
         "number": "726",
         "title": "E726"
@@ -392,12 +393,12 @@
     ]
   },
   "raw_sections": [
-    "长 久陷入 忧患、苦痛，",
+    "長 久陷入 憂患、苦痛，",
     "我就 退到 你的 手中；",
-    "丝毫 再无保留；",
-    "你手 擦干 我的 眼泪，",
-    "使我 哭脸满了 光辉，",
-    "再无 苦泪可流。",
+    "絲毫 再無保留；",
+    "你手 擦乾 我的 眼淚，",
+    "使我 哭臉滿了 光輝，",
+    "再無 苦淚可流。",
     "再会！你这虚空欢娱：",
     "无味消遣，儿戏乐趣，",
     "对你我失口味。",

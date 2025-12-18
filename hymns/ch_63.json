@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "耶 稣！"
+              "text": "耶 穌！"
             },
             {
               "chord": "",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "D",
-              "text": "里 所"
+              "text": "裡 所"
             },
             {
               "chord": "E",
@@ -72,7 +72,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "A",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "E7",
-              "text": "这"
+              "text": "這"
             },
             {
               "chord": "A",
@@ -253,10 +253,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "5565565321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0063_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/71",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/71",
+        "language": "en",
         "category": "h",
         "number": "71",
         "title": "E71"
@@ -264,10 +265,10 @@
     ]
   },
   "raw_sections": [
-    "耶 稣！你 名 何等 芬芳，",
+    "耶 穌！你 名 何等 芬芳，",
     "在蒙 恩人 身上！",
-    "得救 罪人， 心里 所念，",
-    "无一 像你这甜。",
+    "得救 罪人， 心裡 所念，",
+    "無一 像你這甜。",
     "神来为人，所表恩义，",
     "你名包含无遗，",
     "天上生命、世间生活，",

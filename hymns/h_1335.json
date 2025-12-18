@@ -161,10 +161,11 @@
     "category": "Scriptures for Singing",
     "time": "4/4",
     "hymn_code": "3213133432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1335_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/8",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/8",
+        "language": "cn",
         "category": "ts",
         "number": "8",
         "title": "Cs8"

@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "寻 得 一"
+              "text": "尋 得 一"
             },
             {
               "chord": "G",
@@ -60,27 +60,27 @@
           "segments": [
             {
               "chord": "",
-              "text": "脱 开"
+              "text": "脫 開"
             },
             {
               "chord": "C",
-              "text": "属 地"
+              "text": "屬 地"
             },
             {
               "chord": "",
-              "text": "挣"
+              "text": "掙"
             },
             {
               "chord": "G",
-              "text": "扎 与"
+              "text": "扎 與"
             },
             {
               "chord": "",
-              "text": "纠"
+              "text": "糾"
             },
             {
               "chord": "C",
-              "text": "缠，"
+              "text": "纏，"
             }
           ]
         },
@@ -88,15 +88,15 @@
           "segments": [
             {
               "chord": "F",
-              "text": "欢"
+              "text": "歡"
             },
             {
               "chord": "C",
-              "text": "然 饮"
+              "text": "然 飲"
             },
             {
               "chord": "",
-              "text": "于"
+              "text": "於"
             },
             {
               "chord": "G7",
@@ -104,7 +104,7 @@
             },
             {
               "chord": "",
-              "text": "爱"
+              "text": "愛"
             },
             {
               "chord": "C",
@@ -120,11 +120,11 @@
           "segments": [
             {
               "chord": "F",
-              "text": "神 圣"
+              "text": "神 聖"
             },
             {
               "chord": "",
-              "text": "属 天 的 活"
+              "text": "屬 天 的 活"
             },
             {
               "chord": "C",
@@ -140,11 +140,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "深 处"
+              "text": "深 處"
             },
             {
               "chord": "C",
-              "text": "涌 流"
+              "text": "湧 流"
             },
             {
               "chord": "F",
@@ -152,11 +152,11 @@
             },
             {
               "chord": "G7",
-              "text": "断； 带"
+              "text": "斷； 帶"
             },
             {
               "chord": "",
-              "text": "来"
+              "text": "來"
             }
           ]
         },
@@ -164,15 +164,15 @@
           "segments": [
             {
               "chord": "C",
-              "text": "喜 乐"
+              "text": "喜 樂"
             },
             {
               "chord": "",
-              "text": "满"
+              "text": "滿"
             },
             {
               "chord": "G",
-              "text": "足 时"
+              "text": "足 時"
             },
             {
               "chord": "",
@@ -184,7 +184,7 @@
             },
             {
               "chord": "F",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "C",
@@ -196,7 +196,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "话 语"
+              "text": "話 語"
             },
             {
               "chord": "G7",
@@ -204,15 +204,15 @@
             },
             {
               "chord": "",
-              "text": "尽"
+              "text": "盡"
             },
             {
               "chord": "C",
-              "text": "言。 请"
+              "text": "言。 請"
             },
             {
               "chord": "",
-              "text": "来"
+              "text": "來"
             }
           ]
         }
@@ -226,11 +226,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "畅 饮"
+              "text": "暢 飲"
             },
             {
               "chord": "F",
-              "text": "于 活"
+              "text": "於 活"
             },
             {
               "chord": "",
@@ -242,11 +242,11 @@
             },
             {
               "chord": "",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "F",
-              "text": "须"
+              "text": "須"
             }
           ]
         },
@@ -258,7 +258,7 @@
             },
             {
               "chord": "C",
-              "text": "价"
+              "text": "價"
             },
             {
               "chord": "Am",
@@ -270,7 +270,7 @@
             },
             {
               "chord": "G7",
-              "text": "愿； 活"
+              "text": "願； 活"
             },
             {
               "chord": "",
@@ -282,7 +282,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "供 应"
+              "text": "供 應"
             },
             {
               "chord": "",
@@ -290,7 +290,7 @@
             },
             {
               "chord": "G",
-              "text": "甜 丰"
+              "text": "甜 豐"
             },
             {
               "chord": "",
@@ -298,7 +298,7 @@
             },
             {
               "chord": "Am",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "C",
@@ -326,7 +326,7 @@
             },
             {
               "chord": "",
-              "text": "这"
+              "text": "這"
             },
             {
               "chord": "C",
@@ -663,10 +663,11 @@
     "category": "享受基督",
     "time": "6/4",
     "hymn_code": "12343232156551345",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0250_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/523",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/523",
+        "language": "en",
         "category": "h",
         "number": "523",
         "title": "E523"
@@ -674,18 +675,18 @@
     ]
   },
   "raw_sections": [
-    "我 已寻 得 一生 命泉源，",
+    "我 已尋 得 一生 命泉源，",
     "清新 活泉流 自高天；",
-    "脱 开属 地挣扎 与纠缠，",
-    "欢然 饮于\"以 琳\"爱泉。 何等",
-    "神 圣属 天 的 活泉， 在我",
-    "深 处涌 流不断； 带来",
-    "喜 乐满足 时加添，无人",
-    "话 语能 以尽言。 请来",
-    "畅 饮于 活水泉 源，无须",
-    "代价只 要你愿； 活水",
-    "供 应甘甜 丰富无限，因主",
-    "自 己就 是这泉。",
+    "脫 開屬 地掙扎 與糾纏，",
+    "歡然 飲於\"以 琳\"愛泉。 何等",
+    "神 聖屬 天 的 活泉， 在我",
+    "深 處湧 流不斷； 帶來",
+    "喜 樂滿足 時加添，無人",
+    "話 語能 以盡言。 請來",
+    "暢 飲於 活水泉 源，無須",
+    "代價只 要你願； 活水",
+    "供 應甘甜 豐富無限，因主",
+    "自 己就 是這泉。",
     "我今投靠于洗罪泉源，",
     "洗净一切污秽罪愆；",
     "借主宝血我罪得赦免，",

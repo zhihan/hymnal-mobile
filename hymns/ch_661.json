@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "赶 紧"
+              "text": "趕 緊"
             },
             {
               "chord": "",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "临，"
+              "text": "臨，"
             }
           ]
         },
@@ -32,7 +32,7 @@
             },
             {
               "chord": "A",
-              "text": "于 清"
+              "text": "於 清"
             },
             {
               "chord": "D",
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "工 作， 正 当 朝"
+              "text": "工 作， 正 當 朝"
             },
             {
               "chord": "G",
@@ -80,11 +80,11 @@
             },
             {
               "chord": "",
-              "text": "当 日 光"
+              "text": "當 日 光"
             },
             {
               "chord": "A7",
-              "text": "无 荫，"
+              "text": "無 蔭，"
             }
           ]
         },
@@ -100,11 +100,11 @@
             },
             {
               "chord": "E7",
-              "text": "于 骄"
+              "text": "於 驕"
             },
             {
               "chord": "A",
-              "text": "阳；"
+              "text": "陽；"
             }
           ]
         },
@@ -112,7 +112,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "赶 紧"
+              "text": "趕 緊"
             },
             {
               "chord": "",
@@ -124,7 +124,7 @@
             },
             {
               "chord": "D",
-              "text": "临，"
+              "text": "臨，"
             }
           ]
         },
@@ -132,15 +132,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "必 须"
+              "text": "必 須"
             },
             {
               "chord": "A7",
-              "text": "离 工"
+              "text": "離 工"
             },
             {
               "chord": "D",
-              "text": "场。"
+              "text": "場。"
             }
           ]
         }
@@ -293,10 +293,11 @@
     "category": "事奉",
     "time": "4/4",
     "hymn_code": "5345565111123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0661_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8661",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8661",
+        "language": "en",
         "category": "h",
         "number": "8661",
         "title": "E8661"
@@ -304,14 +305,14 @@
     ]
   },
   "raw_sections": [
-    "赶 紧工 作， 夜快临，",
-    "工 作 在于 清晨；",
-    "工 作， 正 当 朝色新，",
+    "趕 緊工 作， 夜快臨，",
+    "工 作 在於 清晨；",
+    "工 作， 正 當 朝色新，",
     "工 作，花 正芬；",
-    "工 作，当 日 光无 荫，",
-    "工 作在于 骄阳；",
-    "赶 紧工 作， 夜快临，",
-    "必 须离 工场。",
+    "工 作，當 日 光無 蔭，",
+    "工 作在於 驕陽；",
+    "趕 緊工 作， 夜快臨，",
+    "必 須離 工場。",
     "赶紧工作，夜快临，",
     "工作在于正午；",
     "最亮时辰宜辛勤，",

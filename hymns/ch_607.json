@@ -12,7 +12,7 @@
             },
             {
               "chord": "G7",
-              "text": "阿， 发"
+              "text": "阿， 發"
             },
             {
               "chord": "C",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "C",
-              "text": "气！"
+              "text": "氣！"
             }
           ]
         },
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "请 看， 枯"
+              "text": "請 看， 枯"
             },
             {
               "chord": "Dm",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "D7",
-              "text": "满 全"
+              "text": "滿 全"
             },
             {
               "chord": "G",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "C",
-              "text": "中， 离"
+              "text": "中， 離"
             },
             {
               "chord": "C7",
@@ -76,11 +76,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "求 主 发"
+              "text": "求 主 發"
             },
             {
               "chord": "C",
-              "text": "言 并"
+              "text": "言 並"
             },
             {
               "chord": "G7",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "C",
-              "text": "气！"
+              "text": "氣！"
             }
           ]
         }
@@ -329,10 +329,11 @@
     "category": "召会",
     "time": "3/4",
     "hymn_code": "1543154356176545",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0607_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/844",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/844",
+        "language": "en",
         "category": "h",
         "number": "844",
         "title": "E844"
@@ -340,10 +341,10 @@
     ]
   },
   "raw_sections": [
-    "主阿， 发言！ 主阿， 吹气！",
-    "请 看， 枯骨 遍满 全地！",
-    "埋在 墓中， 离散 死寂，",
-    "求 主 发言 并吹气！",
+    "主阿， 發言！ 主阿， 吹氣！",
+    "請 看， 枯骨 遍滿 全地！",
+    "埋在 墓中， 離散 死寂，",
+    "求 主 發言 並吹氣！",
     "主阿，发言，主阿，吹气！",
     "吹进枯骨，使之复起，",
     "出离坟墓，脱开死地，",

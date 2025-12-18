@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "耶 稣！"
+              "text": "耶 穌！"
             }
           ]
         },
@@ -20,7 +20,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "哦， 主 耶 稣！"
+              "text": "哦， 主 耶 穌！"
             }
           ]
         },
@@ -64,7 +64,7 @@
             },
             {
               "chord": "A7",
-              "text": "耶 稣！"
+              "text": "耶 穌！"
             },
             {
               "chord": "",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "D",
-              "text": "们。"
+              "text": "們。"
             }
           ]
         }
@@ -84,13 +84,14 @@
   "metadata": {
     "category": "享受基督",
     "time": "3/4",
-    "hymn_code": "111533311355432"
+    "hymn_code": "111533311355432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0229_tune.midi"
   },
   "raw_sections": [
-    "哦， 主耶 稣！",
-    "哦， 主 耶 稣！",
+    "哦， 主耶 穌！",
+    "哦， 主 耶 穌！",
     "呼 喊 你 名 何 甘甜！",
     "比 酒更 美，比 蜜更 甜；",
-    "哦， 主耶 稣！阿们。"
+    "哦， 主耶 穌！阿們。"
   ]
 }

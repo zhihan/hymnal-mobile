@@ -7,28 +7,8 @@
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "Your people"
-            },
-            {
               "chord": "",
-              "text": "will"
-            },
-            {
-              "chord": "D",
-              "text": "offer"
-            },
-            {
-              "chord": "",
-              "text": "them"
-            },
-            {
-              "chord": "Em",
-              "text": "selves willing"
-            },
-            {
-              "chord": "D",
-              "text": "ly"
+              "text": "Your people will offer themselves willingly"
             }
           ]
         },
@@ -36,19 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "In the"
-            },
-            {
-              "chord": "C",
-              "text": "day"
-            },
-            {
-              "chord": "D7",
-              "text": "of Your"
-            },
-            {
-              "chord": "G",
-              "text": "warfare,"
+              "text": "In the day of Your warfare,"
             }
           ]
         },
@@ -56,27 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "In the"
-            },
-            {
-              "chord": "C",
-              "text": "splendor"
-            },
-            {
-              "chord": "D",
-              "text": "of their"
-            },
-            {
-              "chord": "G",
-              "text": "con"
-            },
-            {
-              "chord": "D",
-              "text": "se"
-            },
-            {
-              "chord": "Em",
-              "text": "cration."
+              "text": "In the splendor of their consecration."
             }
           ]
         },
@@ -84,23 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Your"
-            },
-            {
-              "chord": "C",
-              "text": "young men"
-            },
-            {
-              "chord": "",
-              "text": "will"
-            },
-            {
-              "chord": "D",
-              "text": "be to"
-            },
-            {
-              "chord": "Em",
-              "text": "You"
+              "text": "Your young men will be to You"
             }
           ]
         },
@@ -108,27 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Like the"
-            },
-            {
-              "chord": "C",
-              "text": "dew from"
-            },
-            {
-              "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "D7",
-              "text": "womb of"
-            },
-            {
-              "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "G",
-              "text": "dawn."
+              "text": "Like the dew from the womb of the dawn."
             }
           ]
         },
@@ -136,7 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "dawn."
+              "text": "(repeat)"
             }
           ]
         }
@@ -149,99 +61,31 @@
           "segments": [
             {
               "chord": "",
-              "text": "He will drink"
-            },
-            {
-              "chord": "C",
-              "text": "from the"
-            },
-            {
-              "chord": "",
-              "text": "brook"
-            },
-            {
-              "chord": "D",
-              "text": "by the"
-            },
-            {
-              "chord": "",
-              "text": "way;"
+              "text": "He will drink from the brook by the way;"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "Therefore"
-            },
-            {
-              "chord": "C",
-              "text": "He will"
-            },
-            {
               "chord": "",
-              "text": "lift"
-            },
-            {
-              "chord": "D",
-              "text": "up His"
-            },
-            {
-              "chord": "",
-              "text": "head."
+              "text": "Therefore He will lift up His head."
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "He will"
-            },
-            {
               "chord": "",
-              "text": "drink"
-            },
-            {
-              "chord": "C",
-              "text": "from the"
-            },
-            {
-              "chord": "",
-              "text": "brook"
-            },
-            {
-              "chord": "D",
-              "text": "by the"
-            },
-            {
-              "chord": "",
-              "text": "way;"
+              "text": "He will drink from the brook by the way;"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "Em",
-              "text": "Therefore"
-            },
-            {
-              "chord": "C",
-              "text": "He will"
-            },
-            {
               "chord": "",
-              "text": "lift"
-            },
-            {
-              "chord": "D7",
-              "text": "up His"
-            },
-            {
-              "chord": "",
-              "text": "head."
+              "text": "Therefore He will lift up His head."
             }
           ]
         }
@@ -252,18 +96,19 @@
   "metadata": {
     "category": "Scriptures for Singing",
     "time": "3/4",
-    "hymn_code": "511176567175565435"
+    "hymn_code": "511176567175565435",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0516_tune.midi"
   },
   "raw_sections": [
-    "Your peoplewillofferthemselves willingly",
-    "In thedayof Yourwarfare,",
-    "In thesplendorof theirconsecration.",
-    "Youryoung menwillbe toYou",
-    "Like thedew fromthewomb ofthedawn.",
-    "dawn.",
-    "He will drinkfrom thebrookby theway;",
-    "ThereforeHe willliftup Hishead.",
-    "He willdrinkfrom thebrookby theway;",
-    "ThereforeHe willliftup Hishead."
+    "Your people will offer themselves willingly",
+    "In the day of Your warfare,",
+    "In the splendor of their consecration.",
+    "Your young men will be to You",
+    "Like the dew from the womb of the dawn.",
+    "(repeat)",
+    "He will drink from the brook by the way;",
+    "Therefore He will lift up His head.",
+    "He will drink from the brook by the way;",
+    "Therefore He will lift up His head."
   ]
 }

@@ -28,7 +28,7 @@
             },
             {
               "chord": "D",
-              "text": "主， 这"
+              "text": "主， 這"
             },
             {
               "chord": "",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "G",
-              "text": "说 明，"
+              "text": "說 明，"
             }
           ]
         },
@@ -60,7 +60,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "或 是 在 于 来"
+              "text": "或 是 在 於 來"
             },
             {
               "chord": "A",
@@ -88,11 +88,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "毁"
+              "text": "毀"
             },
             {
               "chord": "D",
-              "text": "坏 破"
+              "text": "壞 破"
             },
             {
               "chord": "",
@@ -124,7 +124,7 @@
             },
             {
               "chord": "D",
-              "text": "制。"
+              "text": "製。"
             }
           ]
         }
@@ -331,10 +331,11 @@
     "category": "复活的生命",
     "time": "4/4",
     "hymn_code": "13555551776",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0473_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/640",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/640",
+        "language": "en",
         "category": "h",
         "number": "640",
         "title": "E640"
@@ -343,12 +344,12 @@
   },
   "raw_sections": [
     "由 死而生－",
-    "恩主， 这乃 是说 明，",
+    "恩主， 這乃 是說 明，",
     "生 命在此，",
-    "或 是 在 于 来世？",
+    "或 是 在 於 來世？",
     "不 必等候！",
-    "毁坏 破碎 的器 皿，",
-    "即 今 可在 陶人 手中 陶制。",
+    "毀壞 破碎 的器 皿，",
+    "即 今 可在 陶人 手中 陶製。",
     "由死而生－",
     "何等奇妙的复活！",
     "种时明感软弱，",

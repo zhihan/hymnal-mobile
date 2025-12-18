@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "G",
-              "text": "应 当"
+              "text": "應 當"
             },
             {
               "chord": "",
-              "text": "一 无"
+              "text": "一 無"
             },
             {
               "chord": "D",
-              "text": "罣 虑，"
+              "text": "罣 慮，"
             }
           ]
         },
@@ -28,7 +28,7 @@
             },
             {
               "chord": "",
-              "text": "经 近"
+              "text": "經 近"
             },
             {
               "chord": "G",
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "应 当"
+              "text": "應 當"
             },
             {
               "chord": "",
@@ -48,11 +48,11 @@
             },
             {
               "chord": "G",
-              "text": "应"
+              "text": "應"
             },
             {
               "chord": "D",
-              "text": "许，"
+              "text": "許，"
             }
           ]
         },
@@ -64,11 +64,11 @@
             },
             {
               "chord": "A7",
-              "text": "不 动"
+              "text": "不 動"
             },
             {
               "chord": "D",
-              "text": "摇；"
+              "text": "搖；"
             }
           ]
         },
@@ -84,7 +84,7 @@
             },
             {
               "chord": "D",
-              "text": "失 败，"
+              "text": "失 敗，"
             }
           ]
         },
@@ -100,7 +100,7 @@
             },
             {
               "chord": "G",
-              "text": "检，"
+              "text": "檢，"
             }
           ]
         },
@@ -112,11 +112,11 @@
             },
             {
               "chord": "",
-              "text": "稣 快"
+              "text": "穌 快"
             },
             {
               "chord": "Am",
-              "text": "要 来，"
+              "text": "要 來，"
             }
           ]
         },
@@ -124,7 +124,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "也 许"
+              "text": "也 許"
             },
             {
               "chord": "D7",
@@ -285,10 +285,11 @@
     "category": "鼓励",
     "time": "4/4",
     "hymn_code": "56711755655",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0481_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/660",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/660",
+        "language": "en",
         "category": "h",
         "number": "660",
         "title": "E660"
@@ -296,14 +297,14 @@
     ]
   },
   "raw_sections": [
-    "应 当一 无罣 虑，",
-    "主 已经 近了；",
-    "应 当信 神应许，",
-    "平 安不 动摇；",
-    "你 切不 可失 败，",
-    "也 不可 失检，",
-    "因 耶稣 快要 来，",
-    "也 许是 今天。",
+    "應 當一 無罣 慮，",
+    "主 已經 近了；",
+    "應 當信 神應許，",
+    "平 安不 動搖；",
+    "你 切不 可失 敗，",
+    "也 不可 失檢，",
+    "因 耶穌 快要 來，",
+    "也 許是 今天。",
     "应当一无罣虑，",
     "凡事交托主；",
     "祂替你罪受鞫，",

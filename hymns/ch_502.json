@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "C",
-              "text": "来 罢，"
+              "text": "來 罷，"
             },
             {
               "chord": "",
-              "text": "忧"
+              "text": "憂"
             },
             {
               "chord": "F",
-              "text": "伤 的"
+              "text": "傷 的"
             },
             {
               "chord": "C",
@@ -28,15 +28,15 @@
           "segments": [
             {
               "chord": "Dm",
-              "text": "随"
+              "text": "隨"
             },
             {
               "chord": "G7",
-              "text": "带 你"
+              "text": "帶 你"
             },
             {
               "chord": "C",
-              "text": "烦 恼，"
+              "text": "煩 惱，"
             }
           ]
         },
@@ -52,7 +52,7 @@
             },
             {
               "chord": "F",
-              "text": "恩 宝"
+              "text": "恩 寶"
             },
             {
               "chord": "",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "D7",
-              "text": "诚 屈"
+              "text": "誠 屈"
             },
             {
               "chord": "G",
@@ -76,15 +76,15 @@
           "segments": [
             {
               "chord": "C",
-              "text": "来"
+              "text": "來"
             },
             {
               "chord": "F",
-              "text": "陈 你"
+              "text": "陳 你"
             },
             {
               "chord": "C",
-              "text": "心 创"
+              "text": "心 創"
             },
             {
               "chord": "",
@@ -96,15 +96,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "来"
+              "text": "來"
             },
             {
               "chord": "F",
-              "text": "诉 你"
+              "text": "訴 你"
             },
             {
               "chord": "C",
-              "text": "困 扰，"
+              "text": "困 擾，"
             }
           ]
         },
@@ -116,15 +116,15 @@
             },
             {
               "chord": "C7",
-              "text": "无 一"
+              "text": "無 一"
             },
             {
               "chord": "F",
-              "text": "个 忧"
+              "text": "個 憂"
             },
             {
               "chord": "Dm",
-              "text": "伤"
+              "text": "傷"
             },
             {
               "chord": "C",
@@ -136,7 +136,7 @@
             },
             {
               "chord": "C",
-              "text": "医。"
+              "text": "醫。"
             }
           ]
         }
@@ -273,10 +273,11 @@
     "category": "试炼中的安慰",
     "time": "4/4",
     "hymn_code": "5316554567155",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0502_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/684",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/684",
+        "language": "en",
         "category": "h",
         "number": "684",
         "title": "E684"
@@ -284,12 +285,12 @@
     ]
   },
   "raw_sections": [
-    "来 罢，忧伤 的人，",
-    "随带 你烦 恼，",
-    "向著 施恩 宝座虔诚 屈膝；",
-    "来陈 你心 创痕，",
-    "来诉 你困 扰，",
-    "地无 一个 忧伤天不 能医。",
+    "來 罷，憂傷 的人，",
+    "隨帶 你煩 惱，",
+    "向著 施恩 寶座虔誠 屈膝；",
+    "來陳 你心 創痕，",
+    "來訴 你困 擾，",
+    "地無 一個 憂傷天不 能醫。",
     "孤单中的喜乐，",
     "迷途的光照，",
     "痛悔者的希望－",

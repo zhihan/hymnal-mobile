@@ -24,7 +24,7 @@
             },
             {
               "chord": "",
-              "text": "绘，"
+              "text": "繪，"
             }
           ]
         },
@@ -40,7 +40,7 @@
             },
             {
               "chord": "",
-              "text": "与 建"
+              "text": "與 建"
             },
             {
               "chord": "G",
@@ -56,11 +56,11 @@
             },
             {
               "chord": "D",
-              "text": "妇 生"
+              "text": "婦 生"
             },
             {
               "chord": "G",
-              "text": "命 历"
+              "text": "命 歷"
             },
             {
               "chord": "",
@@ -72,15 +72,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "皆 显 明"
+              "text": "皆 顯 明"
             },
             {
               "chord": "D7",
-              "text": "于 表"
+              "text": "於 表"
             },
             {
               "chord": "G",
-              "text": "号，"
+              "text": "號，"
             }
           ]
         },
@@ -88,15 +88,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "皆 显 明"
+              "text": "皆 顯 明"
             },
             {
               "chord": "D7",
-              "text": "于 表"
+              "text": "於 表"
             },
             {
               "chord": "G",
-              "text": "号。"
+              "text": "號。"
             }
           ]
         }
@@ -707,10 +707,11 @@
     "category": "追求与长进",
     "time": "6/8",
     "hymn_code": "51122321566165",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0469_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1241",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1241",
+        "language": "en",
         "category": "h",
         "number": "1241",
         "title": "E1241"
@@ -718,11 +719,11 @@
     ]
   },
   "raw_sections": [
-    "歌 中之歌 乃是 描绘，",
-    "神生 命与 建造；",
-    "基 督 新妇 生命 历程，",
-    "皆 显 明于 表号，",
-    "皆 显 明于 表号。",
+    "歌 中之歌 乃是 描繪，",
+    "神生 命與 建造；",
+    "基 督 新婦 生命 歷程，",
+    "皆 顯 明於 表號，",
+    "皆 顯 明於 表號。",
     "她之爱主初如骏马，",
     "属世牵连未断；",
     "奔跑迅捷、力大无匹，",

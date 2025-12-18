@@ -16,7 +16,7 @@
             },
             {
               "chord": "G",
-              "text": "妙 声"
+              "text": "妙 聲"
             },
             {
               "chord": "Am",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "悦"
+              "text": "悅"
             },
             {
               "chord": "Dm",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "",
-              "text": "满 祂"
+              "text": "滿 祂"
             },
             {
               "chord": "F",
@@ -80,11 +80,11 @@
             },
             {
               "chord": "G7",
-              "text": "都 听"
+              "text": "都 聽"
             },
             {
               "chord": "C",
-              "text": "闻。"
+              "text": "聞。"
             }
           ]
         }
@@ -114,7 +114,7 @@
           "segments": [
             {
               "chord": "F",
-              "text": "这 是"
+              "text": "這 是"
             },
             {
               "chord": "",
@@ -130,7 +130,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "耶 稣 死 为"
+              "text": "耶 穌 死 為"
             },
             {
               "chord": "F",
@@ -146,7 +146,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "C",
@@ -154,7 +154,7 @@
             },
             {
               "chord": "G7",
-              "text": "这 罪"
+              "text": "這 罪"
             },
             {
               "chord": "C",
@@ -395,10 +395,11 @@
     "category": "福音",
     "time": "3/4",
     "hymn_code": "554653123453",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0691_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8691",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8691",
+        "language": "en",
         "category": "h",
         "number": "8691",
         "title": "E8691"
@@ -406,14 +407,14 @@
     ]
   },
   "raw_sections": [
-    "恩典！ 美妙 声音，",
-    "悦耳， 又慰 人心，",
-    "天上 充满 祂的 回音，",
-    "地上 也都 听闻。",
+    "恩典！ 美妙 聲音，",
+    "悅耳， 又慰 人心，",
+    "天上 充滿 祂的 回音，",
+    "地上 也都 聽聞。",
     "得 救本 乎恩！",
-    "这 是真 福音；",
-    "耶 稣 死 为救 罪人，",
-    "为救 我这 罪人。",
+    "這 是真 福音；",
+    "耶 穌 死 為救 罪人，",
+    "為救 我這 罪人。",
     "恩典藏于基督，",
     "丰富口舌难述；",
     "恩典为我成功救赎，",

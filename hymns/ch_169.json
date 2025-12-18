@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "耶 稣，"
+              "text": "耶 穌，"
             },
             {
               "chord": "",
-              "text": "耶 稣， 我 的 性 命，"
+              "text": "耶 穌， 我 的 性 命，"
             }
           ]
         },
@@ -24,11 +24,11 @@
             },
             {
               "chord": "F",
-              "text": "为 爱"
+              "text": "為 愛"
             },
             {
               "chord": "",
-              "text": "的 缘"
+              "text": "的 緣"
             },
             {
               "chord": "C",
@@ -44,15 +44,15 @@
             },
             {
               "chord": "G",
-              "text": "原 谅"
+              "text": "原 諒"
             },
             {
               "chord": "G7",
-              "text": "我， 将"
+              "text": "我， 將"
             },
             {
               "chord": "C",
-              "text": "你 圣"
+              "text": "你 聖"
             },
             {
               "chord": "",
@@ -94,15 +94,15 @@
             },
             {
               "chord": "F",
-              "text": "稣， 耶"
+              "text": "穌， 耶"
             },
             {
               "chord": "",
-              "text": "稣， 最"
+              "text": "穌， 最"
             },
             {
               "chord": "E7",
-              "text": "爱 救"
+              "text": "愛 救"
             },
             {
               "chord": "",
@@ -114,15 +114,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "D7",
-              "text": "人 无"
+              "text": "人 無"
             },
             {
               "chord": "",
-              "text": "物 与"
+              "text": "物 與"
             },
             {
               "chord": "G",
@@ -130,7 +130,7 @@
             },
             {
               "chord": "G7",
-              "text": "拟，"
+              "text": "擬，"
             }
           ]
         },
@@ -150,7 +150,7 @@
             },
             {
               "chord": "F",
-              "text": "我 欢"
+              "text": "我 歡"
             },
             {
               "chord": "",
@@ -166,7 +166,7 @@
             },
             {
               "chord": "C",
-              "text": "爱， …爱"
+              "text": "愛， …愛"
             },
             {
               "chord": "G7",
@@ -605,10 +605,11 @@
     "category": "赞美主",
     "time": "6/4",
     "hymn_code": "333335515644565",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0169_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/208",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/208",
+        "language": "en",
         "category": "h",
         "number": "208",
         "title": "E208"
@@ -616,14 +617,14 @@
     ]
   },
   "raw_sections": [
-    "耶 稣，耶 稣， 我 的 性 命，",
-    "因为 爱的 缘故，",
-    "求原 谅我， 将你 圣名，",
+    "耶 穌，耶 穌， 我 的 性 命，",
+    "因為 愛的 緣故，",
+    "求原 諒我， 將你 聖名，",
     "日念 千遍 不住。",
-    "耶稣， 耶稣， 最爱 救主，",
-    "无人 无物 与你 比拟，",
-    "你的 笑容 是我 欢喜，",
-    "我爱， …爱你， …你，",
+    "耶穌， 耶穌， 最愛 救主，",
+    "無人 無物 與你 比擬，",
+    "你的 笑容 是我 歡喜，",
+    "我愛， …愛你， …你，",
     "…主。",
     "我心爱你，不知如何",
     "约束我的奇乐；",

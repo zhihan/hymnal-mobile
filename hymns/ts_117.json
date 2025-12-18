@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
-              "text": "已 定 意 在 灵 里 行 事，"
+              "text": "已 定 意 在 靈 裡 行 事，"
             }
           ]
         },
@@ -20,7 +20,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 们 已"
+              "text": "我 們 已"
             },
             {
               "chord": "G",
@@ -28,7 +28,7 @@
             },
             {
               "chord": "",
-              "text": "在 灵 里"
+              "text": "在 靈 裡"
             },
             {
               "chord": "D",
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 们 已 定 意 在 灵 里 行 事，"
+              "text": "我 們 已 定 意 在 靈 裡 行 事，"
             }
           ]
         },
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "祂 在 灵 里，"
+              "text": "祂 在 靈 裡，"
             },
             {
               "chord": "A7",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "D",
-              "text": "亚！"
+              "text": "亞！"
             }
           ]
         }
@@ -225,10 +225,11 @@
     "category": "灵与生命",
     "time": "4/4",
     "hymn_code": "11355565321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0117_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/6117",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/6117",
+        "language": "en",
         "category": "h",
         "number": "6117",
         "title": "E6117"
@@ -236,10 +237,10 @@
     ]
   },
   "raw_sections": [
-    "我 们已 定 意 在 灵 里 行 事，",
-    "我 们 已定 意在 灵 里行 事，",
-    "我 们 已 定 意 在 灵 里 行 事，",
-    "祂 在 灵 里，阿 利路亚！",
+    "我 們已 定 意 在 靈 裡 行 事，",
+    "我 們 已定 意在 靈 裡行 事，",
+    "我 們 已 定 意 在 靈 裡 行 事，",
+    "祂 在 靈 裡，阿 利路亞！",
     "在灵里行事，喊‘哦，主耶稣！’",
     "在灵里行事，喊‘哦，主耶稣！’",
     "在灵里行事，喊‘哦，主耶稣！’",

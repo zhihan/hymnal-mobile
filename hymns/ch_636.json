@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "邪 恶"
+              "text": "邪 惡"
             },
             {
               "chord": "",
@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "Am",
-              "text": "人 说"
+              "text": "人 說"
             },
             {
               "chord": "",
-              "text": "甚 么"
+              "text": "甚 麼"
             },
             {
               "chord": "D7",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "",
-              "text": "顾，"
+              "text": "顧，"
             }
           ]
         },
@@ -52,7 +52,7 @@
             },
             {
               "chord": "C",
-              "text": "之 脸"
+              "text": "之 臉"
             },
             {
               "chord": "G",
@@ -203,10 +203,11 @@
     "category": "属灵的争战",
     "time": "4/4",
     "hymn_code": "55651172234712",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0636_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/874",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/874",
+        "language": "en",
         "category": "h",
         "number": "874",
         "title": "E874"
@@ -214,9 +215,9 @@
     ]
   },
   "raw_sections": [
-    "邪 恶之 日要 站住，",
-    "人 说甚 么不 必顾，",
-    "泥 土之 脸何 必睹，",
+    "邪 惡之 日要 站住，",
+    "人 說甚 麼不 必顧，",
+    "泥 土之 臉何 必睹，",
     "站 住，主 精兵。",
     "站住因有神的话，",
     "站住，甘愿出代价，",

@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "荣 耀！"
+              "text": "榮 耀！"
             }
           ]
         },
@@ -32,11 +32,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "诸 天"
+              "text": "諸 天"
             },
             {
               "chord": "",
-              "text": "国 度"
+              "text": "國 度"
             },
             {
               "chord": "E",
@@ -44,11 +44,11 @@
             },
             {
               "chord": "E7",
-              "text": "实"
+              "text": "實"
             },
             {
               "chord": "A",
-              "text": "现！"
+              "text": "現！"
             }
           ]
         },
@@ -56,7 +56,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "",
@@ -72,7 +72,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "为 神"
+              "text": "為 神"
             },
             {
               "chord": "",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "A",
-              "text": "来"
+              "text": "來"
             },
             {
               "chord": "A7",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "D",
-              "text": "权。"
+              "text": "權。"
             }
           ]
         },
@@ -108,7 +108,7 @@
             },
             {
               "chord": "D",
-              "text": "来 过，"
+              "text": "來 過，"
             }
           ]
         },
@@ -116,15 +116,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "被 人 藐 视"
+              "text": "被 人 藐 視"
             },
             {
               "chord": "E7",
-              "text": "并 厌"
+              "text": "並 厭"
             },
             {
               "chord": "A",
-              "text": "恶；"
+              "text": "惡；"
             }
           ]
         },
@@ -132,19 +132,19 @@
           "segments": [
             {
               "chord": "G",
-              "text": "今 带"
+              "text": "今 帶"
             },
             {
               "chord": "D",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "",
-              "text": "威 严"
+              "text": "威 嚴"
             },
             {
               "chord": "A",
-              "text": "再 来，"
+              "text": "再 來，"
             }
           ]
         },
@@ -156,7 +156,7 @@
             },
             {
               "chord": "",
-              "text": "国 度"
+              "text": "國 度"
             },
             {
               "chord": "A",
@@ -168,7 +168,7 @@
             },
             {
               "chord": "D",
-              "text": "图。"
+              "text": "圖。"
             }
           ]
         }
@@ -461,10 +461,11 @@
     "category": "国度",
     "time": "3/4",
     "hymn_code": "55665133217655765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0749_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/946",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/946",
+        "language": "en",
         "category": "h",
         "number": "946",
         "title": "E946"
@@ -472,15 +473,15 @@
     ]
   },
   "raw_sections": [
-    "看， 何荣 耀！",
+    "看， 何榮 耀！",
     "看， 何光 彩！",
-    "诸 天国 度今实现！",
-    "荣 耀之 王， 神 的基 督，",
-    "为 神所 立来掌权。",
-    "曾 在 肉 身卑微来 过，",
-    "被 人 藐 视并 厌恶；",
-    "今 带荣 耀威 严再 来，",
-    "成 全国 度的意图。",
+    "諸 天國 度今實現！",
+    "榮 耀之 王， 神 的基 督，",
+    "為 神所 立來掌權。",
+    "曾 在 肉 身卑微來 過，",
+    "被 人 藐 視並 厭惡；",
+    "今 帶榮 耀威 嚴再 來，",
+    "成 全國 度的意圖。",
     "去从祂神，亘古存者，",
     "领得权柄和国度；",
     "现今带着国度回来，",

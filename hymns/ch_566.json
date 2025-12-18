@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "我 愿"
+              "text": "我 願"
             },
             {
               "chord": "A",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "D",
-              "text": "祷 告，"
+              "text": "禱 告，"
             }
           ]
         },
@@ -24,15 +24,15 @@
           "segments": [
             {
               "chord": "A",
-              "text": "随 时"
+              "text": "隨 時"
             },
             {
               "chord": "D",
-              "text": "操 练"
+              "text": "操 練"
             },
             {
               "chord": "A",
-              "text": "灵！"
+              "text": "靈！"
             }
           ]
         },
@@ -44,7 +44,7 @@
             },
             {
               "chord": "E7",
-              "text": "祷 告"
+              "text": "禱 告"
             },
             {
               "chord": "A",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "E7",
-              "text": "灵 不"
+              "text": "靈 不"
             },
             {
               "chord": "A",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "A",
-              "text": "祷 告，"
+              "text": "禱 告，"
             }
           ]
         },
@@ -100,7 +100,7 @@
             },
             {
               "chord": "A",
-              "text": "灵；"
+              "text": "靈；"
             }
           ]
         },
@@ -108,7 +108,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "多 为"
+              "text": "多 為"
             },
             {
               "chord": "",
@@ -116,7 +116,7 @@
             },
             {
               "chord": "G",
-              "text": "求 讨，"
+              "text": "求 討，"
             }
           ]
         },
@@ -124,11 +124,11 @@
           "segments": [
             {
               "chord": "A",
-              "text": "不 随"
+              "text": "不 隨"
             },
             {
               "chord": "A7",
-              "text": "灵 运"
+              "text": "靈 運"
             },
             {
               "chord": "D",
@@ -495,10 +495,11 @@
     "category": "祷告",
     "time": "4/4",
     "hymn_code": "34271545312",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0566_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/781",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/781",
+        "language": "en",
         "category": "h",
         "number": "781",
         "title": "E781"
@@ -506,14 +507,14 @@
     ]
   },
   "raw_sections": [
-    "我 愿多 方祷 告，",
-    "随 时操 练灵！",
-    "已 往祷 告太少，",
-    "所 以灵 不明；",
-    "即 使有 些祷 告，",
-    "也 是少 用灵；",
-    "多 为事 物求 讨，",
-    "不 随灵 运行。",
+    "我 願多 方禱 告，",
+    "隨 時操 練靈！",
+    "已 往禱 告太少，",
+    "所 以靈 不明；",
+    "即 使有 些禱 告，",
+    "也 是少 用靈；",
+    "多 為事 物求 討，",
+    "不 隨靈 運行。",
     "今愿灵里祷告，",
     "随从灵叹息；",
     "照着灵感发表，",

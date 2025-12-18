@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "出 于"
+              "text": "出 於"
             },
             {
               "chord": "",
@@ -20,11 +20,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "彰 显"
+              "text": "彰 顯"
             },
             {
               "chord": "C",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "",
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "联 络"
+              "text": "聯 絡"
             },
             {
               "chord": "D",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "G",
-              "text": "体，"
+              "text": "體，"
             }
           ]
         },
@@ -64,7 +64,7 @@
             },
             {
               "chord": "A7",
-              "text": "神 圣"
+              "text": "神 聖"
             },
             {
               "chord": "",
@@ -80,11 +80,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "随 从"
+              "text": "隨 從"
             },
             {
               "chord": "G",
-              "text": "圣 灵"
+              "text": "聖 靈"
             },
             {
               "chord": "D7",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "G",
-              "text": "动，"
+              "text": "動，"
             }
           ]
         },
@@ -104,11 +104,11 @@
             },
             {
               "chord": "C",
-              "text": "举 动"
+              "text": "舉 動"
             },
             {
               "chord": "D7",
-              "text": "就 随"
+              "text": "就 隨"
             },
             {
               "chord": "G",
@@ -126,7 +126,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "随 著 活 物 的 行 踪，"
+              "text": "隨 著 活 物 的 行 蹤，"
             }
           ]
         },
@@ -138,15 +138,15 @@
             },
             {
               "chord": "Am",
-              "text": "大 轮"
+              "text": "大 輪"
             },
             {
               "chord": "",
-              "text": "在 转"
+              "text": "在 轉"
             },
             {
               "chord": "D7",
-              "text": "动，"
+              "text": "動，"
             }
           ]
         },
@@ -154,7 +154,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "动 得"
+              "text": "動 得"
             },
             {
               "chord": "G",
@@ -174,7 +174,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "显 出"
+              "text": "顯 出"
             },
             {
               "chord": "A7",
@@ -182,7 +182,7 @@
             },
             {
               "chord": "",
-              "text": "的 荣"
+              "text": "的 榮"
             },
             {
               "chord": "D",
@@ -194,7 +194,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "神 圣"
+              "text": "神 聖"
             },
             {
               "chord": "G",
@@ -202,11 +202,11 @@
             },
             {
               "chord": "C",
-              "text": "计"
+              "text": "計"
             },
             {
               "chord": "G",
-              "text": "画"
+              "text": "畫"
             },
             {
               "chord": "Am",
@@ -531,10 +531,11 @@
     "category": "召会",
     "time": "4/4",
     "hymn_code": "55153455566665",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0619_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8619",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8619",
+        "language": "en",
         "category": "h",
         "number": "8619",
         "title": "E8619"
@@ -542,17 +543,17 @@
     ]
   },
   "raw_sections": [
-    "出 于神 性 的 活 物，",
-    "彰 显荣 耀的 基督；",
-    "联 络配 搭成 一体，",
-    "完 成神 圣的 旨意；",
-    "随 从圣 灵而 行动，",
-    "神 的举 动就 随同。",
-    "随 著 活 物 的 行 踪，",
-    "神 的大 轮在 转动，",
-    "动 得可 畏高 而明，",
-    "显 出恩 主的 荣形，",
-    "神 圣的计划借此完成。",
+    "出 於神 性 的 活 物，",
+    "彰 顯榮 耀的 基督；",
+    "聯 絡配 搭成 一體，",
+    "完 成神 聖的 旨意；",
+    "隨 從聖 靈而 行動，",
+    "神 的舉 動就 隨同。",
+    "隨 著 活 物 的 行 蹤，",
+    "神 的大 輪在 轉動，",
+    "動 得可 畏高 而明，",
+    "顯 出恩 主的 榮形，",
+    "神 聖的計畫藉此完成。",
     "圣别烈火在焚烧，",
     "不洁、不圣全烧掉；",
     "圣火烧成圣别光，",

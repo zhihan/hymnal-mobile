@@ -44,7 +44,7 @@
             },
             {
               "chord": "D",
-              "text": "应；"
+              "text": "應；"
             }
           ]
         },
@@ -56,7 +56,7 @@
             },
             {
               "chord": "E",
-              "text": "在 灵"
+              "text": "在 靈"
             },
             {
               "chord": "Am",
@@ -64,11 +64,11 @@
             },
             {
               "chord": "D7",
-              "text": "顾 我"
+              "text": "顧 我"
             },
             {
               "chord": "Em",
-              "text": "灵，"
+              "text": "靈，"
             }
           ]
         },
@@ -88,7 +88,7 @@
             },
             {
               "chord": "D7",
-              "text": "丰"
+              "text": "豐"
             },
             {
               "chord": "G",
@@ -295,10 +295,11 @@
     "category": "羡慕",
     "time": "3/4",
     "hymn_code": "333476711235432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0280_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/364",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/364",
+        "language": "en",
         "category": "h",
         "number": "364",
         "title": "E364"
@@ -307,9 +308,9 @@
   },
   "raw_sections": [
     "哦 主，你是 我的 生命，",
-    "也 是 生命供应；",
-    "求在 灵中 眷顾 我灵，",
-    "使我 生命丰盛。",
+    "也 是 生命供應；",
+    "求在 靈中 眷顧 我靈，",
+    "使我 生命豐盛。",
     "将你自己于我应用，",
     "向我吹你圣灵；",
     "使我经历与你同钉，",

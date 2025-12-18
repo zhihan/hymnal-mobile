@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "",
@@ -28,7 +28,7 @@
             },
             {
               "chord": "",
-              "text": "再 临！"
+              "text": "再 臨！"
             }
           ]
         },
@@ -36,7 +36,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
@@ -48,15 +48,15 @@
             },
             {
               "chord": "",
-              "text": "贱"
+              "text": "賤"
             },
             {
               "chord": "G",
-              "text": "体 变"
+              "text": "體 變"
             },
             {
               "chord": "C",
-              "text": "荣"
+              "text": "榮"
             },
             {
               "chord": "G",
@@ -68,7 +68,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "与 祂"
+              "text": "與 祂"
             },
             {
               "chord": "",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "A",
-              "text": "荣 耀，"
+              "text": "榮 耀，"
             },
             {
               "chord": "",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "",
-              "text": "至 宝，"
+              "text": "至 寶，"
             }
           ]
         },
@@ -96,11 +96,11 @@
           "segments": [
             {
               "chord": "A",
-              "text": "那 时"
+              "text": "那 時"
             },
             {
               "chord": "",
-              "text": "才"
+              "text": "纔"
             },
             {
               "chord": "D",
@@ -134,7 +134,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "",
@@ -142,7 +142,7 @@
             },
             {
               "chord": "D7",
-              "text": "临！"
+              "text": "臨！"
             }
           ]
         },
@@ -150,7 +150,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "",
@@ -170,7 +170,7 @@
             },
             {
               "chord": "G",
-              "text": "临！"
+              "text": "臨！"
             }
           ]
         },
@@ -178,15 +178,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 们 要 被 提， 贱"
+              "text": "我 們 要 被 提， 賤"
             },
             {
               "chord": "C",
-              "text": "体 变"
+              "text": "體 變"
             },
             {
               "chord": "",
-              "text": "荣"
+              "text": "榮"
             },
             {
               "chord": "B",
@@ -198,7 +198,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "",
@@ -222,7 +222,7 @@
             },
             {
               "chord": "G",
-              "text": "临！"
+              "text": "臨！"
             }
           ]
         }
@@ -459,10 +459,11 @@
     "category": "荣耀的盼望",
     "time": "6/4",
     "hymn_code": "5176543513",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0766_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/966",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/966",
+        "language": "en",
         "category": "h",
         "number": "966",
         "title": "E966"
@@ -470,14 +471,14 @@
     ]
   },
   "raw_sections": [
-    "荣 耀的盼 望，基督 要再 临！",
-    "我 们要被 提，贱体 变荣身，",
-    "与 祂同荣 耀，享受 祂至 宝，",
-    "那 时才知 道救恩 有多高。",
-    "荣 耀盼 望， 基 督 再临！",
-    "荣 耀盼望，基 督再临！",
-    "我 们 要 被 提， 贱体 变荣身，",
-    "荣 耀的盼 望，基督 要再临！",
+    "榮 耀的盼 望，基督 要再 臨！",
+    "我 們要被 提，賤體 變榮身，",
+    "與 祂同榮 耀，享受 祂至 寶，",
+    "那 時纔知 道救恩 有多高。",
+    "榮 耀盼 望， 基 督 再臨！",
+    "榮 耀盼望，基 督再臨！",
+    "我 們 要 被 提， 賤體 變榮身，",
+    "榮 耀的盼 望，基督 要再臨！",
     "荣耀的盼望，基督要再临！",
     "旧造全脱去，一切都更新，",
     "不再有叹息，尽都是逍遥，",

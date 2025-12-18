@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "于 人"
+              "text": "於 人"
             }
           ]
         },
@@ -40,11 +40,11 @@
             },
             {
               "chord": "",
-              "text": "在 于 灵"
+              "text": "在 於 靈"
             },
             {
               "chord": "D",
-              "text": "里；"
+              "text": "裡；"
             }
           ]
         },
@@ -56,11 +56,11 @@
             },
             {
               "chord": "G",
-              "text": "须 灵"
+              "text": "須 靈"
             },
             {
               "chord": "",
-              "text": "里"
+              "text": "裡"
             }
           ]
         },
@@ -72,11 +72,11 @@
             },
             {
               "chord": "C",
-              "text": "神 灵"
+              "text": "神 靈"
             },
             {
               "chord": "",
-              "text": "本 质，"
+              "text": "本 質，"
             }
           ]
         },
@@ -84,15 +84,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "对 神 才"
+              "text": "對 神 纔"
             },
             {
               "chord": "D7",
-              "text": "有 经"
+              "text": "有 經"
             },
             {
               "chord": "G",
-              "text": "历。"
+              "text": "歷。"
             }
           ]
         }
@@ -106,11 +106,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "灵 生"
+              "text": "靈 生"
             },
             {
               "chord": "",
-              "text": "灵，"
+              "text": "靈，"
             }
           ]
         },
@@ -118,11 +118,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "灵 拜"
+              "text": "靈 拜"
             },
             {
               "chord": "Em",
-              "text": "灵，"
+              "text": "靈，"
             }
           ]
         },
@@ -134,11 +134,11 @@
             },
             {
               "chord": "",
-              "text": "灵"
+              "text": "靈"
             },
             {
               "chord": "A7",
-              "text": "充 满"
+              "text": "充 滿"
             },
             {
               "chord": "D",
@@ -150,7 +150,7 @@
           "segments": [
             {
               "chord": "D7",
-              "text": "灵"
+              "text": "靈"
             },
             {
               "chord": "G",
@@ -158,7 +158,7 @@
             },
             {
               "chord": "",
-              "text": "话，"
+              "text": "話，"
             }
           ]
         },
@@ -166,11 +166,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "带 著"
+              "text": "帶 著"
             },
             {
               "chord": "C",
-              "text": "丰 盛"
+              "text": "豐 盛"
             },
             {
               "chord": "",
@@ -737,10 +737,11 @@
     "category": "经历神",
     "time": "4/4",
     "hymn_code": "5333234321222217",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0450_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8450",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8450",
+        "language": "en",
         "category": "h",
         "number": "8450",
         "title": "E8450"
@@ -748,17 +749,17 @@
     ]
   },
   "raw_sections": [
-    "神 之于 人",
+    "神 之於 人",
     "一 切正 常故 事，",
-    "全 都在 于 灵里；",
-    "人须 灵里",
-    "摸 著神 灵本 质，",
-    "对 神 才有 经历。",
-    "灵 生灵，",
-    "灵 拜灵，",
-    "以 至灵充 满我；",
-    "灵且 成话，",
-    "带 著丰 盛生 命，",
+    "全 都在 於 靈裡；",
+    "人須 靈裡",
+    "摸 著神 靈本 質，",
+    "對 神 纔有 經歷。",
+    "靈 生靈，",
+    "靈 拜靈，",
+    "以 至靈充 滿我；",
+    "靈且 成話，",
+    "帶 著豐 盛生 命，",
     "流 出 活水 江河。",
     "神乃是灵，",
     "并且为人造灵，",

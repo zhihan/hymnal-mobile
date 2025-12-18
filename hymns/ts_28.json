@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "来 与"
+              "text": "來 與"
             },
             {
               "chord": "",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "G",
-              "text": "同 欢"
+              "text": "同 歡"
             },
             {
               "chord": "D",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "E7",
-              "text": "经 匮"
+              "text": "經 匱"
             },
             {
               "chord": "A7",
@@ -48,11 +48,11 @@
             },
             {
               "chord": "",
-              "text": "寻 得 爱"
+              "text": "尋 得 愛"
             },
             {
               "chord": "G",
-              "text": "的 宝"
+              "text": "的 寶"
             },
             {
               "chord": "",
@@ -68,11 +68,11 @@
             },
             {
               "chord": "D",
-              "text": "应 丰"
+              "text": "應 豐"
             },
             {
               "chord": "A7",
-              "text": "富 无"
+              "text": "富 無"
             },
             {
               "chord": "D",
@@ -317,10 +317,11 @@
     "category": "赞美的话",
     "time": "3/4",
     "hymn_code": "333413543232",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0028_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/285",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/285",
+        "language": "en",
         "category": "h",
         "number": "285",
         "title": "E285"
@@ -328,10 +329,10 @@
     ]
   },
   "raw_sections": [
-    "来 与我同 欢唱！",
-    "我 心 曾经 匮乏，",
-    "如 今寻 得 爱的 宝藏，",
-    "供应 丰富 无差。",
+    "來 與我同 歡唱！",
+    "我 心 曾經 匱乏，",
+    "如 今尋 得 愛的 寶藏，",
+    "供應 豐富 無差。",
     "来与我同欢唱！",
     "我原病弱无望，",
     "喜遇救主知我景况，",

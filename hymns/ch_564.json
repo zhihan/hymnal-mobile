@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "永 远"
+              "text": "永 遠"
             },
             {
               "chord": "D7",
@@ -16,11 +16,11 @@
             },
             {
               "chord": "G",
-              "text": "灵 里"
+              "text": "靈 裡"
             },
             {
               "chord": "",
-              "text": "祷 告，"
+              "text": "禱 告，"
             }
           ]
         },
@@ -28,15 +28,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "不 凭"
+              "text": "不 憑"
             },
             {
               "chord": "",
-              "text": "肉 体 或 头"
+              "text": "肉 體 或 頭"
             },
             {
               "chord": "A7",
-              "text": "脑！"
+              "text": "腦！"
             }
           ]
         },
@@ -44,11 +44,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "这 个"
+              "text": "這 個"
             },
             {
               "chord": "D7",
-              "text": "秘 诀"
+              "text": "祕 訣"
             },
             {
               "chord": "G",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "",
-              "text": "实 行，"
+              "text": "實 行，"
             }
           ]
         },
@@ -94,15 +94,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "永 远 要 在"
+              "text": "永 遠 要 在"
             },
             {
               "chord": "A",
-              "text": "灵 里"
+              "text": "靈 裡"
             },
             {
               "chord": "A7",
-              "text": "祷 告，"
+              "text": "禱 告，"
             }
           ]
         },
@@ -110,11 +110,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "这 个"
+              "text": "這 個"
             },
             {
               "chord": "",
-              "text": "秘 诀"
+              "text": "祕 訣"
             },
             {
               "chord": "G",
@@ -130,19 +130,19 @@
           "segments": [
             {
               "chord": "D",
-              "text": "在 灵"
+              "text": "在 靈"
             },
             {
               "chord": "D7",
-              "text": "里 面"
+              "text": "裡 面"
             },
             {
               "chord": "G",
-              "text": "与 神"
+              "text": "與 神"
             },
             {
               "chord": "",
-              "text": "接 触，"
+              "text": "接 觸，"
             }
           ]
         },
@@ -150,11 +150,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "这 个"
+              "text": "這 個"
             },
             {
               "chord": "",
-              "text": "秘 诀"
+              "text": "祕 訣"
             },
             {
               "chord": "A",
@@ -553,10 +553,11 @@
     "category": "祷告",
     "time": "3/4",
     "hymn_code": "333211121655113212",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0564_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/780",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/780",
+        "language": "en",
         "category": "h",
         "number": "780",
         "title": "E780"
@@ -564,14 +565,14 @@
     ]
   },
   "raw_sections": [
-    "永 远要 在灵 里祷 告，",
-    "不 凭肉 体 或 头脑！",
-    "这 个秘 诀若 肯实 行，",
+    "永 遠要 在靈 裡禱 告，",
+    "不 憑肉 體 或 頭腦！",
+    "這 個祕 訣若 肯實 行，",
     "神 的同 在必得到。",
-    "永 远 要 在灵 里祷 告，",
-    "这 个秘 诀主 所示；",
-    "在 灵里 面与 神接 触，",
-    "这 个秘 诀要保持。",
+    "永 遠 要 在靈 裡禱 告，",
+    "這 個祕 訣主 所示；",
+    "在 靈裡 面與 神接 觸，",
+    "這 個祕 訣要保持。",
     "永远要在灵里祷告，",
     "绝不凭着人思想；",
     "与神这灵交通来往，",

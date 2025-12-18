@@ -16,7 +16,7 @@
             },
             {
               "chord": "D",
-              "text": "稣，"
+              "text": "穌，"
             },
             {
               "chord": "A",
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "来"
+              "text": "來"
             },
             {
               "chord": "B",
@@ -44,11 +44,11 @@
             },
             {
               "chord": "A",
-              "text": "远"
+              "text": "遠"
             },
             {
               "chord": "D",
-              "text": "的 赞"
+              "text": "的 讚"
             },
             {
               "chord": "A",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "A",
-              "text": "爱 心、"
+              "text": "愛 心、"
             },
             {
               "chord": "D",
@@ -88,7 +88,7 @@
           "segments": [
             {
               "chord": "Bm",
-              "text": "远"
+              "text": "遠"
             },
             {
               "chord": "A",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "G",
-              "text": "们"
+              "text": "們"
             },
             {
               "chord": "D",
@@ -277,10 +277,11 @@
     "category": "赞美主",
     "time": "2/4",
     "hymn_code": "133217122123423212",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0149_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/182",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/182",
+        "language": "en",
         "category": "h",
         "number": "182",
         "title": "E182"
@@ -288,10 +289,10 @@
     ]
   },
   "raw_sections": [
-    "我 主耶稣，惟 你是 配，",
-    "来得永远的 赞美，",
-    "因 你爱 心、恩典、慈良，",
-    "远超我们所能想。",
+    "我 主耶穌，惟 你是 配，",
+    "來得永遠的 讚美，",
+    "因 你愛 心、恩典、慈良，",
+    "遠超我們所能想。",
     "我们满心感激不尽，",
     "前来称颂你尊名；",
     "一生一世满被恩惠，",

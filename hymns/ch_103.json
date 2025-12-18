@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "代 替 未 见 归"
+              "text": "代 替 未 見 歸"
             },
             {
               "chord": "D",
@@ -28,11 +28,11 @@
             },
             {
               "chord": "D7",
-              "text": "心 无"
+              "text": "心 無"
             },
             {
               "chord": "G",
-              "text": "虑；"
+              "text": "慮；"
             }
           ]
         },
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "会 否 我 罪 将 祂 连"
+              "text": "會 否 我 罪 將 祂 連"
             },
             {
               "chord": "C",
@@ -229,10 +229,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "532156517",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0103_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8103",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8103",
+        "language": "en",
         "category": "h",
         "number": "8103",
         "title": "E8103"
@@ -240,9 +241,9 @@
     ]
   },
   "raw_sections": [
-    "我 的代 替 未 见 归回，",
-    "我 怎 能 彀 放心 无虑；",
-    "会 否 我 罪 将 祂 连累，",
+    "我 的代 替 未 見 歸回，",
+    "我 怎 能 彀 放心 無慮；",
+    "會 否 我 罪 將 祂 連累，",
     "未 能 救我， 祂倒 被拘？",
     "能否是因我的罪孽，",
     "太大、过多、无法赦免？",

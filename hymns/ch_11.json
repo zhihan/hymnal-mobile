@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "你 如 青 翠 松 树，"
+              "text": "你 如 青 翠 松 樹，"
             }
           ]
         },
@@ -24,7 +24,7 @@
             },
             {
               "chord": "G",
-              "text": "远 常"
+              "text": "遠 常"
             },
             {
               "chord": "G7",
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 是 永 活 长 存 的 主，"
+              "text": "你 是 永 活 長 存 的 主，"
             }
           ]
         },
@@ -56,11 +56,11 @@
             },
             {
               "chord": "D7",
-              "text": "远 不"
+              "text": "遠 不"
             },
             {
               "chord": "G7",
-              "text": "败！"
+              "text": "敗！"
             }
           ]
         }
@@ -102,15 +102,15 @@
             },
             {
               "chord": "F",
-              "text": "远 不"
+              "text": "遠 不"
             },
             {
               "chord": "C",
-              "text": "知 陈"
+              "text": "知 陳"
             },
             {
               "chord": "G7",
-              "text": "旧！"
+              "text": "舊！"
             }
           ]
         },
@@ -122,15 +122,15 @@
             },
             {
               "chord": "C",
-              "text": "万 亿"
+              "text": "萬 億"
             },
             {
               "chord": "G",
-              "text": "载 仍"
+              "text": "載 仍"
             },
             {
               "chord": "C",
-              "text": "是 鲜"
+              "text": "是 鮮"
             },
             {
               "chord": "F",
@@ -142,7 +142,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "尽"
+              "text": "儘"
             },
             {
               "chord": "G",
@@ -541,10 +541,11 @@
     "category": "敬拜父",
     "time": "6/8",
     "hymn_code": "5555554565323543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0011_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/16",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/16",
+        "language": "en",
         "category": "h",
         "number": "16",
         "title": "E16"
@@ -552,14 +553,14 @@
     ]
   },
   "raw_sections": [
-    "父 神，你 如 青 翠 松 树，",
-    "永远 常新 不衰！",
-    "你 是 永 活 长 存 的 主，",
-    "直到 永远 不败！",
+    "父 神，你 如 青 翠 松 樹，",
+    "永遠 常新 不衰！",
+    "你 是 永 活 長 存 的 主，",
+    "直到 永遠 不敗！",
     "哦父， 你是 常 新的神，",
-    "永远 不知 陈旧！",
-    "千万 亿载 仍是 鲜新！",
-    "尽管 年日 悠久。",
+    "永遠 不知 陳舊！",
+    "千萬 億載 仍是 鮮新！",
+    "儘管 年日 悠久。",
     "父，你是神也就是‘新，’",
     "无你就是陈旧；",
     "有你，虽然代远年湮，",

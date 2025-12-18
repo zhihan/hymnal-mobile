@@ -465,10 +465,11 @@
     "category": "The Church",
     "time": "9/8",
     "hymn_code": "5651332125",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1267_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/754",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/754",
+        "language": "cn",
         "category": "ts",
         "number": "754",
         "title": "Cs754"

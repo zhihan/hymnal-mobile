@@ -8,19 +8,19 @@
           "segments": [
             {
               "chord": "G",
-              "text": "神 圣"
+              "text": "神 聖"
             },
             {
               "chord": "",
-              "text": "之 爱，"
+              "text": "之 愛，"
             },
             {
               "chord": "D7",
-              "text": "远 超"
+              "text": "遠 超"
             },
             {
               "chord": "G",
-              "text": "众 爱，"
+              "text": "眾 愛，"
             }
           ]
         },
@@ -32,11 +32,11 @@
             },
             {
               "chord": "",
-              "text": "之 乐"
+              "text": "之 樂"
             },
             {
               "chord": "D",
-              "text": "临 地"
+              "text": "臨 地"
             },
             {
               "chord": "G",
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "竟 来 住 我"
+              "text": "竟 來 住 我"
             },
             {
               "chord": "D7",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "G",
-              "text": "胸 怀，"
+              "text": "胸 懷，"
             }
           ]
         },
@@ -76,7 +76,7 @@
             },
             {
               "chord": "G",
-              "text": "赏。"
+              "text": "賞。"
             }
           ]
         },
@@ -96,7 +96,7 @@
             },
             {
               "chord": "B7",
-              "text": "怜 悯，"
+              "text": "憐 憫，"
             }
           ]
         },
@@ -108,15 +108,15 @@
             },
             {
               "chord": "",
-              "text": "纯 洁"
+              "text": "純 潔"
             },
             {
               "chord": "A7",
-              "text": "无 限"
+              "text": "無 限"
             },
             {
               "chord": "D7",
-              "text": "爱；"
+              "text": "愛；"
             }
           ]
         },
@@ -124,15 +124,15 @@
           "segments": [
             {
               "chord": "G",
-              "text": "眷 顾"
+              "text": "眷 顧"
             },
             {
               "chord": "",
-              "text": "我 们，"
+              "text": "我 們，"
             },
             {
               "chord": "D7",
-              "text": "带 来"
+              "text": "帶 來"
             },
             {
               "chord": "G",
@@ -144,7 +144,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "进 入"
+              "text": "進 入"
             },
             {
               "chord": "G",
@@ -156,7 +156,7 @@
             },
             {
               "chord": "G",
-              "text": "怀。"
+              "text": "懷。"
             }
           ]
         }
@@ -379,10 +379,11 @@
     "category": "羡慕",
     "time": "4/4",
     "hymn_code": "55653232176165453",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0274_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/358",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/358",
+        "language": "en",
         "category": "h",
         "number": "358",
         "title": "E358"
@@ -390,14 +391,14 @@
     ]
   },
   "raw_sections": [
-    "神 圣之 爱，远 超众 爱，",
-    "天 上之 乐临 地上，",
-    "竟 来 住 我卑 微胸 怀，",
-    "作 我相 信的 恩赏。",
-    "恩 主，你 是所 有怜 悯，",
-    "你 是纯 洁无 限爱；",
-    "眷 顾我 们，带 来救 恩，",
-    "进 入相 信的 胸怀。",
+    "神 聖之 愛，遠 超眾 愛，",
+    "天 上之 樂臨 地上，",
+    "竟 來 住 我卑 微胸 懷，",
+    "作 我相 信的 恩賞。",
+    "恩 主，你 是所 有憐 憫，",
+    "你 是純 潔無 限愛；",
+    "眷 顧我 們，帶 來救 恩，",
+    "進 入相 信的 胸懷。",
     "哦主，向我吹你圣灵，",
     "吹进烦扰的心里；",
     "使我有分你的丰盛，",

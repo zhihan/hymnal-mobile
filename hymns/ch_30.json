@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "我 们 向"
+              "text": "我 們 向"
             },
             {
               "chord": "D",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "满 心 希"
+              "text": "滿 心 希"
             },
             {
               "chord": "D",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "D",
-              "text": "爱！"
+              "text": "愛！"
             }
           ]
         },
@@ -56,7 +56,7 @@
             },
             {
               "chord": "G",
-              "text": "么， 你"
+              "text": "麼， 你"
             },
             {
               "chord": "",
@@ -68,7 +68,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "轻"
+              "text": "輕"
             },
             {
               "chord": "C",
@@ -80,11 +80,11 @@
             },
             {
               "chord": "D",
-              "text": "也 拣"
+              "text": "也 揀"
             },
             {
               "chord": "G",
-              "text": "选！"
+              "text": "選！"
             }
           ]
         }
@@ -401,10 +401,11 @@
     "category": "敬拜父",
     "time": "3/4",
     "hymn_code": "1176512171",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0030_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/32",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/32",
+        "language": "en",
         "category": "h",
         "number": "32",
         "title": "E32"
@@ -412,10 +413,10 @@
     ]
   },
   "raw_sections": [
-    "父 阿，我 们 向你 下拜，",
-    "满 心 希奇 你的 大爱！",
-    "人算 甚么， 你竟 眷 念？",
-    "轻微 如我 你也 拣选！",
+    "父 阿，我 們 向你 下拜，",
+    "滿 心 希奇 你的 大愛！",
+    "人算 甚麼， 你竟 眷 念？",
+    "輕微 如我 你也 揀選！",
     "我们赞美你的心意，",
     "原是计画要人像你，",
     "有你生命，给你充满，",

@@ -12,7 +12,7 @@
             },
             {
               "chord": "G",
-              "text": "稣 这"
+              "text": "穌 這"
             },
             {
               "chord": "D",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "D",
-              "text": "万"
+              "text": "萬"
             },
             {
               "chord": "Em",
@@ -48,11 +48,11 @@
             },
             {
               "chord": "G",
-              "text": "阴"
+              "text": "陰"
             },
             {
               "chord": "D",
-              "text": "间："
+              "text": "間："
             }
           ]
         },
@@ -68,7 +68,7 @@
             },
             {
               "chord": "",
-              "text": "人 无"
+              "text": "人 無"
             },
             {
               "chord": "C",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "G",
-              "text": "鬼 惧"
+              "text": "鬼 懼"
             },
             {
               "chord": "",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "C",
-              "text": "窜。"
+              "text": "竄。"
             }
           ]
         }
@@ -265,10 +265,11 @@
     "category": "赞美主",
     "time": "3/2",
     "hymn_code": "51122321233432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0069_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/72",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/72",
+        "language": "en",
         "category": "h",
         "number": "72",
         "title": "E72"
@@ -276,10 +277,10 @@
     ]
   },
   "raw_sections": [
-    "耶稣 这名 超乎万名，",
-    "天上、 地上、阴间：",
-    "天使 和人 无不 尊敬，",
-    "魔鬼 惧怕、逃窜。",
+    "耶穌 這名 超乎萬名，",
+    "天上、 地上、陰間：",
+    "天使 和人 無不 尊敬，",
+    "魔鬼 懼怕、逃竄。",
     "耶稣这名可亲、可爱，",
     "赐给罪人之名；",
     "定罪、惧怕，为我赶开，",

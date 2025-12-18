@@ -32,11 +32,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "有 体、 有"
+              "text": "有 體、 有"
             },
             {
               "chord": "Bm",
-              "text": "魂 并"
+              "text": "魂 並"
             },
             {
               "chord": "A7",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "A",
-              "text": "灵，"
+              "text": "靈，"
             }
           ]
         },
@@ -56,7 +56,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "为 著 成"
+              "text": "為 著 成"
             },
             {
               "chord": "Em",
@@ -64,11 +64,11 @@
             },
             {
               "chord": "D",
-              "text": "的 计"
+              "text": "的 計"
             },
             {
               "chord": "A",
-              "text": "画，"
+              "text": "畫，"
             }
           ]
         },
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "并 得"
+              "text": "並 得"
             },
             {
               "chord": "",
@@ -96,7 +96,7 @@
             },
             {
               "chord": "D",
-              "text": "应。"
+              "text": "應。"
             }
           ]
         }
@@ -413,10 +413,11 @@
     "category": "里面生命的各方面",
     "time": "3/4",
     "hymn_code": "1111712321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0537_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/742",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/742",
+        "language": "en",
         "category": "h",
         "number": "742",
         "title": "E742"
@@ -425,9 +426,9 @@
   },
   "raw_sections": [
     "受 造之人 是三 部分，",
-    "有 体、 有魂 并且有灵，",
-    "为 著 成全 神的 计划，",
-    "并 得享受 神作供应。",
+    "有 體、 有魂 並且有靈，",
+    "為 著 成全 神的 計畫，",
+    "並 得享受 神作供應。",
     "身体乃是外面部分，",
     "借此人有物觉功能；",
     "使人接触物质世界，",

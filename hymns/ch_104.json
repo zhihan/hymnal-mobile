@@ -16,7 +16,7 @@
             },
             {
               "chord": "A",
-              "text": "的 领"
+              "text": "的 領"
             },
             {
               "chord": "",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "A",
-              "text": "将 你"
+              "text": "將 你"
             },
             {
               "chord": "",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "",
-              "text": "权"
+              "text": "權"
             },
             {
               "chord": "D",
@@ -108,7 +108,7 @@
             },
             {
               "chord": "",
-              "text": "毁，"
+              "text": "毀，"
             }
           ]
         },
@@ -136,11 +136,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "将"
+              "text": "將"
             },
             {
               "chord": "A7",
-              "text": "人 监"
+              "text": "人 監"
             },
             {
               "chord": "D",
@@ -367,10 +367,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "1111725565",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0104_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/122",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/122",
+        "language": "en",
         "category": "h",
         "number": "122",
         "title": "E122"
@@ -378,14 +379,14 @@
     ]
   },
   "raw_sections": [
-    "哦 主，死的 领土",
+    "哦 主，死的 領土",
     "你 曾去走；",
-    "非 因 罪将 你毒，",
+    "非 因 罪將 你毒，",
     "死 有要求。",
-    "掌 死权的 魔鬼，",
-    "你 已完全 摧毁，",
+    "掌 死權的 魔鬼，",
+    "你 已完全 摧毀，",
     "使他 不再 作祟，",
-    "将人 监囚。",
+    "將人 監囚。",
     "你已冲破坟墓，",
     "从死复活；",
     "死难将你拘束，",

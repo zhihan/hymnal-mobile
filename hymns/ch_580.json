@@ -12,11 +12,11 @@
             },
             {
               "chord": "A",
-              "text": "已 经"
+              "text": "已 經"
             },
             {
               "chord": "Bm",
-              "text": "说 话，"
+              "text": "說 話，"
             }
           ]
         },
@@ -32,11 +32,11 @@
             },
             {
               "chord": "A",
-              "text": "启"
+              "text": "啟"
             },
             {
               "chord": "D",
-              "text": "晓；"
+              "text": "曉；"
             }
           ]
         },
@@ -60,7 +60,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "全 给"
+              "text": "全 給"
             },
             {
               "chord": "A",
@@ -84,11 +84,11 @@
             },
             {
               "chord": "G",
-              "text": "亚 当"
+              "text": "亞 當"
             },
             {
               "chord": "D",
-              "text": "子 孙，"
+              "text": "子 孫，"
             }
           ]
         },
@@ -96,7 +96,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "启 示"
+              "text": "啟 示"
             },
             {
               "chord": "B",
@@ -132,19 +132,19 @@
           "segments": [
             {
               "chord": "G",
-              "text": "描 绘"
+              "text": "描 繪"
             },
             {
               "chord": "D",
-              "text": "几"
+              "text": "幾"
             },
             {
               "chord": "A7",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "D",
-              "text": "遗。"
+              "text": "遺。"
             }
           ]
         }
@@ -507,10 +507,11 @@
     "category": "读经",
     "time": "6/4",
     "hymn_code": "33235323123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0580_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/800",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/800",
+        "language": "en",
         "category": "h",
         "number": "800",
         "title": "E800"
@@ -518,14 +519,14 @@
     ]
   },
   "raw_sections": [
-    "主 神已 经说 话，",
-    "自 己已启晓；",
+    "主 神已 經說 話，",
+    "自 己已啟曉；",
     "祂 的性 格、身 位，",
-    "全 给人知道；",
-    "向 著亚 当子 孙，",
-    "启 示祂心意，",
+    "全 給人知道；",
+    "向 著亞 當子 孫，",
+    "啟 示祂心意，",
     "明 言、豫 表、豫 言，",
-    "描 绘几无遗。",
+    "描 繪幾無遺。",
     "主神已经说话，",
     "表明所欲为：",
     "要叫祂的儿子，",

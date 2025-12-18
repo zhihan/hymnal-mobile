@@ -16,7 +16,7 @@
             },
             {
               "chord": "G",
-              "text": "时 候，"
+              "text": "時 候，"
             }
           ]
         },
@@ -28,7 +28,7 @@
             },
             {
               "chord": "A7",
-              "text": "一 园"
+              "text": "一 園"
             },
             {
               "chord": "D",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "G",
-              "text": "末 后，"
+              "text": "末 後，"
             }
           ]
         },
@@ -52,7 +52,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "却 是 一 城"
+              "text": "卻 是 一 城"
             },
             {
               "chord": "A",
@@ -64,11 +64,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "在 园"
+              "text": "在 園"
             },
             {
               "chord": "",
-              "text": "子 那 里，"
+              "text": "子 那 裏，"
             }
           ]
         },
@@ -80,7 +80,7 @@
             },
             {
               "chord": "E7",
-              "text": "神 创"
+              "text": "神 創"
             },
             {
               "chord": "A",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "G",
-              "text": "这 里，"
+              "text": "這 裏，"
             }
           ]
         },
@@ -755,10 +755,11 @@
     "category": "终极的显出",
     "time": "4/4",
     "hymn_code": "1234321171",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0774_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/975",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/975",
+        "language": "en",
         "category": "h",
         "number": "975",
         "title": "E975"
@@ -766,13 +767,13 @@
     ]
   },
   "raw_sections": [
-    "在 起初时 候，",
-    "原 是一 园子，",
-    "但 到 了末 后，",
-    "却 是 一 城池；",
-    "在 园子 那 里，",
-    "乃 是神 创造，",
-    "在 城池这 里，",
+    "在 起初時 候，",
+    "原 是一 園子，",
+    "但 到 了末 後，",
+    "卻 是 一 城池；",
+    "在 園子 那 裏，",
+    "乃 是神 創造，",
+    "在 城池這 裏，",
     "成 了神建造。",
     "无论在园里，",
     "或是在城中，",

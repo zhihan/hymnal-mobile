@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/8661",
+  "url": "https://www.hymnal.net/en/hymn/h/8661",
   "title": "Work, for the night is coming",
   "verses": [
     {
@@ -280,7 +280,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "When man's work is o'er."
+              "text": "When man’s work is o’er."
             }
           ]
         }
@@ -293,6 +293,7 @@
     "category": "Service",
     "time": "4/4",
     "hymn_code": "5345565111123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e8661_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ch/661",
@@ -327,6 +328,6 @@
     "Work till the last beam fadeth,",
     "Fadeth to shine no more;",
     "Work, while the night is darkening,",
-    "When man's work is o'er."
+    "When man’s work is o’er."
   ]
 }

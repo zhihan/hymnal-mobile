@@ -337,10 +337,11 @@
     "category": "Service",
     "time": "4/4",
     "hymn_code": "533343212356712765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0903_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/851",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/851",
+        "language": "cn",
         "category": "ts",
         "number": "851",
         "title": "Cs851"

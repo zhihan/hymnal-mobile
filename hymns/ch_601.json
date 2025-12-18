@@ -24,7 +24,7 @@
             },
             {
               "chord": "A",
-              "text": "救 赎"
+              "text": "救 贖"
             },
             {
               "chord": "A7",
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "E7",
-              "text": "圣 徒"
+              "text": "聖 徒"
             },
             {
               "chord": "",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "G",
-              "text": "内，"
+              "text": "內，"
             }
           ]
         },
@@ -409,10 +409,11 @@
     "category": "召会",
     "time": "4/4",
     "hymn_code": "33234332123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0601_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/832",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/832",
+        "language": "en",
         "category": "h",
         "number": "832",
         "title": "E832"
@@ -421,11 +422,11 @@
   },
   "raw_sections": [
     "神 子基 督 和",
-    "祂救 赎的 工作，",
+    "祂救 贖的 工作，",
     "是 我 得 救 信 仰，",
-    "圣 徒同 守著；",
+    "聖 徒同 守著；",
     "其 他一 切道 理，",
-    "不 在 信 仰内，",
+    "不 在 信 仰內，",
     "惟 有 基 督工 作，",
     "和 祂的身位。",
     "此外一切教训，",

@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "我 爱 你"
+              "text": "我 愛 你"
             },
             {
               "chord": "A",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "A",
-              "text": "会！"
+              "text": "會！"
             }
           ]
         },
@@ -64,7 +64,7 @@
             },
             {
               "chord": "D",
-              "text": "乐，"
+              "text": "樂，"
             }
           ]
         },
@@ -88,7 +88,7 @@
             },
             {
               "chord": "D",
-              "text": "归。"
+              "text": "歸。"
             }
           ]
         }
@@ -291,10 +291,11 @@
     "category": "召会",
     "time": "3/4",
     "hymn_code": "5342542171",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0616_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/852",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/852",
+        "language": "en",
         "category": "h",
         "number": "852",
         "title": "E852"
@@ -302,10 +303,10 @@
     ]
   },
   "raw_sections": [
-    "主 阿，我 爱 你的 居所，",
-    "就是 你的 召会！",
-    "她是 你心 所喜 所乐，",
-    "也是 我心所归。",
+    "主 阿，我 愛 你的 居所，",
+    "就是 你的 召會！",
+    "她是 你心 所喜 所樂，",
+    "也是 我心所歸。",
     "你曾为她舍了自己，",
     "为要叫她归你；",
     "我也为她献上身体，",

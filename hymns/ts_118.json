@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "神， 在 你 里，"
+              "text": "神， 在 你 裡，"
             }
           ]
         },
@@ -24,7 +24,7 @@
             },
             {
               "chord": "C",
-              "text": "远 的"
+              "text": "遠 的"
             },
             {
               "chord": "",
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "这 生"
+              "text": "這 生"
             },
             {
               "chord": "G",
@@ -52,11 +52,11 @@
             },
             {
               "chord": "Em",
-              "text": "里 得"
+              "text": "裡 得"
             },
             {
               "chord": "",
-              "text": "显"
+              "text": "顯"
             },
             {
               "chord": "Am",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "G",
-              "text": "主 复"
+              "text": "主 復"
             },
             {
               "chord": "",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "G7",
-              "text": "里"
+              "text": "裡"
             }
           ]
         },
@@ -92,7 +92,7 @@
             },
             {
               "chord": "C",
-              "text": "为 生"
+              "text": "為 生"
             },
             {
               "chord": "",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "A",
-              "text": "灵，"
+              "text": "靈，"
             }
           ]
         },
@@ -112,11 +112,11 @@
             },
             {
               "chord": "G",
-              "text": "里"
+              "text": "裡"
             },
             {
               "chord": "Em",
-              "text": "点 活"
+              "text": "點 活"
             },
             {
               "chord": "Am7",
@@ -124,7 +124,7 @@
             },
             {
               "chord": "D7",
-              "text": "赐 生"
+              "text": "賜 生"
             },
             {
               "chord": "G",
@@ -249,10 +249,11 @@
     "category": "灵与生命",
     "time": "3/4",
     "hymn_code": "3455513321161",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0118_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/ns/354",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/ns/354",
+        "language": "en",
         "category": "ns",
         "number": "354",
         "title": "NS354"
@@ -260,12 +261,12 @@
     ]
   },
   "raw_sections": [
-    "哦 我神， 在 你 里，",
-    "有 永远 的生命，",
-    "这 生命 在子里 得显明。",
-    "如 今主 复活里",
-    "已 成为 生命灵，",
-    "在 我里点 活我，赐 生命。",
+    "哦 我神， 在 你 裡，",
+    "有 永遠 的生命，",
+    "這 生命 在子裡 得顯明。",
+    "如 今主 復活裡",
+    "已 成為 生命靈，",
+    "在 我裡點 活我，賜 生命。",
     "哦看哪！",
     "从神和羔羊的宝座间，",
     "已流出这一道生命河；",

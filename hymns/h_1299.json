@@ -445,10 +445,11 @@
     "category": "The Kingdom",
     "time": "4/4",
     "hymn_code": "55653232176165453",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1299_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/919",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/919",
+        "language": "cn",
         "category": "ts",
         "number": "919",
         "title": "Cs919"

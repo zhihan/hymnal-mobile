@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "若 尽"
+              "text": "若 盡"
             },
             {
               "chord": "",
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "岂 值"
+              "text": "豈 值"
             },
             {
               "chord": "A7",
@@ -52,7 +52,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "在 这 些 就 要 过 去 之"
+              "text": "在 這 些 就 要 過 去 之"
             },
             {
               "chord": "A",
@@ -68,11 +68,11 @@
             },
             {
               "chord": "A7",
-              "text": "与 安"
+              "text": "與 安"
             },
             {
               "chord": "",
-              "text": "慰 岂 能 寻"
+              "text": "慰 豈 能 尋"
             },
             {
               "chord": "D",
@@ -84,7 +84,7 @@
           "segments": [
             {
               "chord": "D7",
-              "text": "若 尽"
+              "text": "若 盡"
             },
             {
               "chord": "A",
@@ -144,7 +144,7 @@
             },
             {
               "chord": "",
-              "text": "的 快 乐，"
+              "text": "的 快 樂，"
             }
           ]
         },
@@ -172,7 +172,7 @@
             },
             {
               "chord": "A",
-              "text": "充 满"
+              "text": "充 滿"
             },
             {
               "chord": "",
@@ -495,10 +495,11 @@
     "category": "福音",
     "time": "3/4",
     "hymn_code": "5565351217",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0700_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1079",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1079",
+        "language": "en",
         "category": "h",
         "number": "1079",
         "title": "E1079"
@@ -506,17 +507,17 @@
     ]
   },
   "raw_sections": [
-    "若 尽得 世 界，",
+    "若 盡得 世 界，",
     "而 失 去救 主，",
-    "岂 值得 一日 在 此 活著？",
-    "在 这 些 就 要 过 去 之物 中，",
-    "安 息与 安慰 岂 能 寻得？",
-    "若 尽得 世界，",
+    "豈 值得 一日 在 此 活著？",
+    "在 這 些 就 要 過 去 之物 中，",
+    "安 息與 安慰 豈 能 尋得？",
+    "若 盡得 世界，",
     "而 失 去救 主，",
     "所 得的 一切 彀用 一生？",
-    "地 上所 有的 快 乐，",
+    "地 上所 有的 快 樂，",
     "也不 能比",
-    "那充 满了 主的 生命！",
+    "那充 滿了 主的 生命！",
     "纵令你满得财富和爱情，",
     "无论远或近也都知名，",
     "前面仍无望，",

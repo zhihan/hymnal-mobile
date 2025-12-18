@@ -20,7 +20,7 @@
             },
             {
               "chord": "G",
-              "text": "国 度，"
+              "text": "國 度，"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "对"
+              "text": "對"
             },
             {
               "chord": "C",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "G",
-              "text": "练，"
+              "text": "練，"
             }
           ]
         },
@@ -48,19 +48,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "将 来"
+              "text": "將 來"
             },
             {
               "chord": "D",
-              "text": "却 是"
+              "text": "卻 是"
             },
             {
               "chord": "",
-              "text": "奖"
+              "text": "獎"
             },
             {
               "chord": "G",
-              "text": "赏，"
+              "text": "賞，"
             }
           ]
         },
@@ -68,7 +68,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "与 主"
+              "text": "與 主"
             },
             {
               "chord": "A7",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "D7",
-              "text": "权。"
+              "text": "權。"
             }
           ]
         },
@@ -88,7 +88,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "这 是"
+              "text": "這 是"
             },
             {
               "chord": "G",
@@ -108,19 +108,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "现 今"
+              "text": "現 今"
             },
             {
               "chord": "A7",
-              "text": "将 我"
+              "text": "將 我"
             },
             {
               "chord": "",
-              "text": "训"
+              "text": "訓"
             },
             {
               "chord": "D",
-              "text": "练，"
+              "text": "練，"
             }
           ]
         },
@@ -132,7 +132,7 @@
             },
             {
               "chord": "G7",
-              "text": "计 画"
+              "text": "計 畫"
             },
             {
               "chord": "",
@@ -148,11 +148,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "将 祂"
+              "text": "將 祂"
             },
             {
               "chord": "D",
-              "text": "公 义"
+              "text": "公 義"
             },
             {
               "chord": "D7",
@@ -160,7 +160,7 @@
             },
             {
               "chord": "G",
-              "text": "显。"
+              "text": "顯。"
             }
           ]
         }
@@ -593,10 +593,11 @@
     "category": "国度",
     "time": "3/4",
     "hymn_code": "34556711712165",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0751_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/947",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/947",
+        "language": "en",
         "category": "h",
         "number": "947",
         "title": "E947"
@@ -604,14 +605,14 @@
     ]
   },
   "raw_sections": [
-    "今 天神的国 度，",
-    "对我 是操练，",
-    "将 来却 是奖赏，",
-    "与 主一 同掌权。",
-    "这 是神 的智慧，",
-    "现 今将 我训练，",
-    "使 祂计 画完成，",
-    "将 祂公 义彰显。",
+    "今 天神的國 度，",
+    "對我 是操練，",
+    "將 來卻 是獎賞，",
+    "與 主一 同掌權。",
+    "這 是神 的智慧，",
+    "現 今將 我訓練，",
+    "使 祂計 畫完成，",
+    "將 祂公 義彰顯。",
     "我们为神所生，",
     "好为祂作王，",
     "但是还需训练，",

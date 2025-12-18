@@ -16,11 +16,11 @@
             },
             {
               "chord": "D",
-              "text": "极 救"
+              "text": "極 救"
             },
             {
               "chord": "G",
-              "text": "主 额"
+              "text": "主 額"
             },
             {
               "chord": "",
@@ -28,7 +28,7 @@
             },
             {
               "chord": "C",
-              "text": "圣、"
+              "text": "聖、"
             }
           ]
         },
@@ -36,15 +36,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "尊 贵、 庄"
+              "text": "尊 貴、 莊"
             },
             {
               "chord": "G",
-              "text": "严； 祂"
+              "text": "嚴； 祂"
             },
             {
               "chord": "",
-              "text": "头"
+              "text": "頭"
             }
           ]
         },
@@ -56,7 +56,7 @@
             },
             {
               "chord": "D",
-              "text": "戴 荣"
+              "text": "戴 榮"
             },
             {
               "chord": "G",
@@ -265,10 +265,11 @@
     "category": "赞美主",
     "time": "6/8",
     "hymn_code": "51122321566165",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0139_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/177",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/177",
+        "language": "en",
         "category": "h",
         "number": "177",
         "title": "E177"
@@ -276,9 +277,9 @@
     ]
   },
   "raw_sections": [
-    "『甜 美』登极 救主 额上， 神圣、",
-    "尊 贵、 庄严； 祂头",
-    "披戴 荣耀 之光， 祂 口",
+    "『甜 美』登極 救主 額上， 神聖、",
+    "尊 貴、 莊嚴； 祂頭",
+    "披戴 榮耀 之光， 祂 口",
     "溢出 恩典。 祂口",
     "溢出 恩典。",
     "地上所有必死之人，",

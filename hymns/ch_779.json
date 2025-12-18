@@ -12,15 +12,15 @@
             },
             {
               "chord": "",
-              "text": "督 里"
+              "text": "督 裏"
             },
             {
               "chord": "D",
-              "text": "归 一"
+              "text": "歸 一"
             },
             {
               "chord": "G",
-              "text": "万 有，"
+              "text": "萬 有，"
             }
           ]
         },
@@ -32,11 +32,11 @@
             },
             {
               "chord": "",
-              "text": "我 神 的 经"
+              "text": "我 神 的 經"
             },
             {
               "chord": "G",
-              "text": "营；"
+              "text": "營；"
             }
           ]
         },
@@ -44,11 +44,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "基 督 作 头"
+              "text": "基 督 作 頭"
             },
             {
               "chord": "E",
-              "text": "并 作"
+              "text": "並 作"
             },
             {
               "chord": "Am",
@@ -60,11 +60,11 @@
           "segments": [
             {
               "chord": "A",
-              "text": "万 有"
+              "text": "萬 有"
             },
             {
               "chord": "D",
-              "text": "和 谐"
+              "text": "和 諧"
             },
             {
               "chord": "D7",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "G",
-              "text": "宁。"
+              "text": "寧。"
             }
           ]
         }
@@ -389,10 +389,11 @@
     "category": "终极的显出",
     "time": "4/4",
     "hymn_code": "553172211776165",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0779_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/981",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/981",
+        "language": "en",
         "category": "h",
         "number": "981",
         "title": "E981"
@@ -400,10 +401,10 @@
     ]
   },
   "raw_sections": [
-    "在 基督 里归 一万 有，",
-    "乃 是我 神 的 经营；",
-    "基 督 作 头并 作中 心，",
-    "万 有和 谐而 安宁。",
+    "在 基督 裏歸 一萬 有，",
+    "乃 是我 神 的 經營；",
+    "基 督 作 頭並 作中 心，",
+    "萬 有和 諧而 安寧。",
     "基督元首要作中心，",
     "神在其中作亮光；",
     "基督和神同坐宝座，",

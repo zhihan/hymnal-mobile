@@ -24,7 +24,7 @@
             },
             {
               "chord": "D",
-              "text": "气，"
+              "text": "氣，"
             }
           ]
         },
@@ -36,7 +36,7 @@
             },
             {
               "chord": "D7",
-              "text": "灵 复"
+              "text": "靈 復"
             },
             {
               "chord": "G",
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "脱 离 忧"
+              "text": "脫 離 憂"
             },
             {
               "chord": "C",
@@ -56,11 +56,11 @@
             },
             {
               "chord": "G",
-              "text": "胜"
+              "text": "勝"
             },
             {
               "chord": "C",
-              "text": "过"
+              "text": "過"
             },
             {
               "chord": "E",
@@ -76,15 +76,15 @@
           "segments": [
             {
               "chord": "C",
-              "text": "进"
+              "text": "進"
             },
             {
               "chord": "D",
-              "text": "入 复"
+              "text": "入 復"
             },
             {
               "chord": "D7",
-              "text": "兴 境"
+              "text": "興 境"
             },
             {
               "chord": "G",
@@ -253,10 +253,11 @@
     "category": "召会",
     "time": "3/4",
     "hymn_code": "323432212321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0605_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/842",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/842",
+        "language": "en",
         "category": "h",
         "number": "842",
         "title": "E842"
@@ -264,10 +265,10 @@
     ]
   },
   "raw_sections": [
-    "求 主向我吹气，",
-    "使 我 沉灵 复起！",
-    "脱 离 忧悒，胜过死寂，",
-    "进入 复兴 境地。",
+    "求 主向我吹氣，",
+    "使 我 沉靈 復起！",
+    "脫 離 憂悒，勝過死寂，",
+    "進入 復興 境地。",
     "求主向我吹气，",
     "使我从新得力！",
     "作工不乏，行路不疲，",

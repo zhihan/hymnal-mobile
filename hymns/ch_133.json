@@ -16,7 +16,7 @@
             },
             {
               "chord": "F",
-              "text": "万 人"
+              "text": "萬 人"
             },
             {
               "chord": "C",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "Dm",
-              "text": "爱！"
+              "text": "愛！"
             }
           ]
         },
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "比 诸"
+              "text": "比 諸"
             },
             {
               "chord": "",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "C",
-              "text": "更 强，"
+              "text": "更 強，"
             }
           ]
         },
@@ -72,7 +72,7 @@
             },
             {
               "chord": "C",
-              "text": "爱！"
+              "text": "愛！"
             }
           ]
         },
@@ -88,11 +88,11 @@
             },
             {
               "chord": "G7",
-              "text": "时 常"
+              "text": "時 常"
             },
             {
               "chord": "",
-              "text": "离 我，"
+              "text": "離 我，"
             }
           ]
         },
@@ -120,7 +120,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "但 这"
+              "text": "但 這"
             },
             {
               "chord": "C7",
@@ -128,7 +128,7 @@
             },
             {
               "chord": "F",
-              "text": "从 不"
+              "text": "從 不"
             },
             {
               "chord": "Dm",
@@ -148,7 +148,7 @@
             },
             {
               "chord": "C",
-              "text": "爱！"
+              "text": "愛！"
             }
           ]
         }
@@ -371,10 +371,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "555316536532",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0133_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1011",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1011",
+        "language": "en",
         "category": "h",
         "number": "1011",
         "title": "E1011"
@@ -382,14 +383,14 @@
     ]
   },
   "raw_sections": [
-    "祂 是超 乎万 人之 上，",
-    "哦，祂 的爱！",
-    "比 诸兄 弟更 密、更 强，",
-    "哦，祂 的爱！",
-    "地 上朋 友时 常离 我，",
+    "祂 是超 乎萬 人之 上，",
+    "哦，祂 的愛！",
+    "比 諸兄 弟更 密、更 強，",
+    "哦，祂 的愛！",
+    "地 上朋 友時 常離 我，",
     "今 日慰 我，明 日忌 我，",
-    "但 这朋 友从 不欺 我，",
-    "哦，祂 的爱！",
+    "但 這朋 友從 不欺 我，",
+    "哦，祂 的愛！",
     "我今享受喜乐、安康，",
     "哦，祂的爱！",
     "都亏我主罪债代偿，",

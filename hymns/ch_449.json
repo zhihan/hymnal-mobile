@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "灵 是"
+              "text": "靈 是"
             },
             {
               "chord": "",
-              "text": "神 的 荣"
+              "text": "神 的 榮"
             },
             {
               "chord": "A",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "质，"
+              "text": "質，"
             }
           ]
         },
@@ -32,7 +32,7 @@
             },
             {
               "chord": "E",
-              "text": "圣"
+              "text": "聖"
             },
             {
               "chord": "E7",
@@ -48,15 +48,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "与 神"
+              "text": "與 神"
             },
             {
               "chord": "",
-              "text": "接 触， 享"
+              "text": "接 觸， 享"
             },
             {
               "chord": "B7",
-              "text": "神 丰"
+              "text": "神 豐"
             },
             {
               "chord": "Em",
@@ -68,7 +68,7 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "必 须"
+              "text": "必 須"
             },
             {
               "chord": "",
@@ -76,11 +76,11 @@
             },
             {
               "chord": "D",
-              "text": "灵， 舍"
+              "text": "靈， 捨"
             },
             {
               "chord": "A",
-              "text": "此 无"
+              "text": "此 無"
             },
             {
               "chord": "D",
@@ -363,10 +363,11 @@
     "category": "经历神",
     "time": "3/4",
     "hymn_code": "33333543117123212",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0449_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/611",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/611",
+        "language": "en",
         "category": "h",
         "number": "611",
         "title": "E611"
@@ -374,10 +375,10 @@
     ]
   },
   "raw_sections": [
-    "灵 是神 的 荣耀 本质，",
-    "也 是 神 的 神圣所是；",
-    "与 神接 触， 享神 丰富，",
-    "必 须藉灵， 舍此 无路。",
+    "靈 是神 的 榮耀 本質，",
+    "也 是 神 的 神聖所是；",
+    "與 神接 觸， 享神 豐富，",
+    "必 須藉靈， 捨此 無路。",
     "灵也是人最深部分，",
     "全人里面灵是最真；",
     "要作真人，要摸着神，",

@@ -16,7 +16,7 @@
             },
             {
               "chord": "G",
-              "text": "于 基"
+              "text": "於 基"
             },
             {
               "chord": "D",
@@ -36,15 +36,15 @@
             },
             {
               "chord": "Bm",
-              "text": "命， 无"
+              "text": "命， 無"
             },
             {
               "chord": "E7",
-              "text": "法 单"
+              "text": "法 單"
             },
             {
               "chord": "A",
-              "text": "独；"
+              "text": "獨；"
             }
           ]
         },
@@ -68,7 +68,7 @@
             },
             {
               "chord": "G",
-              "text": "对"
+              "text": "對"
             },
             {
               "chord": "A",
@@ -96,11 +96,11 @@
             },
             {
               "chord": "G",
-              "text": "团"
+              "text": "團"
             },
             {
               "chord": "D",
-              "text": "体"
+              "text": "體"
             },
             {
               "chord": "A7",
@@ -122,7 +122,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "互 相 联 络， 彼"
+              "text": "互 相 聯 絡， 彼"
             },
             {
               "chord": "A7",
@@ -138,11 +138,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "作 主 荣 耀 寄"
+              "text": "作 主 榮 耀 寄"
             },
             {
               "chord": "D",
-              "text": "托；"
+              "text": "託；"
             }
           ]
         },
@@ -154,7 +154,7 @@
             },
             {
               "chord": "D7",
-              "text": "动， 同"
+              "text": "動， 同"
             },
             {
               "chord": "G",
@@ -170,15 +170,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "带"
+              "text": "帶"
             },
             {
               "chord": "D",
-              "text": "进 神"
+              "text": "進 神"
             },
             {
               "chord": "A7",
-              "text": "的 宝"
+              "text": "的 寶"
             },
             {
               "chord": "D",
@@ -569,10 +569,11 @@
     "category": "召会",
     "time": "6/4",
     "hymn_code": "5321712165",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0617_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8617",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8617",
+        "language": "en",
         "category": "h",
         "number": "8617",
         "title": "E8617"
@@ -580,14 +581,14 @@
     ]
   },
   "raw_sections": [
-    "生 命活 物 出于 基督，",
-    "同一 生命， 无法 单独；",
-    "各方 接受 十架对付，",
-    "就能活出团体基督。",
-    "互 相 联 络， 彼此 配搭，",
-    "作 主 荣 耀 寄托；",
-    "共 同 行动， 同一 步伐，",
-    "带进 神的 宝座。",
+    "生 命活 物 出於 基督，",
+    "同一 生命， 無法 單獨；",
+    "各方 接受 十架對付，",
+    "就能活出團體基督。",
+    "互 相 聯 絡， 彼此 配搭，",
+    "作 主 榮 耀 寄託；",
+    "共 同 行動， 同一 步伐，",
+    "帶進 神的 寶座。",
     "生活行动靠神恩力，",
     "不再自恃，不再自倚；",
     "以主夸口，以神为蔽，",

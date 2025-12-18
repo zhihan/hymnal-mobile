@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
@@ -20,7 +20,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "D",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "A7",
-              "text": "亚，"
+              "text": "亞，"
             },
             {
               "chord": "D",
@@ -64,7 +64,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 们 在 流 中，"
+              "text": "我 們 在 流 中，"
             }
           ]
         },
@@ -72,7 +72,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "D",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "A7",
-              "text": "亚，"
+              "text": "亞，"
             },
             {
               "chord": "D",
@@ -116,7 +116,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "哦， 赞 美 主，"
+              "text": "哦， 讚 美 主，"
             }
           ]
         },
@@ -124,7 +124,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "Em",
@@ -148,7 +148,7 @@
             },
             {
               "chord": "",
-              "text": "路 亚，"
+              "text": "路 亞，"
             },
             {
               "chord": "D",
@@ -164,7 +164,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "哦， 赞 美 主，"
+              "text": "哦， 讚 美 主，"
             }
           ]
         },
@@ -172,7 +172,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "D",
@@ -200,7 +200,7 @@
             },
             {
               "chord": "A7",
-              "text": "亚，"
+              "text": "亞，"
             },
             {
               "chord": "G",
@@ -221,10 +221,11 @@
     "category": "教会的异象",
     "time": "3/4",
     "hymn_code": "551112233332347211",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0531_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/6531",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/6531",
+        "language": "en",
         "category": "h",
         "number": "6531",
         "title": "E6531"
@@ -232,17 +233,17 @@
     ]
   },
   "raw_sections": [
-    "我 们在 流 中，",
-    "我 们在 流中！",
-    "哦，阿 利路亚，在 流中！",
-    "我 们 在 流 中，",
-    "我 们在 流中！",
-    "哦，阿 利路亚，在 流中！",
-    "哦， 赞 美 主，",
-    "我 们在 流中！",
-    "哦，阿 利路 亚，在 流中！",
-    "哦， 赞 美 主，",
-    "我 们在 流中！",
-    "哦，阿 利路亚，在 流中。"
+    "我 們在 流 中，",
+    "我 們在 流中！",
+    "哦，阿 利路亞，在 流中！",
+    "我 們 在 流 中，",
+    "我 們在 流中！",
+    "哦，阿 利路亞，在 流中！",
+    "哦， 讚 美 主，",
+    "我 們在 流中！",
+    "哦，阿 利路 亞，在 流中！",
+    "哦， 讚 美 主，",
+    "我 們在 流中！",
+    "哦，阿 利路亞，在 流中。"
   ]
 }

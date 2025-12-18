@@ -8,23 +8,23 @@
           "segments": [
             {
               "chord": "G",
-              "text": "乐，"
+              "text": "樂，"
             },
             {
               "chord": "D",
-              "text": "乐，"
+              "text": "樂，"
             },
             {
               "chord": "G",
-              "text": "乐， 我"
+              "text": "樂， 我"
             },
             {
               "chord": "",
-              "text": "心 充 满"
+              "text": "心 充 滿"
             },
             {
               "chord": "D",
-              "text": "喜 乐；"
+              "text": "喜 樂；"
             }
           ]
         },
@@ -32,11 +32,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "乐， 乐， 乐，"
+              "text": "樂， 樂， 樂，"
             },
             {
               "chord": "D7",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
@@ -56,11 +56,11 @@
             },
             {
               "chord": "",
-              "text": "奇 妙 大 爱"
+              "text": "奇 妙 大 愛"
             },
             {
               "chord": "C",
-              "text": "为 著"
+              "text": "為 著"
             },
             {
               "chord": "",
@@ -72,11 +72,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "说 祂 如 何 受 死"
+              "text": "說 祂 如 何 受 死"
             },
             {
               "chord": "G",
-              "text": "释 放"
+              "text": "釋 放"
             },
             {
               "chord": "",
@@ -96,7 +96,7 @@
             },
             {
               "chord": "",
-              "text": "脱，"
+              "text": "脫，"
             }
           ]
         },
@@ -108,15 +108,15 @@
             },
             {
               "chord": "G",
-              "text": "乐，"
+              "text": "樂，"
             },
             {
               "chord": "D7",
-              "text": "乐，"
+              "text": "樂，"
             },
             {
               "chord": "G",
-              "text": "乐！"
+              "text": "樂！"
             }
           ]
         }
@@ -345,10 +345,11 @@
     "category": "赞美的话",
     "time": "4/4",
     "hymn_code": "321332172432221231",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0017_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/6017",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/6017",
+        "language": "en",
         "category": "h",
         "number": "6017",
         "title": "E6017"
@@ -356,12 +357,12 @@
     ]
   },
   "raw_sections": [
-    "乐，乐，乐， 我心 充 满喜 乐；",
-    "乐， 乐， 乐，耶 稣使 我唱 歌；",
-    "唱 祂奇 妙 大 爱为 著我，",
-    "说 祂 如 何 受 死释 放我，",
-    "使 我 全 人 自 由且 超脱，",
-    "我 心乐，乐，乐！",
+    "樂，樂，樂， 我心 充 滿喜 樂；",
+    "樂， 樂， 樂，耶 穌使 我唱 歌；",
+    "唱 祂奇 妙 大 愛為 著我，",
+    "說 祂 如 何 受 死釋 放我，",
+    "使 我 全 人 自 由且 超脫，",
+    "我 心樂，樂，樂！",
     "主，主，主，在我灵中流通；",
     "主，主，主，在我魂中扩充；",
     "将我里面陈旧全烧尽，",

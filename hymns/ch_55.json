@@ -20,7 +20,7 @@
             },
             {
               "chord": "C",
-              "text": "话，"
+              "text": "話，"
             }
           ]
         },
@@ -32,7 +32,7 @@
             },
             {
               "chord": "D7",
-              "text": "的 儿"
+              "text": "的 兒"
             },
             {
               "chord": "G",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "C",
-              "text": "实 形"
+              "text": "實 形"
             },
             {
               "chord": "F",
@@ -72,11 +72,11 @@
             },
             {
               "chord": "C",
-              "text": "神 荣"
+              "text": "神 榮"
             },
             {
               "chord": "G",
-              "text": "耀 样"
+              "text": "耀 樣"
             },
             {
               "chord": "C",
@@ -321,10 +321,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "54351527543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0055_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/56",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/56",
+        "language": "en",
         "category": "h",
         "number": "56",
         "title": "E56"
@@ -332,10 +333,10 @@
     ]
   },
   "raw_sections": [
-    "哦 主，你 是 神的 活话，",
-    "又 是 神的 儿子；",
-    "你是 神的 真实 形像，",
-    "有神 荣耀 样式。",
+    "哦 主，你 是 神的 活話，",
+    "又 是 神的 兒子；",
+    "你是 神的 真實 形像，",
+    "有神 榮耀 樣式。",
     "神的本性一切丰满，",
     "全都住你里面；",
     "你是神的具体化身，",

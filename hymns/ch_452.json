@@ -12,19 +12,19 @@
             },
             {
               "chord": "",
-              "text": "圣"
+              "text": "聖"
             },
             {
               "chord": "Bm",
-              "text": "灵 是"
+              "text": "靈 是"
             },
             {
               "chord": "A",
-              "text": "神 传"
+              "text": "神 傳"
             },
             {
               "chord": "D",
-              "text": "达，"
+              "text": "達，"
             }
           ]
         },
@@ -36,7 +36,7 @@
             },
             {
               "chord": "Bm",
-              "text": "得 进"
+              "text": "得 進"
             },
             {
               "chord": "A7",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "A",
-              "text": "里；"
+              "text": "裡；"
             }
           ]
         },
@@ -64,7 +64,7 @@
             },
             {
               "chord": "D",
-              "text": "督 里"
+              "text": "督 裡"
             },
             {
               "chord": "A",
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "给 我"
+              "text": "給 我"
             },
             {
               "chord": "",
@@ -92,11 +92,11 @@
             },
             {
               "chord": "A7",
-              "text": "经"
+              "text": "經"
             },
             {
               "chord": "D",
-              "text": "历。"
+              "text": "歷。"
             }
           ]
         }
@@ -307,10 +307,11 @@
     "category": "经历神",
     "time": "3/4",
     "hymn_code": "1111712321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0452_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/610",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/610",
+        "language": "en",
         "category": "h",
         "number": "610",
         "title": "E610"
@@ -318,10 +319,10 @@
     ]
   },
   "raw_sections": [
-    "神 的圣灵 是神 传达，",
-    "藉 祂， 神得 进入我里；",
-    "藉 祂， 神在 基督 里面，",
-    "给 我得著， 作我经历。",
+    "神 的聖靈 是神 傳達，",
+    "藉 祂， 神得 進入我裡；",
+    "藉 祂， 神在 基督 裡面，",
+    "給 我得著， 作我經歷。",
     "神之为父是作源头，",
     "神之为子是为表现，",
     "神之为灵是为进入，",

@@ -8,23 +8,23 @@
           "segments": [
             {
               "chord": "D",
-              "text": "当 人"
+              "text": "當 人"
             },
             {
               "chord": "",
-              "text": "弃"
+              "text": "棄"
             },
             {
               "chord": "D7",
-              "text": "绝 地"
+              "text": "絕 地"
             },
             {
               "chord": "G",
-              "text": "的 贿"
+              "text": "的 賄"
             },
             {
               "chord": "",
-              "text": "赂，"
+              "text": "賂，"
             }
           ]
         },
@@ -36,7 +36,7 @@
             },
             {
               "chord": "D",
-              "text": "来 为"
+              "text": "來 為"
             },
             {
               "chord": "",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "D7",
-              "text": "的 无"
+              "text": "的 無"
             },
             {
               "chord": "G",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "D",
-              "text": "舌 难"
+              "text": "舌 難"
             },
             {
               "chord": "A7",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "D",
-              "text": "说。"
+              "text": "說。"
             }
           ]
         },
@@ -100,7 +100,7 @@
             },
             {
               "chord": "A",
-              "text": "为 万"
+              "text": "為 萬"
             },
             {
               "chord": "",
@@ -176,7 +176,7 @@
             },
             {
               "chord": "D",
-              "text": "处。"
+              "text": "處。"
             }
           ]
         }
@@ -329,10 +329,11 @@
     "category": "奉献",
     "time": "6/8",
     "hymn_code": "5533212666511232",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0355_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/473",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/473",
+        "language": "en",
         "category": "h",
         "number": "473",
         "title": "E473"
@@ -340,14 +341,14 @@
     ]
   },
   "raw_sections": [
-    "当 人弃绝 地的 贿赂，",
-    "前来 为神 而活，",
-    "他所 得的 无限 富有，",
-    "口舌 难以 述说。",
-    "因为 万有 全是 他的，",
+    "當 人棄絕 地的 賄賂，",
+    "前來 為神 而活，",
+    "他所 得的 無限 富有，",
+    "口舌 難以 述說。",
+    "因為 萬有 全是 他的，",
     "生、死、 或是 事、物；",
     "基督 是他 生命、 呼吸，",
-    "也是 他的 住处。",
+    "也是 他的 住處。",
     "像我这人，王肯选上，",
     "有分祂的宝座，",
     "而我竟然不肯应选，",

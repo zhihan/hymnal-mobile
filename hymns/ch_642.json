@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "当 奉"
+              "text": "當 奉"
             },
             {
               "chord": "",
-              "text": "耶 稣 这 名 站 住，"
+              "text": "耶 穌 這 名 站 住，"
             }
           ]
         },
@@ -28,7 +28,7 @@
             },
             {
               "chord": "A7",
-              "text": "胜 站"
+              "text": "勝 站"
             },
             {
               "chord": "D",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "A",
-              "text": "气 兵"
+              "text": "氣 兵"
             },
             {
               "chord": "D",
@@ -92,11 +92,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "只 用 圣 灵 宝"
+              "text": "只 用 聖 靈 寶"
             },
             {
               "chord": "A",
-              "text": "剑；"
+              "text": "劍；"
             }
           ]
         },
@@ -112,7 +112,7 @@
             },
             {
               "chord": "",
-              "text": "的 军 装 服"
+              "text": "的 軍 裝 服"
             },
             {
               "chord": "G",
@@ -124,15 +124,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "灭"
+              "text": "滅"
             },
             {
               "chord": "D",
-              "text": "尽 仇"
+              "text": "盡 仇"
             },
             {
               "chord": "A",
-              "text": "敌"
+              "text": "敵"
             },
             {
               "chord": "A7",
@@ -433,10 +433,11 @@
     "category": "属灵的争战",
     "time": "4/2",
     "hymn_code": "513331355553222123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0642_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/887",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/887",
+        "language": "en",
         "category": "h",
         "number": "887",
         "title": "E887"
@@ -444,14 +445,14 @@
     ]
   },
   "raw_sections": [
-    "当 奉耶 稣 这 名 站 住，",
-    "信祂 得胜 站住；",
+    "當 奉耶 穌 這 名 站 住，",
+    "信祂 得勝 站住；",
     "不 靠 自 己 力 量 站 住，",
     "不靠 才能 站住；",
-    "不要 使用 血气 兵器，",
-    "只 用 圣 灵 宝剑；",
-    "穿上 神的 军 装 服役，",
-    "灭尽 仇敌火箭。",
+    "不要 使用 血氣 兵器，",
+    "只 用 聖 靈 寶劍；",
+    "穿上 神的 軍 裝 服役，",
+    "滅盡 仇敵火箭。",
     "看哪，仇敌正在聚集，",
     "故当守你地场！",
     "四面黑暗，争战紧急，",

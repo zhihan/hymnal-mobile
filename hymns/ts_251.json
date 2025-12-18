@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "在 圣"
+              "text": "在 聖"
             },
             {
               "chord": "G7",
-              "text": "经 开"
+              "text": "經 開"
             },
             {
               "chord": "",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "",
-              "text": "经 启 示，"
+              "text": "經 啟 示，"
             }
           ]
         },
@@ -48,11 +48,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "为 要"
+              "text": "為 要"
             },
             {
               "chord": "G7",
-              "text": "彰 显"
+              "text": "彰 顯"
             },
             {
               "chord": "",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "C",
-              "text": "并 且"
+              "text": "並 且"
             },
             {
               "chord": "",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "",
-              "text": "全 地 带 进"
+              "text": "全 地 帶 進"
             },
             {
               "chord": "D",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "D7",
-              "text": "权"
+              "text": "權"
             },
             {
               "chord": "G",
@@ -150,7 +150,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "全 地 带 进"
+              "text": "全 地 帶 進"
             },
             {
               "chord": "D",
@@ -158,7 +158,7 @@
             },
             {
               "chord": "D7",
-              "text": "权"
+              "text": "權"
             },
             {
               "chord": "G",
@@ -624,10 +624,11 @@
     "category": "享受基督",
     "time": "4/4",
     "hymn_code": "3332122216",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0251_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1144",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1144",
+        "language": "en",
         "category": "h",
         "number": "1144",
         "title": "E1144"
@@ -635,14 +636,14 @@
     ]
   },
   "raw_sections": [
-    "在 圣经 开始，神 已经 启 示，",
+    "在 聖經 開始，神 已經 啟 示，",
     "人 是按 著 祂 形 像 造成；",
-    "为 要彰 显祂，并 且代 表 祂，",
-    "征 服全 地 带 进祂权能。",
+    "為 要彰 顯祂，並 且代 表 祂，",
+    "征 服全 地 帶 進祂權能。",
     "形 像，形 像─人",
     "是 按 著 神 形 像 造成；形",
     "像，形 像─征 服",
-    "全 地 带 进祂权能。",
+    "全 地 帶 進祂權能。",
     "祂没有立下任何的律法，",
     "只说园中果子随意吃；",
     "但是善恶树，万不可接触，",

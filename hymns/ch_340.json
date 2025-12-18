@@ -36,7 +36,7 @@
             },
             {
               "chord": "G",
-              "text": "愿"
+              "text": "願"
             }
           ]
         },
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "所 有 摆"
+              "text": "所 有 擺"
             },
             {
               "chord": "C",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "G",
-              "text": "坛，"
+              "text": "壇，"
             }
           ]
         },
@@ -104,7 +104,7 @@
             },
             {
               "chord": "",
-              "text": "献，"
+              "text": "獻，"
             }
           ]
         },
@@ -112,7 +112,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 已 赎"
+              "text": "你 已 贖"
             },
             {
               "chord": "G",
@@ -132,7 +132,7 @@
             },
             {
               "chord": "",
-              "text": "归"
+              "text": "歸"
             },
             {
               "chord": "G",
@@ -359,10 +359,11 @@
     "category": "奉献",
     "time": "6/8",
     "hymn_code": "55456511765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0340_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/442",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/442",
+        "language": "en",
         "category": "h",
         "number": "442",
         "title": "E442"
@@ -371,13 +372,13 @@
   },
   "raw_sections": [
     "完 全的交出，",
-    "主，我 今愿",
+    "主，我 今願",
     "完 全的交 出，",
     "交在 你前。",
-    "所 有 摆在 祭坛，",
-    "所 有全都 奉献，",
-    "你 已 赎我 罪愆，",
-    "我 今归你。",
+    "所 有 擺在 祭壇，",
+    "所 有全都 奉獻，",
+    "你 已 贖我 罪愆，",
+    "我 今歸你。",
     "完全的交出－",
     "生命、一切，",
     "凡你赐我的，",

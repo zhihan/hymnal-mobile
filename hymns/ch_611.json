@@ -16,11 +16,11 @@
             },
             {
               "chord": "G",
-              "text": "慕 灵"
+              "text": "慕 靈"
             },
             {
               "chord": "",
-              "text": "里 的"
+              "text": "裡 的"
             },
             {
               "chord": "A",
@@ -36,11 +36,11 @@
             },
             {
               "chord": "",
-              "text": "灵 里 彼 此 相"
+              "text": "靈 裡 彼 此 相"
             },
             {
               "chord": "A",
-              "text": "调，"
+              "text": "調，"
             }
           ]
         },
@@ -52,19 +52,19 @@
             },
             {
               "chord": "",
-              "text": "脱"
+              "text": "脫"
             },
             {
               "chord": "G",
-              "text": "离 单"
+              "text": "離 單"
             },
             {
               "chord": "",
-              "text": "独 的"
+              "text": "獨 的"
             },
             {
               "chord": "A",
-              "text": "作 风，"
+              "text": "作 風，"
             }
           ]
         },
@@ -76,7 +76,7 @@
             },
             {
               "chord": "",
-              "text": "灵 里 同"
+              "text": "靈 裡 同"
             },
             {
               "chord": "A7",
@@ -287,10 +287,11 @@
     "category": "召会",
     "time": "4/4",
     "hymn_code": "17564325511235322",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0611_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/847",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/847",
+        "language": "en",
         "category": "h",
         "number": "847",
         "title": "E847"
@@ -298,10 +299,10 @@
     ]
   },
   "raw_sections": [
-    "我 今渴慕 灵里 的交 通！",
-    "渴 慕灵 里 彼 此 相调，",
-    "渴 慕脱离 单独 的作 风，",
-    "渴 慕灵 里 同被 建造。",
+    "我 今渴慕 靈裡 的交 通！",
+    "渴 慕靈 裡 彼 此 相調，",
+    "渴 慕脫離 單獨 的作 風，",
+    "渴 慕靈 裡 同被 建造。",
     "我真渴慕灵里的交通！",
     "渴慕灵能向人敞开，",
     "渴慕脱离孤僻的自封，",

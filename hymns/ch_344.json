@@ -16,7 +16,7 @@
             },
             {
               "chord": "G",
-              "text": "图，"
+              "text": "圖，"
             },
             {
               "chord": "D",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "A",
-              "text": "图，"
+              "text": "圖，"
             }
           ]
         },
@@ -56,7 +56,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "制 造 又"
+              "text": "製 造 又"
             },
             {
               "chord": "G",
@@ -104,7 +104,7 @@
             },
             {
               "chord": "A7",
-              "text": "归"
+              "text": "歸"
             },
             {
               "chord": "D",
@@ -259,10 +259,11 @@
     "category": "奉献",
     "time": "9/4",
     "hymn_code": "323431712",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0344_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/449",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/449",
+        "language": "en",
         "category": "h",
         "number": "449",
         "title": "E449"
@@ -270,11 +271,11 @@
     ]
   },
   "raw_sections": [
-    "照 你企图，主，",
-    "照 你企图，",
+    "照 你企圖，主，",
+    "照 你企圖，",
     "因 你 是 陶 人， 我 是 泥土：",
-    "制 造 又甄陶，照 你美意；",
-    "降 服且等候，使 我归依。",
+    "製 造 又甄陶，照 你美意；",
+    "降 服且等候，使 我歸依。",
     "照你企图，主，",
     "照你企图，",
     "我在你面前谦卑俯伏：",

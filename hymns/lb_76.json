@@ -7,60 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "What about"
-            },
-            {
               "chord": "",
-              "text": "my"
-            },
-            {
-              "chord": "G",
-              "text": "sinful"
-            },
-            {
-              "chord": "",
-              "text": "past?"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D",
-              "text": "And my"
-            },
-            {
-              "chord": "",
-              "text": "conscience"
-            },
-            {
-              "chord": "G",
-              "text": "has no"
-            },
-            {
-              "chord": "",
-              "text": "rest."
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D",
-              "text": "Deep within"
-            },
-            {
-              "chord": "",
-              "text": "I"
-            },
-            {
-              "chord": "G",
-              "text": "feel the"
-            },
-            {
-              "chord": "",
-              "text": "pain."
+              "text": "What about my sinful past?"
             }
           ]
         },
@@ -68,23 +16,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "I'm con"
-            },
+              "text": "And my conscience has no rest."
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "D",
-              "text": "demned from"
-            },
+              "chord": "",
+              "text": "Deep within I feel the pain."
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "A",
-              "text": "all my"
-            },
-            {
-              "chord": "G",
-              "text": "guilty"
-            },
-            {
-              "chord": "A",
-              "text": "stains."
+              "chord": "",
+              "text": "I’m condemned from all my guilty stains."
             }
           ]
         }
@@ -97,48 +45,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "O my"
-            },
-            {
               "chord": "",
-              "text": "life of"
-            },
-            {
-              "chord": "G",
-              "text": "misery,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D",
-              "text": "In the"
-            },
-            {
-              "chord": "",
-              "text": "world of"
-            },
-            {
-              "chord": "G",
-              "text": "vanity,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D",
-              "text": "As I"
-            },
-            {
-              "chord": "",
-              "text": "searched for"
-            },
-            {
-              "chord": "G",
-              "text": "happiness,"
+              "text": "O my life of misery,"
             }
           ]
         },
@@ -146,27 +54,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "My re"
-            },
-            {
-              "chord": "D",
-              "text": "ward I"
-            },
+              "text": "In this world of vanity,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "re"
-            },
+              "text": "As I searched for happiness,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "A",
-              "text": "ceived just"
-            },
-            {
-              "chord": "G",
-              "text": "empti"
-            },
-            {
-              "chord": "A",
-              "text": "ness."
+              "chord": "",
+              "text": "My reward I received just emptiness."
             }
           ]
         }
@@ -179,20 +83,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "God was"
-            },
-            {
               "chord": "",
-              "text": "far a"
-            },
-            {
-              "chord": "Em",
-              "text": "way from"
-            },
-            {
-              "chord": "A",
-              "text": "me,"
+              "text": "God was far away from me,"
             }
           ]
         },
@@ -200,19 +92,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Great and highest"
-            },
-            {
-              "chord": "D",
-              "text": "One"
-            },
-            {
-              "chord": "A",
-              "text": "is"
-            },
-            {
-              "chord": "Bm",
-              "text": "He."
+              "text": "Great and highest One is He."
             }
           ]
         },
@@ -220,15 +100,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Yet You took on"
-            },
-            {
-              "chord": "F♯m",
-              "text": "humani"
-            },
-            {
-              "chord": "Em",
-              "text": "ty."
+              "text": "Yet You took on humanity."
             }
           ]
         },
@@ -236,15 +108,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "You"
-            },
-            {
-              "chord": "A7",
-              "text": "came for"
-            },
-            {
-              "chord": "Bm",
-              "text": "me,"
+              "text": "You came for me,"
             }
           ]
         },
@@ -252,11 +116,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Hung on a"
-            },
-            {
-              "chord": "Em",
-              "text": "tree,"
+              "text": "Hung on a tree,"
             }
           ]
         },
@@ -264,19 +124,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Bled there to"
-            },
-            {
-              "chord": "A",
-              "text": "die"
-            },
-            {
-              "chord": "A7",
-              "text": "for"
-            },
-            {
-              "chord": "D",
-              "text": "me."
+              "text": "Bled there to die for me."
             }
           ]
         }
@@ -289,92 +137,48 @@
         {
           "segments": [
             {
-              "chord": "D7",
-              "text": "That's why"
-            },
-            {
               "chord": "",
-              "text": "I"
-            },
-            {
-              "chord": "G",
-              "text": "love"
-            },
-            {
-              "chord": "A",
-              "text": "Him."
+              "text": "That’s why I love Him."
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "A7",
-              "text": "That's why"
-            },
-            {
               "chord": "",
-              "text": "I"
-            },
-            {
-              "chord": "F♯m",
-              "text": "treasure"
-            },
-            {
-              "chord": "Bm",
-              "text": "Him."
+              "text": "That’s why I treasure Him."
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "That's why"
-            },
-            {
               "chord": "",
-              "text": "I"
-            },
-            {
-              "chord": "G",
-              "text": "give my"
-            },
-            {
-              "chord": "Em",
-              "text": "life and"
-            },
-            {
-              "chord": "A7",
-              "text": "all to"
-            },
-            {
-              "chord": "D",
-              "text": "Him."
+              "text": "That’s why I give my life and all to Him."
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "D7",
-              "text": "That's why"
-            },
-            {
               "chord": "",
-              "text": "I"
-            },
-            {
-              "chord": "A7",
-              "text": "all to"
+              "text": "That’s why I love Him."
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "Him."
+              "chord": "",
+              "text": "That’s why I treasure Him."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "That’s why I give my life and all to Him."
             }
           ]
         }
@@ -386,10 +190,11 @@
     "category": "Gospel",
     "time": "4/4",
     "hymn_code": "51352165135216",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/LongBeach/midi/tunes/lb76_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/341",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/341",
+        "language": "cn",
         "category": "ts",
         "number": "341",
         "title": "Cs341"
@@ -397,24 +202,25 @@
     ]
   },
   "raw_sections": [
-    "What aboutmysinfulpast?",
-    "And myconsciencehas norest.",
-    "Deep withinIfeel thepain.",
-    "I'm condemned fromall myguiltystains.",
-    "O mylife ofmisery,",
-    "In theworld ofvanity,",
-    "As Isearched forhappiness,",
-    "My reward Ireceived justemptiness.",
-    "God wasfar away fromme,",
-    "Great and highestOneisHe.",
-    "Yet You took onhumanity.",
-    "Youcame forme,",
-    "Hung on atree,",
-    "Bled there todieforme.",
-    "That's whyIloveHim.",
-    "That's whyItreasureHim.",
-    "That's whyIgive mylife andall toHim.",
-    "That's whyIall to",
-    "Him."
+    "What about my sinful past?",
+    "And my conscience has no rest.",
+    "Deep within I feel the pain.",
+    "I’m condemned from all my guilty stains.",
+    "O my life of misery,",
+    "In this world of vanity,",
+    "As I searched for happiness,",
+    "My reward I received just emptiness.",
+    "God was far away from me,",
+    "Great and highest One is He.",
+    "Yet You took on humanity.",
+    "You came for me,",
+    "Hung on a tree,",
+    "Bled there to die for me.",
+    "That’s why I love Him.",
+    "That’s why I treasure Him.",
+    "That’s why I give my life and all to Him.",
+    "That’s why I love Him.",
+    "That’s why I treasure Him.",
+    "That’s why I give my life and all to Him."
   ]
 }

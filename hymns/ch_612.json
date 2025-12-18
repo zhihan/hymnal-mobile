@@ -12,11 +12,11 @@
             },
             {
               "chord": "",
-              "text": "福 气， 何 等"
+              "text": "福 氣， 何 等"
             },
             {
               "chord": "D",
-              "text": "权 利，"
+              "text": "權 利，"
             }
           ]
         },
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "由 神 所 选， 为 神"
+              "text": "由 神 所 選， 為 神"
             },
             {
               "chord": "D",
@@ -56,19 +56,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "承 担"
+              "text": "承 擔"
             },
             {
               "chord": "A",
-              "text": "尊 荣"
+              "text": "尊 榮"
             },
             {
               "chord": "",
-              "text": "的 圣"
+              "text": "的 聖"
             },
             {
               "chord": "D",
-              "text": "职。"
+              "text": "職。"
             }
           ]
         }
@@ -86,7 +86,7 @@
             },
             {
               "chord": "D7",
-              "text": "职 分"
+              "text": "職 分"
             },
             {
               "chord": "",
@@ -94,7 +94,7 @@
             },
             {
               "chord": "G",
-              "text": "尊 荣，"
+              "text": "尊 榮，"
             }
           ]
         },
@@ -102,7 +102,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "召 会 建 造 所 倚"
+              "text": "召 會 建 造 所 倚"
             },
             {
               "chord": "D7",
@@ -114,11 +114,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "灵 里"
+              "text": "靈 裡"
             },
             {
               "chord": "G",
-              "text": "祷 告，"
+              "text": "禱 告，"
             },
             {
               "chord": "",
@@ -134,7 +134,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 愿"
+              "text": "我 願"
             },
             {
               "chord": "D",
@@ -142,11 +142,11 @@
             },
             {
               "chord": "D7",
-              "text": "供 圣"
+              "text": "供 聖"
             },
             {
               "chord": "G",
-              "text": "职。"
+              "text": "職。"
             }
           ]
         }
@@ -608,10 +608,11 @@
     "category": "召会",
     "time": "3/4",
     "hymn_code": "556551177122123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0612_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/848",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/848",
+        "language": "en",
         "category": "h",
         "number": "848",
         "title": "E848"
@@ -619,14 +620,14 @@
     ]
   },
   "raw_sections": [
-    "何 等福 气， 何 等权 利，",
+    "何 等福 氣， 何 等權 利，",
     "我 是君 尊的 祭司！",
-    "由 神 所 选， 为 神所 立，",
-    "承 担尊 荣的 圣职。",
-    "祭 司职 分何 等尊 荣，",
-    "召 会 建 造 所 倚恃；",
-    "灵 里祷 告，神 前事 奉，",
-    "我 愿如 此供 圣职。",
+    "由 神 所 選， 為 神所 立，",
+    "承 擔尊 榮的 聖職。",
+    "祭 司職 分何 等尊 榮，",
+    "召 會 建 造 所 倚恃；",
+    "靈 裡禱 告，神 前事 奉，",
+    "我 願如 此供 聖職。",
     "我若守住君尊身分，",
     "权柄、等次不颠倒，",
     "并且肯尽祭司职分，",

@@ -32,7 +32,7 @@
             },
             {
               "chord": "A7",
-              "text": "脱 旧"
+              "text": "脫 舊"
             },
             {
               "chord": "",
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "宝 贝 放 在 瓦 器 里"
+              "text": "寶 貝 放 在 瓦 器 裡"
             },
             {
               "chord": "Em",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "D",
-              "text": "显！"
+              "text": "顯！"
             }
           ]
         }
@@ -90,7 +90,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "宝 贝 放 在 瓦 器 里"
+              "text": "寶 貝 放 在 瓦 器 裡"
             },
             {
               "chord": "G",
@@ -118,7 +118,7 @@
             },
             {
               "chord": "A",
-              "text": "显！"
+              "text": "顯！"
             }
           ]
         },
@@ -146,7 +146,7 @@
             },
             {
               "chord": "D",
-              "text": "显！"
+              "text": "顯！"
             }
           ]
         }
@@ -339,10 +339,11 @@
     "category": "经历基督",
     "time": "3/4",
     "hymn_code": "5135332234442171",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0432_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8432",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8432",
+        "language": "en",
         "category": "h",
         "number": "8432",
         "title": "E8432"
@@ -351,12 +352,12 @@
   },
   "raw_sections": [
     "神 的自 己 照 在 我心，",
-    "我 就 得以脱 旧更新。",
-    "宝 贝 放 在 瓦 器 里面，",
-    "莫 大 能力藉 此彰显！",
-    "宝 贝 放 在 瓦 器 里面，",
-    "莫 大 能力藉 此彰显！",
-    "莫 大能力借此 彰显！",
+    "我 就 得以脫 舊更新。",
+    "寶 貝 放 在 瓦 器 裡面，",
+    "莫 大 能力藉 此彰顯！",
+    "寶 貝 放 在 瓦 器 裡面，",
+    "莫 大 能力藉 此彰顯！",
+    "莫 大能力藉此 彰顯！",
     "四面受敌，不被困住；",
     "遭受逼迫，不被轻忽；",
     "心里作难，不至失望；",

@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "愿 主"
+              "text": "願 主"
             },
             {
               "chord": "",
-              "text": "为 我 擘 开 生 命 的"
+              "text": "為 我 擘 開 生 命 的"
             },
             {
               "chord": "A",
-              "text": "饼，"
+              "text": "餅，"
             }
           ]
         },
@@ -28,11 +28,11 @@
             },
             {
               "chord": "",
-              "text": "当 日 旁 海 对"
+              "text": "當 日 旁 海 對"
             },
             {
               "chord": "E",
-              "text": "众"
+              "text": "眾"
             },
             {
               "chord": "E7",
@@ -48,23 +48,23 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "靠 这"
+              "text": "靠 這"
             },
             {
               "chord": "",
-              "text": "圣"
+              "text": "聖"
             },
             {
               "chord": "D",
-              "text": "书 引"
+              "text": "書 引"
             },
             {
               "chord": "",
-              "text": "导， 我"
+              "text": "導， 我"
             },
             {
               "chord": "E7",
-              "text": "寻 求"
+              "text": "尋 求"
             },
             {
               "chord": "A",
@@ -227,10 +227,11 @@
     "category": "读经",
     "time": "2/2",
     "hymn_code": "3135653132",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0583_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/806",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/806",
+        "language": "en",
         "category": "h",
         "number": "806",
         "title": "E806"
@@ -238,9 +239,9 @@
     ]
   },
   "raw_sections": [
-    "愿 主为 我 擘 开 生 命 的饼，",
-    "就 像当 日 旁 海 对众所行。",
-    "靠 这圣书 引导， 我寻 求你；",
+    "願 主為 我 擘 開 生 命 的餅，",
+    "就 像當 日 旁 海 對眾所行。",
+    "靠 這聖書 引導， 我尋 求你；",
     "我 主，神的 活道， 我渴慕你！",
     "愿主为我擘开生命的饼，",
     "使我充满主爱，记念主名！",

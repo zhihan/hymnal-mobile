@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "祷 告"
+              "text": "禱 告"
             },
             {
               "chord": "D7",
-              "text": "与 主"
+              "text": "與 主"
             },
             {
               "chord": "",
-              "text": "来 往"
+              "text": "來 往"
             },
             {
               "chord": "G",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "",
-              "text": "灵 里 来 寻"
+              "text": "靈 裡 來 尋"
             },
             {
               "chord": "A",
@@ -48,15 +48,15 @@
             },
             {
               "chord": "D7",
-              "text": "求 问"
+              "text": "求 問"
             },
             {
               "chord": "",
-              "text": "并 且"
+              "text": "並 且"
             },
             {
               "chord": "G",
-              "text": "静 听，"
+              "text": "靜 聽，"
             }
           ]
         },
@@ -64,15 +64,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "隐 密"
+              "text": "隱 密"
             },
             {
               "chord": "A7",
-              "text": "之 处"
+              "text": "之 處"
             },
             {
               "chord": "",
-              "text": "来 等"
+              "text": "來 等"
             },
             {
               "chord": "D",
@@ -90,11 +90,11 @@
           "segments": [
             {
               "chord": "A",
-              "text": "祷 告"
+              "text": "禱 告"
             },
             {
               "chord": "",
-              "text": "与 主 来 往"
+              "text": "與 主 來 往"
             },
             {
               "chord": "D",
@@ -110,11 +110,11 @@
             },
             {
               "chord": "D",
-              "text": "灵 里"
+              "text": "靈 裡"
             },
             {
               "chord": "",
-              "text": "来 寻"
+              "text": "來 尋"
             },
             {
               "chord": "A",
@@ -130,15 +130,15 @@
             },
             {
               "chord": "D7",
-              "text": "求 问"
+              "text": "求 問"
             },
             {
               "chord": "",
-              "text": "并 且"
+              "text": "並 且"
             },
             {
               "chord": "G",
-              "text": "静 听，"
+              "text": "靜 聽，"
             }
           ]
         },
@@ -146,15 +146,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "隐 密"
+              "text": "隱 密"
             },
             {
               "chord": "A7",
-              "text": "之 处"
+              "text": "之 處"
             },
             {
               "chord": "",
-              "text": "来 等"
+              "text": "來 等"
             },
             {
               "chord": "D",
@@ -545,10 +545,11 @@
     "category": "祷告",
     "time": "4/4",
     "hymn_code": "556531165131532",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0568_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/784",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/784",
+        "language": "en",
         "category": "h",
         "number": "784",
         "title": "E784"
@@ -556,14 +557,14 @@
     ]
   },
   "raw_sections": [
-    "祷 告与 主来 往交 通，",
-    "祂 面灵 里 来 寻求；",
-    "祂 前求 问并 且静 听，",
-    "隐 密之 处来 等候。",
-    "祷 告与 主 来 往交 通，",
-    "祂 面灵 里来 寻求；",
-    "祂 前求 问并 且静 听，",
-    "隐 密之 处来 等候。",
+    "禱 告與 主來 往交 通，",
+    "祂 面靈 裡 來 尋求；",
+    "祂 前求 問並 且靜 聽，",
+    "隱 密之 處來 等候。",
+    "禱 告與 主 來 往交 通，",
+    "祂 面靈 裡來 尋求；",
+    "祂 前求 問並 且靜 聽，",
+    "隱 密之 處來 等候。",
     "祷告与主来往交通，",
     "从你里面全敞开；",
     "敞着脸面将祂瞻仰，",

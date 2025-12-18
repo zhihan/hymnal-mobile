@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "里 面 干 渴 难"
+              "text": "裡 面 乾 渴 難"
             },
             {
               "chord": "D",
@@ -64,15 +64,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "并"
+              "text": "並"
             },
             {
               "chord": "D",
-              "text": "你 复"
+              "text": "你 復"
             },
             {
               "chord": "",
-              "text": "苏"
+              "text": "甦"
             },
             {
               "chord": "D7",
@@ -245,10 +245,11 @@
     "category": "羡慕",
     "time": "3/4",
     "hymn_code": "5165123213532132",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0269_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/349",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/349",
+        "language": "en",
         "category": "h",
         "number": "349",
         "title": "E349"
@@ -257,9 +258,9 @@
   },
   "raw_sections": [
     "我 如困 鹿 切慕 溪水，",
-    "里 面 干 渴 难言；",
+    "裡 面 乾 渴 難言；",
     "哦神， 我心 惟你 是追，",
-    "并你 复苏恩典。",
+    "並你 復甦恩典。",
     "活的神阿，你是我神，",
     "我心饥渴要你；",
     "深愿全人与你相亲，",

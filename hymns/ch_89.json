@@ -16,7 +16,7 @@
             },
             {
               "chord": "C",
-              "text": "爱 竟"
+              "text": "愛 竟"
             },
             {
               "chord": "D7",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "G",
-              "text": "辞"
+              "text": "辭"
             }
           ]
         },
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "为 我 忍"
+              "text": "為 我 忍"
             },
             {
               "chord": "A7",
@@ -56,11 +56,11 @@
             },
             {
               "chord": "",
-              "text": "们 胜"
+              "text": "們 勝"
             },
             {
               "chord": "Am",
-              "text": "过 罪"
+              "text": "過 罪"
             },
             {
               "chord": "D7",
@@ -72,11 +72,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "并"
+              "text": "並"
             },
             {
               "chord": "Em",
-              "text": "那 壮"
+              "text": "那 壯"
             },
             {
               "chord": "G",
@@ -84,11 +84,11 @@
             },
             {
               "chord": "D7",
-              "text": "权"
+              "text": "權"
             },
             {
               "chord": "G",
-              "text": "势。"
+              "text": "勢。"
             }
           ]
         }
@@ -215,10 +215,11 @@
     "category": "赞美主",
     "time": "6/4",
     "hymn_code": "532432176555171665",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0089_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8089",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8089",
+        "language": "en",
         "category": "h",
         "number": "8089",
         "title": "E8089"
@@ -226,10 +227,10 @@
     ]
   },
   "raw_sections": [
-    "主， 你的爱 竟然 不辞",
-    "为 我 忍辱 受死！",
-    "好叫 我们 胜过 罪世，",
-    "并那 壮士权势。",
+    "主， 你的愛 竟然 不辭",
+    "為 我 忍辱 受死！",
+    "好叫 我們 勝過 罪世，",
+    "並那 壯士權勢。",
     "哦，你的担何等的重！",
     "何等难于背负！",
     "人的罪恶、鬼的讥讽、",

@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/8421",
+  "url": "https://www.hymnal.net/en/hymn/h/8421",
   "title": "I could not do without Thee",
   "verses": [
     {
@@ -252,7 +252,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "E'en when my eyes are holden"
+              "text": "E’en when my eyes are holden"
             }
           ]
         },
@@ -322,7 +322,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "The spirit's strange deep longing,"
+              "text": "The spirit’s strange deep longing,"
             }
           ]
         },
@@ -375,6 +375,7 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "3332117544323",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e8421_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ch/421",
@@ -404,7 +405,7 @@
     "And wilt not let me stray.",
     "I could not do without Thee,",
     "O Jesus, Saviour dear!",
-    "E'en when my eyes are holden",
+    "E’en when my eyes are holden",
     "I know that Thou art near.",
     "How dreary and how lonely",
     "This changeful life would be,",
@@ -412,7 +413,7 @@
     "The secret rest with Thee.",
     "I could not do without Thee!",
     "No other friend could read",
-    "The spirit's strange deep longing,",
+    "The spirit’s strange deep longing,",
     "Interpreting its need.",
     "No human heart could enter",
     "Each dim recess of mine,",

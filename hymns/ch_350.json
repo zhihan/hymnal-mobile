@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "谁 是"
+              "text": "誰 是"
             },
             {
               "chord": "",
-              "text": "在 主 这 边？"
+              "text": "在 主 這 邊？"
             }
           ]
         },
@@ -20,11 +20,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "谁 要"
+              "text": "誰 要"
             },
             {
               "chord": "",
-              "text": "跟 随"
+              "text": "跟 隨"
             },
             {
               "chord": "G",
@@ -36,11 +36,11 @@
           "segments": [
             {
               "chord": "B7",
-              "text": "谁 要"
+              "text": "誰 要"
             },
             {
               "chord": "",
-              "text": "为 主 活 著，"
+              "text": "為 主 活 著，"
             }
           ]
         },
@@ -64,11 +64,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "谁 要"
+              "text": "誰 要"
             },
             {
               "chord": "",
-              "text": "撇 开"
+              "text": "撇 開"
             },
             {
               "chord": "D",
@@ -80,15 +80,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "去 为"
+              "text": "去 為"
             },
             {
               "chord": "G",
-              "text": "主 争"
+              "text": "主 爭"
             },
             {
               "chord": "D",
-              "text": "战？"
+              "text": "戰？"
             }
           ]
         },
@@ -96,7 +96,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "谁 是"
+              "text": "誰 是"
             },
             {
               "chord": "C",
@@ -104,7 +104,7 @@
             },
             {
               "chord": "G",
-              "text": "这 边，"
+              "text": "這 邊，"
             }
           ]
         },
@@ -112,7 +112,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "跟 随"
+              "text": "跟 隨"
             },
             {
               "chord": "D",
@@ -146,7 +146,7 @@
             },
             {
               "chord": "G",
-              "text": "赎，"
+              "text": "贖，"
             }
           ]
         },
@@ -154,7 +154,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "并 藉 你 恩 典，"
+              "text": "並 藉 你 恩 典，"
             }
           ]
         },
@@ -162,7 +162,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "可 爱、 荣 耀 救 主，"
+              "text": "可 愛、 榮 耀 救 主，"
             }
           ]
         },
@@ -174,11 +174,11 @@
             },
             {
               "chord": "D7",
-              "text": "你 这"
+              "text": "你 這"
             },
             {
               "chord": "G",
-              "text": "边。"
+              "text": "邊。"
             }
           ]
         }
@@ -618,10 +618,11 @@
     "category": "奉献",
     "time": "4/4",
     "hymn_code": "55321566115",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0350_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/469",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/469",
+        "language": "en",
         "category": "h",
         "number": "469",
         "title": "E469"
@@ -629,18 +630,18 @@
     ]
   },
   "raw_sections": [
-    "谁 是在 主 这 边？",
-    "谁 要跟 随主？",
-    "谁 要为 主 活 著，",
+    "誰 是在 主 這 邊？",
+    "誰 要跟 隨主？",
+    "誰 要為 主 活 著，",
     "走 祂的 道路？",
-    "谁 要撇 开世 界，",
-    "去 为主 争战？",
-    "谁 是在 主这 边，",
-    "跟 随主向前？",
-    "藉 著 你 的救赎，",
-    "并 藉 你 恩 典，",
-    "可 爱、 荣 耀 救 主，",
-    "我 在你 这边。",
+    "誰 要撇 開世 界，",
+    "去 為主 爭戰？",
+    "誰 是在 主這 邊，",
+    "跟 隨主向前？",
+    "藉 著 你 的救贖，",
+    "並 藉 你 恩 典，",
+    "可 愛、 榮 耀 救 主，",
+    "我 在你 這邊。",
     "参加主的军队，",
     "欢乐去争战，",
     "不是为着荣耀，",

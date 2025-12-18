@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "何 处"
+              "text": "何 處"
             },
             {
               "chord": "",
-              "text": "洒 了 赎 罪"
+              "text": "灑 了 贖 罪"
             },
             {
               "chord": "A",
@@ -24,7 +24,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "何 处"
+              "text": "何 處"
             },
             {
               "chord": "G",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "",
-              "text": "圣 膏"
+              "text": "聖 膏"
             },
             {
               "chord": "A",
@@ -52,11 +52,11 @@
             },
             {
               "chord": "A",
-              "text": "与 神"
+              "text": "與 神"
             },
             {
               "chord": "D",
-              "text": "接 触，"
+              "text": "接 觸，"
             }
           ]
         },
@@ -313,10 +313,11 @@
     "category": "圣灵的丰满",
     "time": "4/4",
     "hymn_code": "31555117136714332",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0216_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/265",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/265",
+        "language": "en",
         "category": "h",
         "number": "265",
         "title": "E265"
@@ -324,9 +325,9 @@
     ]
   },
   "raw_sections": [
-    "何 处洒 了 赎 罪之 血，",
-    "何 处就 抹圣 膏油；",
-    "藉 此人 得与 神接 触，",
+    "何 處灑 了 贖 罪之 血，",
+    "何 處就 抹聖 膏油；",
+    "藉 此人 得與 神接 觸，",
     "交 通 也 得蒙 保守。",
     "血是救赎所有表记，",
     "洗净所有的罪恶；",

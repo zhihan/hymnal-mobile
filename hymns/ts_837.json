@@ -12,11 +12,11 @@
             },
             {
               "chord": "",
-              "text": "来 这 里， 听 他 们"
+              "text": "來 這 裡， 聽 他 們"
             },
             {
               "chord": "G",
-              "text": "在 说"
+              "text": "在 說"
             }
           ]
         },
@@ -24,19 +24,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "耶 稣 的"
+              "text": "耶 穌 的"
             },
             {
               "chord": "D",
-              "text": "事 迹，"
+              "text": "事 蹟，"
             },
             {
               "chord": "",
-              "text": "未 曾 闻"
+              "text": "未 曾 聞"
             },
             {
               "chord": "A",
-              "text": "过，"
+              "text": "過，"
             }
           ]
         },
@@ -88,11 +88,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 几 乎 忘 记 来 前 的"
+              "text": "我 幾 乎 忘 記 來 前 的"
             },
             {
               "chord": "F♯m",
-              "text": "苦 恼，"
+              "text": "苦 惱，"
             }
           ]
         },
@@ -100,11 +100,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "不 觉 已"
+              "text": "不 覺 已"
             },
             {
               "chord": "Bm",
-              "text": "脱 离"
+              "text": "脫 離"
             },
             {
               "chord": "",
@@ -124,11 +124,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "从 他 们"
+              "text": "從 他 們"
             },
             {
               "chord": "D",
-              "text": "脸 上"
+              "text": "臉 上"
             },
             {
               "chord": "",
@@ -136,7 +136,7 @@
             },
             {
               "chord": "G",
-              "text": "纯 真，"
+              "text": "純 真，"
             }
           ]
         },
@@ -309,10 +309,11 @@
     "category": "事奉与福音",
     "time": "4/4",
     "hymn_code": "5123532161",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0837_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/6837",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/6837",
+        "language": "en",
         "category": "h",
         "number": "6837",
         "title": "E6837"
@@ -320,13 +321,13 @@
     ]
   },
   "raw_sections": [
-    "初 次来 这 里， 听 他 们在 说",
-    "耶 稣 的事 迹，未 曾 闻过，",
+    "初 次來 這 裡， 聽 他 們在 說",
+    "耶 穌 的事 蹟，未 曾 聞過，",
     "但 在 我心 坎有 新 的感 受，",
     "莫 名 的平安 像股 暖流；",
-    "我 几 乎 忘 记 来 前 的苦 恼，",
-    "不 觉 已脱 离俗 世 的囚牢。",
-    "从 他 们脸 上表 露 的纯 真，",
+    "我 幾 乎 忘 記 來 前 的苦 惱，",
+    "不 覺 已脫 離俗 世 的囚牢。",
+    "從 他 們臉 上表 露 的純 真，",
     "我 心 暗想： 真的 有神！",
     "他们且告诉，神要进我里，",
     "作生命、救主，若我愿意；",

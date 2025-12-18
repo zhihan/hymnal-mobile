@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "神 灵"
+              "text": "神 靈"
             },
             {
               "chord": "",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "灵，"
+              "text": "靈，"
             }
           ]
         },
@@ -32,19 +32,19 @@
             },
             {
               "chord": "G",
-              "text": "此 来"
+              "text": "此 來"
             },
             {
               "chord": "D",
-              "text": "作 实"
+              "text": "作 實"
             },
             {
               "chord": "",
-              "text": "际 的"
+              "text": "際 的"
             },
             {
               "chord": "A",
-              "text": "灵。"
+              "text": "靈。"
             }
           ]
         },
@@ -68,7 +68,7 @@
             },
             {
               "chord": "D",
-              "text": "灵，"
+              "text": "靈，"
             }
           ]
         },
@@ -84,11 +84,11 @@
             },
             {
               "chord": "D",
-              "text": "我 实"
+              "text": "我 實"
             },
             {
               "chord": "A",
-              "text": "际"
+              "text": "際"
             },
             {
               "chord": "A7",
@@ -96,7 +96,7 @@
             },
             {
               "chord": "D",
-              "text": "应。"
+              "text": "應。"
             }
           ]
         }
@@ -337,10 +337,11 @@
     "category": "圣灵的丰满",
     "time": "3/4",
     "hymn_code": "5512312123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0194_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/243",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/243",
+        "language": "en",
         "category": "h",
         "number": "243",
         "title": "E243"
@@ -348,10 +349,10 @@
     ]
   },
   "raw_sections": [
-    "神 灵今 是 基督 的灵，",
-    "如此 来作 实际 的灵。",
-    "祂乃 基督 住在 我灵，",
-    "使祂 作我 实际供应。",
+    "神 靈今 是 基督 的靈，",
+    "如此 來作 實際 的靈。",
+    "祂乃 基督 住在 我靈，",
+    "使祂 作我 實際供應。",
     "基督乃是神的化身，",
     "显明神的圣别性情；",
     "这灵也是基督化身，",

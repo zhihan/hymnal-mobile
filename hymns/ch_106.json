@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "荣"
+              "text": "榮"
             },
             {
               "chord": "G",
-              "text": "耀 归"
+              "text": "耀 歸"
             },
             {
               "chord": "D",
-              "text": "于 你，"
+              "text": "於 你，"
             }
           ]
         },
@@ -24,11 +24,11 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "复 活"
+              "text": "復 活"
             },
             {
               "chord": "D",
-              "text": "得 胜"
+              "text": "得 勝"
             },
             {
               "chord": "A",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "A7",
-              "text": "永 远"
+              "text": "永 遠"
             },
             {
               "chord": "D",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "Bm",
-              "text": "胜，"
+              "text": "勝，"
             }
           ]
         },
@@ -64,7 +64,7 @@
             },
             {
               "chord": "A7",
-              "text": "胜 过"
+              "text": "勝 過"
             },
             {
               "chord": "D",
@@ -92,11 +92,11 @@
           "segments": [
             {
               "chord": "A",
-              "text": "辊 开"
+              "text": "輥 開"
             },
             {
               "chord": "Em",
-              "text": "坟 墓"
+              "text": "墳 墓"
             },
             {
               "chord": "F♯",
@@ -108,7 +108,7 @@
           "segments": [
             {
               "chord": "Bm",
-              "text": "凭 著"
+              "text": "憑 著"
             },
             {
               "chord": "",
@@ -124,11 +124,11 @@
           "segments": [
             {
               "chord": "F♯m",
-              "text": "你 复"
+              "text": "你 復"
             },
             {
               "chord": "E7",
-              "text": "活 启"
+              "text": "活 啟"
             },
             {
               "chord": "A",
@@ -146,15 +146,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "荣"
+              "text": "榮"
             },
             {
               "chord": "G",
-              "text": "耀 归"
+              "text": "耀 歸"
             },
             {
               "chord": "D",
-              "text": "于"
+              "text": "於"
             },
             {
               "chord": "Bm",
@@ -166,11 +166,11 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "复 活"
+              "text": "復 活"
             },
             {
               "chord": "D",
-              "text": "得 胜"
+              "text": "得 勝"
             },
             {
               "chord": "A",
@@ -186,7 +186,7 @@
             },
             {
               "chord": "A7",
-              "text": "永 远"
+              "text": "永 遠"
             },
             {
               "chord": "D",
@@ -194,7 +194,7 @@
             },
             {
               "chord": "Bm",
-              "text": "胜，"
+              "text": "勝，"
             }
           ]
         },
@@ -206,7 +206,7 @@
             },
             {
               "chord": "A7",
-              "text": "胜 过"
+              "text": "勝 過"
             },
             {
               "chord": "D",
@@ -436,10 +436,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "534512345432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0106_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/121",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/121",
+        "language": "en",
         "category": "h",
         "number": "121",
         "title": "E121"
@@ -447,18 +448,18 @@
     ]
   },
   "raw_sections": [
-    "荣耀 归于 你，",
-    "复 活得 胜子，",
-    "你 已永 远得胜，",
-    "你 已胜 过死；",
+    "榮耀 歸於 你，",
+    "復 活得 勝子，",
+    "你 已永 遠得勝，",
+    "你 已勝 過死；",
     "天 使 身 穿白衣，",
-    "辊 开坟 墓石，",
-    "凭 著你 的空 墓，",
-    "你 复活 启示。",
-    "荣耀 归于你，",
-    "复 活得 胜子，",
-    "你 已永 远得胜，",
-    "你 已胜 过死。",
+    "輥 開墳 墓石，",
+    "憑 著你 的空 墓，",
+    "你 復活 啟示。",
+    "榮耀 歸於你，",
+    "復 活得 勝子，",
+    "你 已永 遠得勝，",
+    "你 已勝 過死。",
     "看！复活基督，",
     "与我们相见；",
     "祂那可爱问安，",

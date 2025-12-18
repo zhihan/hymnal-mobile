@@ -36,7 +36,7 @@
             },
             {
               "chord": "D",
-              "text": "乐、 一"
+              "text": "樂、 一"
             },
             {
               "chord": "G",
@@ -56,11 +56,11 @@
             },
             {
               "chord": "",
-              "text": "力， 时"
+              "text": "力， 時"
             },
             {
               "chord": "G",
-              "text": "时 提"
+              "text": "時 提"
             },
             {
               "chord": "",
@@ -72,7 +72,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "离"
+              "text": "離"
             },
             {
               "chord": "A",
@@ -92,7 +92,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "当 我"
+              "text": "當 我"
             },
             {
               "chord": "",
@@ -104,7 +104,7 @@
             },
             {
               "chord": "G",
-              "text": "来 就"
+              "text": "來 就"
             },
             {
               "chord": "",
@@ -116,7 +116,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "无 人 如"
+              "text": "無 人 如"
             },
             {
               "chord": "C",
@@ -124,11 +124,11 @@
             },
             {
               "chord": "G",
-              "text": "抚 接"
+              "text": "撫 接"
             },
             {
               "chord": "",
-              "text": "纳；"
+              "text": "納；"
             }
           ]
         },
@@ -140,7 +140,7 @@
             },
             {
               "chord": "C",
-              "text": "乐， 解"
+              "text": "樂， 解"
             },
             {
               "chord": "",
@@ -148,7 +148,7 @@
             },
             {
               "chord": "G",
-              "text": "忧，"
+              "text": "憂，"
             }
           ]
         },
@@ -387,10 +387,11 @@
     "category": "经历基督",
     "time": "6/8",
     "hymn_code": "32143321511223",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0386_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/530",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/530",
+        "language": "en",
         "category": "h",
         "number": "530",
         "title": "E530"
@@ -399,12 +400,12 @@
   },
   "raw_sections": [
     "基 督就是 我的 世界：",
-    "生 命、 喜乐、 一切！",
-    "祂是 我力， 时时 提挈，",
-    "离祂 我就 仆跌。",
-    "当 我愁苦 我来 就祂，",
-    "无 人 如此 安抚 接纳；",
-    "使 我 心乐， 解我 心忧，",
+    "生 命、 喜樂、 一切！",
+    "祂是 我力， 時時 提挈，",
+    "離祂 我就 仆跌。",
+    "當 我愁苦 我來 就祂，",
+    "無 人 如此 安撫 接納；",
+    "使 我 心樂， 解我 心憂，",
     "祂是我 友！",
     "基督就是我的世界：",
     "百般试炼之助，",

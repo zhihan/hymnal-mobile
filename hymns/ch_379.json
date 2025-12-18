@@ -44,7 +44,7 @@
             },
             {
               "chord": "G",
-              "text": "督 从"
+              "text": "督 從"
             },
             {
               "chord": "A",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "A7",
-              "text": "复"
+              "text": "復"
             },
             {
               "chord": "D",
@@ -64,7 +64,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "远 超 一"
+              "text": "遠 超 一"
             },
             {
               "chord": "G",
@@ -84,7 +84,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "C",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "G",
-              "text": "作 万"
+              "text": "作 萬"
             },
             {
               "chord": "D",
@@ -112,11 +112,11 @@
             },
             {
               "chord": "C",
-              "text": "为 召"
+              "text": "為 召"
             },
             {
               "chord": "D",
-              "text": "会，"
+              "text": "會，"
             }
           ]
         },
@@ -128,19 +128,19 @@
             },
             {
               "chord": "G",
-              "text": "使 万"
+              "text": "使 萬"
             },
             {
               "chord": "C",
-              "text": "有 尽"
+              "text": "有 盡"
             },
             {
               "chord": "D",
-              "text": "都 来"
+              "text": "都 來"
             },
             {
               "chord": "G",
-              "text": "归。"
+              "text": "歸。"
             }
           ]
         },
@@ -156,11 +156,11 @@
             },
             {
               "chord": "D7",
-              "text": "为 召"
+              "text": "為 召"
             },
             {
               "chord": "G",
-              "text": "会，"
+              "text": "會，"
             }
           ]
         },
@@ -172,11 +172,11 @@
             },
             {
               "chord": "C",
-              "text": "使 万"
+              "text": "使 萬"
             },
             {
               "chord": "G",
-              "text": "有 尽"
+              "text": "有 盡"
             },
             {
               "chord": "D",
@@ -184,11 +184,11 @@
             },
             {
               "chord": "D7",
-              "text": "来"
+              "text": "來"
             },
             {
               "chord": "G",
-              "text": "归。"
+              "text": "歸。"
             }
           ]
         }
@@ -341,10 +341,11 @@
     "category": "经基督督",
     "time": "4/4",
     "hymn_code": "1123546721",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0379_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/500",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/500",
+        "language": "en",
         "category": "h",
         "number": "500",
         "title": "E500"
@@ -353,13 +354,13 @@
   },
   "raw_sections": [
     "何 等大 能！ 何等大力！",
-    "神使基督 从死复起，",
-    "远 超 一切， 坐在 神右，",
-    "为我 今作 万有 之首。",
-    "浩 大 能 力 全为 召会，",
-    "好使 万有 尽都 来归。",
-    "浩 大 能力 全为 召会，",
-    "好使 万有 尽都来归。",
+    "神使基督 從死復起，",
+    "遠 超 一切， 坐在 神右，",
+    "為我 今作 萬有 之首。",
+    "浩 大 能 力 全為 召會，",
+    "好使 萬有 盡都 來歸。",
+    "浩 大 能力 全為 召會，",
+    "好使 萬有 盡都來歸。",
     "何等事实！何等奥秘！",
     "我今乃是基督肢体；",
     "与众圣徒彼此相调，",

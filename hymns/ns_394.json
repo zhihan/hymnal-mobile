@@ -7,44 +7,8 @@
         {
           "segments": [
             {
-              "chord": "C",
-              "text": "The living"
-            },
-            {
-              "chord": "F",
-              "text": "vine, a"
-            },
-            {
               "chord": "",
-              "text": "reali"
-            },
-            {
-              "chord": "G",
-              "text": "ty"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "Am",
-              "text": "Of God"
-            },
-            {
-              "chord": "",
-              "text": "and"
-            },
-            {
-              "chord": "G",
-              "text": "man, one"
-            },
-            {
-              "chord": "",
-              "text": "organi"
-            },
-            {
-              "chord": "C",
-              "text": "c'lly"
+              "text": "The living vine, a reality"
             }
           ]
         },
@@ -52,31 +16,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "Mutual a"
-            },
-            {
-              "chord": "F",
-              "text": "bode, organism"
-            },
-            {
-              "chord": "G",
-              "text": "sweet."
+              "text": "Of God and man, one organically"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "Am",
-              "text": "Expression"
-            },
-            {
-              "chord": "G",
-              "text": "full, mingling"
-            },
+              "chord": "",
+              "text": "Mutual abode, organism sweet."
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "complete."
+              "text": "Expression full, mingling complete."
             }
           ]
         }
@@ -89,28 +45,8 @@
         {
           "segments": [
             {
-              "chord": "C",
-              "text": "Father,"
-            },
-            {
               "chord": "",
-              "text": "Cultiva"
-            },
-            {
-              "chord": "Am",
-              "text": "tor— Hus"
-            },
-            {
-              "chord": "F",
-              "text": "bandman,"
-            },
-            {
-              "chord": "",
-              "text": "The source"
-            },
-            {
-              "chord": "G",
-              "text": "is He."
+              "text": "When we abide, there’s a flow within."
             }
           ]
         },
@@ -118,27 +54,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Soil,"
-            },
-            {
-              "chord": "Am",
-              "text": "sunshine"
-            },
-            {
-              "chord": "",
-              "text": "and"
-            },
-            {
-              "chord": "F",
-              "text": "the air—"
-            },
-            {
-              "chord": "",
-              "text": "Nu"
-            },
-            {
-              "chord": "G",
-              "text": "trients"
+              "text": "As branches we—are expressing Him."
             }
           ]
         },
@@ -146,47 +62,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "complete."
-            },
-            {
-              "chord": "C",
-              "text": "Son, the"
-            },
-            {
-              "chord": "",
-              "text": "living vine"
-            },
-            {
-              "chord": "Am",
-              "text": "is— The"
-            },
-            {
-              "chord": "F",
-              "text": "embodiment"
+              "text": "Our God needs us, we depend on Him."
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "of God."
-            },
-            {
               "chord": "",
-              "text": "And"
-            },
-            {
-              "chord": "Am",
-              "text": "the Spirit"
-            },
-            {
-              "chord": "",
-              "text": "makes"
-            },
-            {
-              "chord": "F",
-              "text": "Him real—"
+              "text": "To bear much fruit, to bring others in."
             }
           ]
         }
@@ -200,11 +84,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "As"
-            },
-            {
-              "chord": "G",
-              "text": "the life"
+              "text": "Father, Cultivator—Husbandman,"
             }
           ]
         },
@@ -212,7 +92,55 @@
           "segments": [
             {
               "chord": "",
-              "text": "juice sweet!"
+              "text": "The source is He."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Soil, sunshine and the air—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Nutrients complete."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Son, the living vine is—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The embodiment of God."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And the Spirit makes Him real—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "As the life juice sweet!"
             }
           ]
         }
@@ -224,18 +152,25 @@
   "metadata": {
     "category": "Experience of Christ",
     "time": "4/4",
-    "hymn_code": "112134444323351222213"
+    "hymn_code": "112134444323351222213",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0394_tune.midi"
   },
   "raw_sections": [
-    "The livingvine, areality",
-    "Of Godandman, oneorganic'lly",
-    "Mutual abode, organismsweet.",
-    "Expressionfull, minglingcomplete.",
-    "Father,Cultivator— Husbandman,The sourceis He.",
-    "Soil,sunshineandthe air—Nutrients",
-    "complete.Son, theliving vineis— Theembodiment",
-    "of God.Andthe SpiritmakesHim real—",
-    "Asthe life",
-    "juice sweet!"
+    "The living vine, a reality",
+    "Of God and man, one organically",
+    "Mutual abode, organism sweet.",
+    "Expression full, mingling complete.",
+    "When we abide, there’s a flow within.",
+    "As branches we—are expressing Him.",
+    "Our God needs us, we depend on Him.",
+    "To bear much fruit, to bring others in.",
+    "Father, Cultivator—Husbandman,",
+    "The source is He.",
+    "Soil, sunshine and the air—",
+    "Nutrients complete.",
+    "Son, the living vine is—",
+    "The embodiment of God.",
+    "And the Spirit makes Him real—",
+    "As the life juice sweet!"
   ]
 }

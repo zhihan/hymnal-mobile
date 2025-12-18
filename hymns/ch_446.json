@@ -48,19 +48,19 @@
             },
             {
               "chord": "G",
-              "text": "督 将"
+              "text": "督 將"
             },
             {
               "chord": "Em",
-              "text": "我 带"
+              "text": "我 帶"
             },
             {
               "chord": "D",
-              "text": "到 这"
+              "text": "到 這"
             },
             {
               "chord": "A",
-              "text": "里；"
+              "text": "裡；"
             }
           ]
         },
@@ -72,7 +72,7 @@
             },
             {
               "chord": "A7",
-              "text": "带 我"
+              "text": "帶 我"
             },
             {
               "chord": "D",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "E7",
-              "text": "过 的"
+              "text": "過 的"
             },
             {
               "chord": "A",
@@ -104,15 +104,15 @@
             },
             {
               "chord": "G",
-              "text": "这 至"
+              "text": "這 至"
             },
             {
               "chord": "A",
-              "text": "圣 所"
+              "text": "聖 所"
             },
             {
               "chord": "Bm",
-              "text": "里 与"
+              "text": "裡 與"
             },
             {
               "chord": "A",
@@ -132,7 +132,7 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "圣 别"
+              "text": "聖 別"
             },
             {
               "chord": "",
@@ -152,7 +152,7 @@
             },
             {
               "chord": "G",
-              "text": "圣 荣"
+              "text": "聖 榮"
             },
             {
               "chord": "A7",
@@ -172,7 +172,7 @@
             },
             {
               "chord": "G",
-              "text": "此 与"
+              "text": "此 與"
             },
             {
               "chord": "D",
@@ -196,7 +196,7 @@
             },
             {
               "chord": "A7",
-              "text": "绝"
+              "text": "絕"
             },
             {
               "chord": "D",
@@ -361,10 +361,11 @@
     "category": "经历神",
     "time": "4/4",
     "hymn_code": "35432123432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0446_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/605",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/605",
+        "language": "en",
         "category": "h",
         "number": "605",
         "title": "E605"
@@ -373,13 +374,13 @@
   },
   "raw_sections": [
     "我的 居所乃是 神的 自己，",
-    "我 主基督 将我 带到 这里；",
-    "祂带 我走祂所 走过 的路，",
-    "到这 至圣 所里 与神同住。",
-    "圣 别所在！",
-    "神圣 荣美 之家，",
-    "在此 与神 同住，",
-    "至美绝佳！",
+    "我 主基督 將我 帶到 這裡；",
+    "祂帶 我走祂所 走過 的路，",
+    "到這 至聖 所裡 與神同住。",
+    "聖 別所在！",
+    "神聖 榮美 之家，",
+    "在此 與神 同住，",
+    "至美絕佳！",
     "夜以继日走过漫长的路，",
     "自己里面想要找到一途；",
     "一无所成，",

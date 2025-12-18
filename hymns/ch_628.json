@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "灵 要"
+              "text": "靈 要"
             },
             {
               "chord": "A",
-              "text": "操 练、"
+              "text": "操 練、"
             },
             {
               "chord": "D",
-              "text": "运 用，"
+              "text": "運 用，"
             }
           ]
         },
@@ -24,7 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "头 脑"
+              "text": "頭 腦"
             },
             {
               "chord": "E7",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "A",
-              "text": "绝，"
+              "text": "絕，"
             }
           ]
         },
@@ -44,7 +44,7 @@
             },
             {
               "chord": "",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "G",
@@ -60,11 +60,11 @@
             },
             {
               "chord": "A7",
-              "text": "为 秘"
+              "text": "為 祕"
             },
             {
               "chord": "D",
-              "text": "诀。"
+              "text": "訣。"
             }
           ]
         }
@@ -419,10 +419,11 @@
     "category": "聚会",
     "time": "4/4",
     "hymn_code": "11265333445",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0628_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/866",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/866",
+        "language": "en",
         "category": "h",
         "number": "866",
         "title": "E866"
@@ -430,10 +431,10 @@
     ]
   },
   "raw_sections": [
-    "灵 要操 练、运 用，",
-    "头 脑要 拒绝，",
-    "每 逢我 们聚 集，",
-    "以 此为 秘诀。",
+    "靈 要操 練、運 用，",
+    "頭 腦要 拒絕，",
+    "每 逢我 們聚 集，",
+    "以 此為 祕訣。",
     "灵要操练、运用，",
     "仪式全弃绝；",
     "彼此交通、分享，",

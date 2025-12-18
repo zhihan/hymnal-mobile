@@ -7,24 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "Lord,"
-            },
-            {
-              "chord": "G",
-              "text": "by Your"
-            },
-            {
-              "chord": "D",
-              "text": "mercy,"
-            },
-            {
-              "chord": "G",
-              "text": "I would"
-            },
-            {
-              "chord": "D",
-              "text": "take"
+              "chord": "",
+              "text": "Lord, by Your mercy, I would take"
             }
           ]
         },
@@ -32,15 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "This"
-            },
-            {
-              "chord": "G",
-              "text": "opportuni"
-            },
-            {
-              "chord": "Em",
-              "text": "ty"
+              "text": "This opportunity"
             }
           ]
         },
@@ -48,23 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "To"
-            },
-            {
-              "chord": "G",
-              "text": "let You"
-            },
-            {
-              "chord": "",
-              "text": "live Your"
-            },
-            {
-              "chord": "Em",
-              "text": "self in"
-            },
-            {
-              "chord": "",
-              "text": "me;"
+              "text": "To let You live Yourself in me;"
             }
           ]
         },
@@ -72,19 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "And"
-            },
-            {
-              "chord": "G",
-              "text": "let You,"
-            },
-            {
-              "chord": "Em",
-              "text": "Lord, gain"
-            },
-            {
-              "chord": "A7",
-              "text": "me."
+              "text": "And let You, Lord, gain me."
             }
           ]
         }
@@ -97,104 +45,48 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "Lord,"
-            },
-            {
-              "chord": "Bm",
-              "text": "save me"
-            },
-            {
-              "chord": "G",
-              "text": "from the"
-            },
-            {
-              "chord": "A",
-              "text": "past,"
+              "chord": "",
+              "text": "Lord, save me from the past,"
             }
           ]
         },
         {
           "segments": [
-            {
-              "chord": "D",
-              "text": "And"
-            },
-            {
-              "chord": "Bm",
-              "text": "save me"
-            },
-            {
-              "chord": "G",
-              "text": "from the"
-            },
-            {
-              "chord": "A",
-              "text": "future;"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "Em",
-              "text": "Yesterday"
-            },
             {
               "chord": "",
-              "text": "is"
-            },
-            {
-              "chord": "A",
-              "text": "over,"
+              "text": "And save me from the future;"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "Em",
-              "text": "Tomorrow"
-            },
-            {
               "chord": "",
-              "text": "may not"
-            },
-            {
-              "chord": "D",
-              "text": "be;"
+              "text": "Yesterday is over,"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "I only"
-            },
-            {
               "chord": "",
-              "text": "have this"
-            },
-            {
-              "chord": "A",
-              "text": "day;"
+              "text": "Tomorrow may not be;"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "I only"
-            },
+              "chord": "",
+              "text": "I only have this day;"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "have this"
-            },
-            {
-              "chord": "A",
-              "text": "moment."
+              "text": "I only have this moment."
             }
           ]
         }
@@ -206,16 +98,32 @@
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "I only"
-            },
+              "chord": "",
+              "text": "And I would hope that You would take"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "A7",
-              "text": "have this"
-            },
+              "chord": "",
+              "text": "This opportunity"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "D",
-              "text": "moment."
+              "chord": "",
+              "text": "To go as far as possible,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "As possible in me."
             }
           ]
         }
@@ -462,20 +370,24 @@
   "metadata": {
     "category": "Longings",
     "time": "4/4",
-    "hymn_code": "32151613561612"
+    "hymn_code": "32151613561612",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0494_tune.midi"
   },
   "raw_sections": [
-    "Lord,by Yourmercy,I wouldtake",
-    "Thisopportunity",
-    "Tolet Youlive Yourself inme;",
-    "Andlet You,Lord, gainme.",
-    "Lord,save mefrom thepast,",
-    "Andsave mefrom thefuture;",
-    "Yesterdayisover,",
-    "Tomorrowmay notbe;",
-    "I onlyhave thisday;",
-    "I onlyhave thismoment.",
-    "I onlyhave thismoment.",
+    "Lord, by Your mercy, I would take",
+    "This opportunity",
+    "To let You live Yourself in me;",
+    "And let You, Lord, gain me.",
+    "Lord, save me from the past,",
+    "And save me from the future;",
+    "Yesterday is over,",
+    "Tomorrow may not be;",
+    "I only have this day;",
+    "I only have this moment.",
+    "And I would hope that You would take",
+    "This opportunity",
+    "To go as far as possible,",
+    "As possible in me.",
     "Lord, save me from the past,",
     "And save me from the future;",
     "Yesterday is over,",

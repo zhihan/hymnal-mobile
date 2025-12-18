@@ -8,19 +8,19 @@
           "segments": [
             {
               "chord": "D",
-              "text": "从 伯"
+              "text": "從 伯"
             },
             {
               "chord": "D7",
-              "text": "利 恒"
+              "text": "利 恆"
             },
             {
               "chord": "",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "G",
-              "text": "动 身，"
+              "text": "動 身，"
             }
           ]
         },
@@ -28,15 +28,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "学 习"
+              "text": "學 習"
             },
             {
               "chord": "",
-              "text": "耶 稣 的 忠"
+              "text": "耶 穌 的 忠"
             },
             {
               "chord": "A",
-              "text": "贞，"
+              "text": "貞，"
             }
           ]
         },
@@ -56,7 +56,7 @@
             },
             {
               "chord": "G",
-              "text": "归 神，"
+              "text": "歸 神，"
             }
           ]
         },
@@ -68,11 +68,11 @@
             },
             {
               "chord": "A7",
-              "text": "脸 上"
+              "text": "臉 上"
             },
             {
               "chord": "",
-              "text": "满 泪"
+              "text": "滿 淚"
             },
             {
               "chord": "D",
@@ -84,11 +84,11 @@
           "segments": [
             {
               "chord": "A",
-              "text": "因 为"
+              "text": "因 為"
             },
             {
               "chord": "",
-              "text": "马 槽 那 样"
+              "text": "馬 槽 那 樣"
             },
             {
               "chord": "D",
@@ -100,19 +100,19 @@
           "segments": [
             {
               "chord": "G",
-              "text": "并 非"
+              "text": "並 非"
             },
             {
               "chord": "D",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
-              "text": "所 爱"
+              "text": "所 愛"
             },
             {
               "chord": "A",
-              "text": "视；"
+              "text": "視；"
             }
           ]
         },
@@ -124,11 +124,11 @@
             },
             {
               "chord": "D7",
-              "text": "脚 须"
+              "text": "腳 須"
             },
             {
               "chord": "",
-              "text": "与 祂"
+              "text": "與 祂"
             },
             {
               "chord": "G",
@@ -148,11 +148,11 @@
             },
             {
               "chord": "",
-              "text": "接 赏"
+              "text": "接 賞"
             },
             {
               "chord": "D",
-              "text": "赐。"
+              "text": "賜。"
             }
           ]
         }
@@ -655,10 +655,11 @@
     "category": "十字架的道路",
     "time": "4/4",
     "hymn_code": "556531165131532",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0469_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/628",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/628",
+        "language": "en",
         "category": "h",
         "number": "628",
         "title": "E628"
@@ -666,14 +667,14 @@
     ]
   },
   "raw_sections": [
-    "从 伯利 恒我 们动 身，",
-    "学 习耶 稣 的 忠贞，",
-    "跟 著祂 要完 全归 神，",
-    "但 是脸 上满 泪痕；",
-    "因 为马 槽 那 样寒 陋，",
-    "并 非我 们所 爱视；",
-    "但 是脚 须与 祂同 走，",
-    "如 果手 要接 赏赐。",
+    "從 伯利 恆我 們動 身，",
+    "學 習耶 穌 的 忠貞，",
+    "跟 著祂 要完 全歸 神，",
+    "但 是臉 上滿 淚痕；",
+    "因 為馬 槽 那 樣寒 陋，",
+    "並 非我 們所 愛視；",
+    "但 是腳 須與 祂同 走，",
+    "如 果手 要接 賞賜。",
     "经拿撒勒，这条道路，",
     "我们越走越窄小，",
     "多年劳碌无人领悟，",

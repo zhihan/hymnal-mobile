@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "G",
-              "text": "推 广，"
+              "text": "推 廣，"
             }
           ]
         },
@@ -36,7 +36,7 @@
             },
             {
               "chord": "",
-              "text": "的 涌"
+              "text": "的 湧"
             },
             {
               "chord": "D7",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "G",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "C",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "G",
-              "text": "见 证，"
+              "text": "見 證，"
             }
           ]
         },
@@ -68,7 +68,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "失 丧"
+              "text": "失 喪"
             },
             {
               "chord": "D",
@@ -102,7 +102,7 @@
             },
             {
               "chord": "",
-              "text": "涌 流"
+              "text": "湧 流"
             },
             {
               "chord": "G",
@@ -122,7 +122,7 @@
             },
             {
               "chord": "",
-              "text": "显 于"
+              "text": "顯 於"
             },
             {
               "chord": "G",
@@ -154,15 +154,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "将 人"
+              "text": "將 人"
             },
             {
               "chord": "C",
-              "text": "灵 里"
+              "text": "靈 裡"
             },
             {
               "chord": "D7",
-              "text": "来 点"
+              "text": "來 點"
             },
             {
               "chord": "G",
@@ -403,10 +403,11 @@
     "category": "传扬福音",
     "time": "3/4",
     "hymn_code": "513161655171232",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0662_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/925",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/925",
+        "language": "en",
         "category": "h",
         "number": "925",
         "title": "E925"
@@ -414,14 +415,14 @@
     ]
   },
   "raw_sections": [
-    "荣 耀福 音向 外推 广，",
-    "乃 是生 命的 涌流；",
-    "藉 著我 们活 的见 证，",
-    "失 丧罪 人蒙 拯救。",
-    "求 主使 我涌 流生 命，",
-    "使 你生 命显 于我；",
+    "榮 耀福 音向 外推 廣，",
+    "乃 是生 命的 湧流；",
+    "藉 著我 們活 的見 證，",
+    "失 喪罪 人蒙 拯救。",
+    "求 主使 我湧 流生 命，",
+    "使 你生 命顯 於我；",
     "藉 我作 你活 的器 皿，",
-    "将 人灵 里来 点活。",
+    "將 人靈 裡來 點活。",
     "生命见证，使人心服，",
     "人才肯来相信主；",
     "借我生命涌流供应，",

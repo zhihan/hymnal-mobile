@@ -16,7 +16,7 @@
             },
             {
               "chord": "C",
-              "text": "不 过"
+              "text": "不 過"
             },
             {
               "chord": "G",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "",
-              "text": "轻 视，"
+              "text": "輕 視，"
             }
           ]
         },
@@ -68,11 +68,11 @@
             },
             {
               "chord": "D",
-              "text": "终"
+              "text": "終"
             },
             {
               "chord": "A7",
-              "text": "舍"
+              "text": "捨"
             },
             {
               "chord": "D",
@@ -84,7 +84,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "从 人"
+              "text": "從 人"
             },
             {
               "chord": "D",
@@ -96,7 +96,7 @@
             },
             {
               "chord": "G",
-              "text": "历 史"
+              "text": "歷 史"
             }
           ]
         },
@@ -108,11 +108,11 @@
             },
             {
               "chord": "C",
-              "text": "已 经"
+              "text": "已 經"
             },
             {
               "chord": "G",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "D7",
@@ -403,10 +403,11 @@
     "category": "圣灵的丰满",
     "time": "4/4",
     "hymn_code": "12321765511",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0198_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8198",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8198",
+        "language": "en",
         "category": "h",
         "number": "8198",
         "title": "E8198"
@@ -414,12 +415,12 @@
     ]
   },
   "raw_sections": [
-    "世 人看 你不 过仍 是",
+    "世 人看 你不 過仍 是",
     "平 常的 拿撒 勒人，",
-    "活 在 地 上常 受轻 视，",
-    "十 字 架 上终舍身。",
-    "从 人眼 光你 的历 史",
-    "到 此已 经无下文。",
+    "活 在 地 上常 受輕 視，",
+    "十 字 架 上終捨身。",
+    "從 人眼 光你 的歷 史",
+    "到 此已 經無下文。",
     "天上情形何等不同！",
     "当你升天的时候，",
     "荣耀的神因你顺从，",

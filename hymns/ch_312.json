@@ -32,7 +32,7 @@
             },
             {
               "chord": "C",
-              "text": "愿 我"
+              "text": "願 我"
             },
             {
               "chord": "F",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "Dm",
-              "text": "动，"
+              "text": "動，"
             }
           ]
         },
@@ -76,15 +76,15 @@
             },
             {
               "chord": "F",
-              "text": "全 将"
+              "text": "全 將"
             },
             {
               "chord": "G7",
-              "text": "你 饱"
+              "text": "你 飽"
             },
             {
               "chord": "C",
-              "text": "尝。"
+              "text": "嘗。"
             }
           ]
         }
@@ -287,10 +287,11 @@
     "category": "羡慕",
     "time": "3/4",
     "hymn_code": "55554443511127",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0312_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/414",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/414",
+        "language": "en",
         "category": "h",
         "number": "414",
         "title": "E414*"
@@ -299,9 +300,9 @@
   },
   "raw_sections": [
     "恩 主，你 是 我的 安息，",
-    "深愿 我能 全享；",
-    "停下 自己 所有 活动，",
-    "完全 将你 饱尝。",
+    "深願 我能 全享；",
+    "停下 自己 所有 活動，",
+    "完全 將你 飽嘗。",
     "哦，这诡诈、残酷自己，",
     "总是挣扎努力，",
     "将你与我的灵隔开，",

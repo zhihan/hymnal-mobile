@@ -299,10 +299,11 @@
     "category": "Consecration",
     "time": "3/2",
     "hymn_code": "13332555",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0471_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/354",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/354",
+        "language": "cn",
         "category": "ch",
         "number": "354",
         "title": "C354"

@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
-              "text": "已 经 出 墓 来，"
+              "text": "已 經 出 墓 來，"
             }
           ]
         },
@@ -24,11 +24,11 @@
             },
             {
               "chord": "Em",
-              "text": "对 祂"
+              "text": "對 祂"
             },
             {
               "chord": "Am",
-              "text": "毫 无"
+              "text": "毫 無"
             },
             {
               "chord": "D",
@@ -40,11 +40,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "D",
-              "text": "应 当"
+              "text": "應 當"
             },
             {
               "chord": "Em",
@@ -60,7 +60,7 @@
           "segments": [
             {
               "chord": "Am",
-              "text": "将 祂"
+              "text": "將 祂"
             },
             {
               "chord": "",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "D7",
-              "text": "同 赞"
+              "text": "同 讚"
             },
             {
               "chord": "G",
@@ -80,7 +80,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "救 赎 工 作"
+              "text": "救 贖 工 作"
             },
             {
               "chord": "Em",
@@ -96,11 +96,11 @@
           "segments": [
             {
               "chord": "Am",
-              "text": "与 敌"
+              "text": "與 敵"
             },
             {
               "chord": "",
-              "text": "交 战"
+              "text": "交 戰"
             },
             {
               "chord": "C",
@@ -108,7 +108,7 @@
             },
             {
               "chord": "D7",
-              "text": "胜。"
+              "text": "勝。"
             }
           ]
         },
@@ -116,7 +116,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "赎 罪"
+              "text": "贖 罪"
             },
             {
               "chord": "D",
@@ -136,7 +136,7 @@
           "segments": [
             {
               "chord": "Am",
-              "text": "祂 并"
+              "text": "祂 並"
             },
             {
               "chord": "",
@@ -301,10 +301,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "153512333321322",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0107_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8107",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8107",
+        "language": "en",
         "category": "h",
         "number": "8107",
         "title": "E8107"
@@ -312,14 +313,14 @@
     ]
   },
   "raw_sections": [
-    "耶 稣已 经 出 墓 来，",
-    "死 亡对 祂毫 无害；",
-    "我 们应 当相 安慰，",
-    "将 祂的 名同 赞美。",
-    "救 赎 工 作今 作成，",
-    "与 敌交 战已 得胜。",
-    "赎 罪一 次就 清楚，",
-    "祂 并不 用多 受苦。",
+    "耶 穌已 經 出 墓 來，",
+    "死 亡對 祂毫 無害；",
+    "我 們應 當相 安慰，",
+    "將 祂的 名同 讚美。",
+    "救 贖 工 作今 作成，",
+    "與 敵交 戰已 得勝。",
+    "贖 罪一 次就 清楚，",
+    "祂 並不 用多 受苦。",
     "封墓、设兵、空画策，",
     "阴府对祂无奈何；",
     "我主暂时虽受苦，",

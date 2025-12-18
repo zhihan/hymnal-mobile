@@ -7,20 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "Forwhatever"
-            },
-            {
               "chord": "",
-              "text": "promises of God"
-            },
-            {
-              "chord": "A7",
-              "text": "there are,"
-            },
-            {
-              "chord": "",
-              "text": "In"
+              "text": "For whatever promises of God there are,"
             }
           ]
         },
@@ -28,23 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Him"
-            },
-            {
-              "chord": "Em",
-              "text": "is the"
-            },
-            {
-              "chord": "",
-              "text": "Yes;"
-            },
-            {
-              "chord": "A",
-              "text": "Forwhatev"
-            },
-            {
-              "chord": "D",
-              "text": "er"
+              "text": "In Him is the Yes;"
             }
           ]
         },
@@ -52,15 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "promises of God there"
-            },
-            {
-              "chord": "A7",
-              "text": "are, In"
-            },
-            {
-              "chord": "",
-              "text": "Him"
+              "text": "For whatever promises of God there are,"
             }
           ]
         },
@@ -68,19 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "is"
-            },
-            {
-              "chord": "Em",
-              "text": "the"
-            },
-            {
-              "chord": "A",
-              "text": "Yes. Christ"
-            },
-            {
-              "chord": "D",
-              "text": "is"
+              "text": "In Him is the Yes."
             }
           ]
         }
@@ -94,27 +46,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "G",
-              "text": "Yes, the"
-            },
-            {
-              "chord": "",
-              "text": "incar"
-            },
-            {
-              "chord": "D",
-              "text": "nate answer,"
-            },
-            {
-              "chord": "",
-              "text": "the ful"
-            },
-            {
-              "chord": "A7",
-              "text": "fillment"
+              "text": "Christ is the Yes, the incarnate answer,"
             }
           ]
         },
@@ -122,11 +54,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "of all; Christ"
-            },
-            {
-              "chord": "D",
-              "text": "is"
+              "text": "the fulfillment of all;"
             }
           ]
         },
@@ -134,27 +62,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "the Yes, the"
-            },
-            {
-              "chord": "G",
-              "text": "fulfillment"
-            },
-            {
-              "chord": "D",
-              "text": "of all"
-            },
-            {
-              "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "Bm",
-              "text": "promis"
-            },
-            {
-              "chord": "Em",
-              "text": "es"
+              "text": "Christ is the Yes, the fulfillment of all"
             }
           ]
         },
@@ -162,11 +70,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "of God to"
-            },
-            {
-              "chord": "A7",
-              "text": "us."
+              "text": "the promises of God to us."
             }
           ]
         }
@@ -252,17 +156,18 @@
   "metadata": {
     "category": "Scriptures for Singing",
     "time": "4/4",
-    "hymn_code": "54333333343222345"
+    "hymn_code": "54333333343222345",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1046_tune.midi"
   },
   "raw_sections": [
-    "Forwhateverpromises of Godthere are,In",
-    "Himis theYes;Forwhatever",
-    "promises of God thereare, InHim",
-    "istheYes. Christis",
-    "theYes, theincarnate answer,the fulfillment",
-    "of all; Christis",
-    "the Yes, thefulfillmentof allthepromises",
-    "of God tous.",
+    "For whatever promises of God there are,",
+    "In Him is the Yes;",
+    "For whatever promises of God there are,",
+    "In Him is the Yes.",
+    "Christ is the Yes, the incarnate answer,",
+    "the fulfillment of all;",
+    "Christ is the Yes, the fulfillment of all",
+    "the promises of God to us.",
     "Wherefore also through Him is the Amen,",
     "Amen to God.",
     "Wherefore also through Him is the Amen,",

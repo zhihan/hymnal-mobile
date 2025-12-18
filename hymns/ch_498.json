@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "时 常"
+              "text": "時 常"
             },
             {
               "chord": "",
-              "text": "携 带 耶 稣 的 名，"
+              "text": "攜 帶 耶 穌 的 名，"
             }
           ]
         },
@@ -20,11 +20,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "你 们"
+              "text": "你 們"
             },
             {
               "chord": "",
-              "text": "忧 愁 困 苦"
+              "text": "憂 愁 困 苦"
             },
             {
               "chord": "G",
@@ -40,11 +40,11 @@
             },
             {
               "chord": "",
-              "text": "赐 你 安 慰、"
+              "text": "賜 你 安 慰、"
             },
             {
               "chord": "G",
-              "text": "安 宁，"
+              "text": "安 寧，"
             }
           ]
         },
@@ -60,11 +60,11 @@
             },
             {
               "chord": "",
-              "text": "的 烦"
+              "text": "的 煩"
             },
             {
               "chord": "G",
-              "text": "闷。"
+              "text": "悶。"
             }
           ]
         }
@@ -78,7 +78,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "宝 贝"
+              "text": "寶 貝"
             },
             {
               "chord": "C",
@@ -110,7 +110,7 @@
             },
             {
               "chord": "D",
-              "text": "乐！"
+              "text": "樂！"
             }
           ]
         },
@@ -118,7 +118,7 @@
           "segments": [
             {
               "chord": "D7",
-              "text": "宝 贝"
+              "text": "寶 貝"
             },
             {
               "chord": "G",
@@ -150,7 +150,7 @@
             },
             {
               "chord": "G",
-              "text": "乐。"
+              "text": "樂。"
             }
           ]
         }
@@ -387,10 +387,11 @@
     "category": "试炼中的安慰",
     "time": "4/4",
     "hymn_code": "513212156176165",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0498_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/670",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/670",
+        "language": "en",
         "category": "h",
         "number": "670",
         "title": "E670"
@@ -398,14 +399,14 @@
     ]
   },
   "raw_sections": [
-    "时 常携 带 耶 稣 的 名，",
-    "你 们忧 愁 困 苦人，",
-    "祂 能赐 你 安 慰、安 宁，",
-    "除 去所 有的 烦闷。",
-    "宝 贝名， 何甘甜！",
-    "世 之望 和天 之乐！",
-    "宝 贝名，何 甘甜！",
-    "世 之望 和天 之乐。",
+    "時 常攜 帶 耶 穌 的 名，",
+    "你 們憂 愁 困 苦人，",
+    "祂 能賜 你 安 慰、安 寧，",
+    "除 去所 有的 煩悶。",
+    "寶 貝名， 何甘甜！",
+    "世 之望 和天 之樂！",
+    "寶 貝名，何 甘甜！",
+    "世 之望 和天 之樂。",
     "时常携带耶稣的名，",
     "当作藤牌敌火箭；",
     "每逢诱惑搅扰你灵，",

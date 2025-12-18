@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "和 华，"
+              "text": "和 華，"
             }
           ]
         },
@@ -20,7 +20,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 的 圣 名 在"
+              "text": "你 的 聖 名 在"
             },
             {
               "chord": "A",
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "但 愿 各 民、 各 族、 各 方，"
+              "text": "但 願 各 民、 各 族、 各 方，"
             }
           ]
         },
@@ -52,15 +52,15 @@
             },
             {
               "chord": "E7",
-              "text": "扬 你"
+              "text": "揚 你"
             },
             {
               "chord": "",
-              "text": "名 宝"
+              "text": "名 寶"
             },
             {
               "chord": "A",
-              "text": "贝。"
+              "text": "貝。"
             }
           ]
         },
@@ -68,15 +68,15 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "从"
+              "text": "從"
             },
             {
               "chord": "D",
-              "text": "婴 孩，"
+              "text": "嬰 孩，"
             },
             {
               "chord": "",
-              "text": "吃 奶"
+              "text": "喫 奶"
             },
             {
               "chord": "A",
@@ -92,7 +92,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 建 立 了 赞"
+              "text": "你 建 立 了 讚"
             },
             {
               "chord": "A",
@@ -112,7 +112,7 @@
             },
             {
               "chord": "",
-              "text": "敌 闭 口 无"
+              "text": "敵 閉 口 無"
             },
             {
               "chord": "G",
@@ -124,11 +124,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "敌"
+              "text": "敵"
             },
             {
               "chord": "D",
-              "text": "权 速"
+              "text": "權 速"
             },
             {
               "chord": "A",
@@ -140,7 +140,7 @@
             },
             {
               "chord": "D",
-              "text": "溃。"
+              "text": "潰。"
             }
           ]
         }
@@ -441,10 +441,11 @@
     "category": "赞美的话",
     "time": "4/2",
     "hymn_code": "513331355553222123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0003_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1097",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1097",
+        "language": "en",
         "category": "h",
         "number": "1097",
         "title": "E1097"
@@ -452,14 +453,14 @@
     ]
   },
   "raw_sections": [
-    "主 耶和 华，",
-    "你 的 圣 名 在全 地何 其美！",
-    "但 愿 各 民、 各 族、 各 方，",
-    "宣扬 你名 宝贝。",
-    "从婴 孩，吃 奶者 口中，",
-    "你 建 立 了 赞美，",
-    "使你 仇敌 闭 口 无言，",
-    "敌权 速速崩溃。",
+    "主 耶和 華，",
+    "你 的 聖 名 在全 地何 其美！",
+    "但 願 各 民、 各 族、 各 方，",
+    "宣揚 你名 寶貝。",
+    "從嬰 孩，喫 奶者 口中，",
+    "你 建 立 了 讚美，",
+    "使你 仇敵 閉 口 無言，",
+    "敵權 速速崩潰。",
     "当我夜间观看诸天，",
     "你指头的工作─",
     "月亮、星宿暗中放明，",

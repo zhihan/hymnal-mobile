@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "G",
-              "text": "哦， 满"
+              "text": "哦， 滿"
             },
             {
               "chord": "",
-              "text": "了 伤 痕"
+              "text": "了 傷 痕"
             },
             {
               "chord": "D",
-              "text": "的 头，"
+              "text": "的 頭，"
             }
           ]
         },
@@ -24,11 +24,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "满 了 痛 苦、 谇"
+              "text": "滿 了 痛 苦、 誶"
             },
             {
               "chord": "G",
-              "text": "诟，"
+              "text": "詬，"
             }
           ]
         },
@@ -36,11 +36,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "受 尽 万 般 的"
+              "text": "受 盡 萬 般 的"
             },
             {
               "chord": "C",
-              "text": "试 炼，"
+              "text": "試 煉，"
             }
           ]
         },
@@ -52,7 +52,7 @@
             },
             {
               "chord": "D",
-              "text": "戴 荆"
+              "text": "戴 荊"
             },
             {
               "chord": "",
@@ -68,11 +68,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "这"
+              "text": "這"
             },
             {
               "chord": "C",
-              "text": "头 今"
+              "text": "頭 今"
             },
             {
               "chord": "",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "G",
-              "text": "得 荣，"
+              "text": "得 榮，"
             }
           ]
         },
@@ -92,7 +92,7 @@
             },
             {
               "chord": "A",
-              "text": "得 圣"
+              "text": "得 聖"
             },
             {
               "chord": "",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "D",
-              "text": "诵，"
+              "text": "誦，"
             }
           ]
         },
@@ -112,7 +112,7 @@
             },
             {
               "chord": "B7",
-              "text": "怜 当"
+              "text": "憐 當"
             },
             {
               "chord": "",
@@ -120,7 +120,7 @@
             },
             {
               "chord": "C",
-              "text": "死 伤，"
+              "text": "死 傷，"
             }
           ]
         },
@@ -136,7 +136,7 @@
             },
             {
               "chord": "D7",
-              "text": "木 头"
+              "text": "木 頭"
             },
             {
               "chord": "G",
@@ -363,10 +363,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "5117122522123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0082_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/95",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/95",
+        "language": "en",
         "category": "h",
         "number": "95",
         "title": "E95"
@@ -374,14 +375,14 @@
     ]
   },
   "raw_sections": [
-    "哦， 满了 伤 痕的 头，",
-    "满 了 痛 苦、 谇诟，",
-    "受 尽 万 般 的试 炼，",
-    "又戴 荆棘 冠冕；",
-    "这头 今日 已得 荣，",
-    "已得 圣徒 歌诵，",
-    "可怜 当日 受死 伤，",
-    "在加 略木 头上。",
+    "哦， 滿了 傷 痕的 頭，",
+    "滿 了 痛 苦、 誶詬，",
+    "受 盡 萬 般 的試 煉，",
+    "又戴 荊棘 冠冕；",
+    "這頭 今日 已得 榮，",
+    "已得 聖徒 歌誦，",
+    "可憐 當日 受死 傷，",
+    "在加 略木 頭上。",
     "你的面容原超凡，",
     "如同光明太阳，",
     "父神一见就悦纳，",

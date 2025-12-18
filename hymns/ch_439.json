@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "我 心 因 欢 乐 而 歌 唱，"
+              "text": "我 心 因 歡 樂 而 歌 唱，"
             }
           ]
         },
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "亲 爱 的 主， 前"
+              "text": "親 愛 的 主， 前"
             },
             {
               "chord": "B7",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "",
-              "text": "为 我"
+              "text": "為 我"
             },
             {
               "chord": "D7",
@@ -457,10 +457,11 @@
     "category": "经历基督",
     "time": "4/4",
     "hymn_code": "1765545635",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0439_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8439",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8439",
+        "language": "en",
         "category": "h",
         "number": "8439",
         "title": "E8439"
@@ -468,10 +469,10 @@
     ]
   },
   "raw_sections": [
-    "今 日我 心 因 欢 乐 而 歌 唱，",
+    "今 日我 心 因 歡 樂 而 歌 唱，",
     "我 主， 因你 是我 生命、 安康；",
-    "亲 爱 的 主， 前途 我全 藉你，",
-    "我 也 知道 父神 是为 我的。",
+    "親 愛 的 主， 前途 我全 藉你，",
+    "我 也 知道 父神 是為 我的。",
     "都 因 著你！",
     "都 因 著你！",
     "都 因 著各 各他！",

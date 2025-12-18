@@ -16,11 +16,11 @@
             },
             {
               "chord": "E",
-              "text": "护 侍"
+              "text": "護 侍"
             },
             {
               "chord": "A",
-              "text": "从，"
+              "text": "從，"
             }
           ]
         },
@@ -40,7 +40,7 @@
             },
             {
               "chord": "E",
-              "text": "师；"
+              "text": "師；"
             }
           ]
         },
@@ -56,7 +56,7 @@
             },
             {
               "chord": "",
-              "text": "我 诚"
+              "text": "我 誠"
             },
             {
               "chord": "D",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "A",
-              "text": "前 为"
+              "text": "前 為"
             },
             {
               "chord": "E",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "E7",
-              "text": "办"
+              "text": "辦"
             },
             {
               "chord": "A",
@@ -329,10 +329,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "5565565321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0153_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/201",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/201",
+        "language": "en",
         "category": "h",
         "number": "201",
         "title": "E201"
@@ -340,10 +341,10 @@
     ]
   },
   "raw_sections": [
-    "主， 你是 我 照护 侍从，",
-    "也是 我保 惠师；",
-    "你又 是我 诚信 中保，",
-    "神前 为我办事。",
+    "主， 你是 我 照護 侍從，",
+    "也是 我保 惠師；",
+    "你又 是我 誠信 中保，",
+    "神前 為我辦事。",
     "你是我的辩护顾问，",
     "也是我辩护者；",
     "是我凡事的代祷者，",

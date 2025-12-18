@@ -16,11 +16,11 @@
             },
             {
               "chord": "",
-              "text": "诗 歌"
+              "text": "詩 歌"
             },
             {
               "chord": "A",
-              "text": "我 爱"
+              "text": "我 愛"
             },
             {
               "chord": "D",
@@ -36,11 +36,11 @@
             },
             {
               "chord": "Bm",
-              "text": "从 我"
+              "text": "從 我"
             },
             {
               "chord": "",
-              "text": "被 赎"
+              "text": "被 贖"
             },
             {
               "chord": "A",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "",
-              "text": "赎 主，"
+              "text": "贖 主，"
             },
             {
               "chord": "A",
@@ -80,11 +80,11 @@
             },
             {
               "chord": "G",
-              "text": "从 我"
+              "text": "從 我"
             },
             {
               "chord": "A7",
-              "text": "被 赎"
+              "text": "被 贖"
             },
             {
               "chord": "D",
@@ -102,7 +102,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "自 从 我 被 赎"
+              "text": "自 從 我 被 贖"
             },
             {
               "chord": "A",
@@ -118,11 +118,11 @@
             },
             {
               "chord": "Em",
-              "text": "从 我"
+              "text": "從 我"
             },
             {
               "chord": "",
-              "text": "被 赎"
+              "text": "被 贖"
             },
             {
               "chord": "A7",
@@ -142,7 +142,7 @@
             },
             {
               "chord": "A",
-              "text": "名 夸"
+              "text": "名 誇"
             },
             {
               "chord": "D",
@@ -154,7 +154,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "自 从 我 被 赎"
+              "text": "自 從 我 被 贖"
             },
             {
               "chord": "A",
@@ -178,7 +178,7 @@
             },
             {
               "chord": "A7",
-              "text": "名 夸"
+              "text": "名 誇"
             },
             {
               "chord": "D",
@@ -526,10 +526,11 @@
     "category": "赞美的话",
     "time": "4/4",
     "hymn_code": "5123456543133215",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0018_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/302",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/302",
+        "language": "en",
         "category": "h",
         "number": "302",
         "title": "E302"
@@ -537,15 +538,15 @@
     ]
   },
   "raw_sections": [
-    "我有 一诗 歌我 爱唱，",
-    "自从 我被 赎回，",
-    "唱我 救赎 主，救 主，王，",
-    "自从 我被 赎回。",
-    "自 从 我 被 赎回，",
-    "自从 我被 赎回，",
-    "我 要靠 主名 夸耀；",
-    "自 从 我 被 赎回，",
-    "我 要靠 救主 的名 夸耀。",
+    "我有 一詩 歌我 愛唱，",
+    "自從 我被 贖回，",
+    "唱我 救贖 主，救 主，王，",
+    "自從 我被 贖回。",
+    "自 從 我 被 贖回，",
+    "自從 我被 贖回，",
+    "我 要靠 主名 誇耀；",
+    "自 從 我 被 贖回，",
+    "我 要靠 救主 的名 誇耀。",
     "我有一基督能满足，",
     "自从我被赎回；",
     "行祂旨意是我所慕，",

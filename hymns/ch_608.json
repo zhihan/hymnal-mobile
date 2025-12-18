@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "气 向"
+              "text": "氣 向"
             },
             {
               "chord": "G",
@@ -40,11 +40,11 @@
             },
             {
               "chord": "",
-              "text": "骨， 脱"
+              "text": "骨， 脫"
             },
             {
               "chord": "E7",
-              "text": "节 离"
+              "text": "節 離"
             },
             {
               "chord": "A",
@@ -64,15 +64,15 @@
             },
             {
               "chord": "A",
-              "text": "来 复"
+              "text": "來 復"
             },
             {
               "chord": "D",
-              "text": "苏 并"
+              "text": "甦 並"
             },
             {
               "chord": "G",
-              "text": "带 回，"
+              "text": "帶 回，"
             }
           ]
         },
@@ -92,11 +92,11 @@
             },
             {
               "chord": "A",
-              "text": "体"
+              "text": "體"
             },
             {
               "chord": "A7",
-              "text": "里"
+              "text": "裡"
             },
             {
               "chord": "D",
@@ -265,10 +265,11 @@
     "category": "召会",
     "time": "3/4",
     "hymn_code": "53435321261765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0608_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/843",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/843",
+        "language": "en",
         "category": "h",
         "number": "843",
         "title": "E843"
@@ -276,10 +277,10 @@
     ]
   },
   "raw_sections": [
-    "哦 主，生命 之气 向我 吹！",
-    "我如 枯骨， 脱节 离散，",
-    "需要 你来 复苏 并带 回，",
-    "使我 活在 身体里面。",
+    "哦 主，生命 之氣 向我 吹！",
+    "我如 枯骨， 脫節 離散，",
+    "需要 你來 復甦 並帶 回，",
+    "使我 活在 身體裡面。",
     "哦主，生命之气向我吹！",
     "我灵关闭，禁锢重重，",
     "需要你来释放并解围，",

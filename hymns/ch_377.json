@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "荣 耀！"
+              "text": "榮 耀！"
             },
             {
               "chord": "D7",
-              "text": "荣 耀！"
+              "text": "榮 耀！"
             }
           ]
         },
@@ -36,11 +36,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "荣 耀！"
+              "text": "榮 耀！"
             },
             {
               "chord": "A7",
-              "text": "荣 耀！"
+              "text": "榮 耀！"
             }
           ]
         },
@@ -48,15 +48,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "圣 灵"
+              "text": "聖 靈"
             },
             {
               "chord": "D",
-              "text": "来 引"
+              "text": "來 引"
             },
             {
               "chord": "D7",
-              "text": "领，"
+              "text": "領，"
             }
           ]
         },
@@ -64,11 +64,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "无 力"
+              "text": "無 力"
             },
             {
               "chord": "",
-              "text": "变 为"
+              "text": "變 為"
             },
             {
               "chord": "G7",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "",
-              "text": "变 光"
+              "text": "變 光"
             },
             {
               "chord": "Am",
@@ -96,11 +96,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "荣 耀！"
+              "text": "榮 耀！"
             },
             {
               "chord": "",
-              "text": "荣 耀！"
+              "text": "榮 耀！"
             }
           ]
         },
@@ -199,10 +199,11 @@
     "category": "经历基督",
     "time": "4/4",
     "hymn_code": "335427113662321765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0377_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1356",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1356",
+        "language": "en",
         "category": "h",
         "number": "1356",
         "title": "E1356"
@@ -210,13 +211,13 @@
     ]
   },
   "raw_sections": [
-    "荣 耀！荣 耀！",
+    "榮 耀！榮 耀！",
     "基 督作 生命，",
-    "荣 耀！荣 耀！",
-    "圣 灵来 引领，",
-    "无 力变 为有 能，",
-    "黑 暗变 光明，",
-    "荣 耀！荣 耀！",
+    "榮 耀！榮 耀！",
+    "聖 靈來 引領，",
+    "無 力變 為有 能，",
+    "黑 暗變 光明，",
+    "榮 耀！榮 耀！",
     "基 督作 生命。",
     "荣耀！荣耀！",
     "靠着主而生，",

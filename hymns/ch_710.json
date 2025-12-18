@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "叩 门，"
+              "text": "叩 門，"
             },
             {
               "chord": "",
-              "text": "叩 门， 谁 在 外？"
+              "text": "叩 門， 誰 在 外？"
             }
           ]
         },
@@ -40,11 +40,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "远 来"
+              "text": "遠 來"
             },
             {
               "chord": "",
-              "text": "佳 客 君 尊 气 概，"
+              "text": "佳 客 君 尊 氣 概，"
             }
           ]
         },
@@ -52,7 +52,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "生 平 未 见 这 丰"
+              "text": "生 平 未 見 這 丰"
             },
             {
               "chord": "A",
@@ -84,11 +84,11 @@
             },
             {
               "chord": "A7",
-              "text": "把 门"
+              "text": "把 門"
             },
             {
               "chord": "D",
-              "text": "开？"
+              "text": "開？"
             }
           ]
         }
@@ -209,10 +209,11 @@
     "category": "福音",
     "time": "4/4",
     "hymn_code": "3333543222243212323453",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0710_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8710",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8710",
+        "language": "en",
         "category": "h",
         "number": "8710",
         "title": "E8710"
@@ -220,12 +221,12 @@
     ]
   },
   "raw_sections": [
-    "叩 门，叩 门， 谁 在 外？",
+    "叩 門，叩 門， 誰 在 外？",
     "等 著，等 著，何 忍耐！",
-    "远 来佳 客 君 尊 气 概，",
-    "生 平 未 见 这 丰采；",
+    "遠 來佳 客 君 尊 氣 概，",
+    "生 平 未 見 這 丰采；",
     "我 的心 阿， 既 感 奇 哉，",
-    "何 不立 即把 门开？",
+    "何 不立 即把 門開？",
     "叩门，叩门，还在外！",
     "等着，等着，真忍耐！",
     "但是这门还是难开，",

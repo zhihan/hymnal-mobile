@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "启 示"
+              "text": "啟 示"
             },
             {
               "chord": "A",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "",
-              "text": "认 识"
+              "text": "認 識"
             },
             {
               "chord": "A",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "D",
-              "text": "体；"
+              "text": "體；"
             }
           ]
         },
@@ -52,7 +52,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "愿 主 恩 典"
+              "text": "願 主 恩 典"
             },
             {
               "chord": "A",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "A7",
-              "text": "尘"
+              "text": "塵"
             },
             {
               "chord": "D",
@@ -92,7 +92,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "逐 时 逐 日"
+              "text": "逐 時 逐 日"
             },
             {
               "chord": "G",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "D",
-              "text": "胜，"
+              "text": "勝，"
             }
           ]
         },
@@ -112,7 +112,7 @@
             },
             {
               "chord": "G",
-              "text": "终 无"
+              "text": "終 無"
             },
             {
               "chord": "D",
@@ -124,7 +124,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "善 虽 愿 意"
+              "text": "善 雖 願 意"
             },
             {
               "chord": "A",
@@ -132,7 +132,7 @@
             },
             {
               "chord": "",
-              "text": "来，"
+              "text": "來，"
             }
           ]
         },
@@ -140,15 +140,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "恶 虽"
+              "text": "惡 雖"
             },
             {
               "chord": "",
-              "text": "恨 恶"
+              "text": "恨 惡"
             },
             {
               "chord": "A",
-              "text": "脱"
+              "text": "脫"
             },
             {
               "chord": "A7",
@@ -156,7 +156,7 @@
             },
             {
               "chord": "D",
-              "text": "开。"
+              "text": "開。"
             }
           ]
         }
@@ -589,10 +589,11 @@
     "category": "羡慕",
     "time": "6/8",
     "hymn_code": "33312223354321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0309_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/412",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/412",
+        "language": "en",
         "category": "h",
         "number": "412",
         "title": "E412"
@@ -600,14 +601,14 @@
     ]
   },
   "raw_sections": [
-    "求 主启 示主 自己，",
-    "使 我认 识我肉体；",
-    "愿 主 恩 典大 作工，",
-    "使 我俯 伏灰尘中。",
-    "逐 时 逐 日我 求胜，",
-    "一 生 一 世终 无能，",
-    "善 虽 愿 意作 不来，",
-    "恶 虽恨 恶脱不开。",
+    "求 主啟 示主 自己，",
+    "使 我認 識我肉體；",
+    "願 主 恩 典大 作工，",
+    "使 我俯 伏灰塵中。",
+    "逐 時 逐 日我 求勝，",
+    "一 生 一 世終 無能，",
+    "善 雖 願 意作 不來，",
+    "惡 雖恨 惡脫不開。",
     "里面意思虽要神，",
     "外头行为总可恨；",
     "爱莫能助将奈何！",

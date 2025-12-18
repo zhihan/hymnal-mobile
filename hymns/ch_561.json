@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "『凭"
+              "text": "『憑"
             },
             {
               "chord": "E7",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "E7",
-              "text": "来 祷"
+              "text": "來 禱"
             },
             {
               "chord": "A",
@@ -64,11 +64,11 @@
             },
             {
               "chord": "E7",
-              "text": "听 主"
+              "text": "聽 主"
             },
             {
               "chord": "A",
-              "text": "答 应："
+              "text": "答 應："
             },
             {
               "chord": "D",
@@ -247,10 +247,11 @@
     "category": "祷告",
     "time": "3/4",
     "hymn_code": "355117665",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0561_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/776",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/776",
+        "language": "en",
         "category": "h",
         "number": "776",
         "title": "E776"
@@ -258,10 +259,10 @@
     ]
   },
   "raw_sections": [
-    "『凭信心 求，』奉 主",
+    "『憑信心 求，』奉 主",
     "的 名，施 恩",
-    "座 前来 祷告； 你若",
-    "相 信，听 主答 应：看 哪，",
+    "座 前來 禱告； 你若",
+    "相 信，聽 主答 應：看 哪，",
     "小子，已成了。",
     "‘凭信心求，’",
     "神要成就",

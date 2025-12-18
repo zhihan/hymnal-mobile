@@ -464,10 +464,11 @@
     "category": "Worship of the Father",
     "time": "3/4",
     "hymn_code": "11235655355324323",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0028_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/24",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/24",
+        "language": "cn",
         "category": "ch",
         "number": "24",
         "title": "C24"

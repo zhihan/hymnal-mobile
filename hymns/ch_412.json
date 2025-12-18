@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "我 今 凭 信"
+              "text": "我 今 憑 信"
             },
             {
               "chord": "G",
@@ -28,7 +28,7 @@
             },
             {
               "chord": "G7",
-              "text": "供 给"
+              "text": "供 給"
             },
             {
               "chord": "",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "C",
-              "text": "头；"
+              "text": "頭；"
             }
           ]
         },
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "凭 信 取 用"
+              "text": "憑 信 取 用"
             },
             {
               "chord": "G",
@@ -64,11 +64,11 @@
             },
             {
               "chord": "D",
-              "text": "宝 血"
+              "text": "寶 血"
             },
             {
               "chord": "D7",
-              "text": "来 领"
+              "text": "來 領"
             },
             {
               "chord": "G",
@@ -98,7 +98,7 @@
             },
             {
               "chord": "C",
-              "text": "供 应，"
+              "text": "供 應，"
             }
           ]
         },
@@ -110,11 +110,11 @@
             },
             {
               "chord": "G7",
-              "text": "你 灵"
+              "text": "你 靈"
             },
             {
               "chord": "",
-              "text": "的 运"
+              "text": "的 運"
             },
             {
               "chord": "C",
@@ -126,15 +126,15 @@
           "segments": [
             {
               "chord": "C7",
-              "text": "你 灵"
+              "text": "你 靈"
             },
             {
               "chord": "F",
-              "text": "将 我"
+              "text": "將 我"
             },
             {
               "chord": "",
-              "text": "纯 洁、"
+              "text": "純 潔、"
             },
             {
               "chord": "C",
@@ -150,7 +150,7 @@
             },
             {
               "chord": "G7",
-              "text": "你 丰"
+              "text": "你 豐"
             },
             {
               "chord": "C",
@@ -391,10 +391,11 @@
     "category": "经历基督",
     "time": "3/4",
     "hymn_code": "334321222344323",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0412_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/559",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/559",
+        "language": "en",
         "category": "h",
         "number": "559",
         "title": "E559"
@@ -402,14 +403,14 @@
     ]
   },
   "raw_sections": [
-    "恩 主，我 今 凭 信摸 你，",
-    "你 是供 给的 源头；",
-    "凭 信 取 用你 的能 力，",
-    "藉 你宝 血来 领受。",
-    "摸 你，就 得生 命供 应，",
-    "藉 著你 灵的 运行；",
-    "你 灵将 我纯 洁、充 盈，",
-    "使 我 得 享你 丰盛。",
+    "恩 主，我 今 憑 信摸 你，",
+    "你 是供 給的 源頭；",
+    "憑 信 取 用你 的能 力，",
+    "藉 你寶 血來 領受。",
+    "摸 你，就 得生 命供 應，",
+    "藉 著你 靈的 運行；",
+    "你 靈將 我純 潔、充 盈，",
+    "使 我 得 享你 豐盛。",
     "凭信取用，凭信摸你，",
     "凭信应用你丰富；",
     "我的全人向你开启，",

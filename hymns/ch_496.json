@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "当 我"
+              "text": "當 我"
             },
             {
               "chord": "",
-              "text": "遇 见 试"
+              "text": "遇 見 試"
             },
             {
               "chord": "A",
-              "text": "炼 灾"
+              "text": "煉 災"
             },
             {
               "chord": "",
@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "经"
+              "text": "經"
             },
             {
               "chord": "A7",
-              "text": "过 荆"
+              "text": "過 荊"
             },
             {
               "chord": "",
@@ -52,7 +52,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 有 一 个"
+              "text": "我 有 一 個"
             },
             {
               "chord": "D7",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "A",
-              "text": "怀 念"
+              "text": "懷 念"
             },
             {
               "chord": "D",
@@ -98,7 +98,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "主， 你 正 怀 念"
+              "text": "主， 你 正 懷 念"
             },
             {
               "chord": "A",
@@ -118,7 +118,7 @@
             },
             {
               "chord": "",
-              "text": "怀 念"
+              "text": "懷 念"
             },
             {
               "chord": "D",
@@ -130,7 +130,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 怕 甚 么？"
+              "text": "我 怕 甚 麼？"
             }
           ]
         },
@@ -142,7 +142,7 @@
             },
             {
               "chord": "G",
-              "text": "你 亲"
+              "text": "你 親"
             },
             {
               "chord": "",
@@ -154,15 +154,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "并"
+              "text": "並"
             },
             {
               "chord": "D",
-              "text": "且 还"
+              "text": "且 還"
             },
             {
               "chord": "A",
-              "text": "怀"
+              "text": "懷"
             },
             {
               "chord": "A7",
@@ -348,10 +348,11 @@
     "category": "试炼中的安慰",
     "time": "3/4",
     "hymn_code": "553312177554423211",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0496_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/698",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/698",
+        "language": "en",
         "category": "h",
         "number": "698",
         "title": "E698"
@@ -359,15 +360,15 @@
     ]
   },
   "raw_sections": [
-    "当 我遇 见 试炼 灾殃，",
-    "经过 荆棘 豺狼 之疆，",
-    "我 有 一 个甘美 思想，",
-    "就是 主怀 念我。",
-    "主， 你 正 怀 念我！",
-    "主，你 正怀 念我！",
-    "我 怕 甚 么？",
-    "有你 亲近，",
-    "并且 还怀念我！",
+    "當 我遇 見 試煉 災殃，",
+    "經過 荊棘 豺狼 之疆，",
+    "我 有 一 個甘美 思想，",
+    "就是 主懷 念我。",
+    "主， 你 正 懷 念我！",
+    "主，你 正懷 念我！",
+    "我 怕 甚 麼？",
+    "有你 親近，",
+    "並且 還懷念我！",
     "今生忧虑、苦难、折磨，",
     "使我心思都变昏黑，",
     "但是苦境使我记得：",

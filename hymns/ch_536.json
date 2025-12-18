@@ -20,11 +20,11 @@
             },
             {
               "chord": "D",
-              "text": "圣 的"
+              "text": "聖 的"
             },
             {
               "chord": "G",
-              "text": "原 则，"
+              "text": "原 則，"
             }
           ]
         },
@@ -44,7 +44,7 @@
             },
             {
               "chord": "E7",
-              "text": "相 调"
+              "text": "相 調"
             },
             {
               "chord": "A",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "D",
-              "text": "者 调"
+              "text": "者 調"
             },
             {
               "chord": "A",
@@ -68,11 +68,11 @@
             },
             {
               "chord": "D",
-              "text": "个 奥"
+              "text": "個 奧"
             },
             {
               "chord": "G",
-              "text": "秘 人，"
+              "text": "祕 人，"
             }
           ]
         },
@@ -84,11 +84,11 @@
             },
             {
               "chord": "D",
-              "text": "神 计"
+              "text": "神 計"
             },
             {
               "chord": "",
-              "text": "画， 共"
+              "text": "畫， 共"
             },
             {
               "chord": "A",
@@ -303,10 +303,11 @@
     "category": "里面生命的各方面",
     "time": "3/4",
     "hymn_code": "53435321261765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0536_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/740",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/740",
+        "language": "en",
         "category": "h",
         "number": "740",
         "title": "E740"
@@ -314,10 +315,10 @@
     ]
   },
   "raw_sections": [
-    "神 成肉身 神圣 的原 则，",
-    "乃是 神人 互相 调和；",
-    "二者 调成 一个 奥秘 人，",
-    "照神 计划， 共同生活。",
+    "神 成肉身 神聖 的原 則，",
+    "乃是 神人 互相 調和；",
+    "二者 調成 一個 奧祕 人，",
+    "照神 計畫， 共同生活。",
     "人是神在外面的表现，",
     "神是人里面的生命；",
     "人是完全为神所占有，",

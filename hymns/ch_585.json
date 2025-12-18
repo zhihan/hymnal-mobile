@@ -12,11 +12,11 @@
             },
             {
               "chord": "A",
-              "text": "静 中"
+              "text": "靜 中"
             },
             {
               "chord": "D",
-              "text": "发 言，"
+              "text": "發 言，"
             }
           ]
         },
@@ -24,7 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "当 我"
+              "text": "當 我"
             },
             {
               "chord": "E7",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "G",
-              "text": "静 听，"
+              "text": "靜 聽，"
             }
           ]
         },
@@ -305,10 +305,11 @@
     "category": "读经",
     "time": "4/4",
     "hymn_code": "11265333445",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0585_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/809",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/809",
+        "language": "en",
         "category": "h",
         "number": "809",
         "title": "E809"
@@ -316,9 +317,9 @@
     ]
   },
   "raw_sections": [
-    "求 主静 中发 言，",
-    "当 我在 等候；",
-    "我 心在 此静 听，",
+    "求 主靜 中發 言，",
+    "當 我在 等候；",
+    "我 心在 此靜 聽，",
     "望 允我 所求。",
     "恩主，求来发言，",
     "在这安静时；",

@@ -7,80 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "He brought"
-            },
-            {
               "chord": "",
-              "text": "me in, into His"
-            },
-            {
-              "chord": "Em",
-              "text": "banqueting"
-            },
-            {
-              "chord": "A",
-              "text": "house,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "Em",
-              "text": "And His"
-            },
-            {
-              "chord": "",
-              "text": "banner"
-            },
-            {
-              "chord": "A7",
-              "text": "high over"
-            },
-            {
-              "chord": "D",
-              "text": "me was"
-            },
-            {
-              "chord": "",
-              "text": "just"
-            },
-            {
-              "chord": "D7",
-              "text": "love."
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "G",
-              "text": "Here I'm"
-            },
-            {
-              "chord": "",
-              "text": "re"
-            },
-            {
-              "chord": "Em",
-              "text": "freshed and"
-            },
-            {
-              "chord": "",
-              "text": "sus"
-            },
-            {
-              "chord": "D",
-              "text": "tained by"
-            },
-            {
-              "chord": "",
-              "text": "His"
-            },
-            {
-              "chord": "Bm",
-              "text": "love,"
+              "text": "He brought me in, into His banqueting house,"
             }
           ]
         },
@@ -88,27 +16,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "For I'm"
-            },
-            {
-              "chord": "Em",
-              "text": "sick, sick"
-            },
-            {
-              "chord": "",
-              "text": "with"
-            },
-            {
-              "chord": "A7",
-              "text": "love, in"
-            },
+              "text": "And His banner high over me was just love."
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "love with"
-            },
+              "text": "Here I’m refreshed and sustained by His love,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "D",
-              "text": "Him."
+              "chord": "",
+              "text": "For I’m sick, sick with love, in love with Him."
             }
           ]
         }
@@ -121,7 +45,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "His left hand is under my head, And"
+              "text": "Sustain me love with the sweet raisin cakes,"
             }
           ]
         },
@@ -129,23 +53,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "His right hand"
-            },
-            {
-              "chord": "Em",
-              "text": "embraces"
-            },
-            {
-              "chord": "A",
-              "text": "me."
-            },
-            {
-              "chord": "A7",
-              "text": "I am"
-            },
-            {
-              "chord": "",
-              "text": "held"
+              "text": "And refresh me with the apples so sweet,"
             }
           ]
         },
@@ -153,15 +61,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "and embraced by Him, Oh daughters of"
-            },
-            {
-              "chord": "D",
-              "text": "Jerusalem."
-            },
-            {
-              "chord": "",
-              "text": "He"
+              "text": "Here I am conquered by Your sweet, sweet love,"
             }
           ]
         },
@@ -169,23 +69,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "brought me into His"
-            },
-            {
-              "chord": "D7",
-              "text": "banqueting"
-            },
-            {
-              "chord": "",
-              "text": "house, And His"
-            },
-            {
-              "chord": "G",
-              "text": "banner"
-            },
-            {
-              "chord": "",
-              "text": "over"
+              "text": "For I’m sick, sick with love, in love with You."
             }
           ]
         }
@@ -197,20 +81,8 @@
         {
           "segments": [
             {
-              "chord": "Em",
-              "text": "me was"
-            },
-            {
-              "chord": "D",
-              "text": "love, I'm"
-            },
-            {
-              "chord": "A",
-              "text": "sick with"
-            },
-            {
-              "chord": "G",
-              "text": "love"
+              "chord": "",
+              "text": "His left hand is under my head,"
             }
           ]
         },
@@ -218,11 +90,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "for"
-            },
+              "text": "And His right hand embraces me."
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "D",
-              "text": "Him."
+              "chord": "",
+              "text": "I am held and embraced by Him,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Oh daughters of Jerusalem."
             }
           ]
         }
@@ -262,19 +146,22 @@
   "metadata": {
     "category": "Scriptures for Singing",
     "time": "3/4",
-    "hymn_code": "3321123443244322345543"
+    "hymn_code": "3321123443244322345543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0479_tune.midi"
   },
   "raw_sections": [
-    "He broughtme in, into Hisbanquetinghouse,",
-    "And Hisbannerhigh overme wasjustlove.",
-    "Here I'mrefreshed andsustained byHislove,",
-    "For I'msick, sickwithlove, inlove withHim.",
-    "His left hand is under my head, And",
-    "His right handembracesme.I amheld",
-    "and embraced by Him, Oh daughters ofJerusalem.He",
-    "brought me into Hisbanquetinghouse, And Hisbannerover",
-    "me waslove, I'msick withlove",
-    "forHim.",
+    "He brought me in, into His banqueting house,",
+    "And His banner high over me was just love.",
+    "Here I’m refreshed and sustained by His love,",
+    "For I’m sick, sick with love, in love with Him.",
+    "Sustain me love with the sweet raisin cakes,",
+    "And refresh me with the apples so sweet,",
+    "Here I am conquered by Your sweet, sweet love,",
+    "For I’m sick, sick with love, in love with You.",
+    "His left hand is under my head,",
+    "And His right hand embraces me.",
+    "I am held and embraced by Him,",
+    "Oh daughters of Jerusalem.",
     "He brought me into His banqueting house,",
     "And His banner over me was love,",
     "I’m sick with love for Him."

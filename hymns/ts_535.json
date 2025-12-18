@@ -12,11 +12,11 @@
             },
             {
               "chord": "",
-              "text": "圣 心 深"
+              "text": "聖 心 深"
             },
             {
               "chord": "A",
-              "text": "爱 慕，"
+              "text": "愛 慕，"
             }
           ]
         },
@@ -24,7 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "G",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "D",
-              "text": "会；"
+              "text": "會；"
             }
           ]
         },
@@ -44,11 +44,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "言 语、 计 画 并"
+              "text": "言 語、 計 畫 並"
             },
             {
               "chord": "G",
-              "text": "行 动，"
+              "text": "行 動，"
             }
           ]
         },
@@ -60,11 +60,11 @@
             },
             {
               "chord": "D",
-              "text": "为 依"
+              "text": "為 依"
             },
             {
               "chord": "A",
-              "text": "归。"
+              "text": "歸。"
             }
           ]
         },
@@ -84,7 +84,7 @@
             },
             {
               "chord": "G",
-              "text": "坚"
+              "text": "堅"
             },
             {
               "chord": "D",
@@ -96,11 +96,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "无 何 能"
+              "text": "無 何 能"
             },
             {
               "chord": "B7",
-              "text": "以 摇"
+              "text": "以 搖"
             },
             {
               "chord": "Em",
@@ -116,15 +116,15 @@
             },
             {
               "chord": "D",
-              "text": "会 萦"
+              "text": "會 縈"
             },
             {
               "chord": "",
-              "text": "绕 祂"
+              "text": "繞 祂"
             },
             {
               "chord": "G",
-              "text": "心 头，"
+              "text": "心 頭，"
             }
           ]
         },
@@ -132,11 +132,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "远"
+              "text": "遠"
             },
             {
               "chord": "A",
-              "text": "在 创"
+              "text": "在 創"
             },
             {
               "chord": "A7",
@@ -437,10 +437,11 @@
     "category": "教会的异象",
     "time": "4/4",
     "hymn_code": "3334332116543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0535_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1229",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1229",
+        "language": "en",
         "category": "h",
         "number": "1229",
         "title": "E1229"
@@ -448,14 +449,14 @@
     ]
   },
   "raw_sections": [
-    "基 督圣 心 深爱 慕，",
-    "无他， 惟有 召会；",
-    "言 语、 计 画 并行 动，",
-    "皆 以 她为 依归。",
-    "此情 此意 永坚定，",
-    "无 何 能以 摇撼；",
-    "召会 萦绕 祂心 头，",
-    "远在 创世 之前。",
+    "基 督聖 心 深愛 慕，",
+    "無他， 惟有 召會；",
+    "言 語、 計 畫 並行 動，",
+    "皆 以 她為 依歸。",
+    "此情 此意 永堅定，",
+    "無 何 能以 搖撼；",
+    "召會 縈繞 祂心 頭，",
+    "遠在 創世 之前。",
     "万有尚都未开始，",
     "祂已筹画全备，",
     "要得祂心所钟爱，",

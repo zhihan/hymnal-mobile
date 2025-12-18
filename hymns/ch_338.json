@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "都 归"
+              "text": "都 歸"
             },
             {
               "chord": "",
-              "text": "基 督， 都 归 基 督，"
+              "text": "基 督， 都 歸 基 督，"
             }
           ]
         },
@@ -20,7 +20,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "都 归"
+              "text": "都 歸"
             },
             {
               "chord": "A7",
@@ -28,7 +28,7 @@
             },
             {
               "chord": "",
-              "text": "理 当"
+              "text": "理 當"
             },
             {
               "chord": "D",
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 既 是 主 宝 血 所 赎，"
+              "text": "我 既 是 主 寶 血 所 贖，"
             }
           ]
         },
@@ -52,7 +52,7 @@
             },
             {
               "chord": "A7",
-              "text": "当 得"
+              "text": "當 得"
             },
             {
               "chord": "",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "D",
-              "text": "权。"
+              "text": "權。"
             }
           ]
         }
@@ -74,11 +74,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "都 归"
+              "text": "都 歸"
             },
             {
               "chord": "",
-              "text": "基 督， 都 归"
+              "text": "基 督， 都 歸"
             },
             {
               "chord": "D",
@@ -90,7 +90,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "都 归"
+              "text": "都 歸"
             },
             {
               "chord": "A7",
@@ -110,11 +110,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "都 归"
+              "text": "都 歸"
             },
             {
               "chord": "",
-              "text": "基 督， 都 归"
+              "text": "基 督， 都 歸"
             },
             {
               "chord": "D",
@@ -126,7 +126,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "都 归"
+              "text": "都 歸"
             },
             {
               "chord": "A7",
@@ -525,10 +525,11 @@
     "category": "奉献",
     "time": "4/4",
     "hymn_code": "333323532255423",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0338_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/444",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/444",
+        "language": "en",
         "category": "h",
         "number": "444",
         "title": "E444"
@@ -536,14 +537,14 @@
     ]
   },
   "raw_sections": [
-    "都 归基 督， 都 归 基 督，",
-    "都 归基 督理 当然；",
-    "我 既 是 主 宝 血 所 赎，",
-    "主 就当 得所 有权。",
-    "都 归基 督， 都 归基 督，",
-    "都 归基 督我 救主！",
-    "都 归基 督， 都 归基 督，",
-    "都 归基 督我 救主！",
+    "都 歸基 督， 都 歸 基 督，",
+    "都 歸基 督理 當然；",
+    "我 既 是 主 寶 血 所 贖，",
+    "主 就當 得所 有權。",
+    "都 歸基 督， 都 歸基 督，",
+    "都 歸基 督我 救主！",
+    "都 歸基 督， 都 歸基 督，",
+    "都 歸基 督我 救主！",
     "都归基督，都归基督，",
     "都归基督心所慕；",
     "主爱激励，主爱催促，",

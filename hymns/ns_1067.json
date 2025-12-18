@@ -7,16 +7,8 @@
         {
           "segments": [
             {
-              "chord": "C",
-              "text": "I am"
-            },
-            {
               "chord": "",
-              "text": "the light, the light of the"
-            },
-            {
-              "chord": "G",
-              "text": "world;"
+              "text": "I am the light, the light of the world;"
             }
           ]
         },
@@ -24,35 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "He who"
-            },
-            {
-              "chord": "Dm",
-              "text": "follows"
-            },
-            {
-              "chord": "",
-              "text": "Me shall by"
-            },
-            {
-              "chord": "C",
-              "text": "no means"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "Am",
-              "text": "Walk, walk"
-            },
-            {
-              "chord": "",
-              "text": "in"
-            },
-            {
-              "chord": "Em",
-              "text": "darkness,"
+              "text": "He who follows Me shall by no means"
             }
           ]
         },
@@ -60,19 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "But shall"
-            },
-            {
-              "chord": "F",
-              "text": "have the"
-            },
-            {
-              "chord": "",
-              "text": "light of"
-            },
-            {
-              "chord": "G",
-              "text": "life."
+              "text": "Walk, walk in darkness,"
             }
           ]
         },
@@ -80,11 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "I am the life. I am the"
-            },
-            {
-              "chord": "G7",
-              "text": "light of"
+              "text": "But shall have the light of life."
             }
           ]
         },
@@ -92,11 +40,39 @@
           "segments": [
             {
               "chord": "",
-              "text": "the"
-            },
+              "text": "I am the light, the light of the world;"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "C",
-              "text": "world."
+              "chord": "",
+              "text": "He who follows Me shall by no means"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Walk, walk in darkness,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "But shall have the light of life."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I am the light of the world."
             }
           ]
         }
@@ -107,14 +83,18 @@
   "metadata": {
     "category": "Scriptures for Singing",
     "time": "4/4",
-    "hymn_code": "321533212234443235"
+    "hymn_code": "321533212234443235",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1067_tune.midi"
   },
   "raw_sections": [
-    "I amthe light, the light of theworld;",
-    "He whofollowsMe shall byno means",
-    "Walk, walkindarkness,",
-    "But shallhave thelight oflife.",
-    "I am the life. I am thelight of",
-    "theworld."
+    "I am the light, the light of the world;",
+    "He who follows Me shall by no means",
+    "Walk, walk in darkness,",
+    "But shall have the light of life.",
+    "I am the light, the light of the world;",
+    "He who follows Me shall by no means",
+    "Walk, walk in darkness,",
+    "But shall have the light of life.",
+    "I am the light of the world."
   ]
 }

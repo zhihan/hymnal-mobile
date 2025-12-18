@@ -413,10 +413,11 @@
     "category": "Study of the Word",
     "time": "3/4",
     "hymn_code": "1111712321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0814_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/589",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/589",
+        "language": "cn",
         "category": "ch",
         "number": "589",
         "title": "C589"

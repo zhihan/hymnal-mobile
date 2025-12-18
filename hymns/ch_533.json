@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "永 远"
+              "text": "永 遠"
             },
             {
               "chord": "A",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "D",
-              "text": "带 来"
+              "text": "帶 來"
             }
           ]
         },
@@ -40,11 +40,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "在 灵"
+              "text": "在 靈"
             },
             {
               "chord": "",
-              "text": "里 的"
+              "text": "裡 的"
             },
             {
               "chord": "G",
@@ -56,15 +56,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "使 灵"
+              "text": "使 靈"
             },
             {
               "chord": "A7",
-              "text": "来 推"
+              "text": "來 推"
             },
             {
               "chord": "D",
-              "text": "动。"
+              "text": "動。"
             }
           ]
         }
@@ -305,10 +305,11 @@
     "category": "里面生命的各方面",
     "time": "4/4",
     "hymn_code": "11265333445",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0533_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/737",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/737",
+        "language": "en",
         "category": "h",
         "number": "737",
         "title": "E737"
@@ -316,10 +317,10 @@
     ]
   },
   "raw_sections": [
-    "永 远生 命带 来",
+    "永 遠生 命帶 來",
     "生 命的 交通；",
-    "在 灵里 的交 通，",
-    "使 灵来 推动。",
+    "在 靈裡 的交 通，",
+    "使 靈來 推動。",
     "永远生命赐给",
     "神圣的交通；",
     "如此主灵与我，",

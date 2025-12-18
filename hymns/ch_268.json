@@ -28,7 +28,7 @@
             },
             {
               "chord": "",
-              "text": "随"
+              "text": "隨"
             },
             {
               "chord": "C",
@@ -40,19 +40,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "忧 虑 却 如"
+              "text": "憂 慮 卻 如"
             },
             {
               "chord": "D7",
-              "text": "怒 涛"
+              "text": "怒 濤"
             },
             {
               "chord": "",
-              "text": "横"
+              "text": "橫"
             },
             {
               "chord": "G",
-              "text": "涌；"
+              "text": "湧；"
             }
           ]
         },
@@ -84,7 +84,7 @@
             },
             {
               "chord": "G",
-              "text": "说："
+              "text": "說："
             }
           ]
         },
@@ -96,7 +96,7 @@
             },
             {
               "chord": "C",
-              "text": "你 应"
+              "text": "你 應"
             },
             {
               "chord": "",
@@ -108,7 +108,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "无 所"
+              "text": "無 所"
             },
             {
               "chord": "C",
@@ -126,7 +126,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "哦， 我 魂， 可 无"
+              "text": "哦， 我 魂， 可 無"
             },
             {
               "chord": "G",
@@ -150,11 +150,11 @@
             },
             {
               "chord": "G",
-              "text": "乐、"
+              "text": "樂、"
             },
             {
               "chord": "G7",
-              "text": "可 无"
+              "text": "可 無"
             },
             {
               "chord": "C",
@@ -478,10 +478,11 @@
     "category": "得救的证实与快乐",
     "time": "4/4",
     "hymn_code": "554332346543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0268_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/341",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/341",
+        "language": "en",
         "category": "h",
         "number": "341",
         "title": "E341"
@@ -490,14 +491,14 @@
   },
   "raw_sections": [
     "平 安正 如 水 流，",
-    "一路 跟随我；",
-    "忧 虑 却 如怒 涛横涌；",
+    "一路 跟隨我；",
+    "憂 慮 卻 如怒 濤橫湧；",
     "任何 的遭遇，",
-    "你 已 教 我 能说：",
-    "我 魂，你 应安 息，",
-    "无 所恐！",
-    "哦， 我 魂， 可 无恐！",
-    "哦， 我魂， 可安乐、可 无恐！",
+    "你 已 教 我 能說：",
+    "我 魂，你 應安 息，",
+    "無 所恐！",
+    "哦， 我 魂， 可 無恐！",
+    "哦， 我魂， 可安樂、可 無恐！",
     "撒但虽来肆虐，",
     "试炼虽如火，",
     "我心应当充满把握；",

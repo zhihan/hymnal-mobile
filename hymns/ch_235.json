@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "A",
-              "text": "我 为"
+              "text": "我 為"
             },
             {
               "chord": "",
-              "text": "甚 么 忧"
+              "text": "甚 麼 憂"
             },
             {
               "chord": "E",
-              "text": "惧 疑"
+              "text": "懼 疑"
             },
             {
               "chord": "",
@@ -32,11 +32,11 @@
             },
             {
               "chord": "A",
-              "text": "岂 未"
+              "text": "豈 未"
             },
             {
               "chord": "D",
-              "text": "曾 将"
+              "text": "曾 將"
             },
             {
               "chord": "",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "E",
-              "text": "过"
+              "text": "過"
             }
           ]
         },
@@ -52,11 +52,11 @@
           "segments": [
             {
               "chord": "A",
-              "text": "归 祂"
+              "text": "歸 祂"
             },
             {
               "chord": "",
-              "text": "儿"
+              "text": "兒"
             },
             {
               "chord": "E",
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "主 所 为 我 还"
+              "text": "主 所 為 我 還"
             },
             {
               "chord": "E",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "",
-              "text": "债，"
+              "text": "債，"
             }
           ]
         },
@@ -96,7 +96,7 @@
             },
             {
               "chord": "A",
-              "text": "义 的"
+              "text": "義 的"
             },
             {
               "chord": "D",
@@ -108,7 +108,7 @@
             },
             {
               "chord": "E",
-              "text": "来"
+              "text": "來"
             }
           ]
         },
@@ -132,7 +132,7 @@
             },
             {
               "chord": "A",
-              "text": "偿？"
+              "text": "償？"
             }
           ]
         }
@@ -307,10 +307,11 @@
     "category": "得救的证实与快乐",
     "time": "3/2",
     "hymn_code": "13332555",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0235_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1003",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1003",
+        "language": "en",
         "category": "h",
         "number": "1003",
         "title": "E1003"
@@ -318,12 +319,12 @@
     ]
   },
   "raw_sections": [
-    "我 为甚 么 忧惧 疑惑？",
-    "神岂 未曾 将我 罪过",
-    "归 祂儿子身上？",
-    "主 所 为 我 还清 的债，",
-    "公义 的神 能否 再来",
-    "要 我重新清偿？",
+    "我 為甚 麼 憂懼 疑惑？",
+    "神豈 未曾 將我 罪過",
+    "歸 祂兒子身上？",
+    "主 所 為 我 還清 的債，",
+    "公義 的神 能否 再來",
+    "要 我重新清償？",
     "你的救赎永远完全，",
     "你已还清每一文钱－",
     "我们所有罪戾；",

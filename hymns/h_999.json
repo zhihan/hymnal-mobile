@@ -522,10 +522,11 @@
     "category": "Gospel",
     "time": "4/4",
     "hymn_code": "13213543565432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0999_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/681",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/681",
+        "language": "cn",
         "category": "ch",
         "number": "681",
         "title": "C681"

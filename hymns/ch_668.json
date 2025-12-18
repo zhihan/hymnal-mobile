@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "我 岂"
+              "text": "我 豈"
             },
             {
               "chord": "",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "F",
-              "text": "双 手"
+              "text": "雙 手"
             },
             {
               "chord": "C",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "Dm",
-              "text": "岂 可"
+              "text": "豈 可"
             },
             {
               "chord": "",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "G7",
-              "text": "见 主"
+              "text": "見 主"
             },
             {
               "chord": "C",
@@ -48,11 +48,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "从 无 一 日"
+              "text": "從 無 一 日"
             },
             {
               "chord": "F",
-              "text": "为 主"
+              "text": "為 主"
             },
             {
               "chord": "C",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "C",
-              "text": "虏"
+              "text": "虜"
             },
             {
               "chord": "D7",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "C",
-              "text": "献"
+              "text": "獻"
             },
             {
               "chord": "G7",
@@ -98,7 +98,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 岂"
+              "text": "我 豈"
             },
             {
               "chord": "F",
@@ -110,7 +110,7 @@
             },
             {
               "chord": "",
-              "text": "见"
+              "text": "見"
             },
             {
               "chord": "G",
@@ -122,11 +122,11 @@
           "segments": [
             {
               "chord": "Am",
-              "text": "岂 可"
+              "text": "豈 可"
             },
             {
               "chord": "",
-              "text": "双 手"
+              "text": "雙 手"
             },
             {
               "chord": "G",
@@ -146,7 +146,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "未 领"
+              "text": "未 領"
             },
             {
               "chord": "G",
@@ -154,7 +154,7 @@
             },
             {
               "chord": "Am",
-              "text": "来 归"
+              "text": "來 歸"
             },
             {
               "chord": "C",
@@ -166,11 +166,11 @@
           "segments": [
             {
               "chord": "F",
-              "text": "岂 可"
+              "text": "豈 可"
             },
             {
               "chord": "C",
-              "text": "双"
+              "text": "雙"
             },
             {
               "chord": "D7",
@@ -423,10 +423,11 @@
     "category": "传扬福音",
     "time": "6/8",
     "hymn_code": "55543165344432543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0668_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/930",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/930",
+        "language": "en",
         "category": "h",
         "number": "930",
         "title": "E930"
@@ -434,14 +435,14 @@
     ]
   },
   "raw_sections": [
-    "我 岂可 去，双 手空 空？",
-    "岂 可如 此见 主面？",
-    "从 无 一 日为 主作 工，",
-    "未 有虏物献主前。",
-    "我 岂可 以空 手见主？",
-    "岂 可双 手空空去？",
-    "未 领一 人来 归基 督！",
-    "岂 可双手空空去？",
+    "我 豈可 去，雙 手空 空？",
+    "豈 可如 此見 主面？",
+    "從 無 一 日為 主作 工，",
+    "未 有虜物獻主前。",
+    "我 豈可 以空 手見主？",
+    "豈 可雙 手空空去？",
+    "未 領一 人來 歸基 督！",
+    "豈 可雙手空空去？",
     "今日去世复有何恐？",
     "因为恩主已救我；",
     "但一想到双手空空，",

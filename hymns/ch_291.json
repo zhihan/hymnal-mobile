@@ -16,7 +16,7 @@
             },
             {
               "chord": "",
-              "text": "引 领"
+              "text": "引 領"
             },
             {
               "chord": "C",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "灵 中"
+              "text": "靈 中"
             },
             {
               "chord": "G7",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "",
-              "text": "过 生"
+              "text": "過 生"
             },
             {
               "chord": "C",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "D7",
-              "text": "挣 扎"
+              "text": "掙 扎"
             },
             {
               "chord": "",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "G",
-              "text": "动。"
+              "text": "動。"
             }
           ]
         }
@@ -106,7 +106,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "救 主， 这 是 我 所"
+              "text": "救 主， 這 是 我 所"
             },
             {
               "chord": "G7",
@@ -146,7 +146,7 @@
             },
             {
               "chord": "G7",
-              "text": "来 行"
+              "text": "來 行"
             },
             {
               "chord": "C",
@@ -312,10 +312,11 @@
     "category": "羡慕",
     "time": "4/4",
     "hymn_code": "53517654326543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0291_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/390",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/390",
+        "language": "en",
         "category": "h",
         "number": "390",
         "title": "E390"
@@ -323,14 +324,14 @@
     ]
   },
   "raw_sections": [
-    "救 主，求 你引 领我，",
-    "灵 中引 我过 生活；",
+    "救 主，求 你引 領我，",
+    "靈 中引 我過 生活；",
     "行 在生 命的 光中，",
-    "不 再挣 扎或 妄动。",
+    "不 再掙 扎或 妄動。",
     "引 我，引 我，",
-    "救 主， 这 是 我 所求；",
+    "救 主， 這 是 我 所求；",
     "藉 你生 命的 水流，",
-    "引 我你 路来 行走。",
+    "引 我你 路來 行走。",
     "你在我里作生命，",
     "借你活律来引领；",
     "在我身上你执政，",

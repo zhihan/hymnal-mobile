@@ -16,11 +16,11 @@
             },
             {
               "chord": "C",
-              "text": "里 成"
+              "text": "裏 成"
             },
             {
               "chord": "G",
-              "text": "为 肉"
+              "text": "為 肉"
             },
             {
               "chord": "",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "A7",
-              "text": "赐 宏"
+              "text": "賜 宏"
             },
             {
               "chord": "D7",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "G",
-              "text": "督 丰"
+              "text": "督 豐"
             },
             {
               "chord": "C",
@@ -60,15 +60,15 @@
             },
             {
               "chord": "",
-              "text": "尽， 供"
+              "text": "盡， 供"
             },
             {
               "chord": "C",
-              "text": "应 全"
+              "text": "應 全"
             },
             {
               "chord": "D7",
-              "text": "备 常"
+              "text": "備 常"
             },
             {
               "chord": "G",
@@ -100,15 +100,15 @@
             },
             {
               "chord": "D",
-              "text": "妙， 难"
+              "text": "妙， 難"
             },
             {
               "chord": "A7",
-              "text": "尽 述"
+              "text": "盡 述"
             },
             {
               "chord": "D7",
-              "text": "说；"
+              "text": "說；"
             }
           ]
         },
@@ -120,7 +120,7 @@
             },
             {
               "chord": "G",
-              "text": "则 灭"
+              "text": "則 滅"
             },
             {
               "chord": "C",
@@ -140,7 +140,7 @@
             },
             {
               "chord": "D7",
-              "text": "神 杰"
+              "text": "神 傑"
             },
             {
               "chord": "G",
@@ -347,10 +347,11 @@
     "category": "盼望与豫备",
     "time": "6/8",
     "hymn_code": "53221656556711232",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0921_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1321",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1321",
+        "language": "en",
         "category": "h",
         "number": "1321",
         "title": "E1321"
@@ -358,10 +359,10 @@
     ]
   },
   "raw_sections": [
-    "神 在子里 成为 肉身， 乃神 所赐 宏恩；",
-    "基督 丰富 享受 不尽， 供应 全备 常新。",
-    "此恩 浩大， 超人 能度， 奇妙， 难尽 述说；",
-    "否则 灭亡 之子 如我， 怎能 成神 杰作？",
+    "神 在子裏 成為 肉身， 乃神 所賜 宏恩；",
+    "基督 豐富 享受 不盡， 供應 全備 常新。",
+    "此恩 浩大， 超人 能度， 奇妙， 難盡 述說；",
+    "否則 滅亡 之子 如我， 怎能 成神 傑作？",
     "受造之物受缚被囚，殷殷热切等候，",
     "神的众子显现时候，得享永远自由。",
     "我神定旨永远深广，就要完全明朗；",

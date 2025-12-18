@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "在 这 美 地，"
+              "text": "在 這 美 地，"
             }
           ]
         },
@@ -20,11 +20,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "这 使 我 们 灵 刚"
+              "text": "這 使 我 們 靈 剛"
             },
             {
               "chord": "A",
-              "text": "强！"
+              "text": "強！"
             }
           ]
         },
@@ -32,11 +32,11 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "经 营"
+              "text": "經 營"
             },
             {
               "chord": "",
-              "text": "在 这 美 地，"
+              "text": "在 這 美 地，"
             }
           ]
         },
@@ -48,7 +48,7 @@
             },
             {
               "chord": "",
-              "text": "基 督 无 限"
+              "text": "基 督 無 限"
             },
             {
               "chord": "D",
@@ -60,7 +60,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "祂 的 丰 富， 丰 满，"
+              "text": "祂 的 豐 富， 豐 滿，"
             }
           ]
         },
@@ -68,7 +68,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "并"
+              "text": "並"
             },
             {
               "chord": "D7",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "G",
-              "text": "时 每"
+              "text": "時 每"
             },
             {
               "chord": "",
@@ -100,15 +100,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "成 为 我"
+              "text": "成 為 我"
             },
             {
               "chord": "Gm",
-              "text": "们 所"
+              "text": "們 所"
             },
             {
               "chord": "",
-              "text": "经 所 历！"
+              "text": "經 所 歷！"
             }
           ]
         },
@@ -132,7 +132,7 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
@@ -157,10 +157,11 @@
     "category": "享受基督",
     "time": "4/4",
     "hymn_code": "3333213333217",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0244_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/6244",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/6244",
+        "language": "en",
         "category": "h",
         "number": "6244",
         "title": "E6244"
@@ -168,15 +169,15 @@
     ]
   },
   "raw_sections": [
-    "行 走在 这 美 地，",
-    "这 使 我 们 灵 刚强！",
-    "经 营在 这 美 地，",
-    "享 受基 督 无 限量！",
-    "祂 的 丰 富， 丰 满，",
-    "并祂 一切 的 能 力，",
-    "每时 每刻",
-    "成 为 我们 所经 所 历！",
+    "行 走在 這 美 地，",
+    "這 使 我 們 靈 剛強！",
+    "經 營在 這 美 地，",
+    "享 受基 督 無 限量！",
+    "祂 的 豐 富， 豐 滿，",
+    "並祂 一切 的 能 力，",
+    "每時 每刻",
+    "成 為 我們 所經 所 歷！",
     "祂 是一 切一 切，",
-    "我 们今 住在 美地。"
+    "我 們今 住在 美地。"
   ]
 }

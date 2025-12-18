@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/6848",
+  "url": "https://www.hymnal.net/en/hymn/h/6848",
   "title": "Hear my song, wondrous love",
   "verses": [
     {
@@ -182,7 +182,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Simply call Jesus' name,"
+              "text": "Simply call Jesus’ name,"
             }
           ]
         },
@@ -222,7 +222,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "From salvation's streams freely drink."
+              "text": "From salvation’s streams freely drink."
             }
           ]
         }
@@ -235,6 +235,7 @@
     "category": "Gospel",
     "time": "4/4",
     "hymn_code": "561353632312",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e6848_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ts/848",
@@ -256,11 +257,11 @@
     "He flowsforth, ariverfromme.",
     "Christ the Lord is not far,",
     "In your mouth, in your heart;",
-    "Simply call Jesus' name,",
+    "Simply call Jesus’ name,",
     "Into you He comes without delay;",
     "Tasting, I testify:",
     "Boundless love! Rich and deep!",
     "All who will, come, draw nigh,",
-    "From salvation's streams freely drink."
+    "From salvation’s streams freely drink."
   ]
 }

@@ -253,10 +253,11 @@
     "category": "Worship of the Father",
     "time": "4/4",
     "hymn_code": "33343321231271",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0051_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/46",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/46",
+        "language": "cn",
         "category": "ch",
         "number": "46",
         "title": "C46"

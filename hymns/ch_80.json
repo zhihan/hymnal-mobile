@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "奉 献 荣 耀 于"
+              "text": "奉 獻 榮 耀 於"
             },
             {
               "chord": "Em",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "D",
-              "text": "创，"
+              "text": "創，"
             }
           ]
         },
@@ -68,7 +68,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "领 我"
+              "text": "領 我"
             },
             {
               "chord": "",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "A7",
-              "text": "髑 髅"
+              "text": "髑 髏"
             },
             {
               "chord": "D",
@@ -106,7 +106,7 @@
             },
             {
               "chord": "D",
-              "text": "西 马"
+              "text": "西 馬"
             },
             {
               "chord": "",
@@ -130,7 +130,7 @@
             },
             {
               "chord": "D",
-              "text": "心 忧"
+              "text": "心 憂"
             },
             {
               "chord": "",
@@ -150,11 +150,11 @@
             },
             {
               "chord": "G",
-              "text": "爱 无"
+              "text": "愛 無"
             },
             {
               "chord": "D",
-              "text": "极，"
+              "text": "極，"
             }
           ]
         },
@@ -162,7 +162,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "领 我"
+              "text": "領 我"
             },
             {
               "chord": "",
@@ -174,7 +174,7 @@
             },
             {
               "chord": "A7",
-              "text": "髅"
+              "text": "髏"
             },
             {
               "chord": "D",
@@ -490,10 +490,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "33211443321532",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0080_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/160",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/160",
+        "language": "en",
         "category": "h",
         "number": "160",
         "title": "E160"
@@ -502,13 +503,13 @@
   },
   "raw_sections": [
     "我 今俯伏， 生命 的王，",
-    "奉 献 荣 耀 于你；",
-    "惟 恐我忘 你的 受创，",
-    "领 我去髑 髅地。",
-    "惟 恐我忘 客西 马尼，",
-    "惟 恐我忘 你心 忧急，",
-    "惟 恐 我忘 你爱 无极，",
-    "领 我去髑髅地。",
+    "奉 獻 榮 耀 於你；",
+    "惟 恐我忘 你的 受創，",
+    "領 我去髑 髏地。",
+    "惟 恐我忘 客西 馬尼，",
+    "惟 恐我忘 你心 憂急，",
+    "惟 恐 我忘 你愛 無極，",
+    "領 我去髑髏地。",
     "何处是你被埋坟墓？",
     "让我前去哀悼；",
     "天使是在何处守护？",

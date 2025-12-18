@@ -12,7 +12,7 @@
             },
             {
               "chord": "G7",
-              "text": "乐 接"
+              "text": "樂 接"
             },
             {
               "chord": "",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "",
-              "text": "生 命， 不 再 将 主"
+              "text": "生 命， 不 再 將 主"
             },
             {
               "chord": "D7",
@@ -56,11 +56,11 @@
             },
             {
               "chord": "G7",
-              "text": "丢 背"
+              "text": "丟 背"
             },
             {
               "chord": "",
-              "text": "后，"
+              "text": "後，"
             }
           ]
         },
@@ -72,7 +72,7 @@
             },
             {
               "chord": "",
-              "text": "无 所 求，"
+              "text": "無 所 求，"
             }
           ]
         },
@@ -88,7 +88,7 @@
             },
             {
               "chord": "D",
-              "text": "将"
+              "text": "將"
             },
             {
               "chord": "D7",
@@ -162,7 +162,7 @@
             },
             {
               "chord": "D",
-              "text": "将"
+              "text": "將"
             },
             {
               "chord": "D7",
@@ -182,10 +182,11 @@
     "category": "十字架的道路",
     "time": "4/4",
     "hymn_code": "3332122216",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0463_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8463",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8463",
+        "language": "en",
         "category": "h",
         "number": "8463",
         "title": "E8463"
@@ -193,15 +194,15 @@
     ]
   },
   "raw_sections": [
-    "十 架乐 接受，",
+    "十 架樂 接受，",
     "窄 路肯 行 走，",
-    "流 露生 命， 不 再 将 主扣；",
-    "世 界丢 背后，",
-    "主 外无 所 求，",
-    "流 露生 命， 不 再将主扣。",
+    "流 露生 命， 不 再 將 主扣；",
+    "世 界丟 背後，",
+    "主 外無 所 求，",
+    "流 露生 命， 不 再將主扣。",
     "流 露！流 露！",
     "流 露生 命， 不 再 扣留；",
     "流露！流 露！",
-    "流 露生 命， 不 再将主扣。"
+    "流 露生 命， 不 再將主扣。"
   ]
 }

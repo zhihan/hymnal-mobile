@@ -385,10 +385,11 @@
     "category": "The Church",
     "time": "4/4",
     "hymn_code": "1111113511111531",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1266_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/530",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/530",
+        "language": "cn",
         "category": "ts",
         "number": "530",
         "title": "Cs530"

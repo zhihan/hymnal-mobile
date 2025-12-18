@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "并 非 到 了 十 架 为"
+              "text": "並 非 到 了 十 架 為"
             },
             {
               "chord": "A",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "G",
-              "text": "旧 生"
+              "text": "舊 生"
             },
             {
               "chord": "A",
@@ -60,7 +60,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "从 你"
+              "text": "從 你"
             },
             {
               "chord": "",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "A",
-              "text": "态"
+              "text": "態"
             },
             {
               "chord": "A7",
@@ -317,10 +317,11 @@
     "category": "经历基督",
     "time": "4/4",
     "hymn_code": "1345671765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0367_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/492",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/492",
+        "language": "en",
         "category": "h",
         "number": "492",
         "title": "E492"
@@ -329,9 +330,9 @@
   },
   "raw_sections": [
     "主， 你所 有 一切 工作，",
-    "并 非 到 了 十 架 为止；",
-    "你 今乃 是 仍旧 生活，",
-    "从 你另 一 形态表示。",
+    "並 非 到 了 十 架 為止；",
+    "你 今乃 是 仍舊 生活，",
+    "從 你另 一 形態表示。",
     "你今仍旧施行拯救，",
     "仍旧说话，仍旧引导；",
     "你今成灵，仍在涌流，",

@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/6864",
+  "url": "https://www.hymnal.net/en/hymn/h/6864",
   "title": "Gazing up at the great sky",
   "verses": [
     {
@@ -401,7 +401,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "'Tis God's New Test'ment econ'my, as a great wheel,"
+              "text": "’Tis God’s New Test’ment econ’my, as a great wheel,"
             }
           ]
         },
@@ -421,6 +421,7 @@
     "category": "Preaching of the Gospel",
     "time": "4/4",
     "hymn_code": "345671516715",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e6864_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ts/864",
@@ -449,7 +450,7 @@
     "a part!",
     "Eternal Word incarnate, Spirit became;",
     "To transform us, life and nature He imparts.",
-    "'Tis God's New Test'ment econ'my, as a great wheel,",
+    "’Tis God’s New Test’ment econ’my, as a great wheel,",
     "Spreading to all earth—and I, too, have a part!"
   ]
 }

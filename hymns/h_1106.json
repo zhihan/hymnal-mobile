@@ -251,10 +251,11 @@
     "category": "Praise of the Lord",
     "time": "3/4",
     "hymn_code": "556534543231",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1106_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/617",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/617",
+        "language": "cn",
         "category": "ts",
         "number": "617",
         "title": "Cs617"

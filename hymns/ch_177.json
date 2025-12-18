@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "这 是 何"
+              "text": "這 是 何"
             },
             {
               "chord": "G",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "C",
-              "text": "迹，"
+              "text": "蹟，"
             }
           ]
         },
@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 我 竟 然 联"
+              "text": "你 我 竟 然 聯"
             },
             {
               "chord": "F",
-              "text": "合 为"
+              "text": "合 為"
             },
             {
               "chord": "G",
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 在 你 内， 你"
+              "text": "我 在 你 內， 你"
             },
             {
               "chord": "D7",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "G7",
-              "text": "里，"
+              "text": "裡，"
             }
           ]
         },
@@ -76,11 +76,11 @@
             },
             {
               "chord": "G7",
-              "text": "奥"
+              "text": "奧"
             },
             {
               "chord": "C",
-              "text": "秘！"
+              "text": "祕！"
             }
           ]
         }
@@ -283,10 +283,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "13455671",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0177_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/233",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/233",
+        "language": "en",
         "category": "h",
         "number": "233",
         "title": "E233"
@@ -294,10 +295,10 @@
     ]
   },
   "raw_sections": [
-    "哦 主，这 是 何等 神迹，",
-    "你 我 竟 然 联合 为一！",
-    "我 在 你 内， 你在 我里，",
-    "真是 希奇， 真是奥秘！",
+    "哦 主，這 是 何等 神蹟，",
+    "你 我 竟 然 聯合 為一！",
+    "我 在 你 內， 你在 我裡，",
+    "真是 希奇， 真是奧祕！",
     "为使我能有分于你，",
     "你竟为我舍了身体；",
     "并为使我脱离罪孽，",

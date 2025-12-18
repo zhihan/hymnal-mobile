@@ -12,11 +12,11 @@
             },
             {
               "chord": "",
-              "text": "进 入"
+              "text": "進 入"
             },
             {
               "chord": "C",
-              "text": "至 圣"
+              "text": "至 聖"
             },
             {
               "chord": "G",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "",
-              "text": "里 面 过 生"
+              "text": "裡 面 過 生"
             },
             {
               "chord": "D",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "C",
-              "text": "的 宝"
+              "text": "的 寶"
             },
             {
               "chord": "D",
@@ -64,7 +64,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "让 主"
+              "text": "讓 主"
             },
             {
               "chord": "C",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "D",
-              "text": "来"
+              "text": "來"
             },
             {
               "chord": "D7",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "G",
-              "text": "过。"
+              "text": "過。"
             }
           ]
         }
@@ -359,10 +359,11 @@
     "category": "祷告",
     "time": "2/4",
     "hymn_code": "321761566432117",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0556_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/769",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/769",
+        "language": "en",
         "category": "h",
         "number": "769",
         "title": "E769"
@@ -370,10 +371,10 @@
     ]
   },
   "raw_sections": [
-    "我 要进 入至 圣所，",
-    "幔 子里 面 过 生活，",
-    "摸 主施 恩的 宝座，",
-    "让 主活 水来流过。",
+    "我 要進 入至 聖所，",
+    "幔 子裡 面 過 生活，",
+    "摸 主施 恩的 寶座，",
+    "讓 主活 水來流過。",
     "我灵就是至圣所，",
     "主在里面今住着；",
     "只要回到灵里面，",

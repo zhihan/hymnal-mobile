@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "神 兴"
+              "text": "神 興"
             },
             {
               "chord": "D",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "",
-              "text": "仇 敌"
+              "text": "仇 敵"
             },
             {
               "chord": "A",
@@ -48,11 +48,11 @@
           "segments": [
             {
               "chord": "A",
-              "text": "恶 人"
+              "text": "惡 人"
             },
             {
               "chord": "D",
-              "text": "见 神"
+              "text": "見 神"
             },
             {
               "chord": "",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "A",
-              "text": "消 灭，"
+              "text": "消 滅，"
             }
           ]
         },
@@ -72,7 +72,7 @@
             },
             {
               "chord": "D",
-              "text": "蜡 被"
+              "text": "蠟 被"
             },
             {
               "chord": "A",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "",
-              "text": "义 人 必 欢"
+              "text": "義 人 必 歡"
             },
             {
               "chord": "A",
@@ -104,11 +104,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "大 声"
+              "text": "大 聲"
             },
             {
               "chord": "",
-              "text": "夸 胜"
+              "text": "誇 勝"
             },
             {
               "chord": "A",
@@ -124,19 +124,19 @@
           "segments": [
             {
               "chord": "A",
-              "text": "唱 诗"
+              "text": "唱 詩"
             },
             {
               "chord": "D",
-              "text": "歌 颂，"
+              "text": "歌 頌，"
             },
             {
               "chord": "",
-              "text": "唱 诗"
+              "text": "唱 詩"
             },
             {
               "chord": "A",
-              "text": "歌 颂，"
+              "text": "歌 頌，"
             }
           ]
         },
@@ -144,11 +144,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "唱 诗"
+              "text": "唱 詩"
             },
             {
               "chord": "D",
-              "text": "歌 颂"
+              "text": "歌 頌"
             },
             {
               "chord": "A",
@@ -725,10 +725,11 @@
     "category": "赞美的话",
     "time": "3/2",
     "hymn_code": "551513225551321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0009_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1100",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1100",
+        "language": "en",
         "category": "h",
         "number": "1100",
         "title": "E1100"
@@ -736,14 +737,14 @@
     ]
   },
   "raw_sections": [
-    "神 兴起， 使仇 敌四 散，",
+    "神 興起， 使仇 敵四 散，",
     "叫 恨祂 的人 逃跑；",
-    "恶 人见 神面 就消 灭，",
-    "如 同蜡 被火 熔掉。",
-    "惟 有义 人 必 欢喜，",
-    "大 声夸 胜永 不已，",
-    "唱 诗歌 颂，唱 诗歌 颂，",
-    "唱 诗歌 颂祂 名。",
+    "惡 人見 神面 就消 滅，",
+    "如 同蠟 被火 熔掉。",
+    "惟 有義 人 必 歡喜，",
+    "大 聲誇 勝永 不已，",
+    "唱 詩歌 頌，唱 詩歌 頌，",
+    "唱 詩歌 頌祂 名。",
     "祂坐车行过旷野地，",
     "将缺乏之民带回，",
     "祂是一切孤儿的父，",

@@ -28,7 +28,7 @@
             },
             {
               "chord": "A",
-              "text": "应；"
+              "text": "應；"
             }
           ]
         },
@@ -40,11 +40,11 @@
             },
             {
               "chord": "",
-              "text": "我 能 与 祂 联"
+              "text": "我 能 與 祂 聯"
             },
             {
               "chord": "G",
-              "text": "结，"
+              "text": "結，"
             }
           ]
         },
@@ -52,15 +52,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "联"
+              "text": "聯"
             },
             {
               "chord": "A7",
-              "text": "于 祂"
+              "text": "於 祂"
             },
             {
               "chord": "D",
-              "text": "灵。"
+              "text": "靈。"
             }
           ]
         }
@@ -86,7 +86,7 @@
             },
             {
               "chord": "D",
-              "text": "丰 富，"
+              "text": "豐 富，"
             }
           ]
         },
@@ -94,11 +94,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "全 都 归 于"
+              "text": "全 都 歸 於"
             },
             {
               "chord": "A7",
-              "text": "灵；"
+              "text": "靈；"
             }
           ]
         },
@@ -110,11 +110,11 @@
             },
             {
               "chord": "G",
-              "text": "与 神"
+              "text": "與 神"
             },
             {
               "chord": "",
-              "text": "这 灵"
+              "text": "這 靈"
             },
             {
               "chord": "D",
@@ -122,7 +122,7 @@
             },
             {
               "chord": "G",
-              "text": "触，"
+              "text": "觸，"
             }
           ]
         },
@@ -134,11 +134,11 @@
             },
             {
               "chord": "A7",
-              "text": "须 用"
+              "text": "須 用"
             },
             {
               "chord": "D",
-              "text": "灵。"
+              "text": "靈。"
             }
           ]
         }
@@ -450,10 +450,11 @@
     "category": "经历神",
     "time": "4/4",
     "hymn_code": "3212345333212",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0451_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/612",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/612",
+        "language": "en",
         "category": "h",
         "number": "612",
         "title": "E612"
@@ -462,13 +463,13 @@
   },
   "raw_sections": [
     "神 的心 意 要 祂 一 切",
-    "全 作我 供应；",
-    "需 要我 能 与 祂 联结，",
-    "联于 祂灵。",
-    "父 的一 切、子 的丰 富，",
-    "全 都 归 于灵；",
-    "我 要与 神这 灵接触，",
-    "必须 用灵。",
+    "全 作我 供應；",
+    "需 要我 能 與 祂 聯結，",
+    "聯於 祂靈。",
+    "父 的一 切、子 的豐 富，",
+    "全 都 歸 於靈；",
+    "我 要與 神這 靈接觸，",
+    "必須 用靈。",
     "神已将祂本性丰富，",
     "全都赐给我；",
     "但须灵里与祂接触，",

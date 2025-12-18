@@ -16,7 +16,7 @@
             },
             {
               "chord": "Bm",
-              "text": "稣， 我"
+              "text": "穌， 我"
             },
             {
               "chord": "A",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "D",
-              "text": "阳，"
+              "text": "陽，"
             }
           ]
         },
@@ -56,7 +56,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "勿 让 人"
+              "text": "勿 讓 人"
             },
             {
               "chord": "Em",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "D",
-              "text": "云 遮"
+              "text": "雲 遮"
             },
             {
               "chord": "A",
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "仆 人"
+              "text": "僕 人"
             },
             {
               "chord": "",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "A",
-              "text": "见"
+              "text": "見"
             },
             {
               "chord": "A7",
@@ -96,7 +96,7 @@
             },
             {
               "chord": "D",
-              "text": "颜。"
+              "text": "顏。"
             }
           ]
         }
@@ -223,10 +223,11 @@
     "category": "经历基督",
     "time": "3/4",
     "hymn_code": "1111712321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0407_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/374",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/374",
+        "language": "en",
         "category": "h",
         "number": "374",
         "title": "E374"
@@ -234,10 +235,10 @@
     ]
   },
   "raw_sections": [
-    "救 主耶稣， 我的 太阳，",
+    "救 主耶穌， 我的 太陽，",
     "有 你 同在 夜也明亮，",
-    "勿 让 人世 有云 遮掩",
-    "仆 人心眼 不见慈颜。",
+    "勿 讓 人世 有雲 遮掩",
+    "僕 人心眼 不見慈顏。",
     "倦眼欲合，频频催眠，",
     "睡如甘露，润我夕荐，",
     "深愿今晚最后思念，",

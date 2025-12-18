@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 前 并 无 更"
+              "text": "你 前 並 無 更"
             },
             {
               "chord": "G",
@@ -64,11 +64,11 @@
             },
             {
               "chord": "G",
-              "text": "后 也"
+              "text": "後 也"
             },
             {
               "chord": "G7",
-              "text": "无 可"
+              "text": "無 可"
             },
             {
               "chord": "C",
@@ -104,7 +104,7 @@
             },
             {
               "chord": "F",
-              "text": "是 万"
+              "text": "是 萬"
             },
             {
               "chord": "",
@@ -112,7 +112,7 @@
             },
             {
               "chord": "G",
-              "text": "终；"
+              "text": "終；"
             }
           ]
         },
@@ -120,7 +120,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "万"
+              "text": "萬"
             },
             {
               "chord": "C",
@@ -132,7 +132,7 @@
             },
             {
               "chord": "C",
-              "text": "你 里，"
+              "text": "你 裡，"
             }
           ]
         },
@@ -144,7 +144,7 @@
             },
             {
               "chord": "G",
-              "text": "是 万"
+              "text": "是 萬"
             },
             {
               "chord": "G7",
@@ -152,7 +152,7 @@
             },
             {
               "chord": "C",
-              "text": "总。"
+              "text": "總。"
             }
           ]
         }
@@ -445,10 +445,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "5565354446523",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0158_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/202",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/202",
+        "language": "en",
         "category": "h",
         "number": "202",
         "title": "E202"
@@ -458,12 +459,12 @@
   "raw_sections": [
     "哦 主，你 是 阿拉 法，",
     "你也 是俄 梅嘎；",
-    "你 前 并 无 更前者，",
-    "你后 也无 可加。",
+    "你 前 並 無 更前者，",
+    "你後 也無 可加。",
     "你是 惟一 的元 始，",
-    "也是 万事 之终；",
-    "万有 包括 在你 里，",
-    "你是 万有 之总。",
+    "也是 萬事 之終；",
+    "萬有 包括 在你 裡，",
+    "你是 萬有 之總。",
     "主，因你是阿拉法，",
     "万有由你开始；",
     "因你也是俄梅嘎，",

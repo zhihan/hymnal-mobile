@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "我 爱，"
+              "text": "我 愛，"
             },
             {
               "chord": "",
-              "text": "我 爱 我"
+              "text": "我 愛 我"
             },
             {
               "chord": "G",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "不 愿 自"
+              "text": "不 願 自"
             },
             {
               "chord": "E7",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "Am",
-              "text": "赎 主，"
+              "text": "贖 主，"
             }
           ]
         },
@@ -64,15 +64,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "D",
-              "text": "我 赎"
+              "text": "我 贖"
             },
             {
               "chord": "",
-              "text": "价 已"
+              "text": "價 已"
             },
             {
               "chord": "G",
@@ -84,7 +84,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "爱"
+              "text": "愛"
             },
             {
               "chord": "E7",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "G",
-              "text": "离，"
+              "text": "離，"
             }
           ]
         },
@@ -128,7 +128,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "虽"
+              "text": "雖"
             },
             {
               "chord": "C",
@@ -136,7 +136,7 @@
             },
             {
               "chord": "E7",
-              "text": "时 会"
+              "text": "時 會"
             },
             {
               "chord": "Am",
@@ -152,11 +152,11 @@
             },
             {
               "chord": "F",
-              "text": "赐 安"
+              "text": "賜 安"
             },
             {
               "chord": "G7",
-              "text": "息 稳"
+              "text": "息 穩"
             },
             {
               "chord": "C",
@@ -313,10 +313,11 @@
     "category": "事奉与福音",
     "time": "4/4",
     "hymn_code": "1214321351756",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0850_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/463",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/463",
+        "language": "en",
         "category": "h",
         "number": "463",
         "title": "E463"
@@ -324,14 +325,14 @@
     ]
   },
   "raw_sections": [
-    "我 爱，我 爱 我恩主，",
-    "不 愿 自由 外出；",
-    "因祂 是我 救赎 主，",
-    "为我 赎价 已付。",
-    "爱祂、 事祂 永不离，",
+    "我 愛，我 愛 我恩主，",
+    "不 願 自由 外出；",
+    "因祂 是我 救贖 主，",
+    "為我 贖價 已付。",
+    "愛祂、 事祂 永不離，",
     "何其 甘甜、 蒙福；",
-    "虽然 有时 会困 倦，",
-    "祂赐 安息 稳固。",
+    "雖然 有時 會困 倦，",
+    "祂賜 安息 穩固。",
     "我主舍命流宝血，",
     "重价买我归属；",
     "救我脱离罪权势，",

@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "A",
-              "text": "当 我"
+              "text": "當 我"
             },
             {
               "chord": "",
-              "text": "注 视 你"
+              "text": "注 視 你"
             },
             {
               "chord": "E",
-              "text": "这 桌"
+              "text": "這 桌"
             },
             {
               "chord": "A",
@@ -32,11 +32,11 @@
             },
             {
               "chord": "E",
-              "text": "记 使"
+              "text": "記 使"
             },
             {
               "chord": "B7",
-              "text": "我 惊"
+              "text": "我 驚"
             },
             {
               "chord": "E",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "A",
-              "text": "饼 一"
+              "text": "餅 一"
             },
             {
               "chord": "",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "D",
-              "text": "别 陈"
+              "text": "別 陳"
             },
             {
               "chord": "E",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "E",
-              "text": "爱"
+              "text": "愛"
             },
             {
               "chord": "E7",
@@ -329,10 +329,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "5565565321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0179_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/220",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/220",
+        "language": "en",
         "category": "h",
         "number": "220",
         "title": "E220"
@@ -340,10 +341,10 @@
     ]
   },
   "raw_sections": [
-    "当 我注 视 你这 桌子，",
-    "表记 使我 惊奇；",
-    "一饼 一杯 分别 陈列，",
-    "照神 所爱心意。",
+    "當 我注 視 你這 桌子，",
+    "表記 使我 驚奇；",
+    "一餅 一杯 分別 陳列，",
+    "照神 所愛心意。",
     "这饼表明生命之粮，",
     "作我属天食物，",
     "借着你死给我分享，",

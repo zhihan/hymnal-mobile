@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "听 哪，"
+              "text": "聽 哪，"
             },
             {
               "chord": "G7",
@@ -16,11 +16,11 @@
             },
             {
               "chord": "C",
-              "text": "有 声"
+              "text": "有 聲"
             },
             {
               "chord": "G",
-              "text": "喊 说："
+              "text": "喊 說："
             }
           ]
         },
@@ -52,11 +52,11 @@
             },
             {
               "chord": "C",
-              "text": "回 声"
+              "text": "回 聲"
             },
             {
               "chord": "G",
-              "text": "答 说："
+              "text": "答 說："
             },
             {
               "chord": "Am",
@@ -72,11 +72,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "了。』 请"
+              "text": "了。』 請"
             },
             {
               "chord": "",
-              "text": "听 宝 座"
+              "text": "聽 寶 座"
             }
           ]
         }
@@ -90,11 +90,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "的 话"
+              "text": "的 話"
             },
             {
               "chord": "G",
-              "text": "语，"
+              "text": "語，"
             },
             {
               "chord": "C",
@@ -102,7 +102,7 @@
             },
             {
               "chord": "",
-              "text": "来 领"
+              "text": "來 領"
             }
           ]
         },
@@ -110,11 +110,11 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "神 应"
+              "text": "神 應"
             },
             {
               "chord": "D",
-              "text": "许；"
+              "text": "許；"
             },
             {
               "chord": "G",
@@ -122,7 +122,7 @@
             },
             {
               "chord": "G7",
-              "text": "曾 说："
+              "text": "曾 說："
             }
           ]
         },
@@ -146,7 +146,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "心 也 说："
+              "text": "心 也 說："
             },
             {
               "chord": "D7",
@@ -162,7 +162,7 @@
             },
             {
               "chord": "C",
-              "text": "祷"
+              "text": "禱"
             },
             {
               "chord": "G",
@@ -174,11 +174,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "过"
+              "text": "過"
             },
             {
               "chord": "Am",
-              "text": "赞"
+              "text": "讚"
             },
             {
               "chord": "A7",
@@ -206,7 +206,7 @@
             },
             {
               "chord": "Em",
-              "text": "亚，"
+              "text": "亞，"
             },
             {
               "chord": "G",
@@ -690,10 +690,11 @@
     "category": "试炼中的安慰",
     "time": "6/8",
     "hymn_code": "33321616535611",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0503_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/690",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/690",
+        "language": "en",
         "category": "h",
         "number": "690",
         "title": "E690"
@@ -701,17 +702,17 @@
     ]
   },
   "raw_sections": [
-    "听 哪，天 上有 声喊 说：",
+    "聽 哪，天 上有 聲喊 說：",
     "『已成了；』信 心",
-    "立 即回 声答 说：『已成",
-    "了。』 请听 宝 座",
-    "的 话语，你 可来 领",
-    "神 应许；神 口曾 说：",
+    "立 即回 聲答 說：『已成",
+    "了。』 請聽 寶 座",
+    "的 話語，你 可來 領",
+    "神 應許；神 口曾 說：",
     "『已 成了，』信",
-    "心 也 说：『已 成",
-    "了；』 祈祷已",
-    "过赞美始，阿",
-    "利路亚，『已成了。』",
+    "心 也 說：『已 成",
+    "了；』 祈禱已",
+    "過讚美始，阿",
+    "利路亞，『已成了。』",
     "接受主的完全救恩，",
     "‘已成了；’",
     "应当绝对奉献全身，",

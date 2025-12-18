@@ -275,10 +275,11 @@
     "category": "Worship of the Father",
     "time": "4/4",
     "hymn_code": "536176531123565",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0022_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/19",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/19",
+        "language": "cn",
         "category": "ch",
         "number": "19",
         "title": "C19"

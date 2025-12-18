@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "爱 的"
+              "text": "愛 的"
             },
             {
               "chord": "A",
@@ -32,11 +32,11 @@
             },
             {
               "chord": "",
-              "text": "陪 饼"
+              "text": "陪 餅"
             },
             {
               "chord": "D",
-              "text": "同 陈"
+              "text": "同 陳"
             },
             {
               "chord": "A7",
@@ -48,11 +48,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "这 些"
+              "text": "這 些"
             },
             {
               "chord": "",
-              "text": "表 记"
+              "text": "表 記"
             },
             {
               "chord": "G",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "",
-              "text": "饱 尝"
+              "text": "飽 嘗"
             },
             {
               "chord": "A7",
@@ -88,7 +88,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "为 著 这 杯"
+              "text": "為 著 這 杯"
             },
             {
               "chord": "A",
@@ -96,7 +96,7 @@
             },
             {
               "chord": "",
-              "text": "谢，"
+              "text": "謝，"
             }
           ]
         },
@@ -108,7 +108,7 @@
             },
             {
               "chord": "Bm",
-              "text": "你 赐"
+              "text": "你 賜"
             },
             {
               "chord": "E",
@@ -128,7 +128,7 @@
             },
             {
               "chord": "A",
-              "text": "丰 满"
+              "text": "豐 滿"
             },
             {
               "chord": "D7",
@@ -156,7 +156,7 @@
             },
             {
               "chord": "D",
-              "text": "备。"
+              "text": "備。"
             }
           ]
         }
@@ -379,10 +379,11 @@
     "category": "赞美主",
     "time": "6/4",
     "hymn_code": "324332116165132",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0176_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/223",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/223",
+        "language": "en",
         "category": "h",
         "number": "223",
         "title": "E223"
@@ -390,14 +391,14 @@
     ]
   },
   "raw_sections": [
-    "在 你爱 的筵 席上，",
-    "有 杯陪 饼同 陈列；",
-    "这 些表 记我 分享，",
-    "就 得饱 尝你 超越。",
-    "为 著 这 杯我 感谢，",
-    "就 是你 赐的 福杯，",
-    "也 是丰 满救 恩杯，",
-    "你 藉你 血所 豫备。",
+    "在 你愛 的筵 席上，",
+    "有 杯陪 餅同 陳列；",
+    "這 些表 記我 分享，",
+    "就 得飽 嘗你 超越。",
+    "為 著 這 杯我 感謝，",
+    "就 是你 賜的 福杯，",
+    "也 是豐 滿救 恩杯，",
+    "你 藉你 血所 豫備。",
     "这是你流的宝血，",
     "使我罪恶得清洗；",
     "这是你立的新约，",

@@ -28,7 +28,7 @@
             },
             {
               "chord": "D",
-              "text": "断 与"
+              "text": "斷 與"
             },
             {
               "chord": "",
@@ -64,19 +64,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "顺"
+              "text": "順"
             },
             {
               "chord": "B7",
-              "text": "从 圣"
+              "text": "從 聖"
             },
             {
               "chord": "",
-              "text": "灵 感"
+              "text": "靈 感"
             },
             {
               "chord": "E",
-              "text": "动，"
+              "text": "動，"
             }
           ]
         },
@@ -88,11 +88,11 @@
             },
             {
               "chord": "A",
-              "text": "天 荣"
+              "text": "天 榮"
             },
             {
               "chord": "",
-              "text": "上 加 荣，"
+              "text": "上 加 榮，"
             }
           ]
         },
@@ -100,19 +100,19 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "时"
+              "text": "時"
             },
             {
               "chord": "D",
-              "text": "时 赞"
+              "text": "時 讚"
             },
             {
               "chord": "",
-              "text": "美 称"
+              "text": "美 稱"
             },
             {
               "chord": "B7",
-              "text": "颂，"
+              "text": "頌，"
             }
           ]
         },
@@ -145,10 +145,11 @@
     "category": "鼓励",
     "time": "3/4",
     "hymn_code": "132123112161",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0476_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8476",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8476",
+        "language": "en",
         "category": "h",
         "number": "8476",
         "title": "E8476"
@@ -157,11 +158,11 @@
   },
   "raw_sections": [
     "活 在生 命 光中，",
-    "不断 与主 交通，",
+    "不斷 與主 交通，",
     "瞻仰 恩主 慈容，",
-    "顺从 圣灵 感动，",
-    "天天 荣上 加 荣，",
-    "时时 赞美 称颂，",
+    "順從 聖靈 感動，",
+    "天天 榮上 加 榮，",
+    "時時 讚美 稱頌，",
     "活在 生命 光中。"
   ]
 }

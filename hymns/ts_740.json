@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "谁 是"
+              "text": "誰 是"
             },
             {
               "chord": "",
-              "text": "在 主 这 边？"
+              "text": "在 主 這 邊？"
             }
           ]
         },
@@ -20,7 +20,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "谁 要"
+              "text": "誰 要"
             },
             {
               "chord": "",
@@ -36,11 +36,11 @@
           "segments": [
             {
               "chord": "B7",
-              "text": "谁 要"
+              "text": "誰 要"
             },
             {
               "chord": "",
-              "text": "在 新 样 中，"
+              "text": "在 新 樣 中，"
             }
           ]
         },
@@ -52,7 +52,7 @@
             },
             {
               "chord": "A7",
-              "text": "而 发"
+              "text": "而 發"
             },
             {
               "chord": "D",
@@ -64,11 +64,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "谁 要"
+              "text": "誰 要"
             },
             {
               "chord": "",
-              "text": "脱 离"
+              "text": "脫 離"
             },
             {
               "chord": "D",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "G",
-              "text": "灵 里"
+              "text": "靈 裡"
             },
             {
               "chord": "D",
@@ -96,11 +96,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "为 主"
+              "text": "為 主"
             },
             {
               "chord": "C",
-              "text": "断 送"
+              "text": "斷 送"
             },
             {
               "chord": "G",
@@ -120,11 +120,11 @@
             },
             {
               "chord": "D7",
-              "text": "这"
+              "text": "這"
             },
             {
               "chord": "G",
-              "text": "边？"
+              "text": "邊？"
             }
           ]
         },
@@ -132,15 +132,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 们 在 主"
+              "text": "我 們 在 主"
             },
             {
               "chord": "C",
-              "text": "这"
+              "text": "這"
             },
             {
               "chord": "G",
-              "text": "边！"
+              "text": "邊！"
             }
           ]
         },
@@ -148,7 +148,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "切 勿 变 冷 淡；"
+              "text": "切 勿 變 冷 淡；"
             }
           ]
         },
@@ -156,7 +156,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "灵 里 时 常 火 热，"
+              "text": "靈 裡 時 常 火 熱，"
             }
           ]
         },
@@ -164,15 +164,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "在 灵"
+              "text": "在 靈"
             },
             {
               "chord": "D7",
-              "text": "里 壮"
+              "text": "裡 壯"
             },
             {
               "chord": "G",
-              "text": "胆！"
+              "text": "膽！"
             }
           ]
         }
@@ -185,10 +185,11 @@
     "category": "教会的生活",
     "time": "4/4",
     "hymn_code": "55321566115",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0740_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/6740",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/6740",
+        "language": "en",
         "category": "h",
         "number": "6740",
         "title": "E6740"
@@ -196,17 +197,17 @@
     ]
   },
   "raw_sections": [
-    "谁 是在 主 这 边？",
-    "谁 要迎 接王？",
-    "谁 要在 新 样 中，",
-    "常 青而 发旺？",
-    "谁 要脱 离宗 教，",
-    "活 在灵 里面，",
-    "为 主断 送前 途，",
-    "站 在主这边？",
-    "我 们 在 主这边！",
-    "切 勿 变 冷 淡；",
-    "灵 里 时 常 火 热，",
-    "在 灵里 壮胆！"
+    "誰 是在 主 這 邊？",
+    "誰 要迎 接王？",
+    "誰 要在 新 樣 中，",
+    "常 青而 發旺？",
+    "誰 要脫 離宗 教，",
+    "活 在靈 裡面，",
+    "為 主斷 送前 途，",
+    "站 在主這邊？",
+    "我 們 在 主這邊！",
+    "切 勿 變 冷 淡；",
+    "靈 裡 時 常 火 熱，",
+    "在 靈裡 壯膽！"
   ]
 }

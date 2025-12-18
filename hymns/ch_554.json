@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "何 祷"
+              "text": "何 禱"
             },
             {
               "chord": "",
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "如 何 使 敌 遁"
+              "text": "如 何 使 敵 遁"
             },
             {
               "chord": "A",
@@ -52,19 +52,19 @@
             },
             {
               "chord": "",
-              "text": "绑"
+              "text": "綁"
             },
             {
               "chord": "G",
-              "text": "灭"
+              "text": "滅"
             },
             {
               "chord": "D",
-              "text": "其 权"
+              "text": "其 權"
             },
             {
               "chord": "",
-              "text": "势，"
+              "text": "勢，"
             }
           ]
         },
@@ -76,7 +76,7 @@
             },
             {
               "chord": "A",
-              "text": "众 罪"
+              "text": "眾 罪"
             },
             {
               "chord": "A7",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "D",
-              "text": "释。"
+              "text": "釋。"
             }
           ]
         }
@@ -211,10 +211,11 @@
     "category": "祷告",
     "time": "3/2",
     "hymn_code": "133321112354332",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0554_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/767",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/767",
+        "language": "en",
         "category": "h",
         "number": "767",
         "title": "E767"
@@ -222,10 +223,10 @@
     ]
   },
   "raw_sections": [
-    "求 主教 我如何 祷告！",
-    "如 何 使 敌 遁逃，",
-    "如何 捆绑灭其 权势，",
-    "使众 罪囚 得释。",
+    "求 主教 我如何 禱告！",
+    "如 何 使 敵 遁逃，",
+    "如何 捆綁滅其 權勢，",
+    "使眾 罪囚 得釋。",
     "求主教我如何祷告！",
     "如何阵地站牢，",
     "如何奋进攻破营垒，",

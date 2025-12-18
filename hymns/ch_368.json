@@ -8,19 +8,19 @@
           "segments": [
             {
               "chord": "D",
-              "text": "主， 当"
+              "text": "主， 當"
             },
             {
               "chord": "",
-              "text": "无 人 认"
+              "text": "無 人 認"
             },
             {
               "chord": "G",
-              "text": "识 父"
+              "text": "識 父"
             },
             {
               "chord": "D",
-              "text": "时，"
+              "text": "時，"
             }
           ]
         },
@@ -32,11 +32,11 @@
             },
             {
               "chord": "A",
-              "text": "里 藉"
+              "text": "裡 藉"
             },
             {
               "chord": "A7",
-              "text": "你 来"
+              "text": "你 來"
             },
             {
               "chord": "D",
@@ -48,11 +48,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "好 叫 我 们 虽"
+              "text": "好 叫 我 們 雖"
             },
             {
               "chord": "A",
-              "text": "然 无"
+              "text": "然 無"
             },
             {
               "chord": "D",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "",
-              "text": "识"
+              "text": "識"
             },
             {
               "chord": "D",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "A7",
-              "text": "认"
+              "text": "認"
             },
             {
               "chord": "D",
@@ -325,10 +325,11 @@
     "category": "经历基督",
     "time": "3/4",
     "hymn_code": "5555566511623443",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0368_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/490",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/490",
+        "language": "en",
         "category": "h",
         "number": "490",
         "title": "E490"
@@ -336,10 +337,10 @@
     ]
   },
   "raw_sections": [
-    "主， 当无 人 认识 父时，",
-    "父 在 你里 藉你 来地，",
-    "好 叫 我 们 虽然 无知，",
-    "如 要识父 只要认你。",
+    "主， 當無 人 認識 父時，",
+    "父 在 你裡 藉你 來地，",
+    "好 叫 我 們 雖然 無知，",
+    "如 要識父 只要認你。",
     "但是，当你在世时候，",
     "识你的人何等的少！",
     "与你好像间隔很厚，",

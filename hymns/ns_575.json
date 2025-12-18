@@ -7,52 +7,8 @@
         {
           "segments": [
             {
-              "chord": "Em",
-              "text": "From my"
-            },
-            {
               "chord": "",
-              "text": "iniqui"
-            },
-            {
-              "chord": "B7",
-              "text": "ty"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "Em",
-              "text": "Wash me"
-            },
-            {
-              "chord": "",
-              "text": "thorough"
-            },
-            {
-              "chord": "B7",
-              "text": "ly,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "Em",
-              "text": "And from"
-            },
-            {
-              "chord": "",
-              "text": "my"
-            },
-            {
-              "chord": "D",
-              "text": "sin cleanse"
-            },
-            {
-              "chord": "B7",
-              "text": "me."
+              "text": "From my iniquity"
             }
           ]
         },
@@ -60,23 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "For"
-            },
-            {
-              "chord": "Am",
-              "text": "I do"
-            },
-            {
-              "chord": "D",
-              "text": "know my"
-            },
-            {
-              "chord": "G",
-              "text": "transgres"
-            },
-            {
-              "chord": "Em",
-              "text": "sions,"
+              "text": "Wash me thoroughly,"
             }
           ]
         },
@@ -84,23 +24,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "And my"
-            },
-            {
-              "chord": "Am",
-              "text": "sin's before"
-            },
+              "text": "And from my sin cleanse me."
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "me"
-            },
+              "text": "For I do know my transgressions,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "B7",
-              "text": "continual"
-            },
-            {
-              "chord": "Em",
-              "text": "ly."
+              "chord": "",
+              "text": "And my sin’s before me continually."
             }
           ]
         }
@@ -114,27 +54,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "it. O"
-            },
-            {
-              "chord": "Am",
-              "text": "God, do"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D",
-              "text": "good unto"
-            },
-            {
-              "chord": "G",
-              "text": "Zi"
-            },
-            {
-              "chord": "Em",
-              "text": "on; Build"
+              "text": "Behold, You delight in truth"
             }
           ]
         },
@@ -142,23 +62,31 @@
           "segments": [
             {
               "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "Am",
-              "text": "walls of"
-            },
+              "text": "In the inward parts;"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "Je"
-            },
+              "text": "And in the hidden part"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "B7",
-              "text": "rusa"
-            },
+              "chord": "",
+              "text": "You would make known wisdom to me."
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "Em",
-              "text": "lem."
+              "chord": "",
+              "text": "Purge my sin with hyssop, and I’ll be clean."
             }
           ]
         }
@@ -329,17 +257,20 @@
   "metadata": {
     "category": "Scriptures for Singing",
     "time": "3/4",
-    "hymn_code": "366177666177"
+    "hymn_code": "366177666177",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0575_tune.midi"
   },
   "raw_sections": [
-    "From myiniquity",
-    "Wash methoroughly,",
-    "And frommysin cleanseme.",
-    "ForI doknow mytransgressions,",
-    "And mysin's beforemecontinually.",
-    "it. OGod, do",
-    "good untoZion; Build",
-    "thewalls ofJerusalem.",
+    "From my iniquity",
+    "Wash me thoroughly,",
+    "And from my sin cleanse me.",
+    "For I do know my transgressions,",
+    "And my sin’s before me continually.",
+    "Behold, You delight in truth",
+    "In the inward parts;",
+    "And in the hidden part",
+    "You would make known wisdom to me.",
+    "Purge my sin with hyssop, and I’ll be clean.",
     "Let me hear gladness and joy,",
     "That the bones You’ve broken,",
     "May exult, O God!",

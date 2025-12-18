@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "荣 耀、"
+              "text": "榮 耀、"
             },
             {
               "chord": "",
-              "text": "荣 耀 归 于"
+              "text": "榮 耀 歸 於"
             },
             {
               "chord": "Em",
-              "text": "圣 父，"
+              "text": "聖 父，"
             }
           ]
         },
@@ -24,11 +24,11 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "荣 耀、"
+              "text": "榮 耀、"
             },
             {
               "chord": "",
-              "text": "荣 耀 归 圣"
+              "text": "榮 耀 歸 聖"
             },
             {
               "chord": "D",
@@ -40,11 +40,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "荣 耀、 荣 耀 归 于"
+              "text": "榮 耀、 榮 耀 歸 於"
             },
             {
               "chord": "G",
-              "text": "圣 灵，"
+              "text": "聖 靈，"
             }
           ]
         },
@@ -52,11 +52,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "",
-              "text": "归 神"
+              "text": "歸 神"
             },
             {
               "chord": "A",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "A7",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "D",
@@ -82,7 +82,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "高 声 赞 美！"
+              "text": "高 聲 讚 美！"
             }
           ]
         },
@@ -90,7 +90,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "高 声 赞 美！"
+              "text": "高 聲 讚 美！"
             }
           ]
         },
@@ -98,7 +98,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "高 声 赞 美 三 一"
+              "text": "高 聲 讚 美 三 一"
             },
             {
               "chord": "A",
@@ -110,11 +110,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "",
-              "text": "归 祂！"
+              "text": "歸 祂！"
             }
           ]
         },
@@ -122,7 +122,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "荣 耀 归 祂！"
+              "text": "榮 耀 歸 祂！"
             }
           ]
         },
@@ -130,7 +130,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "荣 耀、 荣 耀，"
+              "text": "榮 耀、 榮 耀，"
             }
           ]
         },
@@ -138,7 +138,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "神 来"
+              "text": "神 來"
             },
             {
               "chord": "A",
@@ -356,10 +356,11 @@
     "category": "颂赞三一神",
     "time": "4/4",
     "hymn_code": "334321444254323",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0003_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/7",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/7",
+        "language": "en",
         "category": "h",
         "number": "7",
         "title": "E7"
@@ -367,17 +368,17 @@
     ]
   },
   "raw_sections": [
-    "荣 耀、荣 耀 归 于圣 父，",
-    "荣 耀、荣 耀 归 圣子，",
-    "荣 耀、 荣 耀 归 于圣 灵，",
-    "荣 耀归 神永无止。",
-    "高 声 赞 美！",
-    "高 声 赞 美！",
-    "高 声 赞 美 三 一神！",
-    "荣 耀归 祂！",
-    "荣 耀 归 祂！",
-    "荣 耀、 荣 耀，",
-    "神 来施 救恩。",
+    "榮 耀、榮 耀 歸 於聖 父，",
+    "榮 耀、榮 耀 歸 聖子，",
+    "榮 耀、 榮 耀 歸 於聖 靈，",
+    "榮 耀歸 神永無止。",
+    "高 聲 讚 美！",
+    "高 聲 讚 美！",
+    "高 聲 讚 美 三 一神！",
+    "榮 耀歸 祂！",
+    "榮 耀 歸 祂！",
+    "榮 耀、 榮 耀，",
+    "神 來施 救恩。",
     "赞美圣父定意、计画，",
     "赞美圣子来完成，",
     "赞美圣灵运行、实施，",

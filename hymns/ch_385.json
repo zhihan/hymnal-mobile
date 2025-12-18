@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "你 是 吗"
+              "text": "你 是 嗎"
             },
             {
               "chord": "Dm",
@@ -28,7 +28,7 @@
             },
             {
               "chord": "G",
-              "text": "经 从"
+              "text": "經 從"
             },
             {
               "chord": "G7",
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "来 作 我"
+              "text": "來 作 我"
             },
             {
               "chord": "C7",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "G7",
-              "text": "著 饱"
+              "text": "著 飽"
             },
             {
               "chord": "C",
@@ -140,7 +140,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "用你自己𫗪我，"
+              "text": "用你自己餧我，"
             }
           ]
         },
@@ -237,10 +237,11 @@
     "category": "经历基督",
     "time": "2/4",
     "hymn_code": "333432444543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0385_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8385",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8385",
+        "language": "en",
         "category": "h",
         "number": "8385",
         "title": "E8385"
@@ -248,17 +249,17 @@
     ]
   },
   "raw_sections": [
-    "主 阿，你 是 吗哪，",
-    "已经 从天 降下；",
-    "来 作 我的 食物，",
-    "使我 得著 饱足。",
+    "主 阿，你 是 嗎哪，",
+    "已經 從天 降下；",
+    "來 作 我的 食物，",
+    "使我 得著 飽足。",
     "你是磐石裂破，",
     "流出活水为我；",
     "随时我都可喝，",
     "使我免去干渴。",
     "现在我来就你，",
     "因我又渴又饥；",
-    "用你自己𫗪我，",
+    "用你自己餧我，",
     "给我活水解渴。",
     "我愿吃你、喝你，",
     "吸取你的自己；",

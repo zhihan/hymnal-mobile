@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "A",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "Em",
-              "text": "并 你"
+              "text": "並 你"
             },
             {
               "chord": "A7",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "D",
-              "text": "话，"
+              "text": "話，"
             }
           ]
         },
@@ -40,15 +40,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "离 去 前，"
+              "text": "離 去 前，"
             },
             {
               "chord": "G",
-              "text": "赞 美"
+              "text": "讚 美"
             },
             {
               "chord": "D",
-              "text": "还 要"
+              "text": "還 要"
             },
             {
               "chord": "A",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "A7",
-              "text": "发；"
+              "text": "發；"
             }
           ]
         },
@@ -72,15 +72,15 @@
             },
             {
               "chord": "A",
-              "text": "们 已"
+              "text": "們 已"
             },
             {
               "chord": "D",
-              "text": "为 你"
+              "text": "為 你"
             },
             {
               "chord": "B",
-              "text": "宝 贵"
+              "text": "寶 貴"
             },
             {
               "chord": "B7",
@@ -142,7 +142,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "使我得𫗪养，时将我供应；"
+              "text": "使我得餧养，时将我供应；"
             }
           ]
         },
@@ -209,10 +209,11 @@
     "category": "聚会",
     "time": "4/4",
     "hymn_code": "3345122343",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0630_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/869",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/869",
+        "language": "en",
         "category": "h",
         "number": "869",
         "title": "E869"
@@ -220,12 +221,12 @@
     ]
   },
   "raw_sections": [
-    "为著 你同在并 你活 的话，",
-    "离 去 前，赞 美还 要向你发；",
-    "我们 已为 你宝 贵所 吸引，",
+    "為著 你同在並 你活 的話，",
+    "離 去 前，讚 美還 要向你發；",
+    "我們 已為 你寶 貴所 吸引，",
     "你 有力信 息已 抓住我心。",
     "你话对于我，是灵、是生命，",
-    "使我得𫗪养，时将我供应；",
+    "使我得餧养，时将我供应；",
     "要将我变化，模成你形像，",
     "直到我成熟，满有你身量。",
     "求将你自己，更多供应我，",

@@ -20,7 +20,7 @@
             },
             {
               "chord": "",
-              "text": "点？"
+              "text": "點？"
             }
           ]
         },
@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "无 他， 惟 有 耶 稣"
+              "text": "無 他， 惟 有 耶 穌"
             },
             {
               "chord": "A",
-              "text": "宝"
+              "text": "寶"
             },
             {
               "chord": "D",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "A",
-              "text": "恢 复"
+              "text": "恢 復"
             },
             {
               "chord": "D",
@@ -64,11 +64,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "无 他， 惟 有 耶 稣"
+              "text": "無 他， 惟 有 耶 穌"
             },
             {
               "chord": "A",
-              "text": "宝"
+              "text": "寶"
             },
             {
               "chord": "D",
@@ -90,7 +90,7 @@
             },
             {
               "chord": "A",
-              "text": "这 血"
+              "text": "這 血"
             },
             {
               "chord": "D",
@@ -122,11 +122,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "别"
+              "text": "別"
             },
             {
               "chord": "A",
-              "text": "泉 无"
+              "text": "泉 無"
             },
             {
               "chord": "D",
@@ -142,11 +142,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "无 他， 惟 有 耶 稣"
+              "text": "無 他， 惟 有 耶 穌"
             },
             {
               "chord": "A",
-              "text": "宝"
+              "text": "寶"
             },
             {
               "chord": "D",
@@ -387,10 +387,11 @@
     "category": "福音",
     "time": "4/4",
     "hymn_code": "111235311123321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0684_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1008",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1008",
+        "language": "en",
         "category": "h",
         "number": "1008",
         "title": "E1008"
@@ -398,14 +399,14 @@
     ]
   },
   "raw_sections": [
-    "何 能洗 去我 污点？",
-    "无 他， 惟 有 耶 稣宝血！",
-    "何 能恢 复我 完全？",
-    "无 他， 惟 有 耶 稣宝血！",
-    "哦，这 血泉 何妙！",
+    "何 能洗 去我 污點？",
+    "無 他， 惟 有 耶 穌寶血！",
+    "何 能恢 復我 完全？",
+    "無 他， 惟 有 耶 穌寶血！",
+    "哦，這 血泉 何妙！",
     "洗 我如 雪 白皎！",
-    "别泉 无此 功效：",
-    "无 他， 惟 有 耶 稣宝血！",
+    "別泉 無此 功效：",
+    "無 他， 惟 有 耶 穌寶血！",
     "要得清洁，我认定，",
     "无他，惟有耶稣宝血！",
     "要得赦免，我能凭，",

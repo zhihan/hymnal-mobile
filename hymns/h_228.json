@@ -295,10 +295,11 @@
     "category": "Praise of the Lord",
     "time": "4/4",
     "hymn_code": "123343323211253",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0228_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/186",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/186",
+        "language": "cn",
         "category": "ch",
         "number": "186",
         "title": "C186"

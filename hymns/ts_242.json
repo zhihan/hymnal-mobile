@@ -28,15 +28,15 @@
             },
             {
               "chord": "G♯",
-              "text": "已 赐"
+              "text": "已 賜"
             },
             {
               "chord": "A♯",
-              "text": "给 我"
+              "text": "給 我"
             },
             {
               "chord": "Cm",
-              "text": "们；"
+              "text": "們；"
             }
           ]
         },
@@ -56,7 +56,7 @@
             },
             {
               "chord": "F",
-              "text": "赐 美"
+              "text": "賜 美"
             },
             {
               "chord": "Gm",
@@ -68,11 +68,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "这 是 召"
+              "text": "這 是 召"
             },
             {
               "chord": "Cm",
-              "text": "会 合"
+              "text": "會 合"
             },
             {
               "chord": "",
@@ -84,7 +84,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "大 家 来"
+              "text": "大 家 來"
             },
             {
               "chord": "Gm",
@@ -100,7 +100,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "脱 离 弯"
+              "text": "脫 離 彎"
             },
             {
               "chord": "Fm",
@@ -124,11 +124,11 @@
             },
             {
               "chord": "A♯",
-              "text": "全 丢"
+              "text": "全 丟"
             },
             {
               "chord": "Cm",
-              "text": "弃！"
+              "text": "棄！"
             }
           ]
         }
@@ -264,16 +264,17 @@
   "metadata": {
     "category": "享受基督",
     "time": "4/4",
-    "hymn_code": "3632612756"
+    "hymn_code": "3632612756",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0242_tune.midi"
   },
   "raw_sections": [
     "美 地，美地，",
-    "神已 赐给 我们；",
-    "基督 是神 所赐 美地。",
-    "这 是 召会 合一，",
-    "大 家 来在 一起，",
-    "脱 离 弯曲 世代，",
-    "世界 完全 丢弃！",
+    "神已 賜給 我們；",
+    "基督 是神 所賜 美地。",
+    "這 是 召會 合一，",
+    "大 家 來在 一起，",
+    "脫 離 彎曲 世代，",
+    "世界 完全 丟棄！",
     "来罢！来罢！",
     "我们来得这地，",
     "今日行走在基督里。",

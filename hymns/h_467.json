@@ -295,10 +295,11 @@
     "category": "Consecration",
     "time": "6/4",
     "hymn_code": "5333221544332",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0467_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/9467",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/9467",
+        "language": "cn",
         "category": "ch",
         "number": "9467",
         "title": "C9467"

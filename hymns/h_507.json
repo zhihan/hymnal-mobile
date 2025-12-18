@@ -395,10 +395,11 @@
     "category": "Experience of Christ",
     "time": "6/4",
     "hymn_code": "532111765561465",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0507_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/120",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/120",
+        "language": "cn",
         "category": "ts",
         "number": "120",
         "title": "Cs120"

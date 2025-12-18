@@ -40,11 +40,11 @@
             },
             {
               "chord": "",
-              "text": "乐"
+              "text": "樂"
             },
             {
               "chord": "A",
-              "text": "与 安，"
+              "text": "與 安，"
             },
             {
               "chord": "E7",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "A",
-              "text": "气；"
+              "text": "氣；"
             }
           ]
         },
@@ -64,11 +64,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 能 出 代 价， 达 到"
+              "text": "我 能 出 代 價， 達 到"
             },
             {
               "chord": "A7",
-              "text": "这 圣"
+              "text": "這 聖"
             },
             {
               "chord": "D",
@@ -227,10 +227,11 @@
     "category": "羡慕",
     "time": "4/4",
     "hymn_code": "3521656443",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0270_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/350",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/350",
+        "language": "en",
         "category": "h",
         "number": "350",
         "title": "E350"
@@ -239,8 +240,8 @@
   },
   "raw_sections": [
     "我心 所追 求乃 是神 自己，",
-    "不 是乐与 安，也 不是 福气；",
-    "我 能 出 代 价， 达 到这 圣地，",
+    "不 是樂與 安，也 不是 福氣；",
+    "我 能 出 代 價， 達 到這 聖地，",
     "不是 我自 己，乃 是祂 恩力。",
     "因信而向前，要得神自己，",
     "凭爱而跟随，永远不他依；",

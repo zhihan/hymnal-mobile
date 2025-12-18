@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "我 心 苦 楚 悲 伤，"
+              "text": "我 心 苦 楚 悲 傷，"
             }
           ]
         },
@@ -28,7 +28,7 @@
             },
             {
               "chord": "A7",
-              "text": "福 无"
+              "text": "福 無"
             },
             {
               "chord": "D",
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "惟 有 基 督 今 为 我 王，"
+              "text": "惟 有 基 督 今 為 我 王，"
             }
           ]
         },
@@ -56,11 +56,11 @@
             },
             {
               "chord": "",
-              "text": "满 欢"
+              "text": "滿 歡"
             },
             {
               "chord": "A",
-              "text": "畅。"
+              "text": "暢。"
             }
           ]
         }
@@ -82,7 +82,7 @@
             },
             {
               "chord": "",
-              "text": "稣 满"
+              "text": "穌 滿"
             },
             {
               "chord": "A",
@@ -98,7 +98,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "并 无 别 人 如"
+              "text": "並 無 別 人 如"
             },
             {
               "chord": "A",
@@ -110,15 +110,15 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "历"
+              "text": "歷"
             },
             {
               "chord": "D",
-              "text": "久 爱"
+              "text": "久 愛"
             },
             {
               "chord": "",
-              "text": "情、 生 命、 欢"
+              "text": "情、 生 命、 歡"
             },
             {
               "chord": "G",
@@ -138,11 +138,11 @@
             },
             {
               "chord": "A",
-              "text": "稣"
+              "text": "穌"
             },
             {
               "chord": "A7",
-              "text": "赐"
+              "text": "賜"
             },
             {
               "chord": "D",
@@ -458,10 +458,11 @@
     "category": "得救的证实与快乐",
     "time": "4/2",
     "hymn_code": "513331355553222123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0258_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/522",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/522",
+        "language": "en",
         "category": "h",
         "number": "522",
         "title": "E522"
@@ -469,14 +470,14 @@
     ]
   },
   "raw_sections": [
-    "以 前我 心 苦 楚 悲 伤，",
-    "永生 之福 无望；",
-    "惟 有 基 督 今 为 我 王，",
-    "我心 充满 欢畅。",
-    "今主 耶稣 满足 我心，",
-    "并 无 别 人 如祂；",
-    "历久 爱情、 生 命、 欢欣，",
-    "都由 耶稣赐下。",
+    "以 前我 心 苦 楚 悲 傷，",
+    "永生 之福 無望；",
+    "惟 有 基 督 今 為 我 王，",
+    "我心 充滿 歡暢。",
+    "今主 耶穌 滿足 我心，",
+    "並 無 別 人 如祂；",
+    "歷久 愛情、 生 命、 歡欣，",
+    "都由 耶穌賜下。",
     "我尝世间许多好味，",
     "干渴仍然极深；",
     "普天之下万般全备，",

@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "进 入"
+              "text": "進 入"
             },
             {
               "chord": "",
-              "text": "至 圣 所，"
+              "text": "至 聖 所，"
             }
           ]
         },
@@ -36,7 +36,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "恩 惠 临 到 如 同 江"
+              "text": "恩 惠 臨 到 如 同 江"
             },
             {
               "chord": "D",
@@ -48,11 +48,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "进 入"
+              "text": "進 入"
             },
             {
               "chord": "",
-              "text": "至 圣 所，"
+              "text": "至 聖 所，"
             }
           ]
         },
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "恩 惠 临 到"
+              "text": "恩 惠 臨 到"
             },
             {
               "chord": "D7",
@@ -96,7 +96,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "阿 利 路 亚！"
+              "text": "阿 利 路 亞！"
             },
             {
               "chord": "C",
@@ -104,7 +104,7 @@
             },
             {
               "chord": "G",
-              "text": "路 亚！"
+              "text": "路 亞！"
             }
           ]
         },
@@ -112,7 +112,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "恩 惠 临 到 如 同 江 河；"
+              "text": "恩 惠 臨 到 如 同 江 河；"
             }
           ]
         },
@@ -120,7 +120,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "阿 利 路 亚！"
+              "text": "阿 利 路 亞！"
             },
             {
               "chord": "C",
@@ -128,7 +128,7 @@
             },
             {
               "chord": "G",
-              "text": "路 亚！"
+              "text": "路 亞！"
             }
           ]
         },
@@ -136,7 +136,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "恩 惠 临 到"
+              "text": "恩 惠 臨 到"
             },
             {
               "chord": "D7",
@@ -333,10 +333,11 @@
     "category": "祷告",
     "time": "4/4",
     "hymn_code": "5512312165",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0557_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/770",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/770",
+        "language": "en",
         "category": "h",
         "number": "770",
         "title": "E770"
@@ -344,16 +345,16 @@
     ]
   },
   "raw_sections": [
-    "进 入至 圣 所，",
+    "進 入至 聖 所，",
     "摸 主施 恩座，",
-    "恩 惠 临 到 如 同 江河；",
-    "进 入至 圣 所，",
+    "恩 惠 臨 到 如 同 江河；",
+    "進 入至 聖 所，",
     "摸 主施 恩座，",
-    "恩 惠 临 到如 同江河。",
-    "阿 利 路 亚！阿 利路 亚！",
-    "恩 惠 临 到 如 同 江 河；",
-    "阿 利 路 亚！阿 利路 亚！",
-    "恩 惠 临 到如 同江河。",
+    "恩 惠 臨 到如 同江河。",
+    "阿 利 路 亞！阿 利路 亞！",
+    "恩 惠 臨 到 如 同 江 河；",
+    "阿 利 路 亞！阿 利路 亞！",
+    "恩 惠 臨 到如 同江河。",
     "进入至圣所，",
     "幔内过生活，",
     "荣光照耀将我射过；",

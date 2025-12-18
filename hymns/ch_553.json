@@ -16,7 +16,7 @@
             },
             {
               "chord": "A",
-              "text": "静 在"
+              "text": "靜 在"
             },
             {
               "chord": "A7",
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "将 我 全 人 收"
+              "text": "將 我 全 人 收"
             },
             {
               "chord": "E7",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "",
-              "text": "我 里"
+              "text": "我 裡"
             },
             {
               "chord": "A",
@@ -56,15 +56,15 @@
             },
             {
               "chord": "",
-              "text": "仅 是 外"
+              "text": "僅 是 外"
             },
             {
               "chord": "G",
-              "text": "面 随"
+              "text": "面 隨"
             },
             {
               "chord": "",
-              "text": "意 祷"
+              "text": "意 禱"
             },
             {
               "chord": "D",
@@ -84,19 +84,19 @@
             },
             {
               "chord": "D",
-              "text": "著 灵"
+              "text": "著 靈"
             },
             {
               "chord": "",
-              "text": "里 感"
+              "text": "裡 感"
             },
             {
               "chord": "A",
-              "text": "觉"
+              "text": "覺"
             },
             {
               "chord": "A7",
-              "text": "发"
+              "text": "發"
             },
             {
               "chord": "D",
@@ -341,10 +341,11 @@
     "category": "祷告",
     "time": "4/4",
     "hymn_code": "3231123453",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0553_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/764",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/764",
+        "language": "en",
         "category": "h",
         "number": "764",
         "title": "E764"
@@ -352,10 +353,10 @@
     ]
   },
   "raw_sections": [
-    "主 阿，我 要 安静 在你 面前，",
-    "将 我 全 人 收回 到我 里面；",
-    "不 再仅 是 外面 随意 祷告，",
-    "乃 是照著 灵里 感觉发表。",
+    "主 阿，我 要 安靜 在你 面前，",
+    "將 我 全 人 收回 到我 裡面；",
+    "不 再僅 是 外面 隨意 禱告，",
+    "乃 是照著 靈裡 感覺發表。",
     "主，你好像是在天上听我，",
     "实在你是在我里面住着；",
     "好像是我向你呼求、祷告，",

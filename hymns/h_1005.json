@@ -399,10 +399,11 @@
     "category": "Gospel",
     "time": "4/4",
     "hymn_code": "556536615",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1005_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/685",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/685",
+        "language": "cn",
         "category": "ch",
         "number": "685",
         "title": "C685"

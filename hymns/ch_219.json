@@ -20,7 +20,7 @@
             },
             {
               "chord": "",
-              "text": "干"
+              "text": "乾"
             },
             {
               "chord": "D",
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "在 这"
+              "text": "在 這"
             },
             {
               "chord": "",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "D",
-              "text": "寻"
+              "text": "尋"
             },
             {
               "chord": "A7",
@@ -56,7 +56,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 心 羡 慕"
+              "text": "我 心 羨 慕"
             },
             {
               "chord": "G",
@@ -88,11 +88,11 @@
             },
             {
               "chord": "A7",
-              "text": "饥"
+              "text": "饑"
             },
             {
               "chord": "D",
-              "text": "馑。"
+              "text": "饉。"
             }
           ]
         }
@@ -106,11 +106,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "今 寻 求，"
+              "text": "今 尋 求，"
             },
             {
               "chord": "Bm",
-              "text": "今 寻"
+              "text": "今 尋"
             },
             {
               "chord": "F♯",
@@ -122,7 +122,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "赐"
+              "text": "賜"
             },
             {
               "chord": "A",
@@ -130,11 +130,11 @@
             },
             {
               "chord": "D",
-              "text": "圣"
+              "text": "聖"
             },
             {
               "chord": "Bm",
-              "text": "灵"
+              "text": "靈"
             },
             {
               "chord": "D",
@@ -407,10 +407,11 @@
     "category": "圣灵的丰满",
     "time": "6/4",
     "hymn_code": "345143322342171",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0219_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/283",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/283",
+        "language": "en",
         "category": "h",
         "number": "283",
         "title": "E283"
@@ -418,12 +419,12 @@
     ]
   },
   "raw_sections": [
-    "主， 你知 道所 有干渴，",
-    "在 这不 足寻求心；",
-    "我 心 羡 慕何 等深刻，",
-    "惟 你能 使不饥馑。",
-    "今 寻 求，今 寻求，",
-    "赐你圣灵的富有。",
+    "主， 你知 道所 有乾渴，",
+    "在 這不 足尋求心；",
+    "我 心 羨 慕何 等深刻，",
+    "惟 你能 使不饑饉。",
+    "今 尋 求，今 尋求，",
+    "賜你聖靈的富有。",
     "行为失败，见证失败，",
     "工作失败已明显，",
     "无果之劳、非主之态，",

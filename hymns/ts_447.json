@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "人， 有 一 人， 宝 座 上 坐"
+              "text": "人， 有 一 人， 寶 座 上 坐"
             },
             {
               "chord": "Em",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "",
-              "text": "锋，"
+              "text": "鋒，"
             },
             {
               "chord": "A7",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "",
-              "text": "已 开"
+              "text": "已 開"
             },
             {
               "chord": "D",
@@ -52,11 +52,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "这 人 子 是 耶 稣， 我 们 乐 追"
+              "text": "這 人 子 是 耶 穌， 我 們 樂 追"
             },
             {
               "chord": "G",
-              "text": "随；"
+              "text": "隨；"
             }
           ]
         },
@@ -68,15 +68,15 @@
             },
             {
               "chord": "",
-              "text": "得 胜，"
+              "text": "得 勝，"
             },
             {
               "chord": "D",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "G",
-              "text": "与 祂"
+              "text": "與 祂"
             },
             {
               "chord": "D",
@@ -253,10 +253,11 @@
     "category": "追求与长进",
     "time": "4/4",
     "hymn_code": "33333331432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0447_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1189",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1189",
+        "language": "en",
         "category": "h",
         "number": "1189",
         "title": "E1189"
@@ -264,10 +265,10 @@
     ]
   },
   "raw_sections": [
-    "有 一人， 有 一 人， 宝 座 上 坐著；",
-    "有 一 人，作 先锋，道 路已 开拓；",
-    "这 人 子 是 耶 稣， 我 们 乐 追随；",
-    "祂 已得 胜，我 们与 祂同登位。",
+    "有 一人， 有 一 人， 寶 座 上 坐著；",
+    "有 一 人，作 先鋒，道 路已 開拓；",
+    "這 人 子 是 耶 穌， 我 們 樂 追隨；",
+    "祂 已得 勝，我 們與 祂同登位。",
     "向上去，向上去，与祂同登极；",
     "向上去，经罪世，胜黑暗忧悒；",
     "撒但虽将人掳，我们得释放，",

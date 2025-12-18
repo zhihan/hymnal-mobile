@@ -16,11 +16,11 @@
             },
             {
               "chord": "Bm",
-              "text": "肃"
+              "text": "肅"
             },
             {
               "chord": "D",
-              "text": "静，"
+              "text": "靜，"
             }
           ]
         },
@@ -44,15 +44,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "先 让 祂"
+              "text": "先 讓 祂"
             },
             {
               "chord": "A",
-              "text": "说"
+              "text": "說"
             },
             {
               "chord": "D",
-              "text": "话，"
+              "text": "話，"
             }
           ]
         },
@@ -60,7 +60,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "然 后"
+              "text": "然 後"
             },
             {
               "chord": "E7",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "A",
-              "text": "诉。"
+              "text": "訴。"
             }
           ]
         },
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "真 实"
+              "text": "真 實"
             },
             {
               "chord": "",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "G",
-              "text": "祷"
+              "text": "禱"
             },
             {
               "chord": "D",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "B7",
-              "text": "主 发"
+              "text": "主 發"
             },
             {
               "chord": "Em",
@@ -116,7 +116,7 @@
             },
             {
               "chord": "A7",
-              "text": "仅 是"
+              "text": "僅 是"
             },
             {
               "chord": "D",
@@ -128,7 +128,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "发 表"
+              "text": "發 表"
             },
             {
               "chord": "D",
@@ -573,10 +573,11 @@
     "category": "祷告",
     "time": "4/4",
     "hymn_code": "3213554123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0575_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/793",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/793",
+        "language": "en",
         "category": "h",
         "number": "793",
         "title": "E793"
@@ -584,14 +585,14 @@
     ]
   },
   "raw_sections": [
-    "我 魂要肃静，",
+    "我 魂要肅靜，",
     "等 候你 的主！",
-    "先 让 祂说话，",
-    "然 后向 祂诉。",
-    "真 实的祷告，",
-    "乃 是主 发起；",
-    "你仅 是器 皿，",
-    "发 表祂自己。",
+    "先 讓 祂說話，",
+    "然 後向 祂訴。",
+    "真 實的禱告，",
+    "乃 是主 發起；",
+    "你僅 是器 皿，",
+    "發 表祂自己。",
     "我魂要肃静，",
     "等候你的主！",
     "你所有意念，",

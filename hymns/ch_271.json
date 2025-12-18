@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "听 我 呼"
+              "text": "聽 我 呼"
             },
             {
               "chord": "D",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "G",
-              "text": "请；"
+              "text": "請；"
             }
           ]
         },
@@ -52,11 +52,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "无 限"
+              "text": "無 限"
             },
             {
               "chord": "",
-              "text": "荣"
+              "text": "榮"
             },
             {
               "chord": "G",
@@ -68,11 +68,11 @@
             },
             {
               "chord": "C",
-              "text": "身 围"
+              "text": "身 圍"
             },
             {
               "chord": "Em",
-              "text": "绕，"
+              "text": "繞，"
             }
           ]
         },
@@ -80,7 +80,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "生 命 赐"
+              "text": "生 命 賜"
             },
             {
               "chord": "G",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "",
-              "text": "你 给"
+              "text": "你 給"
             },
             {
               "chord": "D7",
@@ -261,10 +261,11 @@
     "category": "羡慕",
     "time": "4/4",
     "hymn_code": "53533216165",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0271_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/351",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/351",
+        "language": "en",
         "category": "h",
         "number": "351",
         "title": "E351"
@@ -273,9 +274,9 @@
   },
   "raw_sections": [
     "全 能的 神， 非 受 造的 生命，",
-    "听 我 呼求， 允我 在此 所请；",
-    "无 限荣耀， 在你 周身 围绕，",
-    "生 命 赐者， 求你 给我 所要。",
+    "聽 我 呼求， 允我 在此 所請；",
+    "無 限榮耀， 在你 周身 圍繞，",
+    "生 命 賜者， 求你 給我 所要。",
     "借着基督所经历的十架，",
     "借着祂死所成功的击杀，",
     "黑暗权势，救我全然脱离，",

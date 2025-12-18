@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "胜 哉、"
+              "text": "勝 哉、"
             },
             {
               "chord": "",
-              "text": "胜 哉、"
+              "text": "勝 哉、"
             },
             {
               "chord": "A",
-              "text": "胜"
+              "text": "勝"
             },
             {
               "chord": "D",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "",
-              "text": "里，"
+              "text": "裡，"
             }
           ]
         },
@@ -68,11 +68,11 @@
             },
             {
               "chord": "E",
-              "text": "为 我"
+              "text": "為 我"
             },
             {
               "chord": "",
-              "text": "们 食"
+              "text": "們 食"
             },
             {
               "chord": "A",
@@ -84,15 +84,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "吃 喝、"
+              "text": "喫 喝、"
             },
             {
               "chord": "",
-              "text": "吃 喝、"
+              "text": "喫 喝、"
             },
             {
               "chord": "A",
-              "text": "吃"
+              "text": "喫"
             },
             {
               "chord": "D",
@@ -104,15 +104,15 @@
           "segments": [
             {
               "chord": "G",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
-              "text": "尽 情"
+              "text": "盡 情"
             },
             {
               "chord": "D",
-              "text": "吃 喝；"
+              "text": "喫 喝；"
             }
           ]
         },
@@ -124,11 +124,11 @@
             },
             {
               "chord": "G",
-              "text": "复"
+              "text": "復"
             },
             {
               "chord": "D",
-              "text": "里，"
+              "text": "裡，"
             }
           ]
         },
@@ -297,10 +297,11 @@
     "category": "享受基督",
     "time": "4/4",
     "hymn_code": "113355666653",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0213_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/6213",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/6213",
+        "language": "en",
         "category": "h",
         "number": "6213",
         "title": "E6213"
@@ -308,13 +309,13 @@
     ]
   },
   "raw_sections": [
-    "胜 哉、胜 哉、胜哉，",
+    "勝 哉、勝 哉、勝哉，",
     "完 全回到 起初！",
-    "神 今 在基 督里，",
-    "成为 我们 食物。",
-    "吃 喝、吃 喝、吃喝，",
-    "我 们尽 情吃 喝；",
-    "在 神 恢复里，",
+    "神 今 在基 督裡，",
+    "成為 我們 食物。",
+    "喫 喝、喫 喝、喫喝，",
+    "我 們盡 情喫 喝；",
+    "在 神 恢復裡，",
     "我 不知 太多。",
     "大声呼喊耶稣，",
     "哦，我们真饱足！",

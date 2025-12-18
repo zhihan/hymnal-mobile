@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "A",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
-              "text": "赞 美 你"
+              "text": "讚 美 你"
             },
             {
               "chord": "E",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "",
-              "text": "义，"
+              "text": "義，"
             }
           ]
         },
@@ -36,11 +36,11 @@
             },
             {
               "chord": "D",
-              "text": "义 我"
+              "text": "義 我"
             },
             {
               "chord": "",
-              "text": "们 称"
+              "text": "們 稱"
             },
             {
               "chord": "E",
@@ -52,15 +52,15 @@
           "segments": [
             {
               "chord": "A",
-              "text": "永 远"
+              "text": "永 遠"
             },
             {
               "chord": "",
-              "text": "见"
+              "text": "見"
             },
             {
               "chord": "E",
-              "text": "证"
+              "text": "證"
             },
             {
               "chord": "E7",
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 是 审 判 全"
+              "text": "你 是 審 判 全"
             },
             {
               "chord": "E",
@@ -100,11 +100,11 @@
             },
             {
               "chord": "D",
-              "text": "义 谁"
+              "text": "義 誰"
             },
             {
               "chord": "",
-              "text": "能 寻"
+              "text": "能 尋"
             },
             {
               "chord": "E",
@@ -132,7 +132,7 @@
             },
             {
               "chord": "A",
-              "text": "义！"
+              "text": "義！"
             }
           ]
         }
@@ -415,10 +415,11 @@
     "category": "敬拜父",
     "time": "3/2",
     "hymn_code": "13332555",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0016_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/21",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/21",
+        "language": "en",
         "category": "h",
         "number": "21",
         "title": "E21"
@@ -426,12 +427,12 @@
     ]
   },
   "raw_sections": [
-    "我 们赞 美 你的 公义，",
-    "你的 正义 我们 称奇，",
-    "永 远见证不已。",
-    "你 是 审 判 全地 的主，",
-    "在你 不义 谁能 寻出？",
-    "你 是全然公义！",
+    "我 們讚 美 你的 公義，",
+    "你的 正義 我們 稱奇，",
+    "永 遠見證不已。",
+    "你 是 審 判 全地 的主，",
+    "在你 不義 誰能 尋出？",
+    "你 是全然公義！",
     "公义是你宝座根基，",
     "和平借此得以建立，",
     "像你信实坚定！",

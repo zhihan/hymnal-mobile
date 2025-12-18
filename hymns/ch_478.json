@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "亲 爱"
+              "text": "親 愛"
             },
             {
               "chord": "F♯",
@@ -24,15 +24,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "战 场"
+              "text": "戰 場"
             },
             {
               "chord": "A7",
-              "text": "在 冲"
+              "text": "在 衝"
             },
             {
               "chord": "D",
-              "text": "锋，"
+              "text": "鋒，"
             }
           ]
         },
@@ -44,7 +44,7 @@
             },
             {
               "chord": "A",
-              "text": "倚 赖"
+              "text": "倚 賴"
             },
             {
               "chord": "D",
@@ -56,15 +56,15 @@
           "segments": [
             {
               "chord": "A",
-              "text": "争 战"
+              "text": "爭 戰"
             },
             {
               "chord": "E7",
-              "text": "难 得"
+              "text": "難 得"
             },
             {
               "chord": "A",
-              "text": "胜；"
+              "text": "勝；"
             }
           ]
         },
@@ -88,7 +88,7 @@
           "segments": [
             {
               "chord": "B",
-              "text": "单 靠"
+              "text": "單 靠"
             },
             {
               "chord": "B7",
@@ -116,7 +116,7 @@
             },
             {
               "chord": "G",
-              "text": "里，"
+              "text": "裡，"
             }
           ]
         },
@@ -429,10 +429,11 @@
     "category": "鼓励",
     "time": "4/4",
     "hymn_code": "33333333523",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0478_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/648",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/648",
+        "language": "en",
         "category": "h",
         "number": "648",
         "title": "E648"
@@ -440,13 +441,13 @@
     ]
   },
   "raw_sections": [
-    "亲 爱基 督精 兵，",
-    "战 场在 冲锋，",
-    "前 曾倚 赖自 己，",
-    "争 战难 得胜；",
+    "親 愛基 督精 兵，",
+    "戰 場在 衝鋒，",
+    "前 曾倚 賴自 己，",
+    "爭 戰難 得勝；",
     "勿 再倚 靠自 己，",
-    "单 靠基 督大 力；",
-    "在 那加 力基 督里，",
+    "單 靠基 督大 力；",
+    "在 那加 力基 督裡，",
     "凡事 我都 能作。",
     "在你日常分内，",
     "站住为正义，",

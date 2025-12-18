@@ -384,10 +384,11 @@
     "category": "The Church",
     "time": "4/4",
     "hymn_code": "551123334322",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1234_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/220",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/220",
+        "language": "cn",
         "category": "ts",
         "number": "220",
         "title": "Cs220"

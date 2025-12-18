@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "我 将"
+              "text": "我 將"
             },
             {
               "chord": "",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "A",
-              "text": "全 献"
+              "text": "全 獻"
             },
             {
               "chord": "",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "全 献"
+              "text": "全 獻"
             },
             {
               "chord": "",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "D",
-              "text": "愿；"
+              "text": "願；"
             }
           ]
         },
@@ -48,15 +48,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 要 永 远"
+              "text": "我 要 永 遠"
             },
             {
               "chord": "A",
-              "text": "爱 主，"
+              "text": "愛 主，"
             },
             {
               "chord": "",
-              "text": "随 主，"
+              "text": "隨 主，"
             }
           ]
         },
@@ -94,7 +94,7 @@
             },
             {
               "chord": "A",
-              "text": "献！"
+              "text": "獻！"
             }
           ]
         },
@@ -110,7 +110,7 @@
             },
             {
               "chord": "D",
-              "text": "献！"
+              "text": "獻！"
             }
           ]
         },
@@ -130,7 +130,7 @@
             },
             {
               "chord": "G",
-              "text": "我 愿"
+              "text": "我 願"
             },
             {
               "chord": "A",
@@ -142,7 +142,7 @@
             },
             {
               "chord": "D",
-              "text": "献！"
+              "text": "獻！"
             }
           ]
         }
@@ -454,10 +454,11 @@
     "category": "奉献",
     "time": "4/4",
     "hymn_code": "334322321143231",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0337_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/441",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/441",
+        "language": "en",
         "category": "h",
         "number": "441",
         "title": "E441"
@@ -465,14 +466,14 @@
     ]
   },
   "raw_sections": [
-    "我 将一 切全 献基 督，",
-    "全 献恩 主心 甘愿；",
-    "我 要 永 远爱 主，随 主，",
+    "我 將一 切全 獻基 督，",
+    "全 獻恩 主心 甘願；",
+    "我 要 永 遠愛 主，隨 主，",
     "天 天活 在主 面前。",
-    "一 切 全 奉献！",
-    "一 切全 奉献！",
+    "一 切 全 奉獻！",
+    "一 切全 奉獻！",
     "我 的 恩 主，",
-    "向 你我 愿一 切全 奉献！",
+    "向 你我 願一 切全 奉獻！",
     "我将一切全献基督，",
     "我今俯伏主脚前；",
     "今世福乐永不我属，",

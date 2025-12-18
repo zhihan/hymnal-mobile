@@ -7,40 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "The word"
-            },
-            {
               "chord": "",
-              "text": "is near you,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "G",
-              "text": "The word"
-            },
-            {
-              "chord": "",
-              "text": "of faith;It's"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D",
-              "text": "in your"
-            },
-            {
-              "chord": "",
-              "text": "mouth and in your heart,"
-            },
-            {
-              "chord": "A",
-              "text": "That if"
+              "text": "The word is near you,"
             }
           ]
         },
@@ -48,43 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "you"
-            },
-            {
-              "chord": "G",
-              "text": "confess"
-            },
-            {
-              "chord": "",
-              "text": "with"
-            },
-            {
-              "chord": "D",
-              "text": "your mouth"
-            },
-            {
-              "chord": "",
-              "text": "Je"
-            },
-            {
-              "chord": "A",
-              "text": "sus as"
-            },
-            {
-              "chord": "",
-              "text": "Lord And"
-            },
-            {
-              "chord": "Bm",
-              "text": "believe"
-            },
-            {
-              "chord": "",
-              "text": "in"
-            },
-            {
-              "chord": "G",
-              "text": "your heart"
+              "text": "The word of faith;"
             }
           ]
         },
@@ -92,31 +24,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "that"
-            },
-            {
-              "chord": "D",
-              "text": "God has"
-            },
-            {
-              "chord": "",
-              "text": "raised Him"
-            },
-            {
-              "chord": "A",
-              "text": "from the"
-            },
+              "text": "It’s in your mouth and in your heart,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "dead, You"
-            },
+              "text": "That if you confess with your mouth Jesus as Lord (Jesus is Lord!)"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "D",
-              "text": "will be"
-            },
-            {
-              "chord": "D7",
-              "text": "saved! You"
+              "chord": "",
+              "text": "And believe in your heart that God has raised Him from the dead,"
             }
           ]
         }
@@ -129,20 +53,8 @@
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "will be"
-            },
-            {
               "chord": "",
-              "text": "saved! Just"
-            },
-            {
-              "chord": "D",
-              "text": "call upon"
-            },
-            {
-              "chord": "",
-              "text": "His name"
+              "text": "You will be saved! (You will be saved!)"
             }
           ]
         },
@@ -150,15 +62,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "and you'll be saved; For"
-            },
-            {
-              "chord": "A",
-              "text": "whoever"
-            },
-            {
-              "chord": "G",
-              "text": "calls"
+              "text": "You will be saved! (Yes, you will!)"
             }
           ]
         },
@@ -166,43 +70,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "upon the"
-            },
-            {
-              "chord": "D",
-              "text": "name, The"
-            },
-            {
-              "chord": "",
-              "text": "name of"
-            },
-            {
-              "chord": "A",
-              "text": "the Lord,"
-            },
-            {
-              "chord": "",
-              "text": "For"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "Bm",
-              "text": "whoever"
-            },
-            {
-              "chord": "G",
-              "text": "calls His"
-            },
-            {
-              "chord": "",
-              "text": "name shall"
-            },
-            {
-              "chord": "A",
-              "text": "be"
+              "text": "Just call upon His name and you’ll be saved;"
             }
           ]
         },
@@ -210,7 +78,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "saved."
+              "text": "For whoever calls upon the name,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The name of the Lord,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For whoever calls His name shall be saved."
             }
           ]
         }
@@ -320,19 +204,21 @@
   "metadata": {
     "category": "Gospel",
     "time": "4/4",
-    "hymn_code": "112216656111233212"
+    "hymn_code": "112216656111233212",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0988_tune.midi"
   },
   "raw_sections": [
-    "The wordis near you,",
-    "The wordof faith;It's",
-    "in yourmouth and in your heart,That if",
-    "youconfesswithyour mouthJesus asLord Andbelieveinyour heart",
-    "thatGod hasraised Himfrom thedead, Youwill besaved! You",
-    "will besaved! Justcall uponHis name",
-    "and you'll be saved; Forwhoevercalls",
-    "upon thename, Thename ofthe Lord,For",
-    "whoevercalls Hisname shallbe",
-    "saved.",
+    "The word is near you,",
+    "The word of faith;",
+    "It’s in your mouth and in your heart,",
+    "That if you confess with your mouth Jesus as Lord (Jesus is Lord!)",
+    "And believe in your heart that God has raised Him from the dead,",
+    "You will be saved! (You will be saved!)",
+    "You will be saved! (Yes, you will!)",
+    "Just call upon His name and you’ll be saved;",
+    "For whoever calls upon the name,",
+    "The name of the Lord,",
+    "For whoever calls His name shall be saved.",
     "For with the heart there",
     "Is believing,",
     "And with the mouth there is confession.",

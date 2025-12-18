@@ -8,19 +8,19 @@
           "segments": [
             {
               "chord": "D",
-              "text": "这 是"
+              "text": "這 是"
             },
             {
               "chord": "G",
-              "text": "召 会"
+              "text": "召 會"
             },
             {
               "chord": "",
-              "text": "得 胜"
+              "text": "得 勝"
             },
             {
               "chord": "A",
-              "text": "歌 声，"
+              "text": "歌 聲，"
             }
           ]
         },
@@ -48,15 +48,15 @@
             },
             {
               "chord": "G",
-              "text": "充 满"
+              "text": "充 滿"
             },
             {
               "chord": "",
-              "text": "赞 美"
+              "text": "讚 美"
             },
             {
               "chord": "A",
-              "text": "欢 腾，"
+              "text": "歡 騰，"
             }
           ]
         },
@@ -84,7 +84,7 @@
             },
             {
               "chord": "",
-              "text": "政 权 向 祂 屈 服，"
+              "text": "政 權 向 祂 屈 服，"
             }
           ]
         },
@@ -92,7 +92,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "馨 香 气 味"
+              "text": "馨 香 氣 味"
             },
             {
               "chord": "A",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "A7",
-              "text": "高 处，"
+              "text": "高 處，"
             }
           ]
         },
@@ -112,7 +112,7 @@
             },
             {
               "chord": "G",
-              "text": "声 音"
+              "text": "聲 音"
             },
             {
               "chord": "",
@@ -359,10 +359,11 @@
     "category": "赞美的话",
     "time": "4/4",
     "hymn_code": "176121756771",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0023_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/181",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/181",
+        "language": "en",
         "category": "h",
         "number": "181",
         "title": "E181"
@@ -370,13 +371,13 @@
     ]
   },
   "raw_sections": [
-    "这 是召 会得 胜歌 声，",
+    "這 是召 會得 勝歌 聲，",
     "羔羊 是配；",
-    "天 上充 满赞 美欢 腾，",
+    "天 上充 滿讚 美歡 騰，",
     "羔羊 是配。",
-    "王 位政 权 向 祂 屈 服，",
-    "馨 香 气 味升 上高 处，",
-    "歌 唱声 音永 不止 住，",
+    "王 位政 權 向 祂 屈 服，",
+    "馨 香 氣 味升 上高 處，",
+    "歌 唱聲 音永 不止 住，",
     "羔羊 是配。",
     "各类各族各国人们，",
     "羔羊是配；",

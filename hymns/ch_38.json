@@ -12,15 +12,15 @@
             },
             {
               "chord": "",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "A",
-              "text": "来 颂"
+              "text": "來 頌"
             },
             {
               "chord": "",
-              "text": "赞"
+              "text": "讚"
             },
             {
               "chord": "D",
@@ -32,11 +32,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "Em",
-              "text": "谦 卑"
+              "text": "謙 卑"
             },
             {
               "chord": "A7",
@@ -52,15 +52,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 们 现 今"
+              "text": "我 們 現 今"
             },
             {
               "chord": "A",
-              "text": "得 认"
+              "text": "得 認"
             },
             {
               "chord": "",
-              "text": "识"
+              "text": "識"
             },
             {
               "chord": "D",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "A7",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "D",
-              "text": "气。"
+              "text": "氣。"
             }
           ]
         },
@@ -92,15 +92,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 们 得 著"
+              "text": "我 們 得 著"
             },
             {
               "chord": "G",
-              "text": "这 样"
+              "text": "這 樣"
             },
             {
               "chord": "D",
-              "text": "权 柄，"
+              "text": "權 柄，"
             }
           ]
         },
@@ -112,7 +112,7 @@
             },
             {
               "chord": "Bm",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "E7",
@@ -128,7 +128,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "你 灵"
+              "text": "你 靈"
             },
             {
               "chord": "",
@@ -136,11 +136,11 @@
             },
             {
               "chord": "A",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "D",
-              "text": "的 灵，"
+              "text": "的 靈，"
             }
           ]
         },
@@ -148,11 +148,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "证 明"
+              "text": "證 明"
             },
             {
               "chord": "G",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "D",
@@ -387,10 +387,11 @@
     "category": "敬拜父",
     "time": "4/4",
     "hymn_code": "1231235436543221",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0038_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/45",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/45",
+        "language": "en",
         "category": "h",
         "number": "45",
         "title": "E45"
@@ -398,14 +399,14 @@
     ]
   },
   "raw_sections": [
-    "阿 爸，我 们来 颂赞你！",
-    "我 们谦 卑敬 拜你！",
-    "我 们 现 今得 认识你，",
-    "真 是我 们的 福气。",
-    "我 们 得 著这 样权 柄，",
-    "是 因耶 稣的 尊名；",
-    "你 灵也 和我 们的 灵，",
-    "证 明我 们有生命。",
+    "阿 爸，我 們來 頌讚你！",
+    "我 們謙 卑敬 拜你！",
+    "我 們 現 今得 認識你，",
+    "真 是我 們的 福氣。",
+    "我 們 得 著這 樣權 柄，",
+    "是 因耶 穌的 尊名；",
+    "你 靈也 和我 們的 靈，",
+    "證 明我 們有生命。",
     "世界还未起首时候，",
     "你就在基督里头，",
     "豫定我们作你儿子，",

@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "Cm",
-              "text": "我 听"
+              "text": "我 聽"
             },
             {
               "chord": "",
-              "text": "见 了 主 耶 稣"
+              "text": "見 了 主 耶 穌"
             },
             {
               "chord": "Fm",
-              "text": "说："
+              "text": "說："
             }
           ]
         },
@@ -24,7 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "『来，"
+              "text": "『來，"
             },
             {
               "chord": "G♯",
@@ -44,11 +44,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "倦 的 人， 来 这 里"
+              "text": "倦 的 人， 來 這 裡"
             },
             {
               "chord": "Fm",
-              "text": "躺 卧，"
+              "text": "躺 臥，"
             },
             {
               "chord": "",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "Fm",
-              "text": "相， 来"
+              "text": "相， 來"
             },
             {
               "chord": "A♯",
@@ -92,11 +92,11 @@
             },
             {
               "chord": "D♯",
-              "text": "稣， 疲"
+              "text": "穌， 疲"
             },
             {
               "chord": "G♯",
-              "text": "惫、"
+              "text": "憊、"
             }
           ]
         },
@@ -108,7 +108,7 @@
             },
             {
               "chord": "Gm",
-              "text": "忧 郁。"
+              "text": "憂 鬱。"
             },
             {
               "chord": "",
@@ -148,11 +148,11 @@
             },
             {
               "chord": "Gm",
-              "text": "心 畅"
+              "text": "心 暢"
             },
             {
               "chord": "Cm",
-              "text": "欢。"
+              "text": "歡。"
             }
           ]
         }
@@ -305,10 +305,11 @@
     "category": "事奉与福音",
     "time": "4/4",
     "hymn_code": "3216321266711233",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0832_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/323",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/323",
+        "language": "en",
         "category": "h",
         "number": "323",
         "title": "E323*"
@@ -316,14 +317,14 @@
     ]
   },
   "raw_sections": [
-    "我 听见 了 主 耶 稣说：",
-    "『来，就 我得 安息！ 疲",
-    "倦 的 人， 来 这 里躺 卧，你",
+    "我 聽見 了 主 耶 穌說：",
+    "『來，就 我得 安息！ 疲",
+    "倦 的 人， 來 這 裡躺 臥，你",
     "可 歇我 胸臆。』 照我",
-    "本相， 来就 耶稣， 疲惫、",
-    "困 倦 又忧 郁。祂 是",
+    "本相， 來就 耶穌， 疲憊、",
+    "困 倦 又憂 鬱。祂 是",
     "我的 安息 之所， 祂使",
-    "我心 畅欢。",
+    "我心 暢歡。",
     "我听见了主耶稣说：",
     "‘看！我白白赐给。",
     "干渴的人，来畅饮活水，",

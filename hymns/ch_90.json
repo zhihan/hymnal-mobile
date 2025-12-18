@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "赞 美"
+              "text": "讚 美"
             },
             {
               "chord": "",
-              "text": "不 尽 赞"
+              "text": "不 盡 讚"
             },
             {
               "chord": "Dm",
@@ -24,7 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "赞"
+              "text": "讚"
             },
             {
               "chord": "C",
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "感 佩 无 限 感"
+              "text": "感 佩 無 限 感"
             },
             {
               "chord": "F",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "G7",
-              "text": "主 舍"
+              "text": "主 捨"
             },
             {
               "chord": "C",
@@ -100,7 +100,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "F",
@@ -112,7 +112,7 @@
             },
             {
               "chord": "Am",
-              "text": "钉"
+              "text": "釘"
             },
             {
               "chord": "C",
@@ -245,10 +245,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "51715617654321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0090_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8090",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8090",
+        "language": "en",
         "category": "h",
         "number": "8090",
         "title": "E8090"
@@ -256,12 +257,12 @@
     ]
   },
   "raw_sections": [
-    "赞 美不 尽 赞美，",
-    "赞美 救主 恩深；",
-    "感 佩 无 限 感佩，",
-    "感佩 救主 舍身；",
+    "讚 美不 盡 讚美，",
+    "讚美 救主 恩深；",
+    "感 佩 無 限 感佩，",
+    "感佩 救主 捨身；",
     "看哪， 神子 在各 各他，",
-    "为你 和我钉十字架。",
+    "為你 和我釘十字架。",
     "主爱远胜爷娘，",
     "远胜最好朋友；",
     "蒙恩罪人颂扬",

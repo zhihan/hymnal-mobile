@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "暗 过"
+              "text": "暗 過"
             },
             {
               "chord": "",
@@ -20,7 +20,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "苦 过"
+              "text": "苦 過"
             },
             {
               "chord": "B",
@@ -36,11 +36,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "弱 过 必"
+              "text": "弱 過 必"
             },
             {
               "chord": "A7",
-              "text": "刚 强，"
+              "text": "剛 強，"
             }
           ]
         },
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "难 过 必"
+              "text": "難 過 必"
             },
             {
               "chord": "D",
@@ -60,7 +60,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "损 过 必 有 益，"
+              "text": "損 過 必 有 益，"
             }
           ]
         },
@@ -68,7 +68,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "风 过"
+              "text": "風 過"
             },
             {
               "chord": "G",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "D",
-              "text": "静；"
+              "text": "靜；"
             }
           ]
         },
@@ -84,7 +84,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "劳 过"
+              "text": "勞 過"
             },
             {
               "chord": "",
@@ -100,7 +100,7 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "雨 过"
+              "text": "雨 過"
             },
             {
               "chord": "",
@@ -261,10 +261,11 @@
     "category": "试炼中的安慰",
     "time": "3/4",
     "hymn_code": "5345456354",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0528_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/727",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/727",
+        "language": "en",
         "category": "h",
         "number": "727",
         "title": "E727"
@@ -272,14 +273,14 @@
     ]
   },
   "raw_sections": [
-    "暗 过必 明 亮，",
-    "苦 过必甜；",
-    "弱 过 必刚 强，",
-    "难 过 必安；",
-    "损 过 必 有 益，",
-    "风 过必静；",
-    "劳 过必安 息，",
-    "雨 过必晴。",
+    "暗 過必 明 亮，",
+    "苦 過必甜；",
+    "弱 過 必剛 強，",
+    "難 過 必安；",
+    "損 過 必 有 益，",
+    "風 過必靜；",
+    "勞 過必安 息，",
+    "雨 過必晴。",
     "压过必高升，",
     "忧过必乐；",
     "死过必复生，",

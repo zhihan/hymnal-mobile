@@ -20,7 +20,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "你 爱"
+              "text": "你 愛"
             },
             {
               "chord": "G7",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "",
-              "text": "来 吸 引，"
+              "text": "來 吸 引，"
             }
           ]
         },
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "有 谁"
+              "text": "有 誰"
             },
             {
               "chord": "D7",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "G",
-              "text": "随？"
+              "text": "隨？"
             }
           ]
         },
@@ -64,11 +64,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
-              "text": "若 跟 随"
+              "text": "若 跟 隨"
             }
           ]
         },
@@ -80,11 +80,11 @@
             },
             {
               "chord": "A7",
-              "text": "的 脚"
+              "text": "的 腳"
             },
             {
               "chord": "Dm",
-              "text": "踪，"
+              "text": "蹤，"
             }
           ]
         },
@@ -92,7 +92,7 @@
           "segments": [
             {
               "chord": "G7",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "C",
-              "text": "进 入"
+              "text": "進 入"
             }
           ]
         },
@@ -108,7 +108,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 爱"
+              "text": "你 愛"
             },
             {
               "chord": "G",
@@ -623,10 +623,11 @@
     "category": "经历基督",
     "time": "6/8",
     "hymn_code": "3445653453",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0408_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/556",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/556",
+        "language": "en",
         "category": "h",
         "number": "556",
         "title": "E556"
@@ -635,13 +636,13 @@
   },
   "raw_sections": [
     "你 名似 膏 香，",
-    "你 爱比 酒美，",
-    "你 若来 吸 引，",
-    "有 谁不 跟随？",
-    "我 们若 跟 随",
-    "羊 群的 脚踪，",
-    "我 们必进 入",
-    "你 爱的交通。",
+    "你 愛比 酒美，",
+    "你 若來 吸 引，",
+    "有 誰不 跟隨？",
+    "我 們若 跟 隨",
+    "羊 群的 腳蹤，",
+    "我 們必進 入",
+    "你 愛的交通。",
     "祂是我良人，",
     "我是祂佳偶，",
     "祂将我吸引，",

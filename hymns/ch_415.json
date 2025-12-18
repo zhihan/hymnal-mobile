@@ -12,11 +12,11 @@
             },
             {
               "chord": "",
-              "text": "同 在 的 秘"
+              "text": "同 在 的 祕"
             },
             {
               "chord": "C",
-              "text": "密 处，"
+              "text": "密 處，"
             }
           ]
         },
@@ -52,7 +52,7 @@
             },
             {
               "chord": "",
-              "text": "时 常"
+              "text": "時 常"
             },
             {
               "chord": "G",
@@ -64,19 +64,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "所 学"
+              "text": "所 學"
             },
             {
               "chord": "A7",
-              "text": "功 课"
+              "text": "功 課"
             },
             {
               "chord": "",
-              "text": "何 宝"
+              "text": "何 寶"
             },
             {
               "chord": "D",
-              "text": "贵！"
+              "text": "貴！"
             }
           ]
         },
@@ -84,7 +84,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "忧 虑"
+              "text": "憂 慮"
             },
             {
               "chord": "D7",
@@ -92,11 +92,11 @@
             },
             {
               "chord": "",
-              "text": "将 我"
+              "text": "將 我"
             },
             {
               "chord": "G",
-              "text": "搅 扰，"
+              "text": "攪 擾，"
             }
           ]
         },
@@ -104,7 +104,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "试 炼"
+              "text": "試 煉"
             },
             {
               "chord": "B",
@@ -112,7 +112,7 @@
             },
             {
               "chord": "Em",
-              "text": "能 压"
+              "text": "能 壓"
             },
             {
               "chord": "B",
@@ -132,7 +132,7 @@
             },
             {
               "chord": "G7",
-              "text": "引 诱"
+              "text": "引 誘"
             },
             {
               "chord": "C",
@@ -152,11 +152,11 @@
             },
             {
               "chord": "B♭7",
-              "text": "隐 密"
+              "text": "隱 密"
             },
             {
               "chord": "E♭",
-              "text": "处，"
+              "text": "處，"
             }
           ]
         },
@@ -172,11 +172,11 @@
             },
             {
               "chord": "D7",
-              "text": "隐 密"
+              "text": "隱 密"
             },
             {
               "chord": "G",
-              "text": "处。"
+              "text": "處。"
             }
           ]
         }
@@ -399,10 +399,11 @@
     "category": "经历基督",
     "time": "2/4",
     "hymn_code": "555333326117655",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0415_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/553",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/553",
+        "language": "en",
         "category": "h",
         "number": "553",
         "title": "E553"
@@ -410,15 +411,15 @@
     ]
   },
   "raw_sections": [
-    "在 祂同 在 的 秘密 处，",
+    "在 祂同 在 的 祕密 處，",
     "我 得安 居何 甘美！",
-    "在 祂面 前时 常俯 伏，",
-    "所 学功 课何 宝贵！",
-    "忧 虑不 能将 我搅 扰，",
-    "试 炼也 不能 压住；",
-    "每 逢撒 但引 诱吼 叫，",
-    "我 就到 祂隐 密处，",
-    "我 就到 祂隐 密处。",
+    "在 祂面 前時 常俯 伏，",
+    "所 學功 課何 寶貴！",
+    "憂 慮不 能將 我攪 擾，",
+    "試 煉也 不能 壓住；",
+    "每 逢撒 但引 誘吼 叫，",
+    "我 就到 祂隱 密處，",
+    "我 就到 祂隱 密處。",
     "当我带着疲倦、干渴，",
     "来到祂的翅膀间，",
     "就得荫庇、凉爽、快乐，",

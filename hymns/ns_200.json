@@ -193,10 +193,11 @@
     "category": "Longings",
     "time": "3/4",
     "hymn_code": "3521543334565",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0200_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/403",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/403",
+        "language": "cn",
         "category": "ts",
         "number": "403",
         "title": "Cs403"

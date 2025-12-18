@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/8330",
+  "url": "https://www.hymnal.net/en/hymn/h/8330",
   "title": "How vast, immense, and measureless",
   "verses": [
     {
@@ -270,7 +270,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "I've none in heav'n but Thee."
+              "text": "I’ve none in heav’n but Thee."
             }
           ]
         },
@@ -308,7 +308,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "My griefs I'd rise above."
+              "text": "My griefs I’d rise above."
             }
           ]
         },
@@ -392,7 +392,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Without Thy love and strength'ning power"
+              "text": "Without Thy love and strength’ning power"
             }
           ]
         },
@@ -430,7 +430,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "When Thou dost come, I'll sing with joy,"
+              "text": "When Thou dost come, I’ll sing with joy,"
             }
           ]
         },
@@ -451,6 +451,7 @@
     "category": "Consecration",
     "time": "4/4",
     "hymn_code": "51612165561612321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e8330_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ch/330",
@@ -483,11 +484,11 @@
     "For Him all gain a loss becomes,",
     "And comfort holds no ease.",
     "Thou art my comfort, gracious Lord!",
-    "I've none in heav'n but Thee.",
+    "I’ve none in heav’n but Thee.",
     "And who but Thee is there on earth",
     "With whom I love to be?",
     "Though loneliness and trials come,",
-    "My griefs I'd rise above.",
+    "My griefs I’d rise above.",
     "This only would I ask Thee, Lord:",
     "Surround me with Thy love!",
     "O gracious Lord, I now beseech,",
@@ -496,11 +497,11 @@
     "Through this dark, evil age.",
     "The world, the flesh, and Satan too,",
     "Do tempt my soul apace;",
-    "Without Thy love and strength'ning power",
+    "Without Thy love and strength’ning power",
     "I may Thy name disgrace.",
     "The time, dear Lord, is running short;",
     "From earth my soul set free.",
-    "When Thou dost come, I'll sing with joy,",
+    "When Thou dost come, I’ll sing with joy,",
     "Hallelujah to Thee!"
   ]
 }

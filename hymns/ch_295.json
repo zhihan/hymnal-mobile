@@ -28,7 +28,7 @@
             },
             {
               "chord": "D",
-              "text": "论 如"
+              "text": "論 如"
             },
             {
               "chord": "D7",
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "不 管 怎 样 艰"
+              "text": "不 管 怎 樣 艱"
             },
             {
               "chord": "Am",
@@ -56,7 +56,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "求 你 为"
+              "text": "求 你 為"
             },
             {
               "chord": "G",
@@ -64,11 +64,11 @@
             },
             {
               "chord": "D7",
-              "text": "拣"
+              "text": "揀"
             },
             {
               "chord": "G",
-              "text": "选。"
+              "text": "選。"
             }
           ]
         }
@@ -271,10 +271,11 @@
     "category": "羡慕",
     "time": "4/4",
     "hymn_code": "5511217121223",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0295_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/393",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/393",
+        "language": "en",
         "category": "h",
         "number": "393",
         "title": "E393"
@@ -283,9 +284,9 @@
   },
   "raw_sections": [
     "只 要是 你 道路，",
-    "不论 如何 黑暗，",
-    "不 管 怎 样 艰苦，",
-    "求 你 为我拣选。",
+    "不論 如何 黑暗，",
+    "不 管 怎 樣 艱苦，",
+    "求 你 為我揀選。",
     "平坦或是崎岖，",
     "必定都是上好；",
     "笔直或是弯曲，",

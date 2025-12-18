@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "脱 离"
+              "text": "脫 離"
             },
             {
               "chord": "G",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "A",
-              "text": "我 愿"
+              "text": "我 願"
             },
             {
               "chord": "A7",
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "同 众 圣 徒"
+              "text": "同 眾 聖 徒"
             },
             {
               "chord": "G",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "D",
-              "text": "圣 殿，"
+              "text": "聖 殿，"
             }
           ]
         },
@@ -64,15 +64,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "为 著"
+              "text": "為 著"
             },
             {
               "chord": "A",
-              "text": "充 满"
+              "text": "充 滿"
             },
             {
               "chord": "A7",
-              "text": "你 荣"
+              "text": "你 榮"
             },
             {
               "chord": "D",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "G",
-              "text": "脱 离"
+              "text": "脫 離"
             },
             {
               "chord": "",
@@ -96,7 +96,7 @@
             },
             {
               "chord": "D",
-              "text": "个 性，"
+              "text": "個 性，"
             }
           ]
         },
@@ -104,19 +104,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "脱 离"
+              "text": "脫 離"
             },
             {
               "chord": "E7",
-              "text": "骄 傲"
+              "text": "驕 傲"
             },
             {
               "chord": "",
-              "text": "与 单"
+              "text": "與 單"
             },
             {
               "chord": "A",
-              "text": "独；"
+              "text": "獨；"
             }
           ]
         },
@@ -128,7 +128,7 @@
             },
             {
               "chord": "D",
-              "text": "甘 愿"
+              "text": "甘 願"
             },
             {
               "chord": "G",
@@ -136,7 +136,7 @@
             },
             {
               "chord": "D",
-              "text": "权 柄，"
+              "text": "權 柄，"
             }
           ]
         },
@@ -144,7 +144,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "让 你"
+              "text": "讓 你"
             },
             {
               "chord": "A",
@@ -379,10 +379,11 @@
     "category": "召会",
     "time": "3/2",
     "hymn_code": "345565533352123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0606_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/840",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/840",
+        "language": "en",
         "category": "h",
         "number": "840",
         "title": "E840"
@@ -390,14 +391,14 @@
     ]
   },
   "raw_sections": [
-    "救 我脱 离自 己、天 然，",
-    "主 阿，我 愿被 建造，",
-    "同 众 圣 徒作 你圣 殿，",
-    "为 著充 满你 荣耀。",
-    "救 我脱 离乖 僻个 性，",
-    "脱 离骄 傲与 单独；",
-    "使 我甘 愿服 你权 柄，",
-    "让 你有 家可 居住。",
+    "救 我脫 離自 己、天 然，",
+    "主 阿，我 願被 建造，",
+    "同 眾 聖 徒作 你聖 殿，",
+    "為 著充 滿你 榮耀。",
+    "救 我脫 離乖 僻個 性，",
+    "脫 離驕 傲與 單獨；",
+    "使 我甘 願服 你權 柄，",
+    "讓 你有 家可 居住。",
     "生命供应，活水流通，",
     "长进、变化又配搭；",
     "守住等次，尽我功用，",

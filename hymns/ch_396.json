@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "当"
+              "text": "當"
             },
             {
               "chord": "A",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "",
-              "text": "见"
+              "text": "見"
             },
             {
               "chord": "Bm",
@@ -28,7 +28,7 @@
             },
             {
               "chord": "D",
-              "text": "华，"
+              "text": "華，"
             }
           ]
         },
@@ -36,11 +36,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "时"
+              "text": "時"
             },
             {
               "chord": "D",
-              "text": "间 何"
+              "text": "間 何"
             },
             {
               "chord": "",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "Em",
-              "text": "无 味、"
+              "text": "無 味、"
             },
             {
               "chord": "",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "A",
-              "text": "厌！"
+              "text": "厭！"
             }
           ]
         },
@@ -72,7 +72,7 @@
             },
             {
               "chord": "",
-              "text": "鸟、"
+              "text": "鳥、"
             },
             {
               "chord": "Bm",
@@ -92,7 +92,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "对"
+              "text": "對"
             },
             {
               "chord": "D",
@@ -120,11 +120,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "可 爱 太 阳 如 失 光"
+              "text": "可 愛 太 陽 如 失 光"
             },
             {
               "chord": "G",
-              "text": "线，"
+              "text": "線，"
             }
           ]
         },
@@ -140,11 +140,11 @@
             },
             {
               "chord": "",
-              "text": "欲 表 现"
+              "text": "欲 表 現"
             },
             {
               "chord": "G",
-              "text": "欢"
+              "text": "歡"
             },
             {
               "chord": "A",
@@ -156,7 +156,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "当"
+              "text": "當"
             },
             {
               "chord": "A",
@@ -164,7 +164,7 @@
             },
             {
               "chord": "",
-              "text": "乐"
+              "text": "樂"
             },
             {
               "chord": "Bm",
@@ -172,7 +172,7 @@
             },
             {
               "chord": "",
-              "text": "里"
+              "text": "裡"
             },
             {
               "chord": "D",
@@ -184,7 +184,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "阴"
+              "text": "陰"
             },
             {
               "chord": "D",
@@ -204,7 +204,7 @@
             },
             {
               "chord": "D",
-              "text": "丽。"
+              "text": "麗。"
             }
           ]
         }
@@ -427,10 +427,11 @@
     "category": "经历基督",
     "time": "6/8",
     "hymn_code": "1151313543455432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0396_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/529",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/529",
+        "language": "en",
         "category": "h",
         "number": "529",
         "title": "E529"
@@ -438,14 +439,14 @@
     ]
   },
   "raw_sections": [
-    "当我 不见基 督容华，",
-    "时间 何等无 味、可厌！",
-    "甘甜 的鸟、甘 甜的花，",
-    "对我 就不再 是甘甜；",
-    "可 爱 太 阳 如 失 光线，",
-    "田野 枉欲 表 现欢喜；",
-    "当我 快乐在 祂里面，",
-    "阴霾 也如晴 空美丽。",
+    "當我 不見基 督容華，",
+    "時間 何等無 味、可厭！",
+    "甘甜 的鳥、甘 甜的花，",
+    "對我 就不再 是甘甜；",
+    "可 愛 太 陽 如 失 光線，",
+    "田野 枉欲 表 現歡喜；",
+    "當我 快樂在 祂裡面，",
+    "陰霾 也如晴 空美麗。",
     "祂名发出最美香味，",
     "祂声成为最甜音乐，",
     "祂的同在展我愁眉，",

@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "祂 已 从 死 复 活，"
+              "text": "祂 已 從 死 復 活，"
             }
           ]
         },
@@ -52,7 +52,7 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "万 膝"
+              "text": "萬 膝"
             },
             {
               "chord": "D",
@@ -72,7 +72,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "万 口"
+              "text": "萬 口"
             },
             {
               "chord": "G",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "",
-              "text": "称"
+              "text": "稱"
             },
             {
               "chord": "Gm",
@@ -96,11 +96,11 @@
             },
             {
               "chord": "D",
-              "text": "稣 基"
+              "text": "穌 基"
             },
             {
               "chord": "A7",
-              "text": "督 为"
+              "text": "督 為"
             },
             {
               "chord": "D",
@@ -117,10 +117,11 @@
     "category": "赞美的话",
     "time": "4/4",
     "hymn_code": "71232112333343212",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0021_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/ns/269",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/ns/269",
+        "language": "en",
         "category": "ns",
         "number": "269",
         "title": "NS269"
@@ -129,10 +130,10 @@
   },
   "raw_sections": [
     "祂 是主，祂 是主，",
-    "祂 已 从 死 复 活，",
+    "祂 已 從 死 復 活，",
     "如 今祂 是主！",
-    "万 膝莫 不屈服，",
-    "万 口莫 不称呼，",
-    "耶稣 基督 为主。"
+    "萬 膝莫 不屈服，",
+    "萬 口莫 不稱呼，",
+    "耶穌 基督 為主。"
   ]
 }

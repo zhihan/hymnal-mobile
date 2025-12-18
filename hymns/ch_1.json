@@ -8,19 +8,19 @@
           "segments": [
             {
               "chord": "G",
-              "text": "但 愿"
+              "text": "但 願"
             },
             {
               "chord": "",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "C",
-              "text": "归 于"
+              "text": "歸 於"
             },
             {
               "chord": "",
-              "text": "圣 父，"
+              "text": "聖 父，"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "并 圣"
+              "text": "並 聖"
             },
             {
               "chord": "",
@@ -44,19 +44,19 @@
           "segments": [
             {
               "chord": "G",
-              "text": "且 愿"
+              "text": "且 願"
             },
             {
               "chord": "",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "C",
-              "text": "归 于"
+              "text": "歸 於"
             },
             {
               "chord": "",
-              "text": "圣 灵"
+              "text": "聖 靈"
             }
           ]
         },
@@ -275,10 +275,11 @@
     "category": "颂赞三一神",
     "time": "4/4",
     "hymn_code": "5553216153222",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0001_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1",
+        "language": "en",
         "category": "h",
         "number": "1",
         "title": "E1"
@@ -286,9 +287,9 @@
     ]
   },
   "raw_sections": [
-    "但 愿荣 耀归 于圣 父，",
-    "并 圣子 基督，",
-    "且 愿荣 耀归 于圣 灵",
+    "但 願榮 耀歸 於聖 父，",
+    "並 聖子 基督，",
+    "且 願榮 耀歸 於聖 靈",
     "到永古。",
     "当我观赏广大创造－",
     "神智所制订，",

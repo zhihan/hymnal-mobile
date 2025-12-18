@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "",
-              "text": "里；"
+              "text": "裡；"
             }
           ]
         },
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "现 今 我"
+              "text": "現 今 我"
             },
             {
               "chord": "A7",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "D",
-              "text": "乐 无"
+              "text": "樂 無"
             },
             {
               "chord": "D7",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "",
-              "text": "路 亚！"
+              "text": "路 亞！"
             }
           ]
         },
@@ -88,7 +88,7 @@
             },
             {
               "chord": "D",
-              "text": "路 亚！"
+              "text": "路 亞！"
             }
           ]
         },
@@ -104,7 +104,7 @@
             },
             {
               "chord": "D",
-              "text": "里！"
+              "text": "裡！"
             }
           ]
         }
@@ -163,10 +163,11 @@
     "category": "灵与生命",
     "time": "4/4",
     "hymn_code": "55556665353",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0121_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/ns/324",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/ns/324",
+        "language": "en",
         "category": "ns",
         "number": "324",
         "title": "NS324"
@@ -174,12 +175,12 @@
     ]
   },
   "raw_sections": [
-    "耶 稣是 我主，",
-    "祂 活在 我里；",
-    "现 今 我真 是快乐 无比。",
-    "哦，阿 利路 亚！",
-    "哦，阿 利路 亚！",
-    "祂 活在 我里！",
+    "耶 穌是 我主，",
+    "祂 活在 我裡；",
+    "現 今 我真 是快樂 無比。",
+    "哦，阿 利路 亞！",
+    "哦，阿 利路 亞！",
+    "祂 活在 我裡！",
     "世界尽都是充满了空虚，",
     "基督才是惟一的实际。",
     "哦，阿利路亚！",

@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "G",
-              "text": "督 丰"
+              "text": "督 豐"
             },
             {
               "chord": "C",
@@ -28,15 +28,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "就 得 成 为 祂"
+              "text": "就 得 成 為 祂"
             },
             {
               "chord": "F",
-              "text": "的 丰"
+              "text": "的 豐"
             },
             {
               "chord": "G",
-              "text": "满；"
+              "text": "滿；"
             }
           ]
         },
@@ -80,7 +80,7 @@
             },
             {
               "chord": "C",
-              "text": "显。"
+              "text": "顯。"
             }
           ]
         }
@@ -245,10 +245,11 @@
     "category": "召会",
     "time": "4/4",
     "hymn_code": "13455671",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0592_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/820",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/820",
+        "language": "en",
         "category": "h",
         "number": "820",
         "title": "E820"
@@ -256,10 +257,10 @@
     ]
   },
   "raw_sections": [
-    "我 们享 受 基督 丰富，",
-    "就 得 成 为 祂的 丰满；",
+    "我 們享 受 基督 豐富，",
+    "就 得 成 為 祂的 豐滿；",
     "分 享 一 切 祂之 所是，",
-    "就能 使祂 得著彰显。",
+    "就能 使祂 得著彰顯。",
     "基督丰富是祂所是，",
     "来作我们一切享受；",
     "基督丰满乃是召会，",

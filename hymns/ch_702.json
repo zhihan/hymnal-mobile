@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "难，"
+              "text": "難，"
             },
             {
               "chord": "C",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "",
-              "text": "烦，"
+              "text": "煩，"
             }
           ]
         },
@@ -28,15 +28,15 @@
           "segments": [
             {
               "chord": "G",
-              "text": "劳 苦"
+              "text": "勞 苦"
             },
             {
               "chord": "Em",
-              "text": "负 重"
+              "text": "負 重"
             },
             {
               "chord": "Am",
-              "text": "担；"
+              "text": "擔；"
             }
           ]
         },
@@ -48,19 +48,19 @@
             },
             {
               "chord": "",
-              "text": "充 满"
+              "text": "充 滿"
             },
             {
               "chord": "C",
-              "text": "悲 伤、"
+              "text": "悲 傷、"
             },
             {
               "chord": "",
-              "text": "凄"
+              "text": "悽"
             },
             {
               "chord": "G",
-              "text": "惨，"
+              "text": "慘，"
             }
           ]
         },
@@ -68,11 +68,11 @@
           "segments": [
             {
               "chord": "Am",
-              "text": "叹 息"
+              "text": "歎 息"
             },
             {
               "chord": "D7",
-              "text": "无 平"
+              "text": "無 平"
             },
             {
               "chord": "G",
@@ -126,13 +126,14 @@
   "metadata": {
     "category": "福音",
     "time": "4/4",
-    "hymn_code": "33111653312"
+    "hymn_code": "33111653312",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0702_tune.midi"
   },
   "raw_sections": [
-    "多 患难，常 愁烦，",
-    "劳 苦负 重担；",
-    "人 生充 满悲 伤、凄惨，",
-    "叹 息无 平安。",
+    "多 患難，常 愁煩，",
+    "勞 苦負 重擔；",
+    "人 生充 滿悲 傷、悽慘，",
+    "歎 息無 平安。",
     "惟有主，惟有主，",
     "能解你愁苦；",
     "不要迟误，不要踌躇，",

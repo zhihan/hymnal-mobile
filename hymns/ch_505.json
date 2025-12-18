@@ -16,7 +16,7 @@
             },
             {
               "chord": "D",
-              "text": "或 尽"
+              "text": "或 盡"
             },
             {
               "chord": "D7",
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "尽 是 坎 坷 忧"
+              "text": "盡 是 坎 坷 憂"
             },
             {
               "chord": "D",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "",
-              "text": "仍 要 镇"
+              "text": "仍 要 鎮"
             },
             {
               "chord": "D",
@@ -64,7 +64,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "寻 求"
+              "text": "尋 求"
             },
             {
               "chord": "",
@@ -244,13 +244,14 @@
   "metadata": {
     "category": "试炼中的安慰",
     "time": "3/4",
-    "hymn_code": "33323471"
+    "hymn_code": "33323471",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0505_tune.midi"
   },
   "raw_sections": [
-    "主 阿，即或 尽是 黑暗，",
-    "尽 是 坎 坷 忧悒，",
-    "但 我仍 要 镇定 安然，",
-    "寻 求你的心意。",
+    "主 阿，即或 盡是 黑暗，",
+    "盡 是 坎 坷 憂悒，",
+    "但 我仍 要 鎮定 安然，",
+    "尋 求你的心意。",
     "你有怜悯，你有恩慈，",
     "你有宝贵应许；",
     "你不会错，你不会迟，",

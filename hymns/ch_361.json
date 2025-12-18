@@ -12,19 +12,19 @@
             },
             {
               "chord": "",
-              "text": "启 示 一"
+              "text": "啟 示 一"
             },
             {
               "chord": "A",
-              "text": "个"
+              "text": "個"
             },
             {
               "chord": "A7",
-              "text": "奥"
+              "text": "奧"
             },
             {
               "chord": "D",
-              "text": "秘，"
+              "text": "祕，"
             }
           ]
         },
@@ -48,7 +48,7 @@
             },
             {
               "chord": "",
-              "text": "别 法， 不"
+              "text": "別 法， 不"
             },
             {
               "chord": "A",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "A7",
-              "text": "别"
+              "text": "別"
             },
             {
               "chord": "D",
@@ -68,7 +68,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 就 看 见 完"
+              "text": "我 就 看 見 完"
             },
             {
               "chord": "A",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "D",
-              "text": "胜。"
+              "text": "勝。"
             }
           ]
         }
@@ -359,10 +359,11 @@
     "category": "与基督的联合",
     "time": "2/2",
     "hymn_code": "1123234323",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0361_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/488",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/488",
+        "language": "en",
         "category": "h",
         "number": "488",
         "title": "E488"
@@ -370,10 +371,10 @@
     ]
   },
   "raw_sections": [
-    "主， 你启 示 一个奥秘，",
+    "主， 你啟 示 一個奧祕，",
     "就 是 我 同 你 死 的理，",
-    "不 用别 法， 不用别能，",
-    "我 就 看 见 完全得胜。",
+    "不 用別 法， 不用別能，",
+    "我 就 看 見 完全得勝。",
     "你的十架就是我的，",
     "其光照耀我生命里；",
     "一信与你同钉那里，",

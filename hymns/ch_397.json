@@ -16,11 +16,11 @@
             },
             {
               "chord": "A7",
-              "text": "主 观"
+              "text": "主 觀"
             },
             {
               "chord": "D",
-              "text": "经 历，"
+              "text": "經 歷，"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "住 于 我 灵 作 生"
+              "text": "住 於 我 靈 作 生"
             },
             {
               "chord": "A",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "D",
-              "text": "与 祂"
+              "text": "與 祂"
             },
             {
               "chord": "A",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "D",
-              "text": "灵。"
+              "text": "靈。"
             }
           ]
         }
@@ -98,11 +98,11 @@
             },
             {
               "chord": "A7",
-              "text": "观 的"
+              "text": "觀 的"
             },
             {
               "chord": "D",
-              "text": "经 历，"
+              "text": "經 歷，"
             }
           ]
         },
@@ -110,7 +110,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "实 际、"
+              "text": "實 際、"
             },
             {
               "chord": "A",
@@ -118,7 +118,7 @@
             },
             {
               "chord": "D",
-              "text": "又 丰"
+              "text": "又 豐"
             },
             {
               "chord": "A",
@@ -170,7 +170,7 @@
             },
             {
               "chord": "A7",
-              "text": "全 应"
+              "text": "全 應"
             },
             {
               "chord": "D",
@@ -649,10 +649,11 @@
     "category": "经历基督",
     "time": "6/8",
     "hymn_code": "55324712316515312",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0397_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/537",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/537",
+        "language": "en",
         "category": "h",
         "number": "537",
         "title": "E537"
@@ -660,16 +661,16 @@
     ]
   },
   "raw_sections": [
-    "基 督是 我主 观经 历，",
-    "住 于 我 灵 作 生命；",
+    "基 督是 我主 觀經 歷，",
+    "住 於 我 靈 作 生命；",
     "基 督是 我一 切一 切，",
-    "我 得与 祂成 一灵。",
+    "我 得與 祂成 一靈。",
     "哦， 基 督 是 我",
-    "主观 的经 历，",
-    "实 际、甘 甜又 丰富！",
+    "主觀 的經 歷，",
+    "實 際、甘 甜又 豐富！",
     "哦， 基督 是我",
     "一切 的一 切，",
-    "我 的需 要全 应付！",
+    "我 的需 要全 應付！",
     "基督是我主观经历，",
     "时时供我以生命；",
     "生命之灵使我复苏，",

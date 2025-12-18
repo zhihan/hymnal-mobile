@@ -16,11 +16,11 @@
             },
             {
               "chord": "G",
-              "text": "义 太"
+              "text": "義 太"
             },
             {
               "chord": "D",
-              "text": "阳，"
+              "text": "陽，"
             }
           ]
         },
@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "富 有 医 治 光"
+              "text": "富 有 醫 治 光"
             },
             {
               "chord": "A7",
-              "text": "线；"
+              "text": "線；"
             }
           ]
         },
@@ -44,7 +44,7 @@
             },
             {
               "chord": "D",
-              "text": "的 荣"
+              "text": "的 榮"
             },
             {
               "chord": "",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "D",
-              "text": "临，"
+              "text": "臨，"
             }
           ]
         },
@@ -64,11 +64,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "带"
+              "text": "帶"
             },
             {
               "chord": "G",
-              "text": "来 生"
+              "text": "來 生"
             },
             {
               "chord": "A",
@@ -321,10 +321,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "532177615",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0156_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/200",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/200",
+        "language": "en",
         "category": "h",
         "number": "200",
         "title": "E200"
@@ -332,10 +333,10 @@
     ]
   },
   "raw_sections": [
-    "恩 主，你 是 公义 太阳，",
-    "富 有 医 治 光线；",
-    "你的 荣耀 面光 照临，",
-    "带来 生命、平安。",
+    "恩 主，你 是 公義 太陽，",
+    "富 有 醫 治 光線；",
+    "你的 榮耀 面光 照臨，",
+    "帶來 生命、平安。",
     "慈爱神的怜悯心肠，",
     "叫你临到我们，",
     "为要照亮坐在黑暗",

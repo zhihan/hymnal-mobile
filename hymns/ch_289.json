@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "愿 你"
+              "text": "願 你"
             },
             {
               "chord": "",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "D",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "C",
-              "text": "稣！"
+              "text": "穌！"
             }
           ]
         },
@@ -36,15 +36,15 @@
             },
             {
               "chord": "Am",
-              "text": "条、 话"
+              "text": "條、 話"
             },
             {
               "chord": "D7",
-              "text": "语、 虚"
+              "text": "語、 虛"
             },
             {
               "chord": "G",
-              "text": "仪、"
+              "text": "儀、"
             }
           ]
         },
@@ -52,7 +52,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "属"
+              "text": "屬"
             },
             {
               "chord": "D",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "G",
-              "text": "会、 属"
+              "text": "會、 屬"
             },
             {
               "chord": "B7",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "Em",
-              "text": "爱，"
+              "text": "愛，"
             }
           ]
         },
@@ -80,7 +80,7 @@
             },
             {
               "chord": "G",
-              "text": "能 与"
+              "text": "能 與"
             },
             {
               "chord": "Am",
@@ -257,10 +257,11 @@
     "category": "羡慕",
     "time": "3/4",
     "hymn_code": "551176555433267125",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0289_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/367",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/367",
+        "language": "en",
         "category": "h",
         "number": "367",
         "title": "E367"
@@ -268,10 +269,10 @@
     ]
   },
   "raw_sections": [
-    "愿 你为大， 哦主 耶稣！",
-    "信条、 话语、 虚仪、",
-    "属人 的会、 属世 的爱，",
-    "不能 与你相比。",
+    "願 你為大， 哦主 耶穌！",
+    "信條、 話語、 虛儀、",
+    "屬人 的會、 屬世 的愛，",
+    "不能 與你相比。",
     "愿你为大，哦主耶稣！",
     "你爱征服了我；",
     "靠你十架我向己死，",

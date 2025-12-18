@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "若 无"
+              "text": "若 無"
             },
             {
               "chord": "",
@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "如 何 对 付 公"
+              "text": "如 何 對 付 公"
             },
             {
               "chord": "D",
-              "text": "义？"
+              "text": "義？"
             }
           ]
         },
@@ -52,11 +52,11 @@
             },
             {
               "chord": "C",
-              "text": "然 责"
+              "text": "然 責"
             },
             {
               "chord": "",
-              "text": "备，"
+              "text": "備，"
             }
           ]
         },
@@ -245,10 +245,11 @@
     "category": "敬拜父",
     "time": "3/4",
     "hymn_code": "5165123213532132",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0015_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8015",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8015",
+        "language": "en",
         "category": "h",
         "number": "8015",
         "title": "E8015"
@@ -256,9 +257,9 @@
     ]
   },
   "raw_sections": [
-    "若 无流 血 就有 赦罪，",
-    "如 何 对 付 公义？",
-    "若已 流血 仍然 责备，",
+    "若 無流 血 就有 赦罪，",
+    "如 何 對 付 公義？",
+    "若已 流血 仍然 責備，",
     "仍然 不能合理。",
     "神，你今已不能追究，",
     "我主已经献祭；",

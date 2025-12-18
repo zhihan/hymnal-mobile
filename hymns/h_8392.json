@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/8392",
+  "url": "https://www.hymnal.net/en/hymn/h/8392",
   "title": "Dearest of all is He",
   "verses": [
     {
@@ -156,7 +156,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "He's the One I love the best."
+              "text": "He’s the One I love the best."
             }
           ]
         }
@@ -169,6 +169,7 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "531324323135543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e8392_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ch/392",
@@ -191,6 +192,6 @@
     "He, our joy endlessly,",
     "The same through every test;",
     "Dearest of all is He;",
-    "He's the One I love the best."
+    "He’s the One I love the best."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/6822",
+  "url": "https://www.hymnal.net/en/hymn/h/6822",
   "title": "Once I was an empty man",
   "verses": [
     {
@@ -178,7 +178,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "I'm not the same,"
+              "text": "I’m not the same,"
             }
           ]
         },
@@ -240,7 +240,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "There's nothing for my soul on earth to seek."
+              "text": "There’s nothing for my soul on earth to seek."
             }
           ]
         },
@@ -256,7 +256,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "I'm satisfied in Jesus."
+              "text": "I’m satisfied in Jesus."
             }
           ]
         }
@@ -269,6 +269,7 @@
     "category": "Gospel",
     "time": "4/4",
     "hymn_code": "66113325577221",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e6822_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ts/822",
@@ -294,15 +295,15 @@
     "Something deep within was seeking.",
     "To know if life on earth had meaning;",
     "And then I found the answer in a name.",
-    "I'm not the same,",
+    "I’m not the same,",
     "Since I have called on Jesus.",
     "Brothers and Sisters:",
     "This Jesus lives inside of me—",
     "My Lord, my life, my all to be.",
     "This life and peace inside increases",
     "By calling on the name of Jesus.",
-    "There's nothing for my soul on earth to seek.",
+    "There’s nothing for my soul on earth to seek.",
     "I have no need;",
-    "I'm satisfied in Jesus."
+    "I’m satisfied in Jesus."
   ]
 }

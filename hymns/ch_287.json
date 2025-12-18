@@ -12,7 +12,7 @@
             },
             {
               "chord": "D",
-              "text": "是 属"
+              "text": "是 屬"
             },
             {
               "chord": "",
@@ -24,7 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 听"
+              "text": "我 聽"
             },
             {
               "chord": "Em",
@@ -44,11 +44,11 @@
             },
             {
               "chord": "C",
-              "text": "爱 我"
+              "text": "愛 我"
             },
             {
               "chord": "",
-              "text": "的 无"
+              "text": "的 無"
             },
             {
               "chord": "G",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "D7",
-              "text": "更 亲"
+              "text": "更 親"
             },
             {
               "chord": "G",
@@ -130,7 +130,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "亲 爱"
+              "text": "親 愛"
             },
             {
               "chord": "G",
@@ -154,7 +154,7 @@
             },
             {
               "chord": "D",
-              "text": "边；"
+              "text": "邊；"
             }
           ]
         },
@@ -182,7 +182,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "亲 爱"
+              "text": "親 愛"
             },
             {
               "chord": "Am",
@@ -206,7 +206,7 @@
             },
             {
               "chord": "G",
-              "text": "间。"
+              "text": "間。"
             }
           ]
         }
@@ -539,10 +539,11 @@
     "category": "羡慕",
     "time": "4/4",
     "hymn_code": "343222321117666165",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0287_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/387",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/387",
+        "language": "en",
         "category": "h",
         "number": "387",
         "title": "E387"
@@ -550,17 +551,17 @@
     ]
   },
   "raw_sections": [
-    "主， 我是 属你，",
-    "我 听你 宣告，",
-    "知 你爱 我的 无匹；",
+    "主， 我是 屬你，",
+    "我 聽你 宣告，",
+    "知 你愛 我的 無匹；",
     "但 我是 渴望 能 因信 升高，",
-    "能 以和 你更 亲密。",
+    "能 以和 你更 親密。",
     "吸 引我近，更 近，",
-    "亲 爱主，",
-    "直 至你 流血 身边；",
+    "親 愛主，",
+    "直 至你 流血 身邊；",
     "吸 引我 近，更 近，更 近，",
-    "亲 爱主，",
-    "直 至你 同在 中间。",
+    "親 愛主，",
+    "直 至你 同在 中間。",
     "靠着你恩典，",
     "求你分别我，",
     "从此专一事奉你；",

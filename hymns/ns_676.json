@@ -601,10 +601,11 @@
     "category": "The Way of the Cross",
     "time": "4/4",
     "hymn_code": "336617665671132117",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0676_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/468",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/468",
+        "language": "cn",
         "category": "ts",
         "number": "468",
         "title": "Cs468"

@@ -12,15 +12,15 @@
             },
             {
               "chord": "",
-              "text": "路 亚，"
+              "text": "路 亞，"
             },
             {
               "chord": "F",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
-              "text": "得 胜！"
+              "text": "得 勝！"
             }
           ]
         },
@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "大 声"
+              "text": "大 聲"
             },
             {
               "chord": "",
-              "text": "唱 凯"
+              "text": "唱 凱"
             },
             {
               "chord": "G",
@@ -44,19 +44,19 @@
           "segments": [
             {
               "chord": "C",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
-              "text": "得 胜，"
+              "text": "得 勝，"
             },
             {
               "chord": "F",
-              "text": "仍 旧"
+              "text": "仍 舊"
             },
             {
               "chord": "",
-              "text": "得 胜，"
+              "text": "得 勝，"
             }
           ]
         },
@@ -64,7 +64,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "胜 过"
+              "text": "勝 過"
             },
             {
               "chord": "D7",
@@ -90,7 +90,7 @@
             },
             {
               "chord": "",
-              "text": "路 亚， 耶 稣 得 胜！"
+              "text": "路 亞， 耶 穌 得 勝！"
             }
           ]
         },
@@ -98,7 +98,7 @@
           "segments": [
             {
               "chord": "F",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "",
@@ -114,19 +114,19 @@
           "segments": [
             {
               "chord": "C",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "C7",
-              "text": "得 胜，"
+              "text": "得 勝，"
             },
             {
               "chord": "F",
-              "text": "仍 旧"
+              "text": "仍 舊"
             },
             {
               "chord": "",
-              "text": "得 胜，"
+              "text": "得 勝，"
             }
           ]
         },
@@ -134,15 +134,15 @@
           "segments": [
             {
               "chord": "G",
-              "text": "胜 过"
+              "text": "勝 過"
             },
             {
               "chord": "G7",
-              "text": "众 仇"
+              "text": "眾 仇"
             },
             {
               "chord": "C",
-              "text": "敌！"
+              "text": "敵！"
             }
           ]
         }
@@ -529,10 +529,11 @@
     "category": "属灵的争战",
     "time": "2/4",
     "hymn_code": "5653121656532",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0644_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/890",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/890",
+        "language": "en",
         "category": "h",
         "number": "890",
         "title": "E890"
@@ -540,14 +541,14 @@
     ]
   },
   "raw_sections": [
-    "阿 利路 亚，耶 稣得 胜！",
-    "大 声唱 凯歌！",
-    "耶 稣得 胜，仍 旧得 胜，",
-    "胜 过罪、 死、魔！",
-    "阿 利路 亚， 耶 稣 得 胜！",
-    "荣 耀的 消息！",
-    "耶 稣得 胜，仍 旧得 胜，",
-    "胜 过众 仇敌！",
+    "阿 利路 亞，耶 穌得 勝！",
+    "大 聲唱 凱歌！",
+    "耶 穌得 勝，仍 舊得 勝，",
+    "勝 過罪、 死、魔！",
+    "阿 利路 亞， 耶 穌 得 勝！",
+    "榮 耀的 消息！",
+    "耶 穌得 勝，仍 舊得 勝，",
+    "勝 過眾 仇敵！",
     "阿利路亚，耶稣得胜！",
     "宝血有能力！",
     "仗祂十架，时时夸胜，",

@@ -20,11 +20,11 @@
             },
             {
               "chord": "Bm",
-              "text": "宝"
+              "text": "寶"
             },
             {
               "chord": "D",
-              "text": "贝，"
+              "text": "貝，"
             }
           ]
         },
@@ -40,7 +40,7 @@
             },
             {
               "chord": "",
-              "text": "于 瓦"
+              "text": "於 瓦"
             },
             {
               "chord": "A",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "D",
-              "text": "从 变"
+              "text": "從 變"
             },
             {
               "chord": "A",
@@ -80,11 +80,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "显"
+              "text": "顯"
             },
             {
               "chord": "D",
-              "text": "出 无"
+              "text": "出 無"
             },
             {
               "chord": "A7",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "G",
-              "text": "丽。"
+              "text": "麗。"
             }
           ]
         }
@@ -295,10 +295,11 @@
     "category": "终极的显出",
     "time": "6/4",
     "hymn_code": "5333221544332",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0780_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/985",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/985",
+        "language": "en",
         "category": "h",
         "number": "985",
         "title": "E985"
@@ -306,10 +307,10 @@
     ]
   },
   "raw_sections": [
-    "那日 我神 的宝贝，",
-    "不再 藏于 瓦器，",
-    "乃从 变化的人中，",
-    "显出 无遮 美丽。",
+    "那日 我神 的寶貝，",
+    "不再 藏於 瓦器，",
+    "乃從 變化的人中，",
+    "顯出 無遮 美麗。",
     "借那伟大的金器，",
     "神的荣耀照亮；",
     "不用日、月来光照，",

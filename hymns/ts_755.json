@@ -20,7 +20,7 @@
             },
             {
               "chord": "G",
-              "text": "踪 迹，"
+              "text": "蹤 迹，"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "应 当"
+              "text": "應 當"
             },
             {
               "chord": "A",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "D",
-              "text": "随；"
+              "text": "隨；"
             }
           ]
         },
@@ -60,7 +60,7 @@
             },
             {
               "chord": "D",
-              "text": "凭 倚，"
+              "text": "憑 倚，"
             }
           ]
         },
@@ -68,11 +68,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "跟 随"
+              "text": "跟 隨"
             },
             {
               "chord": "A",
-              "text": "榜 样"
+              "text": "榜 樣"
             },
             {
               "chord": "E7",
@@ -102,7 +102,7 @@
             },
             {
               "chord": "A7",
-              "text": "脚 踪"
+              "text": "腳 蹤"
             },
             {
               "chord": "D",
@@ -118,11 +118,11 @@
             },
             {
               "chord": "E7",
-              "text": "何 宝"
+              "text": "何 寶"
             },
             {
               "chord": "A",
-              "text": "贵；"
+              "text": "貴；"
             }
           ]
         },
@@ -134,15 +134,15 @@
             },
             {
               "chord": "D",
-              "text": "榜 样"
+              "text": "榜 樣"
             },
             {
               "chord": "D7",
-              "text": "应 当"
+              "text": "應 當"
             },
             {
               "chord": "G",
-              "text": "跟 随，"
+              "text": "跟 隨，"
             }
           ]
         },
@@ -150,11 +150,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "豫 备"
+              "text": "豫 備"
             },
             {
               "chord": "D",
-              "text": "新 妇"
+              "text": "新 婦"
             },
             {
               "chord": "A7",
@@ -162,7 +162,7 @@
             },
             {
               "chord": "D",
-              "text": "归。"
+              "text": "歸。"
             }
           ]
         }
@@ -474,10 +474,11 @@
     "category": "教会的生活",
     "time": "9/8",
     "hymn_code": "5671112366",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0755_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1245",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1245",
+        "language": "en",
         "category": "h",
         "number": "1245",
         "title": "E1245"
@@ -485,14 +486,14 @@
     ]
   },
   "raw_sections": [
-    "活 基督 者佳 美踪 迹，",
-    "应 当效 法且 追随；",
-    "己 意、己 力不 再凭 倚，",
-    "跟 随榜 样不 羞愧。",
-    "弟 兄姊 妹脚 踪佳 美，",
-    "活 主 生 命何 宝贵；",
-    "如 此榜 样应 当跟 随，",
-    "豫 备新 妇迎 主归。",
+    "活 基督 者佳 美蹤 迹，",
+    "應 當效 法且 追隨；",
+    "己 意、己 力不 再憑 倚，",
+    "跟 隨榜 樣不 羞愧。",
+    "弟 兄姊 妹腳 蹤佳 美，",
+    "活 主 生 命何 寶貴；",
+    "如 此榜 樣應 當跟 隨，",
+    "豫 備新 婦迎 主歸。",
     "呼求主名取用宝血，",
     "佳美榜样紧跟随；",
     "如此跟随，步履确切，",

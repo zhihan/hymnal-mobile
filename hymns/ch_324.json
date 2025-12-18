@@ -28,7 +28,7 @@
             },
             {
               "chord": "",
-              "text": "见 亮"
+              "text": "見 亮"
             },
             {
               "chord": "D",
@@ -64,11 +64,11 @@
             },
             {
               "chord": "A",
-              "text": "切 认"
+              "text": "切 認"
             },
             {
               "chord": "E7",
-              "text": "识 真"
+              "text": "識 真"
             },
             {
               "chord": "A",
@@ -90,11 +90,11 @@
             },
             {
               "chord": "D",
-              "text": "阿， 愿"
+              "text": "阿， 願"
             },
             {
               "chord": "",
-              "text": "你 这"
+              "text": "你 這"
             },
             {
               "chord": "A",
@@ -106,7 +106,7 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "你 这"
+              "text": "你 這"
             },
             {
               "chord": "",
@@ -122,7 +122,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "现"
+              "text": "現"
             },
             {
               "chord": "F♯",
@@ -130,7 +130,7 @@
             },
             {
               "chord": "",
-              "text": "肯 来"
+              "text": "肯 來"
             },
             {
               "chord": "Bm",
@@ -695,10 +695,11 @@
     "category": "羡慕",
     "time": "3/4",
     "hymn_code": "134313356535",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0324_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/426",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/426",
+        "language": "en",
         "category": "h",
         "number": "426",
         "title": "E426"
@@ -707,12 +708,12 @@
   },
   "raw_sections": [
     "除 去我 的 遮 蔽，",
-    "使我 得见 亮光！",
+    "使我 得見 亮光！",
     "任何 不再 受欺，",
-    "一切 认识 真像。",
-    "主阿， 愿你 这真 光，",
-    "你 这生 命之 光，",
-    "现在 就肯 来照 亮，",
+    "一切 認識 真像。",
+    "主阿， 願你 這真 光，",
+    "你 這生 命之 光，",
+    "現在 就肯 來照 亮，",
     "使我 一切明朗。",
     "对于我的自己，",
     "我真不够认识；",

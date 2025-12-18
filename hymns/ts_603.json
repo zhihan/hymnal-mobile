@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "记 得"
+              "text": "記 得"
             },
             {
               "chord": "",
-              "text": "大 卫 起"
+              "text": "大 衛 起"
             },
             {
               "chord": "F♯m",
@@ -28,7 +28,7 @@
             },
             {
               "chord": "G",
-              "text": "不 进"
+              "text": "不 進"
             },
             {
               "chord": "",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "A",
-              "text": "帐"
+              "text": "帳"
             },
             {
               "chord": "A7",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "A",
-              "text": "闭"
+              "text": "閉"
             },
             {
               "chord": "A7",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "",
-              "text": "我 为"
+              "text": "我 為"
             },
             {
               "chord": "D",
@@ -96,11 +96,11 @@
             },
             {
               "chord": "",
-              "text": "华，"
+              "text": "華，"
             },
             {
               "chord": "Em",
-              "text": "寻"
+              "text": "尋"
             }
           ]
         },
@@ -116,7 +116,7 @@
             },
             {
               "chord": "Bm",
-              "text": "处。』 全"
+              "text": "處。』 全"
             },
             {
               "chord": "G",
@@ -152,7 +152,7 @@
             },
             {
               "chord": "G",
-              "text": "属 祂"
+              "text": "屬 祂"
             },
             {
               "chord": "A7",
@@ -399,10 +399,11 @@
     "category": "建造与合一",
     "time": "4/4",
     "hymn_code": "53234532171432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0603_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1248",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1248",
+        "language": "en",
         "category": "h",
         "number": "1248",
         "title": "E1248"
@@ -410,14 +411,14 @@
     ]
   },
   "raw_sections": [
-    "记 得大 卫 起誓：",
-    "『我不 进我 的帐幕， 不",
+    "記 得大 衛 起誓：",
+    "『我不 進我 的帳幕， 不",
     "上 我的 床榻， 不",
-    "容 我打 盹闭目， 直",
-    "等 到我 为耶 和华，寻",
-    "得 安息 之处。』 全能",
+    "容 我打 盹閉目， 直",
+    "等 到我 為耶 和華，尋",
+    "得 安息 之處。』 全能",
     "的神 巴望",
-    "有家 使属 祂者 可住。",
+    "有家 使屬 祂者 可住。",
     "我们何等眼瞎，",
     "只顾自己的事务，",
     "任凭神殿荒凉─",

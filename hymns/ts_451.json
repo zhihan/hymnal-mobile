@@ -12,11 +12,11 @@
             },
             {
               "chord": "",
-              "text": "赐、 神 已 赐， 神 今 已 赐"
+              "text": "賜、 神 已 賜， 神 今 已 賜"
             },
             {
               "chord": "Em",
-              "text": "与；"
+              "text": "與；"
             }
           ]
         },
@@ -24,7 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "宝 贵 信、"
+              "text": "寶 貴 信、"
             },
             {
               "chord": "Em7",
@@ -36,15 +36,15 @@
             },
             {
               "chord": "A7",
-              "text": "并 极"
+              "text": "並 極"
             },
             {
               "chord": "",
-              "text": "大 应"
+              "text": "大 應"
             },
             {
               "chord": "D",
-              "text": "许；"
+              "text": "許；"
             }
           ]
         },
@@ -52,7 +52,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 们 信 而 领 受， 供 备 全 得"
+              "text": "我 們 信 而 領 受， 供 備 全 得"
             },
             {
               "chord": "G",
@@ -68,11 +68,11 @@
             },
             {
               "chord": "",
-              "text": "凭 此"
+              "text": "憑 此"
             },
             {
               "chord": "D",
-              "text": "长 大"
+              "text": "長 大"
             },
             {
               "chord": "G",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "D",
-              "text": "进"
+              "text": "進"
             },
             {
               "chord": "A7",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "D",
-              "text": "国。"
+              "text": "國。"
             }
           ]
         }
@@ -405,10 +405,11 @@
     "category": "追求与长进",
     "time": "4/4",
     "hymn_code": "33333331432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0451_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1211",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1211",
+        "language": "en",
         "category": "h",
         "number": "1211",
         "title": "E1211"
@@ -416,10 +417,10 @@
     ]
   },
   "raw_sections": [
-    "神 已赐、 神 已 赐， 神 今 已 赐与；",
-    "宝 贵 信、神 能力、并 极大 应许；",
-    "我 们 信 而 领 受， 供 备 全 得著，",
-    "就 能凭 此长 大成 熟进神国。",
+    "神 已賜、 神 已 賜， 神 今 已 賜與；",
+    "寶 貴 信、神 能力、並 極大 應許；",
+    "我 們 信 而 領 受， 供 備 全 得著，",
+    "就 能憑 此長 大成 熟進神國。",
     "何宝贵、何宝贵，同样的宝贵，",
     "信是神所分给，在众圣心内；",
     "我们虽会摇摆，此信不稍减，",

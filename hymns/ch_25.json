@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "你 赐 何"
+              "text": "你 賜 何"
             },
             {
               "chord": "Am",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "",
-              "text": "爱，"
+              "text": "愛，"
             }
           ]
         },
@@ -32,7 +32,7 @@
             },
             {
               "chord": "C",
-              "text": "们 衷"
+              "text": "們 衷"
             },
             {
               "chord": "",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "D",
-              "text": "铭；"
+              "text": "銘；"
             }
           ]
         },
@@ -56,11 +56,11 @@
             },
             {
               "chord": "",
-              "text": "们 前"
+              "text": "們 前"
             },
             {
               "chord": "C",
-              "text": "来 敬"
+              "text": "來 敬"
             },
             {
               "chord": "",
@@ -72,15 +72,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "称"
+              "text": "稱"
             },
             {
               "chord": "G",
-              "text": "颂 你"
+              "text": "頌 你"
             },
             {
               "chord": "D7",
-              "text": "的 圣"
+              "text": "的 聖"
             },
             {
               "chord": "G",
@@ -363,10 +363,11 @@
     "category": "敬拜父",
     "time": "4/4",
     "hymn_code": "53451177123432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0025_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/30",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/30",
+        "language": "en",
         "category": "h",
         "number": "30",
         "title": "E30"
@@ -374,10 +375,10 @@
     ]
   },
   "raw_sections": [
-    "父 阿，你 赐 何等 慈爱，",
-    "我们 衷心 感铭；",
-    "因此 我们 前来 敬拜，",
-    "称颂 你的 圣名。",
+    "父 阿，你 賜 何等 慈愛，",
+    "我們 衷心 感銘；",
+    "因此 我們 前來 敬拜，",
+    "稱頌 你的 聖名。",
     "你已敞开你的胸怀，",
     "将你心意显明；",
     "且在子里已经出来，",

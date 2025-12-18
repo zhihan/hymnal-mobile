@@ -40,7 +40,7 @@
             },
             {
               "chord": "G",
-              "text": "钩；"
+              "text": "鉤；"
             }
           ]
         },
@@ -92,7 +92,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "神 的 儿 子 自"
+              "text": "神 的 兒 子 自"
             },
             {
               "chord": "A",
@@ -116,7 +116,7 @@
             },
             {
               "chord": "D7",
-              "text": "释 罪"
+              "text": "釋 罪"
             },
             {
               "chord": "G",
@@ -177,10 +177,11 @@
     "category": "福音",
     "time": "4/4",
     "hymn_code": "511132123211356",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0705_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1021",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1021",
+        "language": "en",
         "category": "h",
         "number": "1021",
         "title": "E1021"
@@ -189,11 +190,11 @@
   },
   "raw_sections": [
     "所 有罪 人 都是 罪囚，",
-    "已中 死亡 毒钩；",
+    "已中 死亡 毒鉤；",
     "除信 主是 自有 永有，",
     "必在 罪中 死休。",
-    "神 的 儿 子 自有 永有，",
-    "惟祂 能释 罪囚，",
+    "神 的 兒 子 自有 永有，",
+    "惟祂 能釋 罪囚，",
     "能使 罪囚 得著 自由，",
     "自由 直到 永久。"
   ]

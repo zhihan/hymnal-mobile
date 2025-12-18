@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "创 造"
+              "text": "創 造"
             },
             {
               "chord": "",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "G",
-              "text": "义；"
+              "text": "義；"
             }
           ]
         },
@@ -52,7 +52,7 @@
             },
             {
               "chord": "D7",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "G",
@@ -64,15 +64,15 @@
           "segments": [
             {
               "chord": "C",
-              "text": "将 祂"
+              "text": "將 祂"
             },
             {
               "chord": "G",
-              "text": "权 柄"
+              "text": "權 柄"
             },
             {
               "chord": "D7",
-              "text": "显 于"
+              "text": "顯 於"
             },
             {
               "chord": "G",
@@ -84,7 +84,7 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "人 虽"
+              "text": "人 雖"
             },
             {
               "chord": "B",
@@ -96,7 +96,7 @@
             },
             {
               "chord": "B7",
-              "text": "诡 计，"
+              "text": "詭 計，"
             }
           ]
         },
@@ -108,7 +108,7 @@
             },
             {
               "chord": "",
-              "text": "目 标"
+              "text": "目 標"
             },
             {
               "chord": "A7",
@@ -128,7 +128,7 @@
             },
             {
               "chord": "",
-              "text": "终 将"
+              "text": "終 將"
             },
             {
               "chord": "D7",
@@ -136,7 +136,7 @@
             },
             {
               "chord": "G",
-              "text": "国 度，"
+              "text": "國 度，"
             }
           ]
         },
@@ -449,10 +449,11 @@
     "category": "盼望与豫备",
     "time": "4/4",
     "hymn_code": "55653232176165453",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0919_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1299",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1299",
+        "language": "en",
         "category": "h",
         "number": "1299",
         "title": "E1299"
@@ -460,13 +461,13 @@
     ]
   },
   "raw_sections": [
-    "创 造之 神有 一目 的，",
-    "使 人活 著有 意义；",
-    "按 祂 形 像我 们被 造，",
-    "将 祂权 柄显 于地。",
-    "人 虽落 入撒 但诡 计，",
-    "使 神目 标受 蒙蔽；",
-    "但 神终 将得 祂国 度，",
+    "創 造之 神有 一目 的，",
+    "使 人活 著有 意義；",
+    "按 祂 形 像我 們被 造，",
+    "將 祂權 柄顯 於地。",
+    "人 雖落 入撒 但詭 計，",
+    "使 神目 標受 蒙蔽；",
+    "但 神終 將得 祂國 度，",
     "子 必完 成父 心意。",
     "耶稣基督要得国度，",
     "撒但诡计必无路；",

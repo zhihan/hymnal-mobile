@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "识，"
+              "text": "識，"
             }
           ]
         },
@@ -36,7 +36,7 @@
             },
             {
               "chord": "A",
-              "text": "觉；"
+              "text": "覺；"
             }
           ]
         },
@@ -48,11 +48,11 @@
             },
             {
               "chord": "G",
-              "text": "我 里"
+              "text": "我 裡"
             },
             {
               "chord": "",
-              "text": "的 神 圣 生"
+              "text": "的 神 聖 生"
             },
             {
               "chord": "A",
@@ -68,11 +68,11 @@
             },
             {
               "chord": "D",
-              "text": "觉 更"
+              "text": "覺 更"
             },
             {
               "chord": "A",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "A7",
@@ -321,10 +321,11 @@
     "category": "里面生命的各方面",
     "time": "3/4",
     "hymn_code": "33543212671",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0534_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/738",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/738",
+        "language": "en",
         "category": "h",
         "number": "738",
         "title": "E738*"
@@ -332,10 +333,10 @@
     ]
   },
   "raw_sections": [
-    "任 何生 命 具有 意识，",
-    "都 有 生命 感觉；",
-    "在我 里的 神 圣 生命，",
-    "感觉 更为超越。",
+    "任 何生 命 具有 意識，",
+    "都 有 生命 感覺；",
+    "在我 裡的 神 聖 生命，",
+    "感覺 更為超越。",
     "生命性质越是高超，",
     "生命感觉越好；",
     "神的生命最为超特，",

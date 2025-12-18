@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "你 这"
+              "text": "你 這"
             },
             {
               "chord": "",
-              "text": "神 的 隐"
+              "text": "神 的 隱"
             },
             {
               "chord": "D7",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "G",
-              "text": "爱！"
+              "text": "愛！"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "长 阔"
+              "text": "長 闊"
             },
             {
               "chord": "",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "G",
-              "text": "深 无"
+              "text": "深 無"
             },
             {
               "chord": "A7",
@@ -52,7 +52,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "远 远"
+              "text": "遠 遠"
             },
             {
               "chord": "D",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "Em",
-              "text": "见"
+              "text": "見"
             },
             {
               "chord": "G",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "",
-              "text": "叹"
+              "text": "歎"
             },
             {
               "chord": "G",
@@ -156,7 +156,7 @@
             },
             {
               "chord": "D7",
-              "text": "于"
+              "text": "於"
             },
             {
               "chord": "G",
@@ -497,10 +497,11 @@
     "category": "羡慕",
     "time": "3/4",
     "hymn_code": "3211712671",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0321_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/423",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/423",
+        "language": "en",
         "category": "h",
         "number": "423",
         "title": "E423"
@@ -508,12 +509,12 @@
     ]
   },
   "raw_sections": [
-    "你 这神 的 隐藏 的爱！",
-    "长 阔高深 无人 知悉，",
-    "远 远我见你的光彩，",
-    "我 就叹息望得 安息，",
+    "你 這神 的 隱藏 的愛！",
+    "長 闊高深 無人 知悉，",
+    "遠 遠我見你的光彩，",
+    "我 就歎息望得 安息，",
     "我 心痛苦， 不能 安息，",
-    "除 非我心安息于你。",
+    "除 非我心安息於你。",
     "你的声音，仍然隐招",
     "我来负你甜美的轭；",
     "我虽几乎前来应召，",

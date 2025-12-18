@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
@@ -16,11 +16,11 @@
             },
             {
               "chord": "D",
-              "text": "惠 话"
+              "text": "惠 話"
             },
             {
               "chord": "G",
-              "text": "语，"
+              "text": "語，"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "带 著 谦 卑 心"
+              "text": "帶 著 謙 卑 心"
             },
             {
               "chord": "D",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "C",
-              "text": "们 会"
+              "text": "們 會"
             },
             {
               "chord": "",
@@ -64,15 +64,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "现"
+              "text": "現"
             },
             {
               "chord": "D",
-              "text": "今 来"
+              "text": "今 來"
             },
             {
               "chord": "",
-              "text": "记"
+              "text": "記"
             },
             {
               "chord": "D7",
@@ -283,10 +283,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "5165123213532132",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0173_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/214",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/214",
+        "language": "en",
         "category": "h",
         "number": "214",
         "title": "E214*"
@@ -294,10 +295,10 @@
     ]
   },
   "raw_sections": [
-    "我 们照 你 恩惠 话语，",
-    "带 著 谦 卑 心意，",
-    "受死 的主， 我们 会聚，",
-    "现今 来记念你。",
+    "我 們照 你 恩惠 話語，",
+    "帶 著 謙 卑 心意，",
+    "受死 的主， 我們 會聚，",
+    "現今 來記念你。",
     "你的身体为我裂开，",
     "要成我的供给；",
     "我今举起立约杯来，",

@@ -438,10 +438,11 @@
     "category": "Gospel",
     "time": "3/4",
     "hymn_code": "1353211124653",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1051_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/726",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/726",
+        "language": "cn",
         "category": "ch",
         "number": "726",
         "title": "C726"

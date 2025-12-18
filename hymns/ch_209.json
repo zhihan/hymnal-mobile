@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "耶 稣，"
+              "text": "耶 穌，"
             },
             {
               "chord": "",
@@ -20,11 +20,11 @@
             },
             {
               "chord": "G",
-              "text": "胜 的"
+              "text": "勝 的"
             },
             {
               "chord": "",
-              "text": "爱，"
+              "text": "愛，"
             }
           ]
         },
@@ -36,7 +36,7 @@
             },
             {
               "chord": "C",
-              "text": "经 浇"
+              "text": "經 澆"
             },
             {
               "chord": "",
@@ -60,11 +60,11 @@
             },
             {
               "chord": "G",
-              "text": "会 摇"
+              "text": "會 搖"
             },
             {
               "chord": "",
-              "text": "摆，"
+              "text": "擺，"
             }
           ]
         },
@@ -76,7 +76,7 @@
             },
             {
               "chord": "D7",
-              "text": "根 于"
+              "text": "根 於"
             },
             {
               "chord": "G",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "D7",
-              "text": "根 于"
+              "text": "根 於"
             },
             {
               "chord": "G",
@@ -261,10 +261,11 @@
     "category": "圣灵的丰满",
     "time": "6/8",
     "hymn_code": "51122321566165",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0209_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/264",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/264",
+        "language": "en",
         "category": "h",
         "number": "264",
         "title": "E264"
@@ -272,11 +273,11 @@
     ]
   },
   "raw_sections": [
-    "耶 稣，你的 全胜 的爱，",
-    "已经 浇灌 我心，",
-    "我 心 就不 再会 摇摆，",
-    "就 能 生根 于神，",
-    "就 能 生根 于神。",
+    "耶 穌，你的 全勝 的愛，",
+    "已經 澆灌 我心，",
+    "我 心 就不 再會 搖擺，",
+    "就 能 生根 於神，",
+    "就 能 生根 於神。",
     "但愿圣火今在我心，",
     "就已发旺不休；",
     "烧掉所有卑情下品，",

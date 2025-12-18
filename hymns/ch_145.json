@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "耶 稣，"
+              "text": "耶 穌，"
             },
             {
               "chord": "",
@@ -56,7 +56,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "A",
@@ -64,11 +64,11 @@
             },
             {
               "chord": "A7",
-              "text": "颂"
+              "text": "頌"
             },
             {
               "chord": "D",
-              "text": "扬；"
+              "text": "揚；"
             }
           ]
         },
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "他 们"
+              "text": "他 們"
             },
             {
               "chord": "",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "E",
-              "text": "承 认"
+              "text": "承 認"
             }
           ]
         },
@@ -100,7 +100,7 @@
             },
             {
               "chord": "A",
-              "text": "极；"
+              "text": "極；"
             }
           ]
         },
@@ -108,7 +108,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "A",
@@ -116,7 +116,7 @@
             },
             {
               "chord": "D",
-              "text": "爱 吟"
+              "text": "愛 吟"
             }
           ]
         },
@@ -136,7 +136,7 @@
             },
             {
               "chord": "D",
-              "text": "丽。"
+              "text": "麗。"
             }
           ]
         }
@@ -359,10 +359,11 @@
     "category": "赞美主",
     "time": "3/2",
     "hymn_code": "55433244323",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0145_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/176",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/176",
+        "language": "en",
         "category": "h",
         "number": "176",
         "title": "E176"
@@ -370,14 +371,14 @@
     ]
   },
   "raw_sections": [
-    "耶 稣，奇 妙救 主！",
+    "耶 穌，奇 妙救 主！",
     "基 督，王 中王！",
     "天 使敬 拜俯 伏，",
-    "我 们也颂扬；",
-    "他 们在 天承 认",
-    "你 乃美 至极；",
-    "我 们也 在爱 吟",
-    "你 是最美丽。",
+    "我 們也頌揚；",
+    "他 們在 天承 認",
+    "你 乃美 至極；",
+    "我 們也 在愛 吟",
+    "你 是最美麗。",
     "地上所有安逸，",
     "尽都是空穴；",
     "天上缺少了你，",

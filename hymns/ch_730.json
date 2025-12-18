@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "听 阿！"
+              "text": "聽 阿！"
             },
             {
               "chord": "C",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "",
-              "text": "慈 声"
+              "text": "慈 聲"
             },
             {
               "chord": "G",
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "当 祂"
+              "text": "當 祂"
             },
             {
               "chord": "D",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "Em",
-              "text": "寻"
+              "text": "尋"
             },
             {
               "chord": "G",
@@ -68,7 +68,7 @@
           "segments": [
             {
               "chord": "Am",
-              "text": "莫 让"
+              "text": "莫 讓"
             },
             {
               "chord": "D7",
@@ -110,7 +110,7 @@
           "segments": [
             {
               "chord": "Bm",
-              "text": "听 主"
+              "text": "聽 主"
             },
             {
               "chord": "Em",
@@ -126,7 +126,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "当 祂"
+              "text": "當 祂"
             },
             {
               "chord": "C",
@@ -138,7 +138,7 @@
             },
             {
               "chord": "Bm",
-              "text": "寻"
+              "text": "尋"
             },
             {
               "chord": "Em",
@@ -150,7 +150,7 @@
           "segments": [
             {
               "chord": "Am",
-              "text": "莫 让"
+              "text": "莫 讓"
             },
             {
               "chord": "D7",
@@ -359,10 +359,11 @@
     "category": "福音",
     "time": "4/4",
     "hymn_code": "3217165122123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0730_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1054",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1054",
+        "language": "en",
         "category": "h",
         "number": "1054",
         "title": "E1054"
@@ -370,14 +371,14 @@
     ]
   },
   "raw_sections": [
-    "听 阿！罪 人，慈 声何 高！",
+    "聽 阿！罪 人，慈 聲何 高！",
     "救 主在 呼召；",
-    "当 祂正 把多 人寻找，",
-    "莫 让祂 漏掉！",
+    "當 祂正 把多 人尋找，",
+    "莫 讓祂 漏掉！",
     "罪人！罪人！",
-    "听 主在 呼召；",
-    "当 祂正 把多 人寻找，",
-    "莫 让祂 漏掉！",
+    "聽 主在 呼召；",
+    "當 祂正 把多 人尋找，",
+    "莫 讓祂 漏掉！",
     "莫我，救主，莫我漏掉！",
     "听我恭求告！",
     "当你正把别人呼召，",

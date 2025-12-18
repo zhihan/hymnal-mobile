@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "今 日 于 我，"
+              "text": "今 日 於 我，"
             }
           ]
         },
@@ -24,7 +24,7 @@
             },
             {
               "chord": "D",
-              "text": "观 也"
+              "text": "觀 也"
             },
             {
               "chord": "D7",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "G",
-              "text": "观；"
+              "text": "觀；"
             }
           ]
         },
@@ -44,7 +44,7 @@
             },
             {
               "chord": "C",
-              "text": "观， 祂"
+              "text": "觀， 祂"
             },
             {
               "chord": "",
@@ -60,7 +60,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "A",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "D",
-              "text": "辩；"
+              "text": "辯；"
             }
           ]
         },
@@ -84,11 +84,11 @@
             },
             {
               "chord": "G",
-              "text": "观， 祂"
+              "text": "觀， 祂"
             },
             {
               "chord": "",
-              "text": "在 我 里"
+              "text": "在 我 裡"
             }
           ]
         },
@@ -116,11 +116,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "时"
+              "text": "時"
             },
             {
               "chord": "G",
-              "text": "刻 将"
+              "text": "刻 將"
             },
             {
               "chord": "",
@@ -136,7 +136,7 @@
             },
             {
               "chord": "D",
-              "text": "衷 来"
+              "text": "衷 來"
             },
             {
               "chord": "D7",
@@ -144,7 +144,7 @@
             },
             {
               "chord": "G",
-              "text": "应。"
+              "text": "應。"
             }
           ]
         }
@@ -577,10 +577,11 @@
     "category": "经历基督",
     "time": "3/4",
     "hymn_code": "51123321271",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0398_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/536",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/536",
+        "language": "en",
         "category": "h",
         "number": "536",
         "title": "E536"
@@ -588,14 +589,14 @@
     ]
   },
   "raw_sections": [
-    "基 督今 日 于 我，",
-    "客观 也主观；",
-    "客观， 祂在天 上",
-    "为我 在代辩；",
-    "主观， 祂在 我 里",
+    "基 督今 日 於 我，",
+    "客觀 也主觀；",
+    "客觀， 祂在天 上",
+    "為我 在代辯；",
+    "主觀， 祂在 我 裡",
     "作我 的生命，",
-    "时刻 将祂 自 己",
-    "由衷 来供应。",
+    "時刻 將祂 自 己",
+    "由衷 來供應。",
     "祂在天上坐在",
     "父神的右边，",
     "为我作大祭司",

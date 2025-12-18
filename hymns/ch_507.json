@@ -16,7 +16,7 @@
             },
             {
               "chord": "C",
-              "text": "的 领"
+              "text": "的 領"
             },
             {
               "chord": "G",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "来 过"
+              "text": "來 過"
             },
             {
               "chord": "Am",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "D7",
-              "text": "生 风"
+              "text": "生 風"
             },
             {
               "chord": "G",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "D7",
-              "text": "识 水"
+              "text": "識 水"
             },
             {
               "chord": "G",
@@ -88,19 +88,19 @@
           "segments": [
             {
               "chord": "C",
-              "text": "你 当"
+              "text": "你 當"
             },
             {
               "chord": "G",
-              "text": "赐 南"
+              "text": "賜 南"
             },
             {
               "chord": "D",
-              "text": "针 图"
+              "text": "針 圖"
             },
             {
               "chord": "G",
-              "text": "状，"
+              "text": "狀，"
             }
           ]
         },
@@ -116,7 +116,7 @@
             },
             {
               "chord": "D7",
-              "text": "的 领"
+              "text": "的 領"
             },
             {
               "chord": "G",
@@ -241,10 +241,11 @@
     "category": "试炼中的安慰",
     "time": "3/4",
     "hymn_code": "321721654332171",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0507_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/392",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/392",
+        "language": "en",
         "category": "h",
         "number": "392",
         "title": "E392"
@@ -252,12 +253,12 @@
     ]
   },
   "raw_sections": [
-    "主， 你作 我的 领港，",
-    "来 过此 人生 风浪；",
-    "前 面是 未识 水道，",
+    "主， 你作 我的 領港，",
+    "來 過此 人生 風浪；",
+    "前 面是 未識 水道，",
     "浮 沙外 加上 暗礁；",
-    "你 当赐 南针 图状，",
-    "主， 你作 我的 领港。",
+    "你 當賜 南針 圖狀，",
+    "主， 你作 我的 領港。",
     "慈母能平定婴孩，",
     "你也能镇静狂海；",
     "当你说应当安静，",

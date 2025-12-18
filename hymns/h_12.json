@@ -325,10 +325,11 @@
     "category": "Worship of the Father",
     "time": "3/4",
     "hymn_code": "1321231761531322",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0012_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/9",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/9",
+        "language": "cn",
         "category": "ch",
         "number": "9",
         "title": "C9"

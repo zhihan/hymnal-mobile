@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "A7",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "除 了 耶 稣"
+              "text": "除 了 耶 穌"
             },
             {
               "chord": "A7",
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "没 有 别 的"
+              "text": "沒 有 別 的"
             },
             {
               "chord": "G",
@@ -60,11 +60,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "没 有"
+              "text": "沒 有"
             },
             {
               "chord": "E7",
-              "text": "别 的"
+              "text": "別 的"
             },
             {
               "chord": "",
@@ -80,7 +80,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "因 为"
+              "text": "因 為"
             },
             {
               "chord": "",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "Bm",
-              "text": "人 间，"
+              "text": "人 間，"
             }
           ]
         },
@@ -96,7 +96,7 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "因 为"
+              "text": "因 為"
             },
             {
               "chord": "",
@@ -104,7 +104,7 @@
             },
             {
               "chord": "A7",
-              "text": "人 间，"
+              "text": "人 間，"
             }
           ]
         },
@@ -112,15 +112,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "没 有"
+              "text": "沒 有"
             },
             {
               "chord": "D",
-              "text": "赐 下"
+              "text": "賜 下"
             },
             {
               "chord": "",
-              "text": "别 名，"
+              "text": "別 名，"
             }
           ]
         },
@@ -153,10 +153,11 @@
     "category": "福音",
     "time": "3/4",
     "hymn_code": "543321543321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0678_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8678",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8678",
+        "language": "en",
         "category": "h",
         "number": "8678",
         "title": "E8678"
@@ -164,13 +165,13 @@
     ]
   },
   "raw_sections": [
-    "除 了耶 稣以外，",
-    "除 了 耶 稣以外，",
-    "没 有 别 的拯救，",
-    "没 有别 的拯救；",
-    "因 为在 天 下人 间，",
-    "因 为在 天 下人 间，",
-    "没 有赐 下别 名，",
+    "除 了耶 穌以外，",
+    "除 了 耶 穌以外，",
+    "沒 有 別 的拯救，",
+    "沒 有別 的拯救；",
+    "因 為在 天 下人 間，",
+    "因 為在 天 下人 間，",
+    "沒 有賜 下別 名，",
     "人 可靠 著得生。"
   ]
 }

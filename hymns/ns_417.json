@@ -7,40 +7,8 @@
         {
           "segments": [
             {
-              "chord": "C",
-              "text": "Waters"
-            },
-            {
               "chord": "",
-              "text": "to swim in will"
-            },
-            {
-              "chord": "G",
-              "text": "meet our"
-            },
-            {
-              "chord": "",
-              "text": "every need,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "G7",
-              "text": "Water"
-            },
-            {
-              "chord": "",
-              "text": "is flowing and"
-            },
-            {
-              "chord": "C",
-              "text": "never"
-            },
-            {
-              "chord": "",
-              "text": "to recede;"
+              "text": "Waters to swim in will meet our every need,"
             }
           ]
         },
@@ -48,51 +16,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "limited, re"
-            },
-            {
-              "chord": "C7",
-              "text": "stricted"
-            },
-            {
-              "chord": "",
-              "text": "by"
-            },
-            {
-              "chord": "F",
-              "text": "living,"
-            },
-            {
-              "chord": "",
-              "text": "flowing"
-            },
-            {
-              "chord": "Dm7",
-              "text": "grace,"
+              "text": "Water is flowing and never to recede;"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "Losing"
-            },
+              "chord": "",
+              "text": "Limited, restricted by living, flowing grace,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "all our freedom, our"
-            },
-            {
-              "chord": "G7",
-              "text": "soul- life"
-            },
-            {
-              "chord": "",
-              "text": "is re"
-            },
-            {
-              "chord": "C",
-              "text": "placed."
+              "text": "Losing all our freedom, our soul-life is replaced."
             }
           ]
         }
@@ -105,16 +45,8 @@
         {
           "segments": [
             {
-              "chord": "F",
-              "text": "Drink the"
-            },
-            {
               "chord": "",
-              "text": "living water,"
-            },
-            {
-              "chord": "C",
-              "text": "Rivers"
+              "text": "Drink the living water, (Sisters)"
             }
           ]
         },
@@ -122,15 +54,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "flowing free!"
-            },
-            {
-              "chord": "F",
-              "text": "Water!"
-            },
-            {
-              "chord": "",
-              "text": "Living"
+              "text": "Rivers flowing free! (Brothers)"
             }
           ]
         },
@@ -138,15 +62,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "waters!"
-            },
-            {
-              "chord": "G",
-              "text": "Have Your"
-            },
-            {
-              "chord": "",
-              "text": "way"
+              "text": "Water! Living waters! (Sisters)"
             }
           ]
         },
@@ -154,27 +70,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "in me!"
-            },
-            {
-              "chord": "F",
-              "text": "Daily"
-            },
-            {
-              "chord": "",
-              "text": "in"
-            },
-            {
-              "chord": "C",
-              "text": "creasing"
-            },
-            {
-              "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "E7",
-              "text": "growth"
+              "text": "Have Your way in me! (Brothers)"
             }
           ]
         },
@@ -182,19 +78,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "of life in"
-            },
-            {
-              "chord": "Am",
-              "text": "me,"
-            },
-            {
-              "chord": "Dm7",
-              "text": "For His"
-            },
-            {
-              "chord": "",
-              "text": "glorious building"
+              "text": "Daily increasing the growth of life in me,"
             }
           ]
         },
@@ -202,15 +86,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "and"
-            },
-            {
-              "chord": "G",
-              "text": "His recover"
-            },
-            {
-              "chord": "G7",
-              "text": "y!"
+              "text": "For His glorious building and His recovery!"
             }
           ]
         }
@@ -350,19 +226,20 @@
   "metadata": {
     "category": "Fulness of the Spirit",
     "time": "4/4",
-    "hymn_code": "11115577765"
+    "hymn_code": "11115577765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0417_tune.midi"
   },
   "raw_sections": [
-    "Watersto swim in willmeet ourevery need,",
-    "Wateris flowing andneverto recede;",
-    "limited, restrictedbyliving,flowinggrace,",
-    "Losingall our freedom, oursoul- lifeis replaced.",
-    "Drink theliving water,Rivers",
-    "flowing free!Water!Living",
-    "waters!Have Yourway",
-    "in me!Dailyincreasingthegrowth",
-    "of life inme,For Hisglorious building",
-    "andHis recovery!",
+    "Waters to swim in will meet our every need,",
+    "Water is flowing and never to recede;",
+    "Limited, restricted by living, flowing grace,",
+    "Losing all our freedom, our soul-life is replaced.",
+    "Drink the living water, (Sisters)",
+    "Rivers flowing free! (Brothers)",
+    "Water! Living waters! (Sisters)",
+    "Have Your way in me! (Brothers)",
+    "Daily increasing the growth of life in me,",
+    "For His glorious building and His recovery!",
     "Waters to swim in is flowing toward the east,",
     "Water is flowing to glory that we seek;",
     "Having the preeminence in life, work and home,",

@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "之 神 荣"
+              "text": "之 神 榮"
             },
             {
               "chord": "A",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "灵，"
+              "text": "靈，"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "现"
+              "text": "現"
             },
             {
               "chord": "G",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "",
-              "text": "灵 里"
+              "text": "靈 裡"
             },
             {
               "chord": "A",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "",
-              "text": "要 从"
+              "text": "要 從"
             },
             {
               "chord": "A",
@@ -96,7 +96,7 @@
             },
             {
               "chord": "D",
-              "text": "显。"
+              "text": "顯。"
             }
           ]
         }
@@ -375,10 +375,11 @@
     "category": "里面生命的各方面",
     "time": "3/4",
     "hymn_code": "5512312123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0545_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/749",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/749",
+        "language": "en",
         "category": "h",
         "number": "749",
         "title": "E749"
@@ -386,10 +387,10 @@
     ]
   },
   "raw_sections": [
-    "三 一之 神 荣耀 的灵，",
-    "现今 住在 我灵 里面；",
-    "一直 想要 从我 流出，",
-    "使神 可以 得著彰显。",
+    "三 一之 神 榮耀 的靈，",
+    "現今 住在 我靈 裡面；",
+    "一直 想要 從我 流出，",
+    "使神 可以 得著彰顯。",
     "但我外面天然的人，",
     "常将那灵关闭禁拘；",
     "未能让祂得家安居，",

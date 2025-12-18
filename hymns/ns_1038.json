@@ -7,56 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "Lord, You"
-            },
-            {
               "chord": "",
-              "text": "are the"
-            },
-            {
-              "chord": "G",
-              "text": "great I"
-            },
-            {
-              "chord": "A",
-              "text": "Am,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D",
-              "text": "Our pathways"
-            },
-            {
-              "chord": "",
-              "text": "set by Your own"
-            },
-            {
-              "chord": "A",
-              "text": "hand."
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D",
-              "text": "Gain more"
-            },
-            {
-              "chord": "",
-              "text": "ground and"
-            },
-            {
-              "chord": "G",
-              "text": "bear more"
-            },
-            {
-              "chord": "",
-              "text": "fruit"
+              "text": "Lord, You are the great I Am,"
             }
           ]
         },
@@ -64,15 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Each"
-            },
-            {
-              "chord": "A",
-              "text": "day, grow"
-            },
-            {
-              "chord": "",
-              "text": "in me,"
+              "text": "Our pathways set by Your own hand."
             }
           ]
         },
@@ -80,11 +24,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "Defeat your ene"
-            },
+              "text": "Gain more ground and bear more fruit"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "A7",
-              "text": "my."
+              "chord": "",
+              "text": "Each day, grow in me,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Defeat your enemy."
             }
           ]
         }
@@ -97,76 +53,32 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "Let the"
-            },
-            {
               "chord": "",
-              "text": "Amen"
-            },
-            {
-              "chord": "Bm",
-              "text": "sound again—"
+              "text": "Let the Amen sound again—"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "Let the"
-            },
-            {
               "chord": "",
-              "text": "Amen"
-            },
-            {
-              "chord": "A",
-              "text": "sound again—"
+              "text": "Let the Amen sound again—"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "Let the"
-            },
-            {
               "chord": "",
-              "text": "Amen"
-            },
-            {
-              "chord": "Bm",
-              "text": "sound again—"
+              "text": "Let the Amen sound again—"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "Amen,"
-            },
-            {
               "chord": "",
-              "text": "A"
-            },
-            {
-              "chord": "A",
-              "text": "men!"
-            },
-            {
-              "chord": "G",
-              "text": "Amen,"
-            },
-            {
-              "chord": "",
-              "text": "A"
-            },
-            {
-              "chord": "A",
-              "text": "men!"
+              "text": "Amen, Amen! Amen, Amen!"
             }
           ]
         }
@@ -178,64 +90,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "Let our"
-            },
-            {
               "chord": "",
-              "text": "Amen"
-            },
-            {
-              "chord": "Bm",
-              "text": "sound again—"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "G",
-              "text": "Let our"
-            },
-            {
-              "chord": "",
-              "text": "Amen"
-            },
-            {
-              "chord": "A",
-              "text": "sound again—"
-            },
-            {
-              "chord": "D",
-              "text": "Let our"
-            },
-            {
-              "chord": "",
-              "text": "Amen"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "Bm",
-              "text": "sound again—"
-            },
-            {
-              "chord": "G",
-              "text": "Amen,"
-            },
-            {
-              "chord": "",
-              "text": "A"
-            },
-            {
-              "chord": "A",
-              "text": "men!"
-            },
-            {
-              "chord": "G",
-              "text": "Amen,"
+              "text": "Lord, I have no confidence"
             }
           ]
         },
@@ -243,23 +99,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "A"
-            },
-            {
-              "chord": "A",
-              "text": "men!"
-            },
-            {
-              "chord": "G",
-              "text": "(Amen"
-            },
-            {
-              "chord": "",
-              "text": "A"
-            },
-            {
-              "chord": "A",
-              "text": "men!"
+              "text": "In who I am or what I do."
             }
           ]
         },
@@ -267,11 +107,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "A"
-            },
+              "text": "Only You are able to"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "D",
-              "text": "men!)"
+              "chord": "",
+              "text": "Endure and overcome;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Sustain with just one word."
             }
           ]
         }
@@ -512,23 +364,24 @@
   "metadata": {
     "category": "Longings",
     "time": "4/4",
-    "hymn_code": "171712211717122"
+    "hymn_code": "171712211717122",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1038_tune.midi"
   },
   "raw_sections": [
-    "Lord, Youare thegreat IAm,",
-    "Our pathwaysset by Your ownhand.",
-    "Gain moreground andbear morefruit",
-    "Eachday, growin me,",
-    "Defeat your enemy.",
-    "Let theAmensound again—",
-    "Let theAmensound again—",
-    "Let theAmensound again—",
-    "Amen,Amen!Amen,Amen!",
-    "Let ourAmensound again—",
-    "Let ourAmensound again—Let ourAmen",
-    "sound again—Amen,Amen!Amen,",
-    "Amen!(AmenAmen!",
-    "Amen!)",
+    "Lord, You are the great I Am,",
+    "Our pathways set by Your own hand.",
+    "Gain more ground and bear more fruit",
+    "Each day, grow in me,",
+    "Defeat your enemy.",
+    "Let the Amen sound again—",
+    "Let the Amen sound again—",
+    "Let the Amen sound again—",
+    "Amen, Amen! Amen, Amen!",
+    "Lord, I have no confidence",
+    "In who I am or what I do.",
+    "Only You are able to",
+    "Endure and overcome;",
+    "Sustain with just one word.",
     "How we need Your life each day",
     "To wash our oldness all away.",
     "Renew me to be Spirit-filled;",

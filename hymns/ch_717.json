@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "害 人 人 请 来， 救 主 充"
+              "text": "害 人 人 請 來， 救 主 充"
             }
           ]
         },
@@ -16,11 +16,11 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "满 爱"
+              "text": "滿 愛"
             },
             {
               "chord": "D",
-              "text": "怜； 祂"
+              "text": "憐； 祂"
             },
             {
               "chord": "G",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "",
-              "text": "怀， 只"
+              "text": "懷， 只"
             },
             {
               "chord": "G",
@@ -90,7 +90,7 @@
             },
             {
               "chord": "G",
-              "text": "现 在"
+              "text": "現 在"
             },
             {
               "chord": "Em",
@@ -134,7 +134,7 @@
             },
             {
               "chord": "G",
-              "text": "现 在"
+              "text": "現 在"
             },
             {
               "chord": "D7",
@@ -502,10 +502,11 @@
     "category": "福音",
     "time": "4/4",
     "hymn_code": "55651332155312",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0717_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1031",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1031",
+        "language": "en",
         "category": "h",
         "number": "1031",
         "title": "E1031"
@@ -513,13 +514,13 @@
     ]
   },
   "raw_sections": [
-    "害 人 人 请 来， 救 主 充",
-    "满 爱怜； 祂要 救",
-    "你， 安你 心怀， 只要 信",
+    "害 人 人 請 來， 救 主 充",
+    "滿 愛憐； 祂要 救",
+    "你， 安你 心懷， 只要 信",
     "祂 恩言。 只要信",
-    "祂！只 要信 祂！现 在要",
+    "祂！只 要信 祂！現 在要",
     "信祂！祂 要救",
-    "你！祂 要救 你！现 在要",
+    "你！祂 要救 你！現 在要",
     "救你！",
     "耶稣为赐丰富恩典，",
     "已经流出宝血；",

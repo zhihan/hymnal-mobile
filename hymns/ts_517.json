@@ -24,7 +24,7 @@
             },
             {
               "chord": "D",
-              "text": "会，"
+              "text": "會，"
             }
           ]
         },
@@ -36,7 +36,7 @@
             },
             {
               "chord": "A",
-              "text": "会， 在"
+              "text": "會， 在"
             },
             {
               "chord": "",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "D",
-              "text": "会；"
+              "text": "會；"
             }
           ]
         },
@@ -64,7 +64,7 @@
             },
             {
               "chord": "D",
-              "text": "会，"
+              "text": "會，"
             }
           ]
         },
@@ -207,10 +207,11 @@
     "category": "教会的异象",
     "time": "4/4",
     "hymn_code": "3323121615",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0517_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/6517",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/6517",
+        "language": "en",
         "category": "h",
         "number": "6517",
         "title": "E6517"
@@ -218,9 +219,9 @@
     ]
   },
   "raw_sections": [
-    "基 督是 元 首，在 地方 召会，",
-    "在 地 方 召会， 在地 方 召会；",
-    "基 督 是 元 首，在 地方 召会，",
+    "基 督是 元 首，在 地方 召會，",
+    "在 地 方 召會， 在地 方 召會；",
+    "基 督 是 元 首，在 地方 召會，",
     "基 督 是元首。",
     "基督是实际，在地方召会，",
     "在地方召会，在地方召会；",

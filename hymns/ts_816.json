@@ -16,7 +16,7 @@
             },
             {
               "chord": "",
-              "text": "为 何"
+              "text": "為 何"
             },
             {
               "chord": "D",
@@ -32,15 +32,15 @@
             },
             {
               "chord": "Em",
-              "text": "想 过"
+              "text": "想 過"
             },
             {
               "chord": "",
-              "text": "这 问"
+              "text": "這 問"
             },
             {
               "chord": "A",
-              "text": "题？"
+              "text": "題？"
             }
           ]
         },
@@ -80,7 +80,7 @@
             },
             {
               "chord": "Asus4",
-              "text": "义！"
+              "text": "義！"
             }
           ]
         },
@@ -96,7 +96,7 @@
             },
             {
               "chord": "Em",
-              "text": "愿 作"
+              "text": "願 作"
             },
             {
               "chord": "",
@@ -112,7 +112,7 @@
             },
             {
               "chord": "A",
-              "text": "愿 作"
+              "text": "願 作"
             },
             {
               "chord": "",
@@ -132,7 +132,7 @@
             },
             {
               "chord": "D",
-              "text": "愿 作"
+              "text": "願 作"
             },
             {
               "chord": "",
@@ -168,15 +168,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "A",
-              "text": "了 装"
+              "text": "了 裝"
             },
             {
               "chord": "",
-              "text": "祂， 将"
+              "text": "祂， 將"
             },
             {
               "chord": "A7",
@@ -431,10 +431,11 @@
     "category": "事奉与福音",
     "time": "4/4",
     "hymn_code": "3453231533216332",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0816_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/ns/164",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/ns/164",
+        "language": "en",
         "category": "ns",
         "number": "164",
         "title": "NS164"
@@ -442,15 +443,15 @@
     ]
   },
   "raw_sections": [
-    "你 知道 你为 何被 造？",
-    "有 否想 过这 问题？",
+    "你 知道 你為 何被 造？",
+    "有 否想 過這 問題？",
     "你 的生 存 有 何目 的？",
-    "你 今活著 何意义！",
-    "你 知道 神愿 作你 生 命？",
-    "祂愿 作你 生命，",
-    "祂愿 作你 生命！",
+    "你 今活著 何意義！",
+    "你 知道 神願 作你 生 命？",
+    "祂願 作你 生命，",
+    "祂願 作你 生命！",
     "你 乃是 祂所 造的 器 皿，",
-    "为了 装祂， 将祂 表明。",
+    "為了 裝祂， 將祂 表明。",
     "你有灵，在你最深处，",
     "比你的心更深入；",
     "你的心装许多事物，",

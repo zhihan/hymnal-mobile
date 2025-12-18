@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
@@ -20,11 +20,11 @@
             },
             {
               "chord": "",
-              "text": "来"
+              "text": "來"
             },
             {
               "chord": "G",
-              "text": "掌 权"
+              "text": "掌 權"
             },
             {
               "chord": "",
@@ -36,15 +36,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "",
-              "text": "归"
+              "text": "歸"
             },
             {
               "chord": "D7",
-              "text": "耶 稣，"
+              "text": "耶 穌，"
             },
             {
               "chord": "",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "G",
-              "text": "杀 的"
+              "text": "殺 的"
             },
             {
               "chord": "C",
@@ -72,19 +72,19 @@
             },
             {
               "chord": "",
-              "text": "国"
+              "text": "國"
             },
             {
               "chord": "A",
-              "text": "度 带"
+              "text": "度 帶"
             },
             {
               "chord": "",
-              "text": "来"
+              "text": "來"
             },
             {
               "chord": "D",
-              "text": "公 义"
+              "text": "公 義"
             },
             {
               "chord": "",
@@ -96,7 +96,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "喜 乐"
+              "text": "喜 樂"
             },
             {
               "chord": "",
@@ -108,15 +108,15 @@
             },
             {
               "chord": "",
-              "text": "当"
+              "text": "當"
             },
             {
               "chord": "A",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "A7",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "D7",
@@ -138,7 +138,7 @@
             },
             {
               "chord": "",
-              "text": "赞 美， 大 声 歌"
+              "text": "讚 美， 大 聲 歌"
             },
             {
               "chord": "D7",
@@ -150,11 +150,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "D7",
@@ -162,11 +162,11 @@
             },
             {
               "chord": "D",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "G",
@@ -178,7 +178,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "这 首 诗 章 属 主"
+              "text": "這 首 詩 章 屬 主"
             },
             {
               "chord": "C",
@@ -186,7 +186,7 @@
             },
             {
               "chord": "",
-              "text": "爱"
+              "text": "愛"
             },
             {
               "chord": "B",
@@ -198,15 +198,15 @@
           "segments": [
             {
               "chord": "C",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "",
-              "text": "归"
+              "text": "歸"
             },
             {
               "chord": "G",
-              "text": "耶 稣，"
+              "text": "耶 穌，"
             },
             {
               "chord": "C",
@@ -214,7 +214,7 @@
             },
             {
               "chord": "G",
-              "text": "们 的"
+              "text": "們 的"
             },
             {
               "chord": "D7",
@@ -534,10 +534,11 @@
     "category": "赞美的话",
     "time": "6/4",
     "hymn_code": "5176543513",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0022_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/151",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/151",
+        "language": "en",
         "category": "h",
         "number": "151",
         "title": "E151"
@@ -545,14 +546,14 @@
     ]
   },
   "raw_sections": [
-    "我 们歌唱 要来掌 权的 王，",
-    "荣 耀归耶 稣，被杀 的羔羊；",
-    "祂 的国度 带来公 义平 安，",
-    "喜 乐遍全 地，当耶 稣为王。",
-    "同 心赞 美， 大 声 歌唱；",
-    "耶 稣为王，耶 稣为王。",
-    "这 首 诗 章 属 主的 人爱唱：",
-    "荣 耀归耶 稣，我们 的君王。",
+    "我 們歌唱 要來掌 權的 王，",
+    "榮 耀歸耶 穌，被殺 的羔羊；",
+    "祂 的國度 帶來公 義平 安，",
+    "喜 樂遍全 地，當耶 穌為王。",
+    "同 心讚 美， 大 聲 歌唱；",
+    "耶 穌為王，耶 穌為王。",
+    "這 首 詩 章 屬 主的 人愛唱：",
+    "榮 耀歸耶 穌，我們 的君王。",
     "万民要住在祂奇妙光中，",
     "万族要因祂爱归于‘大同’。",
     "公平与真实出自祂王杖，",

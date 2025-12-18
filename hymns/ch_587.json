@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "来 到 施"
+              "text": "來 到 施"
             },
             {
               "chord": "A",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "得 你 怜 恤， 蒙 你 恩"
+              "text": "得 你 憐 恤， 蒙 你 恩"
             },
             {
               "chord": "A",
@@ -44,15 +44,15 @@
             },
             {
               "chord": "A7",
-              "text": "需 应"
+              "text": "需 應"
             },
             {
               "chord": "D",
-              "text": "时"
+              "text": "時"
             },
             {
               "chord": "D7",
-              "text": "帮"
+              "text": "幫"
             },
             {
               "chord": "G",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "D",
-              "text": "灵 得"
+              "text": "靈 得"
             },
             {
               "chord": "A",
@@ -439,10 +439,11 @@
     "category": "读经",
     "time": "3/4",
     "hymn_code": "332343321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0587_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/813",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/813",
+        "language": "en",
         "category": "h",
         "number": "813",
         "title": "E813"
@@ -450,10 +451,10 @@
     ]
   },
   "raw_sections": [
-    "我 今来 到 施恩 座前，",
-    "得 你 怜 恤， 蒙 你 恩典，",
-    "作 我 所需 应时帮助，",
-    "使我 心、灵 得到安舒。",
+    "我 今來 到 施恩 座前，",
+    "得 你 憐 恤， 蒙 你 恩典，",
+    "作 我 所需 應時幫助，",
+    "使我 心、靈 得到安舒。",
     "在此瞻仰你的荣面，",
     "你的面光照我心间，",
     "放出你的医治光线，",

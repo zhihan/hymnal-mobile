@@ -16,7 +16,7 @@
             },
             {
               "chord": "A",
-              "text": "胜， 我"
+              "text": "勝， 我"
             },
             {
               "chord": "",
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "恩 典 迫 使 我 心 决"
+              "text": "恩 典 迫 使 我 心 決"
             },
             {
               "chord": "G",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "D",
-              "text": "献 一"
+              "text": "獻 一"
             },
             {
               "chord": "A",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "E7",
-              "text": "于"
+              "text": "於"
             },
             {
               "chord": "A",
@@ -92,11 +92,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "但 你 大 爱 有"
+              "text": "但 你 大 愛 有"
             },
             {
               "chord": "G",
-              "text": "谁"
+              "text": "誰"
             },
             {
               "chord": "A7",
@@ -104,7 +104,7 @@
             },
             {
               "chord": "D",
-              "text": "挡？"
+              "text": "擋？"
             }
           ]
         },
@@ -112,7 +112,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "爱"
+              "text": "愛"
             },
             {
               "chord": "G",
@@ -124,7 +124,7 @@
             },
             {
               "chord": "D",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "A7",
@@ -253,10 +253,11 @@
     "category": "追求与长进",
     "time": "4/4",
     "hymn_code": "15171231",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0430_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/434",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/434",
+        "language": "en",
         "category": "h",
         "number": "434",
         "title": "E434"
@@ -264,12 +265,12 @@
     ]
   },
   "raw_sections": [
-    "主， 你得胜， 我今 服矣；",
-    "恩 典 迫 使 我 心 决意，",
-    "奉献 一切于你；",
+    "主， 你得勝， 我今 服矣；",
+    "恩 典 迫 使 我 心 決意，",
+    "奉獻 一切於你；",
     "你的 可畏 我能 久抗，",
-    "但 你 大 爱 有谁能挡？",
-    "爱大，我无能力。",
+    "但 你 大 愛 有誰能擋？",
+    "愛大，我無能力。",
     "即使你命万钧雷霆，",
     "轰击我魂向我施刑，",
     "我仍固执不悔；",

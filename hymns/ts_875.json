@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "伦， 出 外 可 以 欢 喜，"
+              "text": "倫， 出 外 可 以 歡 喜，"
             }
           ]
         },
@@ -20,15 +20,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "随 圣"
+              "text": "隨 聖"
             },
             {
               "chord": "C",
-              "text": "灵 大"
+              "text": "靈 大"
             },
             {
               "chord": "",
-              "text": "风 扬 帆 起"
+              "text": "風 揚 帆 起"
             },
             {
               "chord": "G",
@@ -44,15 +44,15 @@
             },
             {
               "chord": "D",
-              "text": "船 满"
+              "text": "船 滿"
             },
             {
               "chord": "",
-              "text": "载 基"
+              "text": "載 基"
             },
             {
               "chord": "G",
-              "text": "督 丰"
+              "text": "督 豐"
             },
             {
               "chord": "Em",
@@ -64,7 +64,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "传 扬"
+              "text": "傳 揚"
             },
             {
               "chord": "C",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "",
-              "text": "复 活，"
+              "text": "復 活，"
             },
             {
               "chord": "D7",
@@ -80,11 +80,11 @@
             },
             {
               "chord": "",
-              "text": "见"
+              "text": "見"
             },
             {
               "chord": "G",
-              "text": "证。"
+              "text": "證。"
             }
           ]
         },
@@ -92,7 +92,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "C",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "",
-              "text": "的 见 证"
+              "text": "的 見 證"
             },
             {
               "chord": "G",
@@ -112,7 +112,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "将 祂"
+              "text": "將 祂"
             },
             {
               "chord": "A7",
@@ -120,7 +120,7 @@
             },
             {
               "chord": "",
-              "text": "达 四"
+              "text": "達 四"
             },
             {
               "chord": "D",
@@ -132,15 +132,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "使 万"
+              "text": "使 萬"
             },
             {
               "chord": "G",
-              "text": "民 归"
+              "text": "民 歸"
             },
             {
               "chord": "",
-              "text": "顺 作 主 门 徒，"
+              "text": "順 作 主 門 徒，"
             }
           ]
         },
@@ -148,7 +148,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "执 行"
+              "text": "執 行"
             },
             {
               "chord": "C",
@@ -156,7 +156,7 @@
             },
             {
               "chord": "",
-              "text": "伟"
+              "text": "偉"
             },
             {
               "chord": "D7",
@@ -597,10 +597,11 @@
     "category": "事奉与福音",
     "time": "4/4",
     "hymn_code": "551512321176671765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0875_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/6875",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/6875",
+        "language": "en",
         "category": "h",
         "number": "6875",
         "title": "E6875"
@@ -608,14 +609,14 @@
     ]
   },
   "raw_sections": [
-    "西 布伦， 出 外 可 以 欢 喜，",
-    "随 圣灵 大风 扬 帆 起行；",
-    "福 音船 满载 基督 丰富，",
-    "传 扬基 督复 活，作 祂见证。",
-    "我 们是 主的 见 证人，",
-    "将 祂繁 殖达 四境；",
-    "使 万民 归顺 作 主 门 徒，",
-    "执 行我 主伟大 使命。",
+    "西 布倫， 出 外 可 以 歡 喜，",
+    "隨 聖靈 大風 揚 帆 起行；",
+    "福 音船 滿載 基督 豐富，",
+    "傳 揚基 督復 活，作 祂見證。",
+    "我 們是 主的 見 證人，",
+    "將 祂繁 殖達 四境；",
+    "使 萬民 歸順 作 主 門 徒，",
+    "執 行我 主偉大 使命。",
     "复活里，如母鹿得释放，",
     "拿弗他利出嘉美言语；",
     "满恩惠，蒙耶和华赐福，",

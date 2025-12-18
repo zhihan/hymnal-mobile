@@ -181,10 +181,11 @@
     "category": "Gospel",
     "time": "2/4",
     "hymn_code": "51643123167121",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1326_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/818",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/818",
+        "language": "cn",
         "category": "ts",
         "number": "818",
         "title": "Cs818"

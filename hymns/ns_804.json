@@ -7,64 +7,8 @@
         {
           "segments": [
             {
-              "chord": "C",
-              "text": "I love"
-            },
-            {
               "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "Cmaj7",
-              "text": "Lord, He"
-            },
-            {
-              "chord": "",
-              "text": "is my"
-            },
-            {
-              "chord": "Dm7",
-              "text": "strength,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "G",
-              "text": "I love"
-            },
-            {
-              "chord": "",
-              "text": "the Lord, Jesus, my"
-            },
-            {
-              "chord": "Cmaj7",
-              "text": "drink;"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "C",
-              "text": "I love"
-            },
-            {
-              "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "Cmaj7",
-              "text": "Lord whatever"
-            },
-            {
-              "chord": "Dm",
-              "text": "others"
-            },
-            {
-              "chord": "Dm7",
-              "text": "think,"
+              "text": "I love the Lord, He is my strength,"
             }
           ]
         },
@@ -72,23 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "I love the"
-            },
-            {
-              "chord": "G",
-              "text": "Lord, He"
-            },
-            {
-              "chord": "",
-              "text": "is my"
-            },
-            {
-              "chord": "Cmaj7",
-              "text": "strength."
-            },
-            {
-              "chord": "Am",
-              "text": "I love"
+              "text": "I love the Lord, Jesus, my drink;"
             }
           ]
         },
@@ -96,15 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "the Lord because He"
-            },
-            {
-              "chord": "C",
-              "text": "hears, I"
-            },
-            {
-              "chord": "",
-              "text": "love"
+              "text": "I love the Lord whatever others think,"
             }
           ]
         },
@@ -112,15 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "the Lord, I know He"
-            },
-            {
-              "chord": "G",
-              "text": "cares;"
-            },
-            {
-              "chord": "Am",
-              "text": "I love"
+              "text": "I love the Lord, He is my strength. (Psa. 18:1)"
             }
           ]
         },
@@ -128,19 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "the Lord even through"
-            },
-            {
-              "chord": "F",
-              "text": "many"
-            },
-            {
-              "chord": "Dm7",
-              "text": "tears, I"
-            },
-            {
-              "chord": "",
-              "text": "love"
+              "text": "I love the Lord because He hears,"
             }
           ]
         },
@@ -148,31 +48,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "C",
-              "text": "Lord, because"
-            },
-            {
-              "chord": "",
-              "text": "He"
-            },
-            {
-              "chord": "G",
-              "text": "hears. so"
-            },
+              "text": "I love the Lord, I know He cares;"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "very"
-            },
+              "text": "I love the Lord even through many tears,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "C",
-              "text": "much!"
-            },
-            {
-              "chord": "Cmaj7",
-              "text": "I"
+              "chord": "",
+              "text": "I love the Lord, because He hears. (Psa. 119:167)"
             }
           ]
         }
@@ -186,7 +78,63 @@
           "segments": [
             {
               "chord": "",
-              "text": "love You, Lord."
+              "text": "I love, You Lord, I love Your words,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Your words, the sweetest ever heard;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "To turn away from You would be absurd,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I love You Lord, I love Your words. (Psa. 119:163)"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I love You, Lord, so very much,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I love You, Lord, I love Your touch;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "All other loves, Your love will surely crush,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I love You, Lord, so very much! (Psa. 119:167)"
             }
           ]
         }
@@ -211,18 +159,26 @@
   "metadata": {
     "category": "Experience of Christ",
     "time": "4/4",
-    "hymn_code": "5565321244542123"
+    "hymn_code": "5565321244542123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0804_tune.midi"
   },
   "raw_sections": [
-    "I lovetheLord, Heis mystrength,",
-    "I lovethe Lord, Jesus, mydrink;",
-    "I lovetheLord whateverothersthink,",
-    "I love theLord, Heis mystrength.I love",
-    "the Lord because Hehears, Ilove",
-    "the Lord, I know Hecares;I love",
-    "the Lord even throughmanytears, Ilove",
-    "theLord, becauseHehears. soverymuch!I",
-    "love You, Lord.",
+    "I love the Lord, He is my strength,",
+    "I love the Lord, Jesus, my drink;",
+    "I love the Lord whatever others think,",
+    "I love the Lord, He is my strength. (Psa. 18:1)",
+    "I love the Lord because He hears,",
+    "I love the Lord, I know He cares;",
+    "I love the Lord even through many tears,",
+    "I love the Lord, because He hears. (Psa. 119:167)",
+    "I love, You Lord, I love Your words,",
+    "Your words, the sweetest ever heard;",
+    "To turn away from You would be absurd,",
+    "I love You Lord, I love Your words. (Psa. 119:163)",
+    "I love You, Lord, so very much,",
+    "I love You, Lord, I love Your touch;",
+    "All other loves, Your love will surely crush,",
+    "I love You, Lord, so very much! (Psa. 119:167)",
     "I love You, Lord."
   ]
 }

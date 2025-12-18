@@ -12,11 +12,11 @@
             },
             {
               "chord": "",
-              "text": "已 经 完"
+              "text": "已 經 完"
             },
             {
               "chord": "G",
-              "text": "成 赎"
+              "text": "成 贖"
             },
             {
               "chord": "",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "D",
-              "text": "价 已"
+              "text": "價 已"
             },
             {
               "chord": "",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "G",
-              "text": "被 赎"
+              "text": "被 贖"
             },
             {
               "chord": "",
@@ -122,11 +122,11 @@
             },
             {
               "chord": "A7",
-              "text": "稣， 我"
+              "text": "穌， 我"
             },
             {
               "chord": "D",
-              "text": "耶 稣！"
+              "text": "耶 穌！"
             }
           ]
         },
@@ -158,7 +158,7 @@
             },
             {
               "chord": "A7",
-              "text": "稣， 我"
+              "text": "穌， 我"
             },
             {
               "chord": "D",
@@ -549,10 +549,11 @@
     "category": "福音",
     "time": "4/4",
     "hymn_code": "511557654432155",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0671_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/986",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/986",
+        "language": "en",
         "category": "h",
         "number": "986",
         "title": "E986"
@@ -560,14 +561,14 @@
     ]
   },
   "raw_sections": [
-    "基 督已 经 完成 赎罪，",
+    "基 督已 經 完成 贖罪，",
     "何 等奇 妙的救主！",
-    "重价 已付， 我被 赎回！",
+    "重價 已付， 我被 贖回！",
     "何 等奇妙 的救主！",
     "何 等 奇 妙 的 救 主，",
-    "是耶稣， 我耶 稣！",
+    "是耶穌， 我耶 穌！",
     "何 等 奇妙 的救 主，",
-    "是耶稣， 我主！",
+    "是耶穌， 我主！",
     "赞美祂血洗罪有效，",
     "何等奇妙的救主！",
     "使我这人与神和好，",

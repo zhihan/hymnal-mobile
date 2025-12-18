@@ -32,7 +32,7 @@
             },
             {
               "chord": "",
-              "text": "我 心 离"
+              "text": "我 心 離"
             },
             {
               "chord": "A",
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "E",
-              "text": "对 于"
+              "text": "對 於"
             },
             {
               "chord": "",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "C♯",
-              "text": "生 厌"
+              "text": "生 厭"
             },
             {
               "chord": "F♯m",
@@ -401,10 +401,11 @@
     "category": "经历神",
     "time": "3/4",
     "hymn_code": "567123321661465",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0445_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/606",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/606",
+        "language": "en",
         "category": "h",
         "number": "606",
         "title": "E606"
@@ -413,8 +414,8 @@
   },
   "raw_sections": [
     "一 想到 神， 就受 吸引，",
-    "吸 引我 心 离地，",
-    "对 于幻景 立生 厌心，",
+    "吸 引我 心 離地，",
+    "對 於幻景 立生 厭心，",
     "抵 消地的吸力。",
     "仅仅得救，免去沉沦，",
     "难够神之所想；",

@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "今 将 自"
+              "text": "今 將 自"
             },
             {
               "chord": "Bm",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "Bm",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "",
-              "text": "会"
+              "text": "會"
             },
             {
               "chord": "G",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "A",
-              "text": "费，"
+              "text": "費，"
             }
           ]
         },
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "虽 不"
+              "text": "雖 不"
             },
             {
               "chord": "G",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "Em",
-              "text": "患 难"
+              "text": "患 難"
             },
             {
               "chord": "",
@@ -120,7 +120,7 @@
             },
             {
               "chord": "D",
-              "text": "为 著"
+              "text": "為 著"
             },
             {
               "chord": "",
@@ -128,7 +128,7 @@
             },
             {
               "chord": "G",
-              "text": "会，"
+              "text": "會，"
             }
           ]
         },
@@ -136,7 +136,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "何 来"
+              "text": "何 來"
             },
             {
               "chord": "A7",
@@ -157,10 +157,11 @@
     "category": "教会的生活",
     "time": "4/4",
     "hymn_code": "571123212216",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0746_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/6746",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/6746",
+        "language": "en",
         "category": "h",
         "number": "6746",
         "title": "E6746"
@@ -168,12 +169,12 @@
     ]
   },
   "raw_sections": [
-    "主， 我今 将 自己",
+    "主， 我今 將 自己",
     "交 在你 恩手中，",
-    "我 只望 能为著 召会花费，",
-    "虽 不知 我前途",
-    "有 何患 难或 痛苦，",
-    "若 是为 著你 召会，",
-    "何 来懊悔！"
+    "我 只望 能為著 召會花費，",
+    "雖 不知 我前途",
+    "有 何患 難或 痛苦，",
+    "若 是為 著你 召會，",
+    "何 來懊悔！"
   ]
 }

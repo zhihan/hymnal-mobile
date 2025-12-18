@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "遥 远， 负 担"
+              "text": "遙 遠， 負 擔"
             },
             {
               "chord": "A",
@@ -24,7 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "力 尽"
+              "text": "力 盡"
             },
             {
               "chord": "A7",
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "请 听 主 声，"
+              "text": "請 聽 主 聲，"
             },
             {
               "chord": "G",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "D",
-              "text": "轻 说："
+              "text": "輕 說："
             }
           ]
         },
@@ -60,11 +60,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "重 担"
+              "text": "重 擔"
             },
             {
               "chord": "D",
-              "text": "当 托"
+              "text": "當 託"
             },
             {
               "chord": "A7",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "D",
-              "text": "华。"
+              "text": "華。"
             }
           ]
         }
@@ -86,7 +86,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "重 担 当 托"
+              "text": "重 擔 當 託"
             },
             {
               "chord": "G",
@@ -94,7 +94,7 @@
             },
             {
               "chord": "D",
-              "text": "华，"
+              "text": "華，"
             }
           ]
         },
@@ -102,11 +102,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "重 担 当 托 耶 和"
+              "text": "重 擔 當 託 耶 和"
             },
             {
               "chord": "A",
-              "text": "华，"
+              "text": "華，"
             }
           ]
         },
@@ -114,7 +114,7 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "主 会"
+              "text": "主 會"
             },
             {
               "chord": "D",
@@ -130,11 +130,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "又 会"
+              "text": "又 會"
             },
             {
               "chord": "G",
-              "text": "坚 固"
+              "text": "堅 固"
             },
             {
               "chord": "",
@@ -146,11 +146,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "重 担"
+              "text": "重 擔"
             },
             {
               "chord": "D",
-              "text": "当 托"
+              "text": "當 託"
             },
             {
               "chord": "A7",
@@ -158,7 +158,7 @@
             },
             {
               "chord": "D",
-              "text": "华。"
+              "text": "華。"
             }
           ]
         }
@@ -502,10 +502,11 @@
     "category": "试炼中的安慰",
     "time": "3/4",
     "hymn_code": "333143327124323",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0495_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/697",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/697",
+        "language": "en",
         "category": "h",
         "number": "697",
         "title": "E697"
@@ -513,15 +514,15 @@
     ]
   },
   "raw_sections": [
-    "路 途遥 远， 负 担沉 著，",
-    "力 尽身 疲要 倒下；",
-    "请 听 主 声，柔 然轻 说：",
-    "重 担当 托耶 和华。",
-    "重 担 当 托耶 和华，",
-    "重 担 当 托 耶 和华，",
-    "主 会安 慰你，",
-    "又 会坚 固你，",
-    "重 担当 托耶 和华。",
+    "路 途遙 遠， 負 擔沉 著，",
+    "力 盡身 疲要 倒下；",
+    "請 聽 主 聲，柔 然輕 說：",
+    "重 擔當 託耶 和華。",
+    "重 擔 當 託耶 和華，",
+    "重 擔 當 託 耶 和華，",
+    "主 會安 慰你，",
+    "又 會堅 固你，",
+    "重 擔當 託耶 和華。",
     "双脚已软，双手已酸，",
     "灯火将灭目又花，",
     "眼见就要心灰气短，",

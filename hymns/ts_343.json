@@ -7,24 +7,8 @@
         {
           "segments": [
             {
-              "chord": "C",
-              "text": "你 的"
-            },
-            {
               "chord": "",
-              "text": "爱 和 你"
-            },
-            {
-              "chord": "G7",
-              "text": "美 丽"
-            },
-            {
-              "chord": "",
-              "text": "自"
-            },
-            {
-              "chord": "C",
-              "text": "己，"
+              "text": "你的爱和你美丽自己，"
             }
           ]
         },
@@ -32,23 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "吸 引"
-            },
-            {
-              "chord": "Dm",
-              "text": "我 快"
-            },
-            {
-              "chord": "",
-              "text": "跑"
-            },
-            {
-              "chord": "C",
-              "text": "跟 随"
-            },
-            {
-              "chord": "G",
-              "text": "你。"
+              "text": "吸引我快跑跟随你。"
             }
           ]
         },
@@ -56,39 +24,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 重"
-            },
-            {
-              "chord": "C",
-              "text": "生 进"
-            },
-            {
-              "chord": "E7",
-              "text": "你 内"
-            },
-            {
-              "chord": "Am",
-              "text": "室，"
+              "text": "我重生进你内室，"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "C",
-              "text": "蒙 你"
-            },
-            {
-              "chord": "F",
-              "text": "𫗪 养"
-            },
-            {
-              "chord": "G7",
-              "text": "到 永"
-            },
-            {
-              "chord": "C",
-              "text": "世。"
+              "chord": "",
+              "text": "蒙你餧养到永世。"
             }
           ]
         }
@@ -102,19 +46,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "良 人 阿！ 我"
-            },
-            {
-              "chord": "C7",
-              "text": "只 属"
-            },
-            {
-              "chord": "",
-              "text": "于"
-            },
-            {
-              "chord": "F",
-              "text": "你。"
+              "text": "良人阿！我只属于你。"
             }
           ]
         },
@@ -122,23 +54,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "佳 偶"
-            },
-            {
-              "chord": "C",
-              "text": "阿！ 你"
-            },
-            {
-              "chord": "D7",
-              "text": "何 等"
-            },
-            {
-              "chord": "",
-              "text": "美"
-            },
-            {
-              "chord": "G",
-              "text": "丽。"
+              "text": "佳偶阿！你何等美丽。"
             }
           ]
         },
@@ -146,23 +62,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 我"
-            },
-            {
-              "chord": "C",
-              "text": "生 命、"
-            },
-            {
-              "chord": "C7",
-              "text": "性 情"
-            },
-            {
-              "chord": "",
-              "text": "是"
-            },
-            {
-              "chord": "F",
-              "text": "一，"
+              "text": "你我生命、性情是一，"
             }
           ]
         },
@@ -170,27 +70,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "爱"
-            },
-            {
-              "chord": "C",
-              "text": "里 联"
-            },
-            {
-              "chord": "",
-              "text": "结"
-            },
-            {
-              "chord": "G7",
-              "text": "永 不"
-            },
-            {
-              "chord": "",
-              "text": "分"
-            },
-            {
-              "chord": "C",
-              "text": "离。"
+              "text": "爱里联结永不分离。"
             }
           ]
         }
@@ -203,7 +83,31 @@
           "segments": [
             {
               "chord": "",
-              "text": "因 你，"
+              "text": "因你，我得有圣别性情，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我美丽来自你生命。"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "得更新顺从听命，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "同良人蹿山越岭。"
             }
           ]
         }
@@ -329,10 +233,11 @@
     "category": "爱慕耶稣",
     "time": "4/4",
     "hymn_code": "123234345",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0343_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/ns/290",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/ns/290",
+        "language": "en",
         "category": "ns",
         "number": "290",
         "title": "NS290"
@@ -340,15 +245,18 @@
     ]
   },
   "raw_sections": [
-    "你 的爱 和 你美 丽自己，",
-    "吸 引我 快跑跟 随你。",
-    "我 重生 进你 内室，",
-    "蒙 你𫗪 养到 永世。",
-    "良 人 阿！ 我只 属于你。",
-    "佳 偶阿！ 你何 等美丽。",
-    "你 我生 命、性 情是一，",
-    "爱里 联结永 不分离。",
-    "因 你，",
+    "你的爱和你美丽自己，",
+    "吸引我快跑跟随你。",
+    "我重生进你内室，",
+    "蒙你餧养到永世。",
+    "良人阿！我只属于你。",
+    "佳偶阿！你何等美丽。",
+    "你我生命、性情是一，",
+    "爱里联结永不分离。",
+    "因你，我得有圣别性情，",
+    "我美丽来自你生命。",
+    "得更新顺从听命，",
+    "同良人蹿山越岭。",
     "单一里注视你如良鸽，",
     "荆棘中信靠如百合。",
     "被变化，得你建造，",

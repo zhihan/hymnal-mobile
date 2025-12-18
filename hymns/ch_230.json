@@ -12,15 +12,15 @@
             },
             {
               "chord": "",
-              "text": "欢"
+              "text": "歡"
             },
             {
               "chord": "D",
-              "text": "乐， 因"
+              "text": "樂， 因"
             },
             {
               "chord": "",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "Em",
@@ -44,11 +44,11 @@
             },
             {
               "chord": "",
-              "text": "话 中 明 说"
+              "text": "話 中 明 說"
             },
             {
               "chord": "D7",
-              "text": "祂 爱"
+              "text": "祂 愛"
             },
             {
               "chord": "",
@@ -64,11 +64,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "圣 经 所"
+              "text": "聖 經 所"
             },
             {
               "chord": "D",
-              "text": "载 奇"
+              "text": "載 奇"
             },
             {
               "chord": "",
@@ -100,11 +100,11 @@
             },
             {
               "chord": "D7",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
-              "text": "爱"
+              "text": "愛"
             },
             {
               "chord": "G",
@@ -122,19 +122,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 真 欢"
+              "text": "我 真 歡"
             },
             {
               "chord": "G7",
-              "text": "乐， 因"
+              "text": "樂， 因"
             },
             {
               "chord": "C",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
-              "text": "爱"
+              "text": "愛"
             },
             {
               "chord": "Am",
@@ -146,19 +146,19 @@
           "segments": [
             {
               "chord": "D",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
-              "text": "爱 我，"
+              "text": "愛 我，"
             },
             {
               "chord": "D7",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
-              "text": "爱"
+              "text": "愛"
             },
             {
               "chord": "G",
@@ -170,19 +170,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 真 欢"
+              "text": "我 真 歡"
             },
             {
               "chord": "G7",
-              "text": "乐， 因"
+              "text": "樂， 因"
             },
             {
               "chord": "C",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
-              "text": "爱"
+              "text": "愛"
             },
             {
               "chord": "Am",
@@ -194,7 +194,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
@@ -202,7 +202,7 @@
             },
             {
               "chord": "D7",
-              "text": "然 爱"
+              "text": "然 愛"
             },
             {
               "chord": "G",
@@ -593,10 +593,11 @@
     "category": "得救的证实与快乐",
     "time": "6/8",
     "hymn_code": "5555555123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0230_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/291",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/291",
+        "language": "en",
         "category": "h",
         "number": "291",
         "title": "E291"
@@ -604,14 +605,14 @@
     ]
   },
   "raw_sections": [
-    "我 真欢乐， 因为天 上父神，",
-    "在 祂话 中 明 说祂 爱世人；",
-    "圣 经 所载 奇妙之 事甚多，",
-    "其 最甜 者， 就 是耶 稣爱我。",
-    "我 真 欢乐， 因耶 稣爱我！",
-    "耶 稣爱 我，耶 稣爱我；",
-    "我 真 欢乐， 因耶 稣爱我！",
-    "耶 稣竟然 爱我！",
+    "我 真歡樂， 因為天 上父神，",
+    "在 祂話 中 明 說祂 愛世人；",
+    "聖 經 所載 奇妙之 事甚多，",
+    "其 最甜 者， 就 是耶 穌愛我。",
+    "我 真 歡樂， 因耶 穌愛我！",
+    "耶 穌愛 我，耶 穌愛我；",
+    "我 真 歡樂， 因耶 穌愛我！",
+    "耶 穌竟然 愛我！",
     "我虽忘祂，一直流荡远离，",
     "祂仍爱我，无论流荡何地；",
     "祂来寻我，直到将我寻着，",

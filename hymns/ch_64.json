@@ -16,15 +16,15 @@
             },
             {
               "chord": "C",
-              "text": "称 为"
+              "text": "稱 為"
             },
             {
               "chord": "G",
-              "text": "『耶 稣，』"
+              "text": "『耶 穌，』"
             },
             {
               "chord": "",
-              "text": "可 爱"
+              "text": "可 愛"
             }
           ]
         },
@@ -56,7 +56,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "圣 洁"
+              "text": "聖 潔"
             },
             {
               "chord": "",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "",
-              "text": "与 人"
+              "text": "與 人"
             },
             {
               "chord": "G",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "C",
-              "text": "和 华"
+              "text": "和 華"
             },
             {
               "chord": "G",
@@ -108,7 +108,7 @@
             },
             {
               "chord": "",
-              "text": "拯 救 我 们"
+              "text": "拯 救 我 們"
             }
           ]
         },
@@ -116,11 +116,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "脱 罪"
+              "text": "脫 罪"
             },
             {
               "chord": "D",
-              "text": "恶； 当"
+              "text": "惡； 當"
             },
             {
               "chord": "",
@@ -144,7 +144,7 @@
             },
             {
               "chord": "",
-              "text": "神 圣 生 命"
+              "text": "神 聖 生 命"
             }
           ]
         },
@@ -379,10 +379,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "3331433112346543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0064_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/68",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/68",
+        "language": "en",
         "category": "h",
         "number": "68",
         "title": "E68"
@@ -390,13 +391,13 @@
     ]
   },
   "raw_sections": [
-    "我 主，你 名称 为『耶 稣，』可 爱",
+    "我 主，你 名稱 為『耶 穌，』可 愛",
     "之名 何奇妙； 你由",
-    "圣 洁童 女而 生，取 了",
-    "人 性与 人貌。 你是",
-    "我 『耶和 华救 主，』拯 救 我 们",
-    "脱 罪恶； 当我接 受",
-    "你 作救 主，神 圣 生 命",
+    "聖 潔童 女而 生，取 了",
+    "人 性與 人貌。 你是",
+    "我 『耶和 華救 主，』拯 救 我 們",
+    "脫 罪惡； 當我接 受",
+    "你 作救 主，神 聖 生 命",
     "我 得著。",
     "你名也被称为‘基督，’",
     "荣耀职事的名称；",

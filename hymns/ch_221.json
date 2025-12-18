@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "当 主"
+              "text": "當 主"
             },
             {
               "chord": "G",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "G",
-              "text": "为 人，"
+              "text": "為 人，"
             }
           ]
         },
@@ -32,7 +32,7 @@
             },
             {
               "chord": "Am",
-              "text": "圣 灵"
+              "text": "聖 靈"
             },
             {
               "chord": "D7",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "D",
-              "text": "开 始"
+              "text": "開 始"
             },
             {
               "chord": "Em",
@@ -68,11 +68,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "圣 灵"
+              "text": "聖 靈"
             },
             {
               "chord": "D",
-              "text": "充 满"
+              "text": "充 滿"
             },
             {
               "chord": "A7",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "C",
-              "text": "开 始"
+              "text": "開 始"
             },
             {
               "chord": "B",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "Em",
-              "text": "之 时，"
+              "text": "之 時，"
             }
           ]
         },
@@ -116,7 +116,7 @@
             },
             {
               "chord": "A7",
-              "text": "圣 灵"
+              "text": "聖 靈"
             },
             {
               "chord": "B",
@@ -136,7 +136,7 @@
             },
             {
               "chord": "D",
-              "text": "上 头"
+              "text": "上 頭"
             },
             {
               "chord": "Em",
@@ -152,11 +152,11 @@
           "segments": [
             {
               "chord": "B",
-              "text": "为 尽"
+              "text": "為 盡"
             },
             {
               "chord": "C",
-              "text": "神 圣"
+              "text": "神 聖"
             },
             {
               "chord": "G",
@@ -164,7 +164,7 @@
             },
             {
               "chord": "D7",
-              "text": "职"
+              "text": "職"
             },
             {
               "chord": "C",
@@ -461,10 +461,11 @@
     "category": "圣灵的丰满",
     "time": "3/2",
     "hymn_code": "5553231555465443",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0221_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/272",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/272",
+        "language": "en",
         "category": "h",
         "number": "272",
         "title": "E272"
@@ -472,14 +473,14 @@
     ]
   },
   "raw_sections": [
-    "当 主基 督降 生为 人，",
-    "乃 由圣 灵而 成孕；",
-    "在 祂工 作开 始之 先，",
-    "圣 灵充 满也 有分。",
-    "但 在开 始作 工之 时，",
-    "祂 仍受 了圣 灵浸；",
-    "藉 此穿 上上 头能力，",
-    "为 尽神 圣的职分。",
+    "當 主基 督降 生為 人，",
+    "乃 由聖 靈而 成孕；",
+    "在 祂工 作開 始之 先，",
+    "聖 靈充 滿也 有分。",
+    "但 在開 始作 工之 時，",
+    "祂 仍受 了聖 靈浸；",
+    "藉 此穿 上上 頭能力，",
+    "為 盡神 聖的職分。",
     "彼得和主其他门徒，",
     "都已由灵所重生；",
     "主向他们吹气之时，",

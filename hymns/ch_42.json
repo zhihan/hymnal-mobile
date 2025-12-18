@@ -28,11 +28,11 @@
             },
             {
               "chord": "A7",
-              "text": "来 顶"
+              "text": "來 頂"
             },
             {
               "chord": "D",
-              "text": "礼，"
+              "text": "禮，"
             }
           ]
         },
@@ -237,10 +237,11 @@
     "category": "敬拜父",
     "time": "4/4",
     "hymn_code": "55532175554323",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0042_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/49",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/49",
+        "language": "en",
         "category": "h",
         "number": "49",
         "title": "E49"
@@ -249,7 +250,7 @@
   },
   "raw_sections": [
     "父 神，我 今 敬 拜你，",
-    "恭 敬 向 你来 顶礼，",
+    "恭 敬 向 你來 頂禮，",
     "藉 著基 督作 我祭：",
     "父 阿，我 敬拜你。",
     "你爱浩大，何深阔，",

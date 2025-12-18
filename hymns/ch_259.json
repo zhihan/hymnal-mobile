@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "为 何 临 到 我"
+              "text": "為 何 臨 到 我"
             },
             {
               "chord": "A",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "G",
-              "text": "来 有"
+              "text": "來 有"
             },
             {
               "chord": "A7",
@@ -110,7 +110,7 @@
             },
             {
               "chord": "Bm",
-              "text": "谁，"
+              "text": "誰，"
             }
           ]
         },
@@ -118,7 +118,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "并 且 也"
+              "text": "並 且 也"
             },
             {
               "chord": "Em7",
@@ -130,7 +130,7 @@
             },
             {
               "chord": "",
-              "text": "实 在"
+              "text": "實 在"
             },
             {
               "chord": "D",
@@ -150,7 +150,7 @@
             },
             {
               "chord": "",
-              "text": "所 信 托"
+              "text": "所 信 託"
             },
             {
               "chord": "D",
@@ -166,7 +166,7 @@
             },
             {
               "chord": "Em",
-              "text": "备 直"
+              "text": "備 直"
             },
             {
               "chord": "A7",
@@ -486,10 +486,11 @@
     "category": "得救的证实与快乐",
     "time": "4/4",
     "hymn_code": "133432165535565432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0259_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/333",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/333",
+        "language": "en",
         "category": "h",
         "number": "333",
         "title": "E333"
@@ -498,13 +499,13 @@
   },
   "raw_sections": [
     "我 真不知 神的 奇恩",
-    "为 何 临 到 我身；",
+    "為 何 臨 到 我身；",
     "我也 不知 不堪 如我，",
-    "救来 有何 足多。",
-    "惟 知道 我所 信 的是谁，",
-    "并 且 也深信 祂实 在是 能",
-    "保守 我所 信 托祂 的，",
-    "都 全备 直到 那日！",
+    "救來 有何 足多。",
+    "惟 知道 我所 信 的是誰，",
+    "並 且 也深信 祂實 在是 能",
+    "保守 我所 信 託祂 的，",
+    "都 全備 直到 那日！",
     "我真不知救我的信",
     "如何进入我心，",
     "我也不知何以一信，",

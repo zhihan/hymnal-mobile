@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 是 万"
+              "text": "你 是 萬"
             },
             {
               "chord": "F",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "G7",
-              "text": "伏 并"
+              "text": "伏 並"
             },
             {
               "chord": "C",
@@ -76,11 +76,11 @@
             },
             {
               "chord": "G7",
-              "text": "声 颂"
+              "text": "聲 頌"
             },
             {
               "chord": "C",
-              "text": "扬！"
+              "text": "揚！"
             }
           ]
         },
@@ -88,15 +88,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 的 国"
+              "text": "你 的 國"
             },
             {
               "chord": "F",
-              "text": "度 无"
+              "text": "度 無"
             },
             {
               "chord": "C",
-              "text": "穷 尽，"
+              "text": "窮 盡，"
             }
           ]
         },
@@ -104,11 +104,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 的 宝"
+              "text": "你 的 寶"
             },
             {
               "chord": "F",
-              "text": "座 坚"
+              "text": "座 堅"
             },
             {
               "chord": "G",
@@ -144,11 +144,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "荣"
+              "text": "榮"
             },
             {
               "chord": "C",
-              "text": "耀 无"
+              "text": "耀 無"
             },
             {
               "chord": "G7",
@@ -379,10 +379,11 @@
     "category": "赞美主",
     "time": "6/4",
     "hymn_code": "34534713335564217",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0125_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/147",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/147",
+        "language": "en",
         "category": "h",
         "number": "147",
         "title": "E147"
@@ -391,13 +392,13 @@
   },
   "raw_sections": [
     "主， 你是神 受膏 者，",
-    "你 是 万王 之王！",
-    "在此 俯伏 并敬拜，",
-    "向你 高声 颂扬！",
-    "你 的 国度 无穷 尽，",
-    "你 的 宝座 坚定！",
+    "你 是 萬王 之王！",
+    "在此 俯伏 並敬拜，",
+    "向你 高聲 頌揚！",
+    "你 的 國度 無窮 盡，",
+    "你 的 寶座 堅定！",
     "你的 治理 公而仁，",
-    "荣耀 无可 抗衡。",
+    "榮耀 無可 抗衡。",
     "在那锡安圣山上，",
     "神已将你立定，",
     "并将列国赐给你，",

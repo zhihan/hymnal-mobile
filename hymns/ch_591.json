@@ -12,11 +12,11 @@
             },
             {
               "chord": "",
-              "text": "话 语 非 仅"
+              "text": "話 語 非 僅"
             },
             {
               "chord": "A",
-              "text": "知 识，"
+              "text": "知 識，"
             }
           ]
         },
@@ -32,11 +32,11 @@
             },
             {
               "chord": "A",
-              "text": "赐"
+              "text": "賜"
             },
             {
               "chord": "A7",
-              "text": "给"
+              "text": "給"
             },
             {
               "chord": "D",
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "非 仅 传 递 神 的"
+              "text": "非 僅 傳 遞 神 的"
             },
             {
               "chord": "A",
@@ -84,7 +84,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "非 仅 启 示 神 的"
+              "text": "非 僅 啟 示 神 的"
             },
             {
               "chord": "A",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "",
-              "text": "带 来 生 命"
+              "text": "帶 來 生 命"
             },
             {
               "chord": "A",
@@ -112,11 +112,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "非 仅"
+              "text": "非 僅"
             },
             {
               "chord": "",
-              "text": "供 给"
+              "text": "供 給"
             },
             {
               "chord": "G",
@@ -124,7 +124,7 @@
             },
             {
               "chord": "",
-              "text": "教 训，"
+              "text": "教 訓，"
             }
           ]
         },
@@ -136,7 +136,7 @@
             },
             {
               "chord": "",
-              "text": "供 应 主"
+              "text": "供 應 主"
             },
             {
               "chord": "A7",
@@ -437,10 +437,11 @@
     "category": "读经",
     "time": "4/4",
     "hymn_code": "3545352235542171",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0591_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/816",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/816",
+        "language": "en",
         "category": "h",
         "number": "816",
         "title": "E816*"
@@ -448,14 +449,14 @@
     ]
   },
   "raw_sections": [
-    "神 的话 语 非 仅知 识，",
-    "更 是生 命赐给人；",
-    "非 仅 传 递 神 的思 想，",
+    "神 的話 語 非 僅知 識，",
+    "更 是生 命賜給人；",
+    "非 僅 傳 遞 神 的思 想，",
     "更 是使 人得著神；",
-    "非 仅 启 示 神 的心 意，",
-    "更 是带 来 生 命主；",
-    "非 仅供 给一 些教 训，",
-    "更 是供 应 主基督。",
+    "非 僅 啟 示 神 的心 意，",
+    "更 是帶 來 生 命主；",
+    "非 僅供 給一 些教 訓，",
+    "更 是供 應 主基督。",
     "我们若仅读其字句，",
     "神话不过是知识；",
     "但若用灵将其祷读，",

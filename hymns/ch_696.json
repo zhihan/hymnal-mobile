@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "听 阿，"
+              "text": "聽 阿，"
             },
             {
               "chord": "",
-              "text": "有 一 隐 藏 奥 秘，"
+              "text": "有 一 隱 藏 奧 祕，"
             }
           ]
         },
@@ -20,11 +20,11 @@
           "segments": [
             {
               "chord": "A",
-              "text": "历 世"
+              "text": "歷 世"
             },
             {
               "chord": "",
-              "text": "历 代"
+              "text": "歷 代"
             },
             {
               "chord": "D",
@@ -48,11 +48,11 @@
             },
             {
               "chord": "D",
-              "text": "这 一"
+              "text": "這 一"
             },
             {
               "chord": "",
-              "text": "奥 秘，"
+              "text": "奧 祕，"
             }
           ]
         },
@@ -64,7 +64,7 @@
             },
             {
               "chord": "D",
-              "text": "与 基"
+              "text": "與 基"
             },
             {
               "chord": "A",
@@ -84,7 +84,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "荣 耀、 荣 耀， 阿 利 路 亚！"
+              "text": "榮 耀、 榮 耀， 阿 利 路 亞！"
             }
           ]
         },
@@ -92,11 +92,11 @@
           "segments": [
             {
               "chord": "A",
-              "text": "荣 耀、"
+              "text": "榮 耀、"
             },
             {
               "chord": "",
-              "text": "荣 耀，"
+              "text": "榮 耀，"
             },
             {
               "chord": "D",
@@ -104,7 +104,7 @@
             },
             {
               "chord": "",
-              "text": "路 亚！"
+              "text": "路 亞！"
             }
           ]
         },
@@ -120,11 +120,11 @@
             },
             {
               "chord": "D",
-              "text": "这 一"
+              "text": "這 一"
             },
             {
               "chord": "",
-              "text": "奥 秘，"
+              "text": "奧 祕，"
             }
           ]
         },
@@ -132,7 +132,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "就 与"
+              "text": "就 與"
             },
             {
               "chord": "",
@@ -161,10 +161,11 @@
     "category": "福音",
     "time": "2/4",
     "hymn_code": "333135553222123335",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0696_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1073",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1073",
+        "language": "en",
         "category": "h",
         "number": "1073",
         "title": "E1073"
@@ -172,13 +173,13 @@
     ]
   },
   "raw_sections": [
-    "听 阿，有 一 隐 藏 奥 秘，",
-    "历 世历 代人 未知 悉！",
-    "若 肯接 受这 一奥 秘，",
-    "就与 基督成一！",
-    "荣 耀、 荣 耀， 阿 利 路 亚！",
-    "荣 耀、荣 耀，阿 利路 亚！",
-    "若 肯接 受这 一奥 秘，",
-    "就 与基督成一！"
+    "聽 阿，有 一 隱 藏 奧 祕，",
+    "歷 世歷 代人 未知 悉！",
+    "若 肯接 受這 一奧 祕，",
+    "就與 基督成一！",
+    "榮 耀、 榮 耀， 阿 利 路 亞！",
+    "榮 耀、榮 耀，阿 利路 亞！",
+    "若 肯接 受這 一奧 祕，",
+    "就 與基督成一！"
   ]
 }

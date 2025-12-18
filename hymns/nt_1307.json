@@ -455,10 +455,11 @@
     "category": "Hope of Glory",
     "time": "4/4",
     "hymn_code": "71233432165",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e1307_new_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/930",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/930",
+        "language": "cn",
         "category": "ts",
         "number": "930",
         "title": "Cs930"

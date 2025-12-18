@@ -16,7 +16,7 @@
             },
             {
               "chord": "D",
-              "text": "过，"
+              "text": "過，"
             },
             {
               "chord": "G",
@@ -24,7 +24,7 @@
             },
             {
               "chord": "C",
-              "text": "们 尚"
+              "text": "們 尚"
             },
             {
               "chord": "D7",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "F♯",
-              "text": "你 爱"
+              "text": "你 愛"
             },
             {
               "chord": "Bm",
@@ -56,11 +56,11 @@
             },
             {
               "chord": "D",
-              "text": "领 我"
+              "text": "領 我"
             },
             {
               "chord": "A7",
-              "text": "们 赞"
+              "text": "們 讚"
             },
             {
               "chord": "D",
@@ -72,11 +72,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "祂 领 诗"
+              "text": "祂 領 詩"
             },
             {
               "chord": "D7",
-              "text": "歌， 于"
+              "text": "歌， 於"
             },
             {
               "chord": "D",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "",
-              "text": "亲、 何"
+              "text": "親、 何"
             },
             {
               "chord": "D7",
@@ -96,11 +96,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
-              "text": "与"
+              "text": "與"
             },
             {
               "chord": "C",
@@ -116,15 +116,15 @@
             },
             {
               "chord": "G",
-              "text": "声"
+              "text": "聲"
             },
             {
               "chord": "D7",
-              "text": "颂"
+              "text": "頌"
             },
             {
               "chord": "G",
-              "text": "赞。"
+              "text": "讚。"
             }
           ]
         }
@@ -251,10 +251,11 @@
     "category": "敬拜父",
     "time": "4/4",
     "hymn_code": "3334365443",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0048_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/50",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/50",
+        "language": "en",
         "category": "h",
         "number": "50",
         "title": "E50"
@@ -262,10 +263,10 @@
     ]
   },
   "raw_sections": [
-    "宴 筵方过，我们 尚感 甜美，",
-    "父，你 爱子率领 我们 赞美；",
-    "祂 领 诗歌， 于你 何亲、 何甜，",
-    "我 们与祂 一致，和声颂赞。",
+    "宴 筵方過，我們 尚感 甜美，",
+    "父，你 愛子率領 我們 讚美；",
+    "祂 領 詩歌， 於你 何親、 何甜，",
+    "我 們與祂 一致，和聲頌讚。",
     "哦父，你外我们不需别惠，",
     "有何比你恩爱更为宝贵！",
     "我们敬拜，因为我们尝到",

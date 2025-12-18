@@ -16,7 +16,7 @@
             },
             {
               "chord": "C",
-              "text": "寻 求"
+              "text": "尋 求"
             },
             {
               "chord": "G",
@@ -28,15 +28,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "成 为"
+              "text": "成 為"
             },
             {
               "chord": "D",
-              "text": "烟 柱"
+              "text": "煙 柱"
             },
             {
               "chord": "",
-              "text": "和 卧"
+              "text": "和 臥"
             },
             {
               "chord": "D7",
@@ -52,11 +52,11 @@
             },
             {
               "chord": "G",
-              "text": "华 轿、"
+              "text": "華 轎、"
             },
             {
               "chord": "C",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "G",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "D7",
-              "text": "绝 无"
+              "text": "絕 無"
             },
             {
               "chord": "G",
@@ -106,7 +106,7 @@
             },
             {
               "chord": "G",
-              "text": "所 爱，"
+              "text": "所 愛，"
             }
           ]
         },
@@ -126,7 +126,7 @@
             },
             {
               "chord": "G",
-              "text": "悦；"
+              "text": "悅；"
             }
           ]
         },
@@ -134,7 +134,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "夺 得"
+              "text": "奪 得"
             },
             {
               "chord": "D",
@@ -142,7 +142,7 @@
             },
             {
               "chord": "",
-              "text": "怡 悦"
+              "text": "怡 悅"
             },
             {
               "chord": "G",
@@ -166,7 +166,7 @@
             },
             {
               "chord": "G",
-              "text": "绝。"
+              "text": "絕。"
             }
           ]
         }
@@ -553,10 +553,11 @@
     "category": "追求与长进",
     "time": "3/4",
     "hymn_code": "513161655171232",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0442_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1161",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1161",
+        "language": "en",
         "category": "h",
         "number": "1161",
         "title": "E1161"
@@ -564,14 +565,14 @@
     ]
   },
   "raw_sections": [
-    "基 督要 使寻 求祂 者，",
-    "成 为烟 柱和 卧榻，",
-    "且 成华 轿、荣 耀冠 冕，",
-    "主 必作 成绝 无差。",
-    "祂 的佳 偶，祂 心所 爱，",
-    "富 有吸 引，祂 喜悦；",
-    "夺 得祂 心，怡 悦祂 意，",
-    "在 祂眼 中何 超绝。",
+    "基 督要 使尋 求祂 者，",
+    "成 為煙 柱和 臥榻，",
+    "且 成華 轎、榮 耀冠 冕，",
+    "主 必作 成絕 無差。",
+    "祂 的佳 偶，祂 心所 愛，",
+    "富 有吸 引，祂 喜悅；",
+    "奪 得祂 心，怡 悅祂 意，",
+    "在 祂眼 中何 超絕。",
     "然而黑影尚未飞逝，",
     "基督尚未全满足；",
     "祂要得着生长园子，",

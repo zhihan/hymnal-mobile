@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "A",
-              "text": "我 虽"
+              "text": "我 雖"
             },
             {
               "chord": "",
-              "text": "谨 慎"
+              "text": "謹 慎"
             },
             {
               "chord": "D",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "",
-              "text": "径，"
+              "text": "徑，"
             }
           ]
         },
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "不 过"
+              "text": "不 過"
             },
             {
               "chord": "",
@@ -72,11 +72,11 @@
             },
             {
               "chord": "D",
-              "text": "改 变"
+              "text": "改 變"
             },
             {
               "chord": "A",
-              "text": "我 恶"
+              "text": "我 惡"
             },
             {
               "chord": "D",
@@ -114,11 +114,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
-              "text": "为 我"
+              "text": "為 我"
             },
             {
               "chord": "D",
@@ -126,7 +126,7 @@
             },
             {
               "chord": "",
-              "text": "泪！"
+              "text": "淚！"
             }
           ]
         },
@@ -134,15 +134,15 @@
           "segments": [
             {
               "chord": "G",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
-              "text": "为 我"
+              "text": "為 我"
             },
             {
               "chord": "D",
-              "text": "曾 赎"
+              "text": "曾 贖"
             },
             {
               "chord": "",
@@ -154,11 +154,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "D",
-              "text": "现 今"
+              "text": "現 今"
             },
             {
               "chord": "A",
@@ -174,11 +174,11 @@
           "segments": [
             {
               "chord": "Bm",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "G",
-              "text": "才 能"
+              "text": "纔 能"
             },
             {
               "chord": "A7",
@@ -447,10 +447,11 @@
     "category": "福音",
     "time": "4/4",
     "hymn_code": "5653212221355",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0679_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1000",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1000",
+        "language": "en",
         "category": "h",
         "number": "1000",
         "title": "E1000"
@@ -459,14 +460,14 @@
   },
   "raw_sections": [
     "行 善不 能救我！",
-    "我 虽谨 慎我 行径，",
-    "不 过使 我得 美名，",
-    "不 能改 变我 恶性；",
+    "我 雖謹 慎我 行徑，",
+    "不 過使 我得 美名，",
+    "不 能改 變我 惡性；",
     "行 善不 能救我！",
-    "耶 稣为 我曾 流泪！",
-    "耶 稣为 我曾 赎罪！",
-    "耶 稣现 今施 恩惠！",
-    "耶 稣才 能救我！",
+    "耶 穌為 我曾 流淚！",
+    "耶 穌為 我曾 贖罪！",
+    "耶 穌現 今施 恩惠！",
+    "耶 穌纔 能救我！",
     "哀哭不能救我！",
     "我眼虽然常流泪，",
     "不能洗净我的罪，",

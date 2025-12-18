@@ -20,7 +20,7 @@
             },
             {
               "chord": "",
-              "text": "爱"
+              "text": "愛"
             },
             {
               "chord": "Bm",
@@ -36,7 +36,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "罪 恶"
+              "text": "罪 惡"
             },
             {
               "chord": "",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "D",
-              "text": "时"
+              "text": "時"
             },
             {
               "chord": "A",
@@ -60,15 +60,15 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "末 后"
+              "text": "末 後"
             },
             {
               "chord": "B",
-              "text": "亚"
+              "text": "亞"
             },
             {
               "chord": "Em",
-              "text": "当"
+              "text": "當"
             },
             {
               "chord": "B",
@@ -76,15 +76,15 @@
             },
             {
               "chord": "Em",
-              "text": "来"
+              "text": "來"
             },
             {
               "chord": "E",
-              "text": "争"
+              "text": "爭"
             },
             {
               "chord": "A",
-              "text": "战，"
+              "text": "戰，"
             }
           ]
         },
@@ -92,11 +92,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "并"
+              "text": "並"
             },
             {
               "chord": "Em",
-              "text": "来 施"
+              "text": "來 施"
             },
             {
               "chord": "D",
@@ -311,10 +311,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "33215135325555",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0058_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/63",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/63",
+        "language": "en",
         "category": "h",
         "number": "63",
         "title": "E63"
@@ -322,10 +323,10 @@
     ]
   },
   "raw_sections": [
-    "哦， 我神那 施爱智慧！",
-    "罪 恶正盛时候，",
-    "末 后亚当就来争战，",
-    "并来 施行拯救。",
+    "哦， 我神那 施愛智慧！",
+    "罪 惡正盛時候，",
+    "末 後亞當就來爭戰，",
+    "並來 施行拯救。",
     "哦，我神那最智之爱！",
     "亚当虽然失败，",
     "但祂仍要血肉之人，",

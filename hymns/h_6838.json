@@ -1,6 +1,6 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/6838",
-  "title": "I'm so full of joy, I want to tell you, friend",
+  "url": "https://www.hymnal.net/en/hymn/h/6838",
+  "title": "I’m so full of joy, I want to tell you, friend",
   "verses": [
     {
       "lines": [
@@ -242,7 +242,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Now I soar the heavens as on eagles' wings,"
+              "text": "Now I soar the heavens as on eagles’ wings,"
             }
           ]
         },
@@ -266,7 +266,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "\"I have enough; I have You!\""
+              "text": "“I have enough; I have You!”"
             }
           ]
         },
@@ -282,7 +282,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "In His love He's waited for so long!"
+              "text": "In His love He’s waited for so long!"
             }
           ]
         },
@@ -290,7 +290,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "While His loving heart is open, wouldn't you"
+              "text": "While His loving heart is open, wouldn’t you"
             }
           ]
         },
@@ -306,7 +306,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "In the freedom of the glory of God's sons"
+              "text": "In the freedom of the glory of God’s sons"
             }
           ]
         },
@@ -327,6 +327,7 @@
     "category": "Gospel",
     "time": "4/4",
     "hymn_code": "55123215616",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e6838_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ts/838",
@@ -348,15 +349,15 @@
     "Flowslove andlife abundantly.",
     "He's unlocked theprison,set thecaptivesfree,",
     "Fromdeath tolife deliveredme.",
-    "Now I soar the heavens as on eagles' wings,",
+    "Now I soar the heavens as on eagles’ wings,",
     "For Jesus is my freedom true.",
     "So vast this joy! Each day my heart must sing:",
-    "\"I have enough; I have You!\"",
+    "“I have enough; I have You!”",
     "Friend, where can you find another like Him?",
-    "In His love He's waited for so long!",
-    "While His loving heart is open, wouldn't you",
+    "In His love He’s waited for so long!",
+    "While His loving heart is open, wouldn’t you",
     "Come forward, trust Him with your all?",
-    "In the freedom of the glory of God's sons",
+    "In the freedom of the glory of God’s sons",
     "Your heart will sing a glad new song!"
   ]
 }

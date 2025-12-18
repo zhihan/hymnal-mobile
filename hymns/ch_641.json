@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "战 争 凶 猛，"
+              "text": "戰 爭 兇 猛，"
             }
           ]
         },
@@ -20,11 +20,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "仇 敌 更"
+              "text": "仇 敵 更"
             },
             {
               "chord": "A",
-              "text": "强；"
+              "text": "強；"
             }
           ]
         },
@@ -32,11 +32,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "战 场"
+              "text": "戰 場"
             },
             {
               "chord": "",
-              "text": "呼 喊 之 声"
+              "text": "呼 喊 之 聲"
             }
           ]
         },
@@ -52,7 +52,7 @@
             },
             {
               "chord": "E7",
-              "text": "响"
+              "text": "響"
             },
             {
               "chord": "A",
@@ -64,7 +64,7 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "阴 府"
+              "text": "陰 府"
             },
             {
               "chord": "",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "",
-              "text": "声"
+              "text": "聲"
             }
           ]
         },
@@ -88,7 +88,7 @@
             },
             {
               "chord": "E7",
-              "text": "前 厉"
+              "text": "前 厲"
             },
             {
               "chord": "A",
@@ -100,7 +100,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "却 有"
+              "text": "卻 有"
             },
             {
               "chord": "",
@@ -112,7 +112,7 @@
             },
             {
               "chord": "",
-              "text": "声："
+              "text": "聲："
             }
           ]
         },
@@ -132,7 +132,7 @@
             },
             {
               "chord": "D",
-              "text": "来！』"
+              "text": "來！』"
             }
           ]
         }
@@ -495,10 +495,11 @@
     "category": "属灵的争战",
     "time": "2/2",
     "hymn_code": "3135653132",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0641_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/893",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/893",
+        "language": "en",
         "category": "h",
         "number": "893",
         "title": "E893*"
@@ -506,14 +507,14 @@
     ]
   },
   "raw_sections": [
-    "今 日战 争 凶 猛，",
-    "仇 敌 更强；",
-    "战 场呼 喊 之 声",
-    "比前响亮！",
-    "阴 府反抗 之声",
-    "比前 厉害！",
-    "却 有半夜 呼声：",
-    "『我必快来！』",
+    "今 日戰 爭 兇 猛，",
+    "仇 敵 更強；",
+    "戰 場呼 喊 之 聲",
+    "比前響亮！",
+    "陰 府反抗 之聲",
+    "比前 厲害！",
+    "卻 有半夜 呼聲：",
+    "『我必快來！』",
     "今日试炼更苦，",
     "交战益烈；",
     "阴府一齐鼓舞，",

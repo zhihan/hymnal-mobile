@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "阿 们！"
+              "text": "阿 們！"
             }
           ]
         },
@@ -36,11 +36,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "显"
+              "text": "顯"
             },
             {
               "chord": "F",
-              "text": "明、 显"
+              "text": "明、 顯"
             },
             {
               "chord": "",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "G",
-              "text": "过，"
+              "text": "過，"
             }
           ]
         },
@@ -60,7 +60,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "阿 利 路 亚！"
+              "text": "阿 利 路 亞！"
             }
           ]
         },
@@ -96,7 +96,7 @@
             },
             {
               "chord": "",
-              "text": "秽"
+              "text": "穢"
             },
             {
               "chord": "G7",
@@ -104,7 +104,7 @@
             },
             {
               "chord": "C",
-              "text": "没，"
+              "text": "沒，"
             }
           ]
         },
@@ -116,7 +116,7 @@
             },
             {
               "chord": "C",
-              "text": "们！"
+              "text": "們！"
             }
           ]
         }
@@ -253,10 +253,11 @@
     "category": "羡慕",
     "time": "4/4",
     "hymn_code": "5612165555116532",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0326_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8326",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8326",
+        "language": "en",
         "category": "h",
         "number": "8326",
         "title": "E8326"
@@ -265,12 +266,12 @@
   },
   "raw_sections": [
     "求主 光照、 光 照我，",
-    "阿 们！",
-    "显明、 显明我 罪过，",
-    "阿 利 路 亚！",
+    "阿 們！",
+    "顯明、 顯明我 罪過，",
+    "阿 利 路 亞！",
     "用血 洗濯， 用 血 洗濯，",
-    "使我 污秽全 消没，",
-    "阿们！",
+    "使我 污穢全 消沒，",
+    "阿們！",
     "求主释放、释放我，",
     "阿们！",
     "断开、断开我捆索，",

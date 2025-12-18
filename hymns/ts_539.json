@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "爱 的"
+              "text": "愛 的"
             },
             {
               "chord": "",
-              "text": "召 会─"
+              "text": "召 會─"
             },
             {
               "chord": "G",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "A",
-              "text": "铁"
+              "text": "鐵"
             },
             {
               "chord": "D",
@@ -28,7 +28,7 @@
             },
             {
               "chord": "G",
-              "text": "请"
+              "text": "請"
             }
           ]
         },
@@ -36,7 +36,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "听 荣 耀"
+              "text": "聽 榮 耀"
             },
             {
               "chord": "E7",
@@ -44,7 +44,7 @@
             },
             {
               "chord": "A",
-              "text": "实；"
+              "text": "實；"
             },
             {
               "chord": "D",
@@ -56,11 +56,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "上 圣 别、"
+              "text": "上 聖 別、"
             },
             {
               "chord": "G",
-              "text": "真 实"
+              "text": "真 實"
             },
             {
               "chord": "A",
@@ -80,7 +80,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "说 关 于"
+              "text": "說 關 於"
             },
             {
               "chord": "E7",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "A",
-              "text": "事。 国"
+              "text": "事。 國"
             }
           ]
         },
@@ -96,7 +96,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "度 之 门 由 祂 掌 管，"
+              "text": "度 之 門 由 祂 掌 管，"
             },
             {
               "chord": "D",
@@ -108,7 +108,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "衞 钥 匙"
+              "text": "衞 鑰 匙"
             },
             {
               "chord": "E7",
@@ -128,19 +128,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "已 开 门，"
+              "text": "已 開 門，"
             },
             {
               "chord": "G",
-              "text": "无 人"
+              "text": "無 人"
             },
             {
               "chord": "D",
-              "text": "能 关\"─"
+              "text": "能 關\"─"
             },
             {
               "chord": "A",
-              "text": "祂 话"
+              "text": "祂 話"
             },
             {
               "chord": "D",
@@ -453,10 +453,11 @@
     "category": "教会的异象",
     "time": "4/4",
     "hymn_code": "12324327165432315",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0539_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1275",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1275",
+        "language": "en",
         "category": "h",
         "number": "1275",
         "title": "E1275"
@@ -464,13 +465,13 @@
     ]
   },
   "raw_sections": [
-    "爱 的召 会─非 拉铁非，请",
-    "听 荣 耀的 事实；天",
-    "上 圣 别、真 实的主，述",
-    "说 关 于你 的事。 国",
-    "度 之 门 由 祂 掌 管，大",
-    "衞 钥 匙祂 手持；\"我",
-    "已 开 门，无 人能 关\"─祂 话既 出",
+    "愛 的召 會─非 拉鐵非，請",
+    "聽 榮 耀的 事實；天",
+    "上 聖 別、真 實的主，述",
+    "說 關 於你 的事。 國",
+    "度 之 門 由 祂 掌 管，大",
+    "衞 鑰 匙祂 手持；\"我",
+    "已 開 門，無 人能 關\"─祂 話既 出",
     "必如是。",
     "阿利路亚！非拉铁非，",
     "行为、工作主悦纳；",

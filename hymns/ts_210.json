@@ -12,11 +12,11 @@
             },
             {
               "chord": "",
-              "text": "将 祂 儿"
+              "text": "將 祂 兒"
             },
             {
               "chord": "A",
-              "text": "子 赐"
+              "text": "子 賜"
             },
             {
               "chord": "D",
@@ -36,11 +36,11 @@
             },
             {
               "chord": "",
-              "text": "树 无"
+              "text": "樹 無"
             },
             {
               "chord": "A7",
-              "text": "比 丰"
+              "text": "比 豐"
             },
             {
               "chord": "D",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "D",
-              "text": "尝 便"
+              "text": "嘗 便"
             },
             {
               "chord": "",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "A7",
-              "text": "们 食"
+              "text": "們 食"
             },
             {
               "chord": "D",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "A",
-              "text": "们 食"
+              "text": "們 食"
             },
             {
               "chord": "D",
@@ -120,7 +120,7 @@
             },
             {
               "chord": "",
-              "text": "们 食"
+              "text": "們 食"
             },
             {
               "chord": "D",
@@ -136,19 +136,19 @@
             },
             {
               "chord": "G",
-              "text": "们 尝"
+              "text": "們 嘗"
             },
             {
               "chord": "",
-              "text": "过 就"
+              "text": "過 就"
             },
             {
               "chord": "D",
-              "text": "作 见"
+              "text": "作 見"
             },
             {
               "chord": "",
-              "text": "证，"
+              "text": "證，"
             }
           ]
         },
@@ -164,7 +164,7 @@
             },
             {
               "chord": "A7",
-              "text": "们 食"
+              "text": "們 食"
             },
             {
               "chord": "D",
@@ -391,10 +391,11 @@
     "category": "享受基督",
     "time": "6/8",
     "hymn_code": "1333432135556523",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0210_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1145",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1145",
+        "language": "en",
         "category": "h",
         "number": "1145",
         "title": "E1145"
@@ -402,14 +403,14 @@
     ]
   },
   "raw_sections": [
-    "神 已将 祂 儿子 赐下，",
-    "作生 命树 无比 丰富；",
-    "要叫 人人 一尝 便知，",
-    "神是 我们 食物。",
-    "神 是 我们 食物！",
-    "神是 我们 食物！",
-    "我们 尝过 就作 见证，",
-    "神是 我们 食物！",
+    "神 已將 祂 兒子 賜下，",
+    "作生 命樹 無比 豐富；",
+    "要叫 人人 一嘗 便知，",
+    "神是 我們 食物。",
+    "神 是 我們 食物！",
+    "神是 我們 食物！",
+    "我們 嘗過 就作 見證，",
+    "神是 我們 食物！",
     "借吃把主接受进去；",
     "凭主而活，并不吃力，",
     "因为我们所吃筵席",

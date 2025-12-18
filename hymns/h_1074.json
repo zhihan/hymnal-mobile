@@ -165,10 +165,11 @@
     "category": "Gospel",
     "time": "4/4",
     "hymn_code": "3213211615312",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1074_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/264",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/264",
+        "language": "cn",
         "category": "ch",
         "number": "264",
         "title": "C264"

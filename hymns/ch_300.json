@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "变 成"
+              "text": "變 成"
             },
             {
               "chord": "A",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "D",
-              "text": "形 状！"
+              "text": "形 狀！"
             }
           ]
         },
@@ -24,7 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "这 是"
+              "text": "這 是"
             },
             {
               "chord": "E7",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "A",
-              "text": "愿！"
+              "text": "願！"
             }
           ]
         },
@@ -56,7 +56,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "愿 主"
+              "text": "願 主"
             },
             {
               "chord": "A7",
@@ -305,10 +305,11 @@
     "category": "羡慕",
     "time": "4/4",
     "hymn_code": "11265333445",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0300_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/399",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/399",
+        "language": "en",
         "category": "h",
         "number": "399",
         "title": "E399"
@@ -316,10 +317,10 @@
     ]
   },
   "raw_sections": [
-    "变 成主 的形 状！",
-    "这 是我 心愿！",
+    "變 成主 的形 狀！",
+    "這 是我 心願！",
     "我 今深 切仰 望，",
-    "愿 主就 成全！",
+    "願 主就 成全！",
     "变成主的形状！",
     "主就是那灵；",
     "肯让主灵通畅，",

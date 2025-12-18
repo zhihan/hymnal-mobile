@@ -1,6 +1,6 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/8205",
-  "title": "God's living water is flowing",
+  "url": "https://www.hymnal.net/en/hymn/h/8205",
+  "title": "God’s living water is flowing",
   "verses": [
     {
       "lines": [
@@ -179,7 +179,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "God's living water flows freely;"
+              "text": "God’s living water flows freely;"
             }
           ]
         },
@@ -187,7 +187,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "East for God's glory it flows;"
+              "text": "East for God’s glory it flows;"
             }
           ]
         },
@@ -217,7 +217,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "God's living water,"
+              "text": "God’s living water,"
             }
           ]
         },
@@ -241,7 +241,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "With life abundant o'erflows."
+              "text": "With life abundant o’erflows."
             }
           ]
         }
@@ -254,7 +254,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "God's living water is boundless;"
+              "text": "God’s living water is boundless;"
             }
           ]
         },
@@ -262,7 +262,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Everything's measured by God."
+              "text": "Everything’s measured by God."
             }
           ]
         },
@@ -292,7 +292,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "God's living water,"
+              "text": "God’s living water,"
             }
           ]
         },
@@ -316,7 +316,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "With life abundant o'erflows."
+              "text": "With life abundant o’erflows."
             }
           ]
         }
@@ -329,7 +329,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "God's living water, o'erflowing,"
+              "text": "God’s living water, o’erflowing,"
             }
           ]
         },
@@ -353,7 +353,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "But in God's grace must abide."
+              "text": "But in God’s grace must abide."
             }
           ]
         }
@@ -367,7 +367,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "God's living water,"
+              "text": "God’s living water,"
             }
           ]
         },
@@ -391,7 +391,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "With life abundant o'erflows."
+              "text": "With life abundant o’erflows."
             }
           ]
         }
@@ -403,6 +403,7 @@
     "category": "Fulness of the Spirit",
     "time": "6/8",
     "hymn_code": "555567157777121",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e8205_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ch/205",
@@ -422,29 +423,29 @@
     "Freshness whereveritgoes;",
     "Death nowitswallowsforever,",
     "With lifeabundanto'erflows.",
-    "God's living water flows freely;",
-    "East for God's glory it flows;",
+    "God’s living water flows freely;",
+    "East for God’s glory it flows;",
     "This is of utmost importance:",
     "All on the altar must go!",
-    "God's living water,",
+    "God’s living water,",
     "Freshness wherever it goes;",
     "Death now it swallows forever,",
-    "With life abundant o'erflows.",
-    "God's living water is boundless;",
-    "Everything's measured by God.",
+    "With life abundant o’erflows.",
+    "God’s living water is boundless;",
+    "Everything’s measured by God.",
     "All things become His possession,",
     "Judged by His measuring rod.",
-    "God's living water,",
+    "God’s living water,",
     "Freshness wherever it goes;",
     "Death now it swallows forever,",
-    "With life abundant o'erflows.",
-    "God's living water, o'erflowing,",
+    "With life abundant o’erflows.",
+    "God’s living water, o’erflowing,",
     "Swells to a great rushing tide,",
     "Flowing till man can do nothing",
-    "But in God's grace must abide.",
-    "God's living water,",
+    "But in God’s grace must abide.",
+    "God’s living water,",
     "Freshness wherever it goes;",
     "Death now it swallows forever,",
-    "With life abundant o'erflows."
+    "With life abundant o’erflows."
   ]
 }

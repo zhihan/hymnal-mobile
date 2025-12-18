@@ -20,7 +20,7 @@
             },
             {
               "chord": "G",
-              "text": "里？"
+              "text": "裏？"
             }
           ]
         },
@@ -32,7 +32,7 @@
             },
             {
               "chord": "A7",
-              "text": "寻 找"
+              "text": "尋 找"
             },
             {
               "chord": "D",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "",
-              "text": "只 羊 内 中"
+              "text": "隻 羊 內 中"
             },
             {
               "chord": "C",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "G",
-              "text": "只，"
+              "text": "隻，"
             }
           ]
         },
@@ -118,7 +118,7 @@
             },
             {
               "chord": "",
-              "text": "只 羊 内 中"
+              "text": "隻 羊 內 中"
             },
             {
               "chord": "C",
@@ -126,7 +126,7 @@
             },
             {
               "chord": "G",
-              "text": "只，"
+              "text": "隻，"
             }
           ]
         },
@@ -304,10 +304,11 @@
     "category": "福音",
     "time": "4/4",
     "hymn_code": "332117615",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0713_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8713",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8713",
+        "language": "en",
         "category": "h",
         "number": "8713",
         "title": "E8713"
@@ -315,13 +316,13 @@
     ]
   },
   "raw_sections": [
-    "失 迷的 羊， 你 今在 那里？",
-    "救 主 今 天 正 在寻 找你！",
-    "一 百只 羊 内 中缺 一只，",
+    "失 迷的 羊， 你 今在 那裏？",
+    "救 主 今 天 正 在尋 找你！",
+    "一 百隻 羊 內 中缺 一隻，",
     "莫 非就 是你？",
     "莫 非就 是你？",
     "莫 非 就 是你？",
-    "一 百只 羊 内 中缺 一只，",
+    "一 百隻 羊 內 中缺 一隻，",
     "莫 非就 是你？",
     "失落的人，你今在那里？",
     "圣灵今天正在寻找你！",

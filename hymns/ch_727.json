@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "来 就"
+              "text": "來 就"
             },
             {
               "chord": "G",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "既 软"
+              "text": "既 軟"
             },
             {
               "chord": "F♯m",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "D",
-              "text": "又 贫、"
+              "text": "又 貧、"
             },
             {
               "chord": "A7",
@@ -52,7 +52,7 @@
             },
             {
               "chord": "D",
-              "text": "事 尽"
+              "text": "事 盡"
             },
             {
               "chord": "A",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "Bm",
-              "text": "虚，"
+              "text": "虛，"
             }
           ]
         },
@@ -94,7 +94,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 今 来 投"
+              "text": "我 今 來 投"
             },
             {
               "chord": "G",
@@ -114,7 +114,7 @@
             },
             {
               "chord": "F♯m",
-              "text": "下 谦"
+              "text": "下 謙"
             },
             {
               "chord": "D",
@@ -134,7 +134,7 @@
             },
             {
               "chord": "Bm",
-              "text": "稣， 神"
+              "text": "穌， 神"
             },
             {
               "chord": "D",
@@ -154,11 +154,11 @@
             },
             {
               "chord": "D",
-              "text": "我 脱"
+              "text": "我 脫"
             },
             {
               "chord": "A7",
-              "text": "离 灭"
+              "text": "離 滅"
             },
             {
               "chord": "G",
@@ -325,10 +325,11 @@
     "category": "福音",
     "time": "3/4",
     "hymn_code": "51312313456532",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0727_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1062",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1062",
+        "language": "en",
         "category": "h",
         "number": "1062",
         "title": "E1062"
@@ -336,14 +337,14 @@
     ]
   },
   "raw_sections": [
-    "我 今来 就主 十架，",
-    "既 软弱 而又 贫、瞎；",
-    "世 上事 尽都 空虚，",
+    "我 今來 就主 十架，",
+    "既 軟弱 而又 貧、瞎；",
+    "世 上事 盡都 空虛，",
     "惟 主恩 是我 所需。",
-    "我 今 来 投靠 救主，",
-    "十 架下 谦卑 俯伏，",
-    "求 耶稣， 神的 羔羊，",
-    "拯 救我 脱离 灭亡。",
+    "我 今 來 投靠 救主，",
+    "十 架下 謙卑 俯伏，",
+    "求 耶穌， 神的 羔羊，",
+    "拯 救我 脫離 滅亡。",
     "我久慕救主恩典，",
     "罪却在我心掌权；",
     "今闻主柔声说道：",

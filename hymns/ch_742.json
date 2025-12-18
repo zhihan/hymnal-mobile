@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "主 当"
+              "text": "主 當"
             },
             {
               "chord": "",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "A",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "著 这"
+              "text": "著 這"
             },
             {
               "chord": "",
@@ -32,11 +32,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "承 认 同 死 事"
+              "text": "承 認 同 死 事"
             },
             {
               "chord": "A",
-              "text": "实，"
+              "text": "實，"
             }
           ]
         },
@@ -56,11 +56,11 @@
             },
             {
               "chord": "G",
-              "text": "怜"
+              "text": "憐"
             },
             {
               "chord": "D",
-              "text": "悯 施"
+              "text": "憫 施"
             },
             {
               "chord": "",
@@ -72,7 +72,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "启"
+              "text": "啟"
             },
             {
               "chord": "A",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "A7",
-              "text": "的 价"
+              "text": "的 價"
             },
             {
               "chord": "D",
@@ -249,10 +249,11 @@
     "category": "受浸",
     "time": "3/2",
     "hymn_code": "133321112354332",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0742_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/937",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/937",
+        "language": "en",
         "category": "h",
         "number": "937",
         "title": "E937"
@@ -260,10 +261,10 @@
     ]
   },
   "raw_sections": [
-    "主 当我 们藉著 这水，",
-    "承 认 同 死 事实，",
-    "求你 在此怜悯 施惠，",
-    "启示 它的 价值。",
+    "主 當我 們藉著 這水，",
+    "承 認 同 死 事實，",
+    "求你 在此憐憫 施惠，",
+    "啟示 它的 價值。",
     "借着这水归入你死，",
     "与你一同埋葬，",
     "我们永远离罪若失，",

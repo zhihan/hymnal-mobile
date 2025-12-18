@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "召 会"
+              "text": "召 會"
             },
             {
               "chord": "",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "A",
-              "text": "身 体，"
+              "text": "身 體，"
             }
           ]
         },
@@ -44,11 +44,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "是 众 圣 徒 的"
+              "text": "是 眾 聖 徒 的"
             },
             {
               "chord": "G",
-              "text": "结 集，"
+              "text": "結 集，"
             }
           ]
         },
@@ -60,7 +60,7 @@
             },
             {
               "chord": "D",
-              "text": "人 调"
+              "text": "人 調"
             },
             {
               "chord": "A",
@@ -72,7 +72,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "创"
+              "text": "創"
             },
             {
               "chord": "D",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "D",
-              "text": "选，"
+              "text": "選，"
             }
           ]
         },
@@ -104,7 +104,7 @@
             },
             {
               "chord": "Em",
-              "text": "赎；"
+              "text": "贖；"
             }
           ]
         },
@@ -116,7 +116,7 @@
             },
             {
               "chord": "D",
-              "text": "质、 地"
+              "text": "質、 地"
             },
             {
               "chord": "",
@@ -124,7 +124,7 @@
             },
             {
               "chord": "G",
-              "text": "属 天，"
+              "text": "屬 天，"
             }
           ]
         },
@@ -144,7 +144,7 @@
             },
             {
               "chord": "D",
-              "text": "属。"
+              "text": "屬。"
             }
           ]
         }
@@ -577,10 +577,11 @@
     "category": "召会",
     "time": "4/4",
     "hymn_code": "3334332116543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0598_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/824",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/824",
+        "language": "en",
         "category": "h",
         "number": "824",
         "title": "E824"
@@ -588,14 +589,14 @@
     ]
   },
   "raw_sections": [
-    "召 会是 主 的身 体，",
+    "召 會是 主 的身 體，",
     "也是 神的 居所；",
-    "是 众 圣 徒 的结 集，",
-    "也 是 神人 调和；",
-    "创世 以前 神所选，",
-    "十 架 主死 所赎；",
-    "性质、 地位 全属 天，",
-    "地上 任何 不属。",
+    "是 眾 聖 徒 的結 集，",
+    "也 是 神人 調和；",
+    "創世 以前 神所選，",
+    "十 架 主死 所贖；",
+    "性質、 地位 全屬 天，",
+    "地上 任何 不屬。",
     "她是新造的新人，",
     "基督复活所生；",
     "圣灵里面受了浸，",

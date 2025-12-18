@@ -7,80 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "The Word"
-            },
-            {
               "chord": "",
-              "text": "is"
-            },
-            {
-              "chord": "F♯m",
-              "text": "living,"
-            },
-            {
-              "chord": "",
-              "text": "a"
-            },
-            {
-              "chord": "G",
-              "text": "divine"
-            },
-            {
-              "chord": "A",
-              "text": "Person—"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D",
-              "text": "Christ the"
-            },
-            {
-              "chord": "",
-              "text": "Son of"
-            },
-            {
-              "chord": "F♯m",
-              "text": "God, the"
-            },
-            {
-              "chord": "G",
-              "text": "living"
-            },
-            {
-              "chord": "A",
-              "text": "God."
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "G",
-              "text": "It is"
-            },
-            {
-              "chord": "",
-              "text": "God de"
-            },
-            {
-              "chord": "D",
-              "text": "fined, ex"
-            },
-            {
-              "chord": "F♯7",
-              "text": "plained, and"
-            },
-            {
-              "chord": "",
-              "text": "ex"
-            },
-            {
-              "chord": "Bm",
-              "text": "pressed"
+              "text": "The Word is living, a divine Person—"
             }
           ]
         },
@@ -88,19 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "When the"
-            },
-            {
-              "chord": "G",
-              "text": "Word comes,"
-            },
-            {
-              "chord": "",
-              "text": "God"
-            },
-            {
-              "chord": "A",
-              "text": "comes."
+              "text": "Christ the Son of God, the living God."
             }
           ]
         },
@@ -108,23 +24,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "When the"
-            },
-            {
-              "chord": "G",
-              "text": "Word is"
-            },
+              "text": "It is God defined, explained, and expressed"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "present,"
-            },
+              "text": "When the Word comes, God comes."
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "A",
-              "text": "God is"
-            },
-            {
-              "chord": "A7",
-              "text": "present."
+              "chord": "",
+              "text": "When the Word is present, God is present."
             }
           ]
         }
@@ -138,31 +54,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "So"
-            },
-            {
-              "chord": "D",
-              "text": "let the"
-            },
-            {
-              "chord": "F♯m",
-              "text": "Word of"
-            },
-            {
-              "chord": "G",
-              "text": "Christ dwell"
-            },
-            {
-              "chord": "",
-              "text": "in"
-            },
-            {
-              "chord": "A",
-              "text": "______________you___⟮richly!⟯"
-            },
-            {
-              "chord": "D",
-              "text": "in"
+              "text": "So let the Word of Christ dwell in you (richly!)"
             }
           ]
         },
@@ -170,27 +62,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "all"
-            },
-            {
-              "chord": "F♯m",
-              "text": "wisdom,"
-            },
-            {
-              "chord": "G",
-              "text": "teaching,"
-            },
-            {
-              "chord": "",
-              "text": "admonish"
-            },
-            {
-              "chord": "A",
-              "text": "ing"
-            },
-            {
-              "chord": "G",
-              "text": "Each"
+              "text": "In all wisdom, teaching, admonishing"
             }
           ]
         },
@@ -198,47 +70,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "one the"
-            },
-            {
-              "chord": "D",
-              "text": "other"
-            },
-            {
-              "chord": "",
-              "text": "with"
-            },
-            {
-              "chord": "F♯7",
-              "text": "psalms and"
-            },
-            {
-              "chord": "G",
-              "text": "hymns; Singing"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D",
-              "text": "with grace,"
-            },
-            {
-              "chord": "G",
-              "text": "sing with"
-            },
-            {
-              "chord": "D",
-              "text": "grace to"
-            },
-            {
-              "chord": "",
-              "text": "God"
-            },
-            {
-              "chord": "G",
-              "text": "in"
+              "text": "Each one the other with psalms and hymns;"
             }
           ]
         },
@@ -246,15 +78,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "your"
-            },
-            {
-              "chord": "Em",
-              "text": "hearts to"
-            },
-            {
-              "chord": "A",
-              "text": "God. God,"
+              "text": "Singing with grace, sing with grace to God"
             }
           ]
         },
@@ -262,7 +86,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "to God."
+              "text": "in your hearts to God."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "(on last chorus)"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "(To God.)"
             }
           ]
         }
@@ -487,20 +327,22 @@
   "metadata": {
     "category": "The Word of God",
     "time": "4/4",
-    "hymn_code": "5135334321551353435"
+    "hymn_code": "5135334321551353435",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0672_tune.midi"
   },
   "raw_sections": [
-    "The Wordisliving,adivinePerson—",
-    "Christ theSon ofGod, thelivingGod.",
-    "It isGod defined, explained, andexpressed",
-    "When theWord comes,Godcomes.",
-    "When theWord ispresent,God ispresent.",
-    "Solet theWord ofChrist dwellin______________you___⟮richly!⟯in",
-    "allwisdom,teaching,admonishingEach",
-    "one theotherwithpsalms andhymns; Singing",
-    "with grace,sing withgrace toGodin",
-    "yourhearts toGod. God,",
-    "to God.",
+    "The Word is living, a divine Person—",
+    "Christ the Son of God, the living God.",
+    "It is God defined, explained, and expressed",
+    "When the Word comes, God comes.",
+    "When the Word is present, God is present.",
+    "So let the Word of Christ dwell in you (richly!)",
+    "In all wisdom, teaching, admonishing",
+    "Each one the other with psalms and hymns;",
+    "Singing with grace, sing with grace to God",
+    "in your hearts to God.",
+    "(on last chorus)",
+    "(To God.)",
     "The Word received is life and Spirit.",
     "Our spirit we must exercise",
     "To receive the life embodied in the Word.",

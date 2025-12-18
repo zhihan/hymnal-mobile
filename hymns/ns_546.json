@@ -7,32 +7,8 @@
         {
           "segments": [
             {
-              "chord": "C",
-              "text": "And the"
-            },
-            {
-              "chord": "F",
-              "text": "God of"
-            },
-            {
-              "chord": "G",
-              "text": "peace"
-            },
-            {
-              "chord": "C",
-              "text": "Himself"
-            },
-            {
-              "chord": "F",
-              "text": "sancti"
-            },
-            {
-              "chord": "G",
-              "text": "fy you"
-            },
-            {
-              "chord": "C",
-              "text": "wholly,"
+              "chord": "",
+              "text": "And the God of peace Himself sanctify you wholly,"
             }
           ]
         },
@@ -40,47 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "And"
-            },
-            {
-              "chord": "F",
-              "text": "may your"
-            },
-            {
-              "chord": "G",
-              "text": "spirit"
-            },
-            {
-              "chord": "",
-              "text": "and"
-            },
-            {
-              "chord": "C",
-              "text": "soul and"
-            },
-            {
-              "chord": "Am",
-              "text": "body"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "F",
-              "text": "Be pre"
-            },
-            {
-              "chord": "G",
-              "text": "served com"
-            },
-            {
-              "chord": "F",
-              "text": "plete, without"
-            },
-            {
-              "chord": "G",
-              "text": "blame,"
+              "text": "And may your spirit and soul and body"
             }
           ]
         },
@@ -88,23 +24,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "At the"
-            },
-            {
-              "chord": "F",
-              "text": "coming"
-            },
+              "text": "Be preserved complete, without blame,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "of our"
-            },
-            {
-              "chord": "G",
-              "text": "Lord Je"
-            },
-            {
-              "chord": "C",
-              "text": "sus Christ."
+              "text": "At the coming of our Lord Jesus Christ."
             }
           ]
         }
@@ -117,87 +45,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "F",
-              "text": "coming"
-            },
-            {
-              "chord": "",
-              "text": "of our"
-            },
-            {
-              "chord": "G",
-              "text": "Lord Je"
-            },
-            {
-              "chord": "C",
-              "text": "sus Christ."
-            },
-            {
-              "chord": "G",
-              "text": "Faithful"
-            },
-            {
-              "chord": "",
-              "text": "is He who"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "F",
-              "text": "calls"
-            },
-            {
-              "chord": "C",
-              "text": "you, who"
-            },
-            {
-              "chord": "F",
-              "text": "also"
-            },
-            {
-              "chord": "",
-              "text": "will"
-            },
-            {
-              "chord": "C",
-              "text": "do it."
-            },
-            {
-              "chord": "G",
-              "text": "Faithful"
-            },
-            {
-              "chord": "",
-              "text": "is He who"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "F",
-              "text": "calls"
-            },
-            {
-              "chord": "C",
-              "text": "you, who"
-            },
-            {
-              "chord": "G",
-              "text": "also"
-            },
-            {
-              "chord": "",
-              "text": "will"
-            },
-            {
-              "chord": "C",
-              "text": "do it."
+              "text": "Faithful is He who calls you, who also will do it."
             }
           ]
         },
@@ -205,19 +53,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "The"
-            },
-            {
-              "chord": "F",
-              "text": "faithful"
-            },
-            {
-              "chord": "C",
-              "text": "God who"
-            },
-            {
-              "chord": "G",
-              "text": "has"
+              "text": "Faithful is He who calls you, who also will do it."
             }
           ]
         },
@@ -225,35 +61,31 @@
           "segments": [
             {
               "chord": "",
-              "text": "called"
-            },
-            {
-              "chord": "C",
-              "text": "us,"
-            },
-            {
-              "chord": "F",
-              "text": "He will"
-            },
-            {
-              "chord": "C",
-              "text": "also"
+              "text": "The faithful God who has called us,"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "sanctify"
-            },
+              "chord": "",
+              "text": "He will also sanctify us,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "C",
-              "text": "us, Sancti"
-            },
+              "chord": "",
+              "text": "Sanctify us wholly, and preserve"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "F",
-              "text": "fy us"
+              "chord": "",
+              "text": "Our entire being complete."
             }
           ]
         }
@@ -264,18 +96,19 @@
   "metadata": {
     "category": "Scriptures for Singing",
     "time": "4/4",
-    "hymn_code": "4561765465443"
+    "hymn_code": "4561765465443",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0546_tune.midi"
   },
   "raw_sections": [
-    "And theGod ofpeaceHimselfsanctify youwholly,",
-    "Andmay yourspiritandsoul andbody",
-    "Be preserved complete, withoutblame,",
-    "At thecomingof ourLord Jesus Christ.",
-    "thecomingof ourLord Jesus Christ.Faithfulis He who",
-    "callsyou, whoalsowilldo it.Faithfulis He who",
-    "callsyou, whoalsowilldo it.",
-    "ThefaithfulGod whohas",
-    "calledus,He willalso",
-    "sanctifyus, Sanctify us"
+    "And the God of peace Himself sanctify you wholly,",
+    "And may your spirit and soul and body",
+    "Be preserved complete, without blame,",
+    "At the coming of our Lord Jesus Christ.",
+    "Faithful is He who calls you, who also will do it.",
+    "Faithful is He who calls you, who also will do it.",
+    "The faithful God who has called us,",
+    "He will also sanctify us,",
+    "Sanctify us wholly, and preserve",
+    "Our entire being complete."
   ]
 }

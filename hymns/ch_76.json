@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "温 柔 所"
+              "text": "溫 柔 所"
             },
             {
               "chord": "G",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "C",
-              "text": "记，"
+              "text": "記，"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "照 耀 神 圣， 何"
+              "text": "照 耀 神 聖， 何"
             },
             {
               "chord": "F",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "G",
-              "text": "丽！"
+              "text": "麗！"
             }
           ]
         },
@@ -48,7 +48,7 @@
             },
             {
               "chord": "D7",
-              "text": "单 路"
+              "text": "單 路"
             },
             {
               "chord": "G7",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "C",
-              "text": "爱 留"
+              "text": "愛 留"
             },
             {
               "chord": "F",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "C",
-              "text": "踪。"
+              "text": "蹤。"
             }
           ]
         }
@@ -245,10 +245,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "13455671",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0076_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/88",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/88",
+        "language": "en",
         "category": "h",
         "number": "88",
         "title": "E88"
@@ -256,10 +257,10 @@
     ]
   },
   "raw_sections": [
-    "主， 你温 柔 所留 印记，",
-    "照 耀 神 圣， 何其 美丽！",
-    "在 你 所 行 孤单 路中，",
-    "你爱 留下 希奇行踪。",
+    "主， 你溫 柔 所留 印記，",
+    "照 耀 神 聖， 何其 美麗！",
+    "在 你 所 行 孤單 路中，",
+    "你愛 留下 希奇行蹤。",
     "你这人子，光中之光，",
     "有谁像你柔细、明亮？",
     "有谁像你如此忍耐，",

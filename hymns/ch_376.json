@@ -12,7 +12,7 @@
             },
             {
               "chord": "A",
-              "text": "所 赐"
+              "text": "所 賜"
             },
             {
               "chord": "D",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "D",
-              "text": "义，"
+              "text": "義，"
             }
           ]
         },
@@ -48,7 +48,7 @@
             },
             {
               "chord": "A",
-              "text": "子 里"
+              "text": "子 裡"
             }
           ]
         },
@@ -56,7 +56,7 @@
           "segments": [
             {
               "chord": "E7",
-              "text": "所 给"
+              "text": "所 給"
             },
             {
               "chord": "",
@@ -80,7 +80,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "赐 于"
+              "text": "賜 於"
             },
             {
               "chord": "A7",
@@ -413,10 +413,11 @@
     "category": "经历基督",
     "time": "4/4",
     "hymn_code": "3521656443",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0376_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/497",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/497",
+        "language": "en",
         "category": "h",
         "number": "497",
         "title": "E497"
@@ -424,12 +425,12 @@
     ]
   },
   "raw_sections": [
-    "神所 赐恩 典，",
-    "最 高的 定义，",
-    "是 神在子 里",
-    "所 给的 自己；",
+    "神所 賜恩 典，",
+    "最 高的 定義，",
+    "是 神在子 裡",
+    "所 給的 自己；",
     "不 重 在 事 物，",
-    "赐 于古 或今，",
+    "賜 於古 或今，",
     "乃是 神自 己",
     "作 我的 永分。",
     "神成为肉身，",

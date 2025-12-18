@@ -16,7 +16,7 @@
             },
             {
               "chord": "Em",
-              "text": "哦， 这"
+              "text": "哦， 這"
             }
           ]
         },
@@ -28,7 +28,7 @@
             },
             {
               "chord": "G",
-              "text": "亲 口"
+              "text": "親 口"
             },
             {
               "chord": "A7",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "G",
-              "text": "结"
+              "text": "結"
             }
           ]
         },
@@ -68,7 +68,7 @@
             },
             {
               "chord": "A7",
-              "text": "许 多"
+              "text": "許 多"
             },
             {
               "chord": "",
@@ -241,10 +241,11 @@
     "category": "十字架的道路",
     "time": "6/4",
     "hymn_code": "3721413217555",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0466_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/636",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/636",
+        "language": "en",
         "category": "h",
         "number": "636",
         "title": "E636"
@@ -252,10 +253,10 @@
     ]
   },
   "raw_sections": [
-    "『若 是死 了！』哦， 这",
-    "是 主亲 口的 信息！ 『若是",
-    "死 了，就 必结",
-    "出许 多的 子粒。』",
+    "『若 是死 了！』哦， 這",
+    "是 主親 口的 信息！ 『若是",
+    "死 了，就 必結",
+    "出許 多的 子粒。』",
     "人得生命，你若真要，",
     "你就必须死；",
     "落在地里死了，葬了，",

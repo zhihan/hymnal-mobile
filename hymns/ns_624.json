@@ -87,32 +87,52 @@
               "text": "joy of"
             },
             {
-              "chord": "D",
-              "text": "my heart,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
               "chord": "",
-              "text": "And Your word became to me"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "A",
-              "text": "The gladness"
+              "text": "my"
             },
             {
+              "chord": "D",
+              "text": "heart,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
               "chord": "",
-              "text": "and joy of"
+              "text": "And Your word became"
+            },
+            {
+              "chord": "A",
+              "text": "to me"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The"
             },
             {
               "chord": "G",
+              "text": "gladness"
+            },
+            {
+              "chord": "",
+              "text": "and"
+            },
+            {
+              "chord": "A7",
+              "text": "joy of"
+            },
+            {
+              "chord": "",
               "text": "my"
+            },
+            {
+              "chord": "D",
+              "text": "heart."
             }
           ]
         }
@@ -124,7 +144,8 @@
   "metadata": {
     "category": "Scriptures for Singing",
     "time": "4/4",
-    "hymn_code": "513252221221"
+    "hymn_code": "513252221221",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0624_tune.midi"
   },
   "raw_sections": [
     "Your words,Yourwords,",
@@ -132,8 +153,8 @@
     "Your words, Yourwords,",
     "Your words were found and Iate them,",
     "And Your word becameto me",
-    "Thegladnessandjoy ofmy heart,",
-    "And Your word became to me",
-    "The gladnessand joy ofmy"
+    "Thegladnessandjoy ofmyheart,",
+    "And Your word becameto me",
+    "Thegladnessandjoy ofmyheart."
   ]
 }

@@ -48,15 +48,15 @@
             },
             {
               "chord": "E",
-              "text": "有 这"
+              "text": "有 這"
             },
             {
               "chord": "A",
-              "text": "个"
+              "text": "個"
             },
             {
               "chord": "D",
-              "text": "会"
+              "text": "會"
             },
             {
               "chord": "A",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "A",
-              "text": "宁；"
+              "text": "寧；"
             }
           ]
         },
@@ -84,7 +84,7 @@
             },
             {
               "chord": "D",
-              "text": "爱 会"
+              "text": "愛 會"
             },
             {
               "chord": "",
@@ -104,7 +104,7 @@
             },
             {
               "chord": "G",
-              "text": "会"
+              "text": "會"
             },
             {
               "chord": "A7",
@@ -124,7 +124,7 @@
             },
             {
               "chord": "G",
-              "text": "怀 风"
+              "text": "懷 風"
             },
             {
               "chord": "D",
@@ -140,7 +140,7 @@
             },
             {
               "chord": "D",
-              "text": "静。"
+              "text": "靜。"
             }
           ]
         }
@@ -425,10 +425,11 @@
     "category": "试炼中的安慰",
     "time": "4/4",
     "hymn_code": "3243511721",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0499_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/672",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/672",
+        "language": "en",
         "category": "h",
         "number": "672",
         "title": "E672"
@@ -438,11 +439,11 @@
   "raw_sections": [
     "非我 所是，",
     "主阿， 乃你 所是，",
-    "只有 这个会叫 我心 安宁；",
-    "你（非 我）爱 会叫",
-    "疑 惑 消失，会叫",
-    "起伏 心怀 风平、",
-    "波静。",
+    "只有 這個會叫 我心 安寧；",
+    "你（非 我）愛 會叫",
+    "疑 惑 消失，會叫",
+    "起伏 心懷 風平、",
+    "波靜。",
     "祂今赐福，",
     "并要永远赐福，",
     "祂今救我，",

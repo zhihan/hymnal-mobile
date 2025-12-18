@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "爱！"
+              "text": "愛！"
             }
           ]
         },
@@ -72,7 +72,7 @@
             },
             {
               "chord": "",
-              "text": "肠 向"
+              "text": "腸 向"
             },
             {
               "chord": "A",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "D",
-              "text": "吁。"
+              "text": "籲。"
             }
           ]
         }
@@ -397,10 +397,11 @@
     "category": "召会",
     "time": "4/4",
     "hymn_code": "3215322133653142",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0615_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/851",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/851",
+        "language": "en",
         "category": "h",
         "number": "851",
         "title": "E851"
@@ -408,10 +409,10 @@
     ]
   },
   "raw_sections": [
-    "主， 你居 所 何等 可爱！",
+    "主， 你居 所 何等 可愛！",
     "我 心 渴 慕 你的 院宇！",
     "切 望 得到 你的 同在，",
-    "我的 心肠 向你 呼吁。",
+    "我的 心腸 向你 呼籲。",
     "在你祭坛所在之处，",
     "并你香坛所在之所，",
     "麻雀找着可居房屋，",

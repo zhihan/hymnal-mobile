@@ -7,20 +7,8 @@
         {
           "segments": [
             {
-              "chord": "C",
-              "text": "I told"
-            },
-            {
               "chord": "",
-              "text": "the Lord, I'd"
-            },
-            {
-              "chord": "Em",
-              "text": "die for"
-            },
-            {
-              "chord": "",
-              "text": "Him,"
+              "text": "I told the Lord, I’d die for Him,"
             }
           ]
         },
@@ -28,19 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "I"
-            },
-            {
-              "chord": "F",
-              "text": "thought I"
-            },
-            {
-              "chord": "",
-              "text": "was so"
-            },
-            {
-              "chord": "C",
-              "text": "strong."
+              "text": "I thought I was so strong."
             }
           ]
         },
@@ -48,15 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Yet I three times, de"
-            },
-            {
-              "chord": "Em",
-              "text": "nied Him"
-            },
-            {
-              "chord": "",
-              "text": "then"
+              "text": "Yet I three times, denied Him then"
             }
           ]
         },
@@ -64,19 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "In"
-            },
-            {
-              "chord": "F",
-              "text": "weakness,"
-            },
-            {
-              "chord": "",
-              "text": "I was"
-            },
-            {
-              "chord": "G",
-              "text": "wrong."
+              "text": "In weakness, I was wrong."
             }
           ]
         },
@@ -84,19 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "In"
-            },
-            {
-              "chord": "Am",
-              "text": "shame, I"
-            },
-            {
-              "chord": "",
-              "text": "followed"
-            },
-            {
-              "chord": "Em",
-              "text": "far behind,"
+              "text": "In shame, I followed far behind,"
             }
           ]
         },
@@ -104,19 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "But"
-            },
-            {
-              "chord": "F",
-              "text": "He looked"
-            },
-            {
-              "chord": "",
-              "text": "back at"
-            },
-            {
-              "chord": "C",
-              "text": "me."
+              "text": "But He looked back at me."
             }
           ]
         },
@@ -124,15 +56,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "He knew I'd fail and"
-            },
-            {
-              "chord": "Em",
-              "text": "fall three"
-            },
-            {
-              "chord": "",
-              "text": "times."
+              "text": "He knew I’d fail and fall three times."
             }
           ]
         },
@@ -140,19 +64,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Now"
-            },
-            {
-              "chord": "F",
-              "text": "weeping"
-            },
-            {
-              "chord": "",
-              "text": "bitter"
-            },
-            {
-              "chord": "G",
-              "text": "ly."
+              "text": "Now weeping bitterly."
             }
           ]
         }
@@ -166,23 +78,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "\"And"
-            },
-            {
-              "chord": "F",
-              "text": "Peter,\"\"And"
-            },
-            {
-              "chord": "",
-              "text": "Peter,\"—The most beau"
-            },
-            {
-              "chord": "C",
-              "text": "tiful"
-            },
-            {
-              "chord": "",
-              "text": "music"
+              "text": "“And Peter,” means also “and you.”"
             }
           ]
         },
@@ -190,11 +86,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "in the world! \"And"
-            },
-            {
-              "chord": "G",
-              "text": "Peter,\"—\"And"
+              "text": "“And Peter,”—“I really love you.”"
             }
           ]
         },
@@ -202,15 +94,31 @@
           "segments": [
             {
               "chord": "",
-              "text": "Pe"
-            },
-            {
-              "chord": "G7",
-              "text": "ter\"— the"
-            },
+              "text": "The most beautiful music in the world!"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "Lord!"
+              "text": "“And Peter,”—“I’m thinking of you.”"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "“And Peter”—“My heart is for you.”"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Rise up, and go to see the Lord!"
             }
           ]
         }
@@ -590,20 +498,24 @@
   "metadata": {
     "category": "Experience of Christ",
     "time": "6/8",
-    "hymn_code": "433335555666545"
+    "hymn_code": "433335555666545",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1071_tune.midi"
   },
   "raw_sections": [
-    "I toldthe Lord, I'ddie forHim,",
-    "Ithought Iwas sostrong.",
-    "Yet I three times, denied Himthen",
-    "Inweakness,I waswrong.",
-    "Inshame, Ifollowedfar behind,",
-    "ButHe lookedback atme.",
-    "He knew I'd fail andfall threetimes.",
-    "Nowweepingbitterly.",
-    "\"AndPeter,\"\"AndPeter,\"—The most beautifulmusic",
-    "in the world! \"AndPeter,\"—\"And",
-    "Peter\"— theLord!",
+    "I told the Lord, I’d die for Him,",
+    "I thought I was so strong.",
+    "Yet I three times, denied Him then",
+    "In weakness, I was wrong.",
+    "In shame, I followed far behind,",
+    "But He looked back at me.",
+    "He knew I’d fail and fall three times.",
+    "Now weeping bitterly.",
+    "“And Peter,” means also “and you.”",
+    "“And Peter,”—“I really love you.”",
+    "The most beautiful music in the world!",
+    "“And Peter,”—“I’m thinking of you.”",
+    "“And Peter”—“My heart is for you.”",
+    "Rise up, and go to see the Lord!",
     "I wait three days in silent guilt",
     "I wish the Lord forgot.",
     "I wonder, could He love me still",

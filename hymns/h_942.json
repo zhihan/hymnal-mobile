@@ -333,10 +333,11 @@
     "category": "The Kingdom",
     "time": "3/4",
     "hymn_code": "5543511271",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0942_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/746",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/746",
+        "language": "cn",
         "category": "ch",
         "number": "746",
         "title": "C746"

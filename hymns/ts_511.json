@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "在 这 黑 夜，"
+              "text": "在 這 黑 夜，"
             }
           ]
         },
@@ -20,7 +20,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "众 地"
+              "text": "眾 地"
             },
             {
               "chord": "A7",
@@ -28,7 +28,7 @@
             },
             {
               "chord": "D",
-              "text": "会"
+              "text": "會"
             }
           ]
         },
@@ -36,11 +36,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "作 耶 稣 的"
+              "text": "作 耶 穌 的"
             },
             {
               "chord": "E",
-              "text": "见 证，"
+              "text": "見 證，"
             }
           ]
         },
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "发 出"
+              "text": "發 出"
             },
             {
               "chord": "E7",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "A",
-              "text": "辉。"
+              "text": "輝。"
             }
           ]
         },
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "以 灵 为 模"
+              "text": "以 靈 為 模"
             },
             {
               "chord": "G",
@@ -88,7 +88,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "性 质 完 全 相 同，"
+              "text": "性 質 完 全 相 同，"
             }
           ]
         },
@@ -96,7 +96,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "彰 显 出 基"
+              "text": "彰 顯 出 基"
             },
             {
               "chord": "A",
@@ -118,7 +118,7 @@
             },
             {
               "chord": "",
-              "text": "在 这"
+              "text": "在 這"
             },
             {
               "chord": "A",
@@ -130,7 +130,7 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "众 地"
+              "text": "眾 地"
             },
             {
               "chord": "",
@@ -138,7 +138,7 @@
             },
             {
               "chord": "D",
-              "text": "会"
+              "text": "會"
             }
           ]
         },
@@ -146,15 +146,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "凭 圣"
+              "text": "憑 聖"
             },
             {
               "chord": "A7",
-              "text": "灵 而"
+              "text": "靈 而"
             },
             {
               "chord": "D",
-              "text": "焚 烧，"
+              "text": "焚 燒，"
             }
           ]
         },
@@ -162,7 +162,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "发 出"
+              "text": "發 出"
             },
             {
               "chord": "A7",
@@ -170,7 +170,7 @@
             },
             {
               "chord": "D",
-              "text": "辉。"
+              "text": "輝。"
             }
           ]
         }
@@ -499,10 +499,11 @@
     "category": "教会的异象",
     "time": "4/4",
     "hymn_code": "555556522123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0511_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1259",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1259",
+        "language": "en",
         "category": "h",
         "number": "1259",
         "title": "E1259"
@@ -510,18 +511,18 @@
     ]
   },
   "raw_sections": [
-    "看 哪，在 这 黑 夜，",
-    "众 地方 召会",
-    "作 耶 稣 的见 证，",
-    "发 出祂 光辉。",
+    "看 哪，在 這 黑 夜，",
+    "眾 地方 召會",
+    "作 耶 穌 的見 證，",
+    "發 出祂 光輝。",
     "因 基 督 而形 成，",
-    "以 灵 为 模子，",
-    "性 质 完 全 相 同，",
-    "彰 显 出 基督。",
-    "看 哪，在 这黑 夜，",
-    "众 地方 召会",
-    "凭 圣灵 而焚 烧，",
-    "发 出主 光辉。",
+    "以 靈 為 模子，",
+    "性 質 完 全 相 同，",
+    "彰 顯 出 基督。",
+    "看 哪，在 這黑 夜，",
+    "眾 地方 召會",
+    "憑 聖靈 而焚 燒，",
+    "發 出主 光輝。",
     "神有形有体的",
     "住在基督里；",
     "基督如今是灵，",

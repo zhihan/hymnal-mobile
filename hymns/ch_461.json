@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "岂"
+              "text": "豈"
             },
             {
               "chord": "A7",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "",
-              "text": "离，"
+              "text": "離，"
             }
           ]
         },
@@ -68,7 +68,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "终 必 被 置 死"
+              "text": "終 必 被 置 死"
             },
             {
               "chord": "A",
@@ -80,7 +80,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "因 为"
+              "text": "因 為"
             },
             {
               "chord": "",
@@ -92,11 +92,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "就 是 使 人 绝"
+              "text": "就 是 使 人 絕"
             },
             {
               "chord": "G",
-              "text": "气；"
+              "text": "氣；"
             }
           ]
         },
@@ -112,11 +112,11 @@
             },
             {
               "chord": "D",
-              "text": "架 经"
+              "text": "架 經"
             },
             {
               "chord": "",
-              "text": "历，"
+              "text": "歷，"
             }
           ]
         },
@@ -124,11 +124,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "总"
+              "text": "總"
             },
             {
               "chord": "A",
-              "text": "是 结"
+              "text": "是 結"
             },
             {
               "chord": "A7",
@@ -289,10 +289,11 @@
     "category": "十字架的道路",
     "time": "4/4",
     "hymn_code": "333322344323",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0461_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/622",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/622",
+        "language": "en",
         "category": "h",
         "number": "622",
         "title": "E622"
@@ -301,13 +302,13 @@
   },
   "raw_sections": [
     "十 架人若 背起，",
-    "岂只 受苦 而已！",
-    "十 架人若 不离，",
-    "终 必 被 置 死地！",
-    "因 为十 架 用 意，",
-    "就 是 使 人 绝气；",
-    "所 以十架 经历，",
-    "总是 结束 自己。",
+    "豈只 受苦 而已！",
+    "十 架人若 不離，",
+    "終 必 被 置 死地！",
+    "因 為十 架 用 意，",
+    "就 是 使 人 絕氣；",
+    "所 以十架 經歷，",
+    "總是 結束 自己。",
     "这是神的救法，",
     "将人十架治杀；",
     "像是残酷刑罚，",

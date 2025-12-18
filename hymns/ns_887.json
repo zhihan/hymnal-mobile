@@ -40,7 +40,15 @@
             },
             {
               "chord": "",
-              "text": "of our souls;"
+              "text": "of"
+            },
+            {
+              "chord": "G",
+              "text": "our"
+            },
+            {
+              "chord": "D",
+              "text": "souls;"
             }
           ]
         },
@@ -48,22 +56,26 @@
           "segments": [
             {
               "chord": "",
-              "text": "Who bore"
+              "text": "Who"
             },
             {
               "chord": "G",
-              "text": "our sins"
+              "text": "bore"
             },
             {
               "chord": "A",
-              "text": "up"
+              "text": "our"
             },
             {
               "chord": "D",
-              "text": "on the"
+              "text": "sins upon"
             },
             {
               "chord": "",
+              "text": "the"
+            },
+            {
+              "chord": "Bm",
               "text": "tree"
             }
           ]
@@ -72,15 +84,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "To heal and"
-            },
-            {
-              "chord": "Bm",
-              "text": "make"
+              "text": "To"
             },
             {
               "chord": "D",
-              "text": "us"
+              "text": "heal and"
+            },
+            {
+              "chord": "A7",
+              "text": "make us"
+            },
+            {
+              "chord": "D",
+              "text": "whole."
             }
           ]
         }
@@ -358,13 +374,14 @@
   "metadata": {
     "category": "Experience of Christ",
     "time": "3/4",
-    "hymn_code": "123454532112345"
+    "hymn_code": "123454532112345",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0887_tune.midi"
   },
   "raw_sections": [
     "O Christ,toYou wehave returned,",
-    "TheShepherdof our souls;",
-    "Who boreour sinsupon thetree",
-    "To heal andmakeus",
+    "TheShepherdofoursouls;",
+    "Whoboreoursins uponthetree",
+    "Toheal andmake uswhole.",
     "To seek that forlorn, wayward sheep,",
     "You left the ninety-nine;",
     "The sinner on Your shoulders bore;",

@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "没 有"
+              "text": "沒 有"
             },
             {
               "chord": "",
-              "text": "间 隔，"
+              "text": "間 隔，"
             }
           ]
         },
@@ -24,11 +24,11 @@
             },
             {
               "chord": "A",
-              "text": "没 有"
+              "text": "沒 有"
             },
             {
               "chord": "",
-              "text": "间"
+              "text": "間"
             },
             {
               "chord": "D",
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "让 我 见 你 荣"
+              "text": "讓 我 見 你 榮"
             },
             {
               "chord": "A",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "D",
-              "text": "边，"
+              "text": "邊，"
             }
           ]
         },
@@ -64,7 +64,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "然 后 听"
+              "text": "然 後 聽"
             },
             {
               "chord": "F♯",
@@ -80,11 +80,11 @@
           "segments": [
             {
               "chord": "A",
-              "text": "没 有"
+              "text": "沒 有"
             },
             {
               "chord": "",
-              "text": "间"
+              "text": "間"
             },
             {
               "chord": "D",
@@ -96,11 +96,11 @@
           "segments": [
             {
               "chord": "A",
-              "text": "没 有"
+              "text": "沒 有"
             },
             {
               "chord": "A7",
-              "text": "间"
+              "text": "間"
             },
             {
               "chord": "D",
@@ -551,10 +551,11 @@
     "category": "羡慕",
     "time": "3/4",
     "hymn_code": "111312321333342",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0284_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/373",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/373",
+        "language": "en",
         "category": "h",
         "number": "373",
         "title": "E373"
@@ -562,13 +563,13 @@
     ]
   },
   "raw_sections": [
-    "没 有间 隔，",
-    "主，没 有间隔；",
-    "让 我 见 你 荣面，",
-    "引 我 近 你 身边，",
-    "然 后 听你 慈言；",
-    "没 有间隔，",
-    "没 有间隔。",
+    "沒 有間 隔，",
+    "主，沒 有間隔；",
+    "讓 我 見 你 榮面，",
+    "引 我 近 你 身邊，",
+    "然 後 聽你 慈言；",
+    "沒 有間隔，",
+    "沒 有間隔。",
     "没有间隔，",
     "主，没有间隔；",
     "但愿地上翻腾",

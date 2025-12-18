@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "你 在 复 活 里，"
+              "text": "你 在 復 活 裏，"
             }
           ]
         },
@@ -24,7 +24,7 @@
             },
             {
               "chord": "A",
-              "text": "成 赐"
+              "text": "成 賜"
             },
             {
               "chord": "",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "D",
-              "text": "灵；"
+              "text": "靈；"
             }
           ]
         },
@@ -44,7 +44,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "使 我 与 你 同 复"
+              "text": "使 我 與 你 同 復"
             },
             {
               "chord": "A",
@@ -274,12 +274,13 @@
   "metadata": {
     "category": "灵与生命",
     "time": "4/4",
-    "hymn_code": "511112321"
+    "hymn_code": "511112321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0146_tune.midi"
   },
   "raw_sections": [
-    "哦 主你 在 复 活 里，",
-    "已成 赐生命 之灵；",
-    "使 我 与 你 同 复起，",
+    "哦 主你 在 復 活 裏，",
+    "已成 賜生命 之靈；",
+    "使 我 與 你 同 復起，",
     "使我 重生得 生命。",
     "这灵就是你进入，",
     "带着丰盛的生命；",

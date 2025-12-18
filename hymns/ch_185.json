@@ -8,15 +8,15 @@
           "segments": [
             {
               "chord": "C",
-              "text": "为 著"
+              "text": "為 著"
             },
             {
               "chord": "",
-              "text": "这 饼 我"
+              "text": "這 餅 我"
             },
             {
               "chord": "G",
-              "text": "感 谢"
+              "text": "感 謝"
             },
             {
               "chord": "C",
@@ -28,15 +28,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "这 是 神"
+              "text": "這 是 神"
             },
             {
               "chord": "D7",
-              "text": "圣 表"
+              "text": "聖 表"
             },
             {
               "chord": "G",
-              "text": "记；"
+              "text": "記；"
             }
           ]
         },
@@ -60,7 +60,7 @@
             },
             {
               "chord": "F",
-              "text": "见"
+              "text": "見"
             }
           ]
         },
@@ -72,15 +72,15 @@
             },
             {
               "chord": "C",
-              "text": "计 画"
+              "text": "計 畫"
             },
             {
               "chord": "G",
-              "text": "的 奥"
+              "text": "的 奧"
             },
             {
               "chord": "C",
-              "text": "秘。"
+              "text": "祕。"
             }
           ]
         }
@@ -283,10 +283,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "54351527543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0185_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/222",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/222",
+        "language": "en",
         "category": "h",
         "number": "222",
         "title": "E222"
@@ -294,10 +295,10 @@
     ]
   },
   "raw_sections": [
-    "为 著这 饼 我感 谢你，",
-    "这 是 神圣 表记；",
-    "借此， 恩主， 我得 看见",
-    "神计 画的 奥秘。",
+    "為 著這 餅 我感 謝你，",
+    "這 是 神聖 表記；",
+    "藉此， 恩主， 我得 看見",
+    "神計 畫的 奧祕。",
     "这饼指明你的身体，",
     "你为我们舍弃，",
     "使我有分你的生命，",

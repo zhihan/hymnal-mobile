@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "A7",
-              "text": "论 夜"
+              "text": "論 夜"
             },
             {
               "chord": "D",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "G",
-              "text": "赞"
+              "text": "讚"
             },
             {
               "chord": "D",
@@ -243,10 +243,11 @@
     "category": "祷告",
     "time": "4/4",
     "hymn_code": "55654321321432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0562_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/778",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/778",
+        "language": "en",
         "category": "h",
         "number": "778",
         "title": "E778"
@@ -255,8 +256,8 @@
   },
   "raw_sections": [
     "再 唱信心 的歌！",
-    "无论 夜如 何黑；",
-    "你若赞美， 神要 工作，",
+    "無論 夜如 何黑；",
+    "你若讚美， 神要 工作，",
     "使你 所信 能得。",
     "使你所信能得。",
     "再唱信心的歌！",

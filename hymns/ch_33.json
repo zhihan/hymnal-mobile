@@ -24,7 +24,7 @@
             },
             {
               "chord": "G",
-              "text": "里"
+              "text": "裡"
             }
           ]
         },
@@ -68,11 +68,11 @@
             },
             {
               "chord": "C",
-              "text": "是 为"
+              "text": "是 為"
             },
             {
               "chord": "",
-              "text": "著 赐"
+              "text": "著 賜"
             },
             {
               "chord": "D",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "G",
-              "text": "们。"
+              "text": "們。"
             }
           ]
         }
@@ -249,10 +249,11 @@
     "category": "敬拜父",
     "time": "3/4",
     "hymn_code": "33211765321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0033_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/37",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/37",
+        "language": "en",
         "category": "h",
         "number": "37",
         "title": "E37"
@@ -260,10 +261,10 @@
     ]
   },
   "raw_sections": [
-    "父 神阿，你 在羔 羊里",
+    "父 神阿，你 在羔 羊裡",
     "是 我 的 希 望 和 安息，",
     "你 名 所表 一切 慈仁，",
-    "都是 为著 赐福我们。",
+    "都是 為著 賜福我們。",
     "你大而智、你公而仁，",
     "你是我父、又是我神；",
     "我们属你，是借宝血，",

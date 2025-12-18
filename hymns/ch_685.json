@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
@@ -32,15 +32,15 @@
           "segments": [
             {
               "chord": "G7",
-              "text": "为 罪"
+              "text": "為 罪"
             },
             {
               "chord": "",
-              "text": "人 受 死， 罪 债 清"
+              "text": "人 受 死， 罪 債 清"
             },
             {
               "chord": "C",
-              "text": "偿；"
+              "text": "償；"
             }
           ]
         },
@@ -48,11 +48,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "将 祂 的 宝 血"
+              "text": "將 祂 的 寶 血"
             },
             {
               "chord": "F",
-              "text": "洒 你"
+              "text": "灑 你"
             },
             {
               "chord": "",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "C",
-              "text": "过 你，"
+              "text": "過 你，"
             },
             {
               "chord": "G7",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "",
-              "text": "灭"
+              "text": "滅"
             },
             {
               "chord": "C",
@@ -98,7 +98,7 @@
             },
             {
               "chord": "F",
-              "text": "见 这"
+              "text": "見 這"
             },
             {
               "chord": "C",
@@ -118,7 +118,7 @@
             },
             {
               "chord": "G7",
-              "text": "见 这"
+              "text": "見 這"
             },
             {
               "chord": "C",
@@ -134,11 +134,11 @@
             },
             {
               "chord": "C",
-              "text": "一 见"
+              "text": "一 見"
             },
             {
               "chord": "",
-              "text": "这"
+              "text": "這"
             },
             {
               "chord": "F",
@@ -158,7 +158,7 @@
             },
             {
               "chord": "",
-              "text": "过"
+              "text": "過"
             },
             {
               "chord": "G7",
@@ -166,11 +166,11 @@
             },
             {
               "chord": "",
-              "text": "毁"
+              "text": "毀"
             },
             {
               "chord": "C",
-              "text": "灭！"
+              "text": "滅！"
             }
           ]
         }
@@ -333,10 +333,11 @@
     "category": "福音",
     "time": "4/4",
     "hymn_code": "556536615",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0685_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1005",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1005",
+        "language": "en",
         "category": "h",
         "number": "1005",
         "title": "E1005"
@@ -344,14 +345,14 @@
     ]
   },
   "raw_sections": [
-    "耶 稣我 救 主作 神羔羊，",
-    "为 罪人 受 死， 罪 债 清偿；",
-    "将 祂 的 宝 血洒 你身 上，",
-    "神 必 越过 你，你 免灭亡。",
-    "我 一见 这血，",
-    "我一见 这血，",
-    "我一 见这血，",
-    "我 就必 越过你， 不毁灭！",
+    "耶 穌我 救 主作 神羔羊，",
+    "為 罪人 受 死， 罪 債 清償；",
+    "將 祂 的 寶 血灑 你身 上，",
+    "神 必 越過 你，你 免滅亡。",
+    "我 一見 這血，",
+    "我一見 這血，",
+    "我一 見這血，",
+    "我 就必 越過你， 不毀滅！",
     "罪中的罪魁，耶稣肯救，",
     "凡祂所应许，祂必成就，",
     "在祂这血下，虽有愆尤，",

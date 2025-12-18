@@ -24,7 +24,7 @@
             },
             {
               "chord": "D7",
-              "text": "钥，"
+              "text": "鑰，"
             }
           ]
         },
@@ -36,7 +36,7 @@
             },
             {
               "chord": "G",
-              "text": "觉 欢"
+              "text": "覺 歡"
             },
             {
               "chord": "D",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "",
-              "text": "托 别"
+              "text": "託 別"
             },
             {
               "chord": "G",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "",
-              "text": "劳，"
+              "text": "勞，"
             }
           ]
         },
@@ -76,7 +76,7 @@
             },
             {
               "chord": "G7",
-              "text": "权 叫"
+              "text": "權 叫"
             },
             {
               "chord": "Am",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "D7",
-              "text": "叹"
+              "text": "歎"
             },
             {
               "chord": "G",
@@ -120,7 +120,7 @@
             },
             {
               "chord": "D7",
-              "text": "叹"
+              "text": "歎"
             },
             {
               "chord": "G",
@@ -321,10 +321,11 @@
     "category": "试炼中的安慰",
     "time": "6/4",
     "hymn_code": "3332165451172",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0500_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/683",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/683",
+        "language": "en",
         "category": "h",
         "number": "683",
         "title": "E683"
@@ -332,12 +333,12 @@
     ]
   },
   "raw_sections": [
-    "神 操未知 事件 之钥，",
-    "我觉 欢喜；",
-    "若是 祂托 别人 代劳，",
-    "或 是 授权 叫我 照料，",
-    "我就叹息。",
-    "我就叹息。",
+    "神 操未知 事件 之鑰，",
+    "我覺 歡喜；",
+    "若是 祂託 別人 代勞，",
+    "或 是 授權 叫我 照料，",
+    "我就歎息。",
+    "我就歎息。",
     "若是我的明天烦恼，",
     "今天临到，",
     "而又没有明天关照，",

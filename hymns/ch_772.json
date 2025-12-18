@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "圣 城"
+              "text": "聖 城"
             },
             {
               "chord": "",
@@ -24,11 +24,11 @@
             },
             {
               "chord": "",
-              "text": "们 目"
+              "text": "們 目"
             },
             {
               "chord": "C",
-              "text": "标，"
+              "text": "標，"
             }
           ]
         },
@@ -36,7 +36,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 们 的 永"
+              "text": "我 們 的 永"
             },
             {
               "chord": "Am",
@@ -48,11 +48,11 @@
           "segments": [
             {
               "chord": "Dm",
-              "text": "灿 烂"
+              "text": "燦 爛"
             },
             {
               "chord": "G7",
-              "text": "又 荣"
+              "text": "又 榮"
             },
             {
               "chord": "C",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "",
-              "text": "虽"
+              "text": "雖"
             },
             {
               "chord": "C",
@@ -80,7 +80,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "灵 却"
+              "text": "靈 卻"
             },
             {
               "chord": "G7",
@@ -96,7 +96,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "深 望 与 恩"
+              "text": "深 望 與 恩"
             },
             {
               "chord": "Am",
@@ -124,7 +124,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "深 望 与 恩"
+              "text": "深 望 與 恩"
             },
             {
               "chord": "Am",
@@ -507,10 +507,11 @@
     "category": "终极的显出",
     "time": "6/8",
     "hymn_code": "546536721665",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0772_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/973",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/973",
+        "language": "en",
         "category": "h",
         "number": "973",
         "title": "E973"
@@ -518,15 +519,15 @@
     ]
   },
   "raw_sections": [
-    "圣 城同 救 主",
-    "是 我们 目标，",
-    "我 们 的 永分，",
-    "灿 烂又 荣耀；",
-    "我 身虽在 此，",
-    "灵 却已 在彼，",
-    "深 望 与 恩主",
+    "聖 城同 救 主",
+    "是 我們 目標，",
+    "我 們 的 永分，",
+    "燦 爛又 榮耀；",
+    "我 身雖在 此，",
+    "靈 卻已 在彼，",
+    "深 望 與 恩主",
     "立 即在 一起，",
-    "深 望 与 恩主",
+    "深 望 與 恩主",
     "立 即在 一起。",
     "神圣的目标，",
     "新耶路撒冷，",

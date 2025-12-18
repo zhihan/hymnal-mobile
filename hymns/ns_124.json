@@ -141,10 +141,11 @@
     "category": "Encouragement",
     "time": "4/4",
     "hymn_code": "3333213333217",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0124_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ts/233",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ts/233",
+        "language": "cn",
         "category": "ts",
         "number": "233",
         "title": "Cs233"

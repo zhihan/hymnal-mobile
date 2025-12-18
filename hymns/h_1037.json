@@ -377,10 +377,11 @@
     "category": "Gospel",
     "time": "3/4",
     "hymn_code": "555345655171765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1037_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/699",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/699",
+        "language": "cn",
         "category": "ch",
         "number": "699",
         "title": "C699"

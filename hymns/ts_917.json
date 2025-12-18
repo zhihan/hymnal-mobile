@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "争 战 凶"
+              "text": "爭 戰 兇"
             },
             {
               "chord": "G",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "A",
-              "text": "败；"
+              "text": "敗；"
             }
           ]
         },
@@ -44,15 +44,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "战"
+              "text": "戰"
             },
             {
               "chord": "D",
-              "text": "场 传"
+              "text": "場 傳"
             },
             {
               "chord": "",
-              "text": "来 呼"
+              "text": "來 呼"
             },
             {
               "chord": "E7",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "A",
-              "text": "声，"
+              "text": "聲，"
             }
           ]
         },
@@ -84,7 +84,7 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "阴"
+              "text": "陰"
             },
             {
               "chord": "D",
@@ -96,7 +96,7 @@
             },
             {
               "chord": "G",
-              "text": "嚣，"
+              "text": "囂，"
             }
           ]
         },
@@ -104,11 +104,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "虽"
+              "text": "雖"
             },
             {
               "chord": "E7",
-              "text": "仍 强"
+              "text": "仍 強"
             },
             {
               "chord": "",
@@ -124,11 +124,11 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "请"
+              "text": "請"
             },
             {
               "chord": "D",
-              "text": "听 夜"
+              "text": "聽 夜"
             },
             {
               "chord": "",
@@ -136,11 +136,11 @@
             },
             {
               "chord": "A",
-              "text": "发 呼"
+              "text": "發 呼"
             },
             {
               "chord": "D",
-              "text": "声："
+              "text": "聲："
             }
           ]
         },
@@ -160,7 +160,7 @@
             },
             {
               "chord": "D",
-              "text": "来！\""
+              "text": "來！\""
             }
           ]
         }
@@ -523,6 +523,7 @@
     "category": "盼望与豫备",
     "time": "4/4",
     "hymn_code": "111336651432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0917_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ch/641",
@@ -532,8 +533,8 @@
         "title": "C641*"
       },
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/893",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/893",
+        "language": "en",
         "category": "h",
         "number": "893",
         "title": "E893"
@@ -541,14 +542,14 @@
     ]
   },
   "raw_sections": [
-    "今 日争 战 凶猛，",
-    "撒但 尚未 退败；",
-    "战场 传来 呼喊 之声，",
+    "今 日爭 戰 兇猛，",
+    "撒但 尚未 退敗；",
+    "戰場 傳來 呼喊 之聲，",
     "比 前 更加 澎湃；",
-    "阴府 背叛 喧嚣，",
-    "虽仍 强悍 不衰；",
-    "请听 夜半 主发 呼声：",
-    "\"看哪， 我必 快来！\"",
+    "陰府 背叛 喧囂，",
+    "雖仍 強悍 不衰；",
+    "請聽 夜半 主發 呼聲：",
+    "\"看哪， 我必 快來！\"",
     "虽有更苦试炼，",
     "争战不断接连；",
     "黑暗权势如同军队，",

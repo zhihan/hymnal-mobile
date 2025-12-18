@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "欢 迎 声 音，"
+              "text": "歡 迎 聲 音，"
             }
           ]
         },
@@ -28,7 +28,7 @@
             },
             {
               "chord": "A7",
-              "text": "来 相"
+              "text": "來 相"
             },
             {
               "chord": "D",
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "因 你 为 我 已 流 宝 血，"
+              "text": "因 你 為 我 已 流 寶 血，"
             }
           ]
         },
@@ -74,7 +74,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "主， 我 来 就"
+              "text": "主， 我 來 就"
             },
             {
               "chord": "G",
@@ -90,7 +90,7 @@
             },
             {
               "chord": "",
-              "text": "来 就"
+              "text": "來 就"
             },
             {
               "chord": "A",
@@ -106,7 +106,7 @@
             },
             {
               "chord": "",
-              "text": "用 血 将 我 洗，"
+              "text": "用 血 將 我 洗，"
             }
           ]
         },
@@ -118,11 +118,11 @@
             },
             {
               "chord": "A",
-              "text": "我 干"
+              "text": "我 乾"
             },
             {
               "chord": "A7",
-              "text": "净 无"
+              "text": "淨 無"
             },
             {
               "chord": "D",
@@ -513,10 +513,11 @@
     "category": "福音",
     "time": "3/4",
     "hymn_code": "1353211124653",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0726_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1051",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1051",
+        "language": "en",
         "category": "h",
         "number": "1051",
         "title": "E1051"
@@ -524,14 +525,14 @@
     ]
   },
   "raw_sections": [
-    "你 的欢 迎 声 音，",
-    "召我 前来 相信，",
-    "因 你 为 我 已 流 宝 血，",
+    "你 的歡 迎 聲 音，",
+    "召我 前來 相信，",
+    "因 你 為 我 已 流 寶 血，",
     "特要 洗我 良心。",
-    "主， 我 来 就你！",
-    "我 今来 就你！",
-    "求 主用 血 将 我 洗，",
-    "使我 干净 无比。",
+    "主， 我 來 就你！",
+    "我 今來 就你！",
+    "求 主用 血 將 我 洗，",
+    "使我 乾淨 無比。",
     "我真污秽可鄙，",
     "行善一无能力；",
     "但你欢喜赐恩帮助，",

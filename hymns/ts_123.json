@@ -12,7 +12,7 @@
             },
             {
               "chord": "G",
-              "text": "路 亚！"
+              "text": "路 亞！"
             },
             {
               "chord": "",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "路 亚！"
+              "text": "路 亞！"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "",
-              "text": "里 面。"
+              "text": "裡 面。"
             }
           ]
         },
@@ -60,7 +60,7 @@
             },
             {
               "chord": "G",
-              "text": "路 亚！"
+              "text": "路 亞！"
             },
             {
               "chord": "",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "D",
-              "text": "路 亚！"
+              "text": "路 亞！"
             }
           ]
         },
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "耶 稣"
+              "text": "耶 穌"
             },
             {
               "chord": "",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "",
-              "text": "里"
+              "text": "裡"
             },
             {
               "chord": "D",
@@ -104,10 +104,11 @@
     "category": "灵与生命",
     "time": "4/4",
     "hymn_code": "556466535234323445",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0123_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/6123",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/6123",
+        "language": "en",
         "category": "h",
         "number": "6123",
         "title": "E6123"
@@ -115,9 +116,9 @@
     ]
   },
   "raw_sections": [
-    "阿 利路 亚！阿 利路 亚！",
-    "耶 稣如今 活在我 的里 面。",
-    "阿 利路 亚！阿 利路 亚！",
-    "耶 稣活在 我里面。"
+    "阿 利路 亞！阿 利路 亞！",
+    "耶 穌如今 活在我 的裡 面。",
+    "阿 利路 亞！阿 利路 亞！",
+    "耶 穌活在 我裡面。"
   ]
 }

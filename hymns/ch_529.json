@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "当 日"
+              "text": "當 日"
             },
             {
               "chord": "",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "G",
-              "text": "甸 园"
+              "text": "甸 園"
             },
             {
               "chord": "D",
@@ -28,15 +28,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "将 人 置"
+              "text": "將 人 置"
             },
             {
               "chord": "A",
-              "text": "于 二"
+              "text": "於 二"
             },
             {
               "chord": "A7",
-              "text": "树 之"
+              "text": "樹 之"
             },
             {
               "chord": "D",
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "藉 生 命 树 指"
+              "text": "藉 生 命 樹 指"
             },
             {
               "chord": "A",
@@ -68,11 +68,11 @@
             },
             {
               "chord": "",
-              "text": "识"
+              "text": "識"
             },
             {
               "chord": "D",
-              "text": "树 表"
+              "text": "樹 表"
             },
             {
               "chord": "A",
@@ -401,10 +401,11 @@
     "category": "里面生命的各方面",
     "time": "3/4",
     "hymn_code": "5555566511623443",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0529_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/733",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/733",
+        "language": "en",
         "category": "h",
         "number": "733",
         "title": "E733"
@@ -412,10 +413,10 @@
     ]
   },
   "raw_sections": [
-    "当 日神 在 伊甸 园中，",
-    "将 人 置于 二树 之前：",
-    "藉 生 命 树 指明 自己，",
-    "以 知识树 表明撒但。",
+    "當 日神 在 伊甸 園中，",
+    "將 人 置於 二樹 之前：",
+    "藉 生 命 樹 指明 自己，",
+    "以 知識樹 表明撒但。",
     "生命树乃神的中心，",
     "照神永远计画所定，",
     "神是要在基督里面，",

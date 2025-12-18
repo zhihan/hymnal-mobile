@@ -12,7 +12,7 @@
             },
             {
               "chord": "A",
-              "text": "静"
+              "text": "靜"
             },
             {
               "chord": "Bm",
@@ -36,7 +36,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "并 主 如"
+              "text": "並 主 如"
             },
             {
               "chord": "G",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "A7",
-              "text": "浑"
+              "text": "渾"
             },
             {
               "chord": "D",
@@ -100,11 +100,11 @@
             },
             {
               "chord": "Em7",
-              "text": "视"
+              "text": "視"
             },
             {
               "chord": "D",
-              "text": "从"
+              "text": "從"
             },
             {
               "chord": "Em",
@@ -285,10 +285,11 @@
     "category": "赞美主",
     "time": "3/4",
     "hymn_code": "134213565",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0085_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/101",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/101",
+        "language": "en",
         "category": "h",
         "number": "101",
         "title": "E101"
@@ -296,10 +297,10 @@
     ]
   },
   "raw_sections": [
-    "我 每静念 那十字架，",
-    "并 主 如何在上受熬，",
-    "我 就不禁浑忘身家，",
-    "鄙视从前所 有倨傲。",
+    "我 每靜念 那十字架，",
+    "並 主 如何在上受熬，",
+    "我 就不禁渾忘身家，",
+    "鄙視從前所 有倨傲。",
     "愿主禁我别有所夸，",
     "除了基督的十字架；",
     "前所珍爱虚空荣华，",

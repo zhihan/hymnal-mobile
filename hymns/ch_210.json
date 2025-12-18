@@ -20,7 +20,7 @@
             },
             {
               "chord": "G",
-              "text": "圣 灵，"
+              "text": "聖 靈，"
             }
           ]
         },
@@ -48,11 +48,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "助 我 向 你 胸 怀"
+              "text": "助 我 向 你 胸 懷"
             },
             {
               "chord": "C",
-              "text": "一 倾"
+              "text": "一 傾"
             }
           ]
         },
@@ -68,7 +68,7 @@
             },
             {
               "chord": "D7",
-              "text": "与 自"
+              "text": "與 自"
             },
             {
               "chord": "G",
@@ -146,7 +146,7 @@
             },
             {
               "chord": "D7",
-              "text": "有 丰"
+              "text": "有 豐"
             },
             {
               "chord": "G",
@@ -612,10 +612,11 @@
     "category": "圣灵的丰满",
     "time": "3/4",
     "hymn_code": "555316533342543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0210_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/255",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/255",
+        "language": "en",
         "category": "h",
         "number": "255",
         "title": "E255"
@@ -623,14 +624,14 @@
     ]
   },
   "raw_sections": [
-    "主， 求你 向我 吹圣 灵，",
+    "主， 求你 向我 吹聖 靈，",
     "教 我如 何吸 入你；",
-    "助 我 向 你 胸 怀一 倾",
-    "我 的犯 罪与 自己。",
+    "助 我 向 你 胸 懷一 傾",
+    "我 的犯 罪與 自己。",
     "我 是呼 出我 的愁 苦，",
     "呼 出我 罪污；",
     "我 是吸 入，一 直吸 入，",
-    "你 所有 丰富。",
+    "你 所有 豐富。",
     "我是呼出我的生命，",
     "我才可能被充满；",
     "放弃软弱或是力劲，",

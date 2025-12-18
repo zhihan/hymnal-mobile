@@ -12,11 +12,11 @@
             },
             {
               "chord": "",
-              "text": "惟 有 识 你"
+              "text": "惟 有 識 你"
             },
             {
               "chord": "A7",
-              "text": "身 体，"
+              "text": "身 體，"
             }
           ]
         },
@@ -28,11 +28,11 @@
             },
             {
               "chord": "A",
-              "text": "才 是"
+              "text": "纔 是"
             },
             {
               "chord": "A7",
-              "text": "认 识"
+              "text": "認 識"
             },
             {
               "chord": "D",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "D",
-              "text": "开 启，"
+              "text": "開 啟，"
             }
           ]
         },
@@ -68,11 +68,11 @@
             },
             {
               "chord": "A",
-              "text": "肢 体"
+              "text": "肢 體"
             },
             {
               "chord": "A7",
-              "text": "看 见"
+              "text": "看 見"
             },
             {
               "chord": "D",
@@ -84,7 +84,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "非 仅 识 你"
+              "text": "非 僅 識 你"
             },
             {
               "chord": "B7",
@@ -108,11 +108,11 @@
             },
             {
               "chord": "A",
-              "text": "个 别"
+              "text": "個 別"
             },
             {
               "chord": "A7",
-              "text": "救 赎"
+              "text": "救 贖"
             },
             {
               "chord": "D",
@@ -124,11 +124,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "见 你 已"
+              "text": "見 你 已"
             },
             {
               "chord": "D7",
-              "text": "具 体"
+              "text": "具 體"
             },
             {
               "chord": "G",
@@ -136,7 +136,7 @@
             },
             {
               "chord": "Em",
-              "text": "显"
+              "text": "顯"
             }
           ]
         },
@@ -144,11 +144,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "D",
-              "text": "身 体"
+              "text": "身 體"
             },
             {
               "chord": "A7",
@@ -379,10 +379,11 @@
     "category": "建造与合一",
     "time": "3/4",
     "hymn_code": "513333444452343",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0624_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1225",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1225",
+        "language": "en",
         "category": "h",
         "number": "1225",
         "title": "E1225"
@@ -390,14 +391,14 @@
     ]
   },
   "raw_sections": [
-    "今 日惟 有 识 你身 体，",
-    "哦 主，才 是认 识你，",
-    "因 此我 求得 蒙开 启，",
-    "在 你肢 体看 见你；",
-    "非 仅 识 你元 首身 分─至",
-    "高、个 别救 赎主， 更",
-    "见 你 已具 体化 身，显",
-    "为身 体的 基督。",
+    "今 日惟 有 識 你身 體，",
+    "哦 主，纔 是認 識你，",
+    "因 此我 求得 蒙開 啟，",
+    "在 你肢 體看 見你；",
+    "非 僅 識 你元 首身 分─至",
+    "高、個 別救 贖主， 更",
+    "見 你 已具 體化 身，顯",
+    "為身 體的 基督。",
     "你的圣徒多年追求，",
     "渴慕寻得你实际；",
     "举目仰望，深处探求，",

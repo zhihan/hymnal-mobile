@@ -20,7 +20,7 @@
             },
             {
               "chord": "G",
-              "text": "里 面，"
+              "text": "裡 面，"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "脱 离 了 亚 当 界"
+              "text": "脫 離 了 亞 當 界"
             },
             {
               "chord": "D",
@@ -40,15 +40,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "凡 旧 事"
+              "text": "凡 舊 事"
             },
             {
               "chord": "D7",
-              "text": "都 变"
+              "text": "都 變"
             },
             {
               "chord": "G",
-              "text": "新 鲜，"
+              "text": "新 鮮，"
             }
           ]
         },
@@ -56,15 +56,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "属"
+              "text": "屬"
             },
             {
               "chord": "A7",
-              "text": "地 变"
+              "text": "地 變"
             },
             {
               "chord": "",
-              "text": "为 属"
+              "text": "為 屬"
             },
             {
               "chord": "D",
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "赞"
+              "text": "讚"
             },
             {
               "chord": "D7",
@@ -96,7 +96,7 @@
           "segments": [
             {
               "chord": "G7",
-              "text": "饱 尝"
+              "text": "飽 嘗"
             },
             {
               "chord": "C",
@@ -104,7 +104,7 @@
             },
             {
               "chord": "",
-              "text": "与 平"
+              "text": "與 平"
             },
             {
               "chord": "G",
@@ -116,7 +116,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "赞 美 主， 我 今 在"
+              "text": "讚 美 主， 我 今 在"
             },
             {
               "chord": "D",
@@ -124,7 +124,7 @@
             },
             {
               "chord": "D7",
-              "text": "里"
+              "text": "裡"
             },
             {
               "chord": "G",
@@ -141,10 +141,11 @@
     "category": "得救的证实与快乐",
     "time": "4/4",
     "hymn_code": "51165113455555",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0229_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1350",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1350",
+        "language": "en",
         "category": "h",
         "number": "1350",
         "title": "E1350"
@@ -152,12 +153,12 @@
     ]
   },
   "raw_sections": [
-    "我 今在基 督里 面，",
-    "脱 离 了 亚 当 界限；",
-    "凡 旧 事都 变新 鲜，",
-    "属地 变为 属天！",
-    "赞美 主，在 此得 享 恩 典，",
-    "饱 尝生 命与 平安！",
-    "赞 美 主， 我 今 在主里面！"
+    "我 今在基 督裡 面，",
+    "脫 離 了 亞 當 界限；",
+    "凡 舊 事都 變新 鮮，",
+    "屬地 變為 屬天！",
+    "讚美 主，在 此得 享 恩 典，",
+    "飽 嘗生 命與 平安！",
+    "讚 美 主， 我 今 在主裡面！"
   ]
 }

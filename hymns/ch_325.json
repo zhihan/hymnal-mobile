@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "Dm",
-              "text": "当 我"
+              "text": "當 我"
             },
             {
               "chord": "A",
-              "text": "凭"
+              "text": "憑"
             },
             {
               "chord": "Dm",
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "我 觉"
+              "text": "我 覺"
             },
             {
               "chord": "",
@@ -44,11 +44,11 @@
             },
             {
               "chord": "A♯",
-              "text": "是 刚"
+              "text": "是 剛"
             },
             {
               "chord": "A",
-              "text": "强，"
+              "text": "強，"
             }
           ]
         },
@@ -68,7 +68,7 @@
             },
             {
               "chord": "D",
-              "text": "却"
+              "text": "卻"
             },
             {
               "chord": "Gm",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "A",
-              "text": "样"
+              "text": "樣"
             }
           ]
         },
@@ -84,7 +84,7 @@
           "segments": [
             {
               "chord": "Gm",
-              "text": "没"
+              "text": "沒"
             },
             {
               "chord": "Dm",
@@ -451,10 +451,11 @@
     "category": "羡慕",
     "time": "3/4",
     "hymn_code": "6671176771233323",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0325_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/430",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/430",
+        "language": "en",
         "category": "h",
         "number": "430",
         "title": "E430"
@@ -462,10 +463,10 @@
     ]
   },
   "raw_sections": [
-    "当 我凭著 自己 思想，",
-    "我 觉自己 很是 刚强，",
-    "不 知自己却是 怎样",
-    "没有力量。",
+    "當 我憑著 自己 思想，",
+    "我 覺自己 很是 剛強，",
+    "不 知自己卻是 怎樣",
+    "沒有力量。",
     "当我生活世人中间，",
     "我就不觉自己亏欠，",
     "只觉自己如何奋勉，",

@@ -20,7 +20,7 @@
             },
             {
               "chord": "C",
-              "text": "驱 前，"
+              "text": "驅 前，"
             }
           ]
         },
@@ -36,11 +36,11 @@
             },
             {
               "chord": "",
-              "text": "会 出"
+              "text": "會 出"
             },
             {
               "chord": "G",
-              "text": "现！"
+              "text": "現！"
             }
           ]
         },
@@ -52,11 +52,11 @@
             },
             {
               "chord": "C",
-              "text": "后 在"
+              "text": "後 在"
             },
             {
               "chord": "F",
-              "text": "许 多"
+              "text": "許 多"
             },
             {
               "chord": "C",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "G",
-              "text": "会 必"
+              "text": "會 必"
             },
             {
               "chord": "D7",
@@ -96,7 +96,7 @@
             },
             {
               "chord": "",
-              "text": "灵 里"
+              "text": "靈 裡"
             },
             {
               "chord": "F",
@@ -120,11 +120,11 @@
             },
             {
               "chord": "",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "G",
-              "text": "刚 强。"
+              "text": "剛 強。"
             }
           ]
         },
@@ -144,7 +144,7 @@
             },
             {
               "chord": "F",
-              "text": "驱 前，"
+              "text": "驅 前，"
             }
           ]
         },
@@ -156,7 +156,7 @@
             },
             {
               "chord": "C",
-              "text": "胜 之"
+              "text": "勝 之"
             },
             {
               "chord": "G7",
@@ -177,10 +177,11 @@
     "category": "事奉与福音",
     "time": "4/4",
     "hymn_code": "5534653114562",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0805_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/6805",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/6805",
+        "language": "en",
         "category": "h",
         "number": "6805",
         "title": "E6805"
@@ -188,13 +189,13 @@
     ]
   },
   "raw_sections": [
-    "基 督我王 正驱 前，",
-    "地方 召会 出现！",
-    "今后 在许 多城 市，",
-    "召会 必成 你殿。",
-    "藉著 在灵 里的 日子，",
-    "生命 使我 们刚 强。",
-    "基督 我王 正驱 前，",
-    "得胜 之歌 高唱！"
+    "基 督我王 正驅 前，",
+    "地方 召會 出現！",
+    "今後 在許 多城 市，",
+    "召會 必成 你殿。",
+    "藉著 在靈 裡的 日子，",
+    "生命 使我 們剛 強。",
+    "基督 我王 正驅 前，",
+    "得勝 之歌 高唱！"
   ]
 }

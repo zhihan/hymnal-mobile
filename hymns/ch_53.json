@@ -24,7 +24,7 @@
             },
             {
               "chord": "A",
-              "text": "初 与"
+              "text": "初 與"
             },
             {
               "chord": "A7",
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 是 神 的 荣 耀 发 表，"
+              "text": "你 是 神 的 榮 耀 發 表，"
             }
           ]
         },
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "将"
+              "text": "將"
             },
             {
               "chord": "A",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "D",
-              "text": "来。"
+              "text": "來。"
             }
           ]
         }
@@ -74,7 +74,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "赞"
+              "text": "讚"
             },
             {
               "chord": "A",
@@ -98,7 +98,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "将"
+              "text": "將"
             },
             {
               "chord": "A",
@@ -106,7 +106,7 @@
             },
             {
               "chord": "E7",
-              "text": "全 发"
+              "text": "全 發"
             },
             {
               "chord": "A",
@@ -130,7 +130,7 @@
             },
             {
               "chord": "G",
-              "text": "的 荣"
+              "text": "的 榮"
             },
             {
               "chord": "",
@@ -154,7 +154,7 @@
             },
             {
               "chord": "D",
-              "text": "晓！"
+              "text": "曉！"
             }
           ]
         }
@@ -616,10 +616,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "55545155355423",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0053_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/58",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/58",
+        "language": "en",
         "category": "h",
         "number": "58",
         "title": "E58"
@@ -628,13 +629,13 @@
   },
   "raw_sections": [
     "哦 主，你 是 神 的 活 道，",
-    "太初 与神 同在；",
-    "你 是 神 的 荣 耀 发 表，",
-    "将神 表明 出来。",
-    "赞美 你是 神的 活道，",
-    "将神 完全 发表！",
-    "神的 本性、 神的 荣耀，",
-    "藉你 全都 揭晓！",
+    "太初 與神 同在；",
+    "你 是 神 的 榮 耀 發 表，",
+    "將神 表明 出來。",
+    "讚美 你是 神的 活道，",
+    "將神 完全 發表！",
+    "神的 本性、 神的 榮耀，",
+    "藉你 全都 揭曉！",
     "诸天述说神的荣耀，",
     "万有也在发声；",
     "神能、神性，原难知晓，",

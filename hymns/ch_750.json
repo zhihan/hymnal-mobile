@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "来"
+              "text": "來"
             },
             {
               "chord": "C",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "命 种"
+              "text": "命 種"
             },
             {
               "chord": "G",
@@ -32,7 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "将"
+              "text": "將"
             },
             {
               "chord": "C",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "",
-              "text": "己 种"
+              "text": "己 種"
             },
             {
               "chord": "D",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "D7",
-              "text": "里，"
+              "text": "裏，"
             }
           ]
         },
@@ -60,15 +60,15 @@
             },
             {
               "chord": "G",
-              "text": "此 从"
+              "text": "此 從"
             },
             {
               "chord": "C",
-              "text": "祂 长"
+              "text": "祂 長"
             },
             {
               "chord": "A7",
-              "text": "出 国"
+              "text": "出 國"
             },
             {
               "chord": "D7",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "D7",
-              "text": "远 旨"
+              "text": "遠 旨"
             },
             {
               "chord": "G",
@@ -535,10 +535,11 @@
     "category": "国度",
     "time": "3/4",
     "hymn_code": "5333267121",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0750_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/945",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/945",
+        "language": "en",
         "category": "h",
         "number": "945",
         "title": "E945"
@@ -546,10 +547,10 @@
     ]
   },
   "raw_sections": [
-    "神 子来作 生命 种子，",
-    "将祂 自己 种人 心里，",
-    "如此 从祂 长出 国度，",
-    "完成 神的 永远 旨意。",
+    "神 子來作 生命 種子，",
+    "將祂 自己 種人 心裏，",
+    "如此 從祂 長出 國度，",
+    "完成 神的 永遠 旨意。",
     "祂是惟一生命麦种，",
     "从祂生出许多子粒，",
     "配作诸天国度之子，",

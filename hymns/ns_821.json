@@ -7,16 +7,8 @@
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "Do not"
-            },
-            {
               "chord": "",
-              "text": "let me for"
-            },
-            {
-              "chord": "Em",
-              "text": "get You,"
+              "text": "Do not let me forget You,"
             }
           ]
         },
@@ -24,19 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "O Je"
-            },
-            {
-              "chord": "Am",
-              "text": "hovah,"
-            },
-            {
-              "chord": "",
-              "text": "O Je"
-            },
-            {
-              "chord": "D",
-              "text": "hovah."
+              "text": "O Jehovah, O Jehovah."
             }
           ]
         },
@@ -44,19 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Do"
-            },
-            {
-              "chord": "G",
-              "text": "not let"
-            },
-            {
-              "chord": "",
-              "text": "me for"
-            },
-            {
-              "chord": "Em",
-              "text": "sake Your"
+              "text": "Do not let me forsake Your"
             }
           ]
         },
@@ -64,19 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Holy"
-            },
-            {
-              "chord": "Am",
-              "text": "mountain,"
-            },
-            {
-              "chord": "",
-              "text": "holy"
-            },
-            {
-              "chord": "D",
-              "text": "mountain."
+              "text": "Holy mountain, holy mountain."
             }
           ]
         }
@@ -89,23 +45,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "May"
-            },
-            {
-              "chord": "G",
-              "text": "my right"
-            },
-            {
-              "chord": "",
-              "text": "hand for"
-            },
-            {
-              "chord": "Em",
-              "text": "get its"
-            },
-            {
-              "chord": "",
-              "text": "skill,"
+              "text": "May my right hand forget its skill,"
             }
           ]
         },
@@ -113,23 +53,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "If I"
-            },
-            {
-              "chord": "Am",
-              "text": "do not"
-            },
-            {
-              "chord": "",
-              "text": "remember,"
-            },
-            {
-              "chord": "D",
-              "text": "Your church,"
-            },
-            {
-              "chord": "",
-              "text": "Lord."
+              "text": "If I do not remember, Your church, Lord."
             }
           ]
         },
@@ -137,35 +61,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "May"
-            },
-            {
-              "chord": "G",
-              "text": "my tongue"
-            },
-            {
-              "chord": "",
-              "text": "stay mute,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "Em",
-              "text": "If I"
-            },
-            {
-              "chord": "",
-              "text": "do not pre"
-            },
-            {
-              "chord": "Am",
-              "text": "fer Your"
-            },
-            {
-              "chord": "",
-              "text": "church,"
+              "text": "May my tongue stay mute,"
             }
           ]
         },
@@ -173,15 +69,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "Above"
-            },
-            {
-              "chord": "D",
-              "text": "my chief"
-            },
+              "text": "If I do not prefer Your church,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "joy."
+              "text": "Above my chief joy."
             }
           ]
         }
@@ -194,11 +90,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "my chief joy. A"
-            },
-            {
-              "chord": "C",
-              "text": "bove"
+              "text": "Above my chief joy."
             }
           ]
         }
@@ -209,18 +101,19 @@
   "metadata": {
     "category": "The Church",
     "time": "6/8",
-    "hymn_code": "511236671445665"
+    "hymn_code": "511236671445665",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0821_tune.midi"
   },
   "raw_sections": [
-    "Do notlet me forget You,",
-    "O Jehovah,O Jehovah.",
-    "Donot letme forsake Your",
-    "Holymountain,holymountain.",
-    "Maymy righthand forget itsskill,",
-    "If Ido notremember,Your church,Lord.",
-    "Maymy tonguestay mute,",
-    "If Ido not prefer Yourchurch,",
-    "Abovemy chiefjoy.",
-    "my chief joy. Above"
+    "Do not let me forget You,",
+    "O Jehovah, O Jehovah.",
+    "Do not let me forsake Your",
+    "Holy mountain, holy mountain.",
+    "May my right hand forget its skill,",
+    "If I do not remember, Your church, Lord.",
+    "May my tongue stay mute,",
+    "If I do not prefer Your church,",
+    "Above my chief joy.",
+    "Above my chief joy."
   ]
 }

@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "哦 来，"
+              "text": "哦 來，"
             },
             {
               "chord": "",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "D",
-              "text": "群 众，"
+              "text": "群 眾，"
             }
           ]
         },
@@ -24,7 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "释"
+              "text": "釋"
             },
             {
               "chord": "G",
@@ -32,11 +32,11 @@
             },
             {
               "chord": "C",
-              "text": "而 欢"
+              "text": "而 歡"
             },
             {
               "chord": "D",
-              "text": "腾，"
+              "text": "騰，"
             }
           ]
         },
@@ -48,11 +48,11 @@
             },
             {
               "chord": "Em",
-              "text": "来"
+              "text": "來"
             },
             {
               "chord": "A",
-              "text": "称 谢"
+              "text": "稱 謝"
             },
             {
               "chord": "D",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "A7",
-              "text": "何 丰"
+              "text": "何 豐"
             },
             {
               "chord": "D",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "G",
-              "text": "赎 你"
+              "text": "贖 你"
             },
             {
               "chord": "",
@@ -96,7 +96,7 @@
             },
             {
               "chord": "D7",
-              "text": "过，"
+              "text": "過，"
             }
           ]
         },
@@ -104,7 +104,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "又 赐"
+              "text": "又 賜"
             },
             {
               "chord": "",
@@ -128,11 +128,11 @@
             },
             {
               "chord": "G",
-              "text": "来 称"
+              "text": "來 稱"
             },
             {
               "chord": "",
-              "text": "谢 耶 稣，"
+              "text": "謝 耶 穌，"
             }
           ]
         },
@@ -140,11 +140,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "同 来 称 谢 耶"
+              "text": "同 來 稱 謝 耶"
             },
             {
               "chord": "D",
-              "text": "稣，"
+              "text": "穌，"
             }
           ]
         },
@@ -156,11 +156,11 @@
             },
             {
               "chord": "C",
-              "text": "来"
+              "text": "來"
             },
             {
               "chord": "A7",
-              "text": "称 谢"
+              "text": "稱 謝"
             },
             {
               "chord": "D7",
@@ -168,7 +168,7 @@
             },
             {
               "chord": "G",
-              "text": "稣，"
+              "text": "穌，"
             }
           ]
         },
@@ -373,10 +373,11 @@
     "category": "得救的证实与快乐",
     "time": "4/4",
     "hymn_code": "1151255323432",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0261_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8261",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8261",
+        "language": "en",
         "category": "h",
         "number": "8261",
         "title": "E8261"
@@ -384,15 +385,15 @@
     ]
   },
   "raw_sections": [
-    "哦 来，蒙 恩群 众，",
-    "释放而 欢腾，",
-    "同来称 谢主，",
-    "歌 祂恩何 丰盛！",
-    "祂赎 你罪过，",
-    "又 赐你神 生命。",
-    "同来 称谢 耶 稣，",
-    "同 来 称 谢 耶稣，",
-    "同来称 谢耶稣，",
+    "哦 來，蒙 恩群 眾，",
+    "釋放而 歡騰，",
+    "同來稱 謝主，",
+    "歌 祂恩何 豐盛！",
+    "祂贖 你罪過，",
+    "又 賜你神 生命。",
+    "同來 稱謝 耶 穌，",
+    "同 來 稱 謝 耶穌，",
+    "同來稱 謝耶穌，",
     "我救主 基督。",
     "哦来，蒙爱群众，",
     "稳固不摇动，",

@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/8089",
+  "url": "https://www.hymnal.net/en/hymn/h/8089",
   "title": "O Lord, Your love did not recoil",
   "verses": [
     {
@@ -118,7 +118,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "The sins of man, the devil's scorn,"
+              "text": "The sins of man, the devil’s scorn,"
             }
           ]
         },
@@ -126,7 +126,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "And God's all-righteous wrath."
+              "text": "And God’s all-righteous wrath."
             }
           ]
         }
@@ -140,7 +140,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "The roaring wind and threat'ning waves"
+              "text": "The roaring wind and threat’ning waves"
             }
           ]
         },
@@ -178,7 +178,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Soon shall we in the Father's house"
+              "text": "Soon shall we in the Father’s house"
             }
           ]
         },
@@ -202,7 +202,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "E'en now new praise belongs."
+              "text": "E’en now new praise belongs."
             }
           ]
         }
@@ -215,6 +215,7 @@
     "category": "Praise of the Lord",
     "time": "6/4",
     "hymn_code": "532432176555171665",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e8089_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ch/89",
@@ -232,15 +233,15 @@
     "Thedevil'spowerdisclaim.",
     "O Lord, You bore the heavy load",
     "On that foreboding path:",
-    "The sins of man, the devil's scorn,",
-    "And God's all-righteous wrath.",
-    "The roaring wind and threat'ning waves",
+    "The sins of man, the devil’s scorn,",
+    "And God’s all-righteous wrath.",
+    "The roaring wind and threat’ning waves",
     "At Your command must crest;",
     "For this we worship and proclaim",
     "The name in which we rest.",
-    "Soon shall we in the Father's house",
+    "Soon shall we in the Father’s house",
     "Begin the newest songs,",
     "But here where You have met our need",
-    "E'en now new praise belongs."
+    "E’en now new praise belongs."
   ]
 }

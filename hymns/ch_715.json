@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "A",
-              "text": "你 堕"
+              "text": "你 墮"
             },
             {
               "chord": "",
-              "text": "落 罪 恶 境，"
+              "text": "落 罪 惡 境，"
             }
           ]
         },
@@ -20,7 +20,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "历 尽"
+              "text": "歷 盡"
             },
             {
               "chord": "",
@@ -36,7 +36,7 @@
           "segments": [
             {
               "chord": "E",
-              "text": "为 何"
+              "text": "為 何"
             },
             {
               "chord": "",
@@ -56,7 +56,7 @@
           "segments": [
             {
               "chord": "B7",
-              "text": "脱 此"
+              "text": "脫 此"
             },
             {
               "chord": "",
@@ -104,11 +104,11 @@
             },
             {
               "chord": "",
-              "text": "头，"
+              "text": "頭，"
             },
             {
               "chord": "F♯m",
-              "text": "势 难"
+              "text": "勢 難"
             },
             {
               "chord": "",
@@ -120,7 +120,7 @@
           "segments": [
             {
               "chord": "Bm",
-              "text": "堕"
+              "text": "墮"
             },
             {
               "chord": "E7",
@@ -178,7 +178,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "为 何"
+              "text": "為 何"
             },
             {
               "chord": "",
@@ -194,7 +194,7 @@
             },
             {
               "chord": "Bm",
-              "text": "让"
+              "text": "讓"
             },
             {
               "chord": "E7",
@@ -610,10 +610,11 @@
     "category": "福音",
     "time": "4/4",
     "hymn_code": "53455517665",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0715_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8715",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8715",
+        "language": "en",
         "category": "h",
         "number": "8715",
         "title": "E8715"
@@ -621,17 +622,17 @@
     ]
   },
   "raw_sections": [
-    "你 堕落 罪 恶 境，",
-    "历 尽了苦 情，",
-    "为 何不立 悔改，",
-    "脱 此苦境？",
+    "你 墮落 罪 惡 境，",
+    "歷 盡了苦 情，",
+    "為 何不立 悔改，",
+    "脫 此苦境？",
     "邪 路上 你 在 行，",
     "前 面多陷 阱，",
-    "不 回头，势 难免，",
-    "堕入 深坑！",
+    "不 回頭，勢 難免，",
+    "墮入 深坑！",
     "主 渴望拯 救你！",
     "主 等候救 你！",
-    "为 何不趁 今天让主 救你？",
+    "為 何不趁 今天讓主 救你？",
     "恶者手你安卧，",
     "被任意加祸，",
     "你虽想，却不能",

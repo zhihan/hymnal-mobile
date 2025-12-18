@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "冠 冕 已 给"
+              "text": "冠 冕 已 給"
             },
             {
               "chord": "G",
@@ -24,11 +24,11 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "荣 耀、"
+              "text": "榮 耀、"
             },
             {
               "chord": "",
-              "text": "尊 贵 已 归"
+              "text": "尊 貴 已 歸"
             },
             {
               "chord": "D",
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "为 祂 无 处 算 是"
+              "text": "為 祂 無 處 算 是"
             },
             {
               "chord": "Em",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "",
-              "text": "无 处"
+              "text": "無 處"
             },
             {
               "chord": "D",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "A7",
-              "text": "无 处"
+              "text": "無 處"
             },
             {
               "chord": "",
@@ -249,10 +249,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "555565544323453",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0114_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/129",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/129",
+        "language": "en",
         "category": "h",
         "number": "129",
         "title": "E129*"
@@ -260,11 +261,11 @@
     ]
   },
   "raw_sections": [
-    "看 哪，冠 冕 已 给羊 羔！",
-    "荣 耀、尊 贵 已 归祂！",
-    "为 祂 无 处 算 是太 高，",
-    "天 上无 处是 太大。",
-    "天 上无 处是 太大。",
+    "看 哪，冠 冕 已 給羊 羔！",
+    "榮 耀、尊 貴 已 歸祂！",
+    "為 祂 無 處 算 是太 高，",
+    "天 上無 處是 太大。",
+    "天 上無 處是 太大。",
     "祂登宝座－天上宝座，",
     "祂登宝座何豪迈！",
     "祂是题目，圣徒所歌，",

@@ -16,7 +16,7 @@
             },
             {
               "chord": "D",
-              "text": "里"
+              "text": "裡"
             },
             {
               "chord": "G",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "C",
-              "text": "无 上"
+              "text": "無 上"
             },
             {
               "chord": "D7",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "G",
-              "text": "气，"
+              "text": "氣，"
             }
           ]
         },
@@ -48,7 +48,7 @@
             },
             {
               "chord": "F♯",
-              "text": "与 主"
+              "text": "與 主"
             },
             {
               "chord": "Bm",
@@ -68,11 +68,11 @@
             },
             {
               "chord": "A7",
-              "text": "的 经"
+              "text": "的 經"
             },
             {
               "chord": "D",
-              "text": "历；"
+              "text": "歷；"
             }
           ]
         },
@@ -84,7 +84,7 @@
             },
             {
               "chord": "D7",
-              "text": "里 面，"
+              "text": "裡 面，"
             }
           ]
         },
@@ -92,11 +92,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "主 与"
+              "text": "主 與"
             },
             {
               "chord": "",
-              "text": "我 联"
+              "text": "我 聯"
             },
             {
               "chord": "D7",
@@ -108,7 +108,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "常 与"
+              "text": "常 與"
             },
             {
               "chord": "",
@@ -128,7 +128,7 @@
             },
             {
               "chord": "C",
-              "text": "与"
+              "text": "與"
             },
             {
               "chord": "G",
@@ -136,7 +136,7 @@
             },
             {
               "chord": "D7",
-              "text": "无"
+              "text": "無"
             },
             {
               "chord": "G",
@@ -573,10 +573,11 @@
     "category": "经历基督",
     "time": "4/4",
     "hymn_code": "3334365443",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0418_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1352",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1352",
+        "language": "en",
         "category": "h",
         "number": "1352",
         "title": "E1352"
@@ -584,14 +585,14 @@
     ]
   },
   "raw_sections": [
-    "住 在主里面，",
-    "无 上的 福气，",
-    "常与 主交通，",
-    "甜 美的 经历；",
-    "住 在 主里 面，",
-    "主 与我 联合，",
-    "常 与主交 通，",
-    "我与主无隔。",
+    "住 在主裡面，",
+    "無 上的 福氣，",
+    "常與 主交通，",
+    "甜 美的 經歷；",
+    "住 在 主裡 面，",
+    "主 與我 聯合，",
+    "常 與主交 通，",
+    "我與主無隔。",
     "住在主里面，",
     "恩膏必运行，",
     "常与主交通，",

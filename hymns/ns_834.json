@@ -7,52 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "What a"
-            },
-            {
               "chord": "",
-              "text": "mystery,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "F♯m",
-              "text": "Mystery"
-            },
-            {
-              "chord": "",
-              "text": "of mysteries,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "G",
-              "text": "Our God"
-            },
-            {
-              "chord": "",
-              "text": "is Triune,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "A",
-              "text": "Our God"
-            },
-            {
-              "chord": "",
-              "text": "is one yet"
-            },
-            {
-              "chord": "D",
-              "text": "three!"
+              "text": "What a mystery,"
             }
           ]
         },
@@ -60,39 +16,39 @@
           "segments": [
             {
               "chord": "",
-              "text": "Father, Son, and"
-            },
-            {
-              "chord": "F♯m",
-              "text": "Spirit"
-            },
-            {
-              "chord": "",
-              "text": "flow in me,"
+              "text": "Mystery of mysteries,"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "Praise the"
-            },
+              "chord": "",
+              "text": "Our God is Triune,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "Lord for"
-            },
-            {
-              "chord": "A",
-              "text": "His divine"
-            },
+              "text": "Our God is one yet three!"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "Trini"
-            },
+              "text": "Father, Son, and Spirit flow in me,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "D",
-              "text": "God"
+              "chord": "",
+              "text": "Praise the Lord for His divine Trinity!"
             }
           ]
         }
@@ -106,27 +62,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "F♯m",
-              "text": "Father"
-            },
-            {
-              "chord": "G",
-              "text": "planned for"
-            },
-            {
-              "chord": "",
-              "text": "His"
-            },
-            {
-              "chord": "A",
-              "text": "purpose,"
-            },
-            {
-              "chord": "D",
-              "text": "God"
+              "text": "God the Father planned for His purpose,"
             }
           ]
         },
@@ -134,23 +70,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "F♯m",
-              "text": "Son died"
-            },
-            {
-              "chord": "G",
-              "text": "and re"
-            },
-            {
-              "chord": "A",
-              "text": "deemed,"
-            },
-            {
-              "chord": "D",
-              "text": "We"
+              "text": "God the Son died and redeemed,"
             }
           ]
         },
@@ -158,27 +78,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "were"
-            },
-            {
-              "chord": "F♯m",
-              "text": "sealed with"
-            },
-            {
-              "chord": "G",
-              "text": "God, the"
-            },
-            {
-              "chord": "",
-              "text": "Holy"
-            },
-            {
-              "chord": "A",
-              "text": "Spirit,"
-            },
-            {
-              "chord": "D",
-              "text": "Oh,"
+              "text": "We were sealed with God, the Holy Spirit,"
             }
           ]
         },
@@ -186,27 +86,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "F♯m",
-              "text": "Triune"
-            },
-            {
-              "chord": "",
-              "text": "God"
-            },
-            {
-              "chord": "G",
-              "text": "has a"
-            },
-            {
-              "chord": "A",
-              "text": "plan, econo"
-            },
-            {
-              "chord": "D",
-              "text": "my!"
+              "text": "Oh, the Triune God has a plan, economy!"
             }
           ]
         }
@@ -399,19 +279,20 @@
   "metadata": {
     "category": "Blessing of the Trinity",
     "time": "4/4",
-    "hymn_code": "12321334543"
+    "hymn_code": "12321334543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0834_tune.midi"
   },
   "raw_sections": [
-    "What amystery,",
-    "Mysteryof mysteries,",
-    "Our Godis Triune,",
-    "Our Godis one yetthree!",
-    "Father, Son, andSpiritflow in me,",
-    "Praise theLord forHis divineTriniGod",
-    "theFatherplanned forHispurpose,God",
-    "theSon diedand redeemed,We",
-    "weresealed withGod, theHolySpirit,Oh,",
-    "theTriuneGodhas aplan, economy!",
+    "What a mystery,",
+    "Mystery of mysteries,",
+    "Our God is Triune,",
+    "Our God is one yet three!",
+    "Father, Son, and Spirit flow in me,",
+    "Praise the Lord for His divine Trinity!",
+    "God the Father planned for His purpose,",
+    "God the Son died and redeemed,",
+    "We were sealed with God, the Holy Spirit,",
+    "Oh, the Triune God has a plan, economy!",
     "What a mystery,",
     "Wonderful mystery,",
     "Our God is Spirit,",

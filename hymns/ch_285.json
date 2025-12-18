@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "带 我 上 到"
+              "text": "帶 我 上 到"
             },
             {
               "chord": "C",
@@ -24,11 +24,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "给 我"
+              "text": "給 我"
             },
             {
               "chord": "A",
-              "text": "只 见"
+              "text": "只 見"
             },
             {
               "chord": "A7",
@@ -48,15 +48,15 @@
             },
             {
               "chord": "G",
-              "text": "声 音"
+              "text": "聲 音"
             },
             {
               "chord": "",
-              "text": "给 我"
+              "text": "給 我"
             },
             {
               "chord": "C",
-              "text": "听 见，"
+              "text": "聽 見，"
             }
           ]
         },
@@ -64,15 +64,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "新 鲜"
+              "text": "新 鮮"
             },
             {
               "chord": "G",
-              "text": "空 气"
+              "text": "空 氣"
             },
             {
               "chord": "D7",
-              "text": "给 我"
+              "text": "給 我"
             },
             {
               "chord": "G",
@@ -90,7 +90,7 @@
           "segments": [
             {
               "chord": "G7",
-              "text": "带 我"
+              "text": "帶 我"
             },
             {
               "chord": "C",
@@ -110,7 +110,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "与 你"
+              "text": "與 你"
             },
             {
               "chord": "A",
@@ -118,7 +118,7 @@
             },
             {
               "chord": "A7",
-              "text": "更 亲"
+              "text": "更 親"
             },
             {
               "chord": "D",
@@ -134,11 +134,11 @@
             },
             {
               "chord": "G",
-              "text": "灵 中"
+              "text": "靈 中"
             },
             {
               "chord": "",
-              "text": "饮 于"
+              "text": "飲 於"
             },
             {
               "chord": "C",
@@ -328,10 +328,11 @@
     "category": "羡慕",
     "time": "3/2",
     "hymn_code": "565321766621712",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0285_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/378",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/378",
+        "language": "en",
         "category": "h",
         "number": "378",
         "title": "E378"
@@ -339,13 +340,13 @@
     ]
   },
   "raw_sections": [
-    "求 主带 我 上 到高 山，",
-    "给 我只 见你 自己，",
-    "天 上声 音给 我听 见，",
-    "新 鲜空 气给 我吸。",
-    "带 我上 到更 高之 山，",
-    "与 你交 通更 亲密；",
-    "更 在灵 中饮 于活 泉，",
+    "求 主帶 我 上 到高 山，",
+    "給 我只 見你 自己，",
+    "天 上聲 音給 我聽 見，",
+    "新 鮮空 氣給 我吸。",
+    "帶 我上 到更 高之 山，",
+    "與 你交 通更 親密；",
+    "更 在靈 中飲 於活 泉，",
     "更 得享 受你自己。",
     "更高山上，更高亮光，",
     "远超属地的遮蔽；",

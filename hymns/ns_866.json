@@ -7,24 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "And there"
-            },
-            {
               "chord": "",
-              "text": "he built an"
-            },
-            {
-              "chord": "G",
-              "text": "altar"
-            },
-            {
-              "chord": "",
-              "text": "to Je"
-            },
-            {
-              "chord": "A",
-              "text": "hovah"
+              "text": "And there he built an altar to Jehovah"
             }
           ]
         },
@@ -32,19 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Who"
-            },
-            {
-              "chord": "D",
-              "text": "had appeared"
-            },
-            {
-              "chord": "",
-              "text": "to"
-            },
-            {
-              "chord": "A",
-              "text": "him,"
+              "text": "Who had appeared to him,"
             }
           ]
         },
@@ -52,27 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "And"
-            },
-            {
-              "chord": "D",
-              "text": "called upon"
-            },
-            {
-              "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "G",
-              "text": "name of"
-            },
-            {
-              "chord": "",
-              "text": "Je"
-            },
-            {
-              "chord": "A",
-              "text": "hovah"
+              "text": "And called upon the name of Jehovah"
             }
           ]
         },
@@ -80,23 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "And"
-            },
-            {
-              "chord": "D",
-              "text": "built an"
-            },
-            {
-              "chord": "A",
-              "text": "altar"
-            },
-            {
-              "chord": "",
-              "text": "to"
-            },
-            {
-              "chord": "D",
-              "text": "Him."
+              "text": "And built an altar to Him."
             }
           ]
         }
@@ -109,19 +45,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Come out from your"
-            },
-            {
-              "chord": "A",
-              "text": "land and"
-            },
-            {
-              "chord": "G",
-              "text": "from your"
-            },
-            {
-              "chord": "A",
-              "text": "relatives,"
+              "text": "Come out from your land and from your relatives,"
             }
           ]
         },
@@ -129,27 +53,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "And"
-            },
-            {
-              "chord": "D",
-              "text": "come to"
-            },
-            {
-              "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "A",
-              "text": "land which"
-            },
-            {
-              "chord": "D",
-              "text": "I will"
-            },
-            {
-              "chord": "A",
-              "text": "show you."
+              "text": "And come to the land which I will show you."
             }
           ]
         },
@@ -157,27 +61,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Come"
-            },
-            {
-              "chord": "D",
-              "text": "out from"
-            },
-            {
-              "chord": "",
-              "text": "your"
-            },
-            {
-              "chord": "A",
-              "text": "land and"
-            },
-            {
-              "chord": "G",
-              "text": "from your"
-            },
-            {
-              "chord": "A",
-              "text": "relatives,"
+              "text": "Come out from your land and from your relatives,"
             }
           ]
         },
@@ -185,27 +69,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "And"
-            },
-            {
-              "chord": "D",
-              "text": "come to"
-            },
-            {
-              "chord": "",
-              "text": "the"
-            },
-            {
-              "chord": "A",
-              "text": "land which"
-            },
-            {
-              "chord": "D",
-              "text": "I will"
-            },
-            {
-              "chord": "A",
-              "text": "show you."
+              "text": "And come to the land which I will show you."
             }
           ]
         }
@@ -219,19 +83,31 @@
           "segments": [
             {
               "chord": "",
-              "text": "And"
-            },
-            {
-              "chord": "A7",
-              "text": "always"
-            },
+              "text": "For all the land that you see I will give to you"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "with"
-            },
+              "text": "And to your seed forever."
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "D",
-              "text": "you."
+              "chord": "",
+              "text": "For all the land that you see I will give to you"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And to your seed forever."
             }
           ]
         }
@@ -281,18 +157,22 @@
   "metadata": {
     "category": "Scriptures for Singing",
     "time": "4/4",
-    "hymn_code": "51231662177512312"
+    "hymn_code": "51231662177512312",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0866_tune.midi"
   },
   "raw_sections": [
-    "And therehe built analtarto Jehovah",
-    "Whohad appearedtohim,",
-    "Andcalled uponthename ofJehovah",
-    "Andbuilt analtartoHim.",
-    "Come out from yourland andfrom yourrelatives,",
-    "Andcome totheland whichI willshow you.",
-    "Comeout fromyourland andfrom yourrelatives,",
-    "Andcome totheland whichI willshow you.",
-    "Andalwayswithyou.",
+    "And there he built an altar to Jehovah",
+    "Who had appeared to him,",
+    "And called upon the name of Jehovah",
+    "And built an altar to Him.",
+    "Come out from your land and from your relatives,",
+    "And come to the land which I will show you.",
+    "Come out from your land and from your relatives,",
+    "And come to the land which I will show you.",
+    "For all the land that you see I will give to you",
+    "And to your seed forever.",
+    "For all the land that you see I will give to you",
+    "And to your seed forever.",
     "Rise up, go to Bethel, make an altar there to God",
     "Who appears to you and is always with you.",
     "Rise up, go to Bethel, make an altar there to God",

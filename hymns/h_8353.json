@@ -1,5 +1,5 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/8353",
+  "url": "https://www.hymnal.net/en/hymn/h/8353",
   "title": "Once I had a fervent heart",
   "verses": [
     {
@@ -247,7 +247,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "I'm with the worldly horde."
+              "text": "I’m with the worldly horde."
             }
           ]
         },
@@ -395,7 +395,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Happily my choice I'd lose,"
+              "text": "Happily my choice I’d lose,"
             }
           ]
         },
@@ -433,7 +433,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Lab'ring vainly 'neath the sun"
+              "text": "Lab’ring vainly ’neath the sun"
             }
           ]
         },
@@ -489,7 +489,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Why take the wav'ring role?"
+              "text": "Why take the wav’ring role?"
             }
           ]
         }
@@ -597,7 +597,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "I'd suffer willingly."
+              "text": "I’d suffer willingly."
             }
           ]
         }
@@ -609,6 +609,7 @@
     "category": "Consecration",
     "time": "6/8",
     "hymn_code": "55535111221333",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e8353_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ch/353",
@@ -635,7 +636,7 @@
     "Once I yielded all my heart.",
     "Not serving for reward;",
     "But the world has used me now;",
-    "I'm with the worldly horde.",
+    "I’m with the worldly horde.",
     "Once I worshipped, now I roam,",
     "Indulging to amuse;",
     "Wasting days, repenting not;",
@@ -652,18 +653,18 @@
     "And glory filled my heart;",
     "Union to His will I vowed,",
     "Nor wanted to depart.",
-    "Happily my choice I'd lose,",
+    "Happily my choice I’d lose,",
     "None else but His to seek.",
     "But much time has passed since then;",
     "My zeal for God is weak.",
-    "Lab'ring vainly 'neath the sun",
+    "Lab’ring vainly ’neath the sun",
     "Like shadow and like wind,",
     "Far from His directed flock,",
     "To vanity did tend.",
     "Things of earth will soon be gone;",
     "Why let them rule my soul?",
     "Once I watched for His return;",
-    "Why take the wav'ring role?",
+    "Why take the wav’ring role?",
     "Soon the Morning Star appears;",
     "All life on earth grows short.",
     "This foul place I then must leave,",
@@ -675,6 +676,6 @@
     "To His path returning,",
     "All the world ignoring,",
     "Glory soon appearing",
-    "I'd suffer willingly."
+    "I’d suffer willingly."
   ]
 }

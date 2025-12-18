@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "真 欢"
+              "text": "真 歡"
             },
             {
               "chord": "",
-              "text": "喜！ 我 们 接 待 圣"
+              "text": "喜！ 我 們 接 待 聖"
             },
             {
               "chord": "D",
@@ -24,7 +24,7 @@
           "segments": [
             {
               "chord": "Am",
-              "text": "真 欢"
+              "text": "真 歡"
             },
             {
               "chord": "",
@@ -32,11 +32,11 @@
             },
             {
               "chord": "D7",
-              "text": "们 接"
+              "text": "們 接"
             },
             {
               "chord": "",
-              "text": "待 圣"
+              "text": "待 聖"
             },
             {
               "chord": "G",
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "G7",
-              "text": "真 欢"
+              "text": "真 歡"
             },
             {
               "chord": "",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "G",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "Em",
-              "text": "路 亚！"
+              "text": "路 亞！"
             }
           ]
         },
@@ -88,7 +88,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "这"
+              "text": "這"
             },
             {
               "chord": "D7",
@@ -158,14 +158,15 @@
   "metadata": {
     "category": "教会的生活",
     "time": "4/4",
-    "hymn_code": "111111712"
+    "hymn_code": "111111712",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0739_tune.midi"
   },
   "raw_sections": [
-    "真 欢喜！ 我 们 接 待 圣徒；",
-    "真 欢喜！ 我们 接待 圣徒。",
-    "真 欢喜！ 享受 美好 交 通。",
-    "高 唱荣 耀阿 利路 亚！",
-    "这是 何等 祝福！",
+    "真 歡喜！ 我 們 接 待 聖徒；",
+    "真 歡喜！ 我們 接待 聖徒。",
+    "真 歡喜！ 享受 美好 交 通。",
+    "高 唱榮 耀阿 利路 亞！",
+    "這是 何等 祝福！",
     "真欢喜！我们接待圣徒；",
     "真欢喜！借此服事恩主。",
     "真欢喜！召会生活丰富。",

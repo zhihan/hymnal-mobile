@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "愿 你 属"
+              "text": "願 你 屬"
             },
             {
               "chord": "G",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "风，"
+              "text": "風，"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "现"
+              "text": "現"
             },
             {
               "chord": "A",
@@ -48,11 +48,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "用 那 感 人、 复"
+              "text": "用 那 感 人、 復"
             },
             {
               "chord": "G",
-              "text": "兴 大"
+              "text": "興 大"
             },
             {
               "chord": "D",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "A",
-              "text": "动 我"
+              "text": "動 我"
             },
             {
               "chord": "A7",
@@ -102,7 +102,7 @@
             },
             {
               "chord": "",
-              "text": "临，"
+              "text": "臨，"
             }
           ]
         },
@@ -114,11 +114,11 @@
             },
             {
               "chord": "D",
-              "text": "你 圣"
+              "text": "你 聖"
             },
             {
               "chord": "A7",
-              "text": "灵 来"
+              "text": "靈 來"
             },
             {
               "chord": "D",
@@ -134,7 +134,7 @@
             },
             {
               "chord": "D7",
-              "text": "能 将"
+              "text": "能 將"
             },
             {
               "chord": "G",
@@ -142,7 +142,7 @@
             },
             {
               "chord": "",
-              "text": "过，"
+              "text": "過，"
             }
           ]
         },
@@ -150,11 +150,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "带"
+              "text": "帶"
             },
             {
               "chord": "D",
-              "text": "来 涌"
+              "text": "來 湧"
             },
             {
               "chord": "A7",
@@ -324,10 +324,11 @@
     "category": "圣灵的丰满",
     "time": "4/4",
     "hymn_code": "53455655323453",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0213_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/257",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/257",
+        "language": "en",
         "category": "h",
         "number": "257",
         "title": "E257"
@@ -335,14 +336,14 @@
     ]
   },
   "raw_sections": [
-    "主 阿，愿 你 属天 之风，",
-    "现在 吹到 我身！",
-    "用 那 感 人、 复兴 大能，",
-    "吹动 我的 心魂。",
-    "大 能 主阿， 求你 降临，",
-    "用你 圣灵 来吹！",
-    "用 你 大能 将我 吹过，",
-    "带来 涌流 活水！",
+    "主 阿，願 你 屬天 之風，",
+    "現在 吹到 我身！",
+    "用 那 感 人、 復興 大能，",
+    "吹動 我的 心魂。",
+    "大 能 主阿， 求你 降臨，",
+    "用你 聖靈 來吹！",
+    "用 你 大能 將我 吹過，",
+    "帶來 湧流 活水！",
     "用你能力之灵来吹，",
     "吹去所有障碍；",
     "用你生命之灵来呼，",

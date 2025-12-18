@@ -1,6 +1,6 @@
 {
-  "url": "https://www.hymnal.net/cn/hymn/h/6704",
-  "title": "Aren't you glad you're now in the church?",
+  "url": "https://www.hymnal.net/en/hymn/h/6704",
+  "title": "Aren’t you glad you’re now in the church?",
   "verses": [
     {
       "lines": [
@@ -106,7 +106,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "We're no longer free to roam;"
+              "text": "We’re no longer free to roam;"
             }
           ]
         },
@@ -122,7 +122,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Brothers and sisters, we've come, now we're one:"
+              "text": "Brothers and sisters, we’ve come, now we’re one:"
             }
           ]
         },
@@ -144,7 +144,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "We have come to God's chosen place;"
+              "text": "We have come to God’s chosen place;"
             }
           ]
         },
@@ -160,7 +160,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "This is where He's put His name;"
+              "text": "This is where He’s put His name;"
             }
           ]
         },
@@ -168,7 +168,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Once you're here you'll not be the same."
+              "text": "Once you’re here you’ll not be the same."
             }
           ]
         }
@@ -182,7 +182,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Hallelujah! We've lost our choice,"
+              "text": "Hallelujah! We’ve lost our choice,"
             }
           ]
         },
@@ -198,7 +198,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Deep within we heard the \"Amen.\""
+              "text": "Deep within we heard the “Amen.”"
             }
           ]
         },
@@ -206,7 +206,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "\"This is My choice—you'll not choose again!\""
+              "text": "“This is My choice—you’ll not choose again!”"
             }
           ]
         }
@@ -219,6 +219,7 @@
     "category": "The Church",
     "time": "3/4",
     "hymn_code": "6633717635653423",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e6704_tune.midi",
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ts/704",
@@ -234,17 +235,17 @@
     "What a joy, you'veendedyoursearch.",
     "Praisethe Lord,it's soglorious;",
     "JesusChrist islivinginus.",
-    "We're no longer free to roam;",
+    "We’re no longer free to roam;",
     "Christ has led us to our home.",
-    "Brothers and sisters, we've come, now we're one:",
+    "Brothers and sisters, we’ve come, now we’re one:",
     "Here the real family life has begun.",
-    "We have come to God's chosen place;",
+    "We have come to God’s chosen place;",
     "It is here that we see His face.",
-    "This is where He's put His name;",
-    "Once you're here you'll not be the same.",
-    "Hallelujah! We've lost our choice,",
+    "This is where He’s put His name;",
+    "Once you’re here you’ll not be the same.",
+    "Hallelujah! We’ve lost our choice,",
     "Since the day that we heard His voice.",
-    "Deep within we heard the \"Amen.\"",
-    "\"This is My choice—you'll not choose again!\""
+    "Deep within we heard the “Amen.”",
+    "“This is My choice—you’ll not choose again!”"
   ]
 }

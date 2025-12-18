@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "你 们"
+              "text": "你 們"
             },
             {
               "chord": "G",
@@ -16,11 +16,11 @@
             },
             {
               "chord": "D",
-              "text": "顺"
+              "text": "順"
             },
             {
               "chord": "Bm",
-              "text": "从"
+              "text": "從"
             }
           ]
         },
@@ -56,7 +56,7 @@
             },
             {
               "chord": "Bm",
-              "text": "动，"
+              "text": "動，"
             }
           ]
         },
@@ -80,7 +80,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "你 们 能 否"
+              "text": "你 們 能 否"
             },
             {
               "chord": "D",
@@ -96,7 +96,7 @@
           "segments": [
             {
               "chord": "E",
-              "text": "神 与"
+              "text": "神 與"
             },
             {
               "chord": "E7",
@@ -116,7 +116,7 @@
             },
             {
               "chord": "",
-              "text": "灾 祸"
+              "text": "災 禍"
             },
             {
               "chord": "G",
@@ -124,7 +124,7 @@
             },
             {
               "chord": "Em",
-              "text": "临，"
+              "text": "臨，"
             }
           ]
         },
@@ -136,7 +136,7 @@
             },
             {
               "chord": "A7",
-              "text": "不 见"
+              "text": "不 見"
             },
             {
               "chord": "D",
@@ -363,10 +363,11 @@
     "category": "鼓励",
     "time": "4/4",
     "hymn_code": "35651543211",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0480_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/657",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/657",
+        "language": "en",
         "category": "h",
         "number": "657",
         "title": "E657"
@@ -374,14 +375,14 @@
     ]
   },
   "raw_sections": [
-    "你 们能 否顺从",
+    "你 們能 否順從",
     "你 一切 的主，",
-    "如 果地 要震动，",
+    "如 果地 要震動，",
     "天 象要 翻覆？",
-    "你 们 能 否相信，",
-    "神 与你 同在，",
-    "就 是灾 祸忽临，",
-    "必 定不 见害？",
+    "你 們 能 否相信，",
+    "神 與你 同在，",
+    "就 是災 禍忽臨，",
+    "必 定不 見害？",
     "你们能否顺从",
     "所事奉的主，",
     "不稍软弱、惊恐，",

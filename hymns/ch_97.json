@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "山 巅 救 主 丧"
+              "text": "山 巔 救 主 喪"
             },
             {
               "chord": "Am",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "C",
-              "text": "钉；"
+              "text": "釘；"
             }
           ]
         },
@@ -44,11 +44,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "为 我 赎"
+              "text": "為 我 贖"
             },
             {
               "chord": "G7",
-              "text": "罪、 为"
+              "text": "罪、 為"
             },
             {
               "chord": "",
@@ -64,7 +64,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "买 来 赦"
+              "text": "買 來 赦"
             },
             {
               "chord": "D7",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "G",
-              "text": "约。"
+              "text": "約。"
             }
           ]
         }
@@ -90,7 +90,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "惨"
+              "text": "慘"
             },
             {
               "chord": "Am",
@@ -126,7 +126,7 @@
             },
             {
               "chord": "",
-              "text": "稣 为"
+              "text": "穌 為"
             },
             {
               "chord": "A",
@@ -178,7 +178,7 @@
             },
             {
               "chord": "D7",
-              "text": "主 为"
+              "text": "主 為"
             },
             {
               "chord": "",
@@ -186,7 +186,7 @@
             },
             {
               "chord": "G",
-              "text": "绝。"
+              "text": "絕。"
             }
           ]
         }
@@ -348,10 +348,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "3215351743267653",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0097_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/307",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/307",
+        "language": "en",
         "category": "h",
         "number": "307",
         "title": "E307"
@@ -359,14 +360,14 @@
     ]
   },
   "raw_sections": [
-    "加 略山 巅 救 主 丧命，",
-    "在 彼 受辱、 在彼 被钉；",
-    "为 我 赎罪、 为我 流血，",
-    "买 来 赦免、 立了 新约。",
-    "惨哉 加略！痛哉 加略！",
-    "在彼 耶稣 为我 流血；",
+    "加 略山 巔 救 主 喪命，",
+    "在 彼 受辱、 在彼 被釘；",
+    "為 我 贖罪、 為我 流血，",
+    "買 來 赦免、 立了 新約。",
+    "慘哉 加略！痛哉 加略！",
+    "在彼 耶穌 為我 流血；",
     "大哉 加略！福哉 加略！",
-    "在彼 救主 为我 命绝。",
+    "在彼 救主 為我 命絕。",
     "磐石崩裂，天地昏暗，",
     "主喊成了，垂首气断；",
     "殿幔中裂，活路开通，",

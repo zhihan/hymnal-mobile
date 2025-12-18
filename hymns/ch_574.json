@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "让 我 安 息 于"
+              "text": "讓 我 安 息 於"
             },
             {
               "chord": "A",
@@ -64,11 +64,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "这 是 我"
+              "text": "這 是 我"
             },
             {
               "chord": "F♯",
-              "text": "所 恳"
+              "text": "所 懇"
             },
             {
               "chord": "Bm",
@@ -329,10 +329,11 @@
     "category": "祷告",
     "time": "3/4",
     "hymn_code": "111312321333342",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0574_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/792",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/792",
+        "language": "en",
         "category": "h",
         "number": "792",
         "title": "E792"
@@ -342,9 +343,9 @@
   "raw_sections": [
     "我 今等 候，",
     "主，我 今等候；",
-    "让 我 安 息 于你，",
+    "讓 我 安 息 於你，",
     "使 我 清 楚 你意，",
-    "这 是 我所 恳祈－",
+    "這 是 我所 懇祈－",
     "我 今等候，我 今等候。",
     "我今等候，",
     "主，我今等候；",

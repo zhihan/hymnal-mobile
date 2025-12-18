@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "召 会"
+              "text": "召 會"
             },
             {
               "chord": "",
@@ -16,11 +16,11 @@
             },
             {
               "chord": "D",
-              "text": "金 灯"
+              "text": "金 燈"
             },
             {
               "chord": "G",
-              "text": "台，"
+              "text": "臺，"
             }
           ]
         },
@@ -36,7 +36,7 @@
             },
             {
               "chord": "",
-              "text": "灯， 神"
+              "text": "燈， 神"
             },
             {
               "chord": "D",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "G",
-              "text": "圣 之"
+              "text": "聖 之"
             },
             {
               "chord": "",
@@ -80,11 +80,11 @@
             },
             {
               "chord": "C",
-              "text": "会 托"
+              "text": "會 托"
             },
             {
               "chord": "",
-              "text": "住， 荣"
+              "text": "住， 榮"
             },
             {
               "chord": "D",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "D7",
-              "text": "辉"
+              "text": "輝"
             },
             {
               "chord": "G",
@@ -459,10 +459,11 @@
     "category": "召会",
     "time": "4/4",
     "hymn_code": "533343212356712765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0596_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/822",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/822",
+        "language": "en",
         "category": "h",
         "number": "822",
         "title": "E822"
@@ -470,10 +471,10 @@
     ]
   },
   "raw_sections": [
-    "召 会乃 是 精金 灯台，",
-    "基督 是灯， 神是 其光；",
-    "神圣 之光 由主 照出，",
-    "召会 托住， 荣耀辉煌。",
+    "召 會乃 是 精金 燈臺，",
+    "基督 是燈， 神是 其光；",
+    "神聖 之光 由主 照出，",
+    "召會 托住， 榮耀輝煌。",
     "灯中照出神圣之光，",
     "乃是神作生命照亮；",
     "因此灯台须属精金，",

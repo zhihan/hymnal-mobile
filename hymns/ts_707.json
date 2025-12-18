@@ -12,7 +12,7 @@
             },
             {
               "chord": "D7",
-              "text": "乐，"
+              "text": "樂，"
             },
             {
               "chord": "G",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "",
-              "text": "众 儿 女，"
+              "text": "眾 兒 女，"
             }
           ]
         },
@@ -32,7 +32,7 @@
             },
             {
               "chord": "Bm",
-              "text": "里 主"
+              "text": "裡 主"
             },
             {
               "chord": "E7",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "",
-              "text": "同 欢"
+              "text": "同 歡"
             },
             {
               "chord": "A",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "D",
-              "text": "述 说"
+              "text": "述 說"
             },
             {
               "chord": "D7",
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "灵 里"
+              "text": "靈 裡"
             },
             {
               "chord": "D",
@@ -88,11 +88,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "引 声"
+              "text": "引 聲"
             },
             {
               "chord": "A7",
-              "text": "颂 扬"
+              "text": "頌 揚"
             },
             {
               "chord": "",
@@ -113,10 +113,11 @@
     "category": "教会的生活",
     "time": "4/4",
     "hymn_code": "56321161563122232",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0707_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/6707",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/6707",
+        "language": "en",
         "category": "h",
         "number": "6707",
         "title": "E6707"
@@ -124,10 +125,10 @@
     ]
   },
   "raw_sections": [
-    "何 喜乐，神 的众 儿 女，",
-    "在 家里 主面 前同 欢聚，",
-    "同述 说蒙 主奇 恩的 故 事，",
-    "灵 里高 昂",
-    "引 声颂 扬永 不止。"
+    "何 喜樂，神 的眾 兒 女，",
+    "在 家裡 主面 前同 歡聚，",
+    "同述 說蒙 主奇 恩的 故 事，",
+    "靈 裡高 昂",
+    "引 聲頌 揚永 不止。"
   ]
 }

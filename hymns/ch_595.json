@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "召 会"
+              "text": "召 會"
             },
             {
               "chord": "",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "将 祂 盛 装， 将"
+              "text": "將 祂 盛 裝， 將"
             },
             {
               "chord": "E",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "A",
-              "text": "显；"
+              "text": "顯；"
             }
           ]
         },
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "犹 如"
+              "text": "猶 如"
             },
             {
               "chord": "",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "A",
-              "text": "体，"
+              "text": "體，"
             }
           ]
         },
@@ -88,7 +88,7 @@
             },
             {
               "chord": "D",
-              "text": "现。"
+              "text": "現。"
             }
           ]
         }
@@ -367,10 +367,11 @@
     "category": "召会",
     "time": "3/4",
     "hymn_code": "34651321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0595_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/821",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/821",
+        "language": "en",
         "category": "h",
         "number": "821",
         "title": "E821"
@@ -378,10 +379,10 @@
     ]
   },
   "raw_sections": [
-    "召 会乃 是 基督 器皿，",
-    "将 祂 盛 装， 将祂彰显；",
-    "犹 如人 的 血肉 身体，",
-    "人在 其中 得著表现。",
+    "召 會乃 是 基督 器皿，",
+    "將 祂 盛 裝， 將祂彰顯；",
+    "猶 如人 的 血肉 身體，",
+    "人在 其中 得著表現。",
     "如同圣殿之于约柜，",
     "是其容器、安息之所；",
     "召会乃是基督住处，",

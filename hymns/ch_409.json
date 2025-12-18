@@ -40,11 +40,11 @@
             },
             {
               "chord": "A7",
-              "text": "常 宝"
+              "text": "常 寶"
             },
             {
               "chord": "G",
-              "text": "贵；"
+              "text": "貴；"
             }
           ]
         },
@@ -56,7 +56,7 @@
             },
             {
               "chord": "D",
-              "text": "是 爱"
+              "text": "是 愛"
             },
             {
               "chord": "A",
@@ -64,7 +64,7 @@
             },
             {
               "chord": "Bm",
-              "text": "此 温"
+              "text": "此 溫"
             },
             {
               "chord": "D",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "G",
-              "text": "爱 非"
+              "text": "愛 非"
             },
             {
               "chord": "A7",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "D7",
-              "text": "活 无"
+              "text": "活 無"
             },
             {
               "chord": "G",
@@ -108,7 +108,7 @@
             },
             {
               "chord": "Em",
-              "text": "处，"
+              "text": "處，"
             }
           ]
         },
@@ -120,7 +120,7 @@
             },
             {
               "chord": "D",
-              "text": "爱 祂"
+              "text": "愛 祂"
             },
             {
               "chord": "Bm",
@@ -144,7 +144,7 @@
             },
             {
               "chord": "",
-              "text": "们 就"
+              "text": "們 就"
             },
             {
               "chord": "G",
@@ -168,7 +168,7 @@
             },
             {
               "chord": "A7",
-              "text": "与"
+              "text": "與"
             },
             {
               "chord": "D",
@@ -535,10 +535,11 @@
     "category": "经历基督",
     "time": "6/8",
     "hymn_code": "511123531332121",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0409_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8409",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8409",
+        "language": "en",
         "category": "h",
         "number": "8409",
         "title": "E8409"
@@ -547,13 +548,13 @@
   },
   "raw_sections": [
     "我 有一位 好朋友，",
-    "我是 非常 宝贵；",
-    "祂是 爱我 如此 温柔，",
-    "祂爱 非常 甜美；",
-    "我 不 能活 无祂 之处，",
-    "我爱 祂的 提握；",
-    "所以 我们 就同住，",
-    "我主与我。",
+    "我是 非常 寶貴；",
+    "祂是 愛我 如此 溫柔，",
+    "祂愛 非常 甜美；",
+    "我 不 能活 無祂 之處，",
+    "我愛 祂的 提握；",
+    "所以 我們 就同住，",
+    "我主與我。",
     "有时我几乎卧倒，",
     "祂知我的软弱，",
     "当祂叫我向祂倚靠，",

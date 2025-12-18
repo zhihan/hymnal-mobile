@@ -12,11 +12,11 @@
             },
             {
               "chord": "",
-              "text": "我 神， 你 爱 在"
+              "text": "我 神， 你 愛 在"
             },
             {
               "chord": "C",
-              "text": "子 显"
+              "text": "子 顯"
             },
             {
               "chord": "G",
@@ -28,23 +28,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "对 此 我"
+              "text": "對 此 我"
             },
             {
               "chord": "D",
-              "text": "们 再"
+              "text": "們 再"
             },
             {
               "chord": "D7",
-              "text": "来 你"
+              "text": "來 你"
             },
             {
               "chord": "",
-              "text": "前 响"
+              "text": "前 響"
             },
             {
               "chord": "G",
-              "text": "应。"
+              "text": "應。"
             }
           ]
         },
@@ -60,7 +60,7 @@
             },
             {
               "chord": "G",
-              "text": "祭， 满"
+              "text": "祭， 滿"
             },
             {
               "chord": "",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "D7",
-              "text": "你 欢"
+              "text": "你 歡"
             },
             {
               "chord": "G",
@@ -223,10 +223,11 @@
     "category": "敬拜父",
     "time": "4/4",
     "hymn_code": "53533216165",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0050_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/53",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/53",
+        "language": "en",
         "category": "h",
         "number": "53",
         "title": "E53"
@@ -234,10 +235,10 @@
     ]
   },
   "raw_sections": [
-    "我 父、我 神， 你 爱 在子 显明，",
-    "对 此 我们 再来 你前 响应。",
-    "祂 作燔祭， 满足 你的 心意；",
-    "忍 受 十架， 使我 得你 欢喜。",
+    "我 父、我 神， 你 愛 在子 顯明，",
+    "對 此 我們 再來 你前 響應。",
+    "祂 作燔祭， 滿足 你的 心意；",
+    "忍 受 十架， 使我 得你 歡喜。",
     "祂今率领许多弟兄歌唱，",
     "我们和声，从心响应颂扬。",
     "当祂在此引声向你赞美，",

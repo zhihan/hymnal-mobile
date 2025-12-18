@@ -12,7 +12,7 @@
             },
             {
               "chord": "",
-              "text": "怜 悯"
+              "text": "憐 憫"
             }
           ]
         },
@@ -24,7 +24,7 @@
             },
             {
               "chord": "C",
-              "text": "们 显"
+              "text": "們 顯"
             },
             {
               "chord": "G",
@@ -36,7 +36,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "照 你 启"
+              "text": "照 你 啟"
             },
             {
               "chord": "D",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "D",
-              "text": "你 儿"
+              "text": "你 兒"
             },
             {
               "chord": "G",
@@ -88,7 +88,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "怜 悯"
+              "text": "憐 憫"
             },
             {
               "chord": "",
@@ -116,7 +116,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "贵 重"
+              "text": "貴 重"
             },
             {
               "chord": "",
@@ -128,15 +128,15 @@
             },
             {
               "chord": "",
-              "text": "为 你"
+              "text": "為 你"
             },
             {
               "chord": "D",
-              "text": "作 见"
+              "text": "作 見"
             },
             {
               "chord": "G",
-              "text": "证。"
+              "text": "證。"
             }
           ]
         }
@@ -297,10 +297,11 @@
     "category": "敬拜父",
     "time": "3/4",
     "hymn_code": "512332161651712",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0023_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/25",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/25",
+        "language": "en",
         "category": "h",
         "number": "25",
         "title": "E25"
@@ -308,13 +309,13 @@
     ]
   },
   "raw_sections": [
-    "父， 你怜 悯",
-    "已 向 我们 显明，",
-    "照 你 启示；",
+    "父， 你憐 憫",
+    "已 向 我們 顯明，",
+    "照 你 啟示；",
     "罪 人 如我 竟能 有你 生命，",
-    "作你 儿子。",
-    "怜 悯器皿 乃是 你所 豫定，",
-    "贵 重器皿 永为 你作 见证。",
+    "作你 兒子。",
+    "憐 憫器皿 乃是 你所 豫定，",
+    "貴 重器皿 永為 你作 見證。",
     "‘喜爱怜悯，",
     "并不喜爱祭祀，’",
     "你曾宣告；",

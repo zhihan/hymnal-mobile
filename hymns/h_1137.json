@@ -545,10 +545,11 @@
     "category": "Longings",
     "time": "6/8",
     "hymn_code": "55433216665",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1137_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/303",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/303",
+        "language": "cn",
         "category": "ch",
         "number": "303",
         "title": "C303"

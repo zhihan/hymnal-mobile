@@ -7,48 +7,32 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "I just"
-            },
-            {
               "chord": "",
-              "text": "don't know where'd the hours go?"
+              "text": "I just don’t know where’d the hours go?"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "Never"
-            },
-            {
               "chord": "",
-              "text": "meant to click on so many videos."
+              "text": "Never meant to click on so many videos."
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "Bm",
-              "text": "Scrolling,"
-            },
-            {
               "chord": "",
-              "text": "swiping, endless liking."
+              "text": "Scrolling, swiping, endless liking."
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "Clock's tiktokking;"
-            },
-            {
               "chord": "",
-              "text": "God is calling:"
+              "text": "Clock’s tik-tokking; God is calling:"
             }
           ]
         }
@@ -61,84 +45,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "Look away,"
-            },
-            {
               "chord": "",
-              "text": "look away unto Jesus!"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "G",
-              "text": "Don't let"
-            },
-            {
-              "chord": "",
-              "text": "this world deceive us."
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "Bm",
-              "text": "Stuck again,"
-            },
-            {
-              "chord": "",
-              "text": "my friend?"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "G",
-              "text": "Look away"
-            },
-            {
-              "chord": "",
-              "text": "unto Jesus!"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D",
-              "text": "Look away,"
-            },
-            {
-              "chord": "",
-              "text": "look away unto Jesus,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "G",
-              "text": "Into"
-            },
-            {
-              "chord": "",
-              "text": "the eyes of the One who frees us."
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "Bm",
-              "text": "Redeem"
-            },
-            {
-              "chord": "",
-              "text": "the time."
+              "text": "Look away, look away unto Jesus!"
             }
           ]
         },
@@ -146,19 +54,63 @@
           "segments": [
             {
               "chord": "",
-              "text": "Renew your mind."
+              "text": "Don’t let this world deceive us."
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "Look away"
-            },
+              "chord": "",
+              "text": "Stuck again, my friend?"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "unto Jesus!"
+              "text": "Look away unto Jesus!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Look away, look away unto Jesus,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Into the eyes of the One who frees us."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Redeem the time."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Renew your mind."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Look away unto Jesus!"
             }
           ]
         }
@@ -171,43 +123,31 @@
           "segments": [
             {
               "chord": "",
-              "text": "Look away unto Jesus! Look"
-            },
-            {
-              "chord": "D",
-              "text": "away,"
-            },
-            {
-              "chord": "",
-              "text": "look"
+              "text": "What I behold is what I reflect."
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "away"
-            },
+              "chord": "",
+              "text": "What do I reflect if it’s Jesus I reject?"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "unto Jesus! Look"
-            },
-            {
-              "chord": "Bm",
-              "text": "away,"
-            },
-            {
-              "chord": "",
-              "text": "look"
-            },
-            {
-              "chord": "G",
-              "text": "away"
-            },
+              "text": "God wants us to share His story"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "unto Jesus!"
+              "text": "By reflecting Him in glory."
             }
           ]
         }
@@ -517,24 +457,27 @@
   "metadata": {
     "category": "Encouragement",
     "time": "4/4",
-    "hymn_code": "313111115113116511266"
+    "hymn_code": "313111115113116511266",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0948_tune.midi"
   },
   "raw_sections": [
-    "I justdon't know where'd the hours go?",
-    "Nevermeant to click on so many videos.",
-    "Scrolling,swiping, endless liking.",
-    "Clock's tiktokking;God is calling:",
-    "Look away,look away unto Jesus!",
-    "Don't letthis world deceive us.",
-    "Stuck again,my friend?",
-    "Look awayunto Jesus!",
-    "Look away,look away unto Jesus,",
-    "Intothe eyes of the One who frees us.",
-    "Redeemthe time.",
-    "Renew your mind.",
-    "Look awayunto Jesus!",
-    "Look away unto Jesus! Lookaway,look",
-    "awayunto Jesus! Lookaway,lookawayunto Jesus!",
+    "I just don’t know where’d the hours go?",
+    "Never meant to click on so many videos.",
+    "Scrolling, swiping, endless liking.",
+    "Clock’s tik-tokking; God is calling:",
+    "Look away, look away unto Jesus!",
+    "Don’t let this world deceive us.",
+    "Stuck again, my friend?",
+    "Look away unto Jesus!",
+    "Look away, look away unto Jesus,",
+    "Into the eyes of the One who frees us.",
+    "Redeem the time.",
+    "Renew your mind.",
+    "Look away unto Jesus!",
+    "What I behold is what I reflect.",
+    "What do I reflect if it’s Jesus I reject?",
+    "God wants us to share His story",
+    "By reflecting Him in glory.",
     "Look away, look away unto Jesus!",
     "Don’t let this world deceive us.",
     "Stuck again, my friend?",

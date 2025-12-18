@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "与 你"
+              "text": "與 你"
             },
             {
               "chord": "",
-              "text": "合 一， 永 远 之 子，"
+              "text": "合 一， 永 遠 之 子，"
             }
           ]
         },
@@ -24,7 +24,7 @@
             },
             {
               "chord": "",
-              "text": "与 你"
+              "text": "與 你"
             },
             {
               "chord": "D7",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "",
-              "text": "灵，"
+              "text": "靈，"
             }
           ]
         },
@@ -44,7 +44,7 @@
             },
             {
               "chord": "",
-              "text": "包 罗 万 有 的 死，"
+              "text": "包 羅 萬 有 的 死，"
             }
           ]
         },
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "与 你"
+              "text": "與 你"
             },
             {
               "chord": "",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "D7",
-              "text": "蒙 爱"
+              "text": "蒙 愛"
             },
             {
               "chord": "",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "",
-              "text": "成 为"
+              "text": "成 為"
             },
             {
               "chord": "C",
@@ -116,11 +116,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "与 你"
+              "text": "與 你"
             },
             {
               "chord": "",
-              "text": "同 为 父 的 后 嗣，"
+              "text": "同 為 父 的 後 嗣，"
             }
           ]
         },
@@ -128,11 +128,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "并 作"
+              "text": "並 作"
             },
             {
               "chord": "",
-              "text": "圣 灵"
+              "text": "聖 靈"
             },
             {
               "chord": "G",
@@ -367,10 +367,11 @@
     "category": "与基督的联合",
     "time": "4/4",
     "hymn_code": "11113221122224332",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0356_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/475",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/475",
+        "language": "en",
         "category": "h",
         "number": "475",
         "title": "E475"
@@ -378,14 +379,14 @@
     ]
   },
   "raw_sections": [
-    "与 你合 一， 永 远 之 子，",
-    "因 信与 你成 一灵，",
-    "得 你包 罗 万 有 的 死，",
+    "與 你合 一， 永 遠 之 子，",
+    "因 信與 你成 一靈，",
+    "得 你包 羅 萬 有 的 死，",
     "和 非受 造的生命。",
-    "与 你合 一，蒙 爱之 子，",
-    "藉 恩成 为你 一部，",
-    "与 你同 为 父 的 后 嗣，",
-    "并 作圣 灵的房屋。",
+    "與 你合 一，蒙 愛之 子，",
+    "藉 恩成 為你 一部，",
+    "與 你同 為 父 的 後 嗣，",
+    "並 作聖 靈的房屋。",
     "与你合一，化身之子，",
     "作你奥秘的肢体，",
     "因你诞生与你连枝，",

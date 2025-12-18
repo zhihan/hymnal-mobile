@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "与 你"
+              "text": "與 你"
             },
             {
               "chord": "",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "D",
-              "text": "耶 稣，"
+              "text": "耶 穌，"
             }
           ]
         },
@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "与 你 合 一 在 灵"
+              "text": "與 你 合 一 在 靈"
             },
             {
               "chord": "A",
-              "text": "里；"
+              "text": "裡；"
             }
           ]
         },
@@ -52,7 +52,7 @@
             },
             {
               "chord": "G",
-              "text": "我 里，"
+              "text": "我 裡，"
             }
           ]
         },
@@ -86,7 +86,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "合 为"
+              "text": "合 為"
             },
             {
               "chord": "A",
@@ -94,7 +94,7 @@
             },
             {
               "chord": "",
-              "text": "为"
+              "text": "為"
             },
             {
               "chord": "D",
@@ -106,7 +106,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "我 与 你 合 为"
+              "text": "我 與 你 合 為"
             },
             {
               "chord": "A",
@@ -122,7 +122,7 @@
             },
             {
               "chord": "D",
-              "text": "丰 富"
+              "text": "豐 富"
             },
             {
               "chord": "",
@@ -130,7 +130,7 @@
             },
             {
               "chord": "G",
-              "text": "供 给，"
+              "text": "供 給，"
             }
           ]
         },
@@ -537,10 +537,11 @@
     "category": "与基督的联合",
     "time": "3/4",
     "hymn_code": "513172151353132",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0359_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/474",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/474",
+        "language": "en",
         "category": "h",
         "number": "474",
         "title": "E474"
@@ -548,13 +549,13 @@
     ]
   },
   "raw_sections": [
-    "与 你合 一，恩 主耶 稣，",
-    "与 你 合 一 在 灵里；",
-    "凡 你所 是都 活我 里，",
+    "與 你合 一，恩 主耶 穌，",
+    "與 你 合 一 在 靈裡；",
+    "凡 你所 是都 活我 裡，",
     "我 今得 享你 自己。",
-    "合 为一， 合为一，",
-    "我 与 你 合 为一；",
-    "你 的丰 富是 我供 给，",
+    "合 為一， 合為一，",
+    "我 與 你 合 為一；",
+    "你 的豐 富是 我供 給，",
     "我 的一 切全 是你。",
     "今享你的属人生命，",
     "丰满有你的人性，",

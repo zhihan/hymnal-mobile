@@ -12,11 +12,11 @@
             },
             {
               "chord": "D",
-              "text": "果 争"
+              "text": "果 爭"
             },
             {
               "chord": "",
-              "text": "战 凶"
+              "text": "戰 兇"
             },
             {
               "chord": "A",
@@ -32,7 +32,7 @@
             },
             {
               "chord": "E7",
-              "text": "敌 强"
+              "text": "敵 強"
             },
             {
               "chord": "A7",
@@ -48,7 +48,7 @@
             },
             {
               "chord": "D",
-              "text": "当 坚"
+              "text": "當 堅"
             },
             {
               "chord": "",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "G",
-              "text": "话，"
+              "text": "話，"
             }
           ]
         },
@@ -64,7 +64,7 @@
           "segments": [
             {
               "chord": "A7",
-              "text": "并 发"
+              "text": "並 發"
             },
             {
               "chord": "",
@@ -72,7 +72,7 @@
             },
             {
               "chord": "D",
-              "text": "声。"
+              "text": "聲。"
             }
           ]
         }
@@ -237,10 +237,11 @@
     "category": "属灵的争战",
     "time": "2/2",
     "hymn_code": "5533125645",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0639_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/876",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/876",
+        "language": "en",
         "category": "h",
         "number": "876",
         "title": "E876"
@@ -248,10 +249,10 @@
     ]
   },
   "raw_sections": [
-    "如果 争战 凶猛，",
-    "仇敌 强盛，",
-    "你当 坚信 主话，",
-    "并 发歌声。",
+    "如果 爭戰 兇猛，",
+    "仇敵 強盛，",
+    "你當 堅信 主話，",
+    "並 發歌聲。",
     "只要呼喊一声，",
     "就要得胜，",
     "不要哑口不作",

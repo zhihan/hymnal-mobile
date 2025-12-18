@@ -7,76 +7,32 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "And we"
-            },
-            {
               "chord": "",
-              "text": "have the pro"
-            },
-            {
-              "chord": "A",
-              "text": "phetic"
-            },
-            {
-              "chord": "",
-              "text": "word"
+              "text": "And we have the prophetic word"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "Em",
-              "text": "made more"
-            },
-            {
               "chord": "",
-              "text": "firm, to"
-            },
-            {
-              "chord": "G",
-              "text": "which you"
-            },
-            {
-              "chord": "",
-              "text": "do well"
+              "text": "Made more firm, to which you do well"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "to give"
-            },
-            {
               "chord": "",
-              "text": "heed as"
-            },
-            {
-              "chord": "A",
-              "text": "to a"
-            },
-            {
-              "chord": "",
-              "text": "lamp"
+              "text": "To give heed as to a lamp"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "Em",
-              "text": "shining"
-            },
-            {
               "chord": "",
-              "text": "in a"
-            },
-            {
-              "chord": "G",
-              "text": "dark place,"
+              "text": "Shining in a dark place,"
             }
           ]
         }
@@ -89,19 +45,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "un"
-            },
-            {
-              "chord": "D",
-              "text": "til the"
-            },
-            {
-              "chord": "",
-              "text": "day"
-            },
-            {
-              "chord": "A",
-              "text": "dawns"
+              "text": "Until the day dawns"
             }
           ]
         },
@@ -109,31 +53,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "and the"
-            },
-            {
-              "chord": "Em",
-              "text": "morning"
-            },
-            {
-              "chord": "",
-              "text": "star"
+              "text": "And the morning star"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "rises"
-            },
-            {
-              "chord": "A7",
-              "text": "in your"
-            },
+              "chord": "",
+              "text": "Rises in your hearts."
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "hearts."
+              "text": "(repeat)"
             }
           ]
         }
@@ -144,15 +80,17 @@
   "metadata": {
     "category": "Scriptures for Singing",
     "time": "4/4",
-    "hymn_code": "533312221222321"
+    "hymn_code": "533312221222321",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0419_tune.midi"
   },
   "raw_sections": [
-    "And wehave the propheticword",
-    "made morefirm, towhich youdo well",
-    "to giveheed asto alamp",
-    "shiningin adark place,",
-    "until thedaydawns",
-    "and themorningstar",
-    "risesin yourhearts."
+    "And we have the prophetic word",
+    "Made more firm, to which you do well",
+    "To give heed as to a lamp",
+    "Shining in a dark place,",
+    "Until the day dawns",
+    "And the morning star",
+    "Rises in your hearts.",
+    "(repeat)"
   ]
 }

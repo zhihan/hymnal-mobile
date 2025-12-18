@@ -24,11 +24,11 @@
           "segments": [
             {
               "chord": "C",
-              "text": "喜 乐"
+              "text": "喜 樂"
             },
             {
               "chord": "",
-              "text": "何 丰 盈，"
+              "text": "何 豐 盈，"
             }
           ]
         },
@@ -52,7 +52,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "福 气"
+              "text": "福 氣"
             },
             {
               "chord": "G7",
@@ -60,7 +60,7 @@
             },
             {
               "chord": "",
-              "text": "备，"
+              "text": "備，"
             }
           ]
         },
@@ -72,7 +72,7 @@
             },
             {
               "chord": "",
-              "text": "何 神 圣，"
+              "text": "何 神 聖，"
             }
           ]
         },
@@ -126,7 +126,7 @@
             },
             {
               "chord": "",
-              "text": "稳 妥， 一 无 惊"
+              "text": "穩 妥， 一 無 驚"
             },
             {
               "chord": "D7",
@@ -364,10 +364,11 @@
     "category": "经历基督",
     "time": "4/4",
     "hymn_code": "3332122216",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0406_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/558",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/558",
+        "language": "en",
         "category": "h",
         "number": "558",
         "title": "E558"
@@ -376,13 +377,13 @@
   },
   "raw_sections": [
     "交 通何 甜美，",
-    "喜 乐何 丰 盈，",
+    "喜 樂何 豐 盈，",
     "安 息在 那 永 久 膀 臂中；",
-    "福 气何 全备，",
-    "平 安何 神 圣，",
+    "福 氣何 全備，",
+    "平 安何 神 聖，",
     "安 息在 那 永 久膀臂中。",
     "安 息！安 息！",
-    "平 安稳 妥， 一 无 惊恐；",
+    "平 安穩 妥， 一 無 驚恐；",
     "安息！安 息！",
     "安 息在 那 永 久膀臂中。",
     "今行这旅程，",

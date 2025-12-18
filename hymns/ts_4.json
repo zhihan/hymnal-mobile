@@ -16,7 +16,7 @@
             },
             {
               "chord": "G",
-              "text": "气，"
+              "text": "氣，"
             }
           ]
         },
@@ -24,11 +24,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "不 过 是"
+              "text": "不 過 是"
             },
             {
               "chord": "C",
-              "text": "转 眼"
+              "text": "轉 眼"
             },
             {
               "chord": "",
@@ -36,7 +36,7 @@
             },
             {
               "chord": "G",
-              "text": "间；"
+              "text": "間；"
             }
           ]
         },
@@ -84,7 +84,7 @@
             },
             {
               "chord": "",
-              "text": "虽"
+              "text": "雖"
             },
             {
               "chord": "Em",
@@ -116,7 +116,7 @@
             },
             {
               "chord": "D7",
-              "text": "欢"
+              "text": "歡"
             },
             {
               "chord": "G",
@@ -132,14 +132,15 @@
   "metadata": {
     "category": "赞美的话",
     "time": "3/4",
-    "hymn_code": "37215351765"
+    "hymn_code": "37215351765",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0004_tune.midi"
   },
   "raw_sections": [
-    "你的 怒气，",
-    "不 过 是转 眼之间；",
+    "你的 怒氣，",
+    "不 過 是轉 眼之間；",
     "你的 恩典，",
     "乃 是一生 之久。",
-    "一 宿虽然有 哭泣，",
-    "早 晨便必欢呼。"
+    "一 宿雖然有 哭泣，",
+    "早 晨便必歡呼。"
   ]
 }

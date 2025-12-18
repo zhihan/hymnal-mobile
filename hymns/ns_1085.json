@@ -7,32 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "Every"
-            },
-            {
               "chord": "",
-              "text": "day I would"
-            },
-            {
-              "chord": "G",
-              "text": "walk to"
-            },
-            {
-              "chord": "",
-              "text": "this"
-            },
-            {
-              "chord": "Asus4",
-              "text": "same, same"
-            },
-            {
-              "chord": "",
-              "text": "old"
-            },
-            {
-              "chord": "D",
-              "text": "well"
+              "text": "Every day I would walk to this same, same old well"
             }
           ]
         },
@@ -40,15 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Hoping all of my"
-            },
-            {
-              "chord": "G",
-              "text": "thirst it'd"
-            },
-            {
-              "chord": "A",
-              "text": "quell."
+              "text": "Hoping all of my thirst it’d quell."
             }
           ]
         },
@@ -56,19 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Yet each"
-            },
-            {
-              "chord": "Bm",
-              "text": "time I"
-            },
-            {
-              "chord": "",
-              "text": "would still"
-            },
-            {
-              "chord": "F♯m",
-              "text": "find"
+              "text": "Yet each time I would still find"
             }
           ]
         },
@@ -76,19 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Myself"
-            },
-            {
-              "chord": "G",
-              "text": "sore, wanting"
-            },
-            {
-              "chord": "",
-              "text": "but"
-            },
-            {
-              "chord": "D",
-              "text": "more—"
+              "text": "Myself sore, wanting but more—"
             }
           ]
         },
@@ -96,27 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "This"
-            },
-            {
-              "chord": "C♯♭",
-              "text": "water"
-            },
-            {
-              "chord": "",
-              "text": "did"
-            },
-            {
-              "chord": "Asus4",
-              "text": "not satis"
-            },
-            {
-              "chord": "A7",
-              "text": "fy."
-            },
-            {
-              "chord": "Asus4",
-              "text": "Give"
+              "text": "This water did not satisfy."
             }
           ]
         },
@@ -124,75 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "me"
-            },
-            {
-              "chord": "A7",
-              "text": "a"
-            },
-            {
-              "chord": "D",
-              "text": "drink! For"
-            },
-            {
-              "chord": "",
-              "text": "this"
-            },
-            {
-              "chord": "G",
-              "text": "water"
-            },
-            {
-              "chord": "",
-              "text": "I"
-            },
-            {
-              "chord": "F♯m",
-              "text": "would sing!"
-            },
-            {
-              "chord": "",
-              "text": "I am"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "Bm",
-              "text": "filled, my"
-            },
-            {
-              "chord": "",
-              "text": "thirst's"
-            },
-            {
-              "chord": "G",
-              "text": "stilled. My"
-            },
-            {
-              "chord": "",
-              "text": "heart"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "Asus4",
-              "text": "sings"
-            },
-            {
-              "chord": "A7",
-              "text": "a(gain:)"
-            },
-            {
-              "chord": "",
-              "text": "me a"
-            },
-            {
-              "chord": "D",
-              "text": "drink! There's"
+              "text": "Then I heard of a spring that would never run dry"
             }
           ]
         },
@@ -200,19 +56,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "a"
-            },
-            {
-              "chord": "G",
-              "text": "fount of"
-            },
-            {
-              "chord": "",
-              "text": "life"
-            },
-            {
-              "chord": "F♯m",
-              "text": "in me!"
+              "text": "(For contentment my heart did cry!):"
             }
           ]
         },
@@ -220,15 +64,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "All I"
-            },
-            {
-              "chord": "Bm",
-              "text": "know, it"
-            },
+              "text": "“Whoso drinks shall by no means"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
-              "text": "just"
+              "text": "Ever thirst; in him will burst"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "A fountain of life divine!”"
             }
           ]
         }
@@ -241,16 +93,64 @@
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "flows, Flowing"
-            },
+              "chord": "",
+              "text": "Give me a drink!"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "Asus4",
-              "text": "deep"
-            },
+              "chord": "",
+              "text": "For this water I would sing!"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "A7",
-              "text": "within."
+              "chord": "",
+              "text": "I am filled, my thirst’s stilled."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "My heart sings again:"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Give me a drink!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "There’s a fount of life in me!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "All I know, it just flows,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Flowing deep within."
             }
           ]
         }
@@ -579,20 +479,28 @@
   "metadata": {
     "category": "Experience of Christ",
     "time": "4/4",
-    "hymn_code": "333214432253"
+    "hymn_code": "333214432253",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1085_tune.midi"
   },
   "raw_sections": [
-    "Everyday I wouldwalk tothissame, sameoldwell",
-    "Hoping all of mythirst it'dquell.",
-    "Yet eachtime Iwould stillfind",
-    "Myselfsore, wantingbutmore—",
-    "Thiswaterdidnot satisfy.Give",
-    "meadrink! ForthiswaterIwould sing!I am",
-    "filled, mythirst'sstilled. Myheart",
-    "singsa(gain:)me adrink! There's",
-    "afount oflifein me!",
-    "All Iknow, itjust",
-    "flows, Flowingdeepwithin.",
+    "Every day I would walk to this same, same old well",
+    "Hoping all of my thirst it’d quell.",
+    "Yet each time I would still find",
+    "Myself sore, wanting but more—",
+    "This water did not satisfy.",
+    "Then I heard of a spring that would never run dry",
+    "(For contentment my heart did cry!):",
+    "“Whoso drinks shall by no means",
+    "Ever thirst; in him will burst",
+    "A fountain of life divine!”",
+    "Give me a drink!",
+    "For this water I would sing!",
+    "I am filled, my thirst’s stilled.",
+    "My heart sings again:",
+    "Give me a drink!",
+    "There’s a fount of life in me!",
+    "All I know, it just flows,",
+    "Flowing deep within.",
     "I discovered that spring was the Lord Jesus Christ—",
     "He died for me and He’s alive!",
     "Of my sins I was forgiv’n,",

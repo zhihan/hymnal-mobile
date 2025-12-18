@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "我 爱"
+              "text": "我 愛"
             },
             {
               "chord": "",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "",
-              "text": "稣，"
+              "text": "穌，"
             }
           ]
         },
@@ -32,7 +32,7 @@
             },
             {
               "chord": "",
-              "text": "赐 生"
+              "text": "賜 生"
             },
             {
               "chord": "D",
@@ -40,7 +40,7 @@
             },
             {
               "chord": "",
-              "text": "灵；"
+              "text": "靈；"
             }
           ]
         },
@@ -52,11 +52,11 @@
             },
             {
               "chord": "",
-              "text": "与 祂"
+              "text": "與 祂"
             },
             {
               "chord": "G",
-              "text": "合 为"
+              "text": "合 為"
             },
             {
               "chord": "Em",
@@ -68,11 +68,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "二 灵"
+              "text": "二 靈"
             },
             {
               "chord": "A7",
-              "text": "成 为"
+              "text": "成 為"
             },
             {
               "chord": "",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "D",
-              "text": "灵！"
+              "text": "靈！"
             }
           ]
         }
@@ -92,12 +92,13 @@
   "metadata": {
     "category": "灵与生命",
     "time": "4/4",
-    "hymn_code": "33343224445433"
+    "hymn_code": "33343224445433",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0106_tune.midi"
   },
   "raw_sections": [
-    "我 爱我 的主 耶稣，",
-    "祂 是赐 生命 的灵；",
-    "我 已与 祂合 为一，",
-    "二 灵成 为一灵！"
+    "我 愛我 的主 耶穌，",
+    "祂 是賜 生命 的靈；",
+    "我 已與 祂合 為一，",
+    "二 靈成 為一靈！"
   ]
 }

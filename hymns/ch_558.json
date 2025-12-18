@@ -16,11 +16,11 @@
             },
             {
               "chord": "C",
-              "text": "经 裂"
+              "text": "經 裂"
             },
             {
               "chord": "G",
-              "text": "开，"
+              "text": "開，"
             }
           ]
         },
@@ -64,7 +64,7 @@
             },
             {
               "chord": "C",
-              "text": "来，"
+              "text": "來，"
             }
           ]
         },
@@ -325,10 +325,11 @@
     "category": "祷告",
     "time": "3/4",
     "hymn_code": "12353143671322",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0558_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/771",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/771",
+        "language": "en",
         "category": "h",
         "number": "771",
         "title": "E771"
@@ -336,9 +337,9 @@
     ]
   },
   "raw_sections": [
-    "哦 主，幔 子 已经 裂开，",
+    "哦 主，幔 子 已經 裂開，",
     "新 活之路 已通；",
-    "我 能藉血 坦然 前来，",
+    "我 能藉血 坦然 前來，",
     "到你 面光 之中。",
     "借着你血赎罪功效，",
     "进入你至圣所；",

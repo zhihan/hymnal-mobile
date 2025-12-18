@@ -36,7 +36,7 @@
             },
             {
               "chord": "D",
-              "text": "的 软"
+              "text": "的 軟"
             },
             {
               "chord": "A",
@@ -56,7 +56,7 @@
             },
             {
               "chord": "E7",
-              "text": "的 无"
+              "text": "的 無"
             },
             {
               "chord": "A",
@@ -72,11 +72,11 @@
             },
             {
               "chord": "D7",
-              "text": "话"
+              "text": "話"
             },
             {
               "chord": "G",
-              "text": "说： 我"
+              "text": "說： 我"
             },
             {
               "chord": "A",
@@ -253,10 +253,11 @@
     "category": "试炼中的安慰",
     "time": "3/4",
     "hymn_code": "3335122355545342",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0511_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8511",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8511",
+        "language": "en",
         "category": "h",
         "number": "8511",
         "title": "E8511"
@@ -265,9 +266,9 @@
   },
   "raw_sections": [
     "主 已知 道 你的 挫折！",
-    "主 已 知道 你的 软弱！",
-    "主 全 知道 你的 无告！",
-    "主 的话说： 我已知道。",
+    "主 已 知道 你的 軟弱！",
+    "主 全 知道 你的 無告！",
+    "主 的話說： 我已知道。",
     "祂知你能受甚试炼，",
     "祂知你是需何恩典，",
     "祂早知你所有遭遇，",

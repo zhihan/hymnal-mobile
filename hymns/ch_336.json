@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "G",
-              "text": "圣 洁、"
+              "text": "聖 潔、"
             },
             {
               "chord": "Em",
-              "text": "欢 乐，"
+              "text": "歡 樂，"
             },
             {
               "chord": "D",
@@ -20,7 +20,7 @@
             },
             {
               "chord": "G",
-              "text": "分 别！"
+              "text": "分 別！"
             }
           ]
         },
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "脱 开"
+              "text": "脫 開"
             },
             {
               "chord": "Em",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "Am",
-              "text": "所 爱"
+              "text": "所 愛"
             },
             {
               "chord": "D7",
@@ -88,7 +88,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "单 单"
+              "text": "單 單"
             },
             {
               "chord": "C",
@@ -112,7 +112,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "单 单"
+              "text": "單 單"
             },
             {
               "chord": "C",
@@ -361,10 +361,11 @@
     "category": "奉献",
     "time": "3/4",
     "hymn_code": "111171221",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0336_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/440",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/440",
+        "language": "en",
         "category": "h",
         "number": "440",
         "title": "E440"
@@ -372,12 +373,12 @@
     ]
   },
   "raw_sections": [
-    "圣 洁、欢 乐，何 等分 别！",
+    "聖 潔、歡 樂，何 等分 別！",
     "惟 有如 此能 蒙福；",
-    "脱 开主 外一 切事 物，",
-    "惟 主是 我所 爱所 慕，",
-    "单 单安 息在基督，",
-    "单 单安息在基督。",
+    "脫 開主 外一 切事 物，",
+    "惟 主是 我所 愛所 慕，",
+    "單 單安 息在基督，",
+    "單 單安息在基督。",
     "基督呼召，要我分别，",
     "祂已带路如此行；",
     "祂的生活将此说明，",

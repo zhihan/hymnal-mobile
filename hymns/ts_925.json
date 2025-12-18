@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "永 远"
+              "text": "永 遠"
             },
             {
               "chord": "",
@@ -16,7 +16,7 @@
             },
             {
               "chord": "A7",
-              "text": "荣 耀"
+              "text": "榮 耀"
             },
             {
               "chord": "D",
@@ -28,11 +28,11 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "已 过"
+              "text": "已 過"
             },
             {
               "chord": "",
-              "text": "永 远"
+              "text": "永 遠"
             },
             {
               "chord": "A7",
@@ -48,15 +48,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "跨 越 时 间"
+              "text": "跨 越 時 間"
             },
             {
               "chord": "A",
-              "text": "作 为"
+              "text": "作 為"
             },
             {
               "chord": "D",
-              "text": "桥 梁，"
+              "text": "橋 梁，"
             }
           ]
         },
@@ -64,15 +64,15 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "将 来"
+              "text": "將 來"
             },
             {
               "chord": "",
-              "text": "永 远"
+              "text": "永 遠"
             },
             {
               "chord": "A7",
-              "text": "必 达"
+              "text": "必 達"
             },
             {
               "chord": "D",
@@ -84,11 +84,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "漫 长 岁 月 乃 是"
+              "text": "漫 長 歲 月 乃 是"
             },
             {
               "chord": "D7",
-              "text": "过 程，"
+              "text": "過 程，"
             }
           ]
         },
@@ -96,7 +96,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "全 为"
+              "text": "全 為"
             },
             {
               "chord": "D",
@@ -116,7 +116,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
@@ -124,7 +124,7 @@
             },
             {
               "chord": "A7",
-              "text": "不 过"
+              "text": "不 過"
             },
             {
               "chord": "D",
@@ -136,7 +136,7 @@
           "segments": [
             {
               "chord": "Em",
-              "text": "无 终"
+              "text": "無 終"
             },
             {
               "chord": "",
@@ -144,7 +144,7 @@
             },
             {
               "chord": "A7",
-              "text": "为 目"
+              "text": "為 目"
             },
             {
               "chord": "D",
@@ -511,10 +511,11 @@
     "category": "盼望与豫备",
     "time": "2/4",
     "hymn_code": "565354432613543",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0925_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/1325",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/1325",
+        "language": "en",
         "category": "h",
         "number": "1325",
         "title": "E1325"
@@ -522,14 +523,14 @@
     ]
   },
   "raw_sections": [
-    "永 远之 神荣 耀定 旨，",
-    "已 过永 远早 立定，",
-    "跨 越 时 间作 为桥 梁，",
-    "将 来永 远必 达成。",
-    "漫 长 岁 月 乃 是过 程，",
-    "全 为成 功祂 心意；",
-    "我 们居 此不 过客 旅，",
-    "无 终永 世为 目的。",
+    "永 遠之 神榮 耀定 旨，",
+    "已 過永 遠早 立定，",
+    "跨 越 時 間作 為橋 梁，",
+    "將 來永 遠必 達成。",
+    "漫 長 歲 月 乃 是過 程，",
+    "全 為成 功祂 心意；",
+    "我 們居 此不 過客 旅，",
+    "無 終永 世為 目的。",
     "一个新人是神所要，",
     "照祂计画被建造；",
     "我们在此相联相调─",

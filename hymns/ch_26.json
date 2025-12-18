@@ -8,11 +8,11 @@
           "segments": [
             {
               "chord": "D",
-              "text": "你 爱"
+              "text": "你 愛"
             },
             {
               "chord": "",
-              "text": "所 给 虽"
+              "text": "所 給 雖"
             },
             {
               "chord": "A",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "恩 赐 众"
+              "text": "恩 賜 眾"
             },
             {
               "chord": "E7",
@@ -52,11 +52,11 @@
             },
             {
               "chord": "",
-              "text": "上， 还 未 见"
+              "text": "上， 還 未 見"
             },
             {
               "chord": "A",
-              "text": "过"
+              "text": "過"
             }
           ]
         },
@@ -68,7 +68,7 @@
             },
             {
               "chord": "D",
-              "text": "么 比"
+              "text": "麼 比"
             },
             {
               "chord": "A",
@@ -321,10 +321,11 @@
     "category": "敬拜父",
     "time": "3/4",
     "hymn_code": "33543212671",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0026_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/38",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/38",
+        "language": "en",
         "category": "h",
         "number": "38",
         "title": "E38"
@@ -332,10 +333,10 @@
     ]
   },
   "raw_sections": [
-    "你 爱所 给 虽然 甚多，",
-    "恩 赐 众善 者哪！",
-    "但在 天上， 还 未 见过",
-    "甚么 比血更大。",
+    "你 愛所 給 雖然 甚多，",
+    "恩 賜 眾善 者哪！",
+    "但在 天上， 還 未 見過",
+    "甚麼 比血更大。",
     "就是我的信心对血，",
     "也是你爱所给；",
     "不然，恩赐虽合所缺，",

@@ -40,11 +40,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "像 我 这"
+              "text": "像 我 這"
             },
             {
               "chord": "G",
-              "text": "样 的"
+              "text": "樣 的"
             },
             {
               "chord": "F♯m",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "A7",
-              "text": "救 归"
+              "text": "救 歸"
             },
             {
               "chord": "D",
@@ -84,7 +84,7 @@
             },
             {
               "chord": "A7",
-              "text": "人 贪"
+              "text": "人 貪"
             },
             {
               "chord": "D",
@@ -100,7 +100,7 @@
             },
             {
               "chord": "G",
-              "text": "里 想"
+              "text": "裡 想"
             },
             {
               "chord": "",
@@ -116,15 +116,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "为 何 无"
+              "text": "為 何 無"
             },
             {
               "chord": "A",
-              "text": "端 来"
+              "text": "端 來"
             },
             {
               "chord": "Bm",
-              "text": "寻"
+              "text": "尋"
             },
             {
               "chord": "D",
@@ -140,11 +140,11 @@
             },
             {
               "chord": "Em",
-              "text": "爱 把"
+              "text": "愛 把"
             },
             {
               "chord": "A7",
-              "text": "我 围"
+              "text": "我 圍"
             },
             {
               "chord": "D",
@@ -1001,10 +1001,11 @@
     "category": "赞美主",
     "time": "4/4",
     "hymn_code": "5321651122123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0128_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/8128",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/8128",
+        "language": "en",
         "category": "h",
         "number": "8128",
         "title": "E8128"
@@ -1014,12 +1015,12 @@
   "raw_sections": [
     "我 今俯 伏 主 面 前，",
     "我希 奇主 恩典！",
-    "像 我 这样 的罪魁，",
-    "主竟 拯救 归回！",
-    "我 本 罪人 贪世 福，",
-    "那里 想到 要主；",
-    "为 何 无端 来寻我，",
-    "用爱 把我 围著。",
+    "像 我 這樣 的罪魁，",
+    "主竟 拯救 歸回！",
+    "我 本 罪人 貪世 福，",
+    "那裡 想到 要主；",
+    "為 何 無端 來尋我，",
+    "用愛 把我 圍著。",
     "当时我心因罪恶，",
     "纠缠得真难过，",
     "但我并未求解脱，",

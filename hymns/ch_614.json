@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "D",
-              "text": "灵 能"
+              "text": "靈 能"
             },
             {
               "chord": "",
@@ -28,7 +28,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "灵 能"
+              "text": "靈 能"
             },
             {
               "chord": "",
@@ -60,7 +60,7 @@
           "segments": [
             {
               "chord": "E",
-              "text": "灵 能"
+              "text": "靈 能"
             },
             {
               "chord": "",
@@ -76,7 +76,7 @@
           "segments": [
             {
               "chord": "B7",
-              "text": "甚 愿"
+              "text": "甚 願"
             },
             {
               "chord": "",
@@ -100,15 +100,15 @@
             },
             {
               "chord": "",
-              "text": "铁"
+              "text": "鐵"
             },
             {
               "chord": "D7",
-              "text": "壁 铜"
+              "text": "壁 銅"
             },
             {
               "chord": "",
-              "text": "墙，"
+              "text": "牆，"
             }
           ]
         },
@@ -116,7 +116,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "灵 能"
+              "text": "靈 能"
             },
             {
               "chord": "",
@@ -128,7 +128,7 @@
             },
             {
               "chord": "",
-              "text": "畅，"
+              "text": "暢，"
             }
           ]
         },
@@ -136,7 +136,7 @@
           "segments": [
             {
               "chord": "A",
-              "text": "灵 能"
+              "text": "靈 能"
             },
             {
               "chord": "A7",
@@ -507,10 +507,11 @@
     "category": "召会",
     "time": "3/4",
     "hymn_code": "3543221143",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0614_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/846",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/846",
+        "language": "en",
         "category": "h",
         "number": "846",
         "title": "E846"
@@ -518,14 +519,14 @@
     ]
   },
   "raw_sections": [
-    "灵 能交流， 恩主，",
-    "灵 能交流！",
+    "靈 能交流， 恩主，",
+    "靈 能交流！",
     "我 今 切求， 恩主，",
-    "灵 能交流！",
-    "甚 愿一反 已往，",
-    "推 倒铁壁 铜墙，",
-    "灵 能交流 通畅，",
-    "灵 能交流！",
+    "靈 能交流！",
+    "甚 願一反 已往，",
+    "推 倒鐵壁 銅牆，",
+    "靈 能交流 通暢，",
+    "靈 能交流！",
     "灵能交流，恩主，",
     "灵能交流！",
     "我今恳求，恩主，",

@@ -7,96 +7,8 @@
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "In nothing"
-            },
-            {
               "chord": "",
-              "text": "be"
-            },
-            {
-              "chord": "G",
-              "text": "anxious,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D",
-              "text": "But in"
-            },
-            {
-              "chord": "Bm",
-              "text": "every"
-            },
-            {
-              "chord": "E7",
-              "text": "thing,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D",
-              "text": "By prayer"
-            },
-            {
-              "chord": "",
-              "text": "and pe"
-            },
-            {
-              "chord": "G",
-              "text": "tition"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "Em7",
-              "text": "With thanksgiv"
-            },
-            {
-              "chord": "A7",
-              "text": "ing,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D",
-              "text": "Let"
-            },
-            {
-              "chord": "D7",
-              "text": "your requests,"
-            },
-            {
-              "chord": "G",
-              "text": "let"
-            },
-            {
-              "chord": "Gm",
-              "text": "your requests"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D",
-              "text": "Be made"
-            },
-            {
-              "chord": "A7",
-              "text": "known to"
-            },
-            {
-              "chord": "D",
-              "text": "God;"
+              "text": "In nothing be anxious,"
             }
           ]
         },
@@ -104,15 +16,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "God;"
-            },
-            {
-              "chord": "D7",
-              "text": "And the"
-            },
-            {
-              "chord": "G",
-              "text": "peace"
+              "text": "But in everything,"
             }
           ]
         },
@@ -120,31 +24,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "of God, Which"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D",
-              "text": "surpasses"
-            },
-            {
-              "chord": "A",
-              "text": "Every"
-            },
-            {
-              "chord": "",
-              "text": "man's under"
-            },
-            {
-              "chord": "D",
-              "text": "stand"
-            },
-            {
-              "chord": "D7",
-              "text": "ing,"
+              "text": "By prayer and petition"
             }
           ]
         },
@@ -152,11 +32,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Will"
-            },
-            {
-              "chord": "G",
-              "text": "guard"
+              "text": "With thanksgiving,"
             }
           ]
         },
@@ -164,31 +40,111 @@
           "segments": [
             {
               "chord": "",
-              "text": "your hearts Will"
-            },
-            {
-              "chord": "D",
-              "text": "guard your"
-            },
-            {
-              "chord": "",
-              "text": "thoughts"
+              "text": "Let your requests, let your requests"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "Em",
-              "text": "In"
-            },
+              "chord": "",
+              "text": "Be made known to God;"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "A7",
-              "text": "Christ Je"
-            },
+              "chord": "",
+              "text": "In nothing be anxious,"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "D",
-              "text": "sus."
+              "chord": "",
+              "text": "But in everything,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "By prayer and petition"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "With thanksgiving,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Let your requests, let your requests"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Be made known to God;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And the peace of God,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Which surpasses"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Every man’s understanding,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Will guard your hearts"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Will guard your thoughts"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In Christ Jesus."
             }
           ]
         }
@@ -200,20 +156,27 @@
   "metadata": {
     "category": "Scriptures for Singing",
     "time": "4/4",
-    "hymn_code": "332162333212"
+    "hymn_code": "332162333212",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0142_tune.midi"
   },
   "raw_sections": [
-    "In nothingbeanxious,",
-    "But ineverything,",
-    "By prayerand petition",
-    "With thanksgiving,",
-    "Letyour requests,letyour requests",
-    "Be madeknown toGod;",
-    "God;And thepeace",
-    "of God, Which",
-    "surpassesEveryman's understanding,",
-    "Willguard",
-    "your hearts Willguard yourthoughts",
-    "InChrist Jesus."
+    "In nothing be anxious,",
+    "But in everything,",
+    "By prayer and petition",
+    "With thanksgiving,",
+    "Let your requests, let your requests",
+    "Be made known to God;",
+    "In nothing be anxious,",
+    "But in everything,",
+    "By prayer and petition",
+    "With thanksgiving,",
+    "Let your requests, let your requests",
+    "Be made known to God;",
+    "And the peace of God,",
+    "Which surpasses",
+    "Every man’s understanding,",
+    "Will guard your hearts",
+    "Will guard your thoughts",
+    "In Christ Jesus."
   ]
 }

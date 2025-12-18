@@ -20,7 +20,7 @@
             },
             {
               "chord": "G",
-              "text": "耶 稣！"
+              "text": "耶 穌！"
             }
           ]
         },
@@ -28,15 +28,15 @@
           "segments": [
             {
               "chord": "D",
-              "text": "担 我"
+              "text": "擔 我"
             },
             {
               "chord": "",
-              "text": "罪 孽 负 我"
+              "text": "罪 孽 負 我"
             },
             {
               "chord": "A",
-              "text": "忧；"
+              "text": "憂；"
             }
           ]
         },
@@ -48,15 +48,15 @@
             },
             {
               "chord": "D7",
-              "text": "权 利，"
+              "text": "權 利，"
             },
             {
               "chord": "",
-              "text": "能 将"
+              "text": "能 將"
             },
             {
               "chord": "G",
-              "text": "难 处"
+              "text": "難 處"
             }
           ]
         },
@@ -88,11 +88,11 @@
             },
             {
               "chord": "",
-              "text": "平 安 屡 屡"
+              "text": "平 安 屢 屢"
             },
             {
               "chord": "D",
-              "text": "丧 失，"
+              "text": "喪 失，"
             }
           ]
         },
@@ -108,7 +108,7 @@
             },
             {
               "chord": "",
-              "text": "无 须"
+              "text": "無 須"
             },
             {
               "chord": "A",
@@ -120,19 +120,19 @@
           "segments": [
             {
               "chord": "D",
-              "text": "无 非"
+              "text": "無 非"
             },
             {
               "chord": "D7",
-              "text": "我 们"
+              "text": "我 們"
             },
             {
               "chord": "",
-              "text": "未 将"
+              "text": "未 將"
             },
             {
               "chord": "G",
-              "text": "万 事"
+              "text": "萬 事"
             }
           ]
         },
@@ -305,10 +305,11 @@
     "category": "祷告",
     "time": "4/4",
     "hymn_code": "556531165131532",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0571_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/789",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/789",
+        "language": "en",
         "category": "h",
         "number": "789",
         "title": "E789"
@@ -316,13 +317,13 @@
     ]
   },
   "raw_sections": [
-    "何 等朋 友，我 主耶 稣！",
-    "担 我罪 孽 负 我忧；",
-    "何 等权 利，能 将难 处",
+    "何 等朋 友，我 主耶 穌！",
+    "擔 我罪 孽 負 我憂；",
+    "何 等權 利，能 將難 處",
     "到 主面 前去 祈求。",
-    "多 少平 安 屡 屡丧 失，",
-    "多 少痛 苦无 须受；",
-    "无 非我 们未 将万 事",
+    "多 少平 安 屢 屢喪 失，",
+    "多 少痛 苦無 須受；",
+    "無 非我 們未 將萬 事",
     "到 主面 前去 祈求。",
     "我们有否苦难、艰辛？",
     "有否试探和引诱？",

@@ -12,15 +12,15 @@
             },
             {
               "chord": "",
-              "text": "宝 贵 你"
+              "text": "寶 貴 你"
             },
             {
               "chord": "A",
-              "text": "的 蓝"
+              "text": "的 藍"
             },
             {
               "chord": "D",
-              "text": "图，"
+              "text": "圖，"
             }
           ]
         },
@@ -40,7 +40,7 @@
             },
             {
               "chord": "",
-              "text": "的 帐"
+              "text": "的 帳"
             },
             {
               "chord": "A",
@@ -52,7 +52,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "说"
+              "text": "說"
             },
             {
               "chord": "D",
@@ -80,7 +80,7 @@
             },
             {
               "chord": "G",
-              "text": "何 显"
+              "text": "何 顯"
             },
             {
               "chord": "D",
@@ -92,7 +92,7 @@
             },
             {
               "chord": "A7",
-              "text": "荣"
+              "text": "榮"
             },
             {
               "chord": "D",
@@ -451,10 +451,11 @@
     "category": "召会",
     "time": "3/4",
     "hymn_code": "5512312123",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0609_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/cn/hymn/h/838",
-        "language": "cn",
+        "url": "https://www.hymnal.net/en/hymn/h/838",
+        "language": "en",
         "category": "h",
         "number": "838",
         "title": "E838"
@@ -462,10 +463,10 @@
     ]
   },
   "raw_sections": [
-    "主， 我宝 贵 你的 蓝图，",
-    "就是 你所 造的 帐幕；",
-    "说出 你是 如何 建造，",
-    "如何 显出 你的荣耀。",
+    "主， 我寶 貴 你的 藍圖，",
+    "就是 你所 造的 帳幕；",
+    "說出 你是 如何 建造，",
+    "如何 顯出 你的榮耀。",
     "约柜乃是帐幕中心，",
     "帐幕是给约柜藏身；",
     "十条诫命放在约柜，",

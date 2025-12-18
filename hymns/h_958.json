@@ -605,10 +605,11 @@
     "category": "Hope of Glory",
     "time": "4/2",
     "hymn_code": "712323653216",
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0958_tune.midi",
     "related": [
       {
-        "url": "https://www.hymnal.net/en/hymn/ch/758",
-        "language": "en",
+        "url": "https://www.hymnal.net/cn/hymn/ch/758",
+        "language": "cn",
         "category": "ch",
         "number": "758",
         "title": "C758"
