@@ -4,6 +4,7 @@ import 'package:share_plus/share_plus.dart';
 import 'package:go_router/go_router.dart';
 import '../models/hymn_song.dart';
 import '../services/hymn_loader_service.dart';
+import '../services/midi_player_service.dart';
 import '../widgets/hymn_display.dart';
 import '../providers/song_list_provider.dart';
 import 'category_detail_screen.dart';
@@ -34,6 +35,11 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   int? _nextHymnNumber;
   int? _previousHymnNumber;
   bool _showLanguageNavigation = false;
+
+  // MIDI player
+  final MidiPlayerService _midiPlayer = MidiPlayerService();
+  bool _isMidiLoaded = false;
+  String? _currentMidiUrl;
 
   // PageView state
   late PageController _pageController;
@@ -90,6 +96,7 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   @override
   void dispose() {
     _pageController.dispose();
+    _midiPlayer.dispose();
     super.dispose();
   }
 
@@ -132,7 +139,15 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
         _currentHymnNumber = hymnNumber;
         _isLoading = false;
         _transposeOffset = 0; // Reset transpose when loading new hymn
+        _isMidiLoaded = false; // Reset MIDI loaded state
+        _currentMidiUrl = null; // Reset MIDI URL
       });
+
+      // Stop any currently playing MIDI
+      await _midiPlayer.stop();
+
+      // Load MIDI if available
+      await _loadMidiIfAvailable();
 
       // Preload adjacent hymns in the background
       _preloadAdjacentHymns(hymnNumber);
@@ -177,6 +192,44 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     }
   }
 
+  Future<void> _loadMidiIfAvailable() async {
+    if (_currentHymn?.metadata == null) {
+      setState(() {
+        _isMidiLoaded = false;
+        _currentMidiUrl = null;
+      });
+      return;
+    }
+
+    final midiUrl = _currentHymn!.metadata!['midi_tune_url'] as String?;
+    if (midiUrl == null || midiUrl.isEmpty) {
+      setState(() {
+        _isMidiLoaded = false;
+        _currentMidiUrl = null;
+      });
+      return;
+    }
+
+    // Store the URL to show the button
+    setState(() {
+      _currentMidiUrl = midiUrl;
+    });
+
+    try {
+      await _midiPlayer.load(midiUrl, transposeOffset: _transposeOffset);
+      setState(() {
+        _isMidiLoaded = true;
+      });
+      print('MIDI loaded successfully: $midiUrl');
+    } catch (e) {
+      setState(() {
+        _isMidiLoaded = false;
+      });
+      print('Failed to load MIDI: $e');
+      // Keep button visible even if loading fails - user can still try to play
+    }
+  }
+
   void _onPageChanged(int pageIndex) {
     if (pageIndex >= 0 && pageIndex < _availableHymnNumbers.length) {
       final hymnNumber = _availableHymnNumbers[pageIndex];
@@ -209,18 +262,27 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     setState(() {
       _transposeOffset++;
     });
+    _updateMidiTransposition();
   }
 
   void _transposeDown() {
     setState(() {
       _transposeOffset--;
     });
+    _updateMidiTransposition();
   }
 
   void _resetTranspose() {
     setState(() {
       _transposeOffset = 0;
     });
+    _updateMidiTransposition();
+  }
+
+  void _updateMidiTransposition() {
+    if (_isMidiLoaded) {
+      _midiPlayer.updateTransposition(_transposeOffset);
+    }
   }
 
   List<Map<String, dynamic>> _getRelatedHymns() {
@@ -689,6 +751,19 @@ $deepLink
                   onPressed: _transposeOffset != 0 ? _resetTranspose : null,
                   child: const Text('Reset'),
                 ),
+                // MIDI play/pause button
+                if (_currentMidiUrl != null) ...[
+                  const SizedBox(width: 16),
+                  IconButton(
+                    icon: Icon(_midiPlayer.isPlaying ? Icons.pause_circle : Icons.play_circle),
+                    onPressed: () async {
+                      await _midiPlayer.togglePlayPause();
+                      setState(() {}); // Update UI after toggle
+                    },
+                    tooltip: _midiPlayer.isPlaying ? 'Pause MIDI' : 'Play MIDI',
+                    iconSize: 32,
+                  ),
+                ],
               ],
             ),
           ),
