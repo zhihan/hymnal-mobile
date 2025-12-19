@@ -243,7 +243,10 @@
     "category": "Longings",
     "time": "3/4",
     "hymn_code": "11216561123",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0345_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0345_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "Be Thoumyvision,OLord ofmyheart;",

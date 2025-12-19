@@ -313,7 +313,10 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "35535514",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0612_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0612_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "I'm notof this world anymore.",

@@ -275,7 +275,10 @@
     "category": "羡慕",
     "time": "6/4",
     "hymn_code": "54565424347653",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0323_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0323_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "願 光今天 照亮， 主，",

@@ -388,6 +388,9 @@
     "time": "3/4",
     "hymn_code": "123124313346532",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0759_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1,
     "related": [
       {
         "url": "https://www.hymnal.net/en/hymn/h/1281",

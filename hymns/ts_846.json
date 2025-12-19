@@ -339,7 +339,10 @@
     "category": "事奉与福音",
     "time": "4/4",
     "hymn_code": "515513211162165",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0846_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0846_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "跟 隨我主 走一 程，",

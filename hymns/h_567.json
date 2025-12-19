@@ -283,7 +283,10 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "5334721544342",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0567_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0567_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "OLamb ofGod, stillkeep me",

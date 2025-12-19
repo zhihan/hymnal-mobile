@@ -299,7 +299,10 @@
     "category": "Comfort in Trials",
     "time": "4/4",
     "hymn_code": "15312171234512321",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0675_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0675_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "God movesin a mysteriousway",

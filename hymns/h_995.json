@@ -403,7 +403,10 @@
     "category": "Gospel",
     "time": "6/8",
     "hymn_code": "33343321355543",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0995_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0995_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "There isa green hillfar away,",

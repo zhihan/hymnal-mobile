@@ -431,7 +431,10 @@
     "category": "Praise of the Lord",
     "time": "4/4",
     "hymn_code": "33453655332",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0619_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0619_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3
   },
   "raw_sections": [
     "O MorningStar! Arise ereday is broken,",

@@ -397,7 +397,10 @@
     "category": "享受基督",
     "time": "4/4",
     "hymn_code": "111565512321",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0248_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0248_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "興 起！我 魂， 興起！",

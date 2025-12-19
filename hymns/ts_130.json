@@ -141,7 +141,10 @@
     "category": "灵与生命",
     "time": "4/4",
     "hymn_code": "5113321252244271",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0130_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0130_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "主 耶穌， 作 了 我 人位；",

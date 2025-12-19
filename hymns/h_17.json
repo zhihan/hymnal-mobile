@@ -404,6 +404,9 @@
     "time": "4/4",
     "hymn_code": "55535556646",
     "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0017_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3,
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ch/12",

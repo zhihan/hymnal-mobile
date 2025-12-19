@@ -249,7 +249,10 @@
     "category": "Experience of Christ",
     "time": "3/4",
     "hymn_code": "33543214332",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0588_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0588_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "O blessedlife— the heart atrest",

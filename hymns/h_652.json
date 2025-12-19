@@ -506,7 +506,10 @@
     "category": "Encouragement",
     "time": "3/4",
     "hymn_code": "55311765351321712",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0652_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0652_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3
   },
   "raw_sections": [
     "O troubledsoul, beneath therod",

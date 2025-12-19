@@ -169,7 +169,10 @@
     "category": "赞美的话",
     "time": "4/4",
     "hymn_code": "5433551765365432",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0012_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0012_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "看 哪，耶 和華 僕人，",

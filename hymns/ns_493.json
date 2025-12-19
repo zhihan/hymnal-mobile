@@ -360,7 +360,10 @@
   "metadata": {
     "category": "Longings",
     "time": "4/4",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0493_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0493_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "To livealife",

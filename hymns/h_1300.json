@@ -379,7 +379,10 @@
     "category": "The Kingdom",
     "time": "3/4",
     "hymn_code": "5513321621651312",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1300_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1300_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "The Lordhas been revealed inus,",

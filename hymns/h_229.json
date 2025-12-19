@@ -271,7 +271,10 @@
     "category": "Praise of the Lord",
     "time": "3/4",
     "hymn_code": "5651326765113262",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0229_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0229_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "Gatheredround Thyself, LordJesus,",

@@ -147,7 +147,10 @@
     "category": "Scriptures for Singing",
     "time": "4/4",
     "hymn_code": "55156511565111156576767",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0284_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0284_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "Havingbeen regenerated",

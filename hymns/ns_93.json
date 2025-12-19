@@ -279,7 +279,10 @@
     "category": "Gospel",
     "time": "4/4",
     "hymn_code": "512333212344432",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0093_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0093_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "I've gota story you should know,",

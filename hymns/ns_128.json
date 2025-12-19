@@ -193,7 +193,10 @@
     "category": "Longings",
     "time": "4/4",
     "hymn_code": "13564243",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0128_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0128_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "Draw me,dearLord,with Yourbeauty,",

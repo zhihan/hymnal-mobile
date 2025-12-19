@@ -283,7 +283,10 @@
     "category": "Experience of Christ",
     "time": "3/4",
     "hymn_code": "71172116117713432",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0851_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0851_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "Dig upthewells myfathermade,",

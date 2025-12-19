@@ -523,7 +523,10 @@
     "category": "The Word of God",
     "time": "4/4",
     "hymn_code": "15532551117665",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0252_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0252_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "God hascalled usintothefellowshipof HisSon,",

@@ -251,7 +251,10 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "3321565543",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0879_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0879_tune.midi",
+    "current_key": "E Major",
+    "original_key": "D Major",
+    "capo": 2
   },
   "raw_sections": [
     "Abide inme,Lord,deep within myheart,",

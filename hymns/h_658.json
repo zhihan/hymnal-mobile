@@ -287,7 +287,10 @@
     "category": "Encouragement",
     "time": "3/4",
     "hymn_code": "55554443511127",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0658_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0658_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "Walk inthe light, andthou shaltknow",

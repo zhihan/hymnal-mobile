@@ -596,7 +596,10 @@
     "category": "The Church",
     "time": "2/4",
     "hymn_code": "55335522331121",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0904_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0904_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "The visionthat theLord hasgiv'n",

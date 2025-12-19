@@ -426,7 +426,10 @@
     "category": "享受基督",
     "time": "3/4",
     "hymn_code": "5135332234442171",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0206_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0206_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "我 們同 站 在 守 望臺，",

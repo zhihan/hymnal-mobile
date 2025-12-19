@@ -726,6 +726,9 @@
     "time": "4/4",
     "hymn_code": "33355433235321",
     "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1119_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3,
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ts/110",

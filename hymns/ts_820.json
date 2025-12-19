@@ -309,7 +309,10 @@
     "category": "事奉与福音",
     "time": "4/4",
     "hymn_code": "32171213456535",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0820_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0820_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "哦！你 今在 何 處，",

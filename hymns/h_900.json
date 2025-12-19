@@ -496,7 +496,10 @@
     "category": "Service",
     "time": "6/8",
     "hymn_code": "54317765656532",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0900_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0900_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "Oh, tobe nothing,nothing!",

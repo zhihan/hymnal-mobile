@@ -419,7 +419,10 @@
     "category": "Assurance and Joy of Salvation",
     "time": "3/4",
     "hymn_code": "565565431256551765",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0561_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0561_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "To myLordI willsing,for I'vereceived",

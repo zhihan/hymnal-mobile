@@ -384,7 +384,10 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "32113545656534",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0283_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0283_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "I amcrucified withChrist",

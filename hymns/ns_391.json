@@ -259,7 +259,10 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "3456535173111765565",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0391_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0391_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "Oh howsweet it is just toknow myChrist!",

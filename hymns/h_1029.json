@@ -646,7 +646,10 @@
     "category": "Gospel",
     "time": "4/4",
     "hymn_code": "512333243",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1029_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1029_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "Christ callingyet! shallI nothear?",

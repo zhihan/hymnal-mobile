@@ -293,7 +293,10 @@
     "category": "Encouragement",
     "time": "6/4",
     "hymn_code": "33334443",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0667_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0667_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "Seek yefirst, notearthlypleasure,",

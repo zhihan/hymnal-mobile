@@ -419,7 +419,10 @@
     "category": "Worship of the Father",
     "time": "4/4",
     "hymn_code": "123212165123335532",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1036_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1036_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "I waschosen byGod longbefore",

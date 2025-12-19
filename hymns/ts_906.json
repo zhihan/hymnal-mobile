@@ -627,7 +627,10 @@
     "category": "盼望与豫备",
     "time": "4/4",
     "hymn_code": "3445236671232",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0906_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0906_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "恩主， 我心 所愛，",

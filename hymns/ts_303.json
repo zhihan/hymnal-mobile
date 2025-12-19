@@ -595,7 +595,10 @@
     "category": "爱慕耶稣",
     "time": "6/8",
     "hymn_code": "33434511112123432",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0303_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0303_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "多 次我 曾床上 躺臥，",

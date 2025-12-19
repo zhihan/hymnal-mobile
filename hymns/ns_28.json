@@ -652,6 +652,9 @@
     "time": "4/4",
     "hymn_code": "5555543144424275",
     "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0028_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0,
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ts/427",

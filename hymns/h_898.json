@@ -391,7 +391,10 @@
     "category": "Service",
     "time": "4/4",
     "hymn_code": "3555513322443",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0898_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0898_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "The loveofChrist constraineth;",

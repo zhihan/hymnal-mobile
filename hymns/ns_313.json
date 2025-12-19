@@ -577,7 +577,10 @@
     "category": "Longings",
     "time": "3/4",
     "hymn_code": "5513321621651312",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0313_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0313_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "I'mpressingon theGod- manway,",

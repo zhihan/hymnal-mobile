@@ -400,7 +400,10 @@
     "category": "Gospel",
     "time": "4/4",
     "hymn_code": "1117777666777666653",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0186_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0186_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3
   },
   "raw_sections": [
     "Now theLord is theSpirit—that'show",

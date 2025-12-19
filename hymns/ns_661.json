@@ -511,7 +511,10 @@
     "category": "Longings",
     "time": "4/4",
     "hymn_code": "111123111123",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0661_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0661_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "Lord, myeyes are seeing,",

@@ -395,7 +395,10 @@
     "category": "Experience of Christ",
     "time": "6/8",
     "hymn_code": "555777721556544321",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0833_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0833_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "God isworkingHimself intoman,",

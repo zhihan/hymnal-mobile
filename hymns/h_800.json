@@ -332,6 +332,9 @@
     "time": "6/4",
     "hymn_code": "33235323123",
     "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0800_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0,
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ch/580",

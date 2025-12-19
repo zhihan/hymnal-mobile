@@ -283,7 +283,10 @@
     "category": "教会的生活",
     "time": "6/8",
     "hymn_code": "5565176544332123",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0703_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0703_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3
   },
   "raw_sections": [
     "前 我曾 是個 孤單的人，",

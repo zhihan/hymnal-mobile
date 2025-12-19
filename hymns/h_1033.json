@@ -482,7 +482,10 @@
     "category": "Gospel",
     "time": "6/8",
     "hymn_code": "1111765553771215",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1033_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1033_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3
   },
   "raw_sections": [
     "Ye whoaretroubledandburdenedby sin,",

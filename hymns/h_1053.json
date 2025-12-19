@@ -261,7 +261,10 @@
     "category": "Gospel",
     "time": "6/4",
     "hymn_code": "12335432343",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1053_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1053_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "With brokenheart andcontritesigh,",

@@ -403,7 +403,10 @@
     "category": "Scriptures for Singing",
     "time": "4/4",
     "hymn_code": "133553112331135512171",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1080_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1080_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "But thisis the covenant whichI willmake",

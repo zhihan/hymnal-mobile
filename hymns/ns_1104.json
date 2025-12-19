@@ -325,7 +325,10 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "3345356566712765",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1104_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1104_tune.midi",
+    "current_key": "A♭ Major",
+    "original_key": "G Major",
+    "capo": 1
   },
   "raw_sections": [
     "We welcomeyou tothis goodland,so sweet,so fragrant,warm andbright;",

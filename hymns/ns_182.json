@@ -284,7 +284,10 @@
     "category": "Praise of the Lord",
     "time": "4/4",
     "hymn_code": "5323432123434565",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0182_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0182_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "Christis ourlight, ourfood, ourair;",

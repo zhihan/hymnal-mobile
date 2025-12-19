@@ -518,7 +518,10 @@
     "category": "Gospel",
     "time": "4/4",
     "hymn_code": "55655612135",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/LongBeach/midi/tunes/lb19_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/LongBeach/midi/tunes/lb19_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "Where's theanswer?Theremust bemore forme.",

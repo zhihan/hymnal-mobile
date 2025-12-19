@@ -325,7 +325,10 @@
     "category": "Hope of Glory",
     "time": "4/4",
     "hymn_code": "511321234543432",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1306_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1306_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "Welove Thycoming,Lord!",

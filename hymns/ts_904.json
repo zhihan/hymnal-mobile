@@ -323,7 +323,10 @@
     "category": "盼望与豫备",
     "time": "4/4",
     "hymn_code": "31513122",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0904_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0904_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "醒 罷，弟 兄！",

@@ -606,7 +606,10 @@
     "category": "The Church",
     "time": "6/8",
     "hymn_code": "1314153564753",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1102_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1102_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "The Bibleis aromance ofGod inlove withman,",

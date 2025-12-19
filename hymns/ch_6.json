@@ -428,6 +428,9 @@
     "time": "3/4",
     "hymn_code": "513172151353132",
     "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0006_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3,
     "related": [
       {
         "url": "https://www.hymnal.net/en/hymn/h/13",

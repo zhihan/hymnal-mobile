@@ -112,7 +112,10 @@
     "category": "Scriptures for Singing",
     "time": "3/4",
     "hymn_code": "5543321666665",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1076_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1076_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "All whoarewith megreetyou.",

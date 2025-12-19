@@ -478,7 +478,10 @@
     "category": "Praise of the Lord",
     "time": "3/4",
     "hymn_code": "34556711712165",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0162_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0162_tune.midi",
+    "current_key": "A♭ Major",
+    "original_key": "G Major",
+    "capo": 1
   },
   "raw_sections": [
     "With praiseandthanksgiving",

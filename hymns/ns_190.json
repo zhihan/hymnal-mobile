@@ -294,7 +294,10 @@
     "category": "Fullness of the Spirit",
     "time": "4/4",
     "hymn_code": "1113565313343323221723",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0190_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0190_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "I wantto be filled",

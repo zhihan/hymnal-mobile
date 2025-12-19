@@ -345,7 +345,10 @@
     "category": "The Church",
     "time": "4/4",
     "hymn_code": "532123444452",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0476_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0476_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "There's alwaysbeen somethinghiddendeep in Yourheart,",

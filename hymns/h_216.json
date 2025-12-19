@@ -177,7 +177,10 @@
     "category": "Praise of the Lord",
     "time": "3/2",
     "hymn_code": "55132165551312",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0216_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0216_tune.midi",
+    "current_key": "A♭ Major",
+    "original_key": "G Major",
+    "capo": 1
   },
   "raw_sections": [
     "AroundThy table,holyLord,",

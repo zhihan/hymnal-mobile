@@ -763,7 +763,10 @@
     "category": "教会的异象",
     "time": "4/4",
     "hymn_code": "135173556653215",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0542_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0542_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "主 的恢 復需 要我 們",

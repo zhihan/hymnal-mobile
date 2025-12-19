@@ -477,7 +477,10 @@
     "category": "教会的生活",
     "time": "2/4",
     "hymn_code": "51353155342",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0718_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0718_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "我 們一 心 巴 望 著 同 去過 節；",

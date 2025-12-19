@@ -355,7 +355,10 @@
     "category": "Union with Christ",
     "time": "4/4",
     "hymn_code": "5117665453",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1140_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1140_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3
   },
   "raw_sections": [
     "Our oldmanhas beencrucifiedwith Christ;",

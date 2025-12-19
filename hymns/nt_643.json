@@ -355,7 +355,10 @@
     "category": "Encouragement",
     "time": "3/4",
     "hymn_code": "53432177615",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e0643_new_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e0643_new_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "Take timeto behold Him,",

@@ -384,7 +384,10 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "12354327651235344327",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0766_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0766_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "EnochandGod,walked forthreecenturies",

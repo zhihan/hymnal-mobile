@@ -339,7 +339,10 @@
     "category": "教会的生活",
     "time": "2/4",
     "hymn_code": "5511217653512352",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0734_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0734_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "弟 兄們 哪！讓 我問 問你，",

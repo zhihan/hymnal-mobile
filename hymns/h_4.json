@@ -211,7 +211,10 @@
     "category": "Blessing of the Trinity",
     "time": "3/4",
     "hymn_code": "5555566511623443",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0004_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0004_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "Fatherof heav'n, whoselove profound",

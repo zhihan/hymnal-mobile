@@ -319,7 +319,10 @@
     "category": "Praise of the Lord",
     "time": "3/4",
     "hymn_code": "33333543223",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0092_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0092_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "O dearestLord, whatlaw hastThoue'erbroken",

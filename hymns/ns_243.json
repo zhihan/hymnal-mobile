@@ -535,7 +535,10 @@
     "category": "The Church",
     "time": "4/4",
     "hymn_code": "5123512421653215",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0243_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0243_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "TheChurch ofGod— weare thechurch,",

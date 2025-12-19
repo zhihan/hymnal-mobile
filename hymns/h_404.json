@@ -257,7 +257,10 @@
     "category": "Longings",
     "time": "3/4",
     "hymn_code": "3335323443653232",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0404_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0404_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "Let mecome closerto Thee,LordJesus,",

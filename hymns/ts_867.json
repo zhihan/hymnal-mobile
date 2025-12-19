@@ -791,7 +791,10 @@
     "category": "事奉与福音",
     "time": "4/4",
     "hymn_code": "314322313456543165",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0867_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0867_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "奮 力之 神，內 裏運 行，",

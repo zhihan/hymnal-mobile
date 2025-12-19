@@ -355,7 +355,10 @@
     "category": "Assurance and Joy of Salvation",
     "time": "3/4",
     "hymn_code": "1123534311",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0429_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0429_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "Through God'sdispensing,abundance ofgrace,",

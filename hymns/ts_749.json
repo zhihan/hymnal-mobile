@@ -221,7 +221,10 @@
     "category": "教会的生活",
     "time": "4/4",
     "hymn_code": "343542135674643",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0749_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0749_tune.midi",
+    "current_key": "A♭ Major",
+    "original_key": "G Major",
+    "capo": 1
   },
   "raw_sections": [
     "恩 主我 們同 在這 裡，",

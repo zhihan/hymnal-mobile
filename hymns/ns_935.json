@@ -261,7 +261,10 @@
     "category": "Longings",
     "time": "4/4",
     "hymn_code": "112431111123",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0935_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0935_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "Make mea man of lightwith myeyesset onThee,",

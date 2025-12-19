@@ -442,6 +442,9 @@
     "time": "6/8",
     "hymn_code": "1151313543532121",
     "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1303_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3,
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ts/914",

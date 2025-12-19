@@ -312,7 +312,10 @@
     "category": "羡慕",
     "time": "4/4",
     "hymn_code": "53517654326543",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0292_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0292_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "救 主，領 我免 迷途，",

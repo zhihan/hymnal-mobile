@@ -312,7 +312,10 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "113311322344543",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0161_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0161_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "I've foundthe One who's all tome;",

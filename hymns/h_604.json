@@ -307,7 +307,10 @@
     "category": "Experience of God",
     "time": "4/4",
     "hymn_code": "33343321231271",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0604_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0604_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "Untothe hills around doI liftup",

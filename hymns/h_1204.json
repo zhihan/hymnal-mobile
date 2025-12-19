@@ -489,7 +489,10 @@
     "category": "Glorying in the Cross",
     "time": "4/4",
     "hymn_code": "5171234512172321",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1204_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1204_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3
   },
   "raw_sections": [
     "Thecross— weallwerethere,",

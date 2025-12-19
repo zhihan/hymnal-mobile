@@ -391,7 +391,10 @@
     "category": "Assurance and Joy of Salvation",
     "time": "4/4",
     "hymn_code": "555435111765",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0317_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0317_tune.midi",
+    "current_key": "A♭ Major",
+    "original_key": "G Major",
+    "capo": 1
   },
   "raw_sections": [
     "Dear Savior,Thou artmine,",

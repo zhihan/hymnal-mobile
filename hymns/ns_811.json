@@ -516,7 +516,10 @@
     "category": "Experience of Christ",
     "time": "6/4",
     "hymn_code": "531212356533212",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0811_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0811_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "Oh, whatagloriousday!",

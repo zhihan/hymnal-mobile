@@ -359,7 +359,10 @@
     "category": "Gospel",
     "time": "4/4",
     "hymn_code": "3453165565",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1039_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1039_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3
   },
   "raw_sections": [
     "There's aStrangerat thedoor,",

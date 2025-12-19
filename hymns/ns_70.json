@@ -477,7 +477,10 @@
     "category": "Consecration",
     "time": "3/4",
     "hymn_code": "5333451111443432",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0070_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0070_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "I willnotlet Theego, myLord,",

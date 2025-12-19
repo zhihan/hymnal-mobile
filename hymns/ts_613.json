@@ -511,7 +511,9 @@
     "category": "建造与合一",
     "time": "4/4",
     "hymn_code": "3566561356656",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0613_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0613_tune.midi",
+    "current_key": "F Minor",
+    "original_key": "D Minor"
   },
   "raw_sections": [
     "我 們在 主 裡 是 一，",

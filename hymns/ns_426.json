@@ -176,7 +176,9 @@
     "category": "Scriptures for Singing",
     "time": "4/4",
     "hymn_code": "6717617671765",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0426_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0426_tune.midi",
+    "current_key": "F Minor",
+    "original_key": "D Minor"
   },
   "raw_sections": [
     "For theword of God, word of God,",

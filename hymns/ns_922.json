@@ -389,7 +389,10 @@
     "category": "Gospel",
     "time": "9/8",
     "hymn_code": "1235512321",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0922_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0922_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "Listen,Ostranger,roadweary trav'ler,",

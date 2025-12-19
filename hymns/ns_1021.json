@@ -411,7 +411,10 @@
     "category": "Gospel",
     "time": "6/8",
     "hymn_code": "5123145665321232",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1021_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1021_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "We're inthe age ofjubilee.",

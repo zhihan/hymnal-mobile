@@ -499,7 +499,10 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "1123236544321232",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0132_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0132_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "The newcovenantministers",

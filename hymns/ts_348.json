@@ -341,7 +341,10 @@
     "category": "爱慕耶稣",
     "time": "4/4",
     "hymn_code": "561232166171",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0348_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0348_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "我 是時 常 輭弱， 輭弱 至 極，",

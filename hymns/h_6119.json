@@ -166,6 +166,9 @@
     "time": "4/4",
     "hymn_code": "1111756115",
     "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e6119_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0,
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ts/119",

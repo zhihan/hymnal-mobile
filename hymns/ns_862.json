@@ -373,7 +373,10 @@
     "category": "Longings",
     "time": "4/4",
     "hymn_code": "112323652123434321322",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0862_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0862_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "O JesusLord, Thou fairestof thefair—",

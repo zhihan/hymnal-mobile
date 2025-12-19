@@ -407,7 +407,10 @@
     "category": "Gospel",
     "time": "9/8",
     "hymn_code": "517276536542543",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1042_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1042_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "While wepray andwhile weplead,",

@@ -593,7 +593,10 @@
     "category": "事奉与福音",
     "time": "4/4",
     "hymn_code": "5534564321",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0863_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0863_tune.midi",
+    "current_key": "A♭ Major",
+    "original_key": "G Major",
+    "capo": 1
   },
   "raw_sections": [
     "\"今 日的\" 真 理，帶 進神 行動，使 我",

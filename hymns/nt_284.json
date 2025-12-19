@@ -363,7 +363,10 @@
     "category": "Assurance and Joy of Salvation",
     "time": "4/4",
     "hymn_code": "51122366117655",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e0284_new_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e0284_new_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "Loved witheverlastinglove,",

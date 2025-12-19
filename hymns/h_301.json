@@ -427,7 +427,10 @@
     "category": "Assurance and Joy of Salvation",
     "time": "6/8",
     "hymn_code": "55555671512222123",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0301_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0301_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "Redeemed—how Ilove toproclaimit!",

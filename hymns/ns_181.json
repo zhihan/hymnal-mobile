@@ -712,7 +712,10 @@
     "category": "Ultimate Manifestation",
     "time": "4/4",
     "hymn_code": "55555554432",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0181_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0181_tune.midi",
+    "current_key": "E Major",
+    "original_key": "D Major",
+    "capo": 2
   },
   "raw_sections": [
     "God's economy andHis eternalplan,",

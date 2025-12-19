@@ -285,7 +285,10 @@
     "category": "Ultimate Manifestation",
     "time": "4/4",
     "hymn_code": "5365671765",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0013_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0013_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "The NewJerusalem—ul-- timatesign;",

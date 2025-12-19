@@ -167,7 +167,10 @@
     "category": "灵与生命",
     "time": "4/4",
     "hymn_code": "5123332311",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0129_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0129_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "耶 穌我 太 陽，",

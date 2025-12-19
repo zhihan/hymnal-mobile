@@ -509,6 +509,9 @@
     "time": "4/4",
     "hymn_code": "55332461776545345",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0523_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3,
     "related": [
       {
         "url": "https://www.hymnal.net/en/hymn/h/1127",

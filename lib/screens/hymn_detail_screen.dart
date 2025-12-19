@@ -40,6 +40,7 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   final MidiPlayerService _midiPlayer = MidiPlayerService();
   bool _isMidiLoaded = false;
   String? _currentMidiUrl;
+  int _midiPitchOffset = 0; // Separate pitch offset for MIDI playback
 
   // PageView state
   late PageController _pageController;
@@ -144,6 +145,7 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
         _transposeOffset = 0; // Reset transpose when loading new hymn
         _isMidiLoaded = false; // Reset MIDI loaded state
         _currentMidiUrl = midiUrl; // Set MIDI URL if available
+        _midiPitchOffset = 0; // Reset MIDI pitch when loading new hymn
       });
 
       // Stop any currently playing MIDI
@@ -206,7 +208,7 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
 
     // Load MIDI for the first time
     try {
-      await _midiPlayer.load(_currentMidiUrl!, transposeOffset: _transposeOffset);
+      await _midiPlayer.load(_currentMidiUrl!, transposeOffset: _midiPitchOffset);
       setState(() {
         _isMidiLoaded = true;
       });
@@ -262,30 +264,48 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     setState(() {
       _transposeOffset++;
     });
-    _updateMidiTransposition();
   }
 
   void _transposeDown() {
     setState(() {
       _transposeOffset--;
     });
-    _updateMidiTransposition();
   }
 
   void _resetTranspose() {
     setState(() {
       _transposeOffset = 0;
     });
-    _updateMidiTransposition();
   }
 
-  void _updateMidiTransposition() {
+  void _midiPitchUp() {
+    setState(() {
+      _midiPitchOffset++;
+    });
+    _updateMidiPitch();
+  }
+
+  void _midiPitchDown() {
+    setState(() {
+      _midiPitchOffset--;
+    });
+    _updateMidiPitch();
+  }
+
+  void _resetMidiPitch() {
+    setState(() {
+      _midiPitchOffset = 0;
+    });
+    _updateMidiPitch();
+  }
+
+  void _updateMidiPitch() {
     if (_isMidiLoaded && _currentMidiUrl != null) {
-      // Reload MIDI with new transposition
-      _midiPlayer.load(_currentMidiUrl!, transposeOffset: _transposeOffset).then((_) {
-        print('MIDI reloaded with transposition: $_transposeOffset');
+      // Reload MIDI with new pitch offset
+      _midiPlayer.load(_currentMidiUrl!, transposeOffset: _midiPitchOffset).then((_) {
+        print('MIDI reloaded with pitch offset: $_midiPitchOffset');
       }).catchError((e) {
-        print('Failed to reload MIDI with transposition: $e');
+        print('Failed to reload MIDI with pitch offset: $e');
       });
     }
   }
@@ -812,7 +832,7 @@ $deepLink
               ],
             ),
             child: Row(
-              mainAxisAlignment: MainAxisAlignment.center,
+              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
                 // MIDI play/pause button
                 ElevatedButton.icon(
@@ -831,7 +851,44 @@ $deepLink
                     foregroundColor: Colors.white,
                   ),
                 ),
-                // Add more buttons here in the future
+
+                // MIDI pitch down button
+                IconButton(
+                  icon: const Icon(Icons.remove_circle_outline),
+                  onPressed: _midiPitchDown,
+                  tooltip: 'Lower pitch',
+                  iconSize: 28,
+                ),
+                // Current MIDI pitch offset display
+                Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    borderRadius: BorderRadius.circular(4),
+                    border: Border.all(color: Colors.grey[400]!),
+                  ),
+                  child: Text(
+                    _midiPitchOffset > 0
+                        ? '+$_midiPitchOffset'
+                        : _midiPitchOffset.toString(),
+                    style: const TextStyle(
+                      fontSize: 14,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                ),
+                // MIDI pitch up button
+                IconButton(
+                  icon: const Icon(Icons.add_circle_outline),
+                  onPressed: _midiPitchUp,
+                  tooltip: 'Raise pitch',
+                  iconSize: 28,
+                ),
+                // Reset pitch button
+                TextButton(
+                  onPressed: _midiPitchOffset != 0 ? _resetMidiPitch : null,
+                  child: const Text('Reset'),
+                ),
               ],
             ),
           ),

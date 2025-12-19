@@ -257,7 +257,10 @@
     "category": "The Way of the Cross",
     "time": "4/4",
     "hymn_code": "55435316153543",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0627_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0627_tune.midi",
+    "current_key": "A♭ Major",
+    "original_key": "G Major",
+    "capo": 1
   },
   "raw_sections": [
     "Lord,day byday Iview ThywondrousCross",

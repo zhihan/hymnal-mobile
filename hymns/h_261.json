@@ -305,7 +305,10 @@
     "category": "Fulness of the Spirit",
     "time": "6/4",
     "hymn_code": "33344543234514321",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0261_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0261_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "Praise waitethThee inmercy'scourt,",

@@ -327,7 +327,10 @@
     "category": "The Church",
     "time": "4/4",
     "hymn_code": "333454321121",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0754_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0754_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "Sittingin an ordinaryhome onthe couch,",

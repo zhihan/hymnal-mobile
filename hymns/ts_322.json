@@ -253,7 +253,10 @@
     "category": "爱慕耶稣",
     "time": "2/4",
     "hymn_code": "553432135561723432",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0322_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0322_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "我 今是單 純敞 開我 心，",

@@ -317,7 +317,10 @@
     "category": "盼望与豫备",
     "time": "2/4",
     "hymn_code": "112354321",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0908_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0908_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "看！ 無花 果 樹 早已 發枝，",

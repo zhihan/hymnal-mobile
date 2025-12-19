@@ -419,7 +419,10 @@
     "category": "Various Aspects of the Inner Life",
     "time": "4/4",
     "hymn_code": "35556354332",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/LongBeach/midi/tunes/lb62_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/LongBeach/midi/tunes/lb62_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3
   },
   "raw_sections": [
     "He whois joined to the Lord is onespirit.",

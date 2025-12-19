@@ -470,7 +470,10 @@
     "category": "教会的生活",
     "time": "4/4",
     "hymn_code": "334322321143231",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0745_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0745_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "我 若僅 為個 人『屬 靈』，我 就",

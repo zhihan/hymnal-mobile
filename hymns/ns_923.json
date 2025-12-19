@@ -489,7 +489,10 @@
     "category": "The Church",
     "time": "4/4",
     "hymn_code": "12332345533566523",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0923_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0923_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "Come andsing songs of Zion withme;",

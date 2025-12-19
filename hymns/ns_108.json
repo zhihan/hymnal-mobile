@@ -615,7 +615,10 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "51312354326",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0108_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0108_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "Your sweetnessis just a taste of enjoyment.",

@@ -580,6 +580,9 @@
     "time": "4/4",
     "hymn_code": "155125524321717132",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0540_tune.midi",
+    "current_key": "E Major",
+    "original_key": "D Major",
+    "capo": 2,
     "related": [
       {
         "url": "https://www.hymnal.net/en/hymn/ns/321",

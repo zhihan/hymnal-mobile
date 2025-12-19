@@ -481,7 +481,10 @@
     "category": "The Church",
     "time": "4/4",
     "hymn_code": "5322331532231",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1042_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1042_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "The firststatus of the church, is the assembly of God.",

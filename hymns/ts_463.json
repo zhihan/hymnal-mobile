@@ -311,7 +311,10 @@
     "category": "追求与长进",
     "time": "4/4",
     "hymn_code": "1715171212333432",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0463_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0463_tune.midi",
+    "current_key": "E Major",
+    "original_key": "D Major",
+    "capo": 2
   },
   "raw_sections": [
     "創 世之前，蒙 神揀選，",

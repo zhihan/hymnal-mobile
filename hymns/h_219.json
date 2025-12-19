@@ -211,7 +211,10 @@
     "category": "Praise of the Lord",
     "time": "4/4",
     "hymn_code": "5565117123",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0219_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0219_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "Lord JesusChrist, wewould rememberThee,",

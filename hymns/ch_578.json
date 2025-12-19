@@ -333,7 +333,10 @@
     "category": "祷告",
     "time": "6/8",
     "hymn_code": "13455671653321232",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0578_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0578_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "禱 告之 時、 甘甜 之時！",

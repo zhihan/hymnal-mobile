@@ -409,7 +409,10 @@
     "category": "Baptism",
     "time": "4/4",
     "hymn_code": "611555432171217123",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0137_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0137_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "I won'tsay goodbye",

@@ -340,7 +340,10 @@
     "category": "Preaching of the Gospel",
     "time": "4/4",
     "hymn_code": "3345666545554325",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0399_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0399_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3
   },
   "raw_sections": [
     "When youspeak theWord,",

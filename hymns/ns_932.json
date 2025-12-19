@@ -593,7 +593,10 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "5131611321351165465",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0932_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0932_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "Everyday wemuse upontheword,",

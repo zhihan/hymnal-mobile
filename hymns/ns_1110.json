@@ -319,7 +319,10 @@
     "category": "Scriptures for Singing",
     "time": "4/4",
     "hymn_code": "1145434543121117",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1110_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1110_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "Such faithand suchlove",

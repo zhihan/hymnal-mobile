@@ -253,7 +253,10 @@
     "category": "教会的异象",
     "time": "6/8",
     "hymn_code": "51775566333211",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0527_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0527_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "我 們都 是 為 著 神 的 恢復，",

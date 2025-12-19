@@ -380,6 +380,9 @@
     "time": "6/8",
     "hymn_code": "33312223354321",
     "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1057_tune.midi",
+    "current_key": "E Major",
+    "original_key": "D Major",
+    "capo": 2,
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ch/729",

@@ -189,7 +189,10 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "3345316123444321",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0531_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0531_tune.midi",
+    "current_key": "E Major",
+    "original_key": "D Major",
+    "capo": 2
   },
   "raw_sections": [
     "Christ livesinme, ohhow canthisbe?",

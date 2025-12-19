@@ -210,7 +210,9 @@
     "category": "Hope of Glory",
     "time": "4/4",
     "hymn_code": "667176563667123",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0810_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0810_tune.midi",
+    "current_key": "E Minor",
+    "original_key": "E Minor"
   },
   "raw_sections": [
     "Whetheror not God now has a way depends on us today,",

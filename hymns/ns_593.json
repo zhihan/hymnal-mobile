@@ -515,7 +515,10 @@
     "category": "Praise of the Lord",
     "time": "6/8",
     "hymn_code": "1151313543532121",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0593_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0593_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "Oh, whata preeminent Christ!",

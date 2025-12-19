@@ -283,7 +283,10 @@
     "category": "Comfort in Trials",
     "time": "3/4",
     "hymn_code": "33333543117123212",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0712_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0712_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "Be still,my heart! theseanxiouscares",

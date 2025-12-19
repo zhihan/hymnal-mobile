@@ -329,7 +329,10 @@
     "category": "Consecration",
     "time": "4/4",
     "hymn_code": "1235432132234343453",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0366_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0366_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "My heartlongs for absolute surrender",

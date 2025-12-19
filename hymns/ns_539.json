@@ -340,7 +340,10 @@
     "category": "The Word of God",
     "time": "4/4",
     "hymn_code": "55555435654444423454",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0539_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0539_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "Let theword of Christ dwell in you richly,",

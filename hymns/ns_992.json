@@ -356,7 +356,10 @@
     "category": "Blessing of the Trinity",
     "time": "4/4",
     "hymn_code": "345151651111671232",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0992_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0992_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "God theFather, the Creator,",

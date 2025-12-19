@@ -395,7 +395,10 @@
     "category": "Longings",
     "time": "4/4",
     "hymn_code": "543211312321156566617",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0966_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0966_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "OhLord, YourName issweet! Andfrom itflows",

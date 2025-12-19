@@ -291,7 +291,10 @@
     "category": "Worship of the Father",
     "time": "4/4",
     "hymn_code": "1551243312321123322",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0853_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0853_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "Father, howweloveYou,",

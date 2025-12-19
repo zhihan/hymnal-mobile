@@ -771,6 +771,9 @@
     "time": "4/4",
     "hymn_code": "55535556646",
     "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0447_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3,
     "related": [
       {
         "url": "https://www.hymnal.net/en/hymn/h/608",

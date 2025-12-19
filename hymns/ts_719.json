@@ -324,7 +324,10 @@
     "category": "教会的生活",
     "time": "3/4",
     "hymn_code": "5535355454",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0719_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0719_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3
   },
   "raw_sections": [
     "我 們與 偶 像， 不 再有 關涉，",

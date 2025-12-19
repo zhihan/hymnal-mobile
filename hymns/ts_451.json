@@ -406,6 +406,9 @@
     "time": "4/4",
     "hymn_code": "33333331432",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0451_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3,
     "related": [
       {
         "url": "https://www.hymnal.net/en/hymn/h/1211",

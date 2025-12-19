@@ -435,7 +435,10 @@
     "category": "Gospel",
     "time": "9/4",
     "hymn_code": "1365332132",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1001_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1001_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "Free fromthelaw— oh,happycondition!",

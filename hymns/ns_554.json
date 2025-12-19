@@ -168,7 +168,10 @@
     "category": "Scriptures for Singing",
     "time": "2/4",
     "hymn_code": "3453453453451176567",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0554_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0554_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3
   },
   "raw_sections": [
     "In ourheart, in our heart, in our heart, in our heart,",

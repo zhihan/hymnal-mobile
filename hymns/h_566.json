@@ -332,7 +332,10 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "554332117671",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0566_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0566_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "Oh,safe tothe Rock that ishigher thanI,",

@@ -563,7 +563,10 @@
     "category": "The Church",
     "time": "3/4",
     "hymn_code": "13332111766165",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0683_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0683_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "How lovelyare Yourtabernacles,",

@@ -399,7 +399,10 @@
     "category": "事奉与福音",
     "time": "4/4",
     "hymn_code": "51113455556654565",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0860_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0860_tune.midi",
+    "current_key": "E Major",
+    "original_key": "D Major",
+    "capo": 2
   },
   "raw_sections": [
     "去！ 使萬 民 作 主 的 門 徒， 教導 神聖 的 真理，",

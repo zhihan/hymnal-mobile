@@ -259,7 +259,10 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "3213566765311312232",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0794_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0794_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "We needto bein ourspirit",

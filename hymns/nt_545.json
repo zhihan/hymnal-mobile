@@ -233,7 +233,10 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "11555651144432",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e0545_new_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e0545_new_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "When thispassing world isdone,",

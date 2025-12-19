@@ -399,7 +399,10 @@
     "category": "赞美主",
     "time": "6/8",
     "hymn_code": "132157215531232",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0136_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0136_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "愛 主的人 都來，",

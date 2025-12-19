@@ -492,7 +492,10 @@
     "category": "Spiritual Warfare",
     "time": "4/4",
     "hymn_code": "12352312346432",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1056_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1056_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "All aroundus,enemies;",

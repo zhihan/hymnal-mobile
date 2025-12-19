@@ -309,7 +309,10 @@
     "category": "事奉与福音",
     "time": "4/4",
     "hymn_code": "34555434234441765",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0879_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0879_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3
   },
   "raw_sections": [
     "我 一直 尋 求 平安， 或能 有喜 樂 半點，",

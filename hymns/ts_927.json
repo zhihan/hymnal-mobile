@@ -467,7 +467,10 @@
     "category": "盼望与豫备",
     "time": "4/4",
     "hymn_code": "12333212344432",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0927_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0927_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "三 一神 已 成 那靈， 滿帶神 聖的 生命，",

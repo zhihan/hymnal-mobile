@@ -327,7 +327,10 @@
     "category": "Gospel",
     "time": "4/4",
     "hymn_code": "53535616665123432",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e1058_new_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e1058_new_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3
   },
   "raw_sections": [
     "Rock ofAges,cleft forme,",

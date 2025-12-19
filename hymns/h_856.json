@@ -173,7 +173,10 @@
     "category": "The Church",
     "time": "2/2",
     "hymn_code": "33343322252343",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0856_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0856_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "How pleasantandhowgood itis",

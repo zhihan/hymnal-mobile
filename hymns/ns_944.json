@@ -395,7 +395,10 @@
     "category": "Experience of Christ",
     "time": "9/8",
     "hymn_code": "321554565",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0944_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0944_tune.midi",
+    "current_key": "D♭ Major",
+    "original_key": "C Major",
+    "capo": 1
   },
   "raw_sections": [
     "Blesseddispensingof theDivine;",

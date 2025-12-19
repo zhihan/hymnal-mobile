@@ -213,7 +213,10 @@
     "category": "灵与生命",
     "time": "4/4",
     "hymn_code": "51111321712222432",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0115_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0115_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "飽 嘗我 基 督 在 靈 裡，",

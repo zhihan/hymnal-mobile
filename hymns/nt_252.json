@@ -315,7 +315,10 @@
     "category": "Fulness of the Spirit",
     "time": "4/4",
     "hymn_code": "55321321143213212",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e0252_new_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e0252_new_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "Thou Breathfrom still eternity",

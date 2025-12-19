@@ -490,7 +490,10 @@
     "category": "Gospel",
     "time": "4/4",
     "hymn_code": "5333234321222217",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1012_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1012_tune.midi",
+    "current_key": "A♭ Major",
+    "original_key": "G Major",
+    "capo": 1
   },
   "raw_sections": [
     "There isno love like thelove ofJesus,",

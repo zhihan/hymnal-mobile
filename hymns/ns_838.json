@@ -355,7 +355,10 @@
     "category": "Prayer",
     "time": "4/4",
     "hymn_code": "1761161133233232116132",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0838_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0838_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "We believersshouldfollowthe sunrising",

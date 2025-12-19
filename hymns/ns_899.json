@@ -524,7 +524,10 @@
     "category": "Longings",
     "time": "4/4",
     "hymn_code": "12355432112356432",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0899_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0899_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "Ifmy pathway seemsnot clear,",

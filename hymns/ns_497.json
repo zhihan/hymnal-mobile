@@ -261,7 +261,10 @@
     "category": "Encouragement",
     "time": "4/4",
     "hymn_code": "333211561165",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0497_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0497_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "Begintheday withGod, He really wants youto",

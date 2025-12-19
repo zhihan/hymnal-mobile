@@ -777,7 +777,10 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "613564613564",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/LongBeach/midi/tunes/lb38_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/LongBeach/midi/tunes/lb38_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "My wordscannot express...",

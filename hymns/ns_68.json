@@ -452,7 +452,10 @@
     "category": "The Church",
     "time": "4/4",
     "hymn_code": "33545655561",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0068_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0068_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "Here wearegathered,onefamilyin theLord;",

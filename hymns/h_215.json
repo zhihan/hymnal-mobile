@@ -379,7 +379,10 @@
     "category": "Praise of the Lord",
     "time": "3/4",
     "hymn_code": "321135223565321",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0215_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0215_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "Jesus,Lord, weknow Theepresent",

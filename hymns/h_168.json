@@ -447,7 +447,10 @@
     "category": "Praise of the Lord",
     "time": "4/4",
     "hymn_code": "12334465535442433",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0168_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0168_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "Now inasong ofgratefulpraise,",

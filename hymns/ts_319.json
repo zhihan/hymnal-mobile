@@ -235,7 +235,10 @@
     "category": "爱慕耶稣",
     "time": "3/8",
     "hymn_code": "33323543222543",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0319_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0319_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "你， 你，你 常 在 我 心 中，",

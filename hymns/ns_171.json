@@ -493,7 +493,10 @@
     "category": "Gospel",
     "time": "4/4",
     "hymn_code": "33321423332167",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0171_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0171_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "I'm abeggar'cause... I'mblind",

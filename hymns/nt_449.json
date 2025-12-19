@@ -351,7 +351,10 @@
     "category": "Consecration",
     "time": "4/4",
     "hymn_code": "3323214432",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e0449_new_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e0449_new_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "Have Thineownway, Lord,",

@@ -479,7 +479,10 @@
     "category": "建造与合一",
     "time": "2/4",
     "hymn_code": "51333355443322",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0604_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0604_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "全 地平 靜 安 息，",

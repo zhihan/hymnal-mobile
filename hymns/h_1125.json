@@ -305,7 +305,10 @@
     "category": "Assurance and Joy of Salvation",
     "time": "4/4",
     "hymn_code": "332117615",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1125_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1125_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "Down atthe cross where mySaviordied,",

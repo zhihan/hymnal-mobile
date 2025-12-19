@@ -395,7 +395,10 @@
     "category": "Preaching of the Gospel",
     "time": "4/2",
     "hymn_code": "712323653216",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0934_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0934_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "I cannottell why He, whom angelsworship,",

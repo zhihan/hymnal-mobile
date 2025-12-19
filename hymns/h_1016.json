@@ -427,7 +427,10 @@
     "category": "Gospel",
     "time": "6/8",
     "hymn_code": "33343451533332132",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1016_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1016_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "Undertheburdensofguilt andcare,",

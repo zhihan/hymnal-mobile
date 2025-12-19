@@ -335,7 +335,10 @@
     "category": "Miscellaneous",
     "time": "4/4",
     "hymn_code": "533333556165",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/LongBeach/midi/tunes/lb81_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/LongBeach/midi/tunes/lb81_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "The greatestking on earth, that isKing Solomon,",

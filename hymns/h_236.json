@@ -457,7 +457,10 @@
     "category": "Praise of the Lord",
     "time": "4/4",
     "hymn_code": "353171234325765",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0236_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0236_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "Lamb ofGod! oursouls adoreThee,",

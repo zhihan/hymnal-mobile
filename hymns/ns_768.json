@@ -368,7 +368,10 @@
     "category": "Hope of Glory",
     "time": "4/4",
     "hymn_code": "556321144432712",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0768_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0768_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "Steal meaway, Iwant tobe wellpleasingto You.",

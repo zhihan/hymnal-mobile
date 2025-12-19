@@ -565,7 +565,10 @@
     "category": "Experience of Christ",
     "time": "3/4",
     "hymn_code": "1355567153",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0807_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0807_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "God inChrist drew me—Sweet isthestory:",

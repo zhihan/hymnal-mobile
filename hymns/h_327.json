@@ -299,7 +299,10 @@
     "category": "Assurance and Joy of Salvation",
     "time": "4/4",
     "hymn_code": "5176562433",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0327_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0327_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "Beforethethrone ofGod above",

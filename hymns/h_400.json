@@ -308,7 +308,10 @@
     "category": "Longings",
     "time": "3/4",
     "hymn_code": "33223321512117",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0400_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0400_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "Earthlypleasures vainly call me,",

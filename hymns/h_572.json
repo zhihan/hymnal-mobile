@@ -557,7 +557,10 @@
     "category": "Experience of Christ",
     "time": "6/4",
     "hymn_code": "55132117657777671",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0572_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0572_tune.midi",
+    "current_key": "A♭ Major",
+    "original_key": "G Major",
+    "capo": 1
   },
   "raw_sections": [
     "Jesushathdied andhathrisenagain,",

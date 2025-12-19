@@ -349,7 +349,10 @@
     "category": "Gospel",
     "time": "4/4",
     "hymn_code": "1321144322234",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0712_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0712_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "We mustsee today that God needs expressingon earth;",

@@ -245,7 +245,10 @@
     "category": "Fulness of the Spirit",
     "time": "4/4",
     "hymn_code": "11123443513345",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0247_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0247_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "Our blestRedeemerere Hebreathed",

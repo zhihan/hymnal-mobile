@@ -239,7 +239,10 @@
     "category": "追求与长进",
     "time": "3/4",
     "hymn_code": "321135223565321",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0404_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0404_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "可 惡世 界一 直騙 我，",

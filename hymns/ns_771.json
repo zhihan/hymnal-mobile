@@ -365,7 +365,10 @@
     "category": "Experience of Christ",
     "time": "3/4",
     "hymn_code": "3456533321233456533332",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0771_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0771_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "Don't youknow? Don't youknow?",

@@ -157,7 +157,10 @@
     "category": "教会的生活",
     "time": "4/4",
     "hymn_code": "3215322133653142",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0737_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0737_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "萬 軍之 耶 和華 神說，",

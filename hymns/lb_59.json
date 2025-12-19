@@ -325,7 +325,10 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "3344321321721",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/LongBeach/midi/tunes/lb59_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/LongBeach/midi/tunes/lb59_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "I loveYou, LordJesus,",

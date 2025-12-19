@@ -972,7 +972,10 @@
     "category": "Prayer",
     "time": "4/4",
     "hymn_code": "5533321135535",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0311_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0311_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "There aretwo greatestprayers we must pray everyday,",

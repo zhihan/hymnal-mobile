@@ -293,7 +293,10 @@
     "category": "Ultimate Manifestation",
     "time": "4/2",
     "hymn_code": "513331355553222123",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0983_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0983_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "There isa stream which issues forth",

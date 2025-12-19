@@ -704,6 +704,9 @@
     "time": "4/4",
     "hymn_code": "3332211144342",
     "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0138_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3,
     "related": [
       {
         "url": "https://www.hymnal.net/en/hymn/h/169",

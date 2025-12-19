@@ -261,7 +261,10 @@
     "category": "爱慕耶稣",
     "time": "4/4",
     "hymn_code": "511223432114432342",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0324_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0324_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "每 當你向 我敞 開胸 襟，",

@@ -711,7 +711,10 @@
     "category": "Experience of Christ",
     "time": "6/8",
     "hymn_code": "112133332175",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0006_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0006_tune.midi",
+    "current_key": "D♭ Major",
+    "original_key": "C Major",
+    "capo": 1
   },
   "raw_sections": [
     "Thereis agreatmystery,",

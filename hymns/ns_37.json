@@ -336,7 +336,10 @@
     "category": "Fulness of the Spirit",
     "time": "4/4",
     "hymn_code": "111112321165",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0037_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0037_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "I've gota river oflife flowingwithinme;",

@@ -225,7 +225,10 @@
     "category": "事奉与福音",
     "time": "4/4",
     "hymn_code": "5532133217655",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0809_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0809_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "在 主裡 剛 強！",

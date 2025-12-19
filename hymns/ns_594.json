@@ -539,7 +539,10 @@
     "category": "The Way of the Cross",
     "time": "4/4",
     "hymn_code": "53332117121615",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0594_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0594_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3
   },
   "raw_sections": [
     "The wayof consecration is anexercisetoday",

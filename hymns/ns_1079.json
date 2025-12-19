@@ -395,7 +395,10 @@
     "category": "Longings",
     "time": "4/4",
     "hymn_code": "5113116151232",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1079_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1079_tune.midi",
+    "current_key": "A♭ Major",
+    "original_key": "G Major",
+    "capo": 1
   },
   "raw_sections": [
     "Speak Lord,Thyservant'slist'ning.",

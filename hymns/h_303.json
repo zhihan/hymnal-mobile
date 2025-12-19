@@ -427,7 +427,10 @@
     "category": "Assurance and Joy of Salvation",
     "time": "4/4",
     "hymn_code": "553515354542",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0303_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0303_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "Nor silvernor gold hath obtained my redemption;",

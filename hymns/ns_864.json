@@ -383,7 +383,10 @@
     "category": "Experience of Christ",
     "time": "6/8",
     "hymn_code": "1232165112334211",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0864_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0864_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "Blessed withalove Idid notearn",

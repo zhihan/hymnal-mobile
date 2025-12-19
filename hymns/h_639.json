@@ -292,6 +292,9 @@
     "time": "4/4",
     "hymn_code": "3315344123",
     "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0639_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3,
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ch/472",

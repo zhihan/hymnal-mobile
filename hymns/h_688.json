@@ -707,7 +707,10 @@
     "category": "Comfort in Trials",
     "time": "6/8",
     "hymn_code": "5553513232112165",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0688_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0688_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3
   },
   "raw_sections": [
     "I've seenthe lightning flashing,",

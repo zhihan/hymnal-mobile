@@ -264,7 +264,10 @@
     "category": "Experience of Christ",
     "time": "6/8",
     "hymn_code": "55535617655453",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0502_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0502_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3
   },
   "raw_sections": [
     "Once Iwas dead insin,",

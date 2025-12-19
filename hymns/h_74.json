@@ -341,7 +341,10 @@
     "category": "Praise of the Lord",
     "time": "3/2",
     "hymn_code": "53451217617126765",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0074_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0074_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3
   },
   "raw_sections": [
     "Thereis aname toJesusgiven,",

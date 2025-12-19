@@ -524,6 +524,9 @@
     "time": "6/4",
     "hymn_code": "5333234275111712",
     "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0305_tune.midi",
+    "current_key": "E Major",
+    "original_key": "D Major",
+    "capo": 2,
     "related": [
       {
         "url": "https://www.hymnal.net/en/hymn/ns/12",

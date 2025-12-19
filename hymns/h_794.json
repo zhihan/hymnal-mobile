@@ -365,7 +365,10 @@
     "category": "Prayer",
     "time": "4/4",
     "hymn_code": "3311233345",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0794_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0794_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "Stir me,oh, stir me, Lord, I care not how,",

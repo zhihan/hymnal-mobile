@@ -267,7 +267,10 @@
     "category": "Comfort in Trials",
     "time": "4/4",
     "hymn_code": "531532156651543",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0691_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0691_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3
   },
   "raw_sections": [
     "Hark! thevoice of love and mercy",

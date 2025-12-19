@@ -243,7 +243,10 @@
     "category": "教会的生活",
     "time": "4/4",
     "hymn_code": "176532323176543434",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0725_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0725_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "聽 主吹 笛， 就 歡 欣 鼓 舞，",

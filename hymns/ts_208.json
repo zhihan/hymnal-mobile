@@ -141,7 +141,10 @@
     "category": "享受基督",
     "time": "4/4",
     "hymn_code": "5112321543221",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0208_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0208_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "靠 耶和 華 得 的 喜 樂",

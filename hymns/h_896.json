@@ -329,7 +329,10 @@
     "category": "Service",
     "time": "3/4",
     "hymn_code": "3335122355545342",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0896_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0896_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "Go, laboron; spend,and bespent;",

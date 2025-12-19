@@ -343,7 +343,10 @@
     "category": "事奉与福音",
     "time": "4/4",
     "hymn_code": "53453211122345",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0880_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0880_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3
   },
   "raw_sections": [
     "\"當 信靠 主 耶穌， 當信當 信靠主 耶穌， 你",

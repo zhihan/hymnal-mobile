@@ -309,7 +309,10 @@
     "category": "Various Aspects of the Inner Life",
     "time": "3/4",
     "hymn_code": "12353667123532",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0894_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0894_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "Grant me,OLord, aheart that'ssoft;",

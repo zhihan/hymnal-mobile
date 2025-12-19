@@ -733,7 +733,10 @@
     "category": "Ultimate Manifestation",
     "time": "4/4",
     "hymn_code": "334554321123322",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1324_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1324_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "Our Godis aGod ofpurpose,",

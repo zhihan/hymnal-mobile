@@ -505,7 +505,10 @@
     "category": "The Church",
     "time": "4/4",
     "hymn_code": "3556561171",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0828_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0828_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "The \"churches\"herebelow, sonarrowbound,",

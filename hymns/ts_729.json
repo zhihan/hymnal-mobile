@@ -391,7 +391,10 @@
     "category": "教会的生活",
     "time": "3/4",
     "hymn_code": "556561556561",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0729_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0729_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "阿 利路 亞， 自 由！",

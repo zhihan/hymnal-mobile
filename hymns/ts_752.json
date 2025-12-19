@@ -357,7 +357,10 @@
     "category": "教会的生活",
     "time": "4/4",
     "hymn_code": "34534321234",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0752_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0752_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3
   },
   "raw_sections": [
     "因 著愛， 我們 又再 次相 聚，",

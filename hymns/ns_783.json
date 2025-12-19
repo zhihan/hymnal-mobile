@@ -168,7 +168,10 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "11545111154332",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0783_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0783_tune.midi",
+    "current_key": "A♭ Major",
+    "original_key": "G Major",
+    "capo": 1
   },
   "raw_sections": [
     "God asour Potter has sov'reignly created us tobe Hisvessels,",

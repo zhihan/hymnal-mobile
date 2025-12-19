@@ -391,7 +391,10 @@
     "category": "建造与合一",
     "time": "4/4",
     "hymn_code": "5123332321",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0610_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0610_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "藉 主寶 血， 我 們已 被贖回。",

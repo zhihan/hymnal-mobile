@@ -553,7 +553,10 @@
     "category": "Union with Christ",
     "time": "4/4",
     "hymn_code": "345554432143212",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e0474_new_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e0474_new_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "I amone withThee, LordJesus,",

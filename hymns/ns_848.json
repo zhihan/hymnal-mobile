@@ -363,7 +363,10 @@
     "category": "Experience of Christ",
     "time": "12/8",
     "hymn_code": "55671117122216555671",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0848_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0848_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "If thereis a song, a song I mustsing,",

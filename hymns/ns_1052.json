@@ -256,7 +256,10 @@
     "category": "Scriptures for Singing",
     "time": "3/4",
     "hymn_code": "5651655531233",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1052_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1052_tune.midi",
+    "current_key": "A♭ Major",
+    "original_key": "G Major",
+    "capo": 1
   },
   "raw_sections": [
     "All scripture,allscripture,",

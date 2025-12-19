@@ -663,7 +663,10 @@
     "category": "Study of the Word",
     "time": "4/4",
     "hymn_code": "5555436615",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e0806_new_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e0806_new_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "Break Thouthe Bread of Life,",

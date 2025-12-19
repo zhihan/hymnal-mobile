@@ -241,7 +241,10 @@
     "category": "Scriptures for Singing",
     "time": "4/4",
     "hymn_code": "3211135532344321235432",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0444_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0444_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "But ofHim you are in ChristJesus,",

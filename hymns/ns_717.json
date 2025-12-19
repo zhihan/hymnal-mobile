@@ -475,7 +475,10 @@
     "category": "The Church",
     "time": "4/4",
     "hymn_code": "1233452171433552343212",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0717_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0717_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "From theHead to theBodyflows arich supply.",

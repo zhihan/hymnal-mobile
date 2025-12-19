@@ -316,7 +316,10 @@
     "category": "灵与生命",
     "time": "3/4",
     "hymn_code": "511223321334556532",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0147_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0147_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "我 神如今 你已 成那 靈，",

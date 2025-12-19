@@ -412,7 +412,10 @@
     "category": "Longings",
     "time": "2/2",
     "hymn_code": "3221355565",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0353_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0353_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "IneedJesus,my need I now confess;",

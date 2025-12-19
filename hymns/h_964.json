@@ -507,7 +507,10 @@
     "category": "Hope of Glory",
     "time": "3/4",
     "hymn_code": "5553655423453",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0964_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0964_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "'Midst thedarkness, storm, andsorrow,",

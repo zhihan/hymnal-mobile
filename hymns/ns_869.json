@@ -292,7 +292,10 @@
     "category": "Prayer",
     "time": "4/4",
     "hymn_code": "321111134565344432342",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0869_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0869_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "There isno other way to reach thehigh peak",

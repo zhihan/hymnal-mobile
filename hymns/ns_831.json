@@ -329,7 +329,10 @@
     "category": "Worship of the Father",
     "time": "3/4",
     "hymn_code": "53511212334431325",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0831_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0831_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "Thy name,dear Father,is forThee",

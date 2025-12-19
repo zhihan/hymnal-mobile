@@ -683,7 +683,10 @@
     "category": "Longings",
     "time": "4/4",
     "hymn_code": "11111325321717656332",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e0426_new_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e0426_new_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "Remove mycovering,Lord,",

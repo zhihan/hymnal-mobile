@@ -563,7 +563,10 @@
     "category": "事奉与福音",
     "time": "4/4",
     "hymn_code": "5333333331714",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0811_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0811_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "我不 敢稍 微失 敗，",

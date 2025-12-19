@@ -531,7 +531,10 @@
     "category": "Experience of Christ",
     "time": "6/8",
     "hymn_code": "11165614445112",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0638_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0638_tune.midi",
+    "current_key": "E Major",
+    "original_key": "D Major",
+    "capo": 2
   },
   "raw_sections": [
     "Mannafromheavencamedown.",

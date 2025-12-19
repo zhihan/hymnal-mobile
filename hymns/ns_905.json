@@ -354,7 +354,10 @@
     "category": "Experience of God",
     "time": "4/4",
     "hymn_code": "123123156223423417",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0905_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0905_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "To livein the Divine Trinity",

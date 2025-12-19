@@ -524,6 +524,9 @@
     "time": "4/4",
     "hymn_code": "1233432334556545",
     "midi_tune_url": "https://www.hymnal.net/Hymns/LongBeach/midi/tunes/lb01_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0,
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ts/330",

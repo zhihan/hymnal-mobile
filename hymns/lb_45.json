@@ -313,7 +313,10 @@
     "category": "Worship of the Father",
     "time": "4/4",
     "hymn_code": "11112173333432",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/LongBeach/midi/tunes/lb45_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/LongBeach/midi/tunes/lb45_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "Abba,Father,hear ourcry,",

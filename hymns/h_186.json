@@ -213,7 +213,10 @@
     "category": "Praise of the Lord",
     "time": "4/4",
     "hymn_code": "531532156651543",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0186_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0186_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3
   },
   "raw_sections": [
     "Glorybe to Him who loved us,",

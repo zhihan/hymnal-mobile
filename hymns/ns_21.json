@@ -325,7 +325,10 @@
     "category": "The Church",
     "time": "3/4",
     "hymn_code": "55323216",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0021_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0021_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "Our hearts,Lord,now Youfullyown,",

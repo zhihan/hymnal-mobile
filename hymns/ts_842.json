@@ -219,7 +219,10 @@
     "category": "事奉与福音",
     "time": "4/4",
     "hymn_code": "51234355654432",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0842_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0842_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "在 那迷 失 年 代，",

@@ -397,7 +397,10 @@
     "category": "Encouragement",
     "time": "4/4",
     "hymn_code": "511235446661771217",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0709_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0709_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3
   },
   "raw_sections": [
     "In nothingbe anxious,but inev'rything,",

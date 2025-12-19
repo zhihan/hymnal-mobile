@@ -302,6 +302,9 @@
     "time": "3/4",
     "hymn_code": "111312321333342",
     "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0373_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3,
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ch/284",

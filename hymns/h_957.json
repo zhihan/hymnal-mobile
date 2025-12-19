@@ -267,7 +267,10 @@
     "category": "Hope of Glory",
     "time": "9/8",
     "hymn_code": "5311235443213121",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0957_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0957_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "Watch! forthe morning isbreaking,",

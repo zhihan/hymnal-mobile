@@ -765,6 +765,9 @@
     "time": "4/4",
     "hymn_code": "333333455",
     "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1178_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3,
     "related": [
       {
         "url": "https://www.hymnal.net/cn/hymn/ts/122",

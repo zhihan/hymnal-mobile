@@ -423,7 +423,10 @@
     "category": "Longings",
     "time": "4/4",
     "hymn_code": "34523213443212",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e0367_new_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e0367_new_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "Be Thousupreme, OJesusChrist,",

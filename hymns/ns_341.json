@@ -215,7 +215,10 @@
     "category": "Scriptures for Singing",
     "time": "4/4",
     "hymn_code": "111716432132",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0341_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0341_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "I havefought thegood fight;",

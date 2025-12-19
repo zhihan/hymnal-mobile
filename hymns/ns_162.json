@@ -216,7 +216,10 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "33321432122222174321",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0162_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0162_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "Christ iseverything,Ineed Him.",

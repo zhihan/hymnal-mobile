@@ -353,7 +353,10 @@
     "category": "The Church",
     "time": "6/4",
     "hymn_code": "55321712617122123",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0850_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0850_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "OLord, wehave loved her fairbeauty,",

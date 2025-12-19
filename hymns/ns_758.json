@@ -329,7 +329,10 @@
     "category": "Worship of the Father",
     "time": "4/4",
     "hymn_code": "5324321656551712132",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0758_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0758_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "The moreweworshipGod forHismercy,",

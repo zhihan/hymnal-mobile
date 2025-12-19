@@ -232,7 +232,10 @@
     "category": "Consecration",
     "time": "4/4",
     "hymn_code": "133322134555443",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0361_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0361_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "The goalof the gospel is that,",

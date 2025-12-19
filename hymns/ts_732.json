@@ -307,7 +307,10 @@
     "category": "教会的生活",
     "time": "4/4",
     "hymn_code": "5135146165",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0732_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0732_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "流 露、流 露、 流露 祂的 豐富，",

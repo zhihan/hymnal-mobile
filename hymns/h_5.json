@@ -309,7 +309,10 @@
     "category": "Blessing of the Trinity",
     "time": "4/4",
     "hymn_code": "55653232176165453",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0005_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0005_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3
   },
   "raw_sections": [
     "God, ourFather,we adore Thee!",

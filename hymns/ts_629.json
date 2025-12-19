@@ -359,6 +359,9 @@
     "time": "4/4",
     "hymn_code": "3211123535666735",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0629_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0,
     "related": [
       {
         "url": "https://www.hymnal.net/en/hymn/ns/367",

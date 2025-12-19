@@ -223,7 +223,10 @@
     "category": "The Word of God",
     "time": "4/4",
     "hymn_code": "123333432131",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0702_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0702_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "Anyonewho hears thesewords ofmine anddoesthem,",

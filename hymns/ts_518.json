@@ -181,7 +181,10 @@
     "category": "教会的异象",
     "time": "2/2",
     "hymn_code": "51355631351325721",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0518_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0518_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "地 方召 會， 可 愛 的 召 會，",

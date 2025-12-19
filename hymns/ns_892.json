@@ -408,7 +408,10 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "3333221231671",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0892_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0892_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "Christ cameto theEarth tobring theFathernear tous,",

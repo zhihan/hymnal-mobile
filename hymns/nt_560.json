@@ -577,7 +577,10 @@
     "category": "Experience of Christ",
     "time": "3/4",
     "hymn_code": "5555555565433431",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e0560_new_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e0560_new_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "Come, OThou Travelerunknown,",

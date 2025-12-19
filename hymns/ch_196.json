@@ -275,7 +275,10 @@
     "category": "圣灵的丰满",
     "time": "4/4",
     "hymn_code": "511112321",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0196_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Chinese/midi/tunes/c0196_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "今 日我 們 神 的 靈，",

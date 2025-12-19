@@ -259,7 +259,10 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "555432166177123",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/LongBeach/midi/tunes/lb77_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/LongBeach/midi/tunes/lb77_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "A loverofChrist shouldbeone",

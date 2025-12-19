@@ -279,7 +279,10 @@
     "category": "Praise of the Lord",
     "time": "4/4",
     "hymn_code": "33211443554313212",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0232_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0232_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "By Christredeemed, inChrist restored,",

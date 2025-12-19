@@ -369,7 +369,10 @@
     "category": "享受基督",
     "time": "4/4",
     "hymn_code": "5551117123423",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0203_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0203_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "我 們來 享 受 這 新 鮮活 潑的 耶穌，",

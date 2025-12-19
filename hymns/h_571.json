@@ -399,7 +399,10 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "1556543156717665",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0571_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0571_tune.midi",
+    "current_key": "B♭ Major",
+    "original_key": "G Major",
+    "capo": 3
   },
   "raw_sections": [
     "Thou whosename iscalledJesus,",

@@ -417,7 +417,10 @@
     "category": "建造与合一",
     "time": "3/4",
     "hymn_code": "123124313346532",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0608_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0608_tune.midi",
+    "current_key": "E♭ Major",
+    "original_key": "D Major",
+    "capo": 1
   },
   "raw_sections": [
     "來 罷！活 石同 來建 造",

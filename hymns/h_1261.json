@@ -348,7 +348,10 @@
     "category": "The Church",
     "time": "4/4",
     "hymn_code": "5534564321",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1261_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1261_tune.midi",
+    "current_key": "A♭ Major",
+    "original_key": "G Major",
+    "capo": 1
   },
   "raw_sections": [
     "In Chicago*landwe musttake ourstand",

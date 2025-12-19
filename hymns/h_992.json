@@ -494,7 +494,10 @@
     "category": "Gospel",
     "time": "4/2",
     "hymn_code": "3321176165332321",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0992_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0992_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "There's nota Friend like thelowlyJesus:",

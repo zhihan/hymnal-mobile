@@ -298,7 +298,10 @@
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "12332117712",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0684_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0684_tune.midi",
+    "current_key": "A♭ Major",
+    "original_key": "G Major",
+    "capo": 1
   },
   "raw_sections": [
     "By thegrace of God Iam whatI am;",

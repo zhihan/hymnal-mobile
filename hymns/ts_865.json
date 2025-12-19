@@ -779,7 +779,10 @@
     "category": "事奉与福音",
     "time": "4/4",
     "hymn_code": "15521663432115",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0865_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0865_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "奧 祕經 綸，藏 於神 裏，",

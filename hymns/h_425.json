@@ -211,7 +211,10 @@
     "category": "Longings",
     "time": "3/4",
     "hymn_code": "117544353542132",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0425_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e0425_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "Prince ofpeace, control mywill;",

@@ -448,7 +448,10 @@
     "category": "灵与生命",
     "time": "4/4",
     "hymn_code": "53451321621656544",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0134_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0134_tune.midi",
+    "current_key": "A♭ Major",
+    "original_key": "G Major",
+    "capo": 1
   },
   "raw_sections": [
     "神 子耶穌 為我 離寶 座，",

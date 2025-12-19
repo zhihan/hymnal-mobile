@@ -563,7 +563,10 @@
     "category": "Consecration",
     "time": "4/4",
     "hymn_code": "12334332212671121377",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0559_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0559_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "Lamb ofGod— our dear RedeemingOne is Christ!",

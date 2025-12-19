@@ -473,7 +473,10 @@
     "category": "Union with Christ",
     "time": "4/4",
     "hymn_code": "51243216225723276511",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0678_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0678_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "Lord Jesus,thank You for thisveryday,",

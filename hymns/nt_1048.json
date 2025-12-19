@@ -315,7 +315,10 @@
     "category": "Gospel",
     "time": "4/4",
     "hymn_code": "51232165",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e1048_new_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e1048_new_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "Justas Iam,withoutoneplea,",

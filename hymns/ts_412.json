@@ -185,7 +185,10 @@
     "category": "追求与长进",
     "time": "4/4",
     "hymn_code": "123216121",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0412_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0412_tune.midi",
+    "current_key": "D Major",
+    "original_key": "D Major",
+    "capo": 0
   },
   "raw_sections": [
     "喫 喝主 的話 就不 萎縮，",

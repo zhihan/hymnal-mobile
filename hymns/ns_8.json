@@ -443,7 +443,10 @@
     "category": "The Church",
     "time": "2/2",
     "hymn_code": "5355355356535",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0008_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0008_tune.midi",
+    "current_key": "C Major",
+    "original_key": "C Major",
+    "capo": 0
   },
   "raw_sections": [
     "Blend us,Lord, blend us, Lord, 'til we are in one accord.",

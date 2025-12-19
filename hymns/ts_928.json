@@ -365,7 +365,10 @@
     "category": "盼望与豫备",
     "time": "4/4",
     "hymn_code": "155111166",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0928_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0928_tune.midi",
+    "current_key": "A♭ Major",
+    "original_key": "G Major",
+    "capo": 1
   },
   "raw_sections": [
     "讚 美神， 你是 恩典 化身，",

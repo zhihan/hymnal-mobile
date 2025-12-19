@@ -253,7 +253,10 @@
     "category": "Scriptures for Singing",
     "time": "4/4",
     "hymn_code": "112343232171536",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0503_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0503_tune.midi",
+    "current_key": "G Major",
+    "original_key": "G Major",
+    "capo": 0
   },
   "raw_sections": [
     "For youare aholypeople",

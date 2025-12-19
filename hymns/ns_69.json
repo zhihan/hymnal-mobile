@@ -308,7 +308,10 @@
     "category": "Hope of Glory",
     "time": "4/4",
     "hymn_code": "3332117617651352172",
-    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0069_tune.midi"
+    "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0069_tune.midi",
+    "current_key": "F Major",
+    "original_key": "D Major",
+    "capo": 3
   },
   "raw_sections": [
     "Jesuswon't Youcome, won'tYoucome, won'tYou come,",
