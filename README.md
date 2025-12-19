@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+TODO:
+1) Make sure the MIDI files are only required when user press play. Don't load
+it when first navigate to the screen.
+2) If there is something wrong, prompt the user that reason.
