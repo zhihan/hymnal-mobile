@@ -228,12 +228,11 @@ class MidiPlayerService {
              _timedEvents![_currentEventIndex].timeMs <= elapsedMs &&
              eventsProcessed < maxEventsPerBatch) {
         final event = _timedEvents![_currentEventIndex];
-
         final noteKey = '${event.channel}:${event.noteNumber}';
 
         try {
           if (event.isNoteOn) {
-            // Await to ensure proper sequencing
+            // Play the note
             await _midiPro.playNote(
               channel: event.channel,
               key: event.noteNumber,
@@ -242,13 +241,28 @@ class MidiPlayerService {
             );
             _activeNotes.add(noteKey);
           } else {
-            // Await to ensure proper sequencing
-            await _midiPro.stopNote(
-              channel: event.channel,
-              key: event.noteNumber,
-              sfId: _soundfontId,
-            );
-            _activeNotes.remove(noteKey);
+            // Check if we just turned on this note (zero duration note)
+            // If so, skip this OFF event entirely to give the note proper duration
+            bool isZeroDuration = false;
+            if (_currentEventIndex > 0) {
+              final prevEvent = _timedEvents![_currentEventIndex - 1];
+              if (prevEvent.isNoteOn &&
+                  prevEvent.noteNumber == event.noteNumber &&
+                  prevEvent.channel == event.channel &&
+                  prevEvent.timeMs == event.timeMs) {
+                isZeroDuration = true;
+              }
+            }
+
+            if (!isZeroDuration) {
+              // Normal note off
+              await _midiPro.stopNote(
+                channel: event.channel,
+                key: event.noteNumber,
+                sfId: _soundfontId,
+              );
+              _activeNotes.remove(noteKey);
+            }
           }
         } catch (e) {
           print('=== MIDI Player: Error playing event: $e ===');
