@@ -75,6 +75,18 @@ class HymnDisplay extends StatelessWidget {
               if (hymn.metadata != null) ...[
                 Row(
                   children: [
+                    // Capo (only if not 0)
+                    if (hymn.metadata!['capo'] != null &&
+                        hymn.metadata!['capo'] != 0) ...[
+                      Text(
+                        'Capo: ${hymn.metadata!['capo']}',
+                        style: Theme.of(context).textTheme.bodySmall?.copyWith(
+                          color: Colors.grey[600],
+                        ),
+                      ),
+                      const Text(' | ', style: TextStyle(color: Colors.grey)),
+                    ],
+                    // Time
                     Text(
                       'Time: ${hymn.metadata!['time'] ?? ''}',
                       style: Theme.of(context).textTheme.bodySmall?.copyWith(
@@ -82,6 +94,7 @@ class HymnDisplay extends StatelessWidget {
                       ),
                     ),
                     const Text(' | ', style: TextStyle(color: Colors.grey)),
+                    // Category
                     if (hymn.metadata!['category'] != null &&
                         hymn.metadata!['category'].toString().isNotEmpty)
                       GestureDetector(
