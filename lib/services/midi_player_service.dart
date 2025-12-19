@@ -186,7 +186,7 @@ class MidiPlayerService {
 
     final startTime = DateTime.now();
 
-    _playbackTimer = Timer.periodic(const Duration(milliseconds: 10), (timer) async {
+    _playbackTimer = Timer.periodic(const Duration(milliseconds: 10), (timer) {
       if (!_isPlaying) {
         timer.cancel();
         return;
@@ -202,7 +202,8 @@ class MidiPlayerService {
         final noteKey = '${event.channel}:${event.noteNumber}';
 
         if (event.isNoteOn) {
-          await _midiPro.playNote(
+          // Fire and forget - don't await to prevent blocking the timer
+          _midiPro.playNote(
             channel: event.channel,
             key: event.noteNumber,
             velocity: event.velocity,
@@ -210,7 +211,8 @@ class MidiPlayerService {
           );
           _activeNotes.add(noteKey);
         } else {
-          await _midiPro.stopNote(
+          // Fire and forget - don't await to prevent blocking the timer
+          _midiPro.stopNote(
             channel: event.channel,
             key: event.noteNumber,
             sfId: _soundfontId,
@@ -223,7 +225,8 @@ class MidiPlayerService {
 
       // Stop when all events have been played
       if (_currentEventIndex >= _timedEvents!.length) {
-        await stop();
+        timer.cancel();
+        stop();
       }
     });
   }
