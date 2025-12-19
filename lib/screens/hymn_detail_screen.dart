@@ -65,6 +65,14 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     super.initState();
     _currentHymnNumber = widget.initialHymnNumber;
     _currentBookId = widget.bookId;
+
+    // Set callback to update UI when MIDI playback completes
+    _midiPlayer.setOnPlaybackComplete(() {
+      if (mounted) {
+        setState(() {});
+      }
+    });
+
     _initializePageView();
   }
 

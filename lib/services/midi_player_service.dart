@@ -20,9 +20,15 @@ class MidiPlayerService {
   int _soundfontId = 0; // Soundfont ID returned by loadSoundfont
   bool _isProcessingEvents = false; // Prevent concurrent event processing
   DateTime? _playbackStartTime;
+  VoidCallback? _onPlaybackComplete; // Callback when playback finishes
 
   /// Check if currently playing
   bool get isPlaying => _isPlaying;
+
+  /// Set a callback to be called when playback completes
+  void setOnPlaybackComplete(VoidCallback? callback) {
+    _onPlaybackComplete = callback;
+  }
 
   /// Initialize the MIDI player with a soundfont
   Future<void> initialize() async {
@@ -256,6 +262,11 @@ class MidiPlayerService {
       if (_currentEventIndex >= _timedEvents!.length) {
         _playbackTimer?.cancel();
         await stop();
+
+        // Notify listener that playback has completed
+        if (_onPlaybackComplete != null) {
+          _onPlaybackComplete!();
+        }
       }
     } finally {
       _isProcessingEvents = false;
