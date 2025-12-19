@@ -18,6 +18,8 @@ class MidiPlayerService {
   List<_TimedMidiEvent>? _timedEvents;
   final Set<String> _activeNotes = {}; // Track active notes as "channel:note"
   int _soundfontId = 0; // Soundfont ID returned by loadSoundfont
+  bool _isProcessingEvents = false; // Prevent concurrent event processing
+  DateTime? _playbackStartTime;
 
   /// Check if currently playing
   bool get isPlaying => _isPlaying;
@@ -183,58 +185,88 @@ class MidiPlayerService {
 
     _isPlaying = true;
     _currentEventIndex = 0;
+    _playbackStartTime = DateTime.now();
 
-    final startTime = DateTime.now();
-
-    _playbackTimer = Timer.periodic(const Duration(milliseconds: 10), (timer) {
+    // Use 20ms timer interval (reduced overhead for sparse events)
+    _playbackTimer = Timer.periodic(const Duration(milliseconds: 20), (timer) {
       if (!_isPlaying) {
         timer.cancel();
         return;
       }
 
-      final elapsedMs = DateTime.now().difference(startTime).inMilliseconds.toDouble();
+      // Skip this tick if still processing events from previous tick
+      if (_isProcessingEvents) {
+        return;
+      }
 
-      // Play all events that should have occurred by now
+      // Process events asynchronously with await for proper sequencing
+      _processEvents();
+    });
+  }
+
+  /// Process MIDI events with proper sequencing
+  Future<void> _processEvents() async {
+    if (_isProcessingEvents || _playbackStartTime == null) return;
+
+    _isProcessingEvents = true;
+
+    try {
+      final elapsedMs = DateTime.now().difference(_playbackStartTime!).inMilliseconds.toDouble();
+
+      // Process events that should have occurred by now
+      // Limit to 10 events per batch to prevent any potential bursts
+      int eventsProcessed = 0;
+      const maxEventsPerBatch = 10;
+
       while (_currentEventIndex < _timedEvents!.length &&
-             _timedEvents![_currentEventIndex].timeMs <= elapsedMs) {
+             _timedEvents![_currentEventIndex].timeMs <= elapsedMs &&
+             eventsProcessed < maxEventsPerBatch) {
         final event = _timedEvents![_currentEventIndex];
 
         final noteKey = '${event.channel}:${event.noteNumber}';
 
-        if (event.isNoteOn) {
-          // Fire and forget - don't await to prevent blocking the timer
-          _midiPro.playNote(
-            channel: event.channel,
-            key: event.noteNumber,
-            velocity: event.velocity,
-            sfId: _soundfontId,
-          );
-          _activeNotes.add(noteKey);
-        } else {
-          // Fire and forget - don't await to prevent blocking the timer
-          _midiPro.stopNote(
-            channel: event.channel,
-            key: event.noteNumber,
-            sfId: _soundfontId,
-          );
-          _activeNotes.remove(noteKey);
+        try {
+          if (event.isNoteOn) {
+            // Await to ensure proper sequencing
+            await _midiPro.playNote(
+              channel: event.channel,
+              key: event.noteNumber,
+              velocity: event.velocity,
+              sfId: _soundfontId,
+            );
+            _activeNotes.add(noteKey);
+          } else {
+            // Await to ensure proper sequencing
+            await _midiPro.stopNote(
+              channel: event.channel,
+              key: event.noteNumber,
+              sfId: _soundfontId,
+            );
+            _activeNotes.remove(noteKey);
+          }
+        } catch (e) {
+          print('=== MIDI Player: Error playing event: $e ===');
         }
 
         _currentEventIndex++;
+        eventsProcessed++;
       }
 
       // Stop when all events have been played
       if (_currentEventIndex >= _timedEvents!.length) {
-        timer.cancel();
-        stop();
+        _playbackTimer?.cancel();
+        await stop();
       }
-    });
+    } finally {
+      _isProcessingEvents = false;
+    }
   }
 
   /// Pause playback
   Future<void> pause() async {
     _playbackTimer?.cancel();
     _isPlaying = false;
+    _isProcessingEvents = false;
 
     // Stop all notes using the stopAllNotes method (only if initialized)
     if (_isInitialized && _soundfontId > 0) {
@@ -260,7 +292,9 @@ class MidiPlayerService {
   Future<void> stop() async {
     _playbackTimer?.cancel();
     _isPlaying = false;
+    _isProcessingEvents = false;
     _currentEventIndex = 0;
+    _playbackStartTime = null;
 
     // Stop all notes using the stopAllNotes method (only if initialized)
     if (_isInitialized && _soundfontId > 0) {
