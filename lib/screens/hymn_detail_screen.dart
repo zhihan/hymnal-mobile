@@ -132,6 +132,9 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
         }
       }
 
+      // Extract MIDI URL if available
+      final midiUrl = hymn.metadata?['midi_tune_url'] as String?;
+
       setState(() {
         _currentHymn = hymn;
         _nextHymnNumber = nextNumber;
@@ -140,14 +143,11 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
         _isLoading = false;
         _transposeOffset = 0; // Reset transpose when loading new hymn
         _isMidiLoaded = false; // Reset MIDI loaded state
-        _currentMidiUrl = null; // Reset MIDI URL
+        _currentMidiUrl = midiUrl; // Set MIDI URL if available
       });
 
       // Stop any currently playing MIDI
       await _midiPlayer.stop();
-
-      // Load MIDI if available
-      await _loadMidiIfAvailable();
 
       // Preload adjacent hymns in the background
       _preloadAdjacentHymns(hymnNumber);
@@ -192,41 +192,41 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     }
   }
 
-  Future<void> _loadMidiIfAvailable() async {
-    if (_currentHymn?.metadata == null) {
-      setState(() {
-        _isMidiLoaded = false;
-        _currentMidiUrl = null;
-      });
+  Future<void> _loadAndPlayMidi() async {
+    if (_currentMidiUrl == null || _currentMidiUrl!.isEmpty) {
       return;
     }
 
-    final midiUrl = _currentHymn!.metadata!['midi_tune_url'] as String?;
-    if (midiUrl == null || midiUrl.isEmpty) {
-      setState(() {
-        _isMidiLoaded = false;
-        _currentMidiUrl = null;
-      });
+    // If already loaded, just toggle play/pause
+    if (_isMidiLoaded) {
+      await _midiPlayer.togglePlayPause();
+      setState(() {});
       return;
     }
 
-    // Store the URL to show the button
-    setState(() {
-      _currentMidiUrl = midiUrl;
-    });
-
+    // Load MIDI for the first time
     try {
-      await _midiPlayer.load(midiUrl, transposeOffset: _transposeOffset);
+      await _midiPlayer.load(_currentMidiUrl!, transposeOffset: _transposeOffset);
       setState(() {
         _isMidiLoaded = true;
       });
-      print('MIDI loaded successfully: $midiUrl');
+      print('MIDI loaded successfully: $_currentMidiUrl');
+
+      // Start playing after loading
+      await _midiPlayer.togglePlayPause();
+      setState(() {});
     } catch (e) {
       setState(() {
         _isMidiLoaded = false;
       });
       print('Failed to load MIDI: $e');
-      // Keep button visible even if loading fails - user can still try to play
+
+      // Show error to user
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text('Failed to load MIDI: $e')),
+        );
+      }
     }
   }
 
@@ -280,8 +280,13 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   }
 
   void _updateMidiTransposition() {
-    if (_isMidiLoaded) {
-      _midiPlayer.updateTransposition(_transposeOffset);
+    if (_isMidiLoaded && _currentMidiUrl != null) {
+      // Reload MIDI with new transposition
+      _midiPlayer.load(_currentMidiUrl!, transposeOffset: _transposeOffset).then((_) {
+        print('MIDI reloaded with transposition: $_transposeOffset');
+      }).catchError((e) {
+        print('Failed to reload MIDI with transposition: $e');
+      });
     }
   }
 
@@ -800,7 +805,7 @@ $deepLink
               ),
               boxShadow: [
                 BoxShadow(
-                  color: Colors.black.withOpacity(0.1),
+                  color: Colors.black.withValues(alpha: 0.1),
                   blurRadius: 4,
                   offset: const Offset(0, -2),
                 ),
@@ -811,10 +816,7 @@ $deepLink
               children: [
                 // MIDI play/pause button
                 ElevatedButton.icon(
-                  onPressed: () async {
-                    await _midiPlayer.togglePlayPause();
-                    setState(() {}); // Update UI after toggle
-                  },
+                  onPressed: _loadAndPlayMidi,
                   icon: Icon(
                     _midiPlayer.isPlaying ? Icons.pause : Icons.play_arrow,
                     size: 24,
