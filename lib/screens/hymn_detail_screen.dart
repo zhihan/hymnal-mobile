@@ -751,19 +751,6 @@ $deepLink
                   onPressed: _transposeOffset != 0 ? _resetTranspose : null,
                   child: const Text('Reset'),
                 ),
-                // MIDI play/pause button
-                if (_currentMidiUrl != null) ...[
-                  const SizedBox(width: 16),
-                  IconButton(
-                    icon: Icon(_midiPlayer.isPlaying ? Icons.pause_circle : Icons.play_circle),
-                    onPressed: () async {
-                      await _midiPlayer.togglePlayPause();
-                      setState(() {}); // Update UI after toggle
-                    },
-                    tooltip: _midiPlayer.isPlaying ? 'Pause MIDI' : 'Play MIDI',
-                    iconSize: 32,
-                  ),
-                ],
               ],
             ),
           ),
@@ -802,6 +789,50 @@ $deepLink
                   },
                 ),
         ),
+        // Bottom button bar
+        if (_currentMidiUrl != null)
+          Container(
+            padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 12.0),
+            decoration: BoxDecoration(
+              color: Colors.grey[100],
+              border: Border(
+                top: BorderSide(color: Colors.grey[300]!, width: 1),
+              ),
+              boxShadow: [
+                BoxShadow(
+                  color: Colors.black.withOpacity(0.1),
+                  blurRadius: 4,
+                  offset: const Offset(0, -2),
+                ),
+              ],
+            ),
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                // MIDI play/pause button
+                ElevatedButton.icon(
+                  onPressed: () async {
+                    await _midiPlayer.togglePlayPause();
+                    setState(() {}); // Update UI after toggle
+                  },
+                  icon: Icon(
+                    _midiPlayer.isPlaying ? Icons.pause : Icons.play_arrow,
+                    size: 24,
+                  ),
+                  label: Text(
+                    _midiPlayer.isPlaying ? 'Pause' : 'Play',
+                    style: const TextStyle(fontSize: 16),
+                  ),
+                  style: ElevatedButton.styleFrom(
+                    padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+                    backgroundColor: Theme.of(context).colorScheme.primary,
+                    foregroundColor: Colors.white,
+                  ),
+                ),
+                // Add more buttons here in the future
+              ],
+            ),
+          ),
       ],
     );
   }
