@@ -806,13 +806,22 @@ $deepLink
                         transposeOffset: index == _currentPageIndex ? _transposeOffset : 0,
                         showChords: _showChords,
                         hymnIdTag: '${_bookShortNames[_currentBookId] ?? _currentBookId.toUpperCase()}$hymnNumber',
-                        onCategoryTap: (category) {
-                          Navigator.push(
-                            context,
-                            MaterialPageRoute(
-                              builder: (context) => CategoryDetailScreen(categoryName: category),
-                            ),
-                          );
+                        onCategoryTap: (category) async {
+                          // Stop MIDI player before navigating away
+                          await _midiPlayer.stop();
+                          if (mounted) {
+                            setState(() {});
+                          }
+
+                          if (mounted) {
+                            // ignore: use_build_context_synchronously
+                            Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                builder: (context) => CategoryDetailScreen(categoryName: category),
+                              ),
+                            );
+                          }
                         },
                       );
                     }
