@@ -59,20 +59,60 @@
         {
           "segments": [
             {
-              "chord": "",
+              "chord": "Dm",
               "text": "你 爱"
             },
             {
-              "chord": "Dm",
+              "chord": "A",
               "text": "深 广，"
             },
             {
-              "chord": "",
-              "text": "远 超 海"
+              "chord": "A",
+              "text": "远 超"
+            },
+            {
+              "chord": "Dm",
+              "text": "海 洋！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "C",
+              "text": "这 爱"
+            },
+            {
+              "chord": "Dm",
+              "text": "竟 然"
+            },
+            {
+              "chord": "A",
+              "text": "临 及"
+            },
+            {
+              "chord": "Dm",
+              "text": "我！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "F",
+              "text": "你 爱"
             },
             {
               "chord": "C",
-              "text": "洋！"
+              "text": "叫 你"
+            },
+            {
+              "chord": "Dm",
+              "text": "舍 了"
+            },
+            {
+              "chord": "A",
+              "text": "自 己，"
             }
           ]
         },
@@ -80,14 +120,66 @@
           "segments": [
             {
               "chord": "Dm",
-              "text": "这 爱"
+              "text": "为 要"
             },
             {
-              "chord": "",
-              "text": "竟 然"
+              "chord": "C",
+              "text": "叫 我"
+            },
+            {
+              "chord": "Dm",
+              "text": "得 着"
+            },
+            {
+              "chord": "A",
+              "text": "你，"
             }
           ]
-        }
+        },
+        {
+          "segments": [
+            {
+              "chord": "Dm",
+              "text": "你 爱"
+            },
+            {
+              "chord": "A",
+              "text": "叫 你"
+            },
+            {
+              "chord": "A",
+              "text": "与 我"
+            },
+            {
+              "chord": "Dm",
+              "text": "合一，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "叫"
+            },
+            {
+              "chord": "C",
+              "text": "我"
+            },
+            {
+              "chord": "Dm",
+              "text": "成 为"
+            },
+            {
+              "chord": "A",
+              "text": "你 肢"
+            },
+            {
+              "chord": "Dm",
+              "text": "体。"
+            }
+          ]
+        }                          
       ],
       "type": "verse",
       "number": "1"
