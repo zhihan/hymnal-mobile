@@ -111,13 +111,7 @@
               "text": "own."
             }
           ]
-        }
-      ],
-      "type": "verse",
-      "number": "1"
-    },
-    {
-      "lines": [
+        },
         {
           "segments": [
             {
@@ -139,14 +133,64 @@
             {
               "chord": "D7",
               "text": "His"
+            },
+            {
+              "chord": "G",
+              "text": "own."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Start in the outer court,"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "own."
+              "chord": "",
+              "text": "But aim to get inside;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The Holy Place is good,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "But do not there abide."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Leave sin behind—it’s put away;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "We’re in the veil with God to stay."
             }
           ]
         }
@@ -450,8 +494,13 @@
     "We'rein thehighestplace.",
     "We're meeting here around thethrone,",
     "EnjoyingGod withall Hisown.",
-    "EnjoyingGod withallHis",
-    "own.",
+    "EnjoyingGod withallHisown.",
+    "Start in the outer court,",
+    "But aim to get inside;",
+    "The Holy Place is good,",
+    "But do not there abide.",
+    "Leave sin behind—it’s put away;",
+    "We’re in the veil with God to stay.",
     "To rise from earth to heav’n,",
     "A deeper turn we need;",
     "To be where Christ is now",

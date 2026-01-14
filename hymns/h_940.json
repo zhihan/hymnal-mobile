@@ -111,13 +111,7 @@
               "text": "rest."
             }
           ]
-        }
-      ],
-      "type": "verse",
-      "number": "1"
-    },
-    {
-      "lines": [
+        },
         {
           "segments": [
             {
@@ -131,15 +125,15 @@
             {
               "chord": "",
               "text": "week the"
+            },
+            {
+              "chord": "A",
+              "text": "best,"
             }
           ]
         },
         {
           "segments": [
-            {
-              "chord": "A",
-              "text": "best,"
-            },
             {
               "chord": "A7",
               "text": "Emblem"
@@ -163,6 +157,60 @@
             {
               "chord": "D",
               "text": "rest."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "While we pray for pard’ning grace,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Through the dear Redeemer’s name,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Show Thy reconciled face;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Take away our sin and shame:"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "From our worldly cares set free,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "May we rest this day in Thee."
             }
           ]
         }
@@ -280,6 +328,7 @@
     }
   ],
   "metadata": {
+    "lyrics": "John Newton",
     "category": "The Lord’s Day",
     "time": "3/4",
     "hymn_code": "12334327124321",
@@ -295,8 +344,14 @@
     "On theday theLordhathmade;",
     "Day ofall theweek thebest,",
     "Emblemof eternalrest.",
-    "Day ofall theweek the",
-    "best,Emblemofeternalrest.",
+    "Day ofall theweek thebest,",
+    "Emblemofeternalrest.",
+    "While we pray for pard’ning grace,",
+    "Through the dear Redeemer’s name,",
+    "Show Thy reconciled face;",
+    "Take away our sin and shame:",
+    "From our worldly cares set free,",
+    "May we rest this day in Thee.",
     "Here we come Thy name to praise,",
     "Let us feel Thy presence near;",
     "May Thy glory meet our eyes,",

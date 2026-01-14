@@ -59,13 +59,7 @@
               "text": "all!"
             }
           ]
-        }
-      ],
-      "type": "verse",
-      "number": "1"
-    },
-    {
-      "lines": [
+        },
         {
           "segments": [
             {
@@ -103,14 +97,48 @@
             {
               "chord": "A7",
               "text": "Lord of"
+            },
+            {
+              "chord": "D",
+              "text": "all!"
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Ye saints redeemed from Adam’s race,"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "all!"
+              "chord": "",
+              "text": "Ye ransomed from the fall,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Hail Him who saves you by His grace,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And crown Him Lord of all."
             }
           ]
         }
@@ -196,6 +224,7 @@
     }
   ],
   "metadata": {
+    "lyrics": "Edward Perronet",
     "category": "Praise of the Lord",
     "time": "4/4",
     "hymn_code": "51133212321321",
@@ -210,8 +239,11 @@
     "With one accord His praise proclaim,",
     "And crown HimLord ofall!",
     "Withone accordHispraise proclaim,",
-    "AndcrownHimLord of",
-    "all!",
+    "AndcrownHimLord ofall!",
+    "Ye saints redeemed from Adam’s race,",
+    "Ye ransomed from the fall,",
+    "Hail Him who saves you by His grace,",
+    "And crown Him Lord of all.",
     "Tell forth the only Name that’s giv’n",
     "On which we now may call,",
     "The Name adored by hosts in heav’n,",

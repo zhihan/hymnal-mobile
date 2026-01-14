@@ -79,13 +79,7 @@
               "text": "y."
             }
           ]
-        }
-      ],
-      "type": "verse",
-      "number": "1"
-    },
-    {
-      "lines": [
+        },
         {
           "segments": [
             {
@@ -94,19 +88,31 @@
             },
             {
               "chord": "C",
-              "text": "y. Of"
+              "text": "y."
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "",
+              "text": "Of"
+            },
+            {
               "chord": "G",
               "text": "Thy recover"
             },
             {
               "chord": "D",
-              "text": "y. A"
+              "text": "y."
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "A"
             },
             {
               "chord": "G",
@@ -135,6 +141,44 @@
             {
               "chord": "G",
               "text": "y."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "By revelation I perceive"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The power that raised Christ from the dead;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When I by faith this power receive,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I to the church am led."
             }
           ]
         }
@@ -334,6 +378,7 @@
     }
   ],
   "metadata": {
+    "lyrics": "R. K.",
     "category": "The Church",
     "time": "4/4",
     "hymn_code": "511123166653",
@@ -356,9 +401,14 @@
     "Truerevelationgrant tome;",
     "Avisionclear, OLord, impart",
     "Of Thy recovery.",
-    "Of Thy recovery. Of",
-    "Thy recovery. Avisionclear, OLord, impart",
     "Of Thy recovery.",
+    "OfThy recovery.",
+    "Avisionclear, OLord, impart",
+    "Of Thy recovery.",
+    "By revelation I perceive",
+    "The power that raised Christ from the dead;",
+    "When I by faith this power receive,",
+    "I to the church am led.",
     "Thy mighty power has set me free",
     "From all the world’s distracting things;",
     "An entrance to the local church",

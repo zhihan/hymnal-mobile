@@ -7,8 +7,16 @@
         {
           "segments": [
             {
-              "chord": "",
-              "text": "我们已得着释放，"
+              "chord": "D",
+              "text": "我们已"
+            },
+            {
+              "chord": "G",
+              "text": "得着"
+            },
+            {
+              "chord": "D",
+              "text": "释放，"
             }
           ]
         },
@@ -23,7 +31,7 @@
         {
           "segments": [
             {
-              "chord": "",
+              "chord": "D",
               "text": "我们已得着释放，"
             }
           ]
@@ -32,7 +40,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "赞美主！（赞美主）"
+              "text": "赞美"
+            },
+            {
+              "chord": "Em",
+              "text": "主！（赞美主）"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "A7",
+              "text": "脱离"
+            },
+            {
+              "chord": "D",
+              "text": "了老旧宗教，"
             }
           ]
         },
@@ -40,7 +64,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "脱离了老旧宗教，"
+              "text": "脱离"
+            },
+            {
+              "chord": "G",
+              "text": "了死的"
+            },
+            {
+              "chord": "Em",
+              "text": "规条，"
             }
           ]
         },
@@ -48,7 +80,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "脱离了死的规条，"
+              "text": "我们"
+            },
+            {
+              "chord": "D",
+              "text": "已得着"
+            },
+            {
+              "chord": "A7",
+              "text": "释放，"
             }
           ]
         },
@@ -56,15 +96,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "我们已得着释放，"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "赞美主！（赞美主）"
+              "text": "赞美"
+            },
+                        {
+              "chord": "DGD",
+              "text": "主！（赞美主）"
             }
           ]
         }

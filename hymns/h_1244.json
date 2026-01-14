@@ -107,13 +107,7 @@
               "text": "ty!"
             }
           ]
-        }
-      ],
-      "type": "verse",
-      "number": "1"
-    },
-    {
-      "lines": [
+        },
         {
           "segments": [
             {
@@ -127,11 +121,7 @@
             {
               "chord": "",
               "text": "joy of"
-            }
-          ]
-        },
-        {
-          "segments": [
+            },
             {
               "chord": "Am",
               "text": "u"
@@ -143,6 +133,60 @@
             {
               "chord": "G",
               "text": "ty!"
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When all are sweetly joined"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "(True followers of the Lamb),"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "They’re one in heart and mind,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "They think and speak the same;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When all in love together dwell;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "The comfort is unspeakable!"
             }
           ]
         }
@@ -368,6 +412,7 @@
     }
   ],
   "metadata": {
+    "lyrics": "Charles Wesley",
     "category": "The Church",
     "time": "4/4",
     "hymn_code": "111565512321",
@@ -392,8 +437,13 @@
     "Thisfruit ofrighteousness;",
     "When brethren all inone agree,",
     "Theyknow thejoy ofunity!",
-    "Theyknow thejoy of",
-    "unity!",
+    "Theyknow thejoy ofunity!",
+    "When all are sweetly joined",
+    "(True followers of the Lamb),",
+    "They’re one in heart and mind,",
+    "They think and speak the same;",
+    "When all in love together dwell;",
+    "The comfort is unspeakable!",
     "Where unity takes place,",
     "The joys of heav’n we prove;",
     "This is the gospel grace,",

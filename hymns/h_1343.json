@@ -179,6 +179,70 @@
               "text": "er."
             }
           ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "By"
+            },
+            {
+              "chord": "Bm",
+              "text": "this shall"
+            },
+            {
+              "chord": "A",
+              "text": "all men"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Know"
+            },
+            {
+              "chord": "D",
+              "text": "you are"
+            },
+            {
+              "chord": "",
+              "text": "My dis"
+            },
+            {
+              "chord": "Bm",
+              "text": "ciples"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "If"
+            },
+            {
+              "chord": "G",
+              "text": "you have"
+            },
+            {
+              "chord": "D",
+              "text": "love one"
+            },
+            {
+              "chord": "",
+              "text": "to an"
+            },
+            {
+              "chord": "A",
+              "text": "oth"
+            },
+            {
+              "chord": "D",
+              "text": "er."
+            }
+          ]
         }
       ],
       "type": "verse",
@@ -201,6 +265,9 @@
     "AsI havelovedyou,",
     "That youlove oneanother",
     "AsIhave lovedyou.",
+    "Bythis shallall men",
+    "Knowyou areMy disciples",
+    "Ifyou havelove oneto another.",
     "Bythis shallall men",
     "Knowyou areMy disciples",
     "Ifyou havelove oneto another."

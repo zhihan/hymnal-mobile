@@ -91,13 +91,7 @@
               "text": "sight."
             }
           ]
-        }
-      ],
-      "type": "verse",
-      "number": "1"
-    },
-    {
-      "lines": [
+        },
         {
           "segments": [
             {
@@ -123,6 +117,44 @@
             {
               "chord": "D",
               "text": "sight."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Keep up the song of faith,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And let your heart be strong,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For God delights when faith can praise"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Though dark the night and long."
             }
           ]
         }
@@ -208,6 +240,7 @@
     }
   ],
   "metadata": {
+    "lyrics": "Margaret E. Barber",
     "category": "Prayer",
     "time": "4/4",
     "hymn_code": "55654321321432",
@@ -231,6 +264,10 @@
     "Andasyoupraise, theLord willwork",
     "Tochange yourfaith tosight.",
     "Tochangeyourfaithtosight.",
+    "Keep up the song of faith,",
+    "And let your heart be strong,",
+    "For God delights when faith can praise",
+    "Though dark the night and long.",
     "Keep up the song of faith,",
     "The foe will hear and flee;",
     "Oh, let not Satan hush your song,",

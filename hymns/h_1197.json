@@ -97,31 +97,35 @@
           "segments": [
             {
               "chord": "",
-              "text": "In"
+              "text": "Sisters: In the"
             },
             {
               "chord": "G",
-              "text": "the light,"
-            },
-            {
-              "chord": "",
-              "text": "We"
+              "text": "light,"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "",
+              "text": "Brothers: We are"
+            },
+            {
               "chord": "A7",
-              "text": "are walking—"
+              "text": "walking—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Sisters: Fellow"
             },
             {
               "chord": "F♯m",
-              "text": "Fellowship,"
-            },
-            {
-              "chord": "Bm",
-              "text": "We're"
+              "text": "ship,"
             }
           ]
         },
@@ -129,11 +133,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "enjoy"
+              "text": "Brothers: We're en"
+            },
+            {
+              "chord": "Bm",
+              "text": "joying;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Sisters: And the"
             },
             {
               "chord": "Em",
-              "text": "ing; And"
+              "text": "blood"
             }
           ]
         },
@@ -141,11 +157,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "the"
+              "text": "Brothers: Of God's"
             },
             {
               "chord": "A7",
-              "text": "blood Of"
+              "text": "Son"
             }
           ]
         },
@@ -153,55 +169,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "God's"
+              "text": "Everyone: Is cleansing"
             },
             {
               "chord": "D",
-              "text": "Son Is"
-            },
-            {
-              "chord": "",
-              "text": "cleans"
-            },
-            {
-              "chord": "D7",
-              "text": "ing"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
               "text": "us from"
             },
             {
-              "chord": "G",
-              "text": "sin. We"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "con"
-            },
-            {
-              "chord": "A7",
-              "text": "fess, He"
-            },
-            {
-              "chord": "",
-              "text": "is"
-            },
-            {
-              "chord": "F♯m",
-              "text": "faithful"
-            },
-            {
-              "chord": "Bm",
-              "text": "To forgive—"
+              "chord": "D7",
+              "text": "sin."
             }
           ]
         }
@@ -213,11 +189,47 @@
         {
           "segments": [
             {
-              "chord": "Em",
-              "text": "He is"
+              "chord": "",
+              "text": "Sisters: We con"
+            },
+            {
+              "chord": "G",
+              "text": "fess,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Brothers: He is"
             },
             {
               "chord": "A7",
+              "text": "faithful"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Sisters: To for"
+            },
+            {
+              "chord": "F♯m",
+              "text": "give—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Brothers: He is"
+            },
+            {
+              "chord": "Bm",
               "text": "righteous."
             }
           ]
@@ -226,51 +238,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "What a"
-            },
-            {
-              "chord": "D",
-              "text": "joy! We"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "are cleansed From"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "every sin! God is"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "light, and"
-            },
-            {
-              "chord": "A",
-              "text": "in Him"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "there is no"
+              "text": "Sisters: What a"
             },
             {
               "chord": "Em",
-              "text": "darkness"
+              "text": "joy!"
             }
           ]
         },
@@ -278,15 +250,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "at all!"
+              "text": "Brothers: We are"
             },
             {
               "chord": "A7",
-              "text": "Oh,"
+              "text": "cleansed"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Everyone: From every"
             },
             {
-              "chord": "G",
-              "text": "how"
+              "chord": "D",
+              "text": "sin!"
             }
           ]
         }
@@ -295,6 +275,7 @@
     }
   ],
   "metadata": {
+    "lyrics": "Frank Scavo",
     "category": "Experience of God",
     "time": "4/4",
     "hymn_code": "5435135432572",
@@ -317,19 +298,19 @@
     "Oh, howwelove withinHispresence todwell!",
     "In this light we enjoy a constantcleansingwithin—",
     "Fromeverysin!",
-    "Inthe light,We",
-    "are walking—Fellowship,We're",
-    "enjoying; And",
-    "theblood Of",
-    "God'sSon Iscleansing",
-    "us fromsin. We",
-    "confess, HeisfaithfulTo forgive—",
-    "He isrighteous.",
-    "What ajoy! We",
-    "are cleansed From",
-    "every sin! God is",
-    "light, andin Him",
-    "there is nodarkness",
-    "at all!Oh,how"
+    "Sisters: In thelight,",
+    "Brothers: We arewalking—",
+    "Sisters: Fellowship,",
+    "Brothers: We're enjoying;",
+    "Sisters: And theblood",
+    "Brothers: Of God'sSon",
+    "Everyone: Is cleansingus fromsin.",
+    "Sisters: We confess,",
+    "Brothers: He isfaithful",
+    "Sisters: To forgive—",
+    "Brothers: He isrighteous.",
+    "Sisters: What ajoy!",
+    "Brothers: We arecleansed",
+    "Everyone: From everysin!"
   ]
 }

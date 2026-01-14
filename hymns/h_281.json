@@ -79,13 +79,7 @@
               "text": "sight."
             }
           ]
-        }
-      ],
-      "type": "verse",
-      "number": "1"
-    },
-    {
-      "lines": [
+        },
         {
           "segments": [
             {
@@ -103,14 +97,48 @@
             {
               "chord": "A7",
               "text": "my"
+            },
+            {
+              "chord": "D",
+              "text": "sight."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Lord, the Spirit, Love divine,"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "sight."
+              "chord": "",
+              "text": "Glow within this heart of mine,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Kindle every high desire,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Perish self in Thy pure fire."
             }
           ]
         }
@@ -234,6 +262,7 @@
     }
   ],
   "metadata": {
+    "lyrics": "Samuel Longfellow",
     "category": "Fulness of the Spirit",
     "time": "2/4",
     "hymn_code": "111513543",
@@ -247,8 +276,11 @@
     "Dawn upon thisheartofmine;",
     "Word ofGod, andinwardlight,",
     "Wake myspirit,clear mysight.",
-    "Wake myspirit,clearmy",
-    "sight.",
+    "Wake myspirit,clearmysight.",
+    "Lord, the Spirit, Love divine,",
+    "Glow within this heart of mine,",
+    "Kindle every high desire,",
+    "Perish self in Thy pure fire.",
     "Lord, the Spirit, Power divine,",
     "Fill and nerve this will of mine;",
     "By Thee may I strongly live,",

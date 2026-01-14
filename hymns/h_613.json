@@ -87,13 +87,7 @@
               "text": "home."
             }
           ]
-        }
-      ],
-      "type": "verse",
-      "number": "1"
-    },
-    {
-      "lines": [
+        },
         {
           "segments": [
             {
@@ -111,6 +105,44 @@
             {
               "chord": "C",
               "text": "home."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I stand upon the mount of God,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "With sunlight in my soul;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I see the storms in vales beneath,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I hear the thunder’s roll."
             }
           ]
         }
@@ -196,6 +228,7 @@
     }
   ],
   "metadata": {
+    "lyrics": "G. B. Bubier",
     "category": "Experience of God",
     "time": "3/4",
     "hymn_code": "553451776",
@@ -210,6 +243,10 @@
     "I leave my joys, Ileave mysins,",
     "AndseekinTheemyhome.",
     "Andseek inThee myhome.",
+    "I stand upon the mount of God,",
+    "With sunlight in my soul;",
+    "I see the storms in vales beneath,",
+    "I hear the thunder’s roll.",
     "But I am calm with Thee, my God,",
     "Beneath these glorious skies;",
     "And to the height on which I stand",

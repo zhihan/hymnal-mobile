@@ -147,13 +147,7 @@
               "text": "care."
             }
           ]
-        }
-      ],
-      "type": "verse",
-      "number": "1"
-    },
-    {
-      "lines": [
+        },
         {
           "segments": [
             {
@@ -167,6 +161,60 @@
             {
               "chord": "D",
               "text": "care."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "“Lord, Thou hast here Thy ninety and nine;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Are they not enough for Thee?”"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "But the Shepherd made answer: “This of Mine"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Has wandered away from Me;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And although the road be rough and steep,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "I go to the desert to find My sheep.”"
             }
           ]
         }
@@ -338,6 +386,7 @@
     }
   ],
   "metadata": {
+    "lyrics": "Elizabeth Cecilia Clephane",
     "category": "Gospel",
     "time": "6/8",
     "hymn_code": "55111117711133112",
@@ -354,6 +403,12 @@
     "Away onthemountainswild andbare,",
     "Away fromthetenderShepherd'scare.",
     "Away from the tenderShepherd'scare.",
+    "“Lord, Thou hast here Thy ninety and nine;",
+    "Are they not enough for Thee?”",
+    "But the Shepherd made answer: “This of Mine",
+    "Has wandered away from Me;",
+    "And although the road be rough and steep,",
+    "I go to the desert to find My sheep.”",
     "But none of the ransomed ever knew",
     "How deep were the waters crossed;",
     "Nor how dark was the night which the Lord passed through",

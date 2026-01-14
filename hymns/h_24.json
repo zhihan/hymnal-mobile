@@ -59,13 +59,7 @@
               "text": "trace."
             }
           ]
-        }
-      ],
-      "type": "verse",
-      "number": "1"
-    },
-    {
-      "lines": [
+        },
         {
           "segments": [
             {
@@ -86,12 +80,16 @@
             },
             {
               "chord": "",
-              "text": "us, In"
+              "text": "us,"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "In"
+            },
             {
               "chord": "D",
               "text": "Him"
@@ -107,6 +105,44 @@
             {
               "chord": "D",
               "text": "trace."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "What Thou has planned is all in Him,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thy way of grace is He;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "In Him, Thy Wisdom, we have all,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "That glory be to Thee."
             }
           ]
         }
@@ -268,6 +304,7 @@
     }
   ],
   "metadata": {
+    "lyrics": "Witness Lee",
     "category": "Worship of the Father",
     "time": "4/4",
     "hymn_code": "51133212321321",
@@ -290,8 +327,12 @@
     "Thy wisdom with Thygrace;",
     "As wisdom Thou mad'st Him to us,",
     "In Him Thyway wetrace.",
-    "AswisdomThou mad'stHim tous, In",
-    "HimThyway wetrace.",
+    "AswisdomThou mad'stHim tous,",
+    "InHimThyway wetrace.",
+    "What Thou has planned is all in Him,",
+    "Thy way of grace is He;",
+    "In Him, Thy Wisdom, we have all,",
+    "That glory be to Thee.",
     "In Him, who is our righteousness,",
     "Have we been justified;",
     "In Him, who is our holiness,",
