@@ -7,7 +7,7 @@ import '../models/hymn_db.dart';
 
 class HymnDbService {
   static Isar? _isar;
-  static const int _currentDbVersion = 12; // Increment this when data structure changes
+  static const int _currentDbVersion = 13; // Increment this when data structure changes
 
   static Future<Isar> get isar async {
     if (_isar != null) return _isar!;
@@ -199,6 +199,49 @@ class HymnDbService {
     }
     return Map.fromEntries(
       stats.entries.toList()..sort((a, b) => a.key.compareTo(b.key))
+    );
+  }
+
+  /// Get all unique lyricists sorted alphabetically
+  static Future<List<String>> getAllLyricists() async {
+    final db = await isar;
+    final allHymns = await db.hymnDbs.where().findAll();
+    final lyricistsSet = <String>{};
+    for (final hymn in allHymns) {
+      if (hymn.lyricist != null && hymn.lyricist!.isNotEmpty) {
+        lyricistsSet.add(hymn.lyricist!);
+      }
+    }
+    return lyricistsSet.toList()..sort();
+  }
+
+  /// Get all hymns by a specific lyricist, sorted by number
+  static Future<List<HymnDb>> getHymnsByLyricist(String lyricist) async {
+    final db = await isar;
+    return await db.hymnDbs
+        .filter()
+        .lyricistEqualTo(lyricist, caseSensitive: false)
+        .sortByNumber()
+        .findAll();
+  }
+
+  /// Get lyricist statistics (name → count)
+  /// Only includes lyricists with more than one hymn
+  static Future<Map<String, int>> getLyricistStats() async {
+    final db = await isar;
+    final allHymns = await db.hymnDbs.where().findAll();
+    final stats = <String, int>{};
+    for (final hymn in allHymns) {
+      if (hymn.lyricist != null && hymn.lyricist!.isNotEmpty) {
+        stats[hymn.lyricist!] = (stats[hymn.lyricist!] ?? 0) + 1;
+      }
+    }
+    // Filter to only include lyricists with more than one hymn
+    final filteredStats = Map<String, int>.fromEntries(
+      stats.entries.where((entry) => entry.value > 1)
+    );
+    return Map.fromEntries(
+      filteredStats.entries.toList()..sort((a, b) => a.key.compareTo(b.key))
     );
   }
 

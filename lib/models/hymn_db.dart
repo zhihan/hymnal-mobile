@@ -29,6 +29,9 @@ class HymnDb {
 
   String? hymnCode;
 
+  @Index(type: IndexType.value, caseSensitive: false)
+  String? lyricist;
+
   HymnDb();
 
   String extractFullText(Map<String, dynamic> json) {
@@ -113,6 +116,7 @@ class HymnDb {
     hymn.category = metadata?['category'] as String? ?? '';
     hymn.time = metadata?['time'] as String?;
     hymn.hymnCode = metadata?['hymn_code'] as String?;
+    hymn.lyricist = metadata?['lyrics'] as String?;
 
     hymn.fullText = hymn.extractFullText(json);
 

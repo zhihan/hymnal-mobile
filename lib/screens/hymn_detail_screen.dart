@@ -8,6 +8,7 @@ import '../services/midi_player_service.dart';
 import '../widgets/hymn_display.dart';
 import '../providers/song_list_provider.dart';
 import 'category_detail_screen.dart';
+import 'lyricist_detail_screen.dart';
 
 class HymnDetailScreen extends StatefulWidget {
   final int initialHymnNumber;
@@ -819,6 +820,23 @@ $deepLink
                               context,
                               MaterialPageRoute(
                                 builder: (context) => CategoryDetailScreen(categoryName: category),
+                              ),
+                            );
+                          }
+                        },
+                        onLyricistTap: (lyricist) async {
+                          // Stop MIDI player before navigating away
+                          await _midiPlayer.stop();
+                          if (mounted) {
+                            setState(() {});
+                          }
+
+                          if (mounted) {
+                            // ignore: use_build_context_synchronously
+                            Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                builder: (context) => LyricistDetailScreen(lyricistName: lyricist),
                               ),
                             );
                           }

@@ -4,6 +4,7 @@ import '../models/verse.dart';
 import '../models/line.dart';
 import '../models/segment.dart';
 import '../utils/chord_transposer.dart';
+import '../utils/lyricist_formatter.dart';
 
 /// Widget to display a full hymn with chords and lyrics
 class HymnDisplay extends StatelessWidget {
@@ -12,6 +13,7 @@ class HymnDisplay extends StatelessWidget {
   final bool showChords;
   final String? hymnIdTag;
   final Function(String category)? onCategoryTap;
+  final Function(String lyricist)? onLyricistTap;
 
   const HymnDisplay({
     super.key,
@@ -20,6 +22,7 @@ class HymnDisplay extends StatelessWidget {
     this.showChords = true,
     this.hymnIdTag,
     this.onCategoryTap,
+    this.onLyricistTap,
   });
 
   @override
@@ -51,22 +54,63 @@ class HymnDisplay extends StatelessWidget {
               ),
               const SizedBox(height: 8),
 
-              // Hymn ID tag
+              // Hymn ID tag and lyricist
               if (hymnIdTag != null) ...[
-                Container(
-                  padding: const EdgeInsets.symmetric(horizontal: 8.0, vertical: 4.0),
-                  decoration: BoxDecoration(
-                    color: const Color(0xFF1565C0), // Dark blue background
-                    borderRadius: BorderRadius.circular(4.0),
-                  ),
-                  child: Text(
-                    hymnIdTag!,
-                    style: const TextStyle(
-                      color: Colors.white,
-                      fontSize: 14,
-                      fontWeight: FontWeight.w500,
+                Row(
+                  children: [
+                    Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 8.0, vertical: 4.0),
+                      decoration: BoxDecoration(
+                        color: const Color(0xFF1565C0), // Dark blue background
+                        borderRadius: BorderRadius.circular(4.0),
+                      ),
+                      child: Text(
+                        hymnIdTag!,
+                        style: const TextStyle(
+                          color: Colors.white,
+                          fontSize: 14,
+                          fontWeight: FontWeight.w500,
+                        ),
+                      ),
                     ),
-                  ),
+                    if (hymn.metadata?['lyrics'] != null) ...[
+                      const SizedBox(width: 8),
+                      GestureDetector(
+                        onTap: () {
+                          final lyricist = hymn.metadata!['lyrics'] as String;
+                          if (onLyricistTap != null) {
+                            onLyricistTap!(lyricist);
+                          }
+                        },
+                        child: Container(
+                          padding: const EdgeInsets.symmetric(horizontal: 8.0, vertical: 4.0),
+                          decoration: BoxDecoration(
+                            color: Colors.grey[300],
+                            borderRadius: BorderRadius.circular(4.0),
+                          ),
+                          child: Row(
+                            mainAxisSize: MainAxisSize.min,
+                            children: [
+                              Text(
+                                LyricistFormatter.format(hymn.metadata!['lyrics'] as String?),
+                                style: TextStyle(
+                                  color: Colors.grey[800],
+                                  fontSize: 14,
+                                  fontWeight: FontWeight.w500,
+                                ),
+                              ),
+                              const SizedBox(width: 4),
+                              Icon(
+                                Icons.arrow_forward,
+                                size: 14,
+                                color: Colors.grey[800],
+                              ),
+                            ],
+                          ),
+                        ),
+                      ),
+                    ],
+                  ],
                 ),
                 const SizedBox(height: 8),
               ],

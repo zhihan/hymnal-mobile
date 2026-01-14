@@ -42,23 +42,28 @@ const HymnDbSchema = CollectionSchema(
       name: r'hymnId',
       type: IsarType.string,
     ),
-    r'number': PropertySchema(
+    r'lyricist': PropertySchema(
       id: 5,
+      name: r'lyricist',
+      type: IsarType.string,
+    ),
+    r'number': PropertySchema(
+      id: 6,
       name: r'number',
       type: IsarType.long,
     ),
     r'time': PropertySchema(
-      id: 6,
+      id: 7,
       name: r'time',
       type: IsarType.string,
     ),
     r'title': PropertySchema(
-      id: 7,
+      id: 8,
       name: r'title',
       type: IsarType.string,
     ),
     r'url': PropertySchema(
-      id: 8,
+      id: 9,
       name: r'url',
       type: IsarType.string,
     )
@@ -133,6 +138,19 @@ const HymnDbSchema = CollectionSchema(
           caseSensitive: false,
         )
       ],
+    ),
+    r'lyricist': IndexSchema(
+      id: 2910792558982646179,
+      name: r'lyricist',
+      unique: false,
+      replace: false,
+      properties: [
+        IndexPropertySchema(
+          name: r'lyricist',
+          type: IndexType.value,
+          caseSensitive: false,
+        )
+      ],
     )
   },
   links: {},
@@ -160,6 +178,12 @@ int _hymnDbEstimateSize(
   }
   bytesCount += 3 + object.hymnId.length * 3;
   {
+    final value = object.lyricist;
+    if (value != null) {
+      bytesCount += 3 + value.length * 3;
+    }
+  }
+  {
     final value = object.time;
     if (value != null) {
       bytesCount += 3 + value.length * 3;
@@ -181,10 +205,11 @@ void _hymnDbSerialize(
   writer.writeString(offsets[2], object.fullText);
   writer.writeString(offsets[3], object.hymnCode);
   writer.writeString(offsets[4], object.hymnId);
-  writer.writeLong(offsets[5], object.number);
-  writer.writeString(offsets[6], object.time);
-  writer.writeString(offsets[7], object.title);
-  writer.writeString(offsets[8], object.url);
+  writer.writeString(offsets[5], object.lyricist);
+  writer.writeLong(offsets[6], object.number);
+  writer.writeString(offsets[7], object.time);
+  writer.writeString(offsets[8], object.title);
+  writer.writeString(offsets[9], object.url);
 }
 
 HymnDb _hymnDbDeserialize(
@@ -200,10 +225,11 @@ HymnDb _hymnDbDeserialize(
   object.hymnCode = reader.readStringOrNull(offsets[3]);
   object.hymnId = reader.readString(offsets[4]);
   object.id = id;
-  object.number = reader.readLong(offsets[5]);
-  object.time = reader.readStringOrNull(offsets[6]);
-  object.title = reader.readString(offsets[7]);
-  object.url = reader.readString(offsets[8]);
+  object.lyricist = reader.readStringOrNull(offsets[5]);
+  object.number = reader.readLong(offsets[6]);
+  object.time = reader.readStringOrNull(offsets[7]);
+  object.title = reader.readString(offsets[8]);
+  object.url = reader.readString(offsets[9]);
   return object;
 }
 
@@ -225,12 +251,14 @@ P _hymnDbDeserializeProp<P>(
     case 4:
       return (reader.readString(offset)) as P;
     case 5:
-      return (reader.readLong(offset)) as P;
-    case 6:
       return (reader.readStringOrNull(offset)) as P;
+    case 6:
+      return (reader.readLong(offset)) as P;
     case 7:
-      return (reader.readString(offset)) as P;
+      return (reader.readStringOrNull(offset)) as P;
     case 8:
+      return (reader.readString(offset)) as P;
+    case 9:
       return (reader.readString(offset)) as P;
     default:
       throw IsarError('Unknown property with id $propertyId');
@@ -292,6 +320,14 @@ extension HymnDbQueryWhereSort on QueryBuilder<HymnDb, HymnDb, QWhere> {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
         const IndexWhereClause.any(indexName: r'category'),
+      );
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhere> anyLyricist() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addWhereClause(
+        const IndexWhereClause.any(indexName: r'lyricist'),
       );
     });
   }
@@ -1039,6 +1075,162 @@ extension HymnDbQueryWhere on QueryBuilder<HymnDb, HymnDb, QWhereClause> {
       }
     });
   }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> lyricistIsNull() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addWhereClause(IndexWhereClause.equalTo(
+        indexName: r'lyricist',
+        value: [null],
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> lyricistIsNotNull() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addWhereClause(IndexWhereClause.between(
+        indexName: r'lyricist',
+        lower: [null],
+        includeLower: false,
+        upper: [],
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> lyricistEqualTo(
+      String? lyricist) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addWhereClause(IndexWhereClause.equalTo(
+        indexName: r'lyricist',
+        value: [lyricist],
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> lyricistNotEqualTo(
+      String? lyricist) {
+    return QueryBuilder.apply(this, (query) {
+      if (query.whereSort == Sort.asc) {
+        return query
+            .addWhereClause(IndexWhereClause.between(
+              indexName: r'lyricist',
+              lower: [],
+              upper: [lyricist],
+              includeUpper: false,
+            ))
+            .addWhereClause(IndexWhereClause.between(
+              indexName: r'lyricist',
+              lower: [lyricist],
+              includeLower: false,
+              upper: [],
+            ));
+      } else {
+        return query
+            .addWhereClause(IndexWhereClause.between(
+              indexName: r'lyricist',
+              lower: [lyricist],
+              includeLower: false,
+              upper: [],
+            ))
+            .addWhereClause(IndexWhereClause.between(
+              indexName: r'lyricist',
+              lower: [],
+              upper: [lyricist],
+              includeUpper: false,
+            ));
+      }
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> lyricistGreaterThan(
+    String? lyricist, {
+    bool include = false,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addWhereClause(IndexWhereClause.between(
+        indexName: r'lyricist',
+        lower: [lyricist],
+        includeLower: include,
+        upper: [],
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> lyricistLessThan(
+    String? lyricist, {
+    bool include = false,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addWhereClause(IndexWhereClause.between(
+        indexName: r'lyricist',
+        lower: [],
+        upper: [lyricist],
+        includeUpper: include,
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> lyricistBetween(
+    String? lowerLyricist,
+    String? upperLyricist, {
+    bool includeLower = true,
+    bool includeUpper = true,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addWhereClause(IndexWhereClause.between(
+        indexName: r'lyricist',
+        lower: [lowerLyricist],
+        includeLower: includeLower,
+        upper: [upperLyricist],
+        includeUpper: includeUpper,
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> lyricistStartsWith(
+      String LyricistPrefix) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addWhereClause(IndexWhereClause.between(
+        indexName: r'lyricist',
+        lower: [LyricistPrefix],
+        upper: ['$LyricistPrefix\u{FFFFF}'],
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> lyricistIsEmpty() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addWhereClause(IndexWhereClause.equalTo(
+        indexName: r'lyricist',
+        value: [''],
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterWhereClause> lyricistIsNotEmpty() {
+    return QueryBuilder.apply(this, (query) {
+      if (query.whereSort == Sort.asc) {
+        return query
+            .addWhereClause(IndexWhereClause.lessThan(
+              indexName: r'lyricist',
+              upper: [''],
+            ))
+            .addWhereClause(IndexWhereClause.greaterThan(
+              indexName: r'lyricist',
+              lower: [''],
+            ));
+      } else {
+        return query
+            .addWhereClause(IndexWhereClause.greaterThan(
+              indexName: r'lyricist',
+              lower: [''],
+            ))
+            .addWhereClause(IndexWhereClause.lessThan(
+              indexName: r'lyricist',
+              upper: [''],
+            ));
+      }
+    });
+  }
 }
 
 extension HymnDbQueryFilter on QueryBuilder<HymnDb, HymnDb, QFilterCondition> {
@@ -1760,6 +1952,152 @@ extension HymnDbQueryFilter on QueryBuilder<HymnDb, HymnDb, QFilterCondition> {
     });
   }
 
+  QueryBuilder<HymnDb, HymnDb, QAfterFilterCondition> lyricistIsNull() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(const FilterCondition.isNull(
+        property: r'lyricist',
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterFilterCondition> lyricistIsNotNull() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(const FilterCondition.isNotNull(
+        property: r'lyricist',
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterFilterCondition> lyricistEqualTo(
+    String? value, {
+    bool caseSensitive = true,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.equalTo(
+        property: r'lyricist',
+        value: value,
+        caseSensitive: caseSensitive,
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterFilterCondition> lyricistGreaterThan(
+    String? value, {
+    bool include = false,
+    bool caseSensitive = true,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.greaterThan(
+        include: include,
+        property: r'lyricist',
+        value: value,
+        caseSensitive: caseSensitive,
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterFilterCondition> lyricistLessThan(
+    String? value, {
+    bool include = false,
+    bool caseSensitive = true,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.lessThan(
+        include: include,
+        property: r'lyricist',
+        value: value,
+        caseSensitive: caseSensitive,
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterFilterCondition> lyricistBetween(
+    String? lower,
+    String? upper, {
+    bool includeLower = true,
+    bool includeUpper = true,
+    bool caseSensitive = true,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.between(
+        property: r'lyricist',
+        lower: lower,
+        includeLower: includeLower,
+        upper: upper,
+        includeUpper: includeUpper,
+        caseSensitive: caseSensitive,
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterFilterCondition> lyricistStartsWith(
+    String value, {
+    bool caseSensitive = true,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.startsWith(
+        property: r'lyricist',
+        value: value,
+        caseSensitive: caseSensitive,
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterFilterCondition> lyricistEndsWith(
+    String value, {
+    bool caseSensitive = true,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.endsWith(
+        property: r'lyricist',
+        value: value,
+        caseSensitive: caseSensitive,
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterFilterCondition> lyricistContains(
+      String value,
+      {bool caseSensitive = true}) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.contains(
+        property: r'lyricist',
+        value: value,
+        caseSensitive: caseSensitive,
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterFilterCondition> lyricistMatches(
+      String pattern,
+      {bool caseSensitive = true}) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.matches(
+        property: r'lyricist',
+        wildcard: pattern,
+        caseSensitive: caseSensitive,
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterFilterCondition> lyricistIsEmpty() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.equalTo(
+        property: r'lyricist',
+        value: '',
+      ));
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterFilterCondition> lyricistIsNotEmpty() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.greaterThan(
+        property: r'lyricist',
+        value: '',
+      ));
+    });
+  }
+
   QueryBuilder<HymnDb, HymnDb, QAfterFilterCondition> numberEqualTo(int value) {
     return QueryBuilder.apply(this, (query) {
       return query.addFilterCondition(FilterCondition.equalTo(
@@ -2281,6 +2619,18 @@ extension HymnDbQuerySortBy on QueryBuilder<HymnDb, HymnDb, QSortBy> {
     });
   }
 
+  QueryBuilder<HymnDb, HymnDb, QAfterSortBy> sortByLyricist() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addSortBy(r'lyricist', Sort.asc);
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterSortBy> sortByLyricistDesc() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addSortBy(r'lyricist', Sort.desc);
+    });
+  }
+
   QueryBuilder<HymnDb, HymnDb, QAfterSortBy> sortByNumber() {
     return QueryBuilder.apply(this, (query) {
       return query.addSortBy(r'number', Sort.asc);
@@ -2403,6 +2753,18 @@ extension HymnDbQuerySortThenBy on QueryBuilder<HymnDb, HymnDb, QSortThenBy> {
     });
   }
 
+  QueryBuilder<HymnDb, HymnDb, QAfterSortBy> thenByLyricist() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addSortBy(r'lyricist', Sort.asc);
+    });
+  }
+
+  QueryBuilder<HymnDb, HymnDb, QAfterSortBy> thenByLyricistDesc() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addSortBy(r'lyricist', Sort.desc);
+    });
+  }
+
   QueryBuilder<HymnDb, HymnDb, QAfterSortBy> thenByNumber() {
     return QueryBuilder.apply(this, (query) {
       return query.addSortBy(r'number', Sort.asc);
@@ -2488,6 +2850,13 @@ extension HymnDbQueryWhereDistinct on QueryBuilder<HymnDb, HymnDb, QDistinct> {
     });
   }
 
+  QueryBuilder<HymnDb, HymnDb, QDistinct> distinctByLyricist(
+      {bool caseSensitive = true}) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addDistinctBy(r'lyricist', caseSensitive: caseSensitive);
+    });
+  }
+
   QueryBuilder<HymnDb, HymnDb, QDistinct> distinctByNumber() {
     return QueryBuilder.apply(this, (query) {
       return query.addDistinctBy(r'number');
@@ -2550,6 +2919,12 @@ extension HymnDbQueryProperty on QueryBuilder<HymnDb, HymnDb, QQueryProperty> {
   QueryBuilder<HymnDb, String, QQueryOperations> hymnIdProperty() {
     return QueryBuilder.apply(this, (query) {
       return query.addPropertyName(r'hymnId');
+    });
+  }
+
+  QueryBuilder<HymnDb, String?, QQueryOperations> lyricistProperty() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addPropertyName(r'lyricist');
     });
   }
 

@@ -5,6 +5,7 @@ import 'search_screen.dart';
 import 'song_lists_screen.dart';
 import 'song_list_detail_screen.dart';
 import 'categories_screen.dart';
+import 'lyricists_screen.dart';
 import '../services/hymn_loader_service.dart';
 import '../providers/song_list_provider.dart';
 import '../services/song_list_service.dart';
@@ -145,58 +146,107 @@ class _HomeScreenState extends State<HomeScreen> {
               // Song Lists Section
               _buildSongListsSection(),
               const SizedBox(height: 24),
-              // Browse by Category Section
+              // Browse by Category and Author Section
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 16.0),
-                child: Card(
-                  elevation: 2,
-                  child: InkWell(
-                    onTap: () {
-                      Navigator.push(
-                        context,
-                        MaterialPageRoute(
-                          builder: (context) => const CategoriesScreen(),
-                        ),
-                      );
-                    },
-                    borderRadius: BorderRadius.circular(12),
-                    child: Padding(
-                      padding: const EdgeInsets.all(16.0),
-                      child: Row(
-                        children: [
-                          Icon(
-                            Icons.category,
-                            size: 32,
-                            color: Theme.of(context).colorScheme.primary,
-                          ),
-                          const SizedBox(width: 16),
-                          Expanded(
+                child: Row(
+                  children: [
+                    // Browse by Category
+                    Expanded(
+                      child: Card(
+                        elevation: 2,
+                        child: InkWell(
+                          onTap: () {
+                            Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                builder: (context) => const CategoriesScreen(),
+                              ),
+                            );
+                          },
+                          borderRadius: BorderRadius.circular(12),
+                          child: Padding(
+                            padding: const EdgeInsets.all(16.0),
                             child: Column(
-                              crossAxisAlignment: CrossAxisAlignment.start,
                               children: [
+                                Icon(
+                                  Icons.category,
+                                  size: 32,
+                                  color: Theme.of(context).colorScheme.primary,
+                                ),
+                                const SizedBox(height: 12),
                                 const Text(
-                                  'Browse by Category',
+                                  'by Category',
                                   style: TextStyle(
-                                    fontSize: 18,
+                                    fontSize: 16,
                                     fontWeight: FontWeight.bold,
                                   ),
+                                  textAlign: TextAlign.center,
                                 ),
                                 const SizedBox(height: 4),
                                 Text(
-                                  'Explore hymns by topic',
+                                  'By topic',
                                   style: TextStyle(
-                                    fontSize: 14,
+                                    fontSize: 12,
                                     color: Colors.grey[600],
                                   ),
+                                  textAlign: TextAlign.center,
                                 ),
                               ],
                             ),
                           ),
-                          const Icon(Icons.chevron_right),
-                        ],
+                        ),
                       ),
                     ),
-                  ),
+                    const SizedBox(width: 12),
+                    // Browse by Author
+                    Expanded(
+                      child: Card(
+                        elevation: 2,
+                        child: InkWell(
+                          onTap: () {
+                            Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                builder: (context) => const LyricistsScreen(),
+                              ),
+                            );
+                          },
+                          borderRadius: BorderRadius.circular(12),
+                          child: Padding(
+                            padding: const EdgeInsets.all(16.0),
+                            child: Column(
+                              children: [
+                                Icon(
+                                  Icons.person,
+                                  size: 32,
+                                  color: Theme.of(context).colorScheme.primary,
+                                ),
+                                const SizedBox(height: 12),
+                                const Text(
+                                  'by Author',
+                                  style: TextStyle(
+                                    fontSize: 16,
+                                    fontWeight: FontWeight.bold,
+                                  ),
+                                  textAlign: TextAlign.center,
+                                ),
+                                const SizedBox(height: 4),
+                                Text(
+                                  'By lyricist',
+                                  style: TextStyle(
+                                    fontSize: 12,
+                                    color: Colors.grey[600],
+                                  ),
+                                  textAlign: TextAlign.center,
+                                ),
+                              ],
+                            ),
+                          ),
+                        ),
+                      ),
+                    ),
+                  ],
                 ),
               ),
               const SizedBox(height: 32),
