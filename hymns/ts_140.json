@@ -21,34 +21,30 @@
             {
               "chord": "",
               "text": "而 生─"
-            },
-            {
-              "chord": "D",
-              "text": "神"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "D",
+              "text": "神 人"
+            },
+            {
               "chord": "",
-              "text": "人 耶 稣 何 神"
+              "text": "耶 稣 何 神"
             },
             {
               "chord": "A7",
               "text": "圣；"
-            },
-            {
-              "chord": "D",
-              "text": "充"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "",
-              "text": "满"
+              "chord": "D",
+              "text": "充 满"
             },
             {
               "chord": "D7",
@@ -61,15 +57,15 @@
             {
               "chord": "",
               "text": "那 灵─"
-            },
-            {
-              "chord": "D",
-              "text": "祂 的"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "D",
+              "text": "祂 的"
+            },
             {
               "chord": "",
               "text": "素 质"
@@ -84,11 +80,7 @@
             },
             {
               "chord": "D",
-              "text": "灵。 死"
-            },
-            {
-              "chord": "",
-              "text": "而"
+              "text": "灵。"
             }
           ]
         },
@@ -96,7 +88,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "复 活，"
+              "text": "死 而 复 活，"
             },
             {
               "chord": "A",
@@ -105,15 +97,15 @@
             {
               "chord": "A7",
               "text": "那 灵，"
-            },
-            {
-              "chord": "D",
-              "text": "如 今"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "D",
+              "text": "如 今"
+            },
             {
               "chord": "",
               "text": "主 就"
@@ -125,15 +117,15 @@
             {
               "chord": "A7",
               "text": "灵；"
-            },
-            {
-              "chord": "D",
-              "text": "是 灵"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "D",
+              "text": "是 灵"
+            },
             {
               "chord": "D7",
               "text": "在 灵、"
@@ -145,15 +137,15 @@
             {
               "chord": "",
               "text": "眷 临，"
-            },
-            {
-              "chord": "D",
-              "text": "我 们"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "D",
+              "text": "我 们"
+            },
             {
               "chord": "",
               "text": "与 祂"
@@ -392,6 +384,7 @@
     "time": "3/4",
     "hymn_code": "333211121655113212",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0140_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0140_cn_g.svg",
     "current_key": "F Major",
     "original_key": "D Major",
     "capo": 3,
@@ -406,14 +399,14 @@
     ]
   },
   "raw_sections": [
-    "出 于圣 灵，由 灵而 生─神",
-    "人 耶 稣 何 神圣；充",
-    "满那 灵，全 是那 灵─祂 的",
-    "素 质就是灵。 死而",
-    "复 活，成 为那 灵，如 今",
-    "主 就是 那灵；是 灵",
-    "在 灵、凭 灵眷 临，我 们",
-    "与 祂成一灵。",
+    "出 于圣 灵，由 灵而 生─",
+    "神 人耶 稣 何 神圣；",
+    "充 满那 灵，全 是那 灵─",
+    "祂 的素 质就是灵。",
+    "死 而 复 活，成 为那 灵，",
+    "如 今主 就是 那灵；",
+    "是 灵在 灵、凭 灵眷 临，",
+    "我 们与 祂成一灵。",
     "我们受浸归入圣灵，",
     "浸于灵中，饮于灵；",
     "召会全然出于那灵，",

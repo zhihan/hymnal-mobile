@@ -8,7 +8,7 @@
           "segments": [
             {
               "chord": "G",
-              "text": "\"我 必"
+              "text": "『我 必"
             },
             {
               "chord": "",
@@ -48,15 +48,11 @@
             },
             {
               "chord": "G",
-              "text": "雨\"─"
+              "text": "雨』─"
             },
             {
               "chord": "C",
               "text": "立 约"
-            },
-            {
-              "chord": "",
-              "text": "的"
             }
           ]
         },
@@ -64,7 +60,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "神 坚 定"
+              "text": "的 神 坚 定"
             },
             {
               "chord": "G",
@@ -73,15 +69,15 @@
             {
               "chord": "A",
               "text": "藉 主"
-            },
-            {
-              "chord": "",
-              "text": "救"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "救"
+            },
             {
               "chord": "A7",
               "text": "赎 而"
@@ -97,10 +93,6 @@
             {
               "chord": "G",
               "text": "哦， 赐"
-            },
-            {
-              "chord": "",
-              "text": "福"
             }
           ]
         }
@@ -114,12 +106,16 @@
           "segments": [
             {
               "chord": "",
-              "text": "的 雨， 我 们 同"
+              "text": "福 的 雨， 我 们"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "同"
+            },
             {
               "chord": "A",
               "text": "心 所"
@@ -135,15 +131,15 @@
             {
               "chord": "G",
               "text": "处 处"
-            },
-            {
-              "chord": "",
-              "text": "滴"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "滴"
+            },
             {
               "chord": "C",
               "text": "落 尽"
@@ -159,15 +155,15 @@
             {
               "chord": "D",
               "text": "哦 求"
-            },
-            {
-              "chord": "",
-              "text": "恩"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "恩"
+            },
             {
               "chord": "D7",
               "text": "雨 来"
@@ -491,6 +487,7 @@
     "time": "6/8",
     "hymn_code": "555567157777121",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0138_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0138_cn_g.svg",
     "current_key": "B♭ Major",
     "original_key": "G Major",
     "capo": 3,
@@ -505,14 +502,14 @@
     ]
   },
   "raw_sections": [
-    "\"我 必叫雨 按时落 下；那",
-    "必 是赐 福的雨\"─立 约的",
-    "神 坚 定应 许，藉 主救",
-    "赎 而赐与。哦， 赐福",
-    "的 雨， 我 们 同",
-    "心 所渴求；处 处滴",
-    "落 尽是怜 悯，哦 求恩",
-    "雨 来浇透。",
+    "『我 必叫雨 按时落 下；那",
+    "必 是赐 福的雨』─立 约",
+    "的 神 坚 定应 许，藉 主",
+    "救赎 而赐与。哦， 赐",
+    "福 的 雨， 我 们",
+    "同心 所渴求；处 处",
+    "滴落 尽是怜 悯，哦 求",
+    "恩雨 来浇透。",
     "赐福的雨必然降临，",
     "带来生命的复兴；",
     "宝贵甘霖滋润大地，",

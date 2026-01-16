@@ -141,15 +141,15 @@
             {
               "chord": "G",
               "text": "湃─ 作"
-            },
-            {
-              "chord": "D",
-              "text": "我"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "D",
+              "text": "我"
+            },
             {
               "chord": "G",
               "text": "生 命！"
@@ -516,6 +516,7 @@
     "time": "6/8",
     "hymn_code": "32143321511223",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0253_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0253_cn_g.svg",
     "current_key": "A♭ Major",
     "original_key": "G Major",
     "capo": 1,
@@ -536,8 +537,8 @@
     "夜 涌流 不歇；谷",
     "中 山上 流出 水来， 润",
     "我 心田， 满溢 充盈； 何",
-    "等 荣耀， 活水 澎湃─ 作我",
-    "生 命！",
+    "等 荣耀， 活水 澎湃─ 作",
+    "我生 命！",
     "神成肉身，忍辱受死，",
     "繁增如同小麦；",
     "死而复活，生命分赐，",

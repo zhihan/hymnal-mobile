@@ -211,18 +211,14 @@
             {
               "chord": "D",
               "text": "名！"
-            },
-            {
-              "chord": "G",
-              "text": "耶"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "",
-              "text": "稣，"
+              "chord": "G",
+              "text": "耶 稣，"
             },
             {
               "chord": "C",
@@ -235,18 +231,14 @@
             {
               "chord": "G",
               "text": "名！"
-            },
-            {
-              "chord": "G7",
-              "text": "哦，"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "",
-              "text": "主"
+              "chord": "G7",
+              "text": "哦， 主"
             },
             {
               "chord": "C",
@@ -258,7 +250,7 @@
             },
             {
               "chord": "G",
-              "text": "名！ 名"
+              "text": "名！"
             }
           ]
         },
@@ -266,19 +258,15 @@
           "segments": [
             {
               "chord": "",
-              "text": "可 常 吸 入，"
-            },
+              "text": "名 可 常 吸 入，"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "G7",
-              "text": "可"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "随"
+              "text": "可 随"
             },
             {
               "chord": "C",
@@ -286,7 +274,7 @@
             },
             {
               "chord": "",
-              "text": "出； 哦，"
+              "text": "出；"
             }
           ]
         },
@@ -294,7 +282,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "主"
+              "text": "哦， 主"
             },
             {
               "chord": "G",
@@ -911,6 +899,7 @@
     "time": "4/4",
     "hymn_code": "5555666656565",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0225_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0225_cn_g.svg",
     "current_key": "A♭ Major",
     "original_key": "G Major",
     "capo": 1,
@@ -935,12 +924,12 @@
     "耶 稣，何 等的名！",
     "哦， 主耶 稣，赐 生 命名！",
     "得 胜的 名，荣 耀的 名，",
-    "超 越的 名─何 等的名！耶",
-    "稣，刚 强的名！哦，",
-    "主耶 稣，安 慰 的名！ 名",
-    "可 常 吸 入，可",
-    "随处 喊出； 哦，",
-    "主耶 稣，何 等的名！",
+    "超 越的 名─何 等的名！",
+    "耶 稣，刚 强的名！",
+    "哦， 主耶 稣，安 慰 的名！",
+    "名 可 常 吸 入，",
+    "可 随处 喊出；",
+    "哦， 主耶 稣，何 等的名！",
     "只要呼喊耶稣的名，",
     "你就必得救。",
     "哦！主耶稣，阿利路亚，",

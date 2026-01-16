@@ -65,18 +65,18 @@
             {
               "chord": "D",
               "text": "稣；"
-            },
-            {
-              "chord": "G",
-              "text": "述"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "G",
+              "text": "述 说"
+            },
+            {
               "chord": "",
-              "text": "说 祂"
+              "text": "祂"
             },
             {
               "chord": "C",
@@ -101,18 +101,18 @@
             {
               "chord": "D7",
               "text": "位，"
-            },
-            {
-              "chord": "G",
-              "text": "好"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "G",
+              "text": "好 使"
+            },
+            {
               "chord": "",
-              "text": "使 万"
+              "text": "万"
             },
             {
               "chord": "C",
@@ -260,6 +260,7 @@
     "time": "4/4",
     "hymn_code": "1111512343",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0852_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0852_cn_g.svg",
     "current_key": "G Major",
     "original_key": "G Major",
     "capo": 0,
@@ -275,9 +276,9 @@
   },
   "raw_sections": [
     "兴起！ 角声 发出，喜信 传布；",
-    "宣扬 万主 之主─救主 耶稣；述",
-    "说 祂名 宝贵，高 举祂的 尊位，好",
-    "使 万众 来归─耶稣 是主！",
+    "宣扬 万主 之主─救主 耶稣；",
+    "述 说祂名 宝贵，高 举祂的 尊位，",
+    "好 使万众 来归─耶稣 是主！",
     "谁愿为祂前去？谁愿兴起？",
     "地爱迷人难拒，为祂全弃：",
     "鄙视属地荣华，万事看为卑下，",

@@ -72,12 +72,16 @@
             },
             {
               "chord": "A",
-              "text": "力─ 何"
+              "text": "力─"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "何"
+            },
             {
               "chord": "E",
               "text": "等 神"
@@ -96,7 +100,7 @@
             },
             {
               "chord": "A",
-              "text": "供！ 浩"
+              "text": "供！"
             }
           ]
         },
@@ -104,7 +108,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "大 能"
+              "text": "浩 大 能"
             },
             {
               "chord": "A7",
@@ -120,7 +124,7 @@
             },
             {
               "chord": "A",
-              "text": "力， 向"
+              "text": "力，"
             }
           ]
         },
@@ -128,7 +132,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "召"
+              "text": "向 召"
             },
             {
               "chord": "E",
@@ -140,7 +144,7 @@
             },
             {
               "chord": "A",
-              "text": "供！ 浩"
+              "text": "供！"
             }
           ]
         },
@@ -148,7 +152,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "大 能"
+              "text": "浩 大 能"
             },
             {
               "chord": "A7",
@@ -164,7 +168,7 @@
             },
             {
               "chord": "A",
-              "text": "力， 向"
+              "text": "力，"
             }
           ]
         },
@@ -172,7 +176,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "基"
+              "text": "向 基"
             },
             {
               "chord": "E",
@@ -412,6 +416,7 @@
     "time": "4/4",
     "hymn_code": "5555556665",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0255_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0255_cn_g.svg",
     "current_key": "A Major",
     "original_key": "A Major",
     "capo": 0,
@@ -428,12 +433,12 @@
   "raw_sections": [
     "基 督复 活 能 力浩 大无比，",
     "今向 祂身体，正 在输 供；",
-    "我 们 藉 信 领 受这 大能力─ 何",
-    "等 神圣、奇 妙输供！ 浩",
-    "大 能力，复 活的 能力， 向",
-    "召会，在 输供！ 浩",
-    "大 能力，复 活的 能力， 向",
-    "基督 身体， 在输供！",
+    "我 们 藉 信 领 受这 大能力─",
+    "何等 神圣、奇 妙输供！",
+    "浩 大 能力，复 活的 能力，",
+    "向 召会，在 输供！",
+    "浩 大 能力，复 活的 能力，",
+    "向 基督 身体， 在输供！",
     "浩大能力使基督得高升，",
     "远超诸执政，坐在神右；",
     "高升远超一切受称之名─",

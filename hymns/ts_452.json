@@ -155,10 +155,6 @@
             {
               "chord": "D",
               "text": "托 付─"
-            },
-            {
-              "chord": "",
-              "text": "健"
             }
           ]
         },
@@ -166,7 +162,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "康"
+              "text": "健 康"
             },
             {
               "chord": "Em",
@@ -566,6 +562,7 @@
     "time": "4/4",
     "hymn_code": "133432165535565432",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0452_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0452_cn_g.svg",
     "current_key": "D Major",
     "original_key": "D Major",
     "capo": 0,
@@ -586,8 +583,8 @@
     "乃是 我们 托付。",
     "我 们深 知所 信 的是谁，",
     "并 且 凭信、爱、 藉内 住圣 灵，",
-    "保守 那美 好 的托 付─健",
-    "康话 语的 规范。",
+    "保守 那美 好 的托 付─",
+    "健 康话 语的 规范。",
     "美好托付务必持守，",
     "绝不稍微偏离；",
     "这是神经纶的标的，",

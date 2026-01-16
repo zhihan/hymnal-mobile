@@ -326,12 +326,16 @@
             },
             {
               "chord": "C",
-              "text": "冷， 神"
+              "text": "冷，"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "神"
+            },
             {
               "chord": "G",
               "text": "人 永"
@@ -780,6 +784,7 @@
     "time": "4/4",
     "hymn_code": "15521663432115",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0865_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0865_cn_g.svg",
     "current_key": "G Major",
     "original_key": "G Major",
     "capo": 0
@@ -799,8 +804,8 @@
     "不从 己意， 惟 愿 是你。",
     "同灵、 同魂、 思念 同一，",
     "为建 神家 一 齐努力；",
-    "成 神帐 幕─圣 城 撒冷， 神",
-    "人 永得满 足安息。",
+    "成 神帐 幕─圣 城 撒冷，",
+    "神人 永得满 足安息。",
     "无奈己意，只求称心，",
     "羡慕神旨，却仍贪享安逸；",
     "光照临及，才识自己，",

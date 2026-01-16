@@ -25,18 +25,18 @@
             {
               "chord": "D",
               "text": "非，"
-            },
-            {
-              "chord": "G",
-              "text": "请"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "G",
+              "text": "请 听"
+            },
+            {
               "chord": "",
-              "text": "听 荣 耀"
+              "text": "荣 耀"
             },
             {
               "chord": "E7",
@@ -45,18 +45,18 @@
             {
               "chord": "A",
               "text": "实；"
-            },
-            {
-              "chord": "D",
-              "text": "天"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "D",
+              "text": "天 上"
+            },
+            {
               "chord": "",
-              "text": "上 圣 别、"
+              "text": "圣 别、"
             },
             {
               "chord": "G",
@@ -69,18 +69,18 @@
             {
               "chord": "D",
               "text": "主，"
-            },
-            {
-              "chord": "G",
-              "text": "述"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "G",
+              "text": "述 说"
+            },
+            {
               "chord": "",
-              "text": "说 关 于"
+              "text": "关 于"
             },
             {
               "chord": "E7",
@@ -88,7 +88,7 @@
             },
             {
               "chord": "A",
-              "text": "事。 国"
+              "text": "事。"
             }
           ]
         },
@@ -96,19 +96,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "度 之 门 由 祂 掌 管，"
-            },
+              "text": "国 度 之 门 由 祂 掌 管，"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "D",
-              "text": "大"
-            }
-          ]
-        },
-        {
-          "segments": [
+              "text": "大 衞"
+            },
             {
               "chord": "",
-              "text": "衞 钥 匙"
+              "text": "钥 匙"
             },
             {
               "chord": "E7",
@@ -117,18 +117,18 @@
             {
               "chord": "A",
               "text": "持；"
-            },
-            {
-              "chord": "D",
-              "text": "\"我"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "D",
+              "text": "\"我 已"
+            },
+            {
               "chord": "",
-              "text": "已 开 门，"
+              "text": "开 门，"
             },
             {
               "chord": "G",
@@ -141,15 +141,15 @@
             {
               "chord": "A",
               "text": "祂 话"
-            },
-            {
-              "chord": "D",
-              "text": "既 出"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "D",
+              "text": "既 出"
+            },
             {
               "chord": "A",
               "text": "必"
@@ -454,6 +454,7 @@
     "time": "4/4",
     "hymn_code": "12324327165432315",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0539_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0539_cn_g.svg",
     "current_key": "E♭ Major",
     "original_key": "D Major",
     "capo": 1,
@@ -468,14 +469,14 @@
     ]
   },
   "raw_sections": [
-    "爱 的召 会─非 拉铁非，请",
-    "听 荣 耀的 事实；天",
-    "上 圣 别、真 实的主，述",
-    "说 关 于你 的事。 国",
-    "度 之 门 由 祂 掌 管，大",
-    "衞 钥 匙祂 手持；\"我",
-    "已 开 门，无 人能 关\"─祂 话既 出",
-    "必如是。",
+    "爱 的召 会─非 拉铁非，",
+    "请 听荣 耀的 事实；",
+    "天 上圣 别、真 实的主，",
+    "述 说关 于你 的事。",
+    "国 度 之 门 由 祂 掌 管，",
+    "大 衞钥 匙祂 手持；",
+    "\"我 已开 门，无 人能 关\"─祂 话",
+    "既 出必如是。",
     "阿利路亚！非拉铁非，",
     "行为、工作主悦纳；",
     "看哪，主赐敞开的门，",

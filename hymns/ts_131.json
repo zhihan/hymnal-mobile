@@ -269,18 +269,14 @@
             {
               "chord": "",
               "text": "居 住"
-            },
-            {
-              "chord": "C",
-              "text": "我"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "",
-              "text": "心"
+              "chord": "C",
+              "text": "我 心"
             },
             {
               "chord": "Am",
@@ -404,6 +400,7 @@
     "time": "4/4",
     "hymn_code": "333333455",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0131_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0131_cn_g.svg",
     "current_key": "B♭ Major",
     "original_key": "G Major",
     "capo": 3,
@@ -424,8 +421,8 @@
     "以 祂丰 盛生 命来 充满我 的每 一部。",
     "基 督在 我 灵 里 作 人 位，我 心天 天 向 祂 不 别 归，",
     "好 让里 面 的 人 有 个 家： 一 个地 方可 以 安 息，",
-    "一 个地 方成 为 祂 的─那 里是 我完 全的 实际，将 祂所 是向 我全 开启，丰 丰富 富居 住我",
-    "心里，作 我真 人位。",
+    "一 个地 方成 为 祂 的─那 里是 我完 全的 实际，将 祂所 是向 我全 开启，丰 丰富 富居 住",
+    "我 心里，作 我真 人位。",
     "借这人位成形在我里，我成祂身上的一肢体，",
     "所有行动都不再单独，全在配搭里。",
     "基督必须是我们人位，我们天然个性须拆毁，",

@@ -104,7 +104,7 @@
             },
             {
               "chord": "G",
-              "text": "命─ 藉"
+              "text": "命─"
             }
           ]
         },
@@ -112,7 +112,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "著"
+              "text": "藉 著"
             },
             {
               "chord": "C",
@@ -125,15 +125,15 @@
             {
               "chord": "D",
               "text": "吃 祂、"
-            },
-            {
-              "chord": "",
-              "text": "喝"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "喝"
+            },
             {
               "chord": "D7",
               "text": "祂、 并"
@@ -149,18 +149,14 @@
             {
               "chord": "C",
               "text": "祂！"
-            },
-            {
-              "chord": "G",
-              "text": "藉"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "",
-              "text": "著"
+              "chord": "G",
+              "text": "藉 著"
             },
             {
               "chord": "C",
@@ -180,7 +176,7 @@
             },
             {
               "chord": "D7",
-              "text": "祂、 并"
+              "text": "祂、"
             }
           ]
         },
@@ -188,7 +184,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "呼"
+              "text": "并 呼"
             },
             {
               "chord": "C",
@@ -280,6 +276,7 @@
     "time": "3/4",
     "hymn_code": "532121653",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0223_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0223_cn_g.svg",
     "current_key": "G Major",
     "original_key": "G Major",
     "capo": 0
@@ -288,11 +285,11 @@
     "基 督是 那赐 生命的 灵，",
     "基 督 也 是生 命的话；",
     "生命 的灵供 应我的灵，",
-    "基督 的话变 成生命─ 藉",
-    "著天天吃 祂、喝",
-    "祂、 并呼吸祂！藉",
-    "著天天吃 祂、喝祂、 并",
-    "呼吸祂！",
+    "基督 的话变 成生命─",
+    "藉 著天天吃 祂、",
+    "喝祂、 并呼吸祂！",
+    "藉 著天天吃 祂、喝祂、",
+    "并 呼吸祂！",
     "基督是那赐生命的灵，",
     "基督也是生命的话；",
     "生命的灵供应我的灵，",

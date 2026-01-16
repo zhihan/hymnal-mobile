@@ -32,12 +32,16 @@
             },
             {
               "chord": "A",
-              "text": "辞─ 论"
+              "text": "辞─"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "论"
+            },
             {
               "chord": "D",
               "text": "到 我"
@@ -49,10 +53,6 @@
             {
               "chord": "D",
               "text": "高 王，"
-            },
-            {
-              "chord": "",
-              "text": "论"
             }
           ]
         },
@@ -60,7 +60,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "到 祂"
+              "text": "论 到 祂"
             },
             {
               "chord": "E7",
@@ -68,12 +68,16 @@
             },
             {
               "chord": "A",
-              "text": "是。 我"
+              "text": "是。"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "我"
+            },
             {
               "chord": "D",
               "text": "们 舌"
@@ -88,7 +92,7 @@
             },
             {
               "chord": "D",
-              "text": "笔， 篇"
+              "text": "笔，"
             }
           ]
         },
@@ -96,15 +100,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "篇 见 证 待"
+              "text": "篇 篇 见 证 待"
             },
             {
               "chord": "A",
-              "text": "写─ 我"
-            },
-            {
-              "chord": "D",
-              "text": "们"
+              "text": "写─"
             }
           ]
         },
@@ -112,7 +112,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "新"
+              "text": "我"
+            },
+            {
+              "chord": "D",
+              "text": "们 新"
             },
             {
               "chord": "G",
@@ -121,14 +125,6 @@
             {
               "chord": "D",
               "text": "荣 美，"
-            },
-            {
-              "chord": "",
-              "text": "我"
-            },
-            {
-              "chord": "A",
-              "text": "们"
             }
           ]
         },
@@ -136,7 +132,11 @@
           "segments": [
             {
               "chord": "",
-              "text": "所"
+              "text": "我"
+            },
+            {
+              "chord": "A",
+              "text": "们 所"
             },
             {
               "chord": "A7",
@@ -438,6 +438,7 @@
     "time": "4/4",
     "hymn_code": "13556531714332",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0006_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0006_cn_g.svg",
     "current_key": "D Major",
     "original_key": "D Major",
     "capo": 0,
@@ -453,13 +454,13 @@
   },
   "raw_sections": [
     "从 我们心 的深 处，",
-    "不 断 涌 出 美辞─ 论",
-    "到 我们 至高 王，论",
-    "到 祂的 所是。 我",
-    "们 舌如 快手笔， 篇",
-    "篇 见 证 待写─ 我们",
-    "新郎 的荣 美，我们",
-    "所爱 所悦。",
+    "不 断 涌 出 美辞─",
+    "论到 我们 至高 王，",
+    "论 到 祂的 所是。",
+    "我们 舌如 快手笔，",
+    "篇 篇 见 证 待写─",
+    "我们 新郎 的荣 美，",
+    "我们 所爱 所悦。",
     "主耶稣，你的美丽",
     "超过所有世人；",
     "你的良善真无比─",

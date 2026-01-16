@@ -32,7 +32,7 @@
             },
             {
               "chord": "D",
-              "text": "爱； 生"
+              "text": "爱；"
             }
           ]
         },
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "命、"
+              "text": "生 命、"
             },
             {
               "chord": "G",
@@ -65,10 +65,18 @@
             {
               "chord": "D",
               "text": "爱。"
-            },
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "G",
               "text": "联 结"
+            },
+            {
+              "chord": "",
+              "text": "为 一， 毫 无 猜 忌；"
             }
           ]
         },
@@ -76,15 +84,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "为 一， 毫 无 猜 忌； 照 神"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "接 纳，"
+              "text": "照 神 接 纳，"
             },
             {
               "chord": "A",
@@ -93,15 +93,15 @@
             {
               "chord": "A7",
               "text": "人 意；"
-            },
-            {
-              "chord": "D",
-              "text": "不 再"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "D",
+              "text": "不 再"
+            },
             {
               "chord": "G",
               "text": "让 神"
@@ -322,6 +322,7 @@
     "time": "4/4",
     "hymn_code": "176121756771",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0538_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0538_cn_g.svg",
     "current_key": "F Major",
     "original_key": "D Major",
     "capo": 3,
@@ -336,11 +337,11 @@
     ]
   },
   "raw_sections": [
-    "在 众召 会涌 流不 息─弟兄 相爱； 生",
-    "命、光、 爱，流 通、洋 溢─弟兄 相爱。联 结",
-    "为 一， 毫 无 猜 忌； 照 神",
-    "接 纳，不 凭人 意；不 再",
-    "让 神圣 灵忧 戚─弟兄 相爱。",
+    "在 众召 会涌 流不 息─弟兄 相爱；",
+    "生 命、光、 爱，流 通、洋 溢─弟兄 相爱。",
+    "联 结为 一， 毫 无 猜 忌；",
+    "照 神 接 纳，不 凭人 意；",
+    "不 再让 神圣 灵忧 戚─弟兄 相爱。",
     "爱中洗涤，交通无碍─弟兄相爱；",
     "以爱裹伤，彼此怀搋─弟兄相爱。",
     "凡事相信，凡事忍耐，",

@@ -60,12 +60,16 @@
             },
             {
               "chord": "",
-              "text": "欢 喜， 因 能 有 分 神 永 远 旨 意─ 调"
+              "text": "欢 喜， 因 能 有 分 神 永 远 旨 意─"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "调"
+            },
             {
               "chord": "C",
               "text": "和 是"
@@ -76,7 +80,7 @@
             },
             {
               "chord": "G",
-              "text": "意。 神"
+              "text": "意。"
             }
           ]
         }
@@ -90,44 +94,44 @@
           "segments": [
             {
               "chord": "",
-              "text": "人 调 和， 阿 利 路"
+              "text": "神 人 调 和， 阿 利 路"
             },
             {
               "chord": "G7",
               "text": "亚！"
-            },
-            {
-              "chord": "C",
-              "text": "神"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "C",
+              "text": "神 人"
+            },
+            {
               "chord": "",
-              "text": "人 调 和， 阿 利"
+              "text": "调 和， 阿 利"
             },
             {
               "chord": "G",
               "text": "路 亚！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "神 人 调 和， 阿 利 路 亚！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "调"
             },
-            {
-              "chord": "",
-              "text": "神"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "人 调 和， 阿 利 路 亚！ 调"
-            }
-          ]
-        },
-        {
-          "segments": [
             {
               "chord": "C",
               "text": "和 是"
@@ -526,6 +530,7 @@
     "time": "4/4",
     "hymn_code": "555554351233321",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0448_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0448_cn_g.svg",
     "current_key": "B♭ Major",
     "original_key": "G Major",
     "capo": 3,
@@ -542,12 +547,12 @@
   "raw_sections": [
     "神 的旨 意 在 这 宇 宙， 全 在 祂 与 人 关系；",
     "为 此主 成那 灵， 进 入 人 灵，与 人调 为一。",
-    "我 们为 此欢 喜， 因 能 有 分 神 永 远 旨 意─ 调",
-    "和 是神 心意。 神",
-    "人 调 和， 阿 利 路亚！神",
-    "人 调 和， 阿 利路 亚！神",
-    "人 调 和， 阿 利 路 亚！ 调",
-    "和 是神 心意。",
+    "我 们为 此欢 喜， 因 能 有 分 神 永 远 旨 意─",
+    "调和 是神 心意。",
+    "神 人 调 和， 阿 利 路亚！",
+    "神 人调 和， 阿 利路 亚！",
+    "神 人 调 和， 阿 利 路 亚！",
+    "调和 是神 心意。",
     "人里有一比心思、情感、意志更深之地，",
     "是神所造的灵，好使人能盛装祂自己。",
     "祂且要从人灵里涌出，像江河无止息─",

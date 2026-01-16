@@ -32,7 +32,7 @@
             },
             {
               "chord": "G",
-              "text": "她─ 何"
+              "text": "她─"
             }
           ]
         },
@@ -40,7 +40,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "等 喜 乐， 主"
+              "text": "何 等 喜 乐，"
             }
           ]
         },
@@ -48,7 +48,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "使"
+              "text": "主 使"
             },
             {
               "chord": "A",
@@ -61,18 +61,14 @@
             {
               "chord": "D",
               "text": "一！"
-            },
-            {
-              "chord": "D7",
-              "text": "看"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "",
-              "text": "哪，"
+              "chord": "D7",
+              "text": "看 哪，"
             },
             {
               "chord": "G",
@@ -89,39 +85,39 @@
             {
               "chord": "",
               "text": "身 体，"
-            },
-            {
-              "chord": "C",
-              "text": "我"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "C",
+              "text": "我 们"
+            },
+            {
               "chord": "",
-              "text": "们 属 于"
+              "text": "属 于"
             },
             {
               "chord": "G",
-              "text": "她─ 阿"
+              "text": "她─"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿 利 路 亚，"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "主 使"
             },
-            {
-              "chord": "",
-              "text": "利"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "路 亚， 主 使"
-            }
-          ]
-        },
-        {
-          "segments": [
             {
               "chord": "D7",
               "text": "我 们"
@@ -132,24 +128,24 @@
             },
             {
               "chord": "G",
-              "text": "一！ 阿"
+              "text": "一！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "阿 利 路 亚， 荣 耀 身 体！"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "我 们"
             },
-            {
-              "chord": "",
-              "text": "利"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "路 亚， 荣 耀 身 体！ 我 们"
-            }
-          ]
-        },
-        {
-          "segments": [
             {
               "chord": "D",
               "text": "是 身"
@@ -161,15 +157,15 @@
             {
               "chord": "D7",
               "text": "肢 体！"
-            },
-            {
-              "chord": "",
-              "text": "一 切"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "一 切"
+            },
             {
               "chord": "G7",
               "text": "完 全"
@@ -181,27 +177,27 @@
             {
               "chord": "C",
               "text": "身 体！"
-            },
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "",
               "text": "阿 利"
-            }
-          ]
-        },
-        {
-          "segments": [
+            },
             {
               "chord": "G",
               "text": "路 亚，"
-            },
-            {
-              "chord": "",
-              "text": "主 使"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "主 使"
+            },
             {
               "chord": "D7",
               "text": "我 们"
@@ -556,6 +552,7 @@
     "time": "4/4",
     "hymn_code": "123333321121165",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0508_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0508_cn_g.svg",
     "current_key": "G Major",
     "original_key": "G Major",
     "capo": 0,
@@ -571,18 +568,18 @@
   },
   "raw_sections": [
     "哦， 基督 有 一 荣 耀 召 会，",
-    "我们 有分 于她─ 何",
-    "等 喜 乐， 主",
-    "使我 们合 为一！看",
-    "哪，在 宇宙 中有 一身 体，我",
-    "们 属 于她─ 阿利",
-    "路 亚， 主 使",
-    "我 们合 为一！ 阿利",
-    "路 亚， 荣 耀 身 体！ 我 们",
-    "是 身体 的肢 体！一 切",
-    "完 全为 这身 体！阿 利",
-    "路 亚，主 使",
-    "我 们合 为一！",
+    "我们 有分 于她─",
+    "何 等 喜 乐，",
+    "主 使我 们合 为一！",
+    "看 哪，在 宇宙 中有 一身 体，",
+    "我 们属 于她─",
+    "阿 利 路 亚，",
+    "主 使我 们合 为一！",
+    "阿 利 路 亚， 荣 耀 身 体！",
+    "我 们是 身体 的肢 体！",
+    "一 切完 全为 这身 体！",
+    "阿 利路 亚，",
+    "主 使我 们合 为一！",
     "不是单独孤立基督徒，",
     "乃是团体新人─",
     "神需要她",

@@ -95,13 +95,7 @@
               "text": "God?"
             }
           ]
-        }
-      ],
-      "type": "verse",
-      "number": "1"
-    },
-    {
-      "lines": [
+        },
         {
           "segments": [
             {
@@ -119,11 +113,7 @@
             {
               "chord": "G7",
               "text": "kingdom"
-            }
-          ]
-        },
-        {
-          "segments": [
+            },
             {
               "chord": "",
               "text": "of"
@@ -131,22 +121,24 @@
             {
               "chord": "C",
               "text": "God?"
-            },
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
             {
               "chord": "F",
               "text": "Have you"
             },
             {
               "chord": "G",
-              "text": "climbed"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "the"
+              "text": "climbed the"
             },
             {
               "chord": "C",
@@ -155,30 +147,54 @@
             {
               "chord": "Am",
               "text": "tain?"
-            },
-            {
-              "chord": "F",
-              "text": "Are you"
-            },
-            {
-              "chord": "G",
-              "text": "in"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "",
-              "text": "the"
+              "chord": "F",
+              "text": "Are you"
+            },
+            {
+              "chord": "G",
+              "text": "in the"
             },
             {
               "chord": "Am",
               "text": "light?"
-            },
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "F",
               "text": "Have you"
+            },
+            {
+              "chord": "G",
+              "text": "changed your"
+            },
+            {
+              "chord": "Am",
+              "text": "diet?"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "F",
+              "text": "Are you"
+            },
+            {
+              "chord": "G7",
+              "text": "eating"
+            },
+            {
+              "chord": "C",
+              "text": "Christ?"
             }
           ]
         }
@@ -190,28 +206,32 @@
         {
           "segments": [
             {
-              "chord": "G",
-              "text": "changed your"
-            },
-            {
-              "chord": "Am",
-              "text": "diet?"
-            },
-            {
-              "chord": "F",
-              "text": "Are you"
-            },
-            {
-              "chord": "G7",
-              "text": "eating"
+              "chord": "",
+              "text": "Do you long for His presence?"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "C",
-              "text": "Christ?"
+              "chord": "",
+              "text": "Do you know His intention"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Is to make us just the same as He?"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And to love Him constantly?"
             }
           ]
         }
@@ -334,10 +354,12 @@
     }
   ],
   "metadata": {
+    "lyrics": "J. L.",
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "13543321354332",
     "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns0421_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/NewSongs/svg/ns0421_g.svg",
     "current_key": "C Major",
     "original_key": "C Major",
     "capo": 0
@@ -347,12 +369,15 @@
     "Do youfeelHis provision?",
     "Have youwon thevict'ryo'er theflesh?",
     "Have youenteredthekingdomofGod?",
-    "Have youenteredthekingdom",
-    "ofGod?Have youclimbed",
-    "themountain?Are youin",
-    "thelight?Have you",
-    "changed yourdiet?Are youeating",
-    "Christ?",
+    "Have youenteredthekingdomofGod?",
+    "Have youclimbed themountain?",
+    "Are youin thelight?",
+    "Have youchanged yourdiet?",
+    "Are youeatingChrist?",
+    "Do you long for His presence?",
+    "Do you know His intention",
+    "Is to make us just the same as He?",
+    "And to love Him constantly?",
     "Will you be a loving seeker?",
     "Not a poor, dead law keeper?",
     "We can read His word day by day,",

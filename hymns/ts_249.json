@@ -88,12 +88,16 @@
             },
             {
               "chord": "",
-              "text": "永 久 磐 石， 哦，"
+              "text": "永 久 磐 石，"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "哦，"
+            },
             {
               "chord": "C",
               "text": "祂 是"
@@ -104,12 +108,16 @@
             },
             {
               "chord": "Am",
-              "text": "先， 祂"
+              "text": "先，"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "祂"
+            },
             {
               "chord": "G",
               "text": "也"
@@ -120,7 +128,7 @@
             },
             {
               "chord": "G",
-              "text": "后。 耶"
+              "text": "后。"
             }
           ]
         }
@@ -134,95 +142,95 @@
           "segments": [
             {
               "chord": "",
-              "text": "稣 是 首"
+              "text": "耶 稣 是 首"
             },
             {
               "chord": "G7",
               "text": "先，"
-            },
-            {
-              "chord": "C",
-              "text": "耶"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "C",
+              "text": "耶 稣"
+            },
+            {
               "chord": "",
-              "text": "稣 是 末"
+              "text": "是 末"
             },
             {
               "chord": "G",
               "text": "后，"
-            },
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "D",
-              "text": "已"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "往 交 祂 担 去，"
+              "text": "已 往"
             },
             {
-              "chord": "A7",
-              "text": "将"
+              "chord": "",
+              "text": "交 祂 担 去，"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "A7",
+              "text": "将 来"
+            },
+            {
               "chord": "",
-              "text": "来 祂 保"
+              "text": "祂 保"
             },
             {
               "chord": "D",
               "text": "守；"
-            },
-            {
-              "chord": "G",
-              "text": "耶"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "G",
+              "text": "耶 稣"
+            },
+            {
               "chord": "",
-              "text": "稣 是 首"
+              "text": "是 首"
             },
             {
               "chord": "G7",
               "text": "先，"
-            },
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "C",
-              "text": "耶"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "稣 是 末 后，"
+              "text": "耶 稣"
             },
             {
-              "chord": "Am",
-              "text": "基"
+              "chord": "",
+              "text": "是 末 后，"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "Am",
+              "text": "基 督─"
+            },
+            {
               "chord": "",
-              "text": "督─ 永 久"
+              "text": "永 久"
             },
             {
               "chord": "G",
@@ -230,16 +238,20 @@
             },
             {
               "chord": "C",
-              "text": "石， 首"
-            },
-            {
-              "chord": "G",
-              "text": "先"
+              "text": "石，"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "首"
+            },
+            {
+              "chord": "G",
+              "text": "先"
+            },
             {
               "chord": "D7",
               "text": "与 末"
@@ -652,6 +664,7 @@
     "time": "4/4",
     "hymn_code": "34555565112165",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0249_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0249_cn_g.svg",
     "current_key": "A♭ Major",
     "original_key": "G Major",
     "capo": 1,
@@ -670,17 +683,17 @@
     "永远 屹立 不朽；",
     "惟 祂昔 是、今 是、 永 是，",
     "包罗 万有， 永久！",
-    "这 是基 督─永 久 磐 石， 哦，",
-    "祂 是首先， 祂",
-    "也是 末后。 耶",
-    "稣 是 首先，耶",
-    "稣 是 末后，已",
-    "往 交 祂 担 去，将",
-    "来 祂 保守；耶",
-    "稣 是 首先，耶",
-    "稣 是 末 后，基",
-    "督─ 永 久磐石， 首先",
-    "与 末后。",
+    "这 是基 督─永 久 磐 石，",
+    "哦，祂 是首先，",
+    "祂也是 末后。",
+    "耶 稣 是 首先，",
+    "耶 稣是 末后，",
+    "已 往交 祂 担 去，",
+    "将 来祂 保守；",
+    "耶 稣是 首先，",
+    "耶 稣是 末 后，",
+    "基 督─永 久磐石，",
+    "首先与 末后。",
     "这位用祂大能膀臂，",
     "托住宇宙万有，",
     "但祂向人敞开胸臆，",

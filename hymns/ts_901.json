@@ -45,18 +45,18 @@
             {
               "chord": "C",
               "text": "醒─"
-            },
-            {
-              "chord": "G",
-              "text": "恩"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "G",
+              "text": "恩 主"
+            },
+            {
               "chord": "",
-              "text": "主 耶"
+              "text": "耶"
             },
             {
               "chord": "D7",
@@ -68,7 +68,7 @@
             },
             {
               "chord": "G",
-              "text": "临！ 主"
+              "text": "临！"
             }
           ]
         }
@@ -82,7 +82,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "要 再"
+              "text": "主 要 再"
             },
             {
               "chord": "Am",
@@ -95,18 +95,18 @@
             {
               "chord": "Bm",
               "text": "临，"
-            },
-            {
-              "chord": "Em",
-              "text": "时"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "Em",
+              "text": "时 间"
+            },
+            {
               "chord": "",
-              "text": "间 飞 逝"
+              "text": "飞 逝"
             },
             {
               "chord": "Am",
@@ -114,7 +114,7 @@
             },
             {
               "chord": "",
-              "text": "等， 不"
+              "text": "等，"
             }
           ]
         },
@@ -122,7 +122,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "久 即 闻 半"
+              "text": "不 久 即 闻 半"
             },
             {
               "chord": "Bm",
@@ -131,18 +131,18 @@
             {
               "chord": "",
               "text": "声！"
-            },
-            {
-              "chord": "G",
-              "text": "主"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "G",
+              "text": "主 要"
+            },
+            {
               "chord": "",
-              "text": "要 再"
+              "text": "再"
             },
             {
               "chord": "Am",
@@ -155,18 +155,18 @@
             {
               "chord": "Bm",
               "text": "临，"
-            },
-            {
-              "chord": "G",
-              "text": "我"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "G",
+              "text": "我 们"
+            },
+            {
               "chord": "",
-              "text": "们 须"
+              "text": "须"
             },
             {
               "chord": "G7",
@@ -183,18 +183,18 @@
             {
               "chord": "",
               "text": "童 女，"
-            },
-            {
-              "chord": "D",
-              "text": "恩"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "D",
+              "text": "恩 主"
+            },
+            {
               "chord": "",
-              "text": "主 耶"
+              "text": "耶"
             },
             {
               "chord": "D7",
@@ -765,6 +765,7 @@
     "time": "6/4",
     "hymn_code": "17654562176567",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0901_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0901_cn_g.svg",
     "current_key": "B♭ Major",
     "original_key": "G Major",
     "capo": 3,
@@ -781,14 +782,14 @@
   "raw_sections": [
     "末 期豫 兆 在 指明，",
     "基 督 快 要 再 降临，",
-    "我 们豫 备 当 儆醒─恩",
-    "主 耶稣 要再临！ 主",
-    "要 再临， 主要 再临，时",
-    "间 飞 逝不 稍等， 不",
-    "久 即 闻 半夜 喊声！主",
-    "要 再临， 主要 再临，我",
-    "们 须豫 备像聪 明童 女，恩",
-    "主 耶稣 要再临！",
+    "我 们豫 备 当 儆醒─",
+    "恩 主耶稣 要再临！",
+    "主 要 再临， 主要 再临，",
+    "时 间飞 逝不 稍等，",
+    "不 久 即 闻 半夜 喊声！",
+    "主 要再临， 主要 再临，",
+    "我 们须豫 备像聪 明童 女，",
+    "恩 主耶稣 要再临！",
     "当从魂和你自己，",
     "转眼望主不稍离，",
     "没有时间再迟疑─",

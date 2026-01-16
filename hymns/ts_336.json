@@ -180,7 +180,7 @@
             },
             {
               "chord": "G",
-              "text": "稣？ 何"
+              "text": "稣？"
             }
           ]
         },
@@ -188,7 +188,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "处 寻 祂─"
+              "text": "何 处 寻 祂─"
             },
             {
               "chord": "D",
@@ -196,11 +196,7 @@
             },
             {
               "chord": "F♯7",
-              "text": "主？ 何"
-            },
-            {
-              "chord": "",
-              "text": "处"
+              "text": "主？"
             }
           ]
         },
@@ -208,7 +204,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "寻 祂─"
+              "text": "何 处 寻 祂─"
             },
             {
               "chord": "Bm",
@@ -217,7 +213,11 @@
             {
               "chord": "D",
               "text": "所 慕？"
-            },
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "G",
               "text": "耶"
@@ -229,11 +229,7 @@
             {
               "chord": "A",
               "text": "挚"
-            }
-          ]
-        },
-        {
-          "segments": [
+            },
             {
               "chord": "A7",
               "text": "爱， 我"
@@ -520,6 +516,7 @@
     "time": "4/4",
     "hymn_code": "5124321233",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0336_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0336_cn_g.svg",
     "current_key": "E♭ Major",
     "original_key": "D Major",
     "capo": 1,
@@ -542,10 +539,10 @@
     "竟 然 就 离 开， 回自 己住 处。",
     "眼 前 事 实， 他 们 满足。",
     "祂在何处？",
-    "何 处寻 祂─主 耶稣？ 何",
-    "处 寻 祂─爱主？ 何处",
-    "寻 祂─我 心所 慕？耶稣，挚",
-    "爱， 我要你，",
+    "何 处寻 祂─主 耶稣？",
+    "何 处 寻 祂─爱主？",
+    "何 处 寻 祂─我 心所 慕？",
+    "耶稣，挚爱， 我要你，",
     "我心破碎，失去最深渴慕；",
     "不要问我：妇人，你为何哭？",
     "除了耶稣，别无满足。",

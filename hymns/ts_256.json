@@ -121,18 +121,14 @@
             {
               "chord": "G",
               "text": "大 能─"
-            },
-            {
-              "chord": "B7",
-              "text": "内"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "",
-              "text": "里"
+              "chord": "B7",
+              "text": "内 里"
             },
             {
               "chord": "Em",
@@ -149,18 +145,18 @@
             {
               "chord": "D7",
               "text": "能 力；"
-            },
-            {
-              "chord": "G",
-              "text": "大"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "G",
+              "text": "大 能"
+            },
+            {
               "chord": "",
-              "text": "能 大 能，"
+              "text": "大 能，"
             },
             {
               "chord": "D7",
@@ -173,15 +169,15 @@
             {
               "chord": "G",
               "text": "大 能─"
-            },
-            {
-              "chord": "G7",
-              "text": "里 面"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "G7",
+              "text": "里 面"
+            },
             {
               "chord": "C",
               "text": "的 人"
@@ -424,6 +420,7 @@
     "time": "4/4",
     "hymn_code": "5534564321",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0256_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0256_cn_g.svg",
     "current_key": "A♭ Major",
     "original_key": "G Major",
     "capo": 1,
@@ -442,10 +439,10 @@
     "使 祂的 儿 子从 死复生；",
     "因 此见 大 能，我 们得 加力，",
     "复 活生 命里 昂然夸胜。",
-    "大 能 大 能，复 活生 命大 能─内",
-    "里运 行，时 时加 添能 力；大",
-    "能 大 能，复 活生 命大 能─里 面",
-    "的 人时 时得加力！",
+    "大 能 大 能，复 活生 命大 能─",
+    "内 里运 行，时 时加 添能 力；",
+    "大 能大 能，复 活生 命大 能─",
+    "里 面的 人时 时得加力！",
     "超越的大能使基督高升，",
     "坐在神右边，远超万有：",
     "执政掌权者，有能主治者，",

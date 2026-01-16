@@ -37,54 +37,54 @@
             {
               "chord": "",
               "text": "说 『阿 们』─ 要 得"
-            },
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "A",
               "text": "胜！"
-            }
-          ]
-        },
-        {
-          "segments": [
+            },
             {
               "chord": "A7",
               "text": "召 会"
-            },
-            {
-              "chord": "D",
-              "text": "光"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "",
-              "text": "景 堕 落 了， 许 多"
+              "chord": "D",
+              "text": "光 景"
             },
+            {
+              "chord": "",
+              "text": "堕 落 了， 许 多"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "G",
-              "text": "道"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "理 都 知 道， 生 命"
+              "text": "道 理"
             },
             {
-              "chord": "D",
-              "text": "却"
+              "chord": "",
+              "text": "都 知 道， 生 命"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "D",
+              "text": "却 是"
+            },
+            {
               "chord": "",
-              "text": "是 摸 不"
+              "text": "摸 不"
             },
             {
               "chord": "A7",
@@ -93,18 +93,18 @@
             {
               "chord": "",
               "text": "得"
-            },
-            {
-              "chord": "D",
-              "text": "胜！ 要"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "D",
+              "text": "胜！ 要"
+            },
+            {
               "chord": "",
-              "text": "得 胜！ 要"
+              "text": "得"
             }
           ]
         }
@@ -118,7 +118,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "得 胜！ 胜 过 死 沉"
+              "text": "胜！ 要 得 胜！ 胜 过"
             }
           ]
         },
@@ -126,15 +126,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "的 宗 教， 要"
-            },
+              "text": "死 沉 的 宗 教， 要 得"
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "A",
-              "text": "得 胜！"
+              "text": "胜！"
             },
             {
               "chord": "A7",
-              "text": "放"
+              "text": "放 下"
             }
           ]
         },
@@ -142,66 +146,50 @@
           "segments": [
             {
               "chord": "D",
-              "text": "下 所"
+              "text": "所 有"
             },
             {
               "chord": "",
-              "text": "有"
+              "text": "的 辛 劳， 脱 离"
             }
           ]
         },
         {
           "segments": [
-            {
-              "chord": "",
-              "text": "的 辛 劳， 脱"
-            },
             {
               "chord": "G",
-              "text": "离 一"
+              "text": "一 切"
             },
             {
               "chord": "",
-              "text": "切"
+              "text": "的 老 套， 只 管"
             }
           ]
         },
         {
           "segments": [
-            {
-              "chord": "",
-              "text": "的 老 套， 只"
-            },
             {
               "chord": "D",
-              "text": "管 单"
+              "text": "单 单"
             },
             {
               "chord": "",
-              "text": "单"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "来"
+              "text": "来 吃"
             },
             {
               "chord": "A7",
-              "text": "吃 主─"
+              "text": "主─ 要"
             },
             {
               "chord": "",
-              "text": "要"
-            },
-            {
-              "chord": "D",
               "text": "得"
-            },
+            }
+          ]
+        },
+        {
+          "segments": [
             {
-              "chord": "G",
+              "chord": "D",
               "text": "胜！"
             }
           ]
@@ -608,6 +596,7 @@
     "time": "4/4",
     "hymn_code": "12333331355555",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0214_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0214_cn_g.svg",
     "current_key": "D Major",
     "original_key": "D Major",
     "capo": 0,
@@ -624,18 +613,19 @@
   "raw_sections": [
     "主 曾召 你 我 得 救，",
     "祂 再 召 你 我 得 胜。",
-    "对 主呼 召说 『阿 们』─ 要 得胜！",
-    "召 会光",
-    "景 堕 落 了， 许 多道",
-    "理 都 知 道， 生 命却",
-    "是 摸 不著─ 要得胜！ 要",
-    "得 胜！ 要",
-    "得 胜！ 胜 过 死 沉",
-    "的 宗 教， 要得 胜！放",
-    "下 所有",
-    "的 辛 劳， 脱离 一切",
-    "的 老 套， 只管 单单",
-    "来吃 主─要得胜！",
+    "对 主呼 召说 『阿 们』─ 要 得",
+    "胜！召 会",
+    "光 景堕 落 了， 许 多",
+    "道 理都 知 道， 生 命",
+    "却 是摸 不著─ 要得",
+    "胜！ 要得",
+    "胜！ 要 得 胜！ 胜 过",
+    "死 沉 的 宗 教， 要 得",
+    "胜！放 下",
+    "所 有的 辛 劳， 脱 离",
+    "一 切的 老 套， 只 管",
+    "单 单来 吃主─ 要得",
+    "胜！",
     "神原命定人来吃，",
     "吃是今日的恢复，",
     "吃是得胜的道路─",

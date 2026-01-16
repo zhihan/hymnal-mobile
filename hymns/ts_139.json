@@ -29,18 +29,18 @@
             {
               "chord": "",
               "text": "皮─"
-            },
-            {
-              "chord": "A7",
-              "text": "你"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "A7",
+              "text": "你 成"
+            },
+            {
               "chord": "",
-              "text": "成 分"
+              "text": "分"
             },
             {
               "chord": "D",
@@ -61,18 +61,18 @@
             {
               "chord": "A",
               "text": "主！"
-            },
-            {
-              "chord": "D",
-              "text": "橄"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "D",
+              "text": "橄 榄"
+            },
+            {
               "chord": "",
-              "text": "榄 油 中 相 调，"
+              "text": "油 中 相 调，"
             },
             {
               "chord": "B7",
@@ -89,15 +89,15 @@
             {
               "chord": "",
               "text": "妙─"
-            },
-            {
-              "chord": "A7",
-              "text": "宝 贵"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "A7",
+              "text": "宝 贵"
+            },
             {
               "chord": "",
               "text": "膏"
@@ -121,15 +121,15 @@
             {
               "chord": "D",
               "text": "富！"
-            },
-            {
-              "chord": "A",
-              "text": "香 料"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "A",
+              "text": "香 料"
+            },
             {
               "chord": "",
               "text": "加"
@@ -145,15 +145,15 @@
             {
               "chord": "",
               "text": "和 于 一，"
-            },
-            {
-              "chord": "E",
-              "text": "终 成"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "E",
+              "text": "终 成"
+            },
             {
               "chord": "",
               "text": "复"
@@ -165,15 +165,15 @@
             {
               "chord": "A7",
               "text": "灵；"
-            },
-            {
-              "chord": "D",
-              "text": "基 督"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "D",
+              "text": "基 督"
+            },
             {
               "chord": "",
               "text": "之 死 甜 美，"
@@ -193,15 +193,15 @@
             {
               "chord": "",
               "text": "香，"
-            },
-            {
-              "chord": "A7",
-              "text": "复 合"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "A7",
+              "text": "复 合"
+            },
             {
               "chord": "",
               "text": "成"
@@ -378,6 +378,7 @@
     "time": "3/4",
     "hymn_code": "333211443322",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0139_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0139_cn_g.svg",
     "current_key": "F Major",
     "original_key": "D Major",
     "capo": 3,
@@ -392,14 +393,14 @@
     ]
   },
   "raw_sections": [
-    "没 药与 香 肉 桂，香 菖蒲与 桂皮─你",
-    "成 分何 包罗，耶 稣我主！橄",
-    "榄 油 中 相 调，分 量完整 奇妙─宝 贵",
-    "膏油 涂抹，供 应丰富！香 料",
-    "加上 油，四 调和 于 一，终 成",
-    "复合 之灵；基 督",
-    "之 死 甜 美，基 督复活 馨香，复 合",
-    "成为 膏油，流 进我灵！",
+    "没 药与 香 肉 桂，香 菖蒲与 桂皮─",
+    "你 成分何 包罗，耶 稣我主！",
+    "橄 榄油 中 相 调，分 量完整 奇妙─",
+    "宝 贵膏油 涂抹，供 应丰富！",
+    "香 料加上 油，四 调和 于 一，",
+    "终 成复合 之灵；",
+    "基 督之 死 甜 美，基 督复活 馨香，",
+    "复 合成为 膏油，流 进我灵！",
     "苏合香与香螺，白松香与乳香─",
     "你成分何包罗，耶稣我主！",
     "生命产生众子，救赎使罪脱落，",

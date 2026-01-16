@@ -85,66 +85,66 @@
             {
               "chord": "",
               "text": "丰 盛 的 生 命─"
-            },
+            }
+          ]
+        },
+        {
+          "segments": [
             {
               "chord": "F",
-              "text": "活"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "水 江 河 流 不 停，"
+              "text": "活 水"
             },
             {
-              "chord": "C",
-              "text": "新"
+              "chord": "",
+              "text": "江 河 流 不 停，"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "C",
+              "text": "新 的"
+            },
+            {
               "chord": "",
-              "text": "的 生 命 今 开"
+              "text": "生 命 今 开"
             },
             {
               "chord": "F",
               "text": "始，"
-            },
-            {
-              "chord": "D7",
-              "text": "喜"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "D7",
+              "text": "喜 乐"
+            },
+            {
               "chord": "",
-              "text": "乐 涌 出 永 无"
+              "text": "涌 出 永 无"
             },
             {
               "chord": "G",
               "text": "止；"
-            },
-            {
-              "chord": "E",
-              "text": "爱"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "E",
+              "text": "爱 在"
+            },
+            {
               "chord": "",
-              "text": "在 里 面 时 增"
+              "text": "里 面 时 增"
             },
             {
               "chord": "C",
-              "text": "加。 这"
+              "text": "加。"
             }
           ]
         },
@@ -152,7 +152,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "全"
+              "text": "这 全"
             },
             {
               "chord": "F",
@@ -164,7 +164,7 @@
             },
             {
               "chord": "C",
-              "text": "祂！ 阿"
+              "text": "祂！"
             }
           ]
         },
@@ -172,27 +172,27 @@
           "segments": [
             {
               "chord": "",
-              "text": "利"
+              "text": "阿 利"
             },
             {
               "chord": "G7",
               "text": "路 亚！"
-            },
-            {
-              "chord": "C",
-              "text": "喊"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "C",
+              "text": "喊 主"
+            },
+            {
               "chord": "",
-              "text": "主 耶 稣 尝 尝 看！"
+              "text": "耶 稣 尝 尝 看！"
             },
             {
               "chord": "Dm",
-              "text": "祂 是"
+              "text": "祂"
             }
           ]
         }
@@ -206,6 +206,7 @@
     "time": "2/4",
     "hymn_code": "51643123167121",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0818_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0818_cn_g.svg",
     "current_key": "C Major",
     "original_key": "C Major",
     "capo": 0,
@@ -224,13 +225,13 @@
     "答 案今已找出来！",
     "喊 主 耶 稣 尝 尝 看！",
     "祂 是实 际 真 无限！",
-    "祂 赐丰 盛 的 生 命─活",
-    "水 江 河 流 不 停，新",
-    "的 生 命 今 开始，喜",
-    "乐 涌 出 永 无止；爱",
-    "在 里 面 时 增加。 这",
-    "全都 是因 著祂！ 阿",
-    "利路 亚！喊",
-    "主 耶 稣 尝 尝 看！祂 是"
+    "祂 赐丰 盛 的 生 命─",
+    "活 水江 河 流 不 停，",
+    "新 的生 命 今 开始，",
+    "喜 乐涌 出 永 无止；",
+    "爱 在里 面 时 增加。",
+    "这 全都 是因 著祂！",
+    "阿 利路 亚！",
+    "喊 主耶 稣 尝 尝 看！祂"
   ]
 }

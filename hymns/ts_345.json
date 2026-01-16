@@ -181,10 +181,6 @@
             {
               "chord": "Gsus4",
               "text": "意。"
-            },
-            {
-              "chord": "G7",
-              "text": "世"
             }
           ]
         }
@@ -196,6 +192,10 @@
       "lines": [
         {
           "segments": [
+            {
+              "chord": "G7",
+              "text": "世"
+            },
             {
               "chord": "C",
               "text": "上 有"
@@ -210,12 +210,16 @@
             },
             {
               "chord": "",
-              "text": "美 丽？ 人"
+              "text": "美 丽？"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "人"
+            },
             {
               "chord": "Am",
               "text": "间 有"
@@ -230,12 +234,16 @@
             },
             {
               "chord": "",
-              "text": "能 比？ 哦，"
+              "text": "能 比？"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "哦，"
+            },
             {
               "chord": "F",
               "text": "圣 中"
@@ -254,12 +262,16 @@
             },
             {
               "chord": "Am",
-              "text": "里； 主"
+              "text": "里；"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "主"
+            },
             {
               "chord": "F",
               "text": "耶 稣，"
@@ -275,15 +287,15 @@
             {
               "chord": "Gsus4",
               "text": "爱 你！"
-            },
-            {
-              "chord": "",
-              "text": "不"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "不"
+            },
             {
               "chord": "C",
               "text": "愿 再"
@@ -302,12 +314,16 @@
             },
             {
               "chord": "E7",
-              "text": "意； 惟"
+              "text": "意；"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "惟"
+            },
             {
               "chord": "Am",
               "text": "愿 脱"
@@ -322,12 +338,16 @@
             },
             {
               "chord": "",
-              "text": "充 溢； 你"
+              "text": "充 溢；"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "你"
+            },
             {
               "chord": "F",
               "text": "以 外，"
@@ -347,15 +367,15 @@
             {
               "chord": "Am",
               "text": "迹；"
-            },
-            {
-              "chord": "C",
-              "text": "我"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "C",
+              "text": "我"
+            },
             {
               "chord": "F",
               "text": "惟 一"
@@ -661,6 +681,7 @@
     "time": "4/4",
     "hymn_code": "3231116565644325",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0345_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0345_cn_g.svg",
     "current_key": "C Major",
     "original_key": "C Major",
     "capo": 0,
@@ -682,15 +703,15 @@
     "真 渴望 消失 在 你里，",
     "当 你柔 声入 我心底；",
     "前 我所 眷恋， 今 欢然 撇弃，",
-    "只 愿爱 你─全 心全意。世",
-    "上 有谁 像 你如 此美 丽？ 人",
-    "间 有何 与 你爱 情能 比？ 哦，",
-    "圣 中之 圣， 你竟 住我里； 主",
-    "耶 稣，我 深深爱 你！不",
-    "愿 再受 欺， 不愿 再任意； 惟",
-    "愿 脱自 己， 只被 你充 溢； 你",
-    "以 外，哦， 让 一切 都绝迹；我",
-    "惟 一的 最爱是 你。",
+    "只 愿爱 你─全 心全意。",
+    "世上 有谁 像 你如 此美 丽？",
+    "人间 有何 与 你爱 情能 比？",
+    "哦，圣 中之 圣， 你竟 住我里；",
+    "主耶 稣，我 深深爱 你！",
+    "不愿 再受 欺， 不愿 再任意；",
+    "惟愿 脱自 己， 只被 你充 溢；",
+    "你以 外，哦， 让 一切 都绝迹；",
+    "我惟 一的 最爱是 你。",
     "主耶稣，你是我至爱，",
     "虽我曾顽梗又悖逆，",
     "今放下一切，你前来侍立，",

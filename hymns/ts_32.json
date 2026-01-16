@@ -88,12 +88,16 @@
             },
             {
               "chord": "D",
-              "text": "合─ 惟"
+              "text": "合─"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "惟"
+            },
             {
               "chord": "G",
               "text": "祂 是"
@@ -354,6 +358,7 @@
     "time": "3/4",
     "hymn_code": "51123321271",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0032_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0032_cn_g.svg",
     "current_key": "G Major",
     "original_key": "G Major",
     "capo": 0,
@@ -370,8 +375,8 @@
   "raw_sections": [
     "基 督在 地 生 活 超凡 且佳美，",
     "祂是 神、人调 和，价值 何宝贵；",
-    "态度、 拣选、 喜 悦 全与 神相合─ 惟",
-    "祂 是那 配 住 神的 帐幕者。",
+    "态度、 拣选、 喜 悦 全与 神相合─",
+    "惟祂 是那 配 住 神的 帐幕者。",
     "\"神，求你保守我，因我投靠你\"─",
     "无论起何风暴，祂安居神里。",
     "\"你是我主我神，我一切好处\"─",

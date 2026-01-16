@@ -21,15 +21,15 @@
             {
               "chord": "",
               "text": "中─"
-            },
-            {
-              "chord": "C",
-              "text": "神"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "C",
+              "text": "神"
+            },
             {
               "chord": "G",
               "text": "所 拣"
@@ -37,18 +37,18 @@
             {
               "chord": "C",
               "text": "选；"
-            },
-            {
-              "chord": "F",
-              "text": "在"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "F",
+              "text": "在 此"
+            },
+            {
               "chord": "",
-              "text": "此 基"
+              "text": "基"
             },
             {
               "chord": "C",
@@ -57,18 +57,18 @@
             {
               "chord": "",
               "text": "生 命，"
-            },
-            {
-              "chord": "D",
-              "text": "圣"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "D",
+              "text": "圣 灵"
+            },
+            {
               "chord": "",
-              "text": "灵 有"
+              "text": "有"
             },
             {
               "chord": "D7",
@@ -76,7 +76,7 @@
             },
             {
               "chord": "G",
-              "text": "权。 （阿"
+              "text": "权。"
             }
           ]
         },
@@ -84,7 +84,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "利"
+              "text": "（阿 利"
             },
             {
               "chord": "G7",
@@ -93,15 +93,15 @@
             {
               "chord": "C",
               "text": "在 灵"
-            },
-            {
-              "chord": "",
-              "text": "中，"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "中，"
+            },
             {
               "chord": "Am",
               "text": "站 立"
@@ -116,12 +116,16 @@
             },
             {
               "chord": "G",
-              "text": "主 争"
+              "text": "主"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "争"
+            },
             {
               "chord": "C",
               "text": "战！"
@@ -129,22 +133,22 @@
             {
               "chord": "F",
               "text": "我 们"
-            },
-            {
-              "chord": "",
-              "text": "必"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "必"
+            },
             {
               "chord": "C",
               "text": "胜 过"
             },
             {
               "chord": "",
-              "text": "仇 敌， 带 进 神"
+              "text": "仇 敌， 带 进"
             }
           ]
         },
@@ -152,7 +156,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "国"
+              "text": "神 国"
             },
             {
               "chord": "G",
@@ -178,6 +182,7 @@
     "time": "4/4",
     "hymn_code": "1356361251",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0516_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0516_cn_g.svg",
     "current_key": "C Major",
     "original_key": "C Major",
     "capo": 0,
@@ -192,14 +197,14 @@
     ]
   },
   "raw_sections": [
-    "在 地方召 会中─神",
-    "所 拣选；在",
-    "此 基督 作生 命，圣",
-    "灵 有主权。 （阿",
-    "利路 亚）在 灵中，",
-    "站 立场，为主 争",
-    "战！我 们必",
-    "胜 过仇 敌， 带 进 神",
-    "国度─ 基督 作王。"
+    "在 地方召 会中─",
+    "神所 拣选；",
+    "在 此基督 作生 命，",
+    "圣 灵有主权。",
+    "（阿 利路 亚）在 灵",
+    "中，站 立场，为主",
+    "争战！我 们",
+    "必胜 过仇 敌， 带 进",
+    "神 国度─ 基督 作王。"
   ]
 }

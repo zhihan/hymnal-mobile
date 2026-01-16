@@ -159,13 +159,7 @@
               "text": "go."
             }
           ]
-        }
-      ],
-      "type": "verse",
-      "number": "1"
-    },
-    {
-      "lines": [
+        },
         {
           "segments": [
             {
@@ -183,6 +177,76 @@
             {
               "chord": "",
               "text": "go."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When my soul is faint and thirsty,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "’Neath the shadow of His wing"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "There is cool and pleasant shelter,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And a fresh and crystal spring;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "And my Savior rests beside me,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "As we hold communion sweet;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "If I tried, I could not utter"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "What He says when thus we meet."
             }
           ]
         }
@@ -332,10 +396,12 @@
     }
   ],
   "metadata": {
+    "lyrics": "Ellen Lakshmi Goreh",
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "656117123231217",
     "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e0553_new_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/NewTunes/svg/e0553_new_g.svg",
     "current_key": "E Minor",
     "original_key": "E Minor"
   },
@@ -349,6 +415,14 @@
     "For when Satancomes totempt me,",
     "To thesecretplace Igo.",
     "To thesecretplace Igo.",
+    "When my soul is faint and thirsty,",
+    "’Neath the shadow of His wing",
+    "There is cool and pleasant shelter,",
+    "And a fresh and crystal spring;",
+    "And my Savior rests beside me,",
+    "As we hold communion sweet;",
+    "If I tried, I could not utter",
+    "What He says when thus we meet.",
     "Only this I know: I tell Him",
     "All my doubts and griefs and fears;",
     "Oh, how patiently He listens!",

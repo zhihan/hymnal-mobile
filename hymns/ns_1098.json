@@ -1,38 +1,26 @@
 {
   "url": "https://www.hymnal.net/en/hymn/ns/1098",
-  "title": "The Spirit with our spirit is the secret",
+  "title": "’Tis so sweet to love my Jesus",
   "verses": [
     {
       "lines": [
         {
           "segments": [
             {
-              "chord": "D",
-              "text": "The generating"
+              "chord": "G",
+              "text": "'Tis so"
             },
             {
               "chord": "",
-              "text": "Spirit in our"
+              "text": "sweet to"
             },
             {
-              "chord": "Bm7",
-              "text": "spirit,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "D",
-              "text": "Quickened,"
+              "chord": "C",
+              "text": "love my"
             },
             {
-              "chord": "",
-              "text": "made alive, by Christ the"
-            },
-            {
-              "chord": "A",
-              "text": "Lord,"
+              "chord": "G",
+              "text": "Jesus,"
             }
           ]
         },
@@ -40,55 +28,55 @@
           "segments": [
             {
               "chord": "",
-              "text": "Re"
-            },
-            {
-              "chord": "D",
-              "text": "generates"
-            },
-            {
-              "chord": "",
-              "text": "us, giving us au"
-            },
-            {
-              "chord": "F♯m",
-              "text": "thority"
-            },
-            {
-              "chord": "",
-              "text": "to"
-            },
-            {
-              "chord": "Bm",
-              "text": "be God's"
-            },
-            {
-              "chord": "Bm7",
-              "text": "children,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "Em",
-              "text": "Those who"
-            },
-            {
-              "chord": "Em7",
-              "text": "are be"
-            },
-            {
-              "chord": "A",
-              "text": "gotten"
+              "text": "Just to love Him"
             },
             {
               "chord": "A7",
-              "text": "of our"
+              "text": "and His"
             },
             {
-              "chord": "D",
-              "text": "God."
+              "chord": "D7",
+              "text": "words;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Just to"
+            },
+            {
+              "chord": "",
+              "text": "rest up"
+            },
+            {
+              "chord": "C",
+              "text": "on His"
+            },
+            {
+              "chord": "G",
+              "text": "bosom;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Just to"
+            },
+            {
+              "chord": "C",
+              "text": "know, I"
+            },
+            {
+              "chord": "D7",
+              "text": "am the"
+            },
+            {
+              "chord": "G",
+              "text": "Lord's."
             }
           ]
         }
@@ -102,43 +90,47 @@
           "segments": [
             {
               "chord": "",
-              "text": "The"
+              "text": "Jesus, Jesus, how I"
             },
             {
-              "chord": "Bm",
-              "text": "Spirit"
-            },
-            {
-              "chord": "",
-              "text": "with our spirit is the"
-            },
-            {
-              "chord": "F♯m",
-              "text": "secret,"
+              "chord": "D",
+              "text": "love Him,"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "A",
-              "text": "The"
-            },
-            {
-              "chord": "Bm",
-              "text": "skillfulness"
+              "chord": "G",
+              "text": "How I'll"
             },
             {
               "chord": "",
-              "text": "of God's salvation"
+              "text": "love Him more and"
             },
             {
-              "chord": "Em7",
-              "text": "by His"
+              "chord": "D",
+              "text": "more,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "G",
+              "text": "Jesus,"
             },
             {
-              "chord": "A",
-              "text": "life:"
+              "chord": "",
+              "text": "Jesus,"
+            },
+            {
+              "chord": "C",
+              "text": "lovely"
+            },
+            {
+              "chord": "G",
+              "text": "Jesus!"
             }
           ]
         },
@@ -146,43 +138,23 @@
           "segments": [
             {
               "chord": "",
-              "text": "Re"
+              "text": "O for"
             },
             {
-              "chord": "Bm",
-              "text": "generates"
+              "chord": "C",
+              "text": "grace to"
             },
             {
-              "chord": "",
-              "text": "us, feeds and sancti"
+              "chord": "D",
+              "text": "love"
             },
             {
-              "chord": "F♯m",
-              "text": "fies us,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "A",
-              "text": "Re"
+              "chord": "D7",
+              "text": "Him"
             },
             {
-              "chord": "Bm",
-              "text": "news, transforms,"
-            },
-            {
-              "chord": "",
-              "text": "and builds, conforms, and"
-            },
-            {
-              "chord": "Em7",
-              "text": "glori"
-            },
-            {
-              "chord": "A",
-              "text": "fies."
+              "chord": "G",
+              "text": "more."
             }
           ]
         }
@@ -195,7 +167,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "The nourishing rich Spirit in our spirit,"
+              "text": "Draw me, Lord, and win completely,"
             }
           ]
         },
@@ -203,7 +175,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Cherished by our Christ so tenderly,"
+              "text": "From all bondage, set me free,"
             }
           ]
         },
@@ -211,7 +183,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Feeds us with the spiritual milk, the word of God, that we may grow"
+              "text": "Footsteps of the flock I’ll follow;"
             }
           ]
         },
@@ -219,7 +191,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Unto salvation in our inward being."
+              "text": "Gladly we’ll run after Thee."
             }
           ]
         }
@@ -233,7 +205,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "The sanctifying Spirit from our spirit,"
+              "text": "Jesus, Jesus, our Belovèd,"
             }
           ]
         },
@@ -241,7 +213,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Captivated, gained, by Christ the Lord,"
+              "text": "Thou, our inmost heart’s desire;"
             }
           ]
         },
@@ -249,7 +221,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Sanctifies us with God’s nature, disposition penetrating,"
+              "text": "Charming love our hearts hath captured—"
             }
           ]
         },
@@ -257,7 +229,44 @@
           "segments": [
             {
               "chord": "",
-              "text": "Thus to make us holy unto God."
+              "text": "Thy love burns within as fire."
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "O what joy it is preparing"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "For our wedding with the Lord—"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "As the Spirit—beautifying"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Through each rhema-spoken word."
             }
           ]
         }
@@ -271,7 +280,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "The fresh renewing Spirit in our spirit,"
+              "text": "Stitch by stitch we are preparing;"
             }
           ]
         },
@@ -279,7 +288,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Indwelt by the rich, abundant Christ,"
+              "text": "Price we’re paying o’er and o’er"
             }
           ]
         },
@@ -287,7 +296,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Renews us that we may put on the one new man, as we put off"
+              "text": "Life maturing, Body building,"
             }
           ]
         },
@@ -295,7 +304,44 @@
           "segments": [
             {
               "chord": "",
-              "text": "The old man through the breaking of the cross."
+              "text": "Rapture ready, joyous soar!"
+            }
+          ]
+        }
+      ],
+      "type": "chorus"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "How we love Thee, dearest Bridegroom!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Long to hear Thy charming voice!"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Come  Belovèd with Thy kingdom,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Thou our best and fairest choice."
             }
           ]
         }
@@ -309,7 +355,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "The strong transforming Spirit in our spirit,"
+              "text": "Jesus, Jesus, how we love Thee!"
             }
           ]
         },
@@ -317,7 +363,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Filled by Christ and spreading to our soul,"
+              "text": "How we’ll love Thee evermore!"
             }
           ]
         },
@@ -325,7 +371,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "Transforms us, glory unto glory, into Christ’s own glorious image,"
+              "text": "Jesus, Jesus, lovely Jesus!"
             }
           ]
         },
@@ -333,257 +379,57 @@
           "segments": [
             {
               "chord": "",
-              "text": "His expression to the uttermost."
-            }
-          ]
-        }
-      ],
-      "type": "verse",
-      "number": "5"
-    },
-    {
-      "lines": [
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "The master building Spirit in our spirit,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "Possessed by Christ and mingled with the Lord,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "Builds us up into the house of God and Christ’s own Body for the"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "Mutual dwelling of the Triune God."
-            }
-          ]
-        }
-      ],
-      "type": "verse",
-      "number": "6"
-    },
-    {
-      "lines": [
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "The full-maturing Spirit in our spirit,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "Day by day enriched with Christ the Son,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "Conforms us to Christ’s image, to the measure of the stature of God’s"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "Firstborn Son, the model of God’s sons."
-            }
-          ]
-        }
-      ],
-      "type": "verse",
-      "number": "7"
-    },
-    {
-      "lines": [
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "The sealing, inking Spirit in our spirit,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "Which exults with Christ, our glorious life,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "Saturates us with and brings us into God’s own glory for our"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "Full glorification by His life."
-            }
-          ]
-        }
-      ],
-      "type": "verse",
-      "number": "8"
-    },
-    {
-      "lines": [
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "The life-releasing consummated Spirit"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "Becomes intensified with seven burning eyes,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "With Himself infusing and enlightening,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "Restoring our first love that He could gain Christ’s bride."
+              "text": "Christ, the church, forevermore!"
             }
           ]
         }
       ],
       "type": "chorus"
-    },
-    {
-      "lines": [
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "Th’ intensified bright Spirit in our spirit,"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "Drawn by Christ the Lamb, now motivates"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "To overcome the church’s degradation for Christ’s Body, thus the"
-            }
-          ]
-        },
-        {
-          "segments": [
-            {
-              "chord": "",
-              "text": "New Jerusalem to consummate."
-            }
-          ]
-        }
-      ],
-      "type": "verse",
-      "number": "9"
     }
   ],
   "metadata": {
+    "lyrics": "P. J.",
     "category": "Experience of Christ",
     "time": "4/4",
-    "hymn_code": "555653213555653212",
+    "hymn_code": "321761651353212",
     "midi_tune_url": "https://www.hymnal.net/Hymns/NewSongs/midi/tunes/ns1098_tune.midi",
-    "current_key": "D Major",
-    "original_key": "D Major",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/NewSongs/svg/ns1098_g.svg",
+    "current_key": "G Major",
+    "original_key": "G Major",
     "capo": 0
   },
   "raw_sections": [
-    "The generatingSpirit in ourspirit,",
-    "Quickened,made alive, by Christ theLord,",
-    "Regeneratesus, giving us authoritytobe God'schildren,",
-    "Those whoare begottenof ourGod.",
-    "TheSpiritwith our spirit is thesecret,",
-    "Theskillfulnessof God's salvationby Hislife:",
-    "Regeneratesus, feeds and sanctifies us,",
-    "Renews, transforms,and builds, conforms, andglorifies.",
-    "The nourishing rich Spirit in our spirit,",
-    "Cherished by our Christ so tenderly,",
-    "Feeds us with the spiritual milk, the word of God, that we may grow",
-    "Unto salvation in our inward being.",
-    "The sanctifying Spirit from our spirit,",
-    "Captivated, gained, by Christ the Lord,",
-    "Sanctifies us with God’s nature, disposition penetrating,",
-    "Thus to make us holy unto God.",
-    "The fresh renewing Spirit in our spirit,",
-    "Indwelt by the rich, abundant Christ,",
-    "Renews us that we may put on the one new man, as we put off",
-    "The old man through the breaking of the cross.",
-    "The strong transforming Spirit in our spirit,",
-    "Filled by Christ and spreading to our soul,",
-    "Transforms us, glory unto glory, into Christ’s own glorious image,",
-    "His expression to the uttermost.",
-    "The master building Spirit in our spirit,",
-    "Possessed by Christ and mingled with the Lord,",
-    "Builds us up into the house of God and Christ’s own Body for the",
-    "Mutual dwelling of the Triune God.",
-    "The full-maturing Spirit in our spirit,",
-    "Day by day enriched with Christ the Son,",
-    "Conforms us to Christ’s image, to the measure of the stature of God’s",
-    "Firstborn Son, the model of God’s sons.",
-    "The sealing, inking Spirit in our spirit,",
-    "Which exults with Christ, our glorious life,",
-    "Saturates us with and brings us into God’s own glory for our",
-    "Full glorification by His life.",
-    "The life-releasing consummated Spirit",
-    "Becomes intensified with seven burning eyes,",
-    "With Himself infusing and enlightening,",
-    "Restoring our first love that He could gain Christ’s bride.",
-    "Th’ intensified bright Spirit in our spirit,",
-    "Drawn by Christ the Lamb, now motivates",
-    "To overcome the church’s degradation for Christ’s Body, thus the",
-    "New Jerusalem to consummate."
+    "'Tis sosweet tolove myJesus,",
+    "Just to love Himand Hiswords;",
+    "Just torest upon Hisbosom;",
+    "Just toknow, Iam theLord's.",
+    "Jesus, Jesus, how Ilove Him,",
+    "How I'lllove Him more andmore,",
+    "Jesus,Jesus,lovelyJesus!",
+    "O forgrace toloveHimmore.",
+    "Draw me, Lord, and win completely,",
+    "From all bondage, set me free,",
+    "Footsteps of the flock I’ll follow;",
+    "Gladly we’ll run after Thee.",
+    "Jesus, Jesus, our Belovèd,",
+    "Thou, our inmost heart’s desire;",
+    "Charming love our hearts hath captured—",
+    "Thy love burns within as fire.",
+    "O what joy it is preparing",
+    "For our wedding with the Lord—",
+    "As the Spirit—beautifying",
+    "Through each rhema-spoken word.",
+    "Stitch by stitch we are preparing;",
+    "Price we’re paying o’er and o’er",
+    "Life maturing, Body building,",
+    "Rapture ready, joyous soar!",
+    "How we love Thee, dearest Bridegroom!",
+    "Long to hear Thy charming voice!",
+    "Come  Belovèd with Thy kingdom,",
+    "Thou our best and fairest choice.",
+    "Jesus, Jesus, how we love Thee!",
+    "How we’ll love Thee evermore!",
+    "Jesus, Jesus, lovely Jesus!",
+    "Christ, the church, forevermore!"
   ]
 }

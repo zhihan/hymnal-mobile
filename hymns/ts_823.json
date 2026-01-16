@@ -161,18 +161,14 @@
             {
               "chord": "",
               "text": "代─"
-            },
-            {
-              "chord": "Bm",
-              "text": "祂"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "",
-              "text": "与"
+              "chord": "Bm",
+              "text": "祂 与"
             },
             {
               "chord": "G",
@@ -180,12 +176,16 @@
             },
             {
               "chord": "D",
-              "text": "在。 不"
+              "text": "在。"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "不"
+            },
             {
               "chord": "Em",
               "text": "要 四"
@@ -213,18 +213,14 @@
             {
               "chord": "G",
               "text": "待，"
-            },
-            {
-              "chord": "D",
-              "text": "耶"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "",
-              "text": "稣，"
+              "chord": "D",
+              "text": "耶 稣，"
             },
             {
               "chord": "Bm",
@@ -245,18 +241,18 @@
             {
               "chord": "",
               "text": "若"
-            },
-            {
-              "chord": "D",
-              "text": "从"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "D",
+              "text": "从 深"
+            },
+            {
               "chord": "",
-              "text": "深 处 呼 求 祂，"
+              "text": "处 呼 求 祂，"
             },
             {
               "chord": "G",
@@ -272,7 +268,7 @@
             },
             {
               "chord": "A",
-              "text": "你 多"
+              "text": "你"
             }
           ]
         },
@@ -280,7 +276,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "方"
+              "text": "多 方"
             },
             {
               "chord": "F♯",
@@ -293,18 +289,14 @@
             {
               "chord": "Bm",
               "text": "请 务"
-            },
-            {
-              "chord": "G",
-              "text": "必"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "",
-              "text": "记"
+              "chord": "G",
+              "text": "必 记"
             },
             {
               "chord": "D",
@@ -312,12 +304,16 @@
             },
             {
               "chord": "Em",
-              "text": "论 此"
+              "text": "论"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "此"
+            },
             {
               "chord": "A7",
               "text": "世"
@@ -348,12 +344,16 @@
             },
             {
               "chord": "Bm",
-              "text": "耶 稣，"
+              "text": "耶"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "稣，"
+            },
             {
               "chord": "F♯m",
               "text": "耶 稣"
@@ -377,6 +377,7 @@
     "time": "3/4",
     "hymn_code": "1357351615",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0823_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0823_cn_g.svg",
     "current_key": "D Major",
     "original_key": "D Major",
     "capo": 0,
@@ -396,14 +397,14 @@
     "你若 觉人生 黑暗，前 途茫茫，",
     "耶 稣，耶 稣，是 你的光。",
     "你 若从 深处 转 向 祂，重 担卸下，",
-    "祂必 定替你 担代─祂",
-    "与你 同在。 不",
-    "要 四处寻 求答案， 空等待，耶",
-    "稣，耶 稣，祂 是『现在』； 你若从",
-    "深 处 呼 求 祂，祂 不失误！ 当你 多",
-    "方受 磨炼，请 务必",
-    "记住： 无论 此",
-    "世有 多少景 况遭遇，耶 稣，耶 稣，",
-    "耶 稣是主。"
+    "祂必 定替你 担代─",
+    "祂 与你 同在。",
+    "不要 四处寻 求答案， 空等待，",
+    "耶 稣，耶 稣，祂 是『现在』； 你若",
+    "从 深处 呼 求 祂，祂 不失误！ 当你",
+    "多 方受 磨炼，请 务",
+    "必 记住： 无论",
+    "此世有 多少景 况遭遇，耶 稣，耶",
+    "稣，耶 稣是主。"
   ]
 }

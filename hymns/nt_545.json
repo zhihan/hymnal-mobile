@@ -119,13 +119,7 @@
               "text": "owe."
             }
           ]
-        }
-      ],
-      "type": "verse",
-      "number": "1"
-    },
-    {
-      "lines": [
+        },
         {
           "segments": [
             {
@@ -159,14 +153,64 @@
             {
               "chord": "",
               "text": "much I"
+            },
+            {
+              "chord": "C",
+              "text": "owe."
+            }
+          ]
+        }
+      ],
+      "type": "verse",
+      "number": "1"
+    },
+    {
+      "lines": [
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When I stand before the throne"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "C",
-              "text": "owe."
+              "chord": "",
+              "text": "Dressed in beauty not my own,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "When I see Thee as Thou art,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Love Thee with unsinning heart;"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Then, Lord, shall I fully know,"
+            }
+          ]
+        },
+        {
+          "segments": [
+            {
+              "chord": "",
+              "text": "Not till then, how much I owe."
             }
           ]
         }
@@ -230,10 +274,12 @@
     }
   ],
   "metadata": {
+    "lyrics": "Robert Murray McCheyne",
     "category": "Experience of Christ",
     "time": "4/4",
     "hymn_code": "11555651144432",
     "midi_tune_url": "https://www.hymnal.net/Hymns/NewTunes/midi/tunes/e0545_new_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/NewTunes/svg/e0545_new_g.svg",
     "current_key": "C Major",
     "original_key": "C Major",
     "capo": 0
@@ -246,8 +292,13 @@
     "Then, Lord,shall Ifullyknow,",
     "Not tillthen, howmuch Iowe.",
     "Then, Lord,shall Ifullyknow,",
-    "Not tillthen, howmuch I",
-    "owe.",
+    "Not tillthen, howmuch Iowe.",
+    "When I stand before the throne",
+    "Dressed in beauty not my own,",
+    "When I see Thee as Thou art,",
+    "Love Thee with unsinning heart;",
+    "Then, Lord, shall I fully know,",
+    "Not till then, how much I owe.",
     "E’en on earth, as through a glass",
     "Darkly, let Thy glory pass;",
     "Make forgiveness feel so sweet;",

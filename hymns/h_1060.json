@@ -28,19 +28,19 @@
           "segments": [
             {
               "chord": "",
-              "text": "When"
+              "text": "When Thou"
             },
             {
               "chord": "G",
-              "text": "Thou camest"
-            },
-            {
-              "chord": "D",
-              "text": "to earth"
+              "text": "camest"
             },
             {
               "chord": "",
-              "text": "for"
+              "text": "to"
+            },
+            {
+              "chord": "D",
+              "text": "earth for"
             },
             {
               "chord": "A",
@@ -438,6 +438,7 @@
     "time": "4/4",
     "hymn_code": "135551332171",
     "midi_tune_url": "https://www.hymnal.net/Hymns/Hymnal/midi/tunes/e1060_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/Hymnal/svg/e1060_g.svg",
     "current_key": "F Major",
     "original_key": "D Major",
     "capo": 3,
@@ -453,7 +454,7 @@
   },
   "raw_sections": [
     "Thou didstleave Thy throne and Thykinglycrown,",
-    "WhenThou camestto earthforme;",
+    "When Thoucamesttoearth forme;",
     "But inBethlehem'shome was therefound noroom",
     "For Thyholynativity:",
     "Oh,come tomyheart, LordJesus!",

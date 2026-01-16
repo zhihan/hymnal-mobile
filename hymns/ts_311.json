@@ -144,12 +144,16 @@
             },
             {
               "chord": "",
-              "text": "以 爱 为 旌 旗─ 你"
+              "text": "以 爱 为 旌 旗─"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "",
+              "text": "你"
+            },
             {
               "chord": "F",
               "text": "的 自"
@@ -244,6 +248,7 @@
     "time": "3/4",
     "hymn_code": "1333351165",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0311_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0311_cn_g.svg",
     "current_key": "D♭ Major",
     "original_key": "C Major",
     "capo": 1,
@@ -263,8 +268,8 @@
     "你爱 紧握 我 手， 引我 前行，",
     "我 时 依 你 胸臆， 饱尝你 爱情。",
     "我 切慕， 哦主， 筵 宴你 爱里，",
-    "让 你爱 将我 遮蔽。 你以 爱 为 旌 旗─ 你",
-    "的 自己， 你的 爱 原 与你 为一。",
+    "让 你爱 将我 遮蔽。 你以 爱 为 旌 旗─",
+    "你的 自己， 你的 爱 原 与你 为一。",
     "你是我至宝爱，独一的你；",
     "你是我爱对象，是的，是你自己。",
     "若你仅赐救赎，和你爱情；",

@@ -33,18 +33,18 @@
             {
               "chord": "A",
               "text": "人；"
-            },
-            {
-              "chord": "Bm",
-              "text": "祂"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "Bm",
+              "text": "祂 是"
+            },
+            {
               "chord": "",
-              "text": "是 神 成"
+              "text": "神 成"
             },
             {
               "chord": "A",
@@ -69,18 +69,14 @@
             {
               "chord": "Bm",
               "text": "沦；"
-            },
-            {
-              "chord": "D",
-              "text": "肩"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "",
-              "text": "负"
+              "chord": "D",
+              "text": "肩 负"
             },
             {
               "chord": "G",
@@ -212,6 +208,7 @@
     "time": "4/4",
     "hymn_code": "15325544312",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0868_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0868_cn_g.svg",
     "current_key": "F Major",
     "original_key": "D Major",
     "capo": 3,
@@ -226,9 +223,9 @@
     ]
   },
   "raw_sections": [
-    "耶 稣─好牧 人，寻找 税吏、 罪人；祂",
-    "是 神 成肉 身，拯救 世人 脱沉沦；肩",
-    "负疲 魂，喜 乐、情 深，领迷羊 归神。",
+    "耶 稣─好牧 人，寻找 税吏、 罪人；",
+    "祂 是神 成肉 身，拯救 世人 脱沉沦；",
+    "肩 负疲 魂，喜 乐、情 深，领迷羊 归神。",
     "那灵─光照者，正寻觅失落者；",
     "生命之光照射，要世人知罪自责；",
     "银币蒙尘，祂心不舍，终被祂寻得。",

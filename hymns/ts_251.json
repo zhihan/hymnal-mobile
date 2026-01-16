@@ -107,31 +107,31 @@
             {
               "chord": "C",
               "text": "形 像─"
-            },
-            {
-              "chord": "G",
-              "text": "人"
             }
           ]
         },
         {
           "segments": [
             {
+              "chord": "G",
+              "text": "人 是"
+            },
+            {
               "chord": "",
-              "text": "是 按 著 神 形 像 造"
+              "text": "按 著 神 形 像 造"
             },
             {
               "chord": "D7",
               "text": "成；"
-            },
-            {
-              "chord": "G",
-              "text": "形"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "G",
+              "text": "形"
+            },
             {
               "chord": "G7",
               "text": "像，"
@@ -139,15 +139,15 @@
             {
               "chord": "C",
               "text": "形 像─"
-            },
-            {
-              "chord": "G",
-              "text": "征 服"
             }
           ]
         },
         {
           "segments": [
+            {
+              "chord": "G",
+              "text": "征 服"
+            },
             {
               "chord": "",
               "text": "全 地 带 进"
@@ -625,6 +625,7 @@
     "time": "4/4",
     "hymn_code": "3332122216",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0251_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0251_cn_g.svg",
     "current_key": "G Major",
     "original_key": "G Major",
     "capo": 0,
@@ -643,10 +644,10 @@
     "人 是按 著 祂 形 像 造成；",
     "为 要彰 显祂，并 且代 表 祂，",
     "征 服全 地 带 进祂权能。",
-    "形 像，形 像─人",
-    "是 按 著 神 形 像 造成；形",
-    "像，形 像─征 服",
-    "全 地 带 进祂权能。",
+    "形 像，形 像─",
+    "人 是按 著 神 形 像 造成；",
+    "形像，形 像─",
+    "征 服全 地 带 进祂权能。",
     "祂没有立下任何的律法，",
     "只说园中果子随意吃；",
     "但是善恶树，万不可接触，",

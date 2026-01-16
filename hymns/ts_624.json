@@ -93,10 +93,6 @@
             {
               "chord": "Em",
               "text": "身 分─"
-            },
-            {
-              "chord": "",
-              "text": "至"
             }
           ]
         },
@@ -104,7 +100,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "高、"
+              "text": "至 高、"
             },
             {
               "chord": "A",
@@ -116,7 +112,7 @@
             },
             {
               "chord": "D",
-              "text": "主， 更"
+              "text": "主，"
             }
           ]
         },
@@ -124,7 +120,7 @@
           "segments": [
             {
               "chord": "",
-              "text": "见 你 已"
+              "text": "更 见 你 已"
             },
             {
               "chord": "D7",
@@ -133,18 +129,14 @@
             {
               "chord": "G",
               "text": "化 身，"
-            },
-            {
-              "chord": "Em",
-              "text": "显"
             }
           ]
         },
         {
           "segments": [
             {
-              "chord": "",
-              "text": "为"
+              "chord": "Em",
+              "text": "显 为"
             },
             {
               "chord": "D",
@@ -380,6 +372,7 @@
     "time": "3/4",
     "hymn_code": "513333444452343",
     "midi_tune_url": "https://www.hymnal.net/Hymns/ChineseTS/midi/tunes/ts0624_tune.midi",
+    "guitar_leadsheet_url": "https://www.hymnal.net/Hymns/ChineseTS/svg/ts0624_cn_g.svg",
     "current_key": "F Major",
     "original_key": "D Major",
     "capo": 3,
@@ -398,10 +391,10 @@
     "哦 主，才 是认 识你，",
     "因 此我 求得 蒙开 启，",
     "在 你肢 体看 见你；",
-    "非 仅 识 你元 首身 分─至",
-    "高、个 别救 赎主， 更",
-    "见 你 已具 体化 身，显",
-    "为身 体的 基督。",
+    "非 仅 识 你元 首身 分─",
+    "至 高、个 别救 赎主，",
+    "更 见 你 已具 体化 身，",
+    "显 为身 体的 基督。",
     "你的圣徒多年追求，",
     "渴慕寻得你实际；",
     "举目仰望，深处探求，",
