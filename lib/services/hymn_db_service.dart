@@ -202,13 +202,24 @@ class HymnDbService {
     );
   }
 
+  /// Check if a lyricist's last name is a single letter (should be excluded from index)
+  static bool _hasSingleLetterLastName(String lyricist) {
+    final parts = lyricist.trim().split(RegExp(r'\s+'));
+    if (parts.isEmpty) return false;
+    final lastName = parts.last.replaceAll(RegExp(r'[^a-zA-Z]'), '');
+    return lastName.length == 1;
+  }
+
   /// Get all unique lyricists sorted alphabetically
+  /// Excludes lyricists whose last name is a single letter
   static Future<List<String>> getAllLyricists() async {
     final db = await isar;
     final allHymns = await db.hymnDbs.where().findAll();
     final lyricistsSet = <String>{};
     for (final hymn in allHymns) {
-      if (hymn.lyricist != null && hymn.lyricist!.isNotEmpty) {
+      if (hymn.lyricist != null &&
+          hymn.lyricist!.isNotEmpty &&
+          !_hasSingleLetterLastName(hymn.lyricist!)) {
         lyricistsSet.add(hymn.lyricist!);
       }
     }
@@ -227,12 +238,15 @@ class HymnDbService {
 
   /// Get lyricist statistics (name → count)
   /// Only includes lyricists with more than one hymn
+  /// Excludes lyricists whose last name is a single letter
   static Future<Map<String, int>> getLyricistStats() async {
     final db = await isar;
     final allHymns = await db.hymnDbs.where().findAll();
     final stats = <String, int>{};
     for (final hymn in allHymns) {
-      if (hymn.lyricist != null && hymn.lyricist!.isNotEmpty) {
+      if (hymn.lyricist != null &&
+          hymn.lyricist!.isNotEmpty &&
+          !_hasSingleLetterLastName(hymn.lyricist!)) {
         stats[hymn.lyricist!] = (stats[hymn.lyricist!] ?? 0) + 1;
       }
     }
