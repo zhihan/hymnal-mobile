@@ -9,6 +9,7 @@ import '../widgets/hymn_display.dart';
 import '../providers/song_list_provider.dart';
 import 'category_detail_screen.dart';
 import 'lyricist_detail_screen.dart';
+import 'guitar_leadsheet_screen.dart';
 
 class HymnDetailScreen extends StatefulWidget {
   final int initialHymnNumber;
@@ -42,6 +43,9 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   bool _isMidiLoaded = false;
   String? _currentMidiUrl;
   int _midiPitchOffset = 0; // Separate pitch offset for MIDI playback
+
+  // Guitar lead sheet
+  String? _currentGuitarLeadsheetUrl;
 
   // PageView state
   late PageController _pageController;
@@ -144,6 +148,8 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
 
       // Extract MIDI URL if available
       final midiUrl = hymn.metadata?['midi_tune_url'] as String?;
+      // Extract guitar lead sheet URL if available
+      final guitarLeadsheetUrl = hymn.metadata?['guitar_leadsheet_url'] as String?;
 
       setState(() {
         _currentHymn = hymn;
@@ -155,6 +161,7 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
         _isMidiLoaded = false; // Reset MIDI loaded state
         _currentMidiUrl = midiUrl; // Set MIDI URL if available
         _midiPitchOffset = 0; // Reset MIDI pitch when loading new hymn
+        _currentGuitarLeadsheetUrl = guitarLeadsheetUrl; // Set guitar lead sheet URL if available
       });
 
       // Stop any currently playing MIDI
@@ -850,7 +857,7 @@ $deepLink
                 ),
         ),
         // Bottom button bar
-        if (_currentMidiUrl != null)
+        if (_currentMidiUrl != null || _currentGuitarLeadsheetUrl != null)
           Container(
             padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 12.0),
             decoration: BoxDecoration(
@@ -869,61 +876,81 @@ $deepLink
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
-                // MIDI play/pause button
-                ElevatedButton.icon(
-                  onPressed: _loadAndPlayMidi,
-                  icon: Icon(
-                    _midiPlayer.isPlaying ? Icons.pause : Icons.play_arrow,
-                    size: 24,
-                  ),
-                  label: Text(
-                    _midiPlayer.isPlaying ? 'Pause' : 'Play',
-                    style: const TextStyle(fontSize: 16),
-                  ),
-                  style: ElevatedButton.styleFrom(
-                    padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
-                    backgroundColor: Theme.of(context).colorScheme.primary,
-                    foregroundColor: Colors.white,
-                  ),
-                ),
-
-                // MIDI pitch down button
-                IconButton(
-                  icon: const Icon(Icons.remove_circle_outline),
-                  onPressed: _midiPitchDown,
-                  tooltip: 'Lower pitch',
-                  iconSize: 28,
-                ),
-                // Current MIDI pitch offset display
-                Container(
-                  padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                  decoration: BoxDecoration(
-                    color: Colors.white,
-                    borderRadius: BorderRadius.circular(4),
-                    border: Border.all(color: Colors.grey[400]!),
-                  ),
-                  child: Text(
-                    _midiPitchOffset > 0
-                        ? '+$_midiPitchOffset'
-                        : _midiPitchOffset.toString(),
-                    style: const TextStyle(
-                      fontSize: 14,
-                      fontWeight: FontWeight.bold,
+                // Guitar lead sheet button
+                if (_currentGuitarLeadsheetUrl != null)
+                  IconButton(
+                    onPressed: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (context) => GuitarLeadsheetScreen(
+                            svgUrl: _currentGuitarLeadsheetUrl!,
+                            hymnTitle: _currentHymn?.title ?? 'Lead Sheet',
+                          ),
+                        ),
+                      );
+                    },
+                    icon: const Icon(Icons.music_note),
+                    tooltip: 'Guitar Lead Sheet',
+                    style: IconButton.styleFrom(
+                      backgroundColor: Theme.of(context).colorScheme.primary,
+                      foregroundColor: Colors.white,
                     ),
                   ),
-                ),
-                // MIDI pitch up button
-                IconButton(
-                  icon: const Icon(Icons.add_circle_outline),
-                  onPressed: _midiPitchUp,
-                  tooltip: 'Raise pitch',
-                  iconSize: 28,
-                ),
-                // Reset pitch button
-                TextButton(
-                  onPressed: _midiPitchOffset != 0 ? _resetMidiPitch : null,
-                  child: const Text('Reset'),
-                ),
+                // MIDI play/pause button
+                if (_currentMidiUrl != null)
+                  IconButton(
+                    onPressed: _loadAndPlayMidi,
+                    icon: Icon(
+                      _midiPlayer.isPlaying ? Icons.pause : Icons.play_arrow,
+                    ),
+                    tooltip: _midiPlayer.isPlaying ? 'Pause' : 'Play',
+                    style: IconButton.styleFrom(
+                      backgroundColor: Theme.of(context).colorScheme.primary,
+                      foregroundColor: Colors.white,
+                    ),
+                  ),
+
+                // MIDI pitch controls (only show if MIDI is available)
+                if (_currentMidiUrl != null) ...[
+                  // MIDI pitch down button
+                  IconButton(
+                    icon: const Icon(Icons.remove_circle_outline),
+                    onPressed: _midiPitchDown,
+                    tooltip: 'Lower pitch',
+                    iconSize: 28,
+                  ),
+                  // Current MIDI pitch offset display
+                  Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                    decoration: BoxDecoration(
+                      color: Colors.white,
+                      borderRadius: BorderRadius.circular(4),
+                      border: Border.all(color: Colors.grey[400]!),
+                    ),
+                    child: Text(
+                      _midiPitchOffset > 0
+                          ? '+$_midiPitchOffset'
+                          : _midiPitchOffset.toString(),
+                      style: const TextStyle(
+                        fontSize: 14,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                  ),
+                  // MIDI pitch up button
+                  IconButton(
+                    icon: const Icon(Icons.add_circle_outline),
+                    onPressed: _midiPitchUp,
+                    tooltip: 'Raise pitch',
+                    iconSize: 28,
+                  ),
+                  // Reset pitch button
+                  TextButton(
+                    onPressed: _midiPitchOffset != 0 ? _resetMidiPitch : null,
+                    child: const Text('Reset'),
+                  ),
+                ],
               ],
             ),
           ),
