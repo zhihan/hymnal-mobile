@@ -66,11 +66,15 @@ pip install -r requirements.txt
 # Run tests
 pytest tests/
 
-# Crawl hymns (examples)
-python crawl_ts_hymns.py     # Crawl Chinese New Hymns (ts)
-python crawl_ch_hymns.py     # Crawl Chinese Classical Hymns (ch)
-python fetch_h_hymns.py      # Fetch English Hymns (h)
-python fetch_ns_hymns.py     # Fetch New Songs (ns)
+# Crawl all hymns (master script)
+python crawl_all.py              # Full pipeline: crawl, convert, apply manual edits
+python crawl_all.py --dry-run    # Preview what would be done
+
+# Crawl specific category
+python crawl_hymns.py ch         # Chinese Classical Hymns (ch)
+python crawl_hymns.py ts         # Chinese New Hymns (ts)
+python crawl_hymns.py h          # English Hymns (h)
+python crawl_hymns.py ns         # New Songs (ns)
 
 # Find hymns missing chords (copies to hymns_manual/ for editing)
 python find_missing_chords.py
@@ -160,7 +164,8 @@ hymnal_mobile/
 │   ├── hymns/                      # Crawler output (JSON files)
 │   ├── hymns_manual/               # Manually edited hymns (protected)
 │   ├── tests/                      # Pytest unit tests
-│   ├── crawl_*.py, fetch_*.py      # Crawl scripts for each book
+│   ├── crawl_all.py                # Master script: crawl all, convert, apply edits
+│   ├── crawl_hymns.py              # Consolidated crawling module
 │   ├── find_missing_chords.py      # Identify hymns without chords
 │   └── requirements.txt            # Python dependencies
 └── test/                           # Flutter tests
