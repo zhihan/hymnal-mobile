@@ -52,3 +52,13 @@ app.*.map.json
 
 # Large binary assets
 assets/soundfont.sf2
+
+# Sensitive local files
+KEYSTORE_INFO.md
+.claude/
+
+# Build artifacts
+android/build/
+
+# Local dev tool configs
+devtools_options.yaml
