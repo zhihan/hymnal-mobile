@@ -24,6 +24,26 @@ hymnal.net → crawler (Python) → hymns/*.json → Flutter app → User
 - Android SDK and Android Studio for Android development
 - iOS development tools (Xcode) for iOS devices
 
+**Large Binary Assets (not in repo)**:
+
+The soundfont file `assets/soundfont.sf2` is required for MIDI playback but exceeds GitHub's 100 MB file size limit and is not tracked in the repository. You must download it manually before building:
+
+```bash
+# Option 1: Homebrew (macOS)
+brew install fluid-soundfont
+cp /usr/share/sounds/sf2/FluidR3_GM.sf2 assets/soundfont.sf2
+
+# Option 2: apt (Linux/Debian)
+sudo apt install fluid-soundfont-gm
+cp /usr/share/sounds/sf2/FluidR3_GM.sf2 assets/soundfont.sf2
+
+# Option 3: Download manually
+# Search for "FluidR3_GM.sf2" and place the file at assets/soundfont.sf2
+# Any General MIDI (.sf2) soundfont will work
+```
+
+The app uses General MIDI bank 0, program 0 (Acoustic Grand Piano) via the `flutter_midi_pro` package. The soundfont is loaded from `assets/soundfont.sf2` as declared in `pubspec.yaml`.
+
 **Initial Setup**:
 ```bash
 # Get dependencies
