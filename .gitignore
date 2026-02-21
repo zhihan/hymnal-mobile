@@ -49,3 +49,6 @@ app.*.map.json
 /android/key.properties
 *.jks
 *.keystore
+
+# Large binary assets
+assets/soundfont.sf2
