@@ -11,7 +11,6 @@ import 'screens/category_detail_screen.dart';
 import 'services/hymn_db_service.dart';
 import 'services/song_list_share_service.dart';
 import 'services/song_list_service.dart';
-import 'providers/favorites_provider.dart';
 import 'providers/song_list_provider.dart';
 
 void main() async {
@@ -275,9 +274,6 @@ class _HymnalAppState extends State<HymnalApp> {
   Widget build(BuildContext context) {
     return MultiProvider(
       providers: [
-        ChangeNotifierProvider(
-          create: (context) => FavoritesProvider()..loadFavorites(),
-        ),
         ChangeNotifierProvider(
           create: (context) => SongListProvider()..loadLists(),
         ),
