@@ -256,6 +256,7 @@ Hymn files are named with the format: `{bookId}_{number}.json` (e.g., `ts_1.json
 - `ns`: New Songs (English/Chinese mix)
 - `lb`: New Songs lb variant (English)
 - `nt`: New Tune (English)
+- `sb`: SongBase (English, from songbase.life — uses songbase song ID as number)
 
 **JSON Structure**:
 ```json
@@ -334,39 +335,24 @@ Hymn files are named with the format: `{bookId}_{number}.json` (e.g., `ts_1.json
 
 ## Songbase Deduplication and Merging
 
-The app merges hymns from two sources: hymnal.net (primary) and songbase.life. The dedup logic in `crawler/dedup_hymns.py` handles two different scenarios:
+The app merges hymns from two sources: hymnal.net (primary) and songbase.life.
 
-### Same-numbering books (e.g., `h` ↔ `english_hymnal`)
+### How it works
 
-hymnal.net `h_123` and songbase `h_123` refer to the same hymn. Matching is done by filename. If lyrics differ, the songbase version is added as an `alternate_versions` entry on the hymnal.net file.
+**`h` (English Hymns):** hymnal.net and songbase's `english_hymnal` share the same numbering. Dedup is done by filename — `h_123.json` from both sources refer to the same hymn. If lyrics differ, the songbase version is added as an `alternate_versions` entry. ~1,257 out of 1,348 songbase h songs have different lyrics from hymnal.net.
 
-### Different-numbering books (e.g., `ns` ↔ `blue_songbook`)
+**`sb` (SongBase):** All English songs on songbase.life that are NOT in `english_hymnal` get saved as `sb_{songbase_id}.json`, using songbase's own song ID as the number. This includes songs from songbase's "Blue Songbook" and bookless songs. These are kept separate — no dedup against `ns` or other hymnal.net books.
 
-hymnal.net's `ns` (New Songs) and songbase's `blue_songbook` (Blue Songbook) cover overlapping hymns but use **completely different numbering systems**. The same song might be `ns_100` on hymnal.net and blue_songbook #52 on songbase.
+**`ns` (New Songs):** Kept as-is from hymnal.net, no songbase merging.
 
-**How matching works:**
-- Matching is done by **normalized title** (lowercase, strip punctuation, collapse whitespace)
-- ~162 out of 651 blue_songbook songs match an existing `ns` hymn by title
-- Matched songs are merged as alternate versions on the hymnal.net file (same as the `h` book)
+### Songbase crawler mapping (`songbase_crawler/crawler.py`)
 
-**Songbase-only songs (no hymnal.net counterpart):**
-- ~489 blue_songbook songs have no matching `ns` hymn
-- These are saved with an **offset number**: songbase book number + 2000
-- Example: blue_songbook #1 → `ns_2001.json`, #456 → `ns_2456.json`
-- This is deterministic (stable across re-runs) but the numbering is arbitrary
+- `english_hymnal` → `h_*.json` — same numbering, deduped by filename
+- All other English songs → `sb_{songbase_id}.json` — no dedup, separate catalog
 
-**Known limitation:** The offset numbering (`ns_2001+`) is a pragmatic workaround. The numbers are meaningless to users — e.g., "NS2456" has no real-world significance. A cleaner future approach could be:
-1. Use a separate book ID like `sb` for songbase-only songs (`sb_1`, `sb_456`)
-2. Use songbase's own numbering with different UI labeling
-3. Keep offset but hide the number in the UI for songbase-only songs
+### build_database.dart
 
-**Configuration (in `dedup_hymns.py`):**
-- `TITLE_MATCH_BOOKS = {'ns'}` — books that use title matching instead of filename matching
-- `SONGBASE_NUMBER_OFFSET = 2000` — offset added to songbase numbers for unmatched songs
-
-**Songbase book mapping (in `songbase_crawler/crawler.py`):**
-- `'english_hymnal' → 'h'` — same numbering, filename-based dedup
-- `'blue_songbook' → 'ns'` — different numbering, title-based dedup
+The `sb` category uses directory listing instead of range scanning (songbase IDs are sparse, up to ~12000+). Other categories use range scan 1–9999.
 
 ## Key Development Considerations
 

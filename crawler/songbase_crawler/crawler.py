@@ -18,10 +18,10 @@ class SongbaseCrawler:
 
     API_URL = "https://songbase.life/api/v2/app_data"
 
-    # Maps songbase book slugs to our bookId system
+    # Maps songbase book slugs to our bookId system.
+    # Only books that share the same numbering with hymnal.net belong here.
     BOOK_MAPPING = {
         'english_hymnal': 'h',
-        'blue_songbook': 'ns',
     }
 
     # Regex for inline chord markers like [G], [Am7], [D/F#], [D-D7]
@@ -322,16 +322,73 @@ class SongbaseCrawler:
         )
         return stats
 
-    def crawl_all_books(self, output_dir: str = "hymns_songbase", use_cache: bool = True) -> List[dict]:
+    def crawl_extra_english(
+        self,
+        output_dir: str = "hymns_songbase",
+        use_cache: bool = True,
+    ) -> dict:
         """
-        Crawl all mapped books.
+        Crawl all English songs NOT already in english_hymnal.
+
+        These are saved as sb_{songbase_id}.json. Includes songs from
+        blue_songbook and bookless songs.
 
         Returns:
-            List of stats dicts, one per book.
+            Stats dict: {book_id, total, converted, errors}.
+        """
+        os.makedirs(output_dir, exist_ok=True)
+        data = self.fetch_all_data(use_cache=use_cache)
+
+        # Collect all song IDs that are in english_hymnal
+        english_hymnal_ids = set()
+        for book in data.get('books', []):
+            if book['slug'] == 'english_hymnal':
+                english_hymnal_ids = set(int(k) for k in book['songs'].keys())
+                break
+
+        # Find all English songs not in english_hymnal
+        extra_songs = [
+            s for s in data['songs']
+            if s.get('lang') == 'english' and s['id'] not in english_hymnal_ids
+        ]
+
+        stats = {"book_id": "sb", "total": len(extra_songs), "converted": 0, "errors": 0}
+
+        for song in extra_songs:
+            try:
+                hymn_data = self.convert_song(song, "sb", song['id'])
+                filename = f"sb_{song['id']}.json"
+                filepath = os.path.join(output_dir, filename)
+
+                with open(filepath, 'w', encoding='utf-8') as f:
+                    json.dump(hymn_data, f, ensure_ascii=False, indent=2)
+
+                stats["converted"] += 1
+            except Exception as e:
+                logger.error(f"Error converting sb_{song['id']}: {e}")
+                stats["errors"] += 1
+
+        logger.info(
+            f"Crawled extra English: {stats['converted']}/{stats['total']} converted, "
+            f"{stats['errors']} errors"
+        )
+        return stats
+
+    def crawl_all_books(self, output_dir: str = "hymns_songbase", use_cache: bool = True) -> List[dict]:
+        """
+        Crawl all mapped books plus extra English songs.
+
+        Returns:
+            List of stats dicts, one per book plus one for extra English.
         """
         data = self.fetch_all_data(use_cache=use_cache)
         results = []
         for book_slug in self.BOOK_MAPPING:
             result = self.crawl_book(book_slug, output_dir=output_dir, use_cache=use_cache)
             results.append(result)
+
+        # Crawl extra English songs as sb_*
+        result = self.crawl_extra_english(output_dir=output_dir, use_cache=use_cache)
+        results.append(result)
+
         return results

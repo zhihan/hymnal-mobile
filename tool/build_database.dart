@@ -12,15 +12,19 @@ Future<void> main() async {
     assetsDir.createSync(recursive: true);
   }
 
-  // Categories to process
-  final categories = ['h', 'ch', 'ts', 'c', 'ns', 'nt', 'lb', 'de', 'tagalog', 'children'];
+  // Categories to process by range scan (small, dense number ranges)
+  final rangeCategories = ['h', 'ch', 'ts', 'c', 'ns', 'nt', 'lb', 'de', 'tagalog', 'children'];
+
+  // Categories to process by directory listing (sparse IDs, e.g., songbase IDs)
+  final listCategories = ['sb'];
 
   // Map to store available hymns by category
   final Map<String, List<int>> availableHymns = {};
 
   int totalFound = 0;
 
-  for (final category in categories) {
+  // Range-scanned categories
+  for (final category in rangeCategories) {
     print('Scanning category: $category');
     final categoryHymns = <int>[];
 
@@ -36,6 +40,36 @@ Future<void> main() async {
     if (categoryHymns.isNotEmpty) {
       availableHymns[category] = categoryHymns;
       print('  Found ${categoryHymns.length} hymns in $category');
+    }
+  }
+
+  // Directory-listed categories (for sparse ID ranges)
+  final hymnsDir = Directory('hymns');
+  if (hymnsDir.existsSync()) {
+    for (final category in listCategories) {
+      print('Scanning category: $category');
+      final categoryHymns = <int>[];
+      final prefix = '${category}_';
+
+      for (final entity in hymnsDir.listSync()) {
+        if (entity is File) {
+          final name = entity.uri.pathSegments.last;
+          if (name.startsWith(prefix) && name.endsWith('.json')) {
+            final numStr = name.substring(prefix.length, name.length - 5);
+            final num = int.tryParse(numStr);
+            if (num != null) {
+              categoryHymns.add(num);
+              totalFound++;
+            }
+          }
+        }
+      }
+
+      if (categoryHymns.isNotEmpty) {
+        categoryHymns.sort();
+        availableHymns[category] = categoryHymns;
+        print('  Found ${categoryHymns.length} hymns in $category');
+      }
     }
   }
 

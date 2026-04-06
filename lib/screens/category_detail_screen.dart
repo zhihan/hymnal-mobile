@@ -114,9 +114,7 @@ class _CategoryDetailScreenState extends State<CategoryDetailScreen> {
                           children: [
                             const SizedBox(height: 4),
                             Text(
-                              hymn.bookId == 'ns' && hymn.number >= 2000
-                                  ? 'SB_${hymn.number}'.toUpperCase()
-                                  : hymn.hymnId.toUpperCase(),
+                              hymn.hymnId.toUpperCase(),
                               style: const TextStyle(
                                 fontSize: 12,
                                 color: Colors.grey,

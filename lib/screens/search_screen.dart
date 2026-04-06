@@ -17,9 +17,6 @@ class _SearchScreenState extends State<SearchScreen> {
   bool _hasSearched = false;
 
   static String _displayHymnId(HymnDb hymn) {
-    if (hymn.bookId == 'ns' && hymn.number >= 2000) {
-      return 'SB_${hymn.number}'.toUpperCase();
-    }
     return hymn.hymnId.toUpperCase();
   }
 

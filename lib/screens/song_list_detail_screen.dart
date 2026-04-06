@@ -79,9 +79,6 @@ class _SongListDetailScreenState extends State<SongListDetailScreen> {
   }
 
   String _getDisplayName(HymnDb hymn) {
-    if (hymn.bookId == 'ns' && hymn.number >= 2000) {
-      return 'SB ${hymn.number}';
-    }
     final bookName = _categories[hymn.bookId] ?? hymn.bookId.toUpperCase();
     return '$bookName ${hymn.number}';
   }

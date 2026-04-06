@@ -7,9 +7,8 @@ a single file per hymn. If lyrics are identical, keeps the hymnal.net
 version (richer metadata). If different, adds the songbase version
 as an alternate_version.
 
-For books where numbering differs between sources (e.g., ns/blue_songbook),
-matching is done by normalized title instead of filename. Unmatched
-songbase songs are assigned new numbers starting from an offset.
+Only h_*.json files are deduped (same numbering between sources).
+sb_*.json files (songbase-only songs) are copied as-is without dedup.
 """
 
 import json
@@ -21,26 +20,6 @@ from pathlib import Path
 from typing import Optional
 
 logger = logging.getLogger(__name__)
-
-# Books where songbase uses different numbering than hymnal.net.
-# These need title-based matching instead of filename-based matching.
-TITLE_MATCH_BOOKS = {'ns'}
-
-# Songbase-only songs in title-matched books get numbers starting at this offset
-# plus their original songbase book number, to avoid colliding with hymnal.net numbers.
-SONGBASE_NUMBER_OFFSET = 2000
-
-
-def normalize_title(title: str) -> str:
-    """Normalize a title for matching: lowercase, strip punctuation, collapse whitespace."""
-    t = unicodedata.normalize('NFKC', title)
-    t = t.replace('\u2019', "'").replace('\u2018', "'")
-    t = t.replace('\u201c', '"').replace('\u201d', '"')
-    t = t.replace('\u2014', '-').replace('\u2013', '-')
-    t = t.lower()
-    t = re.sub(r'[^\w\s]', '', t)
-    t = re.sub(r'\s+', ' ', t).strip()
-    return t
 
 
 def normalize_lyrics(hymn_data: dict) -> str:
@@ -118,103 +97,6 @@ def merge_versions(
     return result
 
 
-def _build_title_index(hymnal_path: Path, book_id: str) -> dict:
-    """
-    Build a normalized-title -> filename index for all hymnal.net
-    files in a given book.
-
-    Returns:
-        Dict mapping normalized_title -> (filename, hymn_data).
-    """
-    index = {}
-    for f in hymnal_path.glob(f"{book_id}_*.json"):
-        try:
-            with open(f, 'r', encoding='utf-8') as fh:
-                data = json.load(fh)
-            title = normalize_title(data.get('title', ''))
-            if title:
-                index[title] = (f.name, data)
-        except Exception as e:
-            logger.warning(f"Error reading {f.name} for title index: {e}")
-    return index
-
-
-def _merge_title_matched(
-    hymnal_path: Path,
-    songbase_path: Path,
-    output_path: Path,
-    book_id: str,
-) -> dict:
-    """
-    Merge songbase files for a book that needs title-based matching.
-
-    Matched songs get merged as alternate versions on the hymnal.net file.
-    Unmatched songs get saved with offset numbering.
-
-    Returns:
-        Stats dict.
-    """
-    songbase_files = sorted(songbase_path.glob(f"{book_id}_*.json"))
-    stats = {"same": 0, "different": 0, "songbase_only": 0, "errors": 0, "total": len(songbase_files)}
-
-    # Build title index from hymnal.net files
-    title_index = _build_title_index(hymnal_path, book_id)
-    logger.info(f"  Title index: {len(title_index)} hymnal.net {book_id} hymns indexed")
-
-    matched_hymnal_files = set()
-
-    for sb_file in songbase_files:
-        try:
-            with open(sb_file, 'r', encoding='utf-8') as f:
-                songbase_data = json.load(f)
-
-            sb_title = normalize_title(songbase_data.get('title', ''))
-
-            if sb_title and sb_title in title_index:
-                # Title match found — merge into the hymnal.net file
-                hymnal_filename, hymnal_data = title_index[sb_title]
-                matched_hymnal_files.add(hymnal_filename)
-
-                merged = merge_versions(hymnal_data, songbase_data)
-
-                if "alternate_versions" in merged:
-                    stats["different"] += 1
-                    logger.info(f"  DIFFERENT: {sb_file.name} -> {hymnal_filename}")
-                else:
-                    stats["same"] += 1
-
-                out_file = output_path / hymnal_filename
-                with open(out_file, 'w', encoding='utf-8') as f:
-                    json.dump(merged, f, ensure_ascii=False, indent=2)
-            else:
-                # No match — save as songbase-only with offset number
-                # Extract the songbase book number from filename
-                match = re.match(rf'{book_id}_(\d+)\.json', sb_file.name)
-                if match:
-                    sb_number = int(match.group(1))
-                    new_number = sb_number + SONGBASE_NUMBER_OFFSET
-                    new_filename = f"{book_id}_{new_number}.json"
-                else:
-                    new_filename = sb_file.name
-
-                if "metadata" not in songbase_data:
-                    songbase_data["metadata"] = {}
-                songbase_data["metadata"]["source"] = "songbase"
-
-                out_file = output_path / new_filename
-                with open(out_file, 'w', encoding='utf-8') as f:
-                    json.dump(songbase_data, f, ensure_ascii=False, indent=2)
-
-                stats["songbase_only"] += 1
-                logger.info(f"  NEW: {sb_file.name} -> {new_filename} (songbase only)")
-
-        except Exception as e:
-            logger.error(f"  ERROR: {sb_file.name}: {e}")
-            stats["errors"] += 1
-
-    return stats
-
-
 def merge_all(
     hymnal_dir: str = "hymns",
     songbase_dir: str = "hymns_songbase",
@@ -223,9 +105,8 @@ def merge_all(
     """
     Merge all songbase hymns into the hymnal directory.
 
-    For each songbase file:
-    - If the book uses title-based matching (e.g., ns): match by title
-    - Otherwise: match by filename (same numbering between sources)
+    - h_*.json: dedup by filename (same numbering between sources)
+    - sb_*.json: copy as-is (no dedup, separate songbase catalog)
 
     Args:
         hymnal_dir: Directory with hymnal.net hymn files.
@@ -255,53 +136,15 @@ def merge_all(
     print(f"Merging songbase hymns into {output_dir}")
     print(f"{'=' * 60}")
 
-    # Identify which book IDs need title matching
-    title_match_book_ids = set()
-    filename_match_files = []
     for sb_file in songbase_files:
-        match = re.match(r'([a-z]+)_\d+\.json', sb_file.name)
-        if match:
-            book_id = match.group(1)
-            if book_id in TITLE_MATCH_BOOKS:
-                title_match_book_ids.add(book_id)
-            else:
-                filename_match_files.append(sb_file)
-        else:
-            filename_match_files.append(sb_file)
-
-    # Process title-matched books
-    for book_id in sorted(title_match_book_ids):
-        print(f"\n  Merging {book_id} (title-based matching)...")
-        book_stats = _merge_title_matched(hymnal_path, songbase_path, output_path, book_id)
-        for key in stats:
-            if key != "total":
-                stats[key] += book_stats[key]
-
-    # Process filename-matched files
-    for sb_file in filename_match_files:
-        hymnal_file = hymnal_path / sb_file.name
         out_file = output_path / sb_file.name
 
         try:
             with open(sb_file, 'r', encoding='utf-8') as f:
                 songbase_data = json.load(f)
 
-            if hymnal_file.exists():
-                with open(hymnal_file, 'r', encoding='utf-8') as f:
-                    hymnal_data = json.load(f)
-
-                merged = merge_versions(hymnal_data, songbase_data)
-
-                if "alternate_versions" in merged:
-                    stats["different"] += 1
-                    logger.info(f"  DIFFERENT: {sb_file.name}")
-                else:
-                    stats["same"] += 1
-
-                with open(out_file, 'w', encoding='utf-8') as f:
-                    json.dump(merged, f, ensure_ascii=False, indent=2)
-            else:
-                # Songbase-only hymn — add source marker and copy
+            if sb_file.name.startswith('sb_'):
+                # sb_* files: copy as-is, no dedup
                 if "metadata" not in songbase_data:
                     songbase_data["metadata"] = {}
                 songbase_data["metadata"]["source"] = "songbase"
@@ -310,7 +153,35 @@ def merge_all(
                     json.dump(songbase_data, f, ensure_ascii=False, indent=2)
 
                 stats["songbase_only"] += 1
-                logger.info(f"  NEW: {sb_file.name} (songbase only)")
+            else:
+                # h_* files: dedup by filename
+                hymnal_file = hymnal_path / sb_file.name
+
+                if hymnal_file.exists():
+                    with open(hymnal_file, 'r', encoding='utf-8') as f:
+                        hymnal_data = json.load(f)
+
+                    merged = merge_versions(hymnal_data, songbase_data)
+
+                    if "alternate_versions" in merged:
+                        stats["different"] += 1
+                        logger.info(f"  DIFFERENT: {sb_file.name}")
+                    else:
+                        stats["same"] += 1
+
+                    with open(out_file, 'w', encoding='utf-8') as f:
+                        json.dump(merged, f, ensure_ascii=False, indent=2)
+                else:
+                    # Songbase-only h_* hymn
+                    if "metadata" not in songbase_data:
+                        songbase_data["metadata"] = {}
+                    songbase_data["metadata"]["source"] = "songbase"
+
+                    with open(out_file, 'w', encoding='utf-8') as f:
+                        json.dump(songbase_data, f, ensure_ascii=False, indent=2)
+
+                    stats["songbase_only"] += 1
+                    logger.info(f"  NEW: {sb_file.name} (songbase only)")
 
         except Exception as e:
             logger.error(f"  ERROR: {sb_file.name}: {e}")

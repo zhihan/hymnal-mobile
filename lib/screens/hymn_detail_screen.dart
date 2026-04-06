@@ -58,6 +58,7 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     'ts': '补',
     'h': 'H',
     'ns': 'NS',
+    'sb': 'SB',
     'nt': 'NT',
   };
 
@@ -341,9 +342,7 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     oldController.dispose();
   }
 
-  /// Returns 'SB' for songbase-only ns hymns (number >= 2000), otherwise the normal short name.
   static String _displayBookShortName(String bookId, int hymnNumber) {
-    if (bookId == 'ns' && hymnNumber >= 2000) return 'SB';
     return _bookShortNames[bookId] ?? bookId.toUpperCase();
   }
 

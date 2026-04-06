@@ -15,9 +15,9 @@ hymnal.net  → hymnal_crawler → hymns/*.json ─┐
 songbase.life → songbase_crawler → hymns_songbase/*.json ─┘
 ```
 
-**Songbase book mapping** (`songbase_crawler/crawler.py: BOOK_MAPPING`):
-- `english_hymnal` → `h` (same numbering as hymnal.net, dedup by filename)
-- `blue_songbook` → `ns` (different numbering, dedup by normalized title; unmatched songs get number + 2000 offset)
+**Songbase crawling:**
+- `english_hymnal` → `h_*.json` (same numbering as hymnal.net, deduped by filename)
+- All other English songs → `sb_{songbase_id}.json` (separate catalog, no dedup)
 
 See parent `CLAUDE.md` for full dedup documentation.
 
