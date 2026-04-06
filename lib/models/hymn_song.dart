@@ -1,4 +1,5 @@
 import 'verse.dart';
+import 'hymn_version.dart';
 
 class HymnSong {
   final String url;
@@ -6,6 +7,7 @@ class HymnSong {
   final List<Verse> verses;
   final Map<String, dynamic>? metadata;
   final List<String>? rawSections;
+  final List<HymnVersion>? alternateVersions;
 
   HymnSong({
     required this.url,
@@ -13,7 +15,11 @@ class HymnSong {
     required this.verses,
     this.metadata,
     this.rawSections,
+    this.alternateVersions,
   });
+
+  bool get hasAlternateVersions =>
+      alternateVersions != null && alternateVersions!.isNotEmpty;
 
   factory HymnSong.fromJson(Map<String, dynamic> json) {
     return HymnSong(
@@ -27,6 +33,9 @@ class HymnSong {
       rawSections: (json['raw_sections'] as List<dynamic>?)
           ?.map((section) => section as String)
           .toList(),
+      alternateVersions: (json['alternate_versions'] as List<dynamic>?)
+          ?.map((v) => HymnVersion.fromJson(v as Map<String, dynamic>))
+          .toList(),
     );
   }
 
@@ -37,6 +46,9 @@ class HymnSong {
       'verses': verses.map((verse) => verse.toJson()).toList(),
       if (metadata != null) 'metadata': metadata,
       if (rawSections != null) 'raw_sections': rawSections,
+      if (alternateVersions != null)
+        'alternate_versions':
+            alternateVersions!.map((v) => v.toJson()).toList(),
     };
   }
 }

@@ -10,8 +10,16 @@ A Python web crawler for downloading hymns and chords from hymnal.net. The crawl
 
 **Data Flow**:
 ```
-hymnal.net → crawler → hymns/*.json → (copy to) assets/hymns/ → Flutter app
+hymnal.net  → hymnal_crawler → hymns/*.json ─┐
+                                              ├→ dedup/merge → hymns/*.json → (copy to root) → Flutter app
+songbase.life → songbase_crawler → hymns_songbase/*.json ─┘
 ```
+
+**Songbase book mapping** (`songbase_crawler/crawler.py: BOOK_MAPPING`):
+- `english_hymnal` → `h` (same numbering as hymnal.net, dedup by filename)
+- `blue_songbook` → `ns` (different numbering, dedup by normalized title; unmatched songs get number + 2000 offset)
+
+See parent `CLAUDE.md` for full dedup documentation.
 
 ## Development Setup
 

@@ -114,7 +114,9 @@ class _LyricistDetailScreenState extends State<LyricistDetailScreen> {
                           children: [
                             const SizedBox(height: 4),
                             Text(
-                              hymn.hymnId.toUpperCase(),
+                              hymn.bookId == 'ns' && hymn.number >= 2000
+                                  ? 'SB_${hymn.number}'.toUpperCase()
+                                  : hymn.hymnId.toUpperCase(),
                               style: const TextStyle(
                                 fontSize: 12,
                                 color: Colors.grey,

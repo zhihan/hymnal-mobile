@@ -3,10 +3,12 @@
 Master script to crawl all hymns, convert Chinese hymns, and apply manual edits.
 
 Process:
-1. Fetch Chinese hymns (ch, ts)
-2. Fetch English hymns (lb, nt, h, ns)
-3. Convert Chinese hymns to simplified Chinese
-4. Copy manual edits from hymns_manual/ to hymns/
+1. Fetch Chinese hymns (ch, ts) from hymnal.net
+2. Fetch English hymns (lb, nt, h, ns) from hymnal.net
+3. Fetch English hymns from songbase.life
+4. Deduplicate and merge songbase into hymns/
+5. Convert Chinese hymns to simplified Chinese
+6. Copy manual edits from hymns_manual/ to hymns/
 """
 
 import os
@@ -17,6 +19,8 @@ from pathlib import Path
 
 from crawl_hymns import crawl_category, CATEGORY_RANGES
 from batch_convert_chinese_hymns import batch_convert_hymns
+from songbase_crawler import SongbaseCrawler
+from dedup_hymns import merge_all
 
 # Configure logging
 logging.basicConfig(
@@ -72,8 +76,10 @@ def copy_manual_edits(manual_dir: str = "hymns_manual", hymns_dir: str = "hymns"
 def crawl_all(
     output_dir: str = "hymns",
     manual_dir: str = "hymns_manual",
+    songbase_dir: str = "hymns_songbase",
     skip_chinese: bool = False,
     skip_english: bool = False,
+    skip_songbase: bool = False,
     skip_convert: bool = False,
     skip_manual: bool = False,
     dry_run: bool = False,
@@ -98,6 +104,8 @@ def crawl_all(
     results = {
         "chinese": [],
         "english": [],
+        "songbase": None,
+        "dedup": None,
         "conversion": None,
         "manual": None,
     }
@@ -138,10 +146,43 @@ def crawl_all(
     else:
         print("\n[SKIPPED] Phase 2: English hymns")
 
-    # Phase 3: Convert Chinese hymns to simplified
+    # Phase 3: Crawl songbase.life
+    if not skip_songbase:
+        print("\n" + "=" * 60)
+        print("PHASE 3: Crawling songbase.life")
+        print("=" * 60)
+
+        if dry_run:
+            for slug, book_id in SongbaseCrawler.BOOK_MAPPING.items():
+                print(f"  [DRY RUN] Would crawl {slug} -> {book_id}")
+        else:
+            crawler = SongbaseCrawler()
+            songbase_results = crawler.crawl_all_books(output_dir=songbase_dir)
+            results["songbase"] = songbase_results
+    else:
+        print("\n[SKIPPED] Phase 3: Songbase.life")
+
+    # Phase 4: Deduplicate and merge songbase into hymns
+    if not skip_songbase:
+        print("\n" + "=" * 60)
+        print("PHASE 4: Deduplicating and merging songbase hymns")
+        print("=" * 60)
+
+        if dry_run:
+            print(f"  [DRY RUN] Would merge {songbase_dir}/ into {output_dir}/")
+        else:
+            dedup_result = merge_all(
+                hymnal_dir=output_dir,
+                songbase_dir=songbase_dir,
+            )
+            results["dedup"] = dedup_result
+    else:
+        print("\n[SKIPPED] Phase 4: Songbase dedup/merge")
+
+    # Phase 5: Convert Chinese hymns to simplified
     if not skip_convert:
         print("\n" + "=" * 60)
-        print("PHASE 3: Converting Chinese hymns to simplified Chinese")
+        print("PHASE 5: Converting Chinese hymns to simplified Chinese")
         print("=" * 60)
 
         if dry_run:
@@ -154,12 +195,12 @@ def crawl_all(
             )
             results["conversion"] = result
     else:
-        print("\n[SKIPPED] Phase 3: Chinese conversion")
+        print("\n[SKIPPED] Phase 5: Chinese conversion")
 
-    # Phase 4: Copy manual edits
+    # Phase 6: Copy manual edits
     if not skip_manual:
         print("\n" + "=" * 60)
-        print("PHASE 4: Applying manual edits")
+        print("PHASE 6: Applying manual edits")
         print("=" * 60)
 
         if dry_run:
@@ -173,7 +214,7 @@ def crawl_all(
             result = copy_manual_edits(manual_dir=manual_dir, hymns_dir=output_dir)
             results["manual"] = result
     else:
-        print("\n[SKIPPED] Phase 4: Manual edits")
+        print("\n[SKIPPED] Phase 6: Manual edits")
 
     # Final summary
     print("\n" + "=" * 60)
@@ -192,6 +233,16 @@ def crawl_all(
         print(f"English hymns fetched: {total_english}")
         for r in results["english"]:
             print(f"  - {r['category']}: {r['fetched']} fetched, {r['skipped']} skipped")
+
+        # Songbase summary
+        if results["songbase"]:
+            for r in results["songbase"]:
+                print(f"Songbase {r['book_slug']}: {r['converted']}/{r['total']} converted, {r['errors']} errors")
+
+        # Dedup summary
+        if results["dedup"]:
+            d = results["dedup"]
+            print(f"Dedup: {d['same']} identical, {d['different']} different, {d['songbase_only']} new")
 
         # Conversion summary
         if results["conversion"]:
@@ -234,6 +285,17 @@ def main():
         help="Skip crawling English hymns (lb, nt, h, ns)"
     )
     parser.add_argument(
+        "--songbase-dir",
+        type=str,
+        default="hymns_songbase",
+        help="Directory for songbase hymns (default: hymns_songbase)"
+    )
+    parser.add_argument(
+        "--skip-songbase",
+        action="store_true",
+        help="Skip crawling songbase.life and dedup/merge"
+    )
+    parser.add_argument(
         "--skip-convert",
         action="store_true",
         help="Skip Chinese to simplified conversion"
@@ -266,8 +328,10 @@ def main():
     crawl_all(
         output_dir=args.output_dir,
         manual_dir=args.manual_dir,
+        songbase_dir=args.songbase_dir,
         skip_chinese=args.skip_chinese,
         skip_english=args.skip_english,
+        skip_songbase=args.skip_songbase,
         skip_convert=args.skip_convert,
         skip_manual=args.skip_manual,
         dry_run=args.dry_run,

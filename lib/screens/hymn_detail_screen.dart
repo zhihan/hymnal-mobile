@@ -4,7 +4,6 @@ import 'package:share_plus/share_plus.dart';
 import 'package:go_router/go_router.dart';
 import '../models/hymn_song.dart';
 import '../services/hymn_loader_service.dart';
-import '../services/midi_player_service.dart';
 import '../widgets/hymn_display.dart';
 import '../providers/song_list_provider.dart';
 import 'category_detail_screen.dart';
@@ -38,11 +37,8 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   int? _previousHymnNumber;
   bool _showLanguageNavigation = false;
 
-  // MIDI player
-  final MidiPlayerService _midiPlayer = MidiPlayerService();
-  bool _isMidiLoaded = false;
-  String? _currentMidiUrl;
-  int _midiPitchOffset = 0; // Separate pitch offset for MIDI playback
+  // Version switching
+  int _currentVersionIndex = 0; // 0 = primary, 1+ = alternate versions
 
   // Guitar lead sheet
   String? _currentGuitarLeadsheetUrl;
@@ -70,13 +66,6 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     super.initState();
     _currentHymnNumber = widget.initialHymnNumber;
     _currentBookId = widget.bookId;
-
-    // Set callback to update UI when MIDI playback completes
-    _midiPlayer.setOnPlaybackComplete(() {
-      if (mounted) {
-        setState(() {});
-      }
-    });
 
     _initializePageView();
   }
@@ -110,7 +99,6 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   @override
   void dispose() {
     _pageController.dispose();
-    _midiPlayer.dispose();
     super.dispose();
   }
 
@@ -146,8 +134,6 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
         }
       }
 
-      // Extract MIDI URL if available
-      final midiUrl = hymn.metadata?['midi_tune_url'] as String?;
       // Extract guitar lead sheet URL if available
       final guitarLeadsheetUrl = hymn.metadata?['guitar_leadsheet_url'] as String?;
 
@@ -158,14 +144,9 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
         _currentHymnNumber = hymnNumber;
         _isLoading = false;
         _transposeOffset = 0; // Reset transpose when loading new hymn
-        _isMidiLoaded = false; // Reset MIDI loaded state
-        _currentMidiUrl = midiUrl; // Set MIDI URL if available
-        _midiPitchOffset = 0; // Reset MIDI pitch when loading new hymn
+        _currentVersionIndex = 0; // Reset to primary version
         _currentGuitarLeadsheetUrl = guitarLeadsheetUrl; // Set guitar lead sheet URL if available
       });
-
-      // Stop any currently playing MIDI
-      await _midiPlayer.stop();
 
       // Preload adjacent hymns in the background
       _preloadAdjacentHymns(hymnNumber);
@@ -206,44 +187,6 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
         } catch (e) {
           // Silently fail preloading
         }
-      }
-    }
-  }
-
-  Future<void> _loadAndPlayMidi() async {
-    if (_currentMidiUrl == null || _currentMidiUrl!.isEmpty) {
-      return;
-    }
-
-    // If already loaded, just toggle play/pause
-    if (_isMidiLoaded) {
-      await _midiPlayer.togglePlayPause();
-      setState(() {});
-      return;
-    }
-
-    // Load MIDI for the first time
-    try {
-      await _midiPlayer.load(_currentMidiUrl!, transposeOffset: _midiPitchOffset);
-      setState(() {
-        _isMidiLoaded = true;
-      });
-      print('MIDI loaded successfully: $_currentMidiUrl');
-
-      // Start playing after loading
-      await _midiPlayer.togglePlayPause();
-      setState(() {});
-    } catch (e) {
-      setState(() {
-        _isMidiLoaded = false;
-      });
-      print('Failed to load MIDI: $e');
-
-      // Show error to user
-      if (mounted) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(content: Text('Failed to load MIDI: $e')),
-        );
       }
     }
   }
@@ -292,38 +235,6 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     setState(() {
       _transposeOffset = 0;
     });
-  }
-
-  void _midiPitchUp() {
-    setState(() {
-      _midiPitchOffset++;
-    });
-    _updateMidiPitch();
-  }
-
-  void _midiPitchDown() {
-    setState(() {
-      _midiPitchOffset--;
-    });
-    _updateMidiPitch();
-  }
-
-  void _resetMidiPitch() {
-    setState(() {
-      _midiPitchOffset = 0;
-    });
-    _updateMidiPitch();
-  }
-
-  void _updateMidiPitch() {
-    if (_isMidiLoaded && _currentMidiUrl != null) {
-      // Reload MIDI with new pitch offset
-      _midiPlayer.load(_currentMidiUrl!, transposeOffset: _midiPitchOffset).then((_) {
-        print('MIDI reloaded with pitch offset: $_midiPitchOffset');
-      }).catchError((e) {
-        print('Failed to reload MIDI with pitch offset: $e');
-      });
-    }
   }
 
   List<Map<String, dynamic>> _getRelatedHymns() {
@@ -430,10 +341,16 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     oldController.dispose();
   }
 
+  /// Returns 'SB' for songbase-only ns hymns (number >= 2000), otherwise the normal short name.
+  static String _displayBookShortName(String bookId, int hymnNumber) {
+    if (bookId == 'ns' && hymnNumber >= 2000) return 'SB';
+    return _bookShortNames[bookId] ?? bookId.toUpperCase();
+  }
+
   String get _currentHymnId => '${_currentBookId}_$_currentHymnNumber';
 
   void _shareHymn() {
-    final shortName = _bookShortNames[_currentBookId] ?? _currentBookId.toUpperCase();
+    final shortName = _displayBookShortName(_currentBookId, _currentHymnNumber);
     final hymnTitle = _currentHymn?.title ?? 'Hymn';
     final hymnId = _currentHymnId;
     final deepLink = 'https://cicmusic.net/hymn/$_currentBookId/$_currentHymnNumber';
@@ -547,6 +464,39 @@ $deepLink
         ),
       ),
     );
+  }
+
+  /// Returns a HymnSong for display based on the current version index.
+  /// Index 0 = primary (hymnal.net), 1+ = alternate versions.
+  HymnSong? get _displayHymn {
+    if (_currentHymn == null) return null;
+    if (_currentVersionIndex == 0 || !_currentHymn!.hasAlternateVersions) {
+      return _currentHymn;
+    }
+    final altIndex = _currentVersionIndex - 1;
+    if (altIndex < _currentHymn!.alternateVersions!.length) {
+      final alt = _currentHymn!.alternateVersions![altIndex];
+      return HymnSong(
+        url: alt.url,
+        title: alt.title,
+        verses: alt.verses,
+        metadata: _currentHymn!.metadata,
+      );
+    }
+    return _currentHymn;
+  }
+
+  String _sourceLabel(int index) {
+    if (index == 0) return 'Hymnal';
+    return 'SongBase';
+  }
+
+  void _cycleVersion() {
+    if (_currentHymn == null || !_currentHymn!.hasAlternateVersions) return;
+    final versionCount = 1 + _currentHymn!.alternateVersions!.length;
+    setState(() {
+      _currentVersionIndex = (_currentVersionIndex + 1) % versionCount;
+    });
   }
 
   @override
@@ -809,44 +759,30 @@ $deepLink
 
                     // Check if this hymn is cached
                     if (_hymnCache.containsKey(hymnNumber)) {
+                      // Use the version-switched hymn for the current page
+                      final hymnToDisplay = (index == _currentPageIndex && _displayHymn != null)
+                          ? _displayHymn!
+                          : _hymnCache[hymnNumber]!;
                       return HymnDisplay(
-                        hymn: _hymnCache[hymnNumber]!,
+                        hymn: hymnToDisplay,
                         transposeOffset: index == _currentPageIndex ? _transposeOffset : 0,
                         showChords: _showChords,
-                        hymnIdTag: '${_bookShortNames[_currentBookId] ?? _currentBookId.toUpperCase()}$hymnNumber',
-                        onCategoryTap: (category) async {
-                          // Stop MIDI player before navigating away
-                          await _midiPlayer.stop();
-                          if (mounted) {
-                            setState(() {});
-                          }
-
-                          if (mounted) {
-                            // ignore: use_build_context_synchronously
-                            Navigator.push(
-                              context,
-                              MaterialPageRoute(
-                                builder: (context) => CategoryDetailScreen(categoryName: category),
-                              ),
-                            );
-                          }
+                        hymnIdTag: '${_displayBookShortName(_currentBookId, hymnNumber)}$hymnNumber',
+                        onCategoryTap: (category) {
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                              builder: (context) => CategoryDetailScreen(categoryName: category),
+                            ),
+                          );
                         },
-                        onLyricistTap: (lyricist) async {
-                          // Stop MIDI player before navigating away
-                          await _midiPlayer.stop();
-                          if (mounted) {
-                            setState(() {});
-                          }
-
-                          if (mounted) {
-                            // ignore: use_build_context_synchronously
-                            Navigator.push(
-                              context,
-                              MaterialPageRoute(
-                                builder: (context) => LyricistDetailScreen(lyricistName: lyricist),
-                              ),
-                            );
-                          }
+                        onLyricistTap: (lyricist) {
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                              builder: (context) => LyricistDetailScreen(lyricistName: lyricist),
+                            ),
+                          );
                         },
                       );
                     }
@@ -857,7 +793,7 @@ $deepLink
                 ),
         ),
         // Bottom button bar
-        if (_currentMidiUrl != null || _currentGuitarLeadsheetUrl != null)
+        if (_currentGuitarLeadsheetUrl != null || (_currentHymn?.hasAlternateVersions ?? false))
           Container(
             padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 12.0),
             decoration: BoxDecoration(
@@ -876,7 +812,6 @@ $deepLink
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
-                // Guitar lead sheet button
                 if (_currentGuitarLeadsheetUrl != null)
                   IconButton(
                     onPressed: () {
@@ -897,60 +832,16 @@ $deepLink
                       foregroundColor: Colors.white,
                     ),
                   ),
-                // MIDI play/pause button
-                if (_currentMidiUrl != null)
-                  IconButton(
-                    onPressed: _loadAndPlayMidi,
-                    icon: Icon(
-                      _midiPlayer.isPlaying ? Icons.pause : Icons.play_arrow,
-                    ),
-                    tooltip: _midiPlayer.isPlaying ? 'Pause' : 'Play',
-                    style: IconButton.styleFrom(
+                if (_currentHymn?.hasAlternateVersions ?? false)
+                  ElevatedButton.icon(
+                    onPressed: _cycleVersion,
+                    icon: const Icon(Icons.swap_horiz, size: 20),
+                    label: Text(_sourceLabel(_currentVersionIndex)),
+                    style: ElevatedButton.styleFrom(
                       backgroundColor: Theme.of(context).colorScheme.primary,
                       foregroundColor: Colors.white,
                     ),
                   ),
-
-                // MIDI pitch controls (only show if MIDI is available)
-                if (_currentMidiUrl != null) ...[
-                  // MIDI pitch down button
-                  IconButton(
-                    icon: const Icon(Icons.remove_circle_outline),
-                    onPressed: _midiPitchDown,
-                    tooltip: 'Lower pitch',
-                    iconSize: 28,
-                  ),
-                  // Current MIDI pitch offset display
-                  Container(
-                    padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                    decoration: BoxDecoration(
-                      color: Colors.white,
-                      borderRadius: BorderRadius.circular(4),
-                      border: Border.all(color: Colors.grey[400]!),
-                    ),
-                    child: Text(
-                      _midiPitchOffset > 0
-                          ? '+$_midiPitchOffset'
-                          : _midiPitchOffset.toString(),
-                      style: const TextStyle(
-                        fontSize: 14,
-                        fontWeight: FontWeight.bold,
-                      ),
-                    ),
-                  ),
-                  // MIDI pitch up button
-                  IconButton(
-                    icon: const Icon(Icons.add_circle_outline),
-                    onPressed: _midiPitchUp,
-                    tooltip: 'Raise pitch',
-                    iconSize: 28,
-                  ),
-                  // Reset pitch button
-                  TextButton(
-                    onPressed: _midiPitchOffset != 0 ? _resetMidiPitch : null,
-                    child: const Text('Reset'),
-                  ),
-                ],
               ],
             ),
           ),

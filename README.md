@@ -1,6 +1,6 @@
 # Hymnal Mobile
 
-Flutter app and crawler for browsing hymns with inline chords, search, song lists, MIDI playback, and guitar leadsheets.
+Flutter app and crawler for browsing hymns with inline chords, search, song lists, and guitar leadsheets.
 
 The repository has two parts:
 
@@ -16,7 +16,6 @@ hymnal-mobile/
 ├── assets/
 │   ├── available_hymns.json
 │   ├── icon/
-│   └── soundfont.sf2     Required for MIDI playback (not tracked)
 ├── crawler/              Hymn crawler and data pipeline
 └── test/                 Dart tests
 ```
@@ -30,7 +29,6 @@ hymnal-mobile/
 - Organizes hymns into song lists, including a default `Favorites` list
 - Imports and exports song lists through shareable deep links
 - Displays chords inline with lyrics and supports chord transposition
-- Plays MIDI files when a hymn provides a MIDI URL
 - Opens guitar leadsheets when a hymn provides a leadsheet URL
 
 ## Data Files
@@ -73,24 +71,6 @@ Supported book IDs in the app and crawler:
 Generate them with the crawler or copy them into the repo root as `hymns/`.
 
 The Flutter app loads hymn files from `hymns/`, not from `assets/hymns/`.
-
-#### 2. MIDI soundfont
-
-MIDI playback requires `assets/soundfont.sf2`, which is not tracked because of file size.
-
-Examples:
-
-```bash
-# macOS
-brew install fluid-soundfont
-cp /usr/share/sounds/sf2/FluidR3_GM.sf2 assets/soundfont.sf2
-
-# Debian/Ubuntu
-sudo apt install fluid-soundfont-gm
-cp /usr/share/sounds/sf2/FluidR3_GM.sf2 assets/soundfont.sf2
-```
-
-Any General MIDI `.sf2` file should work.
 
 ### Install And Run
 
@@ -191,7 +171,6 @@ The crawler also supports `crawler/hymns_manual/` as a manual override directory
 - `lib/services/hymn_db_service.dart`: builds and queries the Isar search index
 - `lib/services/song_list_service.dart`: persists lists in `SharedPreferences`
 - `lib/services/song_list_share_service.dart`: deep-link import and export
-- `lib/services/midi_player_service.dart`: MIDI download, parsing, and playback
 
 ### Screens
 
@@ -235,5 +214,4 @@ Crawler tests cover HTML parsing and manual-edit protection:
 ## Known Gaps
 
 - The tracked repo does not include `hymns/`, so the app will not load hymn content until data is generated or copied in.
-- The tracked repo does not include `assets/soundfont.sf2`, so MIDI playback will fail until a soundfont is installed locally.
 - There is still exploratory documentation around prebuilt Isar databases, but the live app currently builds its search database on-device from local hymn JSON.

@@ -32,6 +32,8 @@ class HymnDb {
   @Index(type: IndexType.value, caseSensitive: false)
   String? lyricist;
 
+  late bool hasAlternateVersions;
+
   HymnDb();
 
   String extractFullText(Map<String, dynamic> json) {
@@ -119,6 +121,8 @@ class HymnDb {
     hymn.lyricist = metadata?['lyrics'] as String?;
 
     hymn.fullText = hymn.extractFullText(json);
+    hymn.hasAlternateVersions =
+        (json['alternate_versions'] as List<dynamic>?)?.isNotEmpty ?? false;
 
     return hymn;
   }

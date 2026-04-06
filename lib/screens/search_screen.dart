@@ -16,6 +16,13 @@ class _SearchScreenState extends State<SearchScreen> {
   bool _isSearching = false;
   bool _hasSearched = false;
 
+  static String _displayHymnId(HymnDb hymn) {
+    if (hymn.bookId == 'ns' && hymn.number >= 2000) {
+      return 'SB_${hymn.number}'.toUpperCase();
+    }
+    return hymn.hymnId.toUpperCase();
+  }
+
   @override
   void dispose() {
     _searchController.dispose();
@@ -214,7 +221,7 @@ class _SearchScreenState extends State<SearchScreen> {
                         children: [
                           const SizedBox(height: 4),
                           Text(
-                            hymn.hymnId.toUpperCase(),
+                            _displayHymnId(hymn),
                             style: const TextStyle(
                               fontSize: 12,
                               color: Colors.grey,

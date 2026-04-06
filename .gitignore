@@ -53,6 +53,10 @@ app.*.map.json
 # Large binary assets
 assets/soundfont.sf2
 
+# Crawler generated/cached data
+crawler/hymns_songbase/
+crawler/songbase_raw.json
+
 # Sensitive local files
 KEYSTORE_INFO.md
 .claude/
