@@ -6,12 +6,14 @@ class HymnVersion {
   final String title;
   final String url;
   final List<Verse> verses;
+  final Map<String, dynamic>? metadata;
 
   HymnVersion({
     required this.source,
     required this.title,
     required this.url,
     required this.verses,
+    this.metadata,
   });
 
   factory HymnVersion.fromJson(Map<String, dynamic> json) {
@@ -23,6 +25,7 @@ class HymnVersion {
               ?.map((verse) => Verse.fromJson(verse as Map<String, dynamic>))
               .toList() ??
           [],
+      metadata: json['metadata'] as Map<String, dynamic>?,
     );
   }
 
@@ -32,6 +35,7 @@ class HymnVersion {
       'title': title,
       'url': url,
       'verses': verses.map((verse) => verse.toJson()).toList(),
+      if (metadata != null) 'metadata': metadata,
     };
   }
 }

@@ -86,6 +86,7 @@ def merge_versions(
         "title": songbase_data.get("title", ""),
         "url": songbase_data.get("url", ""),
         "verses": songbase_data.get("verses", []),
+        "metadata": songbase_data.get("metadata", {}),
     }
 
     existing_alternates = result.get("alternate_versions", [])

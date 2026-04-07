@@ -479,7 +479,7 @@ $deepLink
         url: alt.url,
         title: alt.title,
         verses: alt.verses,
-        metadata: _currentHymn!.metadata,
+        metadata: alt.metadata ?? _currentHymn!.metadata,
       );
     }
     return _currentHymn;

@@ -295,7 +295,8 @@ Hymn files are named with the format: `{bookId}_{number}.json` (e.g., `ts_1.json
       "source": "songbase",
       "title": "Alternate Title",
       "url": "https://songbase.life/song/123",
-      "verses": [...]
+      "verses": [...],
+      "metadata": {"source": "songbase", "songbase_id": 123, "capo": 3}
     }
   ]
 }
