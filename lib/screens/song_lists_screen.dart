@@ -84,14 +84,19 @@ class _SongListsScreenState extends State<SongListsScreen> {
     );
   }
 
-  void _shareSongList(SongList list) {
+  Future<void> _shareSongList(SongList list) async {
     try {
       final shareUrl = SongListShareService.generateShareUrl(list);
-      Share.share(
+      final box = context.findRenderObject() as RenderBox?;
+      await Share.share(
         shareUrl,
         subject: 'Share Song List: ${list.name}',
+        sharePositionOrigin: box != null
+            ? box.localToGlobal(Offset.zero) & box.size
+            : null,
       );
     } catch (e) {
+      if (!mounted) return;
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(content: Text('Failed to share: $e')),
       );

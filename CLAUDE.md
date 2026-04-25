@@ -401,3 +401,5 @@ Key packages in `pubspec.yaml`:
 **Navigation errors**: Always use `bookId` (not `category`) when navigating to hymns. The `category` field is descriptive metadata, while `bookId` identifies the hymnal book ("ts", "ch", "h", "ns").
 
 **Favorites not persisting**: Favorites are stored in SharedPreferences with key `'favorite_hymns'` as a list of hymnIds. Check that SharedPreferences is working correctly on the target platform.
+
+**Share sheet not appearing on iOS**: When calling `Share.share()` from `share_plus`, always `await` the call and pass `sharePositionOrigin` (derived from the calling widget's `RenderBox`). Without `sharePositionOrigin`, iOS — especially iPad — silently fails to present the share sheet. Without `await`, errors from the plugin are swallowed instead of reaching the surrounding `try/catch`.

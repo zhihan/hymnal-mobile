@@ -105,7 +105,7 @@ class _SongListDetailScreenState extends State<SongListDetailScreen> {
     );
   }
 
-  void _shareSongList() {
+  Future<void> _shareSongList() async {
     final provider = Provider.of<SongListProvider>(context, listen: false);
     final list = provider.getListById(widget.listId);
 
@@ -118,11 +118,16 @@ class _SongListDetailScreenState extends State<SongListDetailScreen> {
 
     try {
       final shareUrl = SongListShareService.generateShareUrl(list);
-      Share.share(
+      final box = context.findRenderObject() as RenderBox?;
+      await Share.share(
         shareUrl,
         subject: 'Share Song List: ${list.name}',
+        sharePositionOrigin: box != null
+            ? box.localToGlobal(Offset.zero) & box.size
+            : null,
       );
     } catch (e) {
+      if (!mounted) return;
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(content: Text('Failed to share: $e')),
       );
