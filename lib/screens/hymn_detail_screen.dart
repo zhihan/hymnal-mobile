@@ -26,7 +26,7 @@ class HymnDetailScreen extends StatefulWidget {
 }
 
 class _HymnDetailScreenState extends State<HymnDetailScreen> {
-  HymnSong? _currentHymn;
+  HymnSong? _currentHymn; // Hymnal version of the hymn, if exists
   bool _isLoading = true;
   String? _error;
   int _currentHymnNumber = 1;
@@ -903,6 +903,11 @@ $deepLink
                   IconButton(
                     onPressed: () {
                       final hymn = _currentHymn!;
+                      // Melody only ever comes from the primary hymnal.net
+                      // version, but capo should reflect whichever version
+                      // (e.g. a SongBase alternate) is currently displayed.
+                      final displayMetadata =
+                          _displayHymn?.metadata ?? hymn.metadata;
                       Navigator.push(
                         context,
                         MaterialPageRoute(
@@ -910,7 +915,8 @@ $deepLink
                             melody: hymn.melody!,
                             hymnTitle: hymn.title,
                             initialCapo:
-                                (hymn.metadata?['capo'] as num?)?.toInt() ?? 0,
+                                (displayMetadata?['capo'] as num?)?.toInt() ??
+                                0,
                             transpose: _transposeOffset,
                           ),
                         ),
