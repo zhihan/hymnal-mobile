@@ -182,8 +182,9 @@ class _TabPainter extends CustomPainter {
     }
 
     for (final fingered in notes) {
-      if (fingered.note.start < startTick || fingered.note.start >= endTick)
+      if (fingered.note.start < startTick || fingered.note.start >= endTick) {
         continue;
+      }
       final position = fingered.position;
       if (position == null) continue;
       final x =
