@@ -253,7 +253,8 @@ def crawl_all(
         # Songbase summary
         if results["songbase"]:
             for r in results["songbase"]:
-                print(f"Songbase {r['book_slug']}: {r['converted']}/{r['total']} converted, {r['errors']} errors")
+                label = r.get("book_slug", r.get("book_id", "unknown"))
+                print(f"Songbase {label}: {r['converted']}/{r['total']} converted, {r['errors']} errors")
 
         # Dedup summary
         if results["dedup"]:
