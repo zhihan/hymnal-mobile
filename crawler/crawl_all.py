@@ -21,6 +21,7 @@ from crawl_hymns import crawl_category, CATEGORY_RANGES
 from batch_convert_chinese_hymns import batch_convert_hymns
 from songbase_crawler import SongbaseCrawler
 from dedup_hymns import merge_all
+from extract_midi_notes import process_directory as extract_midi_notes
 
 # Configure logging
 logging.basicConfig(
@@ -82,6 +83,7 @@ def crawl_all(
     skip_songbase: bool = False,
     skip_convert: bool = False,
     skip_manual: bool = False,
+    extract_midi: bool = False,
     dry_run: bool = False,
     **crawl_kwargs
 ) -> dict:
@@ -108,6 +110,7 @@ def crawl_all(
         "dedup": None,
         "conversion": None,
         "manual": None,
+        "midi": None,
     }
 
     os.makedirs(output_dir, exist_ok=True)
@@ -216,6 +219,19 @@ def crawl_all(
     else:
         print("\n[SKIPPED] Phase 6: Manual edits")
 
+    # Phase 7: Download MIDI tunes and embed melody notes. This is opt-in
+    # because it performs thousands of additional network requests.
+    if extract_midi:
+        print("\n" + "=" * 60)
+        print("PHASE 7: Extracting MIDI melody notes")
+        print("=" * 60)
+        if dry_run:
+            print(f"  [DRY RUN] Would process MIDI URLs in {output_dir}/")
+        else:
+            results["midi"] = extract_midi_notes(output_dir)
+    else:
+        print("\n[SKIPPED] Phase 7: MIDI extraction (use --extract-midi)")
+
     # Final summary
     print("\n" + "=" * 60)
     print("FINAL SUMMARY")
@@ -251,6 +267,10 @@ def crawl_all(
         # Manual edits summary
         if results["manual"]:
             print(f"Manual edits applied: {results['manual']['copied']}")
+
+        if results["midi"]:
+            m = results["midi"]
+            print(f"MIDI melodies: {m['updated']} updated, {m['errors']} errors")
 
     print("=" * 60)
 
@@ -306,6 +326,11 @@ def main():
         help="Skip applying manual edits"
     )
     parser.add_argument(
+        "--extract-midi",
+        action="store_true",
+        help="Download MIDI tunes and embed melody notes after other processing"
+    )
+    parser.add_argument(
         "--dry-run",
         action="store_true",
         help="Show what would be done without executing"
@@ -334,6 +359,7 @@ def main():
         skip_songbase=args.skip_songbase,
         skip_convert=args.skip_convert,
         skip_manual=args.skip_manual,
+        extract_midi=args.extract_midi,
         dry_run=args.dry_run,
         batch_size=args.batch_size,
         delay=args.delay,

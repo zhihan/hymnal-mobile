@@ -6,6 +6,7 @@
 #   ./build_hymns.sh              # Full pipeline (crawl all + songbase + build)
 #   ./build_hymns.sh --skip-crawl # Skip crawling, just copy and rebuild
 #   ./build_hymns.sh --songbase-only # Only crawl songbase + dedup + copy + rebuild
+#   ./build_hymns.sh --extract-midi # Also download MIDI files and embed melody notes
 #
 set -e
 
@@ -15,17 +16,20 @@ HYMNS_DIR="$SCRIPT_DIR/hymns"
 
 SKIP_CRAWL=false
 SONGBASE_ONLY=false
+EXTRACT_MIDI=false
 
 for arg in "$@"; do
   case $arg in
     --skip-crawl) SKIP_CRAWL=true ;;
     --songbase-only) SONGBASE_ONLY=true ;;
+    --extract-midi) EXTRACT_MIDI=true ;;
     --help|-h)
       echo "Usage: ./build_hymns.sh [OPTIONS]"
       echo ""
       echo "Options:"
       echo "  --skip-crawl      Skip crawling, just copy crawler/hymns/ to hymns/ and rebuild"
       echo "  --songbase-only   Only crawl songbase.life, dedup, copy, and rebuild"
+      echo "  --extract-midi    Download MIDI tunes and embed notes for on-device tabs"
       echo "  -h, --help        Show this help"
       echo ""
       echo "Full pipeline:"
@@ -52,15 +56,26 @@ if [ "$SKIP_CRAWL" = false ]; then
   cd "$CRAWLER_DIR"
 
   if [ "$SONGBASE_ONLY" = true ]; then
-    python3 crawl_all.py --skip-chinese --skip-english --skip-convert --skip-manual
+    CRAWL_ARGS=(--skip-chinese --skip-english --skip-convert --skip-manual)
   else
-    python3 crawl_all.py
+    CRAWL_ARGS=()
   fi
+
+  if [ "$EXTRACT_MIDI" = true ]; then
+    CRAWL_ARGS+=(--extract-midi)
+  fi
+  python3 crawl_all.py "${CRAWL_ARGS[@]}"
 
   cd "$SCRIPT_DIR"
 else
   echo ""
   echo ">>> Step 1: [SKIPPED] Crawling"
+  if [ "$EXTRACT_MIDI" = true ]; then
+    echo ">>> Extracting MIDI notes from existing crawler output..."
+    cd "$CRAWLER_DIR"
+    python3 extract_midi_notes.py --hymns-dir hymns
+    cd "$SCRIPT_DIR"
+  fi
 fi
 
 # Step 2: Copy crawler output to app hymns directory
