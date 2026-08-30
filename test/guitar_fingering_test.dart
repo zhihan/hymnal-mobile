@@ -98,4 +98,29 @@ void main() {
       expect(result[1].position?.fret, 0);
     },
   );
+
+  test(
+    'arranger still finds an open string sandwiched between fretted notes',
+    () {
+      // Regression case from a real hymn: the open D string is available
+      // for the middle two notes, but the notes on either side sit on
+      // nearby strings/frets rather than right next to the open note. The
+      // open-string bonus must be strong enough to win even then, not just
+      // when the open note is the closest option already.
+      const notes = [
+        MelodyNote(start: 0, duration: 480, pitch: 65),
+        MelodyNote(start: 480, duration: 480, pitch: 65),
+        MelodyNote(start: 960, duration: 480, pitch: 62),
+        MelodyNote(start: 1440, duration: 480, pitch: 62),
+        MelodyNote(start: 1920, duration: 480, pitch: 60),
+      ];
+
+      final result = GuitarFingering.arrange(notes);
+      final positions = result
+          .map((note) => (note.position!.stringNumber, note.position!.fret))
+          .toList();
+
+      expect(positions, [(4, 3), (4, 3), (4, 0), (4, 0), (5, 3)]);
+    },
+  );
 }
