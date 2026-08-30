@@ -38,7 +38,14 @@ class GuitarFingering {
     return positions;
   }
 
-  /// Choose a playable path with modest fret movement and position changes.
+  /// Melody pitches are extracted at vocal (tune-line) pitch, which sits
+  /// above where a standard-tuned guitar can be played in open position.
+  /// Shift the whole melody down an octave so tabs land in a comfortable,
+  /// idiomatic guitar register instead of climbing the upper frets.
+  static const int _octaveShift = -12;
+
+  /// Choose a playable path that favors staying within a narrow fret
+  /// region and switching strings over sliding along one string.
   static List<FingeredNote> arrange(
     List<MelodyNote> notes, {
     int capo = 0,
@@ -50,7 +57,7 @@ class GuitarFingering {
     final candidates = notes
         .map(
           (note) => positionsForPitch(
-            note.pitch + transpose,
+            note.pitch + transpose + _octaveShift,
             capo: capo,
             maxFret: maxFret,
           ),
@@ -89,10 +96,13 @@ class GuitarFingering {
           final movement = (current.fret - prior.fret).abs().toDouble();
           final stringChange = (current.stringNumber - prior.stringNumber)
               .abs();
+          // Weight fret movement heavily and string changes lightly so the
+          // path prefers staying in one hand region and switching strings
+          // over sliding the same string up and down the neck.
           final cost =
               costs[noteIndex - 1][priorIndex] +
-              movement +
-              stringChange * 0.35 +
+              movement * 1.6 +
+              stringChange * 0.1 +
               baseCost;
           if (cost < noteCosts[currentIndex]) {
             noteCosts[currentIndex] = cost;

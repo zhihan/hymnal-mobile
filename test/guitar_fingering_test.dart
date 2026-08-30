@@ -34,4 +34,40 @@ void main() {
     expect(result, hasLength(3));
     expect(result.every((note) => note.position != null), isTrue);
   });
+
+  test('arranger shifts melody down an octave for guitar range', () {
+    // Melody pitch 64 (E4) is extracted at vocal pitch; the arranger should
+    // fret it as if it were 52 (E3) so tabs land in a playable register
+    // instead of climbing straight to the open high E string.
+    const notes = [MelodyNote(start: 0, duration: 480, pitch: 64)];
+
+    final result = GuitarFingering.arrange(notes);
+
+    expect(result.single.position?.stringNumber, 4);
+    expect(result.single.position?.fret, 2);
+  });
+
+  test(
+    'arranger prefers switching strings over sliding one string across frets',
+    () {
+      const notes = [
+        MelodyNote(start: 0, duration: 480, pitch: 63),
+        MelodyNote(start: 480, duration: 480, pitch: 63),
+        MelodyNote(start: 960, duration: 480, pitch: 63),
+        MelodyNote(start: 1440, duration: 480, pitch: 72),
+      ];
+
+      final result = GuitarFingering.arrange(notes);
+      final frets = result.map((note) => note.position!.fret).toList();
+      final strings = result
+          .map((note) => note.position!.stringNumber)
+          .toList();
+
+      // All four notes stay within the same one-fret hand region...
+      expect(frets, [1, 1, 1, 1]);
+      // ...while the string changes to reach the higher note instead of
+      // sliding the same string up several frets.
+      expect(strings, [4, 4, 4, 2]);
+    },
+  );
 }
