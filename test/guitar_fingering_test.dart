@@ -70,4 +70,32 @@ void main() {
       expect(strings, [4, 4, 4, 2]);
     },
   );
+
+  test(
+    'arranger prefers a nearby open string over fretting the same string',
+    () {
+      // Fret 5 on one string sounds the same pitch as open on the next
+      // string up. Given the choice, the arranger should take the open
+      // string - it needs no left-hand finger at all.
+      const notes = [
+        MelodyNote(
+          start: 0,
+          duration: 480,
+          pitch: 68,
+        ), // fret 1 on the G string
+        MelodyNote(
+          start: 480,
+          duration: 480,
+          pitch: 67,
+        ), // open G is available here
+      ];
+
+      final result = GuitarFingering.arrange(notes);
+
+      expect(result[0].position?.stringNumber, 3);
+      expect(result[0].position?.fret, 1);
+      expect(result[1].position?.stringNumber, 3);
+      expect(result[1].position?.fret, 0);
+    },
+  );
 }
