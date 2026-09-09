@@ -129,14 +129,9 @@ class HymnalCrawler:
         if initials_pattern.match(name):
             return False
 
-        # Skip names that are mostly initials with just one real word
-        # e.g., "F. H. Allen" - has "F. H." initials and only "Allen"
-        # But allow "Margaret E. Barber" - has real first and last names
-        words = name.split()
-        real_words = [w for w in words if not re.match(r'^[A-Z]\.$', w)]
-        if len(real_words) < 2 and len(words) > 1:
-            # Only one real word among multiple parts - likely initials + surname
-            return False
+        # Allow initials with a surname (e.g., "J. F. Garland", "F. H. Allen").
+        # This is a common author format in hymnals, so a single real word
+        # alongside initials is accepted as a valid person name.
 
         # Skip non-person entities (titles that suggest it's not a person)
         non_person_indicators = [
