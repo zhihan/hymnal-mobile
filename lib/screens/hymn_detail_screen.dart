@@ -828,7 +828,6 @@ $deepLink
                         showChords: _showChords,
                         hymnIdTag:
                             '${_displayBookShortName(_currentBookId, hymnNumber)}$hymnNumber',
-                        showLanguageIndices: _currentBookId == 'h',
                         onCategoryTap: (category) {
                           Navigator.push(
                             context,

@@ -14,7 +14,6 @@ class HymnDisplay extends StatelessWidget {
   final String? hymnIdTag;
   final Function(String category)? onCategoryTap;
   final Function(String lyricist)? onLyricistTap;
-  final bool showLanguageIndices;
 
   const HymnDisplay({
     super.key,
@@ -24,14 +23,12 @@ class HymnDisplay extends StatelessWidget {
     this.hymnIdTag,
     this.onCategoryTap,
     this.onLyricistTap,
-    this.showLanguageIndices = false,
   });
 
   /// Language index tags (e.g. Chinese C1, Burmese B1) shown at the bottom.
   /// Display-only: an unlinked tag means that language version has no page
   /// on the website yet.
   List<Widget> _buildLanguageIndices() {
-    if (!showLanguageIndices) return [];
     final metadata = hymn.metadata;
     if (metadata == null) return [];
     final indices = metadata['language_indices'];
@@ -44,20 +41,25 @@ class HymnDisplay extends StatelessWidget {
         runSpacing: 8,
         children: indices.map((item) {
           final m = Map<String, dynamic>.from(item as Map);
-          final chip = Chip(
-            label: Text(
+          final tag = Container(
+            padding: const EdgeInsets.symmetric(horizontal: 8.0, vertical: 4.0),
+            decoration: BoxDecoration(
+              color: const Color(0xFF1565C0), // Dark blue background, matches hymnIdTag
+              borderRadius: BorderRadius.circular(4.0),
+            ),
+            child: Text(
               m['number'] as String? ?? '',
               style: const TextStyle(
+                color: Colors.white,
                 fontSize: 14,
-                fontWeight: FontWeight.bold,
+                fontWeight: FontWeight.w500,
               ),
             ),
-            backgroundColor: Colors.grey[200],
           );
           final language = m['language'] as String? ?? '';
           return language.isNotEmpty
-              ? Tooltip(message: language, child: chip)
-              : chip;
+              ? Tooltip(message: language, child: tag)
+              : tag;
         }).toList(),
       ),
     ];
