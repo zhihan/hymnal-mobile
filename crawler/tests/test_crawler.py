@@ -428,6 +428,52 @@ class TestParseHymnPage:
         # Should not extract lyrics for Chinese hymns
         assert 'lyrics' not in result['metadata']
 
+    def test_parse_guitar_leadsheet_from_data_attribute(self):
+        """Test extracting the guitar leadsheet URL from data-guitar-url."""
+        html = """
+        <html>
+            <body>
+                <h2>Glory be to God the Father</h2>
+                <div class="hymn-nums">
+                    <a href="/en/hymn/h/1">E1</a>
+                </div>
+                <div class="line">
+                    <div class="chord-text"><span class="chord">C</span>Lyrics</div>
+                </div>
+                <div class="text-center leadsheet hidden" data-guitar-url="https://www.hymnal.net/Hymns/Hymnal/svg/e0001_g.svg">
+                    <span class="svg">https://www.hymnal.net/Hymns/Hymnal/svg/e0001_p.svg</span>
+                </div>
+                <div class="row text-center leadsheet-instrument-toggle hidden">
+                </div>
+            </body>
+        </html>
+        """
+        crawler = HymnalCrawler()
+        result = crawler.parse_hymn_page(html, "https://www.hymnal.net/en/hymn/h/1")
+
+        assert result['metadata']['guitar_leadsheet_url'] == \
+            "https://www.hymnal.net/Hymns/Hymnal/svg/e0001_g.svg"
+
+    def test_parse_guitar_leadsheet_absent(self):
+        """Test that no guitar leadsheet URL is set when the markup is absent."""
+        html = """
+        <html>
+            <body>
+                <h2>Glory be to God the Father</h2>
+                <div class="hymn-nums">
+                    <a href="/en/hymn/h/1">E1</a>
+                </div>
+                <div class="line">
+                    <div class="chord-text"><span class="chord">C</span>Lyrics</div>
+                </div>
+            </body>
+        </html>
+        """
+        crawler = HymnalCrawler()
+        result = crawler.parse_hymn_page(html, "https://www.hymnal.net/en/hymn/h/1")
+
+        assert 'guitar_leadsheet_url' not in result['metadata']
+
 
 class TestFetchHymn:
     """Test fetch_hymn method."""
