@@ -606,24 +606,42 @@ class HymnalCrawler:
                 metadata['midi_tune_url'] = midi_url
                 break
 
-        # Extract guitar leadsheet URL from div.leadsheet.guitar
-        guitar_leadsheet_div = soup.find('div', class_=lambda c: c and 'leadsheet' in c and 'guitar' in c)
+        # Extract guitar leadsheet URL from div.leadsheet
+        # Current markup:
+        #   <div class="text-center leadsheet hidden"
+        #        data-guitar-url="https://www.hymnal.net/Hymns/Hymnal/svg/e0001_g.svg">
+        # (a separate div.leadsheet-instrument-toggle holds the instrument toggle UI)
+        guitar_leadsheet_div = soup.find(
+            'div',
+            class_=lambda c: c
+            and 'leadsheet' in c
+            and 'leadsheet-instrument-toggle' not in c,
+        )
         if guitar_leadsheet_div:
-            # Try to find URL in span.svg (text content)
-            svg_span = guitar_leadsheet_div.find('span', class_='svg')
-            if svg_span:
-                leadsheet_src = svg_span.get_text(strip=True)
-                if leadsheet_src:
-                    leadsheet_url = leadsheet_src if leadsheet_src.startswith('http') else f"{self.base_url}{leadsheet_src}"
-                    metadata['guitar_leadsheet_url'] = leadsheet_url
+            # Preferred: data-guitar-url attribute on the container
+            data_url = guitar_leadsheet_div.get('data-guitar-url', '').strip()
+            if data_url:
+                metadata['guitar_leadsheet_url'] = (
+                    data_url
+                    if data_url.startswith('http')
+                    else f"{self.base_url}{data_url}"
+                )
             else:
-                # Fallback: try img tag with src attribute
-                img_tag = guitar_leadsheet_div.find('img', src=True)
-                if img_tag:
-                    leadsheet_src = img_tag.get('src', '')
+                # Fallback: older markup with the URL in span.svg text
+                # or an img src
+                svg_span = guitar_leadsheet_div.find('span', class_='svg')
+                if svg_span:
+                    leadsheet_src = svg_span.get_text(strip=True)
                     if leadsheet_src:
                         leadsheet_url = leadsheet_src if leadsheet_src.startswith('http') else f"{self.base_url}{leadsheet_src}"
                         metadata['guitar_leadsheet_url'] = leadsheet_url
+                else:
+                    img_tag = guitar_leadsheet_div.find('img', src=True)
+                    if img_tag:
+                        leadsheet_src = img_tag.get('src', '')
+                        if leadsheet_src:
+                            leadsheet_url = leadsheet_src if leadsheet_src.startswith('http') else f"{self.base_url}{leadsheet_src}"
+                            metadata['guitar_leadsheet_url'] = leadsheet_url
 
         # Extract key signatures and calculate capo position
         # keysig = current key, fromkeysig = original key
