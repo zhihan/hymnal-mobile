@@ -9,6 +9,7 @@ import '../providers/song_list_provider.dart';
 import 'category_detail_screen.dart';
 import 'lyricist_detail_screen.dart';
 import 'guitar_leadsheet_screen.dart';
+import 'tablature_screen.dart';
 
 class HymnDetailScreen extends StatefulWidget {
   final int initialHymnNumber;
@@ -25,7 +26,7 @@ class HymnDetailScreen extends StatefulWidget {
 }
 
 class _HymnDetailScreenState extends State<HymnDetailScreen> {
-  HymnSong? _currentHymn;
+  HymnSong? _currentHymn; // Hymnal version of the hymn, if exists
   bool _isLoading = true;
   String? _error;
   int _currentHymnNumber = 1;
@@ -47,7 +48,8 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   late PageController _pageController;
   List<int> _availableHymnNumbers = [];
   int _currentPageIndex = 0;
-  Key _pageViewKey = UniqueKey(); // Key to force PageView rebuild when switching books
+  Key _pageViewKey =
+      UniqueKey(); // Key to force PageView rebuild when switching books
 
   // Cache loaded hymns by hymn number
   final Map<int, HymnSong> _hymnCache = {};
@@ -74,14 +76,18 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   Future<void> _initializePageView() async {
     try {
       // Load available hymn numbers for the current book
-      _availableHymnNumbers = await HymnLoaderService.getAvailableHymnNumbers(_currentBookId);
+      _availableHymnNumbers = await HymnLoaderService.getAvailableHymnNumbers(
+        _currentBookId,
+      );
 
       // Find the index of the current hymn in the available numbers
       _currentPageIndex = _availableHymnNumbers.indexOf(_currentHymnNumber);
       if (_currentPageIndex == -1) {
         // If hymn number not found, default to first hymn
         _currentPageIndex = 0;
-        _currentHymnNumber = _availableHymnNumbers.isNotEmpty ? _availableHymnNumbers[0] : 1;
+        _currentHymnNumber = _availableHymnNumbers.isNotEmpty
+            ? _availableHymnNumbers[0]
+            : 1;
       }
 
       // Initialize PageController
@@ -115,7 +121,10 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
       if (_hymnCache.containsKey(hymnNumber)) {
         hymn = _hymnCache[hymnNumber]!;
       } else {
-        hymn = await HymnLoaderService.loadHymnByNumber(_currentBookId, hymnNumber);
+        hymn = await HymnLoaderService.loadHymnByNumber(
+          _currentBookId,
+          hymnNumber,
+        );
         _hymnCache[hymnNumber] = hymn;
       }
 
@@ -136,7 +145,8 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
       }
 
       // Extract guitar lead sheet URL if available
-      final guitarLeadsheetUrl = hymn.metadata?['guitar_leadsheet_url'] as String?;
+      final guitarLeadsheetUrl =
+          hymn.metadata?['guitar_leadsheet_url'] as String?;
 
       setState(() {
         _currentHymn = hymn;
@@ -146,7 +156,8 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
         _isLoading = false;
         _transposeOffset = 0; // Reset transpose when loading new hymn
         _currentVersionIndex = 0; // Reset to primary version
-        _currentGuitarLeadsheetUrl = guitarLeadsheetUrl; // Set guitar lead sheet URL if available
+        _currentGuitarLeadsheetUrl =
+            guitarLeadsheetUrl; // Set guitar lead sheet URL if available
       });
 
       // Preload adjacent hymns in the background
@@ -170,7 +181,10 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
       final nextHymnNumber = _availableHymnNumbers[currentIndex + 1];
       if (!_hymnCache.containsKey(nextHymnNumber)) {
         try {
-          final nextHymn = await HymnLoaderService.loadHymnByNumber(_currentBookId, nextHymnNumber);
+          final nextHymn = await HymnLoaderService.loadHymnByNumber(
+            _currentBookId,
+            nextHymnNumber,
+          );
           _hymnCache[nextHymnNumber] = nextHymn;
         } catch (e) {
           // Silently fail preloading
@@ -183,7 +197,10 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
       final prevHymnNumber = _availableHymnNumbers[currentIndex - 1];
       if (!_hymnCache.containsKey(prevHymnNumber)) {
         try {
-          final prevHymn = await HymnLoaderService.loadHymnByNumber(_currentBookId, prevHymnNumber);
+          final prevHymn = await HymnLoaderService.loadHymnByNumber(
+            _currentBookId,
+            prevHymnNumber,
+          );
           _hymnCache[prevHymnNumber] = prevHymn;
         } catch (e) {
           // Silently fail preloading
@@ -211,7 +228,8 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   }
 
   void _navigateToNextHymn() {
-    if (_nextHymnNumber != null && _currentPageIndex < _availableHymnNumbers.length - 1) {
+    if (_nextHymnNumber != null &&
+        _currentPageIndex < _availableHymnNumbers.length - 1) {
       _pageController.animateToPage(
         _currentPageIndex + 1,
         duration: const Duration(milliseconds: 300),
@@ -253,7 +271,8 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     if (bookId != _currentBookId) {
       try {
         // Load available hymn numbers for the new book
-        final newAvailableNumbers = await HymnLoaderService.getAvailableHymnNumbers(bookId);
+        final newAvailableNumbers =
+            await HymnLoaderService.getAvailableHymnNumbers(bookId);
 
         // Find the index of the target hymn
         int newPageIndex = newAvailableNumbers.indexOf(hymnNumber);
@@ -263,26 +282,44 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
           if (newAvailableNumbers.isNotEmpty) {
             // Use the first available hymn number instead
             final firstHymnNumber = newAvailableNumbers[0];
-            final firstHymn = await HymnLoaderService.loadHymnByNumber(bookId, firstHymnNumber);
-            _updateBookAndHymn(bookId, firstHymnNumber, firstHymn, newAvailableNumbers, 0);
+            final firstHymn = await HymnLoaderService.loadHymnByNumber(
+              bookId,
+              firstHymnNumber,
+            );
+            _updateBookAndHymn(
+              bookId,
+              firstHymnNumber,
+              firstHymn,
+              newAvailableNumbers,
+              0,
+            );
             return;
           }
         }
 
         // Load the target hymn
-        final newHymn = await HymnLoaderService.loadHymnByNumber(bookId, hymnNumber);
+        final newHymn = await HymnLoaderService.loadHymnByNumber(
+          bookId,
+          hymnNumber,
+        );
 
         // Update state
-        _updateBookAndHymn(bookId, hymnNumber, newHymn, newAvailableNumbers, newPageIndex);
+        _updateBookAndHymn(
+          bookId,
+          hymnNumber,
+          newHymn,
+          newAvailableNumbers,
+          newPageIndex,
+        );
 
         // Preload adjacent hymns
         _preloadAdjacentHymns(hymnNumber);
       } catch (e) {
         // Show error but don't block the UI
         if (mounted) {
-          ScaffoldMessenger.of(context).showSnackBar(
-            SnackBar(content: Text('Failed to load hymn: $e')),
-          );
+          ScaffoldMessenger.of(
+            context,
+          ).showSnackBar(SnackBar(content: Text('Failed to load hymn: $e')));
         }
       }
     } else {
@@ -298,7 +335,13 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     }
   }
 
-  void _updateBookAndHymn(String bookId, int hymnNumber, HymnSong hymn, List<int> availableNumbers, int pageIndex) {
+  void _updateBookAndHymn(
+    String bookId,
+    int hymnNumber,
+    HymnSong hymn,
+    List<int> availableNumbers,
+    int pageIndex,
+  ) {
     if (!mounted) return;
 
     // Save reference to old controller before setState
@@ -317,8 +360,8 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
       _availableHymnNumbers = availableNumbers;
       _currentPageIndex = pageIndex;
       _currentHymn = hymn;
-      _isLoading = false;  // Clear any loading state from previous operations
-      _error = null;  // Clear any error state
+      _isLoading = false; // Clear any loading state from previous operations
+      _error = null; // Clear any error state
       _transposeOffset = 0;
 
       // Clear cache and add new hymn
@@ -352,9 +395,11 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     final shortName = _displayBookShortName(_currentBookId, _currentHymnNumber);
     final hymnTitle = _currentHymn?.title ?? 'Hymn';
     final hymnId = _currentHymnId;
-    final deepLink = 'https://cicmusic.net/hymn/$_currentBookId/$_currentHymnNumber';
+    final deepLink =
+        'https://cicmusic.net/hymn/$_currentBookId/$_currentHymnNumber';
 
-    final shareText = '''
+    final shareText =
+        '''
 $hymnId - $hymnTitle
 
 $deepLink
@@ -367,7 +412,10 @@ $deepLink
   }
 
   void _showAddToListMenu() {
-    final songListProvider = Provider.of<SongListProvider>(context, listen: false);
+    final songListProvider = Provider.of<SongListProvider>(
+      context,
+      listen: false,
+    );
     final lists = songListProvider.lists;
 
     showModalBottomSheet(
@@ -404,14 +452,14 @@ $deepLink
                       list.isDefault
                           ? Icons.favorite
                           : list.isBuiltIn
-                              ? Icons.auto_awesome
-                              : Icons.library_music,
+                          ? Icons.auto_awesome
+                          : Icons.library_music,
                       color: isInList
                           ? (list.isDefault
-                              ? Colors.red
-                              : list.isBuiltIn
-                                  ? Colors.orange
-                                  : Theme.of(context).colorScheme.primary)
+                                ? Colors.red
+                                : list.isBuiltIn
+                                ? Colors.orange
+                                : Theme.of(context).colorScheme.primary)
                           : Colors.grey,
                     ),
                     title: Text(list.name),
@@ -422,27 +470,33 @@ $deepLink
                     ),
                     trailing: isInList
                         ? (isBuiltIn
-                            ? const Icon(Icons.lock, color: Colors.grey)
-                            : const Icon(Icons.check, color: Colors.green))
+                              ? const Icon(Icons.lock, color: Colors.grey)
+                              : const Icon(Icons.check, color: Colors.green))
                         : (isFull
-                            ? const Icon(Icons.block, color: Colors.grey)
-                            : (isBuiltIn
-                                ? const Icon(Icons.lock, color: Colors.grey)
-                                : null)),
+                              ? const Icon(Icons.block, color: Colors.grey)
+                              : (isBuiltIn
+                                    ? const Icon(Icons.lock, color: Colors.grey)
+                                    : null)),
                     enabled: !isBuiltIn && (!isFull || isInList),
                     onTap: isBuiltIn
                         ? null
                         : () async {
                             Navigator.pop(context);
                             if (isInList) {
-                              await songListProvider.removeHymnFromList(list.id, _currentHymnId);
+                              await songListProvider.removeHymnFromList(
+                                list.id,
+                                _currentHymnId,
+                              );
                               if (mounted) {
                                 ScaffoldMessenger.of(context).showSnackBar(
-                                  SnackBar(content: Text('Removed from ${list.name}')),
+                                  SnackBar(
+                                    content: Text('Removed from ${list.name}'),
+                                  ),
                                 );
                               }
                             } else {
-                              final success = await songListProvider.addHymnToList(list.id, _currentHymnId);
+                              final success = await songListProvider
+                                  .addHymnToList(list.id, _currentHymnId);
                               if (mounted) {
                                 ScaffoldMessenger.of(context).showSnackBar(
                                   SnackBar(
@@ -515,7 +569,8 @@ $deepLink
           Consumer<SongListProvider>(
             builder: (context, provider, child) {
               final defaultList = provider.defaultList;
-              final isFavorite = defaultList?.containsHymn(_currentHymnId) ?? false;
+              final isFavorite =
+                  defaultList?.containsHymn(_currentHymnId) ?? false;
 
               return IconButton(
                 icon: Icon(
@@ -525,7 +580,9 @@ $deepLink
                 onPressed: () {
                   provider.toggleFavorite(_currentHymnId);
                 },
-                tooltip: isFavorite ? 'Remove from favorites' : 'Add to favorites',
+                tooltip: isFavorite
+                    ? 'Remove from favorites'
+                    : 'Add to favorites',
               );
             },
           ),
@@ -550,9 +607,7 @@ $deepLink
           ),
           IconButton(
             icon: const Icon(Icons.arrow_forward_ios),
-            onPressed: _nextHymnNumber != null
-                ? _navigateToNextHymn
-                : null,
+            onPressed: _nextHymnNumber != null ? _navigateToNextHymn : null,
             tooltip: _nextHymnNumber != null
                 ? 'Next hymn ($_nextHymnNumber)'
                 : 'No next hymn',
@@ -568,9 +623,9 @@ $deepLink
               tooltip: 'Toggle language navigation',
             ),
           IconButton(
-            icon: Icon(_showTransposeControls
-                ? Icons.expand_less
-                : Icons.expand_more),
+            icon: Icon(
+              _showTransposeControls ? Icons.expand_less : Icons.expand_more,
+            ),
             onPressed: () {
               setState(() {
                 _showTransposeControls = !_showTransposeControls;
@@ -586,9 +641,7 @@ $deepLink
 
   Widget _buildBody() {
     if (_isLoading) {
-      return const Center(
-        child: CircularProgressIndicator(),
-      );
+      return const Center(child: CircularProgressIndicator());
     }
 
     if (_error != null) {
@@ -598,11 +651,7 @@ $deepLink
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              const Icon(
-                Icons.error_outline,
-                color: Colors.red,
-                size: 48,
-              ),
+              const Icon(Icons.error_outline, color: Colors.red, size: 48),
               const SizedBox(height: 16),
               Text(
                 'Unable to Load Hymn',
@@ -628,9 +677,7 @@ $deepLink
     }
 
     if (_currentHymn == null) {
-      return const Center(
-        child: Text('No hymn loaded'),
-      );
+      return const Center(child: Text('No hymn loaded'));
     }
 
     return Column(
@@ -639,7 +686,10 @@ $deepLink
         if (_showLanguageNavigation && _getRelatedHymns().isNotEmpty)
           Container(
             width: double.infinity,
-            padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 8.0),
+            padding: const EdgeInsets.symmetric(
+              horizontal: 16.0,
+              vertical: 8.0,
+            ),
             decoration: BoxDecoration(
               color: Colors.blue[50],
               border: Border(
@@ -652,13 +702,17 @@ $deepLink
               children: _getRelatedHymns().map((related) {
                 final bookId = related['category'] as String? ?? '';
                 final number = related['number'] as String? ?? '';
-                final shortName = _bookShortNames[bookId] ?? bookId.toUpperCase();
+                final shortName =
+                    _bookShortNames[bookId] ?? bookId.toUpperCase();
                 final displayText = '$shortName$number';
 
                 return ElevatedButton(
                   onPressed: () => _navigateToRelatedHymn(bookId, number),
                   style: ElevatedButton.styleFrom(
-                    padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                    padding: const EdgeInsets.symmetric(
+                      horizontal: 16,
+                      vertical: 8,
+                    ),
                     backgroundColor: Colors.blue[100],
                     foregroundColor: Colors.blue[900],
                   ),
@@ -676,7 +730,10 @@ $deepLink
         // Transpose controls (collapsible)
         if (_showTransposeControls)
           Container(
-            padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 8.0),
+            padding: const EdgeInsets.symmetric(
+              horizontal: 16.0,
+              vertical: 8.0,
+            ),
             decoration: BoxDecoration(
               color: Colors.grey[100],
               border: Border(
@@ -689,10 +746,7 @@ $deepLink
                 // Chord visibility toggle
                 const Text(
                   'Chords',
-                  style: TextStyle(
-                    fontSize: 14,
-                    fontWeight: FontWeight.w500,
-                  ),
+                  style: TextStyle(fontSize: 14, fontWeight: FontWeight.w500),
                 ),
                 Switch(
                   value: _showChords,
@@ -712,7 +766,10 @@ $deepLink
                 ),
                 // Current transpose offset display
                 Container(
-                  padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
+                  padding: const EdgeInsets.symmetric(
+                    horizontal: 12,
+                    vertical: 4,
+                  ),
                   decoration: BoxDecoration(
                     color: Colors.white,
                     borderRadius: BorderRadius.circular(4),
@@ -749,7 +806,7 @@ $deepLink
           child: _availableHymnNumbers.isEmpty
               ? const Center(child: CircularProgressIndicator())
               : PageView.builder(
-                  key: _pageViewKey,  // Force rebuild when switching books
+                  key: _pageViewKey, // Force rebuild when switching books
                   controller: _pageController,
                   onPageChanged: _onPageChanged,
                   itemCount: _availableHymnNumbers.length,
@@ -759,19 +816,24 @@ $deepLink
                     // Check if this hymn is cached
                     if (_hymnCache.containsKey(hymnNumber)) {
                       // Use the version-switched hymn for the current page
-                      final hymnToDisplay = (index == _currentPageIndex && _displayHymn != null)
+                      final hymnToDisplay =
+                          (index == _currentPageIndex && _displayHymn != null)
                           ? _displayHymn!
                           : _hymnCache[hymnNumber]!;
                       return HymnDisplay(
                         hymn: hymnToDisplay,
-                        transposeOffset: index == _currentPageIndex ? _transposeOffset : 0,
+                        transposeOffset: index == _currentPageIndex
+                            ? _transposeOffset
+                            : 0,
                         showChords: _showChords,
-                        hymnIdTag: '${_displayBookShortName(_currentBookId, hymnNumber)}$hymnNumber',
+                        hymnIdTag:
+                            '${_displayBookShortName(_currentBookId, hymnNumber)}$hymnNumber',
                         onCategoryTap: (category) {
                           Navigator.push(
                             context,
                             MaterialPageRoute(
-                              builder: (context) => CategoryDetailScreen(categoryName: category),
+                              builder: (context) =>
+                                  CategoryDetailScreen(categoryName: category),
                             ),
                           );
                         },
@@ -779,7 +841,8 @@ $deepLink
                           Navigator.push(
                             context,
                             MaterialPageRoute(
-                              builder: (context) => LyricistDetailScreen(lyricistName: lyricist),
+                              builder: (context) =>
+                                  LyricistDetailScreen(lyricistName: lyricist),
                             ),
                           );
                         },
@@ -792,9 +855,14 @@ $deepLink
                 ),
         ),
         // Bottom button bar
-        if (_currentGuitarLeadsheetUrl != null || (_currentHymn?.hasAlternateVersions ?? false))
+        if (_currentGuitarLeadsheetUrl != null ||
+            _currentHymn?.melody != null ||
+            (_currentHymn?.hasAlternateVersions ?? false))
           Container(
-            padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 12.0),
+            padding: const EdgeInsets.symmetric(
+              horizontal: 16.0,
+              vertical: 12.0,
+            ),
             decoration: BoxDecoration(
               color: Colors.grey[100],
               border: Border(
@@ -826,6 +894,36 @@ $deepLink
                     },
                     icon: const Icon(Icons.music_note),
                     tooltip: 'Guitar Lead Sheet',
+                    style: IconButton.styleFrom(
+                      backgroundColor: Theme.of(context).colorScheme.primary,
+                      foregroundColor: Colors.white,
+                    ),
+                  ),
+                if (_currentHymn?.melody != null)
+                  IconButton(
+                    onPressed: () {
+                      final hymn = _currentHymn!;
+                      // Melody only ever comes from the primary hymnal.net
+                      // version, but capo should reflect whichever version
+                      // (e.g. a SongBase alternate) is currently displayed.
+                      final displayMetadata =
+                          _displayHymn?.metadata ?? hymn.metadata;
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (context) => TablatureScreen(
+                            melody: hymn.melody!,
+                            hymnTitle: hymn.title,
+                            initialCapo:
+                                (displayMetadata?['capo'] as num?)?.toInt() ??
+                                0,
+                            transpose: _transposeOffset,
+                          ),
+                        ),
+                      );
+                    },
+                    icon: const Icon(Icons.queue_music),
+                    tooltip: 'Guitar Tab',
                     style: IconButton.styleFrom(
                       backgroundColor: Theme.of(context).colorScheme.primary,
                       foregroundColor: Colors.white,

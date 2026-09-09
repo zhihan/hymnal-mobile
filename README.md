@@ -2,6 +2,39 @@
 
 Flutter app and crawler for browsing hymns with inline chords, search, song lists, and guitar leadsheets.
 
+Hymns with MIDI tune URLs can also include compact melody note data. The app
+turns those notes into guitar tablature on-device, so changing the capo or
+transpose setting recalculates the string/fret positions immediately.
+
+Generate the note data from an existing crawl with:
+
+```bash
+cd crawler
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+cd ..
+./build_hymns.sh --skip-crawl --extract-midi
+```
+
+The extractor reads `metadata.midi_tune_url`, selects the most likely
+monophonic melody track, and writes compact timing and MIDI-pitch data to
+`metadata.melody`. Hymns without MIDI URLs are left unchanged. In the app,
+hymns containing this field show a Guitar Tab button; tablature is generated
+locally and recalculated when capo or transpose changes.
+
+To work on or verify this feature on another machine:
+
+```bash
+crawler/venv/bin/python -m pytest crawler/tests/test_extract_midi_notes.py
+flutter test test/guitar_fingering_test.dart
+flutter analyze
+```
+
+MIDI extraction is opt-in because a full run downloads thousands of files.
+Use `python crawler/extract_midi_notes.py --file <hymn.json>` to iterate on a
+single hymn without rebuilding the full catalog.
+
 The repository has two parts:
 
 - `./`: Flutter mobile app
