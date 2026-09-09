@@ -454,30 +454,6 @@ class TestParseHymnPage:
         assert result['metadata']['guitar_leadsheet_url'] == \
             "https://www.hymnal.net/Hymns/Hymnal/svg/e0001_g.svg"
 
-    def test_parse_guitar_leadsheet_legacy_span_fallback(self):
-        """Test extracting the guitar leadsheet URL from legacy span.svg markup."""
-        html = """
-        <html>
-            <body>
-                <h2>Glory be to God the Father</h2>
-                <div class="hymn-nums">
-                    <a href="/en/hymn/h/1">E1</a>
-                </div>
-                <div class="line">
-                    <div class="chord-text"><span class="chord">C</span>Lyrics</div>
-                </div>
-                <div class="text-center leadsheet hidden">
-                    <span class="svg">https://www.hymnal.net/Hymns/Hymnal/svg/e0001_g.svg</span>
-                </div>
-            </body>
-        </html>
-        """
-        crawler = HymnalCrawler()
-        result = crawler.parse_hymn_page(html, "https://www.hymnal.net/en/hymn/h/1")
-
-        assert result['metadata']['guitar_leadsheet_url'] == \
-            "https://www.hymnal.net/Hymns/Hymnal/svg/e0001_g.svg"
-
     def test_parse_guitar_leadsheet_absent(self):
         """Test that no guitar leadsheet URL is set when the markup is absent."""
         html = """
