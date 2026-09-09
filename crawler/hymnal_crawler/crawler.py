@@ -730,6 +730,26 @@ class HymnalCrawler:
         if related_hymns:
             metadata['related'] = related_hymns
 
+        # Extract language indices: every tag in div.hymn-nums, e.g.
+        #   <a class="label label-primary" title="Chinese" href="/en/hymn/ch/1">C1</a>
+        #   <span class="label label-default" title="Burmese">B1</span>
+        # Each tag gives the hymn's index in that language's hymnal book.
+        # Unlinked (span) tags mean that language version has no page yet.
+        if hymn_nums_container:
+            language_indices = []
+            for tag in hymn_nums_container.find_all(['a', 'span'], title=True):
+                language = (tag.get('title') or '').strip()
+                number = tag.get_text(strip=True)
+                href = tag.get('href') if tag.name == 'a' else None
+                if language and number:
+                    language_indices.append({
+                        'language': language,
+                        'number': number,
+                        'url': href,
+                    })
+            if language_indices:
+                metadata['language_indices'] = language_indices
+
         # If no verses were found but we have lines, create a single verse with all lines
         if not verses and lines:
             verses = [{'lines': lines}]
