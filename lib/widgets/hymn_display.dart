@@ -14,7 +14,7 @@ class HymnDisplay extends StatelessWidget {
   final String? hymnIdTag;
   final Function(String category)? onCategoryTap;
   final Function(String lyricist)? onLyricistTap;
-  final void Function(String category, String number)? onLanguageIndexTap;
+  final bool showLanguageIndices;
 
   const HymnDisplay({
     super.key,
@@ -24,94 +24,39 @@ class HymnDisplay extends StatelessWidget {
     this.hymnIdTag,
     this.onCategoryTap,
     this.onLyricistTap,
-    this.onLanguageIndexTap,
+    this.showLanguageIndices = false,
   });
 
-  /// Hymnal.net categories whose hymns can be opened in the app.
-  static const Set<String> _navigableBooks = {'h', 'ch', 'ts', 'ns', 'nt', 'lb'};
-
-  /// Parse a hymnal.net hymn URL like /en/hymn/ch/1 into [category, number].
-  static List<String>? _parseHymnUrl(String url) {
-    final match = RegExp(r'^/(en|cn)/hymn/([a-z]+)/(\d+)$').firstMatch(url);
-    if (match == null) return null;
-    return [match.group(2)!, match.group(3)!];
-  }
-
-  /// Language index tags (e.g. Chinese C1, Burmese B1), shown at the bottom.
-  /// Unlinked tags mean that language version has no page on the website yet.
+  /// Language index tags (e.g. Chinese C1, Burmese B1) shown at the bottom.
+  /// Display-only: an unlinked tag means that language version has no page
+  /// on the website yet.
   List<Widget> _buildLanguageIndices() {
+    if (!showLanguageIndices) return [];
     final metadata = hymn.metadata;
     if (metadata == null) return [];
-
-    // Each item: label, tooltip, and optional navigation target.
-    final items = <Map<String, String?>>[];
     final indices = metadata['language_indices'];
-    if (indices is List && indices.isNotEmpty) {
-      for (final item in indices) {
-        final m = Map<String, dynamic>.from(item as Map);
-        final nav = _parseHymnUrl(m['url'] as String? ?? '');
-        items.add({
-          'label': m['number'] as String? ?? '',
-          'tooltip': m['language'] as String? ?? '',
-          'category': nav?[0],
-          'number': nav?[1],
-        });
-      }
-    } else {
-      // Fallback for databases built before language_indices existed.
-      final related = metadata['related'];
-      if (related is List) {
-        for (final item in related) {
-          final m = Map<String, dynamic>.from(item as Map);
-          final category = m['category'] as String? ?? '';
-          final number = m['number'] as String? ?? '';
-          if (!_navigableBooks.contains(category)) continue;
-          items.add({
-            'label': '${category.toUpperCase()}$number',
-            'tooltip': m['language'] as String? ?? '',
-            'category': category,
-            'number': number,
-          });
-        }
-      }
-    }
-    if (items.isEmpty) return [];
+    if (indices is! List || indices.isEmpty) return [];
 
     return [
       const SizedBox(height: 24),
       Wrap(
         spacing: 8,
         runSpacing: 8,
-        children: items.map((item) {
-          final label = Text(
-            item['label'] ?? '',
-            style: const TextStyle(
-              fontSize: 14,
-              fontWeight: FontWeight.bold,
+        children: indices.map((item) {
+          final m = Map<String, dynamic>.from(item as Map);
+          final chip = Chip(
+            label: Text(
+              m['number'] as String? ?? '',
+              style: const TextStyle(
+                fontSize: 14,
+                fontWeight: FontWeight.bold,
+              ),
             ),
+            backgroundColor: Colors.grey[200],
           );
-          final category = item['category'];
-          final Widget chip = category != null && onLanguageIndexTap != null
-              ? ElevatedButton(
-                  onPressed: () =>
-                      onLanguageIndexTap!(category, item['number'] ?? ''),
-                  style: ElevatedButton.styleFrom(
-                    padding: const EdgeInsets.symmetric(
-                      horizontal: 12,
-                      vertical: 6,
-                    ),
-                    backgroundColor: Colors.blue[100],
-                    foregroundColor: Colors.blue[900],
-                  ),
-                  child: label,
-                )
-              : Chip(
-                  label: label,
-                  backgroundColor: Colors.grey[200],
-                );
-          final tooltip = item['tooltip'] ?? '';
-          return tooltip.isNotEmpty
-              ? Tooltip(message: tooltip, child: chip)
+          final language = m['language'] as String? ?? '';
+          return language.isNotEmpty
+              ? Tooltip(message: language, child: chip)
               : chip;
         }).toList(),
       ),

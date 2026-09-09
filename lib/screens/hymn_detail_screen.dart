@@ -36,6 +36,7 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   bool _showChords = true; // Show chords by default
   int? _nextHymnNumber;
   int? _previousHymnNumber;
+  bool _showLanguageNavigation = false;
 
   // Version switching
   int _currentVersionIndex = 0; // 0 = primary, 1+ = alternate versions
@@ -253,6 +254,13 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     setState(() {
       _transposeOffset = 0;
     });
+  }
+
+  List<Map<String, dynamic>> _getRelatedHymns() {
+    if (_currentHymn?.metadata == null) return [];
+    final related = _currentHymn!.metadata!['related'];
+    if (related == null || related is! List) return [];
+    return List<Map<String, dynamic>>.from(related);
   }
 
   Future<void> _navigateToRelatedHymn(String bookId, String number) async {
@@ -604,6 +612,16 @@ $deepLink
                 ? 'Next hymn ($_nextHymnNumber)'
                 : 'No next hymn',
           ),
+          if (_getRelatedHymns().isNotEmpty)
+            IconButton(
+              icon: const Icon(Icons.translate),
+              onPressed: () {
+                setState(() {
+                  _showLanguageNavigation = !_showLanguageNavigation;
+                });
+              },
+              tooltip: 'Toggle language navigation',
+            ),
           IconButton(
             icon: Icon(
               _showTransposeControls ? Icons.expand_less : Icons.expand_more,
@@ -664,6 +682,51 @@ $deepLink
 
     return Column(
       children: [
+        // Language navigation (collapsible)
+        if (_showLanguageNavigation && _getRelatedHymns().isNotEmpty)
+          Container(
+            width: double.infinity,
+            padding: const EdgeInsets.symmetric(
+              horizontal: 16.0,
+              vertical: 8.0,
+            ),
+            decoration: BoxDecoration(
+              color: Colors.blue[50],
+              border: Border(
+                bottom: BorderSide(color: Colors.blue[100]!, width: 1),
+              ),
+            ),
+            child: Wrap(
+              spacing: 8,
+              runSpacing: 8,
+              children: _getRelatedHymns().map((related) {
+                final bookId = related['category'] as String? ?? '';
+                final number = related['number'] as String? ?? '';
+                final shortName =
+                    _bookShortNames[bookId] ?? bookId.toUpperCase();
+                final displayText = '$shortName$number';
+
+                return ElevatedButton(
+                  onPressed: () => _navigateToRelatedHymn(bookId, number),
+                  style: ElevatedButton.styleFrom(
+                    padding: const EdgeInsets.symmetric(
+                      horizontal: 16,
+                      vertical: 8,
+                    ),
+                    backgroundColor: Colors.blue[100],
+                    foregroundColor: Colors.blue[900],
+                  ),
+                  child: Text(
+                    displayText,
+                    style: const TextStyle(
+                      fontSize: 16,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                );
+              }).toList(),
+            ),
+          ),
         // Transpose controls (collapsible)
         if (_showTransposeControls)
           Container(
@@ -765,6 +828,7 @@ $deepLink
                         showChords: _showChords,
                         hymnIdTag:
                             '${_displayBookShortName(_currentBookId, hymnNumber)}$hymnNumber',
+                        showLanguageIndices: _currentBookId == 'h',
                         onCategoryTap: (category) {
                           Navigator.push(
                             context,
@@ -783,8 +847,6 @@ $deepLink
                             ),
                           );
                         },
-                        onLanguageIndexTap: (category, number) =>
-                            _navigateToRelatedHymn(category, number),
                       );
                     }
 
