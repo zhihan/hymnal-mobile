@@ -55,11 +55,12 @@ class TestIsValidAuthorName:
         assert HymnalCrawler.is_valid_author_name("D. M.") is False
         assert HymnalCrawler.is_valid_author_name("R. H.") is False
         assert HymnalCrawler.is_valid_author_name("M. D. F.") is False
-
-    def test_initials_with_surname_rejected(self):
-        """Test that names with initials and only one real word are rejected."""
-        assert HymnalCrawler.is_valid_author_name("F. H. Allen") is False
         assert HymnalCrawler.is_valid_author_name("S. T. P.") is False
+
+    def test_initials_with_surname_accepted(self):
+        """Test that initials with a surname are accepted (common hymnal format)."""
+        assert HymnalCrawler.is_valid_author_name("F. H. Allen") is True
+        assert HymnalCrawler.is_valid_author_name("J. F. Garland") is True
 
     def test_generic_terms_rejected(self):
         """Test that generic terms are rejected."""
