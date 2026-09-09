@@ -36,7 +36,6 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   bool _showChords = true; // Show chords by default
   int? _nextHymnNumber;
   int? _previousHymnNumber;
-  bool _showLanguageNavigation = false;
 
   // Version switching
   int _currentVersionIndex = 0; // 0 = primary, 1+ = alternate versions
@@ -254,105 +253,6 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     setState(() {
       _transposeOffset = 0;
     });
-  }
-
-  List<Map<String, dynamic>> _getRelatedHymns() {
-    if (_currentHymn?.metadata == null) return [];
-    final related = _currentHymn!.metadata!['related'];
-    if (related == null || related is! List) return [];
-    return List<Map<String, dynamic>>.from(related);
-  }
-
-  /// All language index tags from the hymn page (e.g. Chinese C1, Burmese B1).
-  /// Unlinked tags (url == null) mean that language version has no page yet.
-  List<Map<String, dynamic>> _getLanguageIndices() {
-    if (_currentHymn?.metadata == null) return [];
-    final indices = _currentHymn!.metadata!['language_indices'];
-    if (indices == null || indices is! List) return [];
-    return List<Map<String, dynamic>>.from(indices);
-  }
-
-  bool get _hasLanguageSection =>
-      _getRelatedHymns().isNotEmpty || _getLanguageIndices().isNotEmpty;
-
-  /// Hymnal.net categories whose hymns can be opened in the app.
-  static const Set<String> _navigableBooks = {'h', 'ch', 'ts', 'ns', 'nt', 'lb'};
-
-  /// Parse a hymnal.net hymn URL like /en/hymn/ch/1 into [category, number].
-  List<String>? _parseHymnUrl(String url) {
-    final match = RegExp(r'^/(en|cn)/hymn/([a-z]+)/(\d+)$').firstMatch(url);
-    if (match == null) return null;
-    return [match.group(2)!, match.group(3)!];
-  }
-
-  List<Widget> _buildLanguageIndexChips() {
-    final indices = _getLanguageIndices();
-    if (indices.isNotEmpty) {
-      return indices.map((index) {
-        final language = index['language'] as String? ?? '';
-        final number = index['number'] as String? ?? '';
-        final url = index['url'] as String? ?? '';
-
-        final nav = _parseHymnUrl(url);
-        final target =
-            (nav != null && _navigableBooks.contains(nav[0])) ? nav : null;
-
-        final label = Text(
-          number,
-          style: const TextStyle(
-            fontSize: 16,
-            fontWeight: FontWeight.bold,
-          ),
-        );
-
-        return Tooltip(
-          message: language,
-          child: target != null
-              ? ElevatedButton(
-                  onPressed: () => _navigateToRelatedHymn(target[0], target[1]),
-                  style: ElevatedButton.styleFrom(
-                    padding: const EdgeInsets.symmetric(
-                      horizontal: 16,
-                      vertical: 8,
-                    ),
-                    backgroundColor: Colors.blue[100],
-                    foregroundColor: Colors.blue[900],
-                  ),
-                  child: label,
-                )
-              : Chip(
-                  label: label,
-                  backgroundColor: Colors.grey[200],
-                ),
-        );
-      }).toList();
-    }
-    // Fallback for databases built before language_indices existed.
-    return _getRelatedHymns().map((related) {
-      final bookId = related['category'] as String? ?? '';
-      final number = related['number'] as String? ?? '';
-      final shortName = _bookShortNames[bookId] ?? bookId.toUpperCase();
-      final displayText = '$shortName$number';
-
-      return ElevatedButton(
-        onPressed: () => _navigateToRelatedHymn(bookId, number),
-        style: ElevatedButton.styleFrom(
-          padding: const EdgeInsets.symmetric(
-            horizontal: 16,
-            vertical: 8,
-          ),
-          backgroundColor: Colors.blue[100],
-          foregroundColor: Colors.blue[900],
-        ),
-        child: Text(
-          displayText,
-          style: const TextStyle(
-            fontSize: 16,
-            fontWeight: FontWeight.bold,
-          ),
-        ),
-      );
-    }).toList();
   }
 
   Future<void> _navigateToRelatedHymn(String bookId, String number) async {
@@ -704,16 +604,6 @@ $deepLink
                 ? 'Next hymn ($_nextHymnNumber)'
                 : 'No next hymn',
           ),
-          if (_hasLanguageSection)
-            IconButton(
-              icon: const Icon(Icons.translate),
-              onPressed: () {
-                setState(() {
-                  _showLanguageNavigation = !_showLanguageNavigation;
-                });
-              },
-              tooltip: 'Toggle language navigation',
-            ),
           IconButton(
             icon: Icon(
               _showTransposeControls ? Icons.expand_less : Icons.expand_more,
@@ -774,26 +664,6 @@ $deepLink
 
     return Column(
       children: [
-        // Language indices (collapsible, hidden by default)
-        if (_showLanguageNavigation && _hasLanguageSection)
-          Container(
-            width: double.infinity,
-            padding: const EdgeInsets.symmetric(
-              horizontal: 16.0,
-              vertical: 8.0,
-            ),
-            decoration: BoxDecoration(
-              color: Colors.blue[50],
-              border: Border(
-                bottom: BorderSide(color: Colors.blue[100]!, width: 1),
-              ),
-            ),
-            child: Wrap(
-              spacing: 8,
-              runSpacing: 8,
-              children: _buildLanguageIndexChips(),
-            ),
-          ),
         // Transpose controls (collapsible)
         if (_showTransposeControls)
           Container(
@@ -913,6 +783,8 @@ $deepLink
                             ),
                           );
                         },
+                        onLanguageIndexTap: (category, number) =>
+                            _navigateToRelatedHymn(category, number),
                       );
                     }
 
