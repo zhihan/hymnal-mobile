@@ -23,3 +23,20 @@ jobs:
 
       - name: Run pytest
         run: python -m pytest crawler/tests/ -q
+
+  flutter-tests:
+    name: Flutter tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+
+      - name: Install dependencies
+        run: flutter pub get
+
+      - name: Run Flutter tests
+        run: flutter test
