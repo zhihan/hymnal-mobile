@@ -404,7 +404,7 @@ class HymnalCrawler:
                                 })
 
                     if line_segments:
-                        # Wrap line segments in object to avoid nested arrays (Firestore compatibility)
+                        # Wrap line segments in object to avoid nested arrays
                         line_obj = {'segments': line_segments}
                         lines.append(line_obj)
                         verse_lines.append(line_obj)
@@ -424,7 +424,7 @@ class HymnalCrawler:
                     text_lines = [line.strip() for line in content.split('\n') if line.strip()]
 
                     for text_line in text_lines:
-                        # Wrap segments in object to avoid nested arrays (Firestore compatibility)
+                        # Wrap segments in object to avoid nested arrays
                         line_obj = {'segments': [{
                             'chord': '',
                             'text': text_line
@@ -482,7 +482,7 @@ class HymnalCrawler:
                             })
 
                 if line_segments:
-                    # Wrap line segments in object to avoid nested arrays (Firestore compatibility)
+                    # Wrap line segments in object to avoid nested arrays
                     lines.append({'segments': line_segments})
                     # Also store as raw text for backward compatibility
                     line_text = ''.join(seg['text'] for seg in line_segments)
@@ -500,7 +500,7 @@ class HymnalCrawler:
                     raw_sections.append(content)
                     for text_line in content.split('\n'):
                         if text_line.strip():
-                            # Wrap segments in object to avoid nested arrays (Firestore compatibility)
+                            # Wrap segments in object to avoid nested arrays
                             lines.append({'segments': [{
                                 'chord': '',
                                 'text': text_line.strip()
