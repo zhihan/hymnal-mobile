@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import '../services/hymn_db_service.dart';
 import '../utils/lyricist_formatter.dart';
 import 'lyricist_detail_screen.dart';

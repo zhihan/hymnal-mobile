@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:provider/provider.dart';
 import 'package:share_plus/share_plus.dart';
 import 'package:go_router/go_router.dart';
@@ -406,9 +406,11 @@ $hymnId - $hymnTitle
 $deepLink
 ''';
 
-    Share.share(
-      shareText,
-      subject: '$shortName$_currentHymnNumber - $hymnTitle',
+    SharePlus.instance.share(
+      ShareParams(
+        text: shareText,
+        subject: '$shortName$_currentHymnNumber - $hymnTitle',
+      ),
     );
   }
 
