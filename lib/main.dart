@@ -12,6 +12,7 @@ import 'services/hymn_db_service.dart';
 import 'services/song_list_share_service.dart';
 import 'services/song_list_service.dart';
 import 'providers/song_list_provider.dart';
+import 'providers/theme_provider.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -19,11 +20,17 @@ void main() async {
   // Initialize the Isar database
   await HymnDbService.initializeDatabase();
 
-  runApp(const HymnalApp());
+  // Load the saved theme before building so the app starts with the right colors
+  final themeProvider = ThemeProvider();
+  await themeProvider.load();
+
+  runApp(HymnalApp(themeProvider: themeProvider));
 }
 
 class HymnalApp extends StatefulWidget {
-  const HymnalApp({super.key});
+  final ThemeProvider themeProvider;
+
+  const HymnalApp({super.key, required this.themeProvider});
 
   @override
   State<HymnalApp> createState() => _HymnalAppState();
@@ -274,18 +281,18 @@ class _HymnalAppState extends State<HymnalApp> {
   Widget build(BuildContext context) {
     return MultiProvider(
       providers: [
+        ChangeNotifierProvider.value(value: widget.themeProvider),
         ChangeNotifierProvider(
           create: (context) => SongListProvider()..loadLists(),
         ),
       ],
-      child: MaterialApp.router(
-        title: 'Hymnal',
-        debugShowCheckedModeBanner: false,
-        theme: ThemeData(
-          colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
-          useMaterial3: true,
+      child: Consumer<ThemeProvider>(
+        builder: (context, themeProvider, _) => MaterialApp.router(
+          title: 'Hymnal',
+          debugShowCheckedModeBanner: false,
+          theme: themeProvider.themeData,
+          routerConfig: _router,
         ),
-        routerConfig: _router,
       ),
     );
   }

@@ -28,7 +28,7 @@ class HymnDisplay extends StatelessWidget {
   /// Language index tags (e.g. Chinese C1, Burmese B1) shown at the bottom.
   /// Display-only: an unlinked tag means that language version has no page
   /// on the website yet.
-  List<Widget> _buildLanguageIndices() {
+  List<Widget> _buildLanguageIndices(BuildContext context) {
     final metadata = hymn.metadata;
     if (metadata == null) return [];
     final indices = metadata['language_indices'];
@@ -44,13 +44,15 @@ class HymnDisplay extends StatelessWidget {
           final tag = Container(
             padding: const EdgeInsets.symmetric(horizontal: 8.0, vertical: 4.0),
             decoration: BoxDecoration(
-              color: const Color(0xFF1565C0), // Dark blue background, matches hymnIdTag
+              color: Theme.of(context)
+                  .colorScheme
+                  .primary, // Theme-colored background, matches hymnIdTag
               borderRadius: BorderRadius.circular(4.0),
             ),
             child: Text(
               m['number'] as String? ?? '',
-              style: const TextStyle(
-                color: Colors.white,
+              style: TextStyle(
+                color: Theme.of(context).colorScheme.onPrimary,
                 fontSize: 14,
                 fontWeight: FontWeight.w500,
               ),
@@ -101,13 +103,15 @@ class HymnDisplay extends StatelessWidget {
                     Container(
                       padding: const EdgeInsets.symmetric(horizontal: 8.0, vertical: 4.0),
                       decoration: BoxDecoration(
-                        color: const Color(0xFF1565C0), // Dark blue background
+                        color: Theme.of(context)
+                            .colorScheme
+                            .primary, // Theme-colored background
                         borderRadius: BorderRadius.circular(4.0),
                       ),
                       child: Text(
                         hymnIdTag!,
-                        style: const TextStyle(
-                          color: Colors.white,
+                        style: TextStyle(
+                          color: Theme.of(context).colorScheme.onPrimary,
                           fontSize: 14,
                           fontWeight: FontWeight.w500,
                         ),
@@ -242,7 +246,7 @@ class HymnDisplay extends StatelessWidget {
               }),
 
               // Language indices at the bottom
-              ..._buildLanguageIndices(),
+              ..._buildLanguageIndices(context),
             ],
           ),
         ),
@@ -400,10 +404,12 @@ class SegmentDisplay extends StatelessWidget {
               child: hasChord
                   ? Text(
                       displayChord,
-                      style: const TextStyle(
+                      style: TextStyle(
                         fontSize: 16,
                         fontWeight: FontWeight.bold,
-                        color: Color(0xFF1976D2), // Blue color for chords
+                        color: Theme.of(context)
+                            .colorScheme
+                            .primary, // Theme color for chords
                         height: 1.0,
                       ),
                     )

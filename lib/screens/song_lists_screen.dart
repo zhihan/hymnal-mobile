@@ -152,7 +152,6 @@ class _SongListsScreenState extends State<SongListsScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Theme.of(context).colorScheme.inversePrimary,
         title: const Text('Song Lists'),
       ),
       body: Consumer<SongListProvider>(

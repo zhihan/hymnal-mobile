@@ -56,7 +56,6 @@ class _LyricistsScreenState extends State<LyricistsScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Theme.of(context).colorScheme.inversePrimary,
         title: const Text('Browse by Author'),
         centerTitle: true,
       ),

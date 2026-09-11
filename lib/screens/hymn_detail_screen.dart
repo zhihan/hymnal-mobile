@@ -6,6 +6,7 @@ import '../models/hymn_song.dart';
 import '../services/hymn_loader_service.dart';
 import '../widgets/hymn_display.dart';
 import '../providers/song_list_provider.dart';
+import '../providers/theme_provider.dart';
 import 'category_detail_screen.dart';
 import 'lyricist_detail_screen.dart';
 import 'guitar_leadsheet_screen.dart';
@@ -556,7 +557,6 @@ $deepLink
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Theme.of(context).colorScheme.inversePrimary,
         leading: IconButton(
           icon: const Icon(Icons.home),
           onPressed: () {
@@ -635,7 +635,15 @@ $deepLink
           ),
         ],
       ),
-      body: _buildBody(),
+      // The hymn reading display always stays paper-white, even in the
+      // dark themes; the AppBar above keeps the selected theme.
+      body: Container(
+        color: Colors.white,
+        child: Theme(
+          data: Provider.of<ThemeProvider>(context, listen: false).lightThemeData,
+          child: _buildBody(),
+        ),
+      ),
     );
   }
 
@@ -691,9 +699,14 @@ $deepLink
               vertical: 8.0,
             ),
             decoration: BoxDecoration(
-              color: Colors.blue[50],
+              color: Theme.of(context)
+                  .colorScheme
+                  .primaryContainer
+                  .withValues(alpha: 0.35),
               border: Border(
-                bottom: BorderSide(color: Colors.blue[100]!, width: 1),
+                bottom: BorderSide(
+                    color: Theme.of(context).colorScheme.outlineVariant,
+                    width: 1),
               ),
             ),
             child: Wrap(
@@ -713,8 +726,10 @@ $deepLink
                       horizontal: 16,
                       vertical: 8,
                     ),
-                    backgroundColor: Colors.blue[100],
-                    foregroundColor: Colors.blue[900],
+                    backgroundColor:
+                        Theme.of(context).colorScheme.secondaryContainer,
+                    foregroundColor:
+                        Theme.of(context).colorScheme.onSecondaryContainer,
                   ),
                   child: Text(
                     displayText,
@@ -896,7 +911,7 @@ $deepLink
                     tooltip: 'Guitar Lead Sheet',
                     style: IconButton.styleFrom(
                       backgroundColor: Theme.of(context).colorScheme.primary,
-                      foregroundColor: Colors.white,
+                      foregroundColor: Theme.of(context).colorScheme.onPrimary,
                     ),
                   ),
                 if (_currentHymn?.melody != null)
@@ -926,7 +941,7 @@ $deepLink
                     tooltip: 'Guitar Tab',
                     style: IconButton.styleFrom(
                       backgroundColor: Theme.of(context).colorScheme.primary,
-                      foregroundColor: Colors.white,
+                      foregroundColor: Theme.of(context).colorScheme.onPrimary,
                     ),
                   ),
                 if (_currentHymn?.hasAlternateVersions ?? false)
@@ -936,7 +951,7 @@ $deepLink
                     label: Text(_sourceLabel(_currentVersionIndex)),
                     style: ElevatedButton.styleFrom(
                       backgroundColor: Theme.of(context).colorScheme.primary,
-                      foregroundColor: Colors.white,
+                      foregroundColor: Theme.of(context).colorScheme.onPrimary,
                     ),
                   ),
               ],

@@ -8,6 +8,7 @@ import 'categories_screen.dart';
 import 'lyricists_screen.dart';
 import '../services/hymn_loader_service.dart';
 import '../providers/song_list_provider.dart';
+import '../providers/theme_provider.dart';
 import '../services/song_list_service.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -93,13 +94,76 @@ class _HomeScreenState extends State<HomeScreen> {
     }
   }
 
+  void _showThemePicker(BuildContext context) {
+    final themeProvider = Provider.of<ThemeProvider>(context, listen: false);
+    showDialog(
+      context: context,
+      builder: (dialogContext) => SimpleDialog(
+        title: const Text('Theme'),
+        children: [
+          Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 24.0),
+            child: Wrap(
+              spacing: 16,
+              runSpacing: 16,
+              children: AppTheme.values.map((appTheme) {
+                final isSelected = themeProvider.theme == appTheme;
+                return Tooltip(
+                  message: appTheme.displayName,
+                  child: Semantics(
+                    label: appTheme.displayName,
+                    selected: isSelected,
+                    button: true,
+                    child: InkWell(
+                      customBorder: const CircleBorder(),
+                      onTap: () async {
+                        await themeProvider.setTheme(appTheme);
+                        if (dialogContext.mounted) {
+                          Navigator.pop(dialogContext);
+                        }
+                      },
+                      child: AnimatedContainer(
+                        duration: const Duration(milliseconds: 150),
+                        width: 44,
+                        height: 44,
+                        decoration: BoxDecoration(
+                          color: appTheme.seedColor,
+                          shape: BoxShape.circle,
+                          border: Border.all(
+                            color: isSelected
+                                ? Theme.of(dialogContext).colorScheme.primary
+                                : Theme.of(dialogContext)
+                                    .colorScheme
+                                    .outlineVariant,
+                            width: isSelected ? 3 : 1,
+                          ),
+                        ),
+                        child: isSelected
+                            ? const Icon(
+                                Icons.check,
+                                color: Colors.white,
+                                size: 22,
+                              )
+                            : null,
+                      ),
+                    ),
+                  ),
+                );
+              }).toList(),
+            ),
+          ),
+          const SizedBox(height: 8),
+        ],
+      ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     final bookDisplayName = _books[_selectedBookId] ?? 'New Songs';
 
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Theme.of(context).colorScheme.inversePrimary,
         title: Text(bookDisplayName),
         centerTitle: true,
         actions: [
@@ -133,6 +197,11 @@ class _HomeScreenState extends State<HomeScreen> {
                 ),
               );
             },
+          ),
+          IconButton(
+            icon: const Icon(Icons.palette),
+            tooltip: 'Theme',
+            onPressed: () => _showThemePicker(context),
           ),
         ],
       ),
@@ -255,10 +324,10 @@ class _HomeScreenState extends State<HomeScreen> {
                 padding: const EdgeInsets.symmetric(horizontal: 16.0),
                 child: Column(
                   children: [
-                    const Icon(
+                    Icon(
                       Icons.music_note,
                       size: 60,
-                      color: Colors.blue,
+                      color: Theme.of(context).colorScheme.primary,
                     ),
                     const SizedBox(height: 16),
                     Text(

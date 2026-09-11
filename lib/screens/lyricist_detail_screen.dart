@@ -61,7 +61,6 @@ class _LyricistDetailScreenState extends State<LyricistDetailScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Theme.of(context).colorScheme.inversePrimary,
         title: Text('Songs by ${widget.lyricistName}'),
         centerTitle: true,
       ),

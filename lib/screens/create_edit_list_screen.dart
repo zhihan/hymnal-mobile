@@ -86,7 +86,6 @@ class _CreateEditListScreenState extends State<CreateEditListScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Theme.of(context).colorScheme.inversePrimary,
         title: Text(isEditing ? 'Rename List' : 'Create List'),
       ),
       body: Form(
