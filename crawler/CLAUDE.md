@@ -89,7 +89,7 @@ crawler/
    - Category from `<a>` elements with href matching `/<lang>/search/all/category/`, where lang is 'en' or 'cn' (excludes links in `div.list-group`)
    - Time from `<a>` elements with href matching `/<lang>/search/all/time/`, where lang is 'en' or 'cn' (excludes links in `div.list-group`)
    - Hymn code from `<a>` elements with href matching `/<lang>/search/all/hymncode/`, where lang is 'en' or 'cn' (excludes links in `div.list-group`)
-   - Guitar leadsheet URL from `div.leadsheet.guitar` containing an `<img>` tag with src attribute
+   - Guitar leadsheet URL from the `data-guitar-url` attribute on `div.leadsheet.guitar`
    - Related hymns from `<a>` elements within `div.hymn-nums` container, matching href pattern `/<lang>/hymn/<category>/number`, where lang is 'en' or 'cn' and category is in `SUPPORTED_CATEGORIES` (excludes links in `div.list-group` and unsupported categories)
    - Fallback parsing:
      - `div.chord-container` for simple lyrics without line structure
@@ -164,7 +164,7 @@ Hymn data dictionary contains:
   - `category` - Extracted from category links
   - `time` - Extracted from time signature links
   - `hymn_code` - Extracted from hymn code links
-  - `guitar_leadsheet_url` - URL to guitar leadsheet SVG image (from `div.leadsheet.guitar img`)
+  - `guitar_leadsheet_url` - URL to guitar leadsheet SVG (from the `data-guitar-url` attribute on `div.leadsheet.guitar`)
   - `related` - Array of related hymn objects (only supported categories from `div.hymn-nums`)
 - `raw_sections` - List of raw text content (for backward compatibility)
 
@@ -276,11 +276,13 @@ crawler = HymnalCrawler(manual_dir="my_custom_edits")
 ## Crawling Scripts
 
 ### crawl_all.py (Master Script)
-The main entry point for crawling all hymns. Executes a 4-phase pipeline:
+The main entry point for crawling all hymns. Executes a 6-phase pipeline:
 1. Crawl Chinese hymns (ch, ts)
 2. Crawl English hymns (lb, nt, h, ns)
-3. Convert Chinese hymns to simplified Chinese
-4. Copy manual edits from `hymns_manual/` to `hymns/`
+3. Crawl songbase.life API → `hymns_songbase/`
+4. Deduplicate & merge songbase into `hymns/`
+5. Convert Chinese hymns to simplified Chinese
+6. Copy manual edits from `hymns_manual/` to `hymns/`
 
 ```bash
 # Full pipeline
@@ -349,15 +351,15 @@ python batch_convert_chinese_hymns.py --dry-run # Preview changes
 
 ## Deploying to Flutter App
 
-After crawling hymns, copy the JSON files to the Flutter app's assets:
+After crawling hymns, copy the JSON files to the Flutter app's `hymns/` directory:
 
 ```bash
 # From the repository root
-cp crawler/hymns/*.json assets/hymns/
+cp crawler/hymns/*.json hymns/
 
 # Or merge manual edits (manual edits take priority)
-cp crawler/hymns/*.json assets/hymns/
-cp crawler/hymns_manual/*.json assets/hymns/
+cp crawler/hymns/*.json hymns/
+cp crawler/hymns_manual/*.json hymns/
 ```
 
-Then rebuild the Flutter app to include the updated hymn data.
+Then rebuild the Flutter app to include the updated hymn data. (`build_hymns.sh` automates the whole pipeline.)

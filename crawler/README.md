@@ -23,8 +23,8 @@ pip install -r requirements.txt
 # Activate the virtual environment
 source venv/bin/activate
 
-# Run the basic example
-python hymnal_crawler.py
+# Run the basic single-hymn example
+python main.py
 
 # Or run the comprehensive examples
 python example_usage.py
@@ -58,69 +58,33 @@ hymns = crawler.crawl_hymn_range('ts', start=846, end=850)
 crawler.save_hymns(hymns, output_dir="hymns")
 ```
 
-### Upload to Google Cloud Firestore
-
-Upload your crawled hymns to Firestore:
-
-```python
-from hymnal_crawler import FirestoreUploader
-
-# Initialize uploader with your Firebase service account key
-uploader = FirestoreUploader(
-    service_account_key_path="path/to/firebase-service-account.json",
-    collection_name="hymns"
-)
-
-# Upload all JSON files from a directory
-results = uploader.upload_hymns_from_directory("hymns")
-print(f"Uploaded {len(results['success'])} hymns")
-
-# Or use batch upload for better performance
-import json
-import glob
-
-hymn_data_list = []
-for json_file in glob.glob("hymns/*.json"):
-    with open(json_file, 'r', encoding='utf-8') as f:
-        hymn_data_list.append(json.load(f))
-
-results = uploader.batch_upload_hymns(hymn_data_list)
-```
-
-**Setup Requirements:**
-1. Create a Firebase project at [Firebase Console](https://console.firebase.google.com/)
-2. Enable Firestore Database
-3. Generate a service account key (Project Settings > Service Accounts)
-4. Save the key as `firebase-service-account.json` (or any name)
-5. Run `python firestore_example.py` for a complete example
-
-See `CLAUDE.md` for detailed Firestore setup instructions.
-
 ### Run the Example
 
 ```bash
-python hymnal_crawler.py
+python main.py
 ```
 
 ## Output
 
-The crawler saves hymns in two formats:
-
-1. **JSON file** (`hymns/hymns.json`) - Contains all hymn data in structured format
-2. **Individual text files** (`hymns/hymn_1.txt`, etc.) - One file per hymn with title, metadata, and chords/lyrics
+The crawler saves one JSON file per hymn, named `<category>_<number>.json`
+(e.g. `h_1.json`, `ts_846.json`, `sb_12345.json`).
 
 ## Process
-1. Fetch all hymns
-2. Fix Chinese characters
-3. Overwrite from the manual edits.
+
+1. Fetch hymn pages from hymnal.net (and songbase.life via API)
+2. Parse lyrics, chords, and metadata into structured JSON
+3. Save to `hymns/` (files in `hymns_manual/` are never overwritten)
 
 ## Hymn Categories
 
-Common category codes:
-- `ts` - Traditional hymns (Chinese)
-- `h` - English hymns
-- `ns` - New songs
-- `c` - Children's songs
+Supported category codes (see `HymnalCrawler.SUPPORTED_CATEGORIES`):
+- `ch` - Chinese Classical Hymns (大本)
+- `ts` - Chinese New Hymns (補充本)
+- `h` - English Hymns
+- `ns` - New Songs
+- `lb` - New Songs (lb variant, English)
+- `nt` - New Tune (English)
+- `sb` - SongBase English songs (from songbase.life)
 
 ## Customization
 

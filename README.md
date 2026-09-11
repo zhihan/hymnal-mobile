@@ -88,6 +88,7 @@ Supported book IDs in the app and crawler:
 - `ns`: New Songs
 - `lb`: New Songs (LB)
 - `nt`: New Tune
+- `sb`: SongBase (English, from songbase.life — uses the songbase song ID as number)
 
 ## Flutter App Setup
 
@@ -191,6 +192,8 @@ The crawler also supports `crawler/hymns_manual/` as a manual override directory
 ### Core Models
 
 - `lib/models/hymn_song.dart`
+- `lib/models/hymn_version.dart`
+- `lib/models/melody.dart`
 - `lib/models/verse.dart`
 - `lib/models/line.dart`
 - `lib/models/segment.dart`
@@ -211,11 +214,13 @@ The crawler also supports `crawler/hymns_manual/` as a manual override directory
 - `lib/screens/search_screen.dart`
 - `lib/screens/song_lists_screen.dart`
 - `lib/screens/song_list_detail_screen.dart`
+- `lib/screens/create_edit_list_screen.dart`
 - `lib/screens/categories_screen.dart`
 - `lib/screens/category_detail_screen.dart`
 - `lib/screens/lyricists_screen.dart`
 - `lib/screens/lyricist_detail_screen.dart`
 - `lib/screens/guitar_leadsheet_screen.dart`
+- `lib/screens/tablature_screen.dart`
 
 ### Providers
 
@@ -233,17 +238,21 @@ The crawler also supports `crawler/hymns_manual/` as a manual override directory
 
 ## Tests
 
-Current Dart tests focus on song-list import and sharing logic:
+Current Dart tests focus on song-list import and sharing logic, plus guitar tablature:
 
 - `test/song_list_share_service_test.dart`
 - `test/song_list_import_test.dart`
+- `test/guitar_fingering_test.dart`
 
-Crawler tests cover HTML parsing and manual-edit protection:
+Crawler tests cover HTML parsing, songbase dedup, MIDI extraction, and manual-edit protection:
 
 - `crawler/tests/test_crawler.py`
+- `crawler/tests/test_songbase_crawler.py`
+- `crawler/tests/test_dedup.py`
+- `crawler/tests/test_extract_midi_notes.py`
 - `crawler/tests/test_manual_edits.py`
 
 ## Known Gaps
 
 - The tracked repo does not include `hymns/`, so the app will not load hymn content until data is generated or copied in.
-- There is still exploratory documentation around prebuilt Isar databases, but the live app currently builds its search database on-device from local hymn JSON.
+- The app builds its Isar search database on-device from the local hymn JSON on first launch.

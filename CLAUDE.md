@@ -189,24 +189,38 @@ hymnal_mobile/
 │   ├── main.dart                   # App entry point with Provider setup
 │   ├── models/                     # Data models
 │   │   ├── hymn_song.dart          # Main hymn display model
+│   │   ├── hymn_version.dart       # Alternate version from another source
 │   │   ├── hymn_db.dart            # Isar database collection model
+│   │   ├── melody.dart             # MIDI melody note data
+│   │   ├── song_list.dart          # Song list model
 │   │   ├── verse.dart, line.dart   # Hymn structure hierarchy
-│   │   └── segment.dart, chord.dart # Chord data
+│   │   └── segment.dart            # Chord/text segment data
 │   ├── services/                   # Business logic layer
 │   │   ├── hymn_loader_service.dart # Asset loading & caching
 │   │   ├── hymn_db_service.dart    # Isar database access
-│   │   └── favorites_service.dart  # Favorites management
+│   │   ├── song_list_service.dart  # Song list persistence
+│   │   └── song_list_share_service.dart # Deep-link import/export
 │   ├── providers/                  # State management
-│   │   └── favorites_provider.dart # Favorites state provider
+│   │   └── song_list_provider.dart # Song list state provider
 │   ├── screens/                    # Full-screen pages
 │   │   ├── home_screen.dart        # Main entry, book & hymn number input
 │   │   ├── hymn_detail_screen.dart # Hymn display with transpose/chords
 │   │   ├── search_screen.dart      # Full-text search
-│   │   └── favorites_screen.dart   # Favorited hymns list
+│   │   ├── song_lists_screen.dart  # Song list overview
+│   │   ├── song_list_detail_screen.dart # Single song list
+│   │   ├── create_edit_list_screen.dart # Create/edit song list
+│   │   ├── categories_screen.dart  # Topical categories
+│   │   ├── category_detail_screen.dart # Hymns in a category
+│   │   ├── lyricists_screen.dart   # Lyricist index
+│   │   ├── lyricist_detail_screen.dart # Hymns by lyricist
+│   │   ├── guitar_leadsheet_screen.dart # Guitar leadsheet web view
+│   │   └── tablature_screen.dart   # Generated guitar tablature
 │   ├── widgets/                    # Reusable UI components
 │   │   └── hymn_display.dart       # Hymn rendering with chords
 │   └── utils/                      # Helper functions
-│       └── chord_transposer.dart   # Chord transposition logic
+│       ├── chord_transposer.dart   # Chord transposition logic
+│       ├── guitar_fingering.dart   # Tablature generation
+│       └── lyricist_formatter.dart # Author name formatting
 ├── hymns/                          # Bundled hymn JSON files (gitignored, copied from crawler)
 ├── build_hymns.sh                  # Full pipeline script: crawl → copy → rebuild
 ├── tool/
@@ -224,7 +238,10 @@ hymnal_mobile/
 │   ├── crawl_hymns.py              # Consolidated hymnal.net crawling module
 │   ├── crawl_songbase.py           # Songbase.life crawling CLI
 │   ├── dedup_hymns.py              # Deduplicate & merge songbase into hymnal data
+│   ├── extract_midi_notes.py       # Extract MIDI melody note data
 │   ├── find_missing_chords.py      # Identify hymns without chords
+│   ├── convert_to_simplified.py    # Convert single hymn to simplified Chinese
+│   ├── batch_convert_chinese_hymns.py # Batch convert Chinese hymns
 │   └── requirements.txt            # Python dependencies
 └── test/                           # Flutter tests
 ```
@@ -384,7 +401,8 @@ Key packages in `pubspec.yaml`:
 - `provider: ^6.1.2`: State management for favorites
 - `isar: ^3.1.0+1`: Local database for search functionality
 - `isar_flutter_libs: ^3.1.0+1`: Isar platform bindings
-- `shared_preferences: ^2.3.3`: Simple key-value storage for favorites
+- `shared_preferences: ^2.3.3`: Simple key-value storage for song lists
+- `share_plus: ^10.1.2`: Share sheet for hymn/song-list deep links
 - `path_provider: ^2.1.4`: File system access for database
 - `build_runner: ^2.4.13`: Code generation
 - `isar_generator: ^3.1.0+1`: Isar schema generation
@@ -397,6 +415,6 @@ Key packages in `pubspec.yaml`:
 
 **Navigation errors**: Always use `bookId` (not `category`) when navigating to hymns. The `category` field is descriptive metadata, while `bookId` identifies the hymnal book ("ts", "ch", "h", "ns").
 
-**Favorites not persisting**: Favorites are stored in SharedPreferences with key `'favorite_hymns'` as a list of hymnIds. Check that SharedPreferences is working correctly on the target platform.
+**Song lists not persisting**: Song lists are stored in SharedPreferences under the key `'song_lists'` (older installs migrate from the legacy `'favorite_hymns'` key). Check that SharedPreferences is working correctly on the target platform.
 
 **Share sheet not appearing on iOS**: When calling `Share.share()` from `share_plus`, always `await` the call and pass `sharePositionOrigin` (derived from the calling widget's `RenderBox`). Without `sharePositionOrigin`, iOS — especially iPad — silently fails to present the share sheet. Without `await`, errors from the plugin are swallowed instead of reaching the surrounding `try/catch`.

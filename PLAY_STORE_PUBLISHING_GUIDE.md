@@ -51,10 +51,10 @@ storeFile=/Users/YOUR_USERNAME/hymns-mobile-upload-keystore.jks
 Edit `pubspec.yaml` to update the version number:
 
 ```yaml
-version: 1.1.0+2  # Format: MAJOR.MINOR.PATCH+BUILD_NUMBER
+version: 1.5.0+15  # Format: MAJOR.MINOR.PATCH+BUILD_NUMBER
 ```
 
-- The first part (1.1.0) is the version name shown to users
+- The first part (1.5.0) is the version name shown to users
 - The number after + is the version code (must increase with each release)
 
 ## Step 3: Build the Release Bundle
@@ -242,7 +242,7 @@ When you need to release an update:
 
 1. Increment the version in `pubspec.yaml`:
    ```yaml
-   version: 1.1.1+3  # Increment version name and code
+   version: 1.5.1+16  # Increment version name and code
    ```
 
 2. Rebuild:

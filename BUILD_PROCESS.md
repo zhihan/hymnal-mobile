@@ -118,7 +118,7 @@ hymnal_mobile/
 │   │   └── hymn_db.dart              # Isar database model
 │   ├── services/
 │   │   ├── hymn_db_service.dart      # Database service
-│   │   └── db_builder.dart           # Optional: manual DB builder
+│   │   └── hymn_loader_service.dart  # Asset loading & caching
 │   └── screens/
 │       └── search_screen.dart        # Search UI
 └── tool/
