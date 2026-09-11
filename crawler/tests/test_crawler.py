@@ -474,6 +474,55 @@ class TestParseHymnPage:
 
         assert 'guitar_leadsheet_url' not in result['metadata']
 
+    def test_parse_language_indices_all_tags(self):
+        """Test extracting all language index tags, including unlinked ones."""
+        html = """
+        <html>
+            <body>
+                <h2>Glory be to God the Father</h2>
+                <div class="line">
+                    <div class="chord-text"><span class="chord">C</span>Lyrics</div>
+                </div>
+                <div class="text-center hymn-nums">
+                    <span class="label label-default" title="Burmese">B1</span>
+                    <a class="label label-primary" title="Chinese" href="/en/hymn/ch/1">C1</a>
+                    <span class="label label-default" title="English">E1</span>
+                    <a class="label label-primary" title="French" href="/en/hymn/hf/216">F216</a>
+                </div>
+            </body>
+        </html>
+        """
+        crawler = HymnalCrawler()
+        result = crawler.parse_hymn_page(html, "https://www.hymnal.net/en/hymn/h/1")
+
+        indices = result['metadata']['language_indices']
+        assert indices == [
+            {'language': 'Burmese', 'number': 'B1', 'url': None},
+            {'language': 'Chinese', 'number': 'C1', 'url': '/en/hymn/ch/1'},
+            {'language': 'English', 'number': 'E1', 'url': None},
+            {'language': 'French', 'number': 'F216', 'url': '/en/hymn/hf/216'},
+        ]
+
+    def test_parse_language_indices_absent(self):
+        """Test that no language indices are set when the markup is absent."""
+        html = """
+        <html>
+            <body>
+                <h2>Glory be to God the Father</h2>
+                <div class="hymn-nums">
+                    <a href="/en/hymn/h/1">E1</a>
+                </div>
+                <div class="line">
+                    <div class="chord-text"><span class="chord">C</span>Lyrics</div>
+                </div>
+            </body>
+        </html>
+        """
+        crawler = HymnalCrawler()
+        result = crawler.parse_hymn_page(html, "https://www.hymnal.net/en/hymn/h/1")
+
+        assert 'language_indices' not in result['metadata']
+
 
 class TestFetchHymn:
     """Test fetch_hymn method."""

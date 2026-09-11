@@ -25,6 +25,46 @@ class HymnDisplay extends StatelessWidget {
     this.onLyricistTap,
   });
 
+  /// Language index tags (e.g. Chinese C1, Burmese B1) shown at the bottom.
+  /// Display-only: an unlinked tag means that language version has no page
+  /// on the website yet.
+  List<Widget> _buildLanguageIndices() {
+    final metadata = hymn.metadata;
+    if (metadata == null) return [];
+    final indices = metadata['language_indices'];
+    if (indices is! List || indices.isEmpty) return [];
+
+    return [
+      const SizedBox(height: 24),
+      Wrap(
+        spacing: 8,
+        runSpacing: 8,
+        children: indices.map((item) {
+          final m = Map<String, dynamic>.from(item as Map);
+          final tag = Container(
+            padding: const EdgeInsets.symmetric(horizontal: 8.0, vertical: 4.0),
+            decoration: BoxDecoration(
+              color: const Color(0xFF1565C0), // Dark blue background, matches hymnIdTag
+              borderRadius: BorderRadius.circular(4.0),
+            ),
+            child: Text(
+              m['number'] as String? ?? '',
+              style: const TextStyle(
+                color: Colors.white,
+                fontSize: 14,
+                fontWeight: FontWeight.w500,
+              ),
+            ),
+          );
+          final language = m['language'] as String? ?? '';
+          return language.isNotEmpty
+              ? Tooltip(message: language, child: tag)
+              : tag;
+        }).toList(),
+      ),
+    ];
+  }
+
   @override
   Widget build(BuildContext context) {
     final screenWidth = MediaQuery.of(context).size.width;
@@ -200,6 +240,9 @@ class HymnDisplay extends StatelessWidget {
 
                 return widgets;
               }),
+
+              // Language indices at the bottom
+              ..._buildLanguageIndices(),
             ],
           ),
         ),
