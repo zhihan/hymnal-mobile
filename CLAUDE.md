@@ -131,9 +131,6 @@ python dedup_hymns.py
 
 # Find hymns missing chords (copies to hymns_manual/ for editing)
 python find_missing_chords.py
-
-# Refetch all existing hymns with updated structure
-python refetch_all.py
 ```
 
 **Crawler Output**: JSON files are saved to `crawler/hymns/`. These need to be copied to `hymns/` (project root) for the Flutter app to bundle them. The `build_hymns.sh` script handles this automatically.

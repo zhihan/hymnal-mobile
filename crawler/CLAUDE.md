@@ -65,7 +65,6 @@ crawler/
 ├── example_usage.py             # Comprehensive usage examples
 ├── crawl_all.py                # Master script: crawl all, convert, apply manual edits
 ├── crawl_hymns.py              # Consolidated crawling module for any category
-├── refetch_all.py              # Refetch all existing hymns
 ├── find_missing_chords.py      # Identify hymns without chords
 ├── convert_to_simplified.py    # Convert single hymn to simplified Chinese
 ├── batch_convert_chinese_hymns.py  # Batch convert Chinese hymns
@@ -346,13 +345,6 @@ Batch converts all ch and ts hymns to simplified Chinese. Supports `--dry-run` f
 ```bash
 python batch_convert_chinese_hymns.py          # Convert all
 python batch_convert_chinese_hymns.py --dry-run # Preview changes
-```
-
-### refetch_all.py
-Refetches all existing hymns with updated parsing logic. Useful after making changes to the crawler.
-
-```bash
-python refetch_all.py
 ```
 
 ## Deploying to Flutter App
