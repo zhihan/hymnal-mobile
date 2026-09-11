@@ -691,9 +691,14 @@ $deepLink
               vertical: 8.0,
             ),
             decoration: BoxDecoration(
-              color: Colors.blue[50],
+              color: Theme.of(context)
+                  .colorScheme
+                  .primaryContainer
+                  .withValues(alpha: 0.35),
               border: Border(
-                bottom: BorderSide(color: Colors.blue[100]!, width: 1),
+                bottom: BorderSide(
+                    color: Theme.of(context).colorScheme.outlineVariant,
+                    width: 1),
               ),
             ),
             child: Wrap(
@@ -713,8 +718,10 @@ $deepLink
                       horizontal: 16,
                       vertical: 8,
                     ),
-                    backgroundColor: Colors.blue[100],
-                    foregroundColor: Colors.blue[900],
+                    backgroundColor:
+                        Theme.of(context).colorScheme.secondaryContainer,
+                    foregroundColor:
+                        Theme.of(context).colorScheme.onSecondaryContainer,
                   ),
                   child: Text(
                     displayText,

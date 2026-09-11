@@ -8,6 +8,7 @@ import 'categories_screen.dart';
 import 'lyricists_screen.dart';
 import '../services/hymn_loader_service.dart';
 import '../providers/song_list_provider.dart';
+import '../providers/theme_provider.dart';
 import '../services/song_list_service.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -93,6 +94,47 @@ class _HomeScreenState extends State<HomeScreen> {
     }
   }
 
+  void _showThemePicker(BuildContext context) {
+    final themeProvider = Provider.of<ThemeProvider>(context, listen: false);
+    showDialog(
+      context: context,
+      builder: (dialogContext) => SimpleDialog(
+        title: const Text('Theme'),
+        children: AppTheme.values.map((appTheme) {
+          final isSelected = themeProvider.theme == appTheme;
+          return SimpleDialogOption(
+            onPressed: () async {
+              await themeProvider.setTheme(appTheme);
+              if (dialogContext.mounted) Navigator.pop(dialogContext);
+            },
+            child: Row(
+              children: [
+                Container(
+                  width: 24,
+                  height: 24,
+                  decoration: BoxDecoration(
+                    color: appTheme.seedColor,
+                    shape: BoxShape.circle,
+                    border: Border.all(
+                      color: Theme.of(context).colorScheme.outlineVariant,
+                    ),
+                  ),
+                ),
+                const SizedBox(width: 16),
+                Expanded(child: Text(appTheme.displayName)),
+                if (isSelected)
+                  Icon(
+                    Icons.check,
+                    color: Theme.of(context).colorScheme.primary,
+                  ),
+              ],
+            ),
+          );
+        }).toList(),
+      ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     final bookDisplayName = _books[_selectedBookId] ?? 'New Songs';
@@ -133,6 +175,11 @@ class _HomeScreenState extends State<HomeScreen> {
                 ),
               );
             },
+          ),
+          IconButton(
+            icon: const Icon(Icons.palette),
+            tooltip: 'Theme',
+            onPressed: () => _showThemePicker(context),
           ),
         ],
       ),
@@ -255,10 +302,10 @@ class _HomeScreenState extends State<HomeScreen> {
                 padding: const EdgeInsets.symmetric(horizontal: 16.0),
                 child: Column(
                   children: [
-                    const Icon(
+                    Icon(
                       Icons.music_note,
                       size: 60,
-                      color: Colors.blue,
+                      color: Theme.of(context).colorScheme.primary,
                     ),
                     const SizedBox(height: 16),
                     Text(
