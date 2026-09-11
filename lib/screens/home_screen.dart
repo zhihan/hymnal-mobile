@@ -100,37 +100,60 @@ class _HomeScreenState extends State<HomeScreen> {
       context: context,
       builder: (dialogContext) => SimpleDialog(
         title: const Text('Theme'),
-        children: AppTheme.values.map((appTheme) {
-          final isSelected = themeProvider.theme == appTheme;
-          return SimpleDialogOption(
-            onPressed: () async {
-              await themeProvider.setTheme(appTheme);
-              if (dialogContext.mounted) Navigator.pop(dialogContext);
-            },
-            child: Row(
-              children: [
-                Container(
-                  width: 24,
-                  height: 24,
-                  decoration: BoxDecoration(
-                    color: appTheme.seedColor,
-                    shape: BoxShape.circle,
-                    border: Border.all(
-                      color: Theme.of(context).colorScheme.outlineVariant,
+        children: [
+          Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 24.0),
+            child: Wrap(
+              spacing: 16,
+              runSpacing: 16,
+              children: AppTheme.values.map((appTheme) {
+                final isSelected = themeProvider.theme == appTheme;
+                return Tooltip(
+                  message: appTheme.displayName,
+                  child: Semantics(
+                    label: appTheme.displayName,
+                    selected: isSelected,
+                    button: true,
+                    child: InkWell(
+                      customBorder: const CircleBorder(),
+                      onTap: () async {
+                        await themeProvider.setTheme(appTheme);
+                        if (dialogContext.mounted) {
+                          Navigator.pop(dialogContext);
+                        }
+                      },
+                      child: AnimatedContainer(
+                        duration: const Duration(milliseconds: 150),
+                        width: 44,
+                        height: 44,
+                        decoration: BoxDecoration(
+                          color: appTheme.seedColor,
+                          shape: BoxShape.circle,
+                          border: Border.all(
+                            color: isSelected
+                                ? Theme.of(dialogContext).colorScheme.primary
+                                : Theme.of(dialogContext)
+                                    .colorScheme
+                                    .outlineVariant,
+                            width: isSelected ? 3 : 1,
+                          ),
+                        ),
+                        child: isSelected
+                            ? const Icon(
+                                Icons.check,
+                                color: Colors.white,
+                                size: 22,
+                              )
+                            : null,
+                      ),
                     ),
                   ),
-                ),
-                const SizedBox(width: 16),
-                Expanded(child: Text(appTheme.displayName)),
-                if (isSelected)
-                  Icon(
-                    Icons.check,
-                    color: Theme.of(context).colorScheme.primary,
-                  ),
-              ],
+                );
+              }).toList(),
             ),
-          );
-        }).toList(),
+          ),
+          const SizedBox(height: 8),
+        ],
       ),
     );
   }

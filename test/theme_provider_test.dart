@@ -70,6 +70,40 @@ void main() {
     }
   });
 
+  test('lightThemeData background/surface stay fixed across themes', () async {
+    SharedPreferences.setMockInitialValues({});
+    final provider = ThemeProvider();
+    await provider.load();
+
+    final reference = ColorScheme.fromSeed(seedColor: AppTheme.blue.seedColor);
+
+    for (final t in AppTheme.values) {
+      await provider.setTheme(t);
+      final scheme = provider.lightThemeData.colorScheme;
+      expect(scheme.surface, equals(reference.surface), reason: t.displayName);
+      expect(
+        scheme.surfaceContainerHighest,
+        equals(reference.surfaceContainerHighest),
+        reason: t.displayName,
+      );
+      expect(scheme.outline, equals(reference.outline), reason: t.displayName);
+    }
+  });
+
+  test('lightThemeData accents still follow the selected theme', () async {
+    SharedPreferences.setMockInitialValues({});
+    final provider = ThemeProvider();
+    await provider.load();
+
+    final primaries = <Color>{};
+    for (final t in AppTheme.values) {
+      await provider.setTheme(t);
+      primaries.add(provider.lightThemeData.colorScheme.primary);
+    }
+    // Every theme should produce a distinct accent color for tags/chords.
+    expect(primaries.length, equals(AppTheme.values.length));
+  });
+
   test('banner wears the clothing color; blue keeps its light banner', () {
     // Blue keeps the exact current light-blue banner with dark text.
     expect(

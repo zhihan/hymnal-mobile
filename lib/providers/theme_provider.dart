@@ -14,7 +14,7 @@ enum AppTheme {
   black('Black', Color(0xFF212121)),
   burgundy('Burgundy', Color(0xFF7A1F2B)),
   green('Green', Color(0xFF2E6B34)),
-  brown('Brown', Color(0xFF5D4037));
+  brown('Brown', Color(0xFF7A5C1F));
 
   const AppTheme(this.displayName, this.seedColor);
 
@@ -58,9 +58,27 @@ class ThemeProvider extends ChangeNotifier {
     );
   }
 
-  /// Always-light variant of the theme, used for the hymn reading display
-  /// which stays paper-white regardless of the selected theme.
-  ThemeData get lightThemeData => themeData;
+  /// Always-light variant of the theme, used for the hymn reading display.
+  /// The background/surface tokens come from a fixed neutral seed so the
+  /// paper stays the same regardless of the selected theme; only the accent
+  /// tokens (primary/onPrimary, primaryContainer/onPrimaryContainer) come
+  /// from the selected theme's seed, so tags, chords, and the language-nav
+  /// band still follow the theme.
+  ThemeData get lightThemeData {
+    final neutral = ColorScheme.fromSeed(seedColor: AppTheme.blue.seedColor);
+    final accent = ColorScheme.fromSeed(seedColor: _theme.seedColor);
+    final primary =
+        _theme == AppTheme.black ? _theme.seedColor : accent.primary;
+    return ThemeData(
+      colorScheme: neutral.copyWith(
+        primary: primary,
+        onPrimary: accent.onPrimary,
+        primaryContainer: accent.primaryContainer,
+        onPrimaryContainer: accent.onPrimaryContainer,
+      ),
+      useMaterial3: true,
+    );
+  }
 
   /// Loads the saved theme. Defaults to [AppTheme.blue] when nothing is saved.
   Future<void> load() async {
