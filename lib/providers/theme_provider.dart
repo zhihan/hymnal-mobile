@@ -2,21 +2,34 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 /// The available app color themes. Each theme drives the Material 3
-/// color scheme via [AppTheme.seedColor] and [AppTheme.brightness], so the
-/// banner, background, tags, buttons, and other accents all follow the
-/// selected theme.
+/// color scheme via [AppTheme.seedColor], so the tags, buttons, chords,
+/// and other accents all follow the selected theme.
+///
+/// All themes are light mode for now; a separate dark mode will come later.
+/// The banner ("app bar") wears the theme's clothing color via [bannerColor]:
+/// blue keeps its current light-blue banner, while the dark clothing colors
+/// get genuinely dark banners (a generated M3 scheme would wash them out).
 enum AppTheme {
-  blue('Blue', Colors.blue, Brightness.light),
-  black('Black', Color(0xFF212121), Brightness.dark),
-  burgundy('Burgundy', Color(0xFF7A1F2B), Brightness.dark),
-  green('Green', Color(0xFF2E6B34), Brightness.dark),
-  brown('Brown', Color(0xFF5D4037), Brightness.dark);
+  blue('Blue', Colors.blue),
+  black('Black', Color(0xFF212121)),
+  burgundy('Burgundy', Color(0xFF7A1F2B)),
+  green('Green', Color(0xFF2E6B34)),
+  brown('Brown', Color(0xFF5D4037));
 
-  const AppTheme(this.displayName, this.seedColor, this.brightness);
+  const AppTheme(this.displayName, this.seedColor);
 
   final String displayName;
   final Color seedColor;
-  final Brightness brightness;
+
+  /// Banner background: blue keeps its current light-blue look, the dark
+  /// clothing colors wear the color itself.
+  Color get bannerColor => this == AppTheme.blue
+      ? ColorScheme.fromSeed(seedColor: seedColor).inversePrimary
+      : seedColor;
+
+  /// Banner foreground (title/icons) contrasting with [bannerColor].
+  Color get onBannerColor =>
+      this == AppTheme.blue ? const Color(0xFF1A1C1E) : Colors.white;
 }
 
 /// Holds the user's selected [AppTheme], persists it to SharedPreferences,
@@ -28,20 +41,26 @@ class ThemeProvider extends ChangeNotifier {
 
   AppTheme get theme => _theme;
 
-  ThemeData get themeData => ThemeData(
-        colorScheme: ColorScheme.fromSeed(
-          seedColor: _theme.seedColor,
-          brightness: _theme.brightness,
-        ),
-        useMaterial3: true,
-      );
+  ThemeData get themeData {
+    var scheme = ColorScheme.fromSeed(seedColor: _theme.seedColor);
+    if (_theme == AppTheme.black) {
+      // A generated scheme turns a near-black seed into grey accents;
+      // pin primary to the clothing color so the black theme reads as black.
+      scheme = scheme.copyWith(primary: _theme.seedColor);
+    }
+    return ThemeData(
+      colorScheme: scheme,
+      appBarTheme: AppBarTheme(
+        backgroundColor: _theme.bannerColor,
+        foregroundColor: _theme.onBannerColor,
+      ),
+      useMaterial3: true,
+    );
+  }
 
   /// Always-light variant of the theme, used for the hymn reading display
   /// which stays paper-white regardless of the selected theme.
-  ThemeData get lightThemeData => ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: _theme.seedColor),
-        useMaterial3: true,
-      );
+  ThemeData get lightThemeData => themeData;
 
   /// Loads the saved theme. Defaults to [AppTheme.blue] when nothing is saved.
   Future<void> load() async {

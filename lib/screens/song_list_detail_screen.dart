@@ -138,7 +138,6 @@ class _SongListDetailScreenState extends State<SongListDetailScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Theme.of(context).colorScheme.inversePrimary,
         title: Consumer<SongListProvider>(
           builder: (context, provider, child) {
             final list = provider.getListById(widget.listId);

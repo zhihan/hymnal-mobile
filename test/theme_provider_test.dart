@@ -51,33 +51,56 @@ void main() {
     expect(seeds.length, equals(AppTheme.values.length));
   });
 
-  test('dark clothing colors use dark brightness, blue stays light', () {
-    expect(AppTheme.blue.brightness, equals(Brightness.light));
-    for (final t in [AppTheme.black, AppTheme.burgundy, AppTheme.green, AppTheme.brown]) {
-      expect(t.brightness, equals(Brightness.dark), reason: t.displayName);
-    }
-
+  test('all themes are light mode for now', () async {
+    SharedPreferences.setMockInitialValues({});
     final provider = ThemeProvider();
-    expect(provider.themeData.colorScheme.brightness, equals(Brightness.light));
+    await provider.load();
+    for (final t in AppTheme.values) {
+      await provider.setTheme(t);
+      expect(
+        provider.themeData.colorScheme.brightness,
+        equals(Brightness.light),
+        reason: t.displayName,
+      );
+      expect(
+        provider.lightThemeData.colorScheme.brightness,
+        equals(Brightness.light),
+        reason: t.displayName,
+      );
+    }
   });
 
-  test('lightThemeData is always light, even for dark themes', () async {
+  test('banner wears the clothing color; blue keeps its light banner', () {
+    // Blue keeps the exact current light-blue banner with dark text.
+    expect(
+      AppTheme.blue.bannerColor,
+      equals(
+        ColorScheme.fromSeed(seedColor: Colors.blue).inversePrimary,
+      ),
+    );
+    expect(AppTheme.blue.onBannerColor, equals(const Color(0xFF1A1C1E)));
+
+    // Dark clothing colors get genuinely dark banners with white text.
+    for (final t in [
+      AppTheme.black,
+      AppTheme.burgundy,
+      AppTheme.green,
+      AppTheme.brown,
+    ]) {
+      expect(t.bannerColor, equals(t.seedColor), reason: t.displayName);
+      expect(t.onBannerColor, equals(Colors.white), reason: t.displayName);
+    }
+  });
+
+  test('black theme primary is pinned to the clothing color', () async {
     SharedPreferences.setMockInitialValues({});
     final provider = ThemeProvider();
     await provider.load();
     await provider.setTheme(AppTheme.black);
-    expect(provider.themeData.colorScheme.brightness, equals(Brightness.dark));
+    // A generated scheme would wash the near-black seed out to grey.
     expect(
-      provider.lightThemeData.colorScheme.brightness,
-      equals(Brightness.light),
-    );
-    // Same seed color drives both variants
-    expect(
-      provider.lightThemeData.colorScheme.primary,
-      equals(
-        ColorScheme.fromSeed(seedColor: AppTheme.black.seedColor)
-            .primary,
-      ),
+      provider.themeData.colorScheme.primary,
+      equals(AppTheme.black.seedColor),
     );
   });
 }
