@@ -165,7 +165,6 @@ python crawl_hymns.py nt
 Other crawler utilities:
 
 ```bash
-python refetch_all.py
 python find_missing_chords.py
 python batch_convert_chinese_hymns.py
 ```
