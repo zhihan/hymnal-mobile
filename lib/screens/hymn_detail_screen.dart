@@ -6,6 +6,7 @@ import '../models/hymn_song.dart';
 import '../services/hymn_loader_service.dart';
 import '../widgets/hymn_display.dart';
 import '../providers/song_list_provider.dart';
+import '../providers/theme_provider.dart';
 import 'category_detail_screen.dart';
 import 'lyricist_detail_screen.dart';
 import 'guitar_leadsheet_screen.dart';
@@ -635,7 +636,15 @@ $deepLink
           ),
         ],
       ),
-      body: _buildBody(),
+      // The hymn reading display always stays paper-white, even in the
+      // dark themes; the AppBar above keeps the selected theme.
+      body: Container(
+        color: Colors.white,
+        child: Theme(
+          data: Provider.of<ThemeProvider>(context, listen: false).lightThemeData,
+          child: _buildBody(),
+        ),
+      ),
     );
   }
 

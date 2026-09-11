@@ -36,6 +36,13 @@ class ThemeProvider extends ChangeNotifier {
         useMaterial3: true,
       );
 
+  /// Always-light variant of the theme, used for the hymn reading display
+  /// which stays paper-white regardless of the selected theme.
+  ThemeData get lightThemeData => ThemeData(
+        colorScheme: ColorScheme.fromSeed(seedColor: _theme.seedColor),
+        useMaterial3: true,
+      );
+
   /// Loads the saved theme. Defaults to [AppTheme.blue] when nothing is saved.
   Future<void> load() async {
     final prefs = await SharedPreferences.getInstance();

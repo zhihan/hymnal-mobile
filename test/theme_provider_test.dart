@@ -60,4 +60,24 @@ void main() {
     final provider = ThemeProvider();
     expect(provider.themeData.colorScheme.brightness, equals(Brightness.light));
   });
+
+  test('lightThemeData is always light, even for dark themes', () async {
+    SharedPreferences.setMockInitialValues({});
+    final provider = ThemeProvider();
+    await provider.load();
+    await provider.setTheme(AppTheme.black);
+    expect(provider.themeData.colorScheme.brightness, equals(Brightness.dark));
+    expect(
+      provider.lightThemeData.colorScheme.brightness,
+      equals(Brightness.light),
+    );
+    // Same seed color drives both variants
+    expect(
+      provider.lightThemeData.colorScheme.primary,
+      equals(
+        ColorScheme.fromSeed(seedColor: AppTheme.black.seedColor)
+            .primary,
+      ),
+    );
+  });
 }
