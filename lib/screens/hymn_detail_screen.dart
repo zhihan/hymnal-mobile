@@ -903,7 +903,7 @@ $deepLink
                     tooltip: 'Guitar Lead Sheet',
                     style: IconButton.styleFrom(
                       backgroundColor: Theme.of(context).colorScheme.primary,
-                      foregroundColor: Colors.white,
+                      foregroundColor: Theme.of(context).colorScheme.onPrimary,
                     ),
                   ),
                 if (_currentHymn?.melody != null)
@@ -933,7 +933,7 @@ $deepLink
                     tooltip: 'Guitar Tab',
                     style: IconButton.styleFrom(
                       backgroundColor: Theme.of(context).colorScheme.primary,
-                      foregroundColor: Colors.white,
+                      foregroundColor: Theme.of(context).colorScheme.onPrimary,
                     ),
                   ),
                 if (_currentHymn?.hasAlternateVersions ?? false)
@@ -943,7 +943,7 @@ $deepLink
                     label: Text(_sourceLabel(_currentVersionIndex)),
                     style: ElevatedButton.styleFrom(
                       backgroundColor: Theme.of(context).colorScheme.primary,
-                      foregroundColor: Colors.white,
+                      foregroundColor: Theme.of(context).colorScheme.onPrimary,
                     ),
                   ),
               ],

@@ -2,19 +2,21 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 /// The available app color themes. Each theme drives the Material 3
-/// color scheme via [AppTheme.seedColor], so the banner, tags, buttons,
-/// and other accents all follow the selected theme.
+/// color scheme via [AppTheme.seedColor] and [AppTheme.brightness], so the
+/// banner, background, tags, buttons, and other accents all follow the
+/// selected theme.
 enum AppTheme {
-  blue('Blue', Colors.blue),
-  black('Black', Color(0xFF212121)),
-  burgundy('Burgundy', Color(0xFF7A1F2B)),
-  green('Green', Color(0xFF2E6B34)),
-  brown('Brown', Color(0xFF5D4037));
+  blue('Blue', Colors.blue, Brightness.light),
+  black('Black', Color(0xFF212121), Brightness.dark),
+  burgundy('Burgundy', Color(0xFF7A1F2B), Brightness.dark),
+  green('Green', Color(0xFF2E6B34), Brightness.dark),
+  brown('Brown', Color(0xFF5D4037), Brightness.dark);
 
-  const AppTheme(this.displayName, this.seedColor);
+  const AppTheme(this.displayName, this.seedColor, this.brightness);
 
   final String displayName;
   final Color seedColor;
+  final Brightness brightness;
 }
 
 /// Holds the user's selected [AppTheme], persists it to SharedPreferences,
@@ -27,7 +29,10 @@ class ThemeProvider extends ChangeNotifier {
   AppTheme get theme => _theme;
 
   ThemeData get themeData => ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: _theme.seedColor),
+        colorScheme: ColorScheme.fromSeed(
+          seedColor: _theme.seedColor,
+          brightness: _theme.brightness,
+        ),
         useMaterial3: true,
       );
 

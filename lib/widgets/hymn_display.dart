@@ -51,8 +51,8 @@ class HymnDisplay extends StatelessWidget {
             ),
             child: Text(
               m['number'] as String? ?? '',
-              style: const TextStyle(
-                color: Colors.white,
+              style: TextStyle(
+                color: Theme.of(context).colorScheme.onPrimary,
                 fontSize: 14,
                 fontWeight: FontWeight.w500,
               ),
@@ -110,8 +110,8 @@ class HymnDisplay extends StatelessWidget {
                       ),
                       child: Text(
                         hymnIdTag!,
-                        style: const TextStyle(
-                          color: Colors.white,
+                        style: TextStyle(
+                          color: Theme.of(context).colorScheme.onPrimary,
                           fontSize: 14,
                           fontWeight: FontWeight.w500,
                         ),

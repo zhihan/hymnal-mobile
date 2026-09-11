@@ -1,3 +1,4 @@
+import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:hymns_mobile/providers/theme_provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
@@ -48,5 +49,15 @@ void main() {
 
     final seeds = AppTheme.values.map((t) => t.seedColor).toSet();
     expect(seeds.length, equals(AppTheme.values.length));
+  });
+
+  test('dark clothing colors use dark brightness, blue stays light', () {
+    expect(AppTheme.blue.brightness, equals(Brightness.light));
+    for (final t in [AppTheme.black, AppTheme.burgundy, AppTheme.green, AppTheme.brown]) {
+      expect(t.brightness, equals(Brightness.dark), reason: t.displayName);
+    }
+
+    final provider = ThemeProvider();
+    expect(provider.themeData.colorScheme.brightness, equals(Brightness.light));
   });
 }
