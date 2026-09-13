@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:go_router/go_router.dart';
 import '../models/hymn_db.dart';
 import '../services/hymn_db_service.dart';

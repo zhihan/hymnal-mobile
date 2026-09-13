@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:provider/provider.dart';
 import 'package:go_router/go_router.dart';
 import 'package:share_plus/share_plus.dart';
@@ -119,12 +119,14 @@ class _SongListDetailScreenState extends State<SongListDetailScreen> {
     try {
       final shareUrl = SongListShareService.generateShareUrl(list);
       final box = context.findRenderObject() as RenderBox?;
-      await Share.share(
-        shareUrl,
-        subject: 'Share Song List: ${list.name}',
-        sharePositionOrigin: box != null
-            ? box.localToGlobal(Offset.zero) & box.size
-            : null,
+      await SharePlus.instance.share(
+        ShareParams(
+          text: shareUrl,
+          subject: 'Share Song List: ${list.name}',
+          sharePositionOrigin: box != null
+              ? box.localToGlobal(Offset.zero) & box.size
+              : null,
+        ),
       );
     } catch (e) {
       if (!mounted) return;
@@ -245,11 +247,7 @@ class _SongListDetailScreenState extends State<SongListDetailScreen> {
         return ReorderableListView.builder(
           padding: const EdgeInsets.symmetric(vertical: 8),
           itemCount: _hymns.length,
-          onReorder: (oldIndex, newIndex) async {
-            if (oldIndex < newIndex) {
-              newIndex -= 1;
-            }
-
+          onReorderItem: (oldIndex, newIndex) async {
             final hymn = _hymns.removeAt(oldIndex);
             _hymns.insert(newIndex, hymn);
 
