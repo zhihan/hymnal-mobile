@@ -13,13 +13,21 @@ cd crawler
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-cd ..
-./build_hymns.sh --skip-crawl --extract-midi
+python3 extract_midi_notes.py --hymns-dir hymns
+```
+
+The default build (`./build_hymns.sh`) already runs this step: melody
+extraction is on by default, and hymns whose stored melody is current are
+skipped without re-downloading, so a repeat build only fetches what changed.
+To skip it:
+
+```bash
+./build_hymns.sh --skip-midi
 ```
 
 The extractor reads `metadata.midi_tune_url`, selects the most likely
 monophonic melody track, and writes compact timing and MIDI-pitch data to
-`metadata.melody`. Hymns without MIDI URLs are left unchanged. In the app,
+`metadata.melody` (schema `version` 1). Hymns without MIDI URLs are left unchanged. In the app,
 hymns containing this field show a Guitar Tab button; tablature is generated
 locally and recalculated when capo or transpose changes.
 
@@ -31,9 +39,9 @@ flutter test test/guitar_fingering_test.dart
 flutter analyze
 ```
 
-MIDI extraction is opt-in because a full run downloads thousands of files.
 Use `python crawler/extract_midi_notes.py --file <hymn.json>` to iterate on a
-single hymn without rebuilding the full catalog.
+single hymn without rebuilding the full catalog, or `--force` to re-download
+and re-extract everything.
 
 The repository has two parts:
 

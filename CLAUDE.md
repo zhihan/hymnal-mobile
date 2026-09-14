@@ -74,6 +74,7 @@ The easiest way to rebuild all hymn data and prepare the app:
    - Phase 4: Deduplicate & merge songbase into crawler/hymns/
    - Phase 5: Convert Chinese to simplified
    - Phase 6: Apply manual edits from crawler/hymns_manual/
+   - Phase 7: Download MIDI tunes, embed melody notes → metadata.melody (on by default; --skip-midi to opt out)
 2. cp crawler/hymns/*.json hymns/        # Copy to app asset directory
 3. dart run tool/build_database.dart     # Regenerate assets/available_hymns.json
 4. flutter run                           # Run the app
