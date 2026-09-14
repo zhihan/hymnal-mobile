@@ -17,9 +17,12 @@ python3 extract_midi_notes.py --hymns-dir hymns
 ```
 
 The default build (`./build_hymns.sh`) already runs this step: melody
-extraction is on by default, and hymns whose stored melody is current are
-skipped without re-downloading, so a repeat build only fetches what changed.
-To skip it:
+extraction is on by default. Note the crawl rewrites each hymn file from
+scratch, wiping any previously stored melody, so a full build re-downloads
+every MIDI tune (about 4,033 files). Running the extractor on its own
+against an existing corpus is incremental: hymns whose stored melody is
+already current are skipped without re-downloading, so only what changed
+is fetched. To skip the step entirely:
 
 ```bash
 ./build_hymns.sh --skip-midi

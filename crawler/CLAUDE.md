@@ -218,7 +218,7 @@ If the website's HTML structure changes, update the CSS selectors in `hymnal_cra
 
 The crawler includes a 1-second delay (`time.sleep(1)`) in `crawl_hymn_range()` to be respectful to the server. Do not reduce this delay.
 
-MIDI extraction (`extract_midi_notes.py`) applies the `--delay` value (default 0.5s, shared with `crawl_all.py --delay`) before each MIDI download, and identifies with the same browser User-Agent as the main crawler. Hymns whose stored `metadata.melody` already matches the current schema version are skipped without any request, so repeat runs cost no network I/O.
+MIDI extraction (`extract_midi_notes.py`) applies the `--delay` value (default 0.5s, shared with `crawl_all.py --delay`) before each MIDI download, and identifies with the same browser User-Agent as the main crawler. Hymns whose stored `metadata.melody` already matches the current schema version are skipped without any request, so a repeat run of the extractor alone costs no network I/O. Note a full `crawl_all.py` run rewrites hymn JSON from scratch and wipes stored melodies, so Phase 7 then re-downloads every MIDI.
 
 ## Manual Hymn Editing
 
@@ -316,8 +316,10 @@ pitch/timing data to `metadata.melody` (schema `version`). The app renders
 guitar tablature on-device from these notes.
 
 Idempotency: hymns whose stored melody already matches the current schema
-version are skipped *before* any HTTP request, so re-running over an
-up-to-date corpus downloads nothing. Use `--force` to re-extract regardless.
+version are skipped *before* any HTTP request, so re-running the extractor
+alone over an up-to-date corpus downloads nothing (a full `crawl_all.py`
+run wipes stored melodies first, so Phase 7 re-downloads every MIDI).
+Use `--force` to re-extract regardless.
 
 ```bash
 # Refresh melodies without re-crawling (also used by ./build_hymns.sh)

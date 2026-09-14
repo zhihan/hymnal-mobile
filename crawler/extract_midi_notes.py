@@ -130,14 +130,15 @@ def process_hymn(
 
     Returns "skipped" (no MIDI URL), "unchanged" (stored melody is current),
     or "updated". Hymns whose stored melody already matches SCHEMA_VERSION
-    are returned as "unchanged" *before* any network request, so repeat runs
-    over an up-to-date corpus do zero downloads; pass force=True to override.
-    The delay is applied only before an actual download, never for skips.
+    are returned as "unchanged" *before* any network request, so a repeat
+    run of the extractor over an up-to-date corpus does zero downloads;
+    pass force=True to override. The delay is applied only before an actual
+    download, never for skips.
 
-    Note: this cache only helps if the crawl phases preserve
-    metadata.melody when rewriting hymn JSON. HymnalCrawler.save_hymns does
-    that — it carries the existing melody forward — so a default build
-    re-downloads only hymns whose melody is missing or outdated.
+    Note: the crawl phases rewrite hymn JSON from scratch, wiping any
+    previously stored melody. So a full `crawl_all.py` run re-downloads
+    every MIDI; the version cache above only pays off when running this
+    extractor standalone against an existing corpus.
     """
     data = json.loads(path.read_text(encoding="utf-8"))
     metadata = data.get("metadata") or {}

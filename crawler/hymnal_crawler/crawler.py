@@ -842,22 +842,6 @@ class HymnalCrawler:
 
             # Save as JSON
             json_path = os.path.join(output_dir, f'{base_filename}.json')
-            # Preserve the existing melody across re-crawls so Phase 7's
-            # version cache hits. Without this, every crawl would wipe
-            # metadata.melody and force a full re-download of all MIDIs.
-            if os.path.exists(json_path):
-                try:
-                    with open(json_path, 'r', encoding='utf-8') as f:
-                        existing = json.load(f)
-                    existing_melody = (existing.get('metadata') or {}).get('melody')
-                    if existing_melody:
-                        if 'metadata' not in hymn:
-                            hymn['metadata'] = {}
-                        # Don't overwrite a freshly crawled melody (shouldn't
-                        # happen — the crawler never emits one — but be safe).
-                        hymn['metadata'].setdefault('melody', existing_melody)
-                except (json.JSONDecodeError, OSError) as e:
-                    logger.warning(f"Could not read existing {json_path} to preserve melody: {e}")
             with open(json_path, 'w', encoding='utf-8') as f:
                 json.dump(hymn, f, ensure_ascii=False, indent=2)
             logger.info(f"Saved {json_path}")

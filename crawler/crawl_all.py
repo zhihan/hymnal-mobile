@@ -226,11 +226,11 @@ def crawl_all(
         print("\n[SKIPPED] Phase 6: Manual edits")
 
     # Phase 7: Download MIDI tunes and embed melody notes. Default-on like
-    # every other phase: hymns whose stored melody is already current are
-    # skipped without re-downloading (see extract_midi_notes), so an unchanged
-    # re-run costs no network I/O beyond the crawl itself. The crawl phases
-    # preserve metadata.melody when rewriting hymn JSON (see
-    # HymnalCrawler.save_hymns), so the cache actually hits on repeat builds.
+    # every other phase. Note the crawl phases rewrite hymn JSON from
+    # scratch, wiping any previously stored melody, so a full run
+    # re-downloads every MIDI tune (the version cache in
+    # extract_midi_notes only pays off for standalone extractor runs
+    # against an existing corpus).
     if not skip_midi:
         print("\n" + "=" * 60)
         print("PHASE 7: Extracting MIDI melody notes")
