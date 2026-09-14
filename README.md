@@ -33,7 +33,9 @@ flutter analyze
 
 MIDI extraction is opt-in because a full run downloads thousands of files.
 Use `python crawler/extract_midi_notes.py --file <hymn.json>` to iterate on a
-single hymn without rebuilding the full catalog.
+single hymn without rebuilding the full catalog. The extractor exits 1 if
+more than 10% of hymn files fail (tune with `--max-error-rate`), so a
+systemically broken run cannot look successful in CI or `build_hymns.sh`.
 
 The repository has two parts:
 

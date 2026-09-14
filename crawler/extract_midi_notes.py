@@ -20,6 +20,19 @@ import requests
 LOGGER = logging.getLogger(__name__)
 SCHEMA_VERSION = 1
 
+# Fraction of hymn files allowed to fail before the run is considered broken.
+# A few bad upstream MIDIs should not fail a build, but a systemic problem
+# (URL scheme change, 403s, throttling) must not exit 0 and look successful.
+DEFAULT_MAX_ERROR_RATE = 0.1
+
+
+class MidiExtractionError(Exception):
+    """Raised when MIDI extraction errors exceed the allowed error rate."""
+
+    def __init__(self, message: str, counts: dict):
+        super().__init__(message)
+        self.counts = counts
+
 
 def _track_notes(track: mido.MidiTrack) -> list[dict]:
     tick = 0
@@ -134,7 +147,13 @@ def process_directory(
     hymns_dir: str | Path,
     paths: Iterable[Path] | None = None,
     progress_every: int = 25,
+    max_error_rate: float = DEFAULT_MAX_ERROR_RATE,
 ) -> dict:
+    """Extract MIDI melodies for every hymn file in a directory.
+
+    Raises MidiExtractionError if the fraction of failed files exceeds
+    max_error_rate, so a systemically broken run cannot look successful.
+    """
     directory = Path(hymns_dir)
     hymn_paths = list(paths) if paths is not None else sorted(directory.glob("*.json"))
     counts = {"updated": 0, "unchanged": 0, "skipped": 0, "errors": 0}
@@ -169,6 +188,13 @@ def process_directory(
                 )
 
     LOGGER.info("MIDI extraction finished in %s", _format_duration(time.monotonic() - started_at))
+    if total and counts["errors"] / total > max_error_rate:
+        raise MidiExtractionError(
+            f"{counts['errors']}/{total} hymn files failed "
+            f"({counts['errors'] / total:.1%} error rate exceeds "
+            f"{max_error_rate:.0%} allowed)",
+            counts,
+        )
     return counts
 
 
@@ -182,9 +208,24 @@ def main() -> None:
         default=25,
         help="Log progress after this many files; use 0 to disable (default: 25)",
     )
+    parser.add_argument(
+        "--max-error-rate",
+        type=float,
+        default=DEFAULT_MAX_ERROR_RATE,
+        help="Exit 1 if more than this fraction of hymn files fail "
+        "(default: 0.1; 0 fails on any error)",
+    )
     args = parser.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
-    result = process_directory(args.hymns_dir, args.file, args.progress_every)
+    try:
+        result = process_directory(
+            args.hymns_dir, args.file, args.progress_every,
+            max_error_rate=args.max_error_rate,
+        )
+    except MidiExtractionError as error:
+        LOGGER.error("MIDI extraction failed: %s", error)
+        print(json.dumps(error.counts, indent=2))
+        raise SystemExit(1)
     print(json.dumps(result, indent=2))
 
 

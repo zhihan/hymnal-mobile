@@ -21,6 +21,7 @@ from crawl_hymns import crawl_category, CATEGORY_RANGES
 from batch_convert_chinese_hymns import batch_convert_hymns
 from songbase_crawler import SongbaseCrawler
 from dedup_hymns import merge_all
+from extract_midi_notes import MidiExtractionError
 from extract_midi_notes import process_directory as extract_midi_notes
 
 # Configure logging
@@ -228,7 +229,12 @@ def crawl_all(
         if dry_run:
             print(f"  [DRY RUN] Would process MIDI URLs in {output_dir}/")
         else:
-            results["midi"] = extract_midi_notes(output_dir)
+            try:
+                results["midi"] = extract_midi_notes(output_dir)
+            except MidiExtractionError as error:
+                # Fail the build loudly instead of burying the failure in the
+                # summary; build_hymns.sh (set -e) stops before copying.
+                raise RuntimeError(f"Phase 7 (MIDI extraction) failed: {error}") from error
     else:
         print("\n[SKIPPED] Phase 7: MIDI extraction (use --extract-midi)")
 
