@@ -6,7 +6,7 @@
 #   ./build_hymns.sh              # Full pipeline (crawl all + songbase + build)
 #   ./build_hymns.sh --skip-crawl # Skip crawling, just copy and rebuild
 #   ./build_hymns.sh --songbase-only # Only crawl songbase + dedup + copy + rebuild
-#   ./build_hymns.sh --extract-midi # Also download MIDI files and embed melody notes
+#   ./build_hymns.sh --skip-midi  # Skip MIDI download/melody extraction (on by default)
 #
 set -e
 
@@ -16,20 +16,20 @@ HYMNS_DIR="$SCRIPT_DIR/hymns"
 
 SKIP_CRAWL=false
 SONGBASE_ONLY=false
-EXTRACT_MIDI=false
+SKIP_MIDI=false
 
 for arg in "$@"; do
   case $arg in
     --skip-crawl) SKIP_CRAWL=true ;;
     --songbase-only) SONGBASE_ONLY=true ;;
-    --extract-midi) EXTRACT_MIDI=true ;;
+    --skip-midi) SKIP_MIDI=true ;;
     --help|-h)
       echo "Usage: ./build_hymns.sh [OPTIONS]"
       echo ""
       echo "Options:"
       echo "  --skip-crawl      Skip crawling, just copy crawler/hymns/ to hymns/ and rebuild"
       echo "  --songbase-only   Only crawl songbase.life, dedup, copy, and rebuild"
-      echo "  --extract-midi    Download MIDI tunes and embed notes for on-device tabs"
+      echo "  --skip-midi       Skip MIDI tune download and melody note extraction (on by default)"
       echo "  -h, --help        Show this help"
       echo ""
       echo "Full pipeline:"
@@ -38,8 +38,9 @@ for arg in "$@"; do
       echo "  3. Deduplicate and merge songbase into hymnal.net data"
       echo "  4. Convert Chinese hymns to simplified"
       echo "  5. Apply manual edits from crawler/hymns_manual/"
-      echo "  6. Copy crawler/hymns/ → hymns/ (app asset directory)"
-      echo "  7. Regenerate assets/available_hymns.json"
+      echo "  6. Download MIDI tunes and embed melody notes (skip with --skip-midi)"
+      echo "  7. Copy crawler/hymns/ → hymns/ (app asset directory)"
+      echo "  8. Regenerate assets/available_hymns.json"
       exit 0
       ;;
   esac
@@ -56,26 +57,23 @@ if [ "$SKIP_CRAWL" = false ]; then
   cd "$CRAWLER_DIR"
 
   if [ "$SONGBASE_ONLY" = true ]; then
-    CRAWL_ARGS=(--skip-chinese --skip-english --skip-convert --skip-manual)
+    # Songbase-only is the fast path (~3 seconds via API): keep it fast by
+    # skipping the crawl phases and MIDI extraction alike.
+    CRAWL_ARGS=(--skip-chinese --skip-english --skip-convert --skip-manual --skip-midi)
   else
     CRAWL_ARGS=()
   fi
 
-  if [ "$EXTRACT_MIDI" = true ]; then
-    CRAWL_ARGS+=(--extract-midi)
+  if [ "$SKIP_MIDI" = true ]; then
+    CRAWL_ARGS+=(--skip-midi)
   fi
   python3 crawl_all.py "${CRAWL_ARGS[@]}"
 
   cd "$SCRIPT_DIR"
 else
   echo ""
-  echo ">>> Step 1: [SKIPPED] Crawling"
-  if [ "$EXTRACT_MIDI" = true ]; then
-    echo ">>> Extracting MIDI notes from existing crawler output..."
-    cd "$CRAWLER_DIR"
-    python3 extract_midi_notes.py --hymns-dir hymns
-    cd "$SCRIPT_DIR"
-  fi
+  echo ">>> Step 1: [SKIPPED] Crawling (MIDI extraction is part of the crawl;"
+  echo "    for a MIDI-only refresh run: python3 crawler/extract_midi_notes.py --hymns-dir crawler/hymns)"
 fi
 
 # Step 2: Copy crawler output to app hymns directory

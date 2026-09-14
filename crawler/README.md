@@ -22,7 +22,7 @@ JSON into the app's asset directory, and regenerate the hymn index:
 
 ```bash
 ./build_hymns.sh                # Full pipeline
-./build_hymns.sh --extract-midi # Also download MIDI tunes and embed melody notes
+./build_hymns.sh --skip-midi    # Skip the MIDI download / melody extraction step
 ./build_hymns.sh --skip-crawl   # Reuse crawler/hymns/, just copy + rebuild
 ./build_hymns.sh --songbase-only  # Fast path: songbase API only
 ```
@@ -36,26 +36,27 @@ pipeline:
 4. Deduplicate and merge songbase results into `hymns/`
 5. Convert Chinese hymns to simplified Chinese
 6. Apply manual edits from `hymns_manual/`
-7. Download MIDI tunes and embed melody notes (opt-in via `--extract-midi`)
+7. Download MIDI tunes and embed melody notes (on by default; `--skip-midi` to opt out)
 
 Then it copies `crawler/hymns/*.json` to the repo-root `hymns/` directory and
 regenerates `assets/available_hymns.json` via `dart run tool/build_database.dart`.
 
 Useful `crawl_all.py` flags: `--dry-run`, `--skip-chinese`, `--skip-english`,
-`--skip-songbase`, `--skip-convert`, `--skip-manual`, `--extract-midi`,
-`--delay`, `--batch-size`. See `python crawl_all.py --help`.
+`--skip-songbase`, `--skip-convert`, `--skip-manual`, `--skip-midi`, `--delay`,
+`--batch-size`.
+See `python crawl_all.py --help`.
 
 ## Melody Extraction (Phase 7)
 
 `extract_midi_notes.py` downloads each hymn's `metadata.midi_tune_url`,
 selects the most melody-like track, and writes compact pitch/timing data to
 `metadata.melody`. The app renders guitar tablature on-device from these
-notes. It runs as Phase 7 of `crawl_all.py` when `--extract-midi` is passed
-(also available as `./build_hymns.sh --extract-midi`).
+notes. It runs as Phase 7 of `crawl_all.py` by default; pass `--skip-midi`
+(or `./build_hymns.sh --skip-midi`) to skip it.
 
 Note: a full crawl rewrites every hymn file from scratch, wiping any
-previously stored melody — so a full build with `--extract-midi`
-re-downloads all ~4,033 MIDI tunes. Running the extractor standalone
+previously stored melody — so a full build re-downloads all ~4,033 MIDI
+tunes. Running the extractor standalone
 against an existing corpus is incremental instead: hymns whose stored
 melody is already current are skipped before any HTTP request.
 

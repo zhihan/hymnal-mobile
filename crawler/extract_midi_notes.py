@@ -20,6 +20,26 @@ import requests
 LOGGER = logging.getLogger(__name__)
 SCHEMA_VERSION = 1
 
+# Same browser User-Agent as the main hymn crawler (hymnal_crawler/crawler.py).
+# All 4,033 midi_tune_urls point at www.hymnal.net, so thousands of
+# python-requests/x.y GETs risk a 429/IP block that would break every crawler.
+USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+
+# Fraction of attempted hymn downloads allowed to fail before the run is
+# considered broken. A few bad upstream MIDIs should not fail a build, but a
+# systemic problem (URL scheme change, 403s, throttling) must not exit 0 and
+# look successful. The denominator is attempted downloads (total minus
+# skipped hymns with no MIDI URL), not all files.
+DEFAULT_MAX_ERROR_RATE = 0.1
+
+
+class MidiExtractionError(Exception):
+    """Raised when MIDI extraction errors exceed the allowed error rate."""
+
+    def __init__(self, message: str, counts: dict):
+        super().__init__(message)
+        self.counts = counts
+
 
 def _track_notes(track: mido.MidiTrack) -> list[dict]:
     tick = 0
@@ -99,13 +119,38 @@ def extract_melody(midi: mido.MidiFile) -> dict:
     }
 
 
-def process_hymn(path: Path, session: requests.Session, timeout: float = 20) -> str:
+def process_hymn(
+    path: Path,
+    session: requests.Session,
+    timeout: float = 20,
+    force: bool = False,
+    delay: float = 0.0,
+) -> str:
+    """Download one hymn's MIDI tune and embed its melody notes.
+
+    Returns "skipped" (no MIDI URL), "unchanged" (stored melody is current),
+    or "updated". Hymns whose stored melody already matches SCHEMA_VERSION
+    are returned as "unchanged" *before* any network request, so a repeat
+    run of the extractor over an up-to-date corpus does zero downloads;
+    pass force=True to override. The delay is applied only before an actual
+    download, never for skips.
+
+    Note: the crawl phases rewrite hymn JSON from scratch, wiping any
+    previously stored melody. So a full `crawl_all.py` run re-downloads
+    every MIDI; the version cache above only pays off when running this
+    extractor standalone against an existing corpus.
+    """
     data = json.loads(path.read_text(encoding="utf-8"))
     metadata = data.get("metadata") or {}
     midi_url = metadata.get("midi_tune_url")
     if not midi_url:
         return "skipped"
 
+    if not force and (metadata.get("melody") or {}).get("version") == SCHEMA_VERSION:
+        return "unchanged"
+
+    if delay > 0:
+        time.sleep(delay)
     response = session.get(midi_url, timeout=timeout)
     response.raise_for_status()
     melody = extract_melody(mido.MidiFile(file=io.BytesIO(response.content)))
@@ -134,7 +179,18 @@ def process_directory(
     hymns_dir: str | Path,
     paths: Iterable[Path] | None = None,
     progress_every: int = 25,
+    delay: float = 0.5,
+    force: bool = False,
+    max_error_rate: float = DEFAULT_MAX_ERROR_RATE,
 ) -> dict:
+    """Extract MIDI melodies for every hymn file in a directory.
+
+    Raises MidiExtractionError if the fraction of failed files exceeds
+    max_error_rate, so a systemically broken run cannot look successful.
+    The error rate is errors / attempted downloads (total minus skipped
+    hymns with no MIDI URL) — files that were never downloaded don't dilute
+    the denominator.
+    """
     directory = Path(hymns_dir)
     hymn_paths = list(paths) if paths is not None else sorted(directory.glob("*.json"))
     counts = {"updated": 0, "unchanged": 0, "skipped": 0, "errors": 0}
@@ -143,9 +199,10 @@ def process_directory(
     LOGGER.info("Starting MIDI extraction for %d hymn files", total)
 
     with requests.Session() as session:
+        session.headers.update({"User-Agent": USER_AGENT})
         for processed, path in enumerate(hymn_paths, start=1):
             try:
-                counts[process_hymn(path, session)] += 1
+                counts[process_hymn(path, session, force=force, delay=delay)] += 1
             except Exception as error:  # Continue a large batch after one bad MIDI.
                 counts["errors"] += 1
                 LOGGER.warning("Could not extract %s: %s", path.name, error)
@@ -169,6 +226,14 @@ def process_directory(
                 )
 
     LOGGER.info("MIDI extraction finished in %s", _format_duration(time.monotonic() - started_at))
+    attempted = total - counts["skipped"]
+    if attempted and counts["errors"] / attempted > max_error_rate:
+        raise MidiExtractionError(
+            f"{counts['errors']}/{attempted} attempted hymn downloads failed "
+            f"({counts['errors'] / attempted:.1%} error rate exceeds "
+            f"{max_error_rate:.0%} allowed)",
+            counts,
+        )
     return counts
 
 
@@ -182,9 +247,39 @@ def main() -> None:
         default=25,
         help="Log progress after this many files; use 0 to disable (default: 25)",
     )
+    parser.add_argument(
+        "--delay",
+        type=float,
+        default=0.5,
+        help="Delay in seconds before each MIDI download (default: 0.5)",
+    )
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Re-download and re-extract even when the stored melody is current",
+    )
+    parser.add_argument(
+        "--max-error-rate",
+        type=float,
+        default=DEFAULT_MAX_ERROR_RATE,
+        help="Exit 1 if more than this fraction of attempted downloads fail "
+        "(default: 0.1; 0 fails on any error)",
+    )
     args = parser.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
-    result = process_directory(args.hymns_dir, args.file, args.progress_every)
+    try:
+        result = process_directory(
+            args.hymns_dir,
+            args.file,
+            args.progress_every,
+            delay=args.delay,
+            force=args.force,
+            max_error_rate=args.max_error_rate,
+        )
+    except MidiExtractionError as error:
+        LOGGER.error("MIDI extraction failed: %s", error)
+        print(json.dumps(error.counts, indent=2))
+        raise SystemExit(1)
     print(json.dumps(result, indent=2))
 
 
