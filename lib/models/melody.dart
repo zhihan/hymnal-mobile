@@ -17,6 +17,11 @@ class MelodyNote {
 }
 
 class Melody {
+  /// ticks_per_beat is 384 for every melody in the corpus, so v2 does not
+  /// store it per file; the decoder treats it as a constant.
+  static const int v2TicksPerBeat = 384;
+  static const int v2Version = 2;
+
   final int ticksPerBeat;
   final double tempoBpm;
   final List<int> timeSignature;
@@ -29,16 +34,42 @@ class Melody {
     required this.notes,
   });
 
-  factory Melody.fromJson(Map<String, dynamic> json) => Melody(
-    ticksPerBeat: (json['ticks_per_beat'] as num).toInt(),
-    tempoBpm: (json['tempo_bpm'] as num?)?.toDouble() ?? 120,
-    timeSignature:
-        (json['time_signature'] as List<dynamic>?)
-            ?.map((value) => (value as num).toInt())
-            .toList() ??
-        const [4, 4],
-    notes: (json['notes'] as List<dynamic>? ?? const [])
-        .map((note) => MelodyNote.fromJson(note as Map<String, dynamic>))
-        .toList(),
-  );
+  /// Decodes the v2 compact encoding:
+  /// `{"v": 2, "n": [[duration, pitchOrDelta], ..., ["R", ticks]]}`.
+  ///
+  /// The first entry carries the absolute pitch; later entries carry the
+  /// delta from the previous pitch. Note start times are reconstructed by
+  /// accumulating durations, so only gaps are stored explicitly as
+  /// `["R", ticks]` rests. Throws [FormatException] on any other version.
+  factory Melody.fromJson(Map<String, dynamic> json) {
+    final version = (json['v'] as num?)?.toInt();
+    if (version != v2Version) {
+      throw FormatException(
+        'Unsupported melody version: ${json['v'] ?? json['version'] ?? 'missing'} '
+        '(expected $v2Version)',
+      );
+    }
+    var cursor = 0;
+    int? pitch;
+    final notes = <MelodyNote>[];
+    for (final entry in (json['n'] as List<dynamic>? ?? const [])) {
+      final pair = entry as List<dynamic>;
+      if (pair[0] == 'R') {
+        cursor += (pair[1] as num).toInt();
+        continue;
+      }
+      final duration = (pair[0] as num).toInt();
+      final delta = (pair[1] as num).toInt();
+      final nextPitch = pitch == null ? delta : pitch + delta;
+      pitch = nextPitch;
+      notes.add(MelodyNote(start: cursor, duration: duration, pitch: nextPitch));
+      cursor += duration;
+    }
+    return Melody(
+      ticksPerBeat: v2TicksPerBeat,
+      tempoBpm: 120,
+      timeSignature: const [4, 4],
+      notes: notes,
+    );
+  }
 }

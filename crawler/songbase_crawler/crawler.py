@@ -309,7 +309,7 @@ class SongbaseCrawler:
                 filepath = os.path.join(output_dir, filename)
 
                 with open(filepath, 'w', encoding='utf-8') as f:
-                    json.dump(hymn_data, f, ensure_ascii=False, indent=2)
+                    json.dump(hymn_data, f, ensure_ascii=False, separators=(',', ':'))
 
                 stats["converted"] += 1
             except Exception as e:
@@ -361,7 +361,7 @@ class SongbaseCrawler:
                 filepath = os.path.join(output_dir, filename)
 
                 with open(filepath, 'w', encoding='utf-8') as f:
-                    json.dump(hymn_data, f, ensure_ascii=False, indent=2)
+                    json.dump(hymn_data, f, ensure_ascii=False, separators=(',', ':'))
 
                 stats["converted"] += 1
             except Exception as e:

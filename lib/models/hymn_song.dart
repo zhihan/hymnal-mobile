@@ -7,7 +7,6 @@ class HymnSong {
   final String title;
   final List<Verse> verses;
   final Map<String, dynamic>? metadata;
-  final List<String>? rawSections;
   final List<HymnVersion>? alternateVersions;
 
   HymnSong({
@@ -15,7 +14,6 @@ class HymnSong {
     required this.title,
     required this.verses,
     this.metadata,
-    this.rawSections,
     this.alternateVersions,
   });
 
@@ -37,9 +35,6 @@ class HymnSong {
               .toList() ??
           [],
       metadata: json['metadata'] as Map<String, dynamic>?,
-      rawSections: (json['raw_sections'] as List<dynamic>?)
-          ?.map((section) => section as String)
-          .toList(),
       alternateVersions: (json['alternate_versions'] as List<dynamic>?)
           ?.map((v) => HymnVersion.fromJson(v as Map<String, dynamic>))
           .toList(),
@@ -52,7 +47,6 @@ class HymnSong {
       'title': title,
       'verses': verses.map((verse) => verse.toJson()).toList(),
       if (metadata != null) 'metadata': metadata,
-      if (rawSections != null) 'raw_sections': rawSections,
       if (alternateVersions != null)
         'alternate_versions': alternateVersions!
             .map((v) => v.toJson())

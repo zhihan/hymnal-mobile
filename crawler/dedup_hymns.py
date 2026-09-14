@@ -151,7 +151,7 @@ def merge_all(
                 songbase_data["metadata"]["source"] = "songbase"
 
                 with open(out_file, 'w', encoding='utf-8') as f:
-                    json.dump(songbase_data, f, ensure_ascii=False, indent=2)
+                    json.dump(songbase_data, f, ensure_ascii=False, separators=(',', ':'))
 
                 stats["songbase_only"] += 1
             else:
@@ -171,7 +171,7 @@ def merge_all(
                         stats["same"] += 1
 
                     with open(out_file, 'w', encoding='utf-8') as f:
-                        json.dump(merged, f, ensure_ascii=False, indent=2)
+                        json.dump(merged, f, ensure_ascii=False, separators=(',', ':'))
                 else:
                     # Songbase-only h_* hymn
                     if "metadata" not in songbase_data:
@@ -179,7 +179,7 @@ def merge_all(
                     songbase_data["metadata"]["source"] = "songbase"
 
                     with open(out_file, 'w', encoding='utf-8') as f:
-                        json.dump(songbase_data, f, ensure_ascii=False, indent=2)
+                        json.dump(songbase_data, f, ensure_ascii=False, separators=(',', ':'))
 
                     stats["songbase_only"] += 1
                     logger.info(f"  NEW: {sb_file.name} (songbase only)")
