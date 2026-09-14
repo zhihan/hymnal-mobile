@@ -3,7 +3,7 @@
 
 For every hymn JSON in --hymns-dir:
   - re-encode v1 melodies to the compact v2 format
-    ({"version": 1, ..., "notes": [...]} -> {"v": 2, "n": [...]});
+    ({"version": 1, ..., "notes": [...]} -> {"v": 2, "ts": [...], "n": [...]});
   - drop the top-level "raw_sections" field (no longer emitted, never read);
   - rewrite the file with compact JSON (no indent).
 
@@ -45,7 +45,14 @@ def migrate_file(path: Path, dry_run: bool = False) -> str:
     elif melody.get("v") == 2:
         status = "already_v2"
     elif melody.get("version") == 1 and isinstance(melody.get("notes"), list):
-        metadata["melody"] = {"v": 2, "n": _encode_melody_v2(melody["notes"])}
+        signature = melody.get("time_signature")
+        if not (isinstance(signature, list) and len(signature) == 2):
+            signature = [4, 4]
+        metadata["melody"] = {
+            "v": 2,
+            "ts": list(signature),
+            "n": _encode_melody_v2(melody["notes"]),
+        }
         data["metadata"] = metadata
         status = "migrated"
     else:

@@ -57,7 +57,8 @@ def test_migrates_v1_to_v2_losslessly(tmp_path):
     data = json.loads(path.read_text(encoding="utf-8"))
     melody = data["metadata"]["melody"]
     assert melody["v"] == 2
-    assert set(melody) == {"v", "n"}
+    assert set(melody) == {"v", "ts", "n"}
+    assert melody["ts"] == [4, 4]
     assert _decode_v2(melody) == [
         {"start": 0, "duration": 384, "pitch": 60},
         {"start": 384, "duration": 192, "pitch": 62},
@@ -108,3 +109,29 @@ def test_dry_run_writes_nothing(tmp_path):
 
     assert migrate_file(path, dry_run=True) == "migrated"
     assert path.read_text(encoding="utf-8") == before
+
+
+def test_migration_carries_non_common_time_signature(tmp_path):
+    """A 3/4 hymn must stay 3/4 through the v1 -> v2 conversion."""
+    path = tmp_path / "ch_13.json"
+    _write(path, {"metadata": {"melody": {
+        "version": 1,
+        "ticks_per_beat": 384,
+        "time_signature": [3, 4],
+        "notes": [{"start": 0, "duration": 384, "pitch": 60}],
+    }}})
+
+    assert migrate_file(path) == "migrated"
+    melody = json.loads(path.read_text())["metadata"]["melody"]
+    assert melody["ts"] == [3, 4]
+
+
+def test_migration_defaults_missing_time_signature(tmp_path):
+    path = tmp_path / "ch_14.json"
+    _write(path, {"metadata": {"melody": {
+        "version": 1,
+        "notes": [{"start": 0, "duration": 384, "pitch": 60}],
+    }}})
+
+    assert migrate_file(path) == "migrated"
+    assert json.loads(path.read_text())["metadata"]["melody"]["ts"] == [4, 4]

@@ -133,7 +133,24 @@ def extract_melody(midi: mido.MidiFile) -> dict:
         ),
     )
 
-    return {"v": SCHEMA_VERSION, "n": _encode_melody_v2(notes)}
+    # The tablature renderer sizes bars from this, and 37% of the corpus is
+    # not 4/4, so it has to survive the v2 encoding. Tempo and track number
+    # are dropped: nothing reads them.
+    numerator, denominator = 4, 4
+    for track in midi.tracks:
+        for message in track:
+            if message.type == "time_signature":
+                numerator, denominator = message.numerator, message.denominator
+                break
+        else:
+            continue
+        break
+
+    return {
+        "v": SCHEMA_VERSION,
+        "ts": [numerator, denominator],
+        "n": _encode_melody_v2(notes),
+    }
 
 
 def process_hymn(

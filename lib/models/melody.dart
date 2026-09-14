@@ -35,7 +35,7 @@ class Melody {
   });
 
   /// Decodes the v2 compact encoding:
-  /// `{"v": 2, "n": [[duration, pitchOrDelta], ..., ["R", ticks]]}`.
+  /// `{"v": 2, "ts": [num, den], "n": [[duration, pitchOrDelta], ..., ["R", ticks]]}`.
   ///
   /// The first entry carries the absolute pitch; later entries carry the
   /// delta from the previous pitch. Note start times are reconstructed by
@@ -62,13 +62,19 @@ class Melody {
       final delta = (pair[1] as num).toInt();
       final nextPitch = pitch == null ? delta : pitch + delta;
       pitch = nextPitch;
-      notes.add(MelodyNote(start: cursor, duration: duration, pitch: nextPitch));
+      notes.add(
+        MelodyNote(start: cursor, duration: duration, pitch: nextPitch),
+      );
       cursor += duration;
     }
+    final rawSignature = json['ts'] as List<dynamic>?;
+    final timeSignature = rawSignature != null && rawSignature.length == 2
+        ? rawSignature.map((value) => (value as num).toInt()).toList()
+        : const [4, 4];
     return Melody(
       ticksPerBeat: v2TicksPerBeat,
       tempoBpm: 120,
-      timeSignature: const [4, 4],
+      timeSignature: timeSignature,
       notes: notes,
     );
   }

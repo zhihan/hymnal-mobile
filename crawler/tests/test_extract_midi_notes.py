@@ -340,8 +340,21 @@ def test_extract_melody_returns_v2_shape():
     melody = extract_melody(midi)
 
     assert melody["v"] == 2
-    assert set(melody) == {"v", "n"}
+    assert set(melody) == {"v", "ts", "n"}
+    assert melody["ts"] == [4, 4]
     assert _decode_melody_v2(melody["n"]) == [
         {"start": 0, "duration": 384, "pitch": 60},
         {"start": 384, "duration": 192, "pitch": 62},
     ]
+
+
+def test_extract_melody_preserves_non_common_time_signature():
+    """37% of the corpus is not 4/4 and the tab renderer sizes bars from this."""
+    midi = mido.MidiFile(ticks_per_beat=384)
+    track = mido.MidiTrack()
+    track.append(mido.MetaMessage("time_signature", numerator=3, denominator=4, time=0))
+    track.append(mido.Message("note_on", note=60, velocity=64, time=0))
+    track.append(mido.Message("note_off", note=60, velocity=64, time=384))
+    midi.tracks.append(track)
+
+    assert extract_melody(midi)["ts"] == [3, 4]

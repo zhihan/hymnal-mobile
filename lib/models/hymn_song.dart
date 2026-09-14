@@ -22,7 +22,18 @@ class HymnSong {
 
   Melody? get melody {
     final value = metadata?['melody'];
-    return value is Map<String, dynamic> ? Melody.fromJson(value) : null;
+    if (value is! Map<String, dynamic>) return null;
+    try {
+      return Melody.fromJson(value);
+    } on FormatException {
+      // Unsupported/corrupt melody (e.g. a not-yet-migrated v1 file). This
+      // getter is read from build(), so throwing here would replace the
+      // whole hymn page with an error widget. Degrade to "no tablature"
+      // instead: the Guitar Tab button hides and the lyrics still render.
+      return null;
+    } on TypeError {
+      return null;
+    }
   }
 
   factory HymnSong.fromJson(Map<String, dynamic> json) {
