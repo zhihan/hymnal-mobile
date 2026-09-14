@@ -1,142 +1,150 @@
 # Hymnal.net Crawler
 
-A Python web crawler for downloading hymns and chords from hymnal.net.
+A Python web crawler for downloading hymns and chords from hymnal.net (plus
+English songs from songbase.life). The JSON files it generates are the data
+source for the Flutter app in this repo.
 
-## Installation
+## Setup
 
-1. Create and activate a virtual environment:
+Requires Python 3.14.
 
 ```bash
+cd crawler
 python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-2. Install dependencies:
-
-```bash
 pip install -r requirements.txt
 ```
 
-## Quick Start
+## The Pipeline
+
+The normal workflow is the full build from the repo root — crawl, copy the
+JSON into the app's asset directory, and regenerate the hymn index:
 
 ```bash
-# Activate the virtual environment
-source venv/bin/activate
-
-# Run the basic example
-python hymnal_crawler.py
-
-# Or run the comprehensive examples
-python example_usage.py
+./build_hymns.sh                # Full pipeline
+./build_hymns.sh --extract-midi # Also download MIDI tunes and embed melody notes
+./build_hymns.sh --skip-crawl   # Reuse crawler/hymns/, just copy + rebuild
+./build_hymns.sh --songbase-only  # Fast path: songbase API only
 ```
 
-## Usage
+Under the hood, `./build_hymns.sh` runs `crawler/crawl_all.py`, a 7-phase
+pipeline:
 
-### Basic Usage
+1. Crawl Chinese hymns from hymnal.net (`ch`, `ts`)
+2. Crawl English hymns (`h`, `ns`, `lb`, `nt`)
+3. Crawl English songs from songbase.life (API)
+4. Deduplicate and merge songbase results into `hymns/`
+5. Convert Chinese hymns to simplified Chinese
+6. Apply manual edits from `hymns_manual/`
+7. Download MIDI tunes and embed melody notes (opt-in via `--extract-midi`)
 
-Fetch a single hymn:
+Then it copies `crawler/hymns/*.json` to the repo-root `hymns/` directory and
+regenerates `assets/available_hymns.json` via `dart run tool/build_database.dart`.
+
+Useful `crawl_all.py` flags: `--dry-run`, `--skip-chinese`, `--skip-english`,
+`--skip-songbase`, `--skip-convert`, `--skip-manual`, `--extract-midi`,
+`--delay`, `--batch-size`. See `python crawl_all.py --help`.
+
+## Melody Extraction (Phase 7)
+
+`extract_midi_notes.py` downloads each hymn's `metadata.midi_tune_url`,
+selects the most melody-like track, and writes compact pitch/timing data to
+`metadata.melody`. The app renders guitar tablature on-device from these
+notes. It runs as Phase 7 of `crawl_all.py` when `--extract-midi` is passed
+(also available as `./build_hymns.sh --extract-midi`).
+
+Note: a full crawl rewrites every hymn file from scratch, wiping any
+previously stored melody — so a full build with `--extract-midi`
+re-downloads all ~4,033 MIDI tunes. Running the extractor standalone
+against an existing corpus is incremental instead: hymns whose stored
+melody is already current are skipped before any HTTP request.
+
+```bash
+# Refresh melodies without re-crawling
+python extract_midi_notes.py --hymns-dir hymns
+
+# One hymn, or force a full re-extract
+python extract_midi_notes.py --file hymns/h_350.json
+python extract_midi_notes.py --hymns-dir hymns --force
+```
+
+## Single-Category Crawls
+
+`crawl_hymns.py` crawls one category at a time (defaults cover the full range):
+
+```bash
+python crawl_hymns.py ch          # Chinese Classical (1-800)
+python crawl_hymns.py ts          # Chinese New Hymns (1-1000)
+python crawl_hymns.py h           # English Hymns (1-1400)
+python crawl_hymns.py ns          # New Songs (1-1200)
+python crawl_hymns.py lb          # New Songs lb (1-100)
+python crawl_hymns.py nt          # New Tune (1-1400)
+
+python crawl_hymns.py ch --start 1 --end 100   # Custom range
+python crawl_hymns.py ts --fetch-related       # Also fetch related hymns
+```
+
+## Library Usage
 
 ```python
 from hymnal_crawler import HymnalCrawler
 
 crawler = HymnalCrawler()
-hymn = crawler.fetch_hymn("https://www.hymnal.net/cn/hymn/ts/846")
-crawler.save_hymns([hymn], output_dir="hymns")
-```
 
-### Crawl Multiple Hymns
+# Fetch and parse a single hymn page
+hymn = crawler.fetch_hymn("https://www.hymnal.net/en/hymn/h/350")
 
-Crawl a range of hymns from a category:
-
-```python
-from hymnal_crawler import HymnalCrawler
-
-crawler = HymnalCrawler()
-
-# Crawl hymns 846-850 from the 'ts' category
-hymns = crawler.crawl_hymn_range('ts', start=846, end=850)
+# Crawl a range, then save
+hymns = crawler.crawl_hymn_range("h", start=1, end=50)
 crawler.save_hymns(hymns, output_dir="hymns")
-```
-
-### Upload to Google Cloud Firestore
-
-Upload your crawled hymns to Firestore:
-
-```python
-from hymnal_crawler import FirestoreUploader
-
-# Initialize uploader with your Firebase service account key
-uploader = FirestoreUploader(
-    service_account_key_path="path/to/firebase-service-account.json",
-    collection_name="hymns"
-)
-
-# Upload all JSON files from a directory
-results = uploader.upload_hymns_from_directory("hymns")
-print(f"Uploaded {len(results['success'])} hymns")
-
-# Or use batch upload for better performance
-import json
-import glob
-
-hymn_data_list = []
-for json_file in glob.glob("hymns/*.json"):
-    with open(json_file, 'r', encoding='utf-8') as f:
-        hymn_data_list.append(json.load(f))
-
-results = uploader.batch_upload_hymns(hymn_data_list)
-```
-
-**Setup Requirements:**
-1. Create a Firebase project at [Firebase Console](https://console.firebase.google.com/)
-2. Enable Firestore Database
-3. Generate a service account key (Project Settings > Service Accounts)
-4. Save the key as `firebase-service-account.json` (or any name)
-5. Run `python firestore_example.py` for a complete example
-
-See `CLAUDE.md` for detailed Firestore setup instructions.
-
-### Run the Example
-
-```bash
-python hymnal_crawler.py
 ```
 
 ## Output
 
-The crawler saves hymns in two formats:
+One JSON file per hymn, named `<category>_<number>.json` (e.g. `h_350.json`).
+Each file contains:
 
-1. **JSON file** (`hymns/hymns.json`) - Contains all hymn data in structured format
-2. **Individual text files** (`hymns/hymn_1.txt`, etc.) - One file per hymn with title, metadata, and chords/lyrics
+- `url`, `title`
+- `verses` — verses → lines → segments of `{chord, text}` pairs
+- `metadata` — key/value details plus extracted fields:
+  `category`, `time`, `hymn_code`, `guitar_leadsheet_url`, `related`,
+  `language_indices`, `midi_tune_url`, and `melody` (after Phase 7)
 
-## Process
-1. Fetch all hymns
-2. Fix Chinese characters
-3. Overwrite from the manual edits.
+## Manual Edits
 
-## Hymn Categories
+Files placed in `hymns_manual/` are never overwritten by the crawler; Phase 6
+copies them over the crawled output. To hand-fix a hymn:
 
-Common category codes:
-- `ts` - Traditional hymns (Chinese)
-- `h` - English hymns
-- `ns` - New songs
-- `c` - Children's songs
+```bash
+mkdir -p hymns_manual
+cp hymns/ts_5.json hymns_manual/ts_5.json
+# edit hymns_manual/ts_5.json, then re-run the pipeline
+```
 
-## Customization
+`find_missing_chords.py` scans `hymns/` for hymns without chord data and copies
+them to `hymns_manual/` for manual editing.
 
-If the page structure differs from expected, you can modify the `parse_hymn_page` method to adjust the CSS selectors:
+## Utility Scripts
 
-```python
-# Modify this line to match the actual class name:
-chord_divs = soup.find_all('div', class_='chord-text')
+- `batch_convert_chinese_hymns.py` — convert `ch`/`ts` hymns to simplified Chinese (`--dry-run` supported)
+- `dedup_hymns.py` — deduplicate/merge songbase results into `hymns/`
+- `crawl_songbase.py` — crawl songbase.life directly
+- `find_missing_chords.py` — find hymns without chords
+
+## Tests
+
+```bash
+pytest tests/
 ```
 
 ## Notes
 
-- The crawler includes a 1-second delay between requests to be respectful to the server
-- Please respect the website's terms of service and copyright
-- Hymns may be subject to copyright restrictions
+- The crawler waits 1 second between page requests; MIDI downloads default to
+  a 0.5s delay (`--delay`). Both identify with a browser User-Agent. Be
+  respectful to the servers and their terms of service.
+- Hymns may be subject to copyright restrictions; verify before distributing.
 
 ## Legal Notice
 
-This tool is for personal use and educational purposes. Please respect copyright laws and the website's terms of service. Many hymns, especially older ones, are in the public domain, but you should verify the copyright status before distributing any content.
+This tool is for personal use and educational purposes. Please respect
+copyright laws and the website's terms of service.
