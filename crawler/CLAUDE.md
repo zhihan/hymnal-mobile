@@ -66,7 +66,6 @@ crawler/
 ├── crawl_all.py                # Master script: crawl all, convert, apply manual edits
 ├── crawl_hymns.py              # Consolidated crawling module for any category
 ├── find_missing_chords.py      # Identify hymns without chords
-├── convert_to_simplified.py    # Convert single hymn to simplified Chinese
 ├── batch_convert_chinese_hymns.py  # Batch convert Chinese hymns
 ├── requirements.txt             # Python dependencies
 └── CLAUDE.md                    # This file
@@ -330,13 +329,6 @@ Scans the `hymns/` directory and identifies hymns that have no chord data. Copie
 
 ```bash
 python find_missing_chords.py
-```
-
-### convert_to_simplified.py
-Converts a single hymn file from traditional to simplified Chinese.
-
-```bash
-python convert_to_simplified.py hymns/ch_100.json
 ```
 
 ### batch_convert_chinese_hymns.py
