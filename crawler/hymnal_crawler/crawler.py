@@ -340,7 +340,6 @@ class HymnalCrawler:
         # Look for verse divs first, then chord-container inside
         lines = []
         verses = []
-        raw_sections = []
 
         # Find all verse divs
         verse_divs = soup.find_all('div', class_='verse')
@@ -408,10 +407,6 @@ class HymnalCrawler:
                         line_obj = {'segments': line_segments}
                         lines.append(line_obj)
                         verse_lines.append(line_obj)
-                        # Also store as raw text for backward compatibility
-                        line_text = ''.join(seg['text'] for seg in line_segments)
-                        if line_text:
-                            raw_sections.append(line_text)
             else:
                 # Option 2: Pure text separated by <br> tags
                 # Replace <br> tags with newlines
@@ -431,10 +426,6 @@ class HymnalCrawler:
                         }]}
                         lines.append(line_obj)
                         verse_lines.append(line_obj)
-
-                    # Store for raw_sections
-                    if text_lines:
-                        raw_sections.extend(text_lines)
 
             # Add this verse to verses array if it has lines
             if verse_lines:
@@ -484,10 +475,6 @@ class HymnalCrawler:
                 if line_segments:
                     # Wrap line segments in object to avoid nested arrays (Firestore compatibility)
                     lines.append({'segments': line_segments})
-                    # Also store as raw text for backward compatibility
-                    line_text = ''.join(seg['text'] for seg in line_segments)
-                    if line_text:
-                        raw_sections.append(line_text)
 
             # If still no content, try alternative selectors
             if not lines:
@@ -497,7 +484,6 @@ class HymnalCrawler:
 
                 if content_area:
                     content = content_area.get_text(separator='\n', strip=True)
-                    raw_sections.append(content)
                     for text_line in content.split('\n'):
                         if text_line.strip():
                             # Wrap segments in object to avoid nested arrays (Firestore compatibility)
@@ -759,7 +745,6 @@ class HymnalCrawler:
             'title': title,
             'verses': verses,
             'metadata': metadata,
-            'raw_sections': raw_sections
         }
 
     def crawl_hymn_range(self, category: str, start: int, end: int, output_dir: Optional[str] = None, fetch_related: bool = False) -> List[Dict]:
@@ -843,7 +828,7 @@ class HymnalCrawler:
             # Save as JSON
             json_path = os.path.join(output_dir, f'{base_filename}.json')
             with open(json_path, 'w', encoding='utf-8') as f:
-                json.dump(hymn, f, ensure_ascii=False, indent=2)
+                json.dump(hymn, f, ensure_ascii=False, separators=(',', ':'))
             logger.info(f"Saved {json_path}")
 
         logger.info(f"Saved {len(hymns)} hymn(s) to {output_dir}")

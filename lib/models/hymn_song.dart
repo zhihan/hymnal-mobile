@@ -7,7 +7,6 @@ class HymnSong {
   final String title;
   final List<Verse> verses;
   final Map<String, dynamic>? metadata;
-  final List<String>? rawSections;
   final List<HymnVersion>? alternateVersions;
 
   HymnSong({
@@ -15,7 +14,6 @@ class HymnSong {
     required this.title,
     required this.verses,
     this.metadata,
-    this.rawSections,
     this.alternateVersions,
   });
 
@@ -24,7 +22,18 @@ class HymnSong {
 
   Melody? get melody {
     final value = metadata?['melody'];
-    return value is Map<String, dynamic> ? Melody.fromJson(value) : null;
+    if (value is! Map<String, dynamic>) return null;
+    try {
+      return Melody.fromJson(value);
+    } on FormatException {
+      // Unsupported/corrupt melody (e.g. a not-yet-migrated v1 file). This
+      // getter is read from build(), so throwing here would replace the
+      // whole hymn page with an error widget. Degrade to "no tablature"
+      // instead: the Guitar Tab button hides and the lyrics still render.
+      return null;
+    } on TypeError {
+      return null;
+    }
   }
 
   factory HymnSong.fromJson(Map<String, dynamic> json) {
@@ -37,9 +46,6 @@ class HymnSong {
               .toList() ??
           [],
       metadata: json['metadata'] as Map<String, dynamic>?,
-      rawSections: (json['raw_sections'] as List<dynamic>?)
-          ?.map((section) => section as String)
-          .toList(),
       alternateVersions: (json['alternate_versions'] as List<dynamic>?)
           ?.map((v) => HymnVersion.fromJson(v as Map<String, dynamic>))
           .toList(),
@@ -52,7 +58,6 @@ class HymnSong {
       'title': title,
       'verses': verses.map((verse) => verse.toJson()).toList(),
       if (metadata != null) 'metadata': metadata,
-      if (rawSections != null) 'raw_sections': rawSections,
       if (alternateVersions != null)
         'alternate_versions': alternateVersions!
             .map((v) => v.toJson())

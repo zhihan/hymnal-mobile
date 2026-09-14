@@ -191,7 +191,7 @@ class TestParseHymnPage:
 
         assert result['title'] == "空的诗歌"
         assert len(result['verses']) == 0
-        assert len(result['raw_sections']) == 0
+        assert 'raw_sections' not in result
 
     def test_parse_metadata_with_div_metadata_class(self):
         """Test parsing metadata from div with metadata class."""
@@ -639,7 +639,6 @@ class TestSaveHymns:
                 'title': 'Test Hymn',
                 'verses': [{'lines': [{'segments': [{'chord': 'C', 'text': 'Line 1'}]}]}],
                 'metadata': {'Key': 'C'},
-                'raw_sections': []
             }
         ]
 
@@ -657,7 +656,6 @@ class TestSaveHymns:
                 'title': 'Test Hymn',
                 'verses': [{'lines': [{'segments': [{'chord': 'C', 'text': 'Line 1'}]}]}],
                 'metadata': {'Key': 'C'},
-                'raw_sections': ['Line 1']
             }
         ]
 
@@ -701,7 +699,6 @@ class TestSaveHymns:
                     {'lines': [{'segments': [{'chord': 'G', 'text': 'Verse 2 Line 1'}]}]}
                 ],
                 'metadata': {},
-                'raw_sections': []
             }
         ]
 

@@ -68,7 +68,7 @@ def convert_json_file(file_path, converter, dry_run=False):
 
         # Write back to the same file
         with open(file_path, 'w', encoding='utf-8') as f:
-            json.dump(converted_data, f, ensure_ascii=False, indent=2)
+            json.dump(converted_data, f, ensure_ascii=False, separators=(',', ':'))
 
         return True
 

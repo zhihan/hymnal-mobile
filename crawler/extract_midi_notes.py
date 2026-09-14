@@ -18,7 +18,11 @@ import requests
 
 
 LOGGER = logging.getLogger(__name__)
-SCHEMA_VERSION = 1
+SCHEMA_VERSION = 2
+
+# ticks_per_beat is 384 for every melody in the corpus, so v2 does not store
+# it per file; the Dart decoder treats it as a constant.
+V2_TICKS_PER_BEAT = 384
 
 # Same browser User-Agent as the main hymn crawler (hymnal_crawler/crawler.py).
 # All 4,033 midi_tune_urls point at www.hymnal.net, so thousands of
@@ -75,6 +79,39 @@ def _overlap_count(notes: list[dict]) -> int:
     return overlaps
 
 
+def _encode_melody_v2(notes: list[dict]) -> list:
+    """Encode notes as [duration, pitch-delta] pairs with explicit rests.
+
+    Start times are reconstructed by accumulating durations, so only gaps
+    are stored explicitly as ["R", ticks]. The first entry carries the
+    absolute pitch; later entries carry the delta from the previous pitch.
+    """
+    encoded = []
+    cursor = 0
+    pitch = None
+    for note in notes:
+        start = note["start"]
+        if start < cursor:
+            # Overlapping note: not representable in the monophonic v2
+            # encoding; the track picker already prefers monophonic tracks.
+            LOGGER.warning(
+                "Skipping overlapping note at tick %d (pitch %d)",
+                start,
+                note["pitch"],
+            )
+            continue
+        if start > cursor:
+            encoded.append(["R", start - cursor])
+            cursor = start
+        if pitch is None:
+            encoded.append([note["duration"], note["pitch"]])
+        else:
+            encoded.append([note["duration"], note["pitch"] - pitch])
+        pitch = note["pitch"]
+        cursor = start + note["duration"]
+    return encoded
+
+
 def extract_melody(midi: mido.MidiFile) -> dict:
     """Extract the most melody-like non-empty track from a MIDI file."""
     candidates = []
@@ -87,7 +124,7 @@ def extract_melody(midi: mido.MidiFile) -> dict:
         raise ValueError("MIDI contains no notes")
 
     # Prefer monophonic tracks, then the track containing the most notes.
-    notes, track_index = min(
+    notes, _ = min(
         candidates,
         key=lambda item: (
             _overlap_count(item[0]) / len(item[0]),
@@ -96,26 +133,23 @@ def extract_melody(midi: mido.MidiFile) -> dict:
         ),
     )
 
-    tempo = 500_000
+    # The tablature renderer sizes bars from this, and 37% of the corpus is
+    # not 4/4, so it has to survive the v2 encoding. Tempo and track number
+    # are dropped: nothing reads them.
     numerator, denominator = 4, 4
-    found_tempo = False
-    found_signature = False
     for track in midi.tracks:
         for message in track:
-            if message.type == "set_tempo" and not found_tempo:
-                tempo = message.tempo
-                found_tempo = True
-            if message.type == "time_signature" and not found_signature:
+            if message.type == "time_signature":
                 numerator, denominator = message.numerator, message.denominator
-                found_signature = True
+                break
+        else:
+            continue
+        break
 
     return {
-        "version": SCHEMA_VERSION,
-        "ticks_per_beat": midi.ticks_per_beat,
-        "tempo_bpm": round(mido.tempo2bpm(tempo), 2),
-        "time_signature": [numerator, denominator],
-        "track": track_index,
-        "notes": notes,
+        "v": SCHEMA_VERSION,
+        "ts": [numerator, denominator],
+        "n": _encode_melody_v2(notes),
     }
 
 
@@ -146,7 +180,7 @@ def process_hymn(
     if not midi_url:
         return "skipped"
 
-    if not force and (metadata.get("melody") or {}).get("version") == SCHEMA_VERSION:
+    if not force and (metadata.get("melody") or {}).get("v") == SCHEMA_VERSION:
         return "unchanged"
 
     if delay > 0:
@@ -160,7 +194,7 @@ def process_hymn(
     metadata["melody"] = melody
     data["metadata"] = metadata
     path.write_text(
-        json.dumps(data, ensure_ascii=False, indent=2) + "\n",
+        json.dumps(data, ensure_ascii=False, separators=(',', ':')) + "\n",
         encoding="utf-8",
     )
     return "updated"

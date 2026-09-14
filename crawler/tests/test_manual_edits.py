@@ -47,7 +47,6 @@ def sample_hymn():
         "metadata": {
             "category": "Test Category"
         },
-        "raw_sections": []
     }
 
 

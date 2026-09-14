@@ -10,6 +10,7 @@ from extract_midi_notes import (
     SCHEMA_VERSION,
     USER_AGENT,
     MidiExtractionError,
+    _encode_melody_v2,
     _format_duration,
     extract_melody,
     main,
@@ -38,12 +39,8 @@ def test_extracts_pitch_start_and_duration():
 
     melody = extract_melody(midi)
 
-    assert melody["ticks_per_beat"] == 480
-    assert melody["tempo_bpm"] == 100.0
-    assert melody["notes"] == [
-        {"start": 0, "duration": 480, "pitch": 60},
-        {"start": 480, "duration": 240, "pitch": 62},
-    ]
+    assert melody["v"] == 2
+    assert melody["n"] == [[480, 60], [240, 2]]
 
 
 def test_prefers_monophonic_track_over_chord_track():
@@ -62,8 +59,10 @@ def test_prefers_monophonic_track_over_chord_track():
 
     melody = extract_melody(_midi_with_tracks(chord_track, melody_track))
 
-    assert melody["track"] == 1
-    assert [note["pitch"] for note in melody["notes"]] == [60, 62]
+    assert melody["v"] == 2
+    # The monophonic track (index 1) wins over the chord track; the second
+    # entry carries the pitch delta from the first.
+    assert melody["n"] == [[240, 60], [240, 2]]
 
 
 def test_formats_progress_eta():
@@ -116,7 +115,7 @@ def test_process_hymn_skips_download_when_melody_current(tmp_path):
     path = tmp_path / "h_1.json"
     _write_hymn(path, {
         "midi_tune_url": "https://www.hymnal.net/midi/tunes/h001.mid",
-        "melody": {"version": SCHEMA_VERSION, "notes": []},
+        "melody": {"v": SCHEMA_VERSION, "n": []},
     })
 
     assert process_hymn(path, _NoGetSession()) == "unchanged"
@@ -126,7 +125,7 @@ def test_process_hymn_force_redownloads_current_melody(tmp_path):
     path = tmp_path / "h_1.json"
     _write_hymn(path, {
         "midi_tune_url": "https://www.hymnal.net/midi/tunes/h001.mid",
-        "melody": {"version": SCHEMA_VERSION, "notes": []},
+        "melody": {"v": SCHEMA_VERSION, "n": []},
     })
     session = _FakeSession(_midi_bytes())
 
@@ -166,7 +165,7 @@ def test_process_directory_sets_user_agent_and_skips_quietly(tmp_path, monkeypat
     _write_hymn(tmp_path / "h_1.json", {})
     _write_hymn(tmp_path / "h_2.json", {
         "midi_tune_url": "https://www.hymnal.net/midi/tunes/h002.mid",
-        "melody": {"version": SCHEMA_VERSION, "notes": []},
+        "melody": {"v": SCHEMA_VERSION, "n": []},
     })
 
     result = process_directory(tmp_path, delay=0.5, progress_every=0)
@@ -234,7 +233,7 @@ def test_process_directory_tolerates_few_errors(tmp_path, monkeypatch):
             tmp_path / f"u_{i}.json",
             {
                 "midi_tune_url": f"https://www.hymnal.net/midi/tunes/u{i}.mid",
-                "melody": {"version": SCHEMA_VERSION, "notes": []},
+                "melody": {"v": SCHEMA_VERSION, "n": []},
             },
         )
     _write_hymn_json(
@@ -286,3 +285,76 @@ def test_main_exits_nonzero_on_mass_failure(tmp_path, monkeypatch, capsys):
 
     assert exc_info.value.code == 1
     assert '"errors": 3' in capsys.readouterr().out
+def test_encode_melody_v2_contiguous_notes():
+    notes = [
+        {"start": 0, "duration": 384, "pitch": 60},
+        {"start": 384, "duration": 192, "pitch": 62},
+        {"start": 576, "duration": 192, "pitch": 59},
+    ]
+    assert _encode_melody_v2(notes) == [[384, 60], [192, 2], [192, -3]]
+
+
+def test_encode_melody_v2_inserts_rest_for_gap():
+    notes = [
+        {"start": 0, "duration": 384, "pitch": 60},
+        {"start": 768, "duration": 384, "pitch": 65},
+    ]
+    assert _encode_melody_v2(notes) == [[384, 60], ["R", 384], [384, 5]]
+
+
+def _decode_melody_v2(encoded):
+    """Python mirror of Melody.fromJson; used to verify round-trips."""
+    notes = []
+    cursor = 0
+    pitch = None
+    for entry in encoded:
+        if entry[0] == "R":
+            cursor += entry[1]
+            continue
+        duration, delta = entry
+        pitch = delta if pitch is None else pitch + delta
+        notes.append({"start": cursor, "duration": duration, "pitch": pitch})
+        cursor += duration
+    return notes
+
+
+def test_encode_melody_v2_roundtrip():
+    notes = [
+        {"start": 0, "duration": 384, "pitch": 60},
+        {"start": 384, "duration": 192, "pitch": 62},
+        {"start": 576, "duration": 192, "pitch": 60},
+        {"start": 960, "duration": 768, "pitch": 65},
+    ]
+    assert _decode_melody_v2(_encode_melody_v2(notes)) == notes
+
+
+def test_extract_melody_returns_v2_shape():
+    midi = mido.MidiFile(ticks_per_beat=384)
+    track = mido.MidiTrack()
+    track.append(mido.Message("note_on", note=60, velocity=64, time=0))
+    track.append(mido.Message("note_off", note=60, velocity=64, time=384))
+    track.append(mido.Message("note_on", note=62, velocity=64, time=0))
+    track.append(mido.Message("note_off", note=62, velocity=64, time=192))
+    midi.tracks.append(track)
+
+    melody = extract_melody(midi)
+
+    assert melody["v"] == 2
+    assert set(melody) == {"v", "ts", "n"}
+    assert melody["ts"] == [4, 4]
+    assert _decode_melody_v2(melody["n"]) == [
+        {"start": 0, "duration": 384, "pitch": 60},
+        {"start": 384, "duration": 192, "pitch": 62},
+    ]
+
+
+def test_extract_melody_preserves_non_common_time_signature():
+    """37% of the corpus is not 4/4 and the tab renderer sizes bars from this."""
+    midi = mido.MidiFile(ticks_per_beat=384)
+    track = mido.MidiTrack()
+    track.append(mido.MetaMessage("time_signature", numerator=3, denominator=4, time=0))
+    track.append(mido.Message("note_on", note=60, velocity=64, time=0))
+    track.append(mido.Message("note_off", note=60, velocity=64, time=384))
+    midi.tracks.append(track)
+
+    assert extract_melody(midi)["ts"] == [3, 4]

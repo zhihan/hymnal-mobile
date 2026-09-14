@@ -121,11 +121,27 @@ Hymns whose source provides a MIDI tune get compact melody data written to
 on-device, recalculating string and fret positions whenever the capo or
 transpose setting changes. Hymns without a MIDI tune simply have no Tab button.
 
+Melodies are stored in a compact v2 encoding:
+
+```json
+"melody": {"v": 2, "n": [[384, 60], [192, 2], ["R", 384], [768, 5]]}
+```
+
+Each entry is `[duration, pitch]` — the first carries an absolute MIDI pitch,
+later entries a delta from the previous note — and `["R", ticks]` is a rest.
+
 To re-extract the melody for a single hymn without rebuilding the catalog:
 
 ```bash
 crawler/venv/bin/python crawler/extract_midi_notes.py \
   --file crawler/hymns/h_350.json --force
+```
+
+To convert an existing crawl from the v1 encoding in place (lossless, no
+network):
+
+```bash
+crawler/venv/bin/python crawler/migrate_melody_v2.py --hymns-dir crawler/hymns
 ```
 
 ## Development Notes
