@@ -38,12 +38,6 @@ pip install -r requirements.txt
 # Activate virtual environment (required before running)
 source venv/bin/activate
 
-# Run basic single-hymn example
-python main.py
-
-# Run comprehensive examples
-python example_usage.py
-
 # Run tests
 pytest tests/
 ```
@@ -61,12 +55,8 @@ crawler/
 │   └── test_manual_edits.py    # Tests for manual edit protection
 ├── hymns/                       # Generated hymn JSON files (~4,000+ files)
 ├── hymns_manual/                # Manually edited hymns (protected from overwrite)
-├── main.py                      # Basic single-hymn example
-├── example_usage.py             # Comprehensive usage examples
 ├── crawl_all.py                # Master script: crawl all, convert, apply manual edits
 ├── crawl_hymns.py              # Consolidated crawling module for any category
-├── find_missing_chords.py      # Identify hymns without chords
-├── convert_to_simplified.py    # Convert single hymn to simplified Chinese
 ├── batch_convert_chinese_hymns.py  # Batch convert Chinese hymns
 ├── requirements.txt             # Python dependencies
 └── CLAUDE.md                    # This file
@@ -324,20 +314,6 @@ python crawl_hymns.py ch --delay 1.0         # 1 second between requests
 ```
 
 ## Utility Scripts
-
-### find_missing_chords.py
-Scans the `hymns/` directory and identifies hymns that have no chord data. Copies these files to `hymns_manual/` for manual editing.
-
-```bash
-python find_missing_chords.py
-```
-
-### convert_to_simplified.py
-Converts a single hymn file from traditional to simplified Chinese.
-
-```bash
-python convert_to_simplified.py hymns/ch_100.json
-```
 
 ### batch_convert_chinese_hymns.py
 Batch converts all ch and ts hymns to simplified Chinese. Supports `--dry-run` flag.
