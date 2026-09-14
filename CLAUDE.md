@@ -127,9 +127,6 @@ python crawl_hymns.py ns         # New Songs (ns)
 
 # Deduplicate songbase vs hymnal.net
 python dedup_hymns.py
-
-# Find hymns missing chords (copies to hymns_manual/ for editing)
-python find_missing_chords.py
 ```
 
 **Crawler Output**: JSON files are saved to `crawler/hymns/`. These need to be copied to `hymns/` (project root) for the Flutter app to bundle them. The `build_hymns.sh` script handles this automatically.
@@ -222,7 +219,6 @@ hymnal_mobile/
 │   ├── crawl_all.py                # Master script: crawl all sources, convert, merge, apply edits
 │   ├── crawl_hymns.py              # Consolidated hymnal.net crawling module
 │   ├── dedup_hymns.py              # Deduplicate & merge songbase into hymnal data
-│   ├── find_missing_chords.py      # Identify hymns without chords
 │   └── requirements.txt            # Python dependencies
 └── test/                           # Flutter tests
 ```

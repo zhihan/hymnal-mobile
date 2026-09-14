@@ -25,9 +25,6 @@ source venv/bin/activate
 
 # Run the basic example
 python hymnal_crawler.py
-
-# Or run the comprehensive examples
-python example_usage.py
 ```
 
 ## Usage

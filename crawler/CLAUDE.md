@@ -57,7 +57,6 @@ crawler/
 ├── hymns_manual/                # Manually edited hymns (protected from overwrite)
 ├── crawl_all.py                # Master script: crawl all, convert, apply manual edits
 ├── crawl_hymns.py              # Consolidated crawling module for any category
-├── find_missing_chords.py      # Identify hymns without chords
 ├── batch_convert_chinese_hymns.py  # Batch convert Chinese hymns
 ├── requirements.txt             # Python dependencies
 └── CLAUDE.md                    # This file
@@ -315,13 +314,6 @@ python crawl_hymns.py ch --delay 1.0         # 1 second between requests
 ```
 
 ## Utility Scripts
-
-### find_missing_chords.py
-Scans the `hymns/` directory and identifies hymns that have no chord data. Copies these files to `hymns_manual/` for manual editing.
-
-```bash
-python find_missing_chords.py
-```
 
 ### batch_convert_chinese_hymns.py
 Batch converts all ch and ts hymns to simplified Chinese. Supports `--dry-run` flag.
