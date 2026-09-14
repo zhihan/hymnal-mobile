@@ -37,10 +37,9 @@ for arg in "$@"; do
       echo "  2. Crawl songbase.life (English)"
       echo "  3. Deduplicate and merge songbase into hymnal.net data"
       echo "  4. Convert Chinese hymns to simplified"
-      echo "  5. Apply manual edits from crawler/hymns_manual/"
-      echo "  6. Download MIDI tunes and embed melody notes (skip with --skip-midi)"
-      echo "  7. Copy crawler/hymns/ → hymns/ (app asset directory)"
-      echo "  8. Regenerate assets/available_hymns.json"
+      echo "  5. Download MIDI tunes and embed melody notes (skip with --skip-midi)"
+      echo "  6. Copy crawler/hymns/ → hymns/ (app asset directory)"
+      echo "  7. Regenerate assets/available_hymns.json"
       exit 0
       ;;
   esac
@@ -59,7 +58,7 @@ if [ "$SKIP_CRAWL" = false ]; then
   if [ "$SONGBASE_ONLY" = true ]; then
     # Songbase-only is the fast path (~3 seconds via API): keep it fast by
     # skipping the crawl phases and MIDI extraction alike.
-    CRAWL_ARGS=(--skip-chinese --skip-english --skip-convert --skip-manual --skip-midi)
+    CRAWL_ARGS=(--skip-chinese --skip-english --skip-convert --skip-midi)
   else
     CRAWL_ARGS=()
   fi

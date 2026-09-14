@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Master script to crawl all hymns, convert Chinese hymns, and apply manual edits.
+Master script to crawl all hymns, convert Chinese hymns, and extract MIDI melodies.
 
 Process:
 1. Fetch Chinese hymns (ch, ts) from hymnal.net
@@ -8,12 +8,10 @@ Process:
 3. Fetch English hymns from songbase.life
 4. Deduplicate and merge songbase into hymns/
 5. Convert Chinese hymns to simplified Chinese
-6. Copy manual edits from hymns_manual/ to hymns/
-7. Download MIDI tunes and embed melody notes (metadata.melody)
+6. Download MIDI tunes and embed melody notes (metadata.melody)
 """
 
 import os
-import shutil
 import argparse
 import logging
 from pathlib import Path
@@ -36,55 +34,13 @@ CHINESE_CATEGORIES = ['ch', 'ts']
 ENGLISH_CATEGORIES = ['lb', 'nt', 'h', 'ns']
 
 
-def copy_manual_edits(manual_dir: str = "hymns_manual", hymns_dir: str = "hymns") -> dict:
-    """
-    Copy files from hymns_manual/ to hymns/, overwriting existing files.
-
-    Args:
-        manual_dir: Directory containing manually edited hymns
-        hymns_dir: Target directory for hymns
-
-    Returns:
-        Dictionary with statistics: {copied, total}
-    """
-    manual_path = Path(manual_dir)
-    hymns_path = Path(hymns_dir)
-
-    if not manual_path.exists():
-        print(f"\nNo manual edits directory found ({manual_dir})")
-        return {"copied": 0, "total": 0}
-
-    # Find all JSON files in manual directory
-    manual_files = list(manual_path.glob("*.json"))
-
-    if not manual_files:
-        print(f"\nNo manual edit files found in {manual_dir}")
-        return {"copied": 0, "total": 0}
-
-    print(f"\n{'=' * 60}")
-    print(f"Copying manual edits from {manual_dir}/ to {hymns_dir}/")
-    print(f"{'=' * 60}")
-
-    copied = 0
-    for file_path in sorted(manual_files):
-        dest_path = hymns_path / file_path.name
-        shutil.copy2(file_path, dest_path)
-        print(f"  ✓ Copied: {file_path.name}")
-        copied += 1
-
-    print(f"\n  Total copied: {copied} files")
-    return {"copied": copied, "total": len(manual_files)}
-
-
 def crawl_all(
     output_dir: str = "hymns",
-    manual_dir: str = "hymns_manual",
     songbase_dir: str = "hymns_songbase",
     skip_chinese: bool = False,
     skip_english: bool = False,
     skip_songbase: bool = False,
     skip_convert: bool = False,
-    skip_manual: bool = False,
     skip_midi: bool = False,
     dry_run: bool = False,
     delay: float = 0.5,
@@ -95,12 +51,10 @@ def crawl_all(
 
     Args:
         output_dir: Directory to save hymns
-        manual_dir: Directory containing manual edits
         skip_chinese: Skip crawling Chinese hymns
         skip_english: Skip crawling English hymns
         skip_songbase: Skip crawling songbase.life and dedup/merge
         skip_convert: Skip Chinese to simplified conversion
-        skip_manual: Skip copying manual edits
         skip_midi: Skip MIDI tune download and melody note extraction
         dry_run: Show what would be done without executing
         delay: Delay between requests in seconds (also used before each MIDI download)
@@ -115,7 +69,6 @@ def crawl_all(
         "songbase": None,
         "dedup": None,
         "conversion": None,
-        "manual": None,
         "midi": None,
     }
 
@@ -206,26 +159,7 @@ def crawl_all(
     else:
         print("\n[SKIPPED] Phase 5: Chinese conversion")
 
-    # Phase 6: Copy manual edits
-    if not skip_manual:
-        print("\n" + "=" * 60)
-        print("PHASE 6: Applying manual edits")
-        print("=" * 60)
-
-        if dry_run:
-            manual_path = Path(manual_dir)
-            if manual_path.exists():
-                files = list(manual_path.glob("*.json"))
-                print(f"  [DRY RUN] Would copy {len(files)} files from {manual_dir}/")
-            else:
-                print(f"  [DRY RUN] No manual directory found")
-        else:
-            result = copy_manual_edits(manual_dir=manual_dir, hymns_dir=output_dir)
-            results["manual"] = result
-    else:
-        print("\n[SKIPPED] Phase 6: Manual edits")
-
-    # Phase 7: Download MIDI tunes and embed melody notes. Default-on like
+    # Phase 6: Download MIDI tunes and embed melody notes. Default-on like
     # every other phase. Note the crawl phases rewrite hymn JSON from
     # scratch, wiping any previously stored melody, so a full run
     # re-downloads every MIDI tune (the version cache in
@@ -233,7 +167,7 @@ def crawl_all(
     # against an existing corpus).
     if not skip_midi:
         print("\n" + "=" * 60)
-        print("PHASE 7: Extracting MIDI melody notes")
+        print("PHASE 6: Extracting MIDI melody notes")
         print("=" * 60)
         if dry_run:
             print(f"  [DRY RUN] Would process MIDI URLs in {output_dir}/")
@@ -243,9 +177,9 @@ def crawl_all(
             except MidiExtractionError as error:
                 # Fail the build loudly instead of burying the failure in the
                 # summary; build_hymns.sh (set -e) stops before copying.
-                raise RuntimeError(f"Phase 7 (MIDI extraction) failed: {error}") from error
+                raise RuntimeError(f"Phase 6 (MIDI extraction) failed: {error}") from error
     else:
-        print("\n[SKIPPED] Phase 7: MIDI extraction (--skip-midi)")
+        print("\n[SKIPPED] Phase 6: MIDI extraction (--skip-midi)")
 
     # Final summary
     print("\n" + "=" * 60)
@@ -280,10 +214,6 @@ def crawl_all(
         if results["conversion"]:
             print(f"Chinese hymns converted: {results['conversion']['success']}")
 
-        # Manual edits summary
-        if results["manual"]:
-            print(f"Manual edits applied: {results['manual']['copied']}")
-
         if results["midi"]:
             m = results["midi"]
             print(f"MIDI melodies: {m['updated']} updated, {m['errors']} errors")
@@ -296,19 +226,13 @@ def crawl_all(
 def main():
     """CLI entry point."""
     parser = argparse.ArgumentParser(
-        description="Crawl all hymns, convert Chinese, and apply manual edits"
+        description="Crawl all hymns, convert Chinese, and extract MIDI melodies"
     )
     parser.add_argument(
         "--output-dir",
         type=str,
         default="hymns",
         help="Output directory for hymns (default: hymns)"
-    )
-    parser.add_argument(
-        "--manual-dir",
-        type=str,
-        default="hymns_manual",
-        help="Directory containing manual edits (default: hymns_manual)"
     )
     parser.add_argument(
         "--skip-chinese",
@@ -337,11 +261,6 @@ def main():
         help="Skip Chinese to simplified conversion"
     )
     parser.add_argument(
-        "--skip-manual",
-        action="store_true",
-        help="Skip applying manual edits"
-    )
-    parser.add_argument(
         "--skip-midi",
         action="store_true",
         help="Skip MIDI tune download and melody note extraction (on by default)"
@@ -368,13 +287,11 @@ def main():
 
     crawl_all(
         output_dir=args.output_dir,
-        manual_dir=args.manual_dir,
         songbase_dir=args.songbase_dir,
         skip_chinese=args.skip_chinese,
         skip_english=args.skip_english,
         skip_songbase=args.skip_songbase,
         skip_convert=args.skip_convert,
-        skip_manual=args.skip_manual,
         skip_midi=args.skip_midi,
         dry_run=args.dry_run,
         batch_size=args.batch_size,
