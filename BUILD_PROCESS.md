@@ -63,11 +63,6 @@ flutter build ios
 # For Android
 flutter build apk
 flutter build appbundle
-
-# For other platforms
-flutter build macos
-flutter build linux
-flutter build windows
 ```
 
 ## First Launch Behavior
