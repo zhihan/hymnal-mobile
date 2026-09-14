@@ -124,7 +124,6 @@ python crawl_hymns.py ch         # Chinese Classical Hymns (ch)
 python crawl_hymns.py ts         # Chinese New Hymns (ts)
 python crawl_hymns.py h          # English Hymns (h)
 python crawl_hymns.py ns         # New Songs (ns)
-python crawl_songbase.py         # Songbase.life English hymns
 
 # Deduplicate songbase vs hymnal.net
 python dedup_hymns.py
@@ -222,7 +221,6 @@ hymnal_mobile/
 │   ├── tests/                      # Pytest unit tests
 │   ├── crawl_all.py                # Master script: crawl all sources, convert, merge, apply edits
 │   ├── crawl_hymns.py              # Consolidated hymnal.net crawling module
-│   ├── crawl_songbase.py           # Songbase.life crawling CLI
 │   ├── dedup_hymns.py              # Deduplicate & merge songbase into hymnal data
 │   ├── find_missing_chords.py      # Identify hymns without chords
 │   └── requirements.txt            # Python dependencies

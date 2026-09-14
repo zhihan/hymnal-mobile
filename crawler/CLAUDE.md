@@ -38,12 +38,6 @@ pip install -r requirements.txt
 # Activate virtual environment (required before running)
 source venv/bin/activate
 
-# Run basic single-hymn example
-python main.py
-
-# Run comprehensive examples
-python example_usage.py
-
 # Run tests
 pytest tests/
 ```
@@ -61,8 +55,6 @@ crawler/
 │   └── test_manual_edits.py    # Tests for manual edit protection
 ├── hymns/                       # Generated hymn JSON files (~4,000+ files)
 ├── hymns_manual/                # Manually edited hymns (protected from overwrite)
-├── main.py                      # Basic single-hymn example
-├── example_usage.py             # Comprehensive usage examples
 ├── crawl_all.py                # Master script: crawl all, convert, apply manual edits
 ├── crawl_hymns.py              # Consolidated crawling module for any category
 ├── find_missing_chords.py      # Identify hymns without chords
