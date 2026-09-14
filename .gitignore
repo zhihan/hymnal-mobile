@@ -57,6 +57,10 @@ assets/soundfont.sf2
 crawler/hymns_songbase/
 crawler/songbase_raw.json
 
+# Generated files (regenerate locally, never commit)
+*.g.dart
+assets/available_hymns.json
+
 # Sensitive local files
 KEYSTORE_INFO.md
 .claude/
