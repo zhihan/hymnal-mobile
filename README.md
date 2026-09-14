@@ -49,12 +49,13 @@ That runs:
 2. Crawl songbase.life
 3. Deduplicate and merge songbase into the hymnal.net data
 4. Convert Chinese hymns to simplified
-5. Download MIDI tunes and embed melody notes into `metadata.melody`
-6. Copy `crawler/hymns/` → `hymns/`
-7. Regenerate `assets/available_hymns.json`
+5. Apply hand-fixed hymns from `crawler/hymns_manual/`
+6. Download MIDI tunes and embed melody notes into `metadata.melody`
+7. Copy `crawler/hymns/` → `hymns/`
+8. Regenerate `assets/available_hymns.json`
 
-It takes a while — step 1 crawls ~5,800 pages and step 5 downloads ~4,000 MIDI
-files. Both are rate-limited on purpose. Pass `--skip-midi` to skip step 5.
+It takes a while — step 1 crawls ~5,800 pages and step 6 downloads ~4,000 MIDI
+files. Both are rate-limited on purpose. Pass `--skip-midi` to skip step 6.
 
 ## Run The App
 
@@ -116,7 +117,7 @@ Book IDs:
 ## Guitar Tablature
 
 Hymns whose source provides a MIDI tune get compact melody data written to
-`metadata.melody` during step 5. The app renders that as guitar tablature
+`metadata.melody` during step 6. The app renders that as guitar tablature
 on-device, recalculating string and fret positions whenever the capo or
 transpose setting changes. Hymns without a MIDI tune simply have no Tab button.
 

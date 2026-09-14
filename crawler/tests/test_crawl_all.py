@@ -1,4 +1,4 @@
-"""Phase 6 (MIDI extraction): default-on gating and failure propagation."""
+"""Phase 7 (MIDI extraction): default-on gating and failure propagation."""
 
 import sys
 
@@ -14,10 +14,11 @@ def _skipped_phases():
         skip_english=True,
         skip_songbase=True,
         skip_convert=True,
+        skip_manual=True,
     )
 
 
-def test_phase6_runs_by_default(tmp_path, monkeypatch):
+def test_phase7_runs_by_default(tmp_path, monkeypatch):
     calls = []
 
     def fake_extract(output_dir, **kwargs):
@@ -33,7 +34,7 @@ def test_phase6_runs_by_default(tmp_path, monkeypatch):
     assert calls[0][1]["delay"] == 0.5
 
 
-def test_phase6_suppressed_by_skip_midi(tmp_path, monkeypatch):
+def test_phase7_suppressed_by_skip_midi(tmp_path, monkeypatch):
     calls = []
     monkeypatch.setattr(
         crawl_all, "extract_midi_notes", lambda *a, **k: calls.append(True)
@@ -64,7 +65,7 @@ def test_cli_midi_on_by_default(monkeypatch):
     assert captured["skip_midi"] is False
 
 
-def test_phase6_mass_failure_raises(tmp_path, monkeypatch):
+def test_phase7_mass_failure_raises(tmp_path, monkeypatch):
     def fail(*args, **kwargs):
         raise MidiExtractionError(
             "3/3 attempted hymn downloads failed (100.0% error rate exceeds 10% allowed)",
@@ -73,7 +74,7 @@ def test_phase6_mass_failure_raises(tmp_path, monkeypatch):
 
     monkeypatch.setattr(crawl_all, "extract_midi_notes", fail)
 
-    with pytest.raises(RuntimeError, match="Phase 6"):
+    with pytest.raises(RuntimeError, match="Phase 7"):
         crawl_all.crawl_all(
             output_dir=str(tmp_path),
             **_skipped_phases(),

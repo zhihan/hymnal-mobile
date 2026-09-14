@@ -27,7 +27,7 @@ JSON into the app's asset directory, and regenerate the hymn index:
 ./build_hymns.sh --songbase-only  # Fast path: songbase API only
 ```
 
-Under the hood, `./build_hymns.sh` runs `crawler/crawl_all.py`, a 6-phase
+Under the hood, `./build_hymns.sh` runs `crawler/crawl_all.py`, a 7-phase
 pipeline:
 
 1. Crawl Chinese hymns from hymnal.net (`ch`, `ts`)
@@ -35,21 +35,23 @@ pipeline:
 3. Crawl English songs from songbase.life (API)
 4. Deduplicate and merge songbase results into `hymns/`
 5. Convert Chinese hymns to simplified Chinese
-6. Download MIDI tunes and embed melody notes (on by default; `--skip-midi` to opt out)
+6. Apply manual edits from `hymns_manual/`
+7. Download MIDI tunes and embed melody notes (on by default; `--skip-midi` to opt out)
 
 Then it copies `crawler/hymns/*.json` to the repo-root `hymns/` directory and
 regenerates `assets/available_hymns.json` via `dart run tool/build_database.dart`.
 
 Useful `crawl_all.py` flags: `--dry-run`, `--skip-chinese`, `--skip-english`,
-`--skip-songbase`, `--skip-convert`, `--skip-midi`, `--delay`, `--batch-size`.
+`--skip-songbase`, `--skip-convert`, `--skip-manual`, `--skip-midi`, `--delay`,
+`--batch-size`.
 See `python crawl_all.py --help`.
 
-## Melody Extraction (Phase 6)
+## Melody Extraction (Phase 7)
 
 `extract_midi_notes.py` downloads each hymn's `metadata.midi_tune_url`,
 selects the most melody-like track, and writes compact pitch/timing data to
 `metadata.melody`. The app renders guitar tablature on-device from these
-notes. It runs as Phase 6 of `crawl_all.py` by default; pass `--skip-midi`
+notes. It runs as Phase 7 of `crawl_all.py` by default; pass `--skip-midi`
 (or `./build_hymns.sh --skip-midi`) to skip it.
 
 Note: a full crawl rewrites every hymn file from scratch, wiping any
@@ -107,13 +109,18 @@ Each file contains:
 - `verses` — verses → lines → segments of `{chord, text}` pairs
 - `metadata` — key/value details plus extracted fields:
   `category`, `time`, `hymn_code`, `guitar_leadsheet_url`, `related`,
-  `language_indices`, `midi_tune_url`, and `melody` (after Phase 6)
+  `language_indices`, `midi_tune_url`, and `melody` (after Phase 7)
 
 ## Manual Edits
 
-Files placed in `hymns_manual/` are never overwritten by the crawler, so a
-re-crawl leaves a hand-fixed hymn's entry in `hymns/` untouched. Copying them
-into `hymns/` is a manual step — the pipeline no longer does it.
+Files placed in `hymns_manual/` are never overwritten by the crawler; Phase 6
+copies them over the crawled output. To hand-fix a hymn:
+
+```bash
+mkdir -p hymns_manual
+cp hymns/ts_5.json hymns_manual/ts_5.json
+# edit hymns_manual/ts_5.json, then re-run the pipeline
+```
 
 ## Utility Scripts
 
