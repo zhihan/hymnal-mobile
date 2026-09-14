@@ -121,15 +121,10 @@ cp hymns/ts_5.json hymns_manual/ts_5.json
 # edit hymns_manual/ts_5.json, then re-run the pipeline
 ```
 
-`find_missing_chords.py` scans `hymns/` for hymns without chord data and copies
-them to `hymns_manual/` for manual editing.
-
 ## Utility Scripts
 
 - `batch_convert_chinese_hymns.py` — convert `ch`/`ts` hymns to simplified Chinese (`--dry-run` supported)
 - `dedup_hymns.py` — deduplicate/merge songbase results into `hymns/`
-- `crawl_songbase.py` — crawl songbase.life directly
-- `find_missing_chords.py` — find hymns without chords
 
 ## Tests
 
