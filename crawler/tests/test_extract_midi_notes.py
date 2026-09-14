@@ -1,6 +1,17 @@
+import io
+import json
+
 import mido
 
-from extract_midi_notes import _format_duration, extract_melody
+import extract_midi_notes
+from extract_midi_notes import (
+    SCHEMA_VERSION,
+    USER_AGENT,
+    _format_duration,
+    extract_melody,
+    process_directory,
+    process_hymn,
+)
 
 
 def _midi_with_tracks(*tracks):
@@ -54,3 +65,110 @@ def test_prefers_monophonic_track_over_chord_track():
 def test_formats_progress_eta():
     assert _format_duration(65) == "1m 05s"
     assert _format_duration(3661) == "1h 01m 01s"
+
+
+def _write_hymn(path, metadata):
+    path.write_text(json.dumps({"metadata": metadata}), encoding="utf-8")
+
+
+def _midi_bytes():
+    midi = _midi_with_tracks([
+        mido.Message("note_on", note=60, velocity=64, time=0),
+        mido.Message("note_off", note=60, velocity=0, time=480),
+    ])
+    buffer = io.BytesIO()
+    midi.save(file=buffer)
+    return buffer.getvalue()
+
+
+class _FakeResponse:
+    def __init__(self, content):
+        self.content = content
+
+    def raise_for_status(self):
+        pass
+
+
+class _FakeSession:
+    """Session double that records GETs instead of hitting the network."""
+
+    def __init__(self, content):
+        self.content = content
+        self.gets = 0
+
+    def get(self, url, timeout=None):
+        self.gets += 1
+        return _FakeResponse(self.content)
+
+
+class _NoGetSession:
+    def get(self, *args, **kwargs):
+        raise AssertionError("no HTTP request should be made")
+
+
+def test_process_hymn_skips_download_when_melody_current(tmp_path):
+    # Issue #20: the version check must short-circuit BEFORE the HTTP GET.
+    path = tmp_path / "h_1.json"
+    _write_hymn(path, {
+        "midi_tune_url": "https://www.hymnal.net/midi/tunes/h001.mid",
+        "melody": {"version": SCHEMA_VERSION, "notes": []},
+    })
+
+    assert process_hymn(path, _NoGetSession()) == "unchanged"
+
+
+def test_process_hymn_force_redownloads_current_melody(tmp_path):
+    path = tmp_path / "h_1.json"
+    _write_hymn(path, {
+        "midi_tune_url": "https://www.hymnal.net/midi/tunes/h001.mid",
+        "melody": {"version": SCHEMA_VERSION, "notes": []},
+    })
+    session = _FakeSession(_midi_bytes())
+
+    assert process_hymn(path, session, force=True) == "updated"
+    assert session.gets == 1
+
+
+def test_process_hymn_sleeps_only_before_actual_download(tmp_path, monkeypatch):
+    sleeps = []
+    monkeypatch.setattr(extract_midi_notes.time, "sleep", sleeps.append)
+
+    path = tmp_path / "h_1.json"
+    _write_hymn(path, {"midi_tune_url": "https://www.hymnal.net/midi/tunes/h001.mid"})
+
+    assert process_hymn(path, _FakeSession(_midi_bytes()), delay=0.5) == "updated"
+    assert sleeps == [0.5]
+
+
+def test_process_directory_sets_user_agent_and_skips_quietly(tmp_path, monkeypatch):
+    sessions = []
+
+    class FakeSession:
+        def __init__(self):
+            self.headers = {}
+            sessions.append(self)
+
+        def __enter__(self):
+            return self
+
+        def __exit__(self, *args):
+            return False
+
+    monkeypatch.setattr(extract_midi_notes.requests, "Session", FakeSession)
+    sleeps = []
+    monkeypatch.setattr(extract_midi_notes.time, "sleep", sleeps.append)
+
+    # One hymn with no MIDI URL (skipped), one with a current melody
+    # (unchanged without downloading): neither may sleep or hit the network.
+    _write_hymn(tmp_path / "h_1.json", {})
+    _write_hymn(tmp_path / "h_2.json", {
+        "midi_tune_url": "https://www.hymnal.net/midi/tunes/h002.mid",
+        "melody": {"version": SCHEMA_VERSION, "notes": []},
+    })
+
+    result = process_directory(tmp_path, delay=0.5, progress_every=0)
+
+    assert result == {"updated": 0, "unchanged": 1, "skipped": 1, "errors": 0}
+    assert sessions[0].headers["User-Agent"] == USER_AGENT
+    assert "python-requests" not in sessions[0].headers["User-Agent"]
+    assert sleeps == []

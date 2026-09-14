@@ -218,6 +218,8 @@ If the website's HTML structure changes, update the CSS selectors in `hymnal_cra
 
 The crawler includes a 1-second delay (`time.sleep(1)`) in `crawl_hymn_range()` to be respectful to the server. Do not reduce this delay.
 
+MIDI extraction (`extract_midi_notes.py`) applies the `--delay` value (default 0.5s, shared with `crawl_all.py --delay`) before each MIDI download, and identifies with the same browser User-Agent as the main crawler. Hymns whose stored `metadata.melody` already matches the current schema version are skipped without any request, so repeat runs cost no network I/O.
+
 ## Manual Hymn Editing
 
 The crawler supports manual editing of hymns through a dedicated `hymns_manual/` directory:
@@ -276,11 +278,14 @@ crawler = HymnalCrawler(manual_dir="my_custom_edits")
 ## Crawling Scripts
 
 ### crawl_all.py (Master Script)
-The main entry point for crawling all hymns. Executes a 4-phase pipeline:
+The main entry point for crawling all hymns. Executes a 7-phase pipeline:
 1. Crawl Chinese hymns (ch, ts)
 2. Crawl English hymns (lb, nt, h, ns)
-3. Convert Chinese hymns to simplified Chinese
-4. Copy manual edits from `hymns_manual/` to `hymns/`
+3. Crawl songbase.life
+4. Deduplicate and merge songbase into `hymns/`
+5. Convert Chinese hymns to simplified Chinese
+6. Copy manual edits from `hymns_manual/` to `hymns/`
+7. Download MIDI tunes and embed melody notes (`metadata.melody`; on by default)
 
 ```bash
 # Full pipeline
@@ -292,14 +297,37 @@ python crawl_all.py --dry-run
 # Skip specific phases
 python crawl_all.py --skip-chinese          # Skip Chinese hymns
 python crawl_all.py --skip-english          # Skip English hymns
+python crawl_all.py --skip-songbase         # Skip songbase crawl and dedup/merge
 python crawl_all.py --skip-convert          # Skip Chinese conversion
 python crawl_all.py --skip-manual           # Skip manual edits
+python crawl_all.py --skip-midi             # Skip MIDI melody extraction
 
 # Customize output
 python crawl_all.py --output-dir hymns --manual-dir hymns_manual
 
 # Adjust rate limiting
 python crawl_all.py --delay 1.0 --batch-size 25
+```
+
+### extract_midi_notes.py (Melody Extraction)
+Phase 7 of the pipeline. Downloads each hymn's `metadata.midi_tune_url`,
+selects the most melody-like (monophonic-preferring) track, and writes compact
+pitch/timing data to `metadata.melody` (schema `version`). The app renders
+guitar tablature on-device from these notes.
+
+Idempotency: hymns whose stored melody already matches the current schema
+version are skipped *before* any HTTP request, so re-running over an
+up-to-date corpus downloads nothing. Use `--force` to re-extract regardless.
+
+```bash
+# Refresh melodies without re-crawling (also used by ./build_hymns.sh)
+python extract_midi_notes.py --hymns-dir hymns
+
+# Iterate on a single hymn
+python extract_midi_notes.py --file hymns/h_350.json
+
+# Re-download and re-extract everything, with a longer delay
+python extract_midi_notes.py --hymns-dir hymns --force --delay 1.0
 ```
 
 ### crawl_hymns.py (Single Category)

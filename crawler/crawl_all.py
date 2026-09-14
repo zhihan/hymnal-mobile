@@ -9,6 +9,7 @@ Process:
 4. Deduplicate and merge songbase into hymns/
 5. Convert Chinese hymns to simplified Chinese
 6. Copy manual edits from hymns_manual/ to hymns/
+7. Download MIDI tunes and embed melody notes (metadata.melody)
 """
 
 import os
@@ -83,8 +84,9 @@ def crawl_all(
     skip_songbase: bool = False,
     skip_convert: bool = False,
     skip_manual: bool = False,
-    extract_midi: bool = False,
+    skip_midi: bool = False,
     dry_run: bool = False,
+    delay: float = 0.5,
     **crawl_kwargs
 ) -> dict:
     """
@@ -95,9 +97,12 @@ def crawl_all(
         manual_dir: Directory containing manual edits
         skip_chinese: Skip crawling Chinese hymns
         skip_english: Skip crawling English hymns
+        skip_songbase: Skip crawling songbase.life and dedup/merge
         skip_convert: Skip Chinese to simplified conversion
         skip_manual: Skip copying manual edits
+        skip_midi: Skip MIDI tune download and melody note extraction
         dry_run: Show what would be done without executing
+        delay: Delay between requests in seconds (also used before each MIDI download)
         **crawl_kwargs: Additional arguments passed to crawl_category
 
     Returns:
@@ -127,7 +132,7 @@ def crawl_all(
                 print(f"  [DRY RUN] Would crawl {cat}: {start} to {end}")
         else:
             for cat in CHINESE_CATEGORIES:
-                result = crawl_category(cat, output_dir=output_dir, **crawl_kwargs)
+                result = crawl_category(cat, output_dir=output_dir, delay=delay, **crawl_kwargs)
                 results["chinese"].append(result)
     else:
         print("\n[SKIPPED] Phase 1: Chinese hymns")
@@ -144,7 +149,7 @@ def crawl_all(
                 print(f"  [DRY RUN] Would crawl {cat}: {start} to {end}")
         else:
             for cat in ENGLISH_CATEGORIES:
-                result = crawl_category(cat, output_dir=output_dir, **crawl_kwargs)
+                result = crawl_category(cat, output_dir=output_dir, delay=delay, **crawl_kwargs)
                 results["english"].append(result)
     else:
         print("\n[SKIPPED] Phase 2: English hymns")
@@ -219,18 +224,20 @@ def crawl_all(
     else:
         print("\n[SKIPPED] Phase 6: Manual edits")
 
-    # Phase 7: Download MIDI tunes and embed melody notes. This is opt-in
-    # because it performs thousands of additional network requests.
-    if extract_midi:
+    # Phase 7: Download MIDI tunes and embed melody notes. Default-on like
+    # every other phase: hymns whose stored melody is already current are
+    # skipped without re-downloading (see extract_midi_notes), so an unchanged
+    # re-run costs no network I/O beyond the crawl itself.
+    if not skip_midi:
         print("\n" + "=" * 60)
         print("PHASE 7: Extracting MIDI melody notes")
         print("=" * 60)
         if dry_run:
             print(f"  [DRY RUN] Would process MIDI URLs in {output_dir}/")
         else:
-            results["midi"] = extract_midi_notes(output_dir)
+            results["midi"] = extract_midi_notes(output_dir, delay=delay)
     else:
-        print("\n[SKIPPED] Phase 7: MIDI extraction (use --extract-midi)")
+        print("\n[SKIPPED] Phase 7: MIDI extraction (--skip-midi)")
 
     # Final summary
     print("\n" + "=" * 60)
@@ -327,9 +334,9 @@ def main():
         help="Skip applying manual edits"
     )
     parser.add_argument(
-        "--extract-midi",
+        "--skip-midi",
         action="store_true",
-        help="Download MIDI tunes and embed melody notes after other processing"
+        help="Skip MIDI tune download and melody note extraction (on by default)"
     )
     parser.add_argument(
         "--dry-run",
@@ -360,7 +367,7 @@ def main():
         skip_songbase=args.skip_songbase,
         skip_convert=args.skip_convert,
         skip_manual=args.skip_manual,
-        extract_midi=args.extract_midi,
+        skip_midi=args.skip_midi,
         dry_run=args.dry_run,
         batch_size=args.batch_size,
         delay=args.delay,
