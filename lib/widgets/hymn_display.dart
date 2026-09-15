@@ -224,26 +224,34 @@ class HymnDisplay extends StatelessWidget {
                 const SizedBox(height: 24),
               ],
 
-              // Verses
-              ...hymn.verses.asMap().entries.expand((entry) {
-                final verseIndex = entry.key;
-                final verse = entry.value;
-                final List<Widget> widgets = [];
+              // Verses (wrapped in SelectionArea so lyrics can be selected/copied)
+              SelectionArea(
+                child: Column(
+                  mainAxisSize: MainAxisSize.min,
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    ...hymn.verses.asMap().entries.expand((entry) {
+                      final verseIndex = entry.key;
+                      final verse = entry.value;
+                      final List<Widget> widgets = [];
 
-                // Add verse display
-                widgets.add(VerseDisplay(
-                  verse: verse,
-                  transposeOffset: transposeOffset,
-                  showChords: showChords,
-                ));
+                      // Add verse display
+                      widgets.add(VerseDisplay(
+                        verse: verse,
+                        transposeOffset: transposeOffset,
+                        showChords: showChords,
+                      ));
 
-                // Add spacing between verses (except after the last one)
-                if (verseIndex < hymn.verses.length - 1) {
-                  widgets.add(const SizedBox(height: 16));
-                }
+                      // Add spacing between verses (except after the last one)
+                      if (verseIndex < hymn.verses.length - 1) {
+                        widgets.add(const SizedBox(height: 16));
+                      }
 
-                return widgets;
-              }),
+                      return widgets;
+                    }),
+                  ],
+                ),
+              ),
 
               // Language indices at the bottom
               ..._buildLanguageIndices(context),
@@ -397,20 +405,23 @@ class SegmentDisplay extends StatelessWidget {
         mainAxisSize: MainAxisSize.min,
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          // Chord (or empty space to maintain alignment) - only show if line has chords
+          // Chord (or empty space to maintain alignment) - only show if line has chords.
+          // Excluded from text selection so copying lyrics yields clean text.
           if (showChordSpace)
             SizedBox(
               height: 18,
               child: hasChord
-                  ? Text(
-                      displayChord,
-                      style: TextStyle(
-                        fontSize: 16,
-                        fontWeight: FontWeight.bold,
-                        color: Theme.of(context)
-                            .colorScheme
-                            .primary, // Theme color for chords
-                        height: 1.0,
+                  ? SelectionContainer.disabled(
+                      child: Text(
+                        displayChord,
+                        style: TextStyle(
+                          fontSize: 16,
+                          fontWeight: FontWeight.bold,
+                          color: Theme.of(context)
+                              .colorScheme
+                              .primary, // Theme color for chords
+                          height: 1.0,
+                        ),
                       ),
                     )
                   : null,
