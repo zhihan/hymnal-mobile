@@ -125,14 +125,7 @@ class _TablatureScreenState extends State<TablatureScreen> {
     );
   }
 
-  String _timingLabel(Melody melody) {
-    final meter = melody.timeSignature.join('/');
-    final bpm = melody.tempoBpm;
-    final bpmLabel = (bpm - bpm.round()).abs() < 0.005
-        ? '${bpm.round()}'
-        : bpm.toStringAsFixed(1);
-    return '$meter · $bpmLabel BPM';
-  }
+  String _timingLabel(Melody melody) => melody.timeSignature.join('/');
 
   int _ticksPerMeasure(Melody melody) {
     final numerator = melody.timeSignature.isNotEmpty
