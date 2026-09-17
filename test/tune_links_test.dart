@@ -88,7 +88,7 @@ void main() {
     await tester.pumpAndSettle();
   }
 
-  testWidgets('tune links appear in the language selector panel',
+  testWidgets('tune links appear in the version selector panel',
       (tester) async {
     await pumpTuneLinkScreen(
       tester,
@@ -99,16 +99,16 @@ void main() {
       ],
     );
 
-    // The translate icon shows because tune links exist (no related hymns).
-    expect(find.byIcon(Icons.translate), findsOneWidget);
+    // The version icon shows because tune links exist (no related hymns).
+    expect(find.byIcon(Icons.swap_horiz), findsOneWidget);
 
     // Panel is hidden until toggled.
-    expect(find.text('Tune:'), findsNothing);
+    expect(find.text('H12'), findsNothing);
 
-    await tester.tap(find.byIcon(Icons.translate));
+    await tester.tap(find.byIcon(Icons.swap_horiz));
     await tester.pumpAndSettle();
 
-    expect(find.text('Tune:'), findsOneWidget);
+    // Tune link shares the single-row selector with language links.
     expect(find.text('H12'), findsOneWidget);
   });
 
@@ -122,7 +122,7 @@ void main() {
       ],
     );
 
-    await tester.tap(find.byIcon(Icons.translate));
+    await tester.tap(find.byIcon(Icons.swap_horiz));
     await tester.pumpAndSettle();
     await tester.tap(find.text('H12'));
     await tester.pumpAndSettle();
@@ -133,7 +133,7 @@ void main() {
     expect(find.text('NT12'), findsOneWidget);
   });
 
-  testWidgets('translate icon hidden when no tune or language links',
+  testWidgets('version icon hidden when no tune or language links',
       (tester) async {
     await pumpTuneLinkScreen(
       tester,
@@ -142,6 +142,6 @@ void main() {
       tuneLinks: null,
     );
 
-    expect(find.byIcon(Icons.translate), findsNothing);
+    expect(find.byIcon(Icons.swap_horiz), findsNothing);
   });
 }

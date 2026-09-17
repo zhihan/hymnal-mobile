@@ -37,7 +37,7 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   bool _showChords = true; // Show chords by default
   int? _nextHymnNumber;
   int? _previousHymnNumber;
-  bool _showLanguageNavigation = false;
+  bool _showVersionNavigation = false;
 
   // Version switching
   int _currentVersionIndex = 0; // 0 = primary, 1+ = alternate versions
@@ -629,13 +629,13 @@ $deepLink
           ),
           if (_hasNavigationLinks)
             IconButton(
-              icon: const Icon(Icons.translate),
+              icon: const Icon(Icons.swap_horiz),
               onPressed: () {
                 setState(() {
-                  _showLanguageNavigation = !_showLanguageNavigation;
+                  _showVersionNavigation = !_showVersionNavigation;
                 });
               },
-              tooltip: 'Toggle language/tune navigation',
+              tooltip: 'Other versions of this song',
             ),
           IconButton(
             icon: Icon(
@@ -705,10 +705,10 @@ $deepLink
 
     return Column(
       children: [
-        // Language/tune navigation (collapsible). Tune links (same song,
-        // different melody, e.g. NT <-> H) share the language selector panel
+        // Version navigation (collapsible): other languages and tune links
+        // (same song, different melody, e.g. NT <-> H) share a single row
         // to save space.
-        if (_showLanguageNavigation && _hasNavigationLinks)
+        if (_showVersionNavigation && _hasNavigationLinks)
           Container(
             width: double.infinity,
             padding: const EdgeInsets.symmetric(
@@ -726,65 +726,46 @@ $deepLink
                     width: 1),
               ),
             ),
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              mainAxisSize: MainAxisSize.min,
+            child: Wrap(
+              spacing: 8,
+              runSpacing: 8,
+              crossAxisAlignment: WrapCrossAlignment.center,
               children: [
-                if (_getTuneLinks().isNotEmpty)
-                  Wrap(
-                    spacing: 8,
-                    runSpacing: 8,
-                    crossAxisAlignment: WrapCrossAlignment.center,
-                    children: [
-                      Text(
-                        'Tune:',
-                        style: Theme.of(context).textTheme.labelLarge,
-                      ),
-                      ..._getTuneLinks().map((tune) {
-                        final bookId = tune['category'] as String? ?? '';
-                        final number = tune['number'] as String? ?? '';
-                        final label = tune['label'] as String? ?? 'Tune';
-                        final shortName =
-                            _bookShortNames[bookId] ?? bookId.toUpperCase();
-                        final displayText = '$shortName$number';
+                ..._getTuneLinks().map((tune) {
+                  final bookId = tune['category'] as String? ?? '';
+                  final number = tune['number'] as String? ?? '';
+                  final label = tune['label'] as String? ?? 'Tune';
+                  final shortName =
+                      _bookShortNames[bookId] ?? bookId.toUpperCase();
+                  final displayText = '$shortName$number';
 
-                        return Tooltip(
-                          message: label,
-                          child: ElevatedButton(
-                            onPressed: () =>
-                                _navigateToRelatedHymn(bookId, number),
-                            style: ElevatedButton.styleFrom(
-                              padding: const EdgeInsets.symmetric(
-                                horizontal: 16,
-                                vertical: 8,
-                              ),
-                              backgroundColor: Theme.of(
-                                context,
-                              ).colorScheme.secondaryContainer,
-                              foregroundColor: Theme.of(
-                                context,
-                              ).colorScheme.onSecondaryContainer,
-                            ),
-                            child: Text(
-                              displayText,
-                              style: const TextStyle(
-                                fontSize: 16,
-                                fontWeight: FontWeight.bold,
-                              ),
-                            ),
-                          ),
-                        );
-                      }),
-                    ],
-                  ),
-                if (_getTuneLinks().isNotEmpty &&
-                    _getRelatedHymns().isNotEmpty)
-                  const SizedBox(height: 8),
-                if (_getRelatedHymns().isNotEmpty)
-                  Wrap(
-                    spacing: 8,
-                    runSpacing: 8,
-                    children: _getRelatedHymns().map((related) {
+                  return Tooltip(
+                    message: label,
+                    child: ElevatedButton(
+                      onPressed: () => _navigateToRelatedHymn(bookId, number),
+                      style: ElevatedButton.styleFrom(
+                        padding: const EdgeInsets.symmetric(
+                          horizontal: 16,
+                          vertical: 8,
+                        ),
+                        backgroundColor: Theme.of(
+                          context,
+                        ).colorScheme.secondaryContainer,
+                        foregroundColor: Theme.of(
+                          context,
+                        ).colorScheme.onSecondaryContainer,
+                      ),
+                      child: Text(
+                        displayText,
+                        style: const TextStyle(
+                          fontSize: 16,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                    ),
+                  );
+                }),
+                ..._getRelatedHymns().map((related) {
                 final bookId = related['category'] as String? ?? '';
                 final number = related['number'] as String? ?? '';
                 final shortName =
@@ -811,8 +792,7 @@ $deepLink
                     ),
                   ),
                 );
-              }).toList(),
-                  ),
+                }),
               ],
             ),
           ),
