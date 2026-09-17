@@ -7,7 +7,7 @@ import '../models/hymn_db.dart';
 
 class HymnDbService {
   static Isar? _isar;
-  static const int _currentDbVersion = 17; // Increment this when data structure changes
+  static const int _currentDbVersion = 18; // Increment this when data structure changes
 
   static Future<Isar> get isar async {
     if (_isar != null) return _isar!;
@@ -60,39 +60,42 @@ class HymnDbService {
     final availableHymnsJson = await rootBundle.loadString('assets/available_hymns.json');
     final Map<String, dynamic> availableHymns = json.decode(availableHymnsJson);
 
-    await db.writeTxn(() async {
-      await db.hymnDbs.clear();
+    // Load and parse every hymn file first. This does platform-channel asset
+    // reads, which must not happen inside an open Isar write transaction
+    // (interleaving unrelated async I/O with transaction ops can stall
+    // indefinitely instead of just being slow).
+    final hymnDbs = <HymnDb>[];
+    int errorCount = 0;
 
-      int successCount = 0;
-      int errorCount = 0;
+    for (final entry in availableHymns.entries) {
+      final category = entry.key;
+      final hymnNumbers = (entry.value as List).cast<int>();
 
-      for (final entry in availableHymns.entries) {
-        final category = entry.key;
-        final hymnNumbers = (entry.value as List).cast<int>();
+      for (final number in hymnNumbers) {
+        try {
+          final content = await rootBundle.loadString('hymns/${category}_$number.json');
+          final jsonData = json.decode(content) as Map<String, dynamic>;
 
-        for (final number in hymnNumbers) {
-          try {
-            final content = await rootBundle.loadString('hymns/${category}_$number.json');
-            final jsonData = json.decode(content) as Map<String, dynamic>;
+          final fileName = '${category}_$number';
+          hymnDbs.add(HymnDb.fromJson(fileName, jsonData));
 
-            final fileName = '${category}_$number';
-            final hymnDb = HymnDb.fromJson(fileName, jsonData);
-
-            await db.hymnDbs.put(hymnDb);
-            successCount++;
-
-            if (successCount % 100 == 0) {
-              print('  Loaded $successCount hymns...');
-            }
-          } catch (e) {
-            errorCount++;
-            print('  Error loading ${category}_$number: $e');
+          if (hymnDbs.length % 100 == 0) {
+            print('  Loaded ${hymnDbs.length} hymns...');
           }
+        } catch (e) {
+          errorCount++;
+          print('  Error loading ${category}_$number: $e');
         }
       }
+    }
 
-      print('Database populated with $successCount hymns (errors: $errorCount)');
+    // Now do one fast bulk write with no unrelated async work inside it.
+    await db.writeTxn(() async {
+      await db.hymnDbs.clear();
+      await db.hymnDbs.putAll(hymnDbs);
     });
+
+    print('Database populated with ${hymnDbs.length} hymns (errors: $errorCount)');
   }
 
   /// Normalize text for phrase search by removing punctuation and extra spaces
