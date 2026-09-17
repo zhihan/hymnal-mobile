@@ -8,6 +8,7 @@ plugins {
 // Load keystore properties
 import java.util.Properties
 import java.io.FileInputStream
+import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 
 val keystorePropertiesFile = rootProject.file("key.properties")
 val keystoreProperties = Properties()
@@ -23,10 +24,6 @@ android {
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
         targetCompatibility = JavaVersion.VERSION_1_8
-    }
-
-    kotlinOptions {
-        jvmTarget = "1.8"
     }
 
     defaultConfig {
@@ -62,6 +59,12 @@ android {
             isMinifyEnabled = false
             isShrinkResources = false
         }
+    }
+}
+
+kotlin {
+    compilerOptions {
+        jvmTarget.set(JvmTarget.JVM_1_8)
     }
 }
 

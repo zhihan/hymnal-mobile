@@ -23,13 +23,11 @@ class Melody {
   static const int v2Version = 2;
 
   final int ticksPerBeat;
-  final double tempoBpm;
   final List<int> timeSignature;
   final List<MelodyNote> notes;
 
   const Melody({
     required this.ticksPerBeat,
-    required this.tempoBpm,
     required this.timeSignature,
     required this.notes,
   });
@@ -73,7 +71,6 @@ class Melody {
         : const [4, 4];
     return Melody(
       ticksPerBeat: v2TicksPerBeat,
-      tempoBpm: 120,
       timeSignature: timeSignature,
       notes: notes,
     );

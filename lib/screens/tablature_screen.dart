@@ -58,6 +58,14 @@ class _TablatureScreenState extends State<TablatureScreen> {
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
+                  Text(
+                    _timingLabel(widget.melody),
+                    style: TextStyle(
+                      fontWeight: FontWeight.w600,
+                      color: Theme.of(context).colorScheme.onSurfaceVariant,
+                    ),
+                  ),
+                  const SizedBox(width: 24),
                   const Text(
                     'Capo',
                     style: TextStyle(fontWeight: FontWeight.w600),
@@ -116,6 +124,8 @@ class _TablatureScreenState extends State<TablatureScreen> {
       ),
     );
   }
+
+  String _timingLabel(Melody melody) => melody.timeSignature.join('/');
 
   int _ticksPerMeasure(Melody melody) {
     final numerator = melody.timeSignature.isNotEmpty
