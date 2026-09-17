@@ -109,7 +109,8 @@ Each file contains:
 - `verses` — verses → lines → segments of `{chord, text}` pairs
 - `metadata` — key/value details plus extracted fields:
   `category`, `time`, `hymn_code`, `guitar_leadsheet_url`, `related`,
-  `language_indices`, `midi_tune_url`, and `melody` (after Phase 7)
+  `tune_links` (Original/New/Alternate Tune NT↔H links), `language_indices`,
+  `midi_tune_url`, and `melody` (after Phase 7)
 
 ## Manual Edits
 

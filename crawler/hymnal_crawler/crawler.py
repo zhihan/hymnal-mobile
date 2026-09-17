@@ -716,6 +716,48 @@ class HymnalCrawler:
         if related_hymns:
             metadata['related'] = related_hymns
 
+        # Extract tune links (Original Tune / New Tune / Alternate Tune) from
+        # the "Relevant" section of div.hymn-related-songs, e.g.
+        #   <label>Relevant:</label>
+        #   <div class="list-group">
+        #     <a href="/en/hymn/nt/12">New Tune</a>
+        #   </div>
+        # These link NT hymns to their H originals and vice versa (same song,
+        # different melody). Only numeric targets are kept, since the app
+        # addresses hymns by integer number.
+        tune_links = []
+        related_songs_panel = soup.find('div', class_='hymn-related-songs')
+        if related_songs_panel:
+            tune_link_pattern = re.compile(r'^/(en|cn)/hymn/([a-z]+)/(\d+)$')
+            for label in related_songs_panel.find_all('label'):
+                if label.get_text(strip=True).rstrip(':') != 'Relevant':
+                    continue
+                row = label.find_parent('div', class_='row')
+                if not row:
+                    continue
+                for link in row.find_all('a', href=True):
+                    link_text = link.get_text(strip=True)
+                    if link_text not in (
+                        'Original Tune',
+                        'New Tune',
+                        'Alternate Tune',
+                    ):
+                        continue
+                    match = tune_link_pattern.match(link.get('href', ''))
+                    if not match:
+                        continue
+                    category = match.group(2)
+                    number = match.group(3)
+                    if category not in self.SUPPORTED_CATEGORIES:
+                        continue
+                    tune_links.append({
+                        'category': category,
+                        'number': number,
+                        'label': link_text,
+                    })
+        if tune_links:
+            metadata['tune_links'] = tune_links
+
         # Extract language indices: every tag in div.hymn-nums, e.g.
         #   <a class="label label-primary" title="Chinese" href="/en/hymn/ch/1">C1</a>
         #   <span class="label label-default" title="Burmese">B1</span>

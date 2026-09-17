@@ -712,3 +712,125 @@ class TestSaveHymns:
             loaded = json.load(f)
             assert loaded['title'] == 'Multi-Verse Hymn'
             assert len(loaded['verses']) == 2
+
+
+class TestTuneLinks:
+    """Test extraction of tune links (Original/New/Alternate Tune)."""
+
+    def _parse(self, html):
+        crawler = HymnalCrawler()
+        return crawler.parse_hymn_page(html, "https://example.com")
+
+    def test_new_tune_link_extracted(self):
+        html = """
+        <html><body>
+            <h1>O God, Thou art the source of life</h1>
+            <div class="verse"><div class="line">line one</div></div>
+            <div class="row common-panel hymn-related-songs">
+              <div class="col-xs-12">
+                <div class="row">
+                  <label class="col-xs-4 col-sm-4 text-right">Relevant:</label>
+                  <div class="col-xs-7 col-sm-8 no-padding">
+                    <div class="list-group">
+                      <a href="/en/hymn/nt/12">New Tune</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </body></html>
+        """
+        result = self._parse(html)
+        assert result['metadata']['tune_links'] == [
+            {'category': 'nt', 'number': '12', 'label': 'New Tune'},
+        ]
+
+    def test_original_tune_link_extracted(self):
+        html = """
+        <html><body>
+            <h1>O God, Thou art the source of life</h1>
+            <div class="verse"><div class="line">line one</div></div>
+            <div class="row common-panel hymn-related-songs">
+              <div class="col-xs-12">
+                <div class="row">
+                  <label class="col-xs-4 col-sm-4 text-right">Relevant:</label>
+                  <div class="col-xs-7 col-sm-8 no-padding">
+                    <div class="list-group">
+                      <a href="/en/hymn/h/12">Original Tune</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </body></html>
+        """
+        result = self._parse(html)
+        assert result['metadata']['tune_links'] == [
+            {'category': 'h', 'number': '12', 'label': 'Original Tune'},
+        ]
+
+    def test_see_also_links_ignored(self):
+        """Only Relevant tune links are extracted, not See Also."""
+        html = """
+        <html><body>
+            <h1>Some hymn</h1>
+            <div class="verse"><div class="line">line one</div></div>
+            <div class="row common-panel hymn-related-songs">
+              <div class="col-xs-12">
+                <div class="row">
+                  <label class="col-xs-4 col-sm-4 text-right">Relevant:</label>
+                  <div class="col-xs-7 col-sm-8 no-padding">
+                    <div class="list-group">
+                      <a href="/en/hymn/nt/12">New Tune</a>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <label class="col-xs-4 col-sm-4 text-right">See Also:</label>
+                  <div class="col-xs-12">
+                    <div class="list-group text-left">
+                      <a class="list-group-item" href="/en/hymn/h/51">Other song</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </body></html>
+        """
+        result = self._parse(html)
+        tune_links = result['metadata']['tune_links']
+        assert len(tune_links) == 1
+        assert tune_links[0]['category'] == 'nt'
+
+    def test_non_numeric_tune_target_skipped(self):
+        """Tune links like h/12b are skipped (app addresses hymns by int)."""
+        html = """
+        <html><body>
+            <h1>Some hymn</h1>
+            <div class="verse"><div class="line">line one</div></div>
+            <div class="row common-panel hymn-related-songs">
+              <div class="col-xs-12">
+                <div class="row">
+                  <label class="col-xs-4 col-sm-4 text-right">Relevant:</label>
+                  <div class="col-xs-7 col-sm-8 no-padding">
+                    <div class="list-group">
+                      <a href="/en/hymn/h/12b">Alternate Tune</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </body></html>
+        """
+        result = self._parse(html)
+        assert 'tune_links' not in result['metadata']
+
+    def test_no_tune_links_no_metadata_key(self):
+        html = """
+        <html><body>
+            <h1>Plain hymn</h1>
+            <div class="verse"><div class="line">line one</div></div>
+        </body></html>
+        """
+        result = self._parse(html)
+        assert 'tune_links' not in result['metadata']
