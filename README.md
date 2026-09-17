@@ -31,7 +31,12 @@ Flutter app:
 
 ```bash
 flutter pub get
+dart run build_runner build --delete-conflicting-outputs
 ```
+
+The second command generates `lib/models/hymn_db.g.dart` (the Isar database
+schema). It's gitignored, so a fresh checkout won't build without it — rerun
+it whenever `lib/models/hymn_db.dart` changes.
 
 ## Build The Hymn Data
 
@@ -100,8 +105,16 @@ The app loads hymns from two generated inputs, both produced by
 - `hymns/*.json`
 - `assets/available_hymns.json`
 
-`hymns/` is gitignored — it is large generated content, so it will not exist in
-a fresh checkout until you run the build above.
+Both `hymns/` and `assets/available_hymns.json` are gitignored generated
+content, so neither will exist in a fresh checkout until you run the build
+above.
+
+If `hymns/*.json` already exists (e.g. after hand-editing one hymn) and you
+just need to regenerate the manifest without a full recrawl:
+
+```bash
+dart run tool/build_database.dart
+```
 
 Each file is named `{bookId}_{number}.json`, e.g. `ch_100.json`, `h_500.json`.
 Book IDs:
