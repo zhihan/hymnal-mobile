@@ -38,5 +38,8 @@ jobs:
       - name: Install dependencies
         run: flutter pub get
 
+      - name: Run code generation
+        run: dart run build_runner build --delete-conflicting-outputs
+
       - name: Run Flutter tests
         run: flutter test
