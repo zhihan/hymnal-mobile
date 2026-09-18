@@ -37,7 +37,7 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
   bool _showChords = true; // Show chords by default
   int? _nextHymnNumber;
   int? _previousHymnNumber;
-  bool _showLanguageNavigation = false;
+  bool _showVersionNavigation = false;
 
   // Version switching
   int _currentVersionIndex = 0; // 0 = primary, 1+ = alternate versions
@@ -263,6 +263,19 @@ class _HymnDetailScreenState extends State<HymnDetailScreen> {
     if (related == null || related is! List) return [];
     return List<Map<String, dynamic>>.from(related);
   }
+
+  /// Tune links (Original Tune / New Tune / Alternate Tune) extracted from
+  /// hymnal.net's "Relevant" section. Same song, different melody, e.g. an
+  /// NT hymn linking to its H original and vice versa.
+  List<Map<String, dynamic>> _getTuneLinks() {
+    if (_currentHymn?.metadata == null) return [];
+    final tunes = _currentHymn!.metadata!['tune_links'];
+    if (tunes == null || tunes is! List) return [];
+    return List<Map<String, dynamic>>.from(tunes);
+  }
+
+  bool get _hasNavigationLinks =>
+      _getRelatedHymns().isNotEmpty || _getTuneLinks().isNotEmpty;
 
   Future<void> _navigateToRelatedHymn(String bookId, String number) async {
     final hymnNumber = int.tryParse(number);
@@ -614,15 +627,15 @@ $deepLink
                 ? 'Next hymn ($_nextHymnNumber)'
                 : 'No next hymn',
           ),
-          if (_getRelatedHymns().isNotEmpty)
+          if (_hasNavigationLinks)
             IconButton(
-              icon: const Icon(Icons.translate),
+              icon: const Icon(Icons.swap_horiz),
               onPressed: () {
                 setState(() {
-                  _showLanguageNavigation = !_showLanguageNavigation;
+                  _showVersionNavigation = !_showVersionNavigation;
                 });
               },
-              tooltip: 'Toggle language navigation',
+              tooltip: 'Other versions of this song',
             ),
           IconButton(
             icon: Icon(
@@ -692,8 +705,10 @@ $deepLink
 
     return Column(
       children: [
-        // Language navigation (collapsible)
-        if (_showLanguageNavigation && _getRelatedHymns().isNotEmpty)
+        // Version navigation (collapsible): other languages and tune links
+        // (same song, different melody, e.g. NT <-> H) share a single row
+        // to save space.
+        if (_showVersionNavigation && _hasNavigationLinks)
           Container(
             width: double.infinity,
             padding: const EdgeInsets.symmetric(
@@ -714,7 +729,43 @@ $deepLink
             child: Wrap(
               spacing: 8,
               runSpacing: 8,
-              children: _getRelatedHymns().map((related) {
+              crossAxisAlignment: WrapCrossAlignment.center,
+              children: [
+                ..._getTuneLinks().map((tune) {
+                  final bookId = tune['category'] as String? ?? '';
+                  final number = tune['number'] as String? ?? '';
+                  final label = tune['label'] as String? ?? 'Tune';
+                  final shortName =
+                      _bookShortNames[bookId] ?? bookId.toUpperCase();
+                  final displayText = '$shortName$number';
+
+                  return Tooltip(
+                    message: label,
+                    child: ElevatedButton(
+                      onPressed: () => _navigateToRelatedHymn(bookId, number),
+                      style: ElevatedButton.styleFrom(
+                        padding: const EdgeInsets.symmetric(
+                          horizontal: 16,
+                          vertical: 8,
+                        ),
+                        backgroundColor: Theme.of(
+                          context,
+                        ).colorScheme.secondaryContainer,
+                        foregroundColor: Theme.of(
+                          context,
+                        ).colorScheme.onSecondaryContainer,
+                      ),
+                      child: Text(
+                        displayText,
+                        style: const TextStyle(
+                          fontSize: 16,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                    ),
+                  );
+                }),
+                ..._getRelatedHymns().map((related) {
                 final bookId = related['category'] as String? ?? '';
                 final number = related['number'] as String? ?? '';
                 final shortName =
@@ -741,7 +792,8 @@ $deepLink
                     ),
                   ),
                 );
-              }).toList(),
+                }),
+              ],
             ),
           ),
         // Transpose controls (collapsible)
