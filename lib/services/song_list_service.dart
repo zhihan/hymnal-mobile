@@ -14,101 +14,117 @@ class SongListService {
   static const String _ypSongbookId = 'built_in_yp_songbook';
 
   // YP Songbook hymn list - UPDATE THIS ARRAY to modify the list
+  // Order follows the YP Song Packet (songs 1-105); trailing comments
+  // show the packet song number. Every entry is a songbase record:
+  // sb_* are songbase-only songs; h_* are songbase's english_hymnal
+  // records (the crawler emits those as h_*, merged with hymnal.net's).
+  // Note: the packet itself repeats two hymns (songs 12/92 and 31/94).
   static const List<String> _ypSongbookHymns = [
-    'ns_375',
-    'ns_638',
-    'ns_192',
-    "h_1086",
-    "ns_74",
-    "ns_634",
-    "ns_626",
-    "ns_952",
-    "ns_131",
-    "ns_58",
-    "ns_120",
-    "lb_70",
-    "ns_530",
-    "ns_777",
-    "ns_465",
-    "ns_105",
-    "ns_506",
-    //
-    "ns_820",
-    "ns_670",
-    "ns_666",
-    "ns_620",
-    "ns_1108",
-    "ns_352",
-    "ns_617",
-    // songbase
-    "lb_41",
-    "ns_541",
-    "ns_714",
-    "ns_28",
-    "ns_149",
-    "ns_102",
-    "ns_381",
-    "ns_391",
-    "ns_453",
-    "ns_728",
-    "ns_283",
-    "ns_709",
-    "ns_190",
-    // c_93
-    "ns_347",
-    "ns_199",
-    "ns_720",
-    "ns_712",
-    "ns_435",
-    "ns_53",
-    "ns_771",
-    "ns_98",
-    "ns_259",
-    "ns_172",
-    "h_1340",
-    "h_1341",
-    "ns_748",
-    "ns_292",
-    "ns_302",
-    "lb_66",
-    "ns_915",
-    "lb_76",
-    "lb_52",
-    "ns_202",
-    "ns_116",
-    "ns_971",
-    "ns_731",
-    "lb_14",
-    "ns_301",
-    "ns_970",
-    "ns_757",
-    "ns_916",
-    "ns_48",
-    "nt_1048",
-    "ns_78",
-    "h_1248",
-    "ns_707",
-    "ns_285",
-    "nt_547",
-    "ns_783",
-    "ns_286",
-    "nt_720",
-    "ns_639",
-    "nt_252",
-    "ns_287",
-    "nt_33",
-    "ns_419",
-    "ns_739",
-    "ns_812",
-    "ns_975",
-    "ns_279",
-    "ns_897",
-    "ns_972",
-    "ns_973",
-    "ns_723",
-    "ns_938",
-    "ns_784",
-    "ns_928",
+    'sb_363', // 1
+    'sb_2354', // 2
+    'sb_3452', // 3
+    'sb_733', // 4
+    'h_1086', // 5
+    'sb_557', // 6
+    'sb_296', // 7
+    'sb_3455', // 8
+    'sb_375', // 9
+    'sb_532', // 10
+    'sb_669', // 11
+    'sb_680', // 12
+    'sb_577', // 13
+    'sb_276', // 14
+    'sb_3351', // 15
+    'sb_270', // 16
+    'sb_319', // 17
+    'sb_2336', // 18
+    'sb_396', // 19
+    'sb_3424', // 20
+    'sb_6196', // 21
+    'sb_3423', // 22
+    'sb_962', // 23
+    'sb_920', // 24
+    'sb_491', // 25
+    'sb_268', // 26
+    'sb_3589', // 27
+    'sb_571', // 28
+    'sb_2360', // 29
+    'sb_3436', // 30
+    'sb_750', // 31
+    'sb_3415', // 32
+    'sb_704', // 33
+    'sb_339', // 34
+    'sb_911', // 35
+    'sb_952', // 36
+    'sb_2191', // 37
+    'sb_2314', // 38
+    'sb_658', // 39
+    'sb_770', // 40
+    'sb_593', // 41
+    'sb_647', // 42
+    'sb_3517', // 43
+    'sb_623', // 44
+    'sb_2322', // 45
+    'sb_2346', // 46
+    'sb_99', // 47
+    'sb_628', // 48
+    'sb_517', // 49
+    'sb_3432', // 50
+    'sb_3434', // 51
+    'sb_723', // 52
+    'sb_662', // 53
+    'h_327', // 54
+    'sb_330', // 55
+    'h_1340', // 56
+    'h_1341', // 57
+    'sb_7031', // 58
+    'sb_10000', // 59
+    'sb_3435', // 60
+    'sb_469', // 61
+    'sb_615', // 62
+    'sb_349', // 63
+    'sb_3946', // 64
+    'sb_348', // 65
+    'sb_456', // 66
+    'sb_3487', // 67
+    'sb_471', // 68
+    'sb_4415', // 69
+    'sb_3629', // 70
+    'sb_497', // 71
+    'sb_587', // 72
+    'sb_4414', // 73
+    'sb_3459', // 74
+    'sb_4420', // 75
+    'sb_661', // 76
+    'sb_405', // 77
+    'h_1048', // 78
+    'sb_427', // 79
+    'h_1248', // 80
+    'sb_905', // 81
+    'sb_401', // 82
+    'sb_803', // 83
+    'h_547', // 84
+    'sb_6004', // 85
+    'sb_634', // 86
+    'h_720', // 87
+    'sb_3499', // 88
+    'h_252', // 89
+    'sb_512', // 90
+    'h_33', // 91
+    'sb_680', // 92
+    'sb_3518', // 93
+    'sb_750', // 94
+    'sb_3416', // 95
+    'sb_4015', // 96
+    'sb_4416', // 97
+    'sb_4421', // 98
+    'sb_10329', // 99
+    'sb_4412', // 100
+    'sb_4413', // 101
+    'sb_3353', // 102
+    'sb_3346', // 103
+    'sb_4462', // 104
+    'sb_2164', // 105
   ];
 
   final _uuid = const Uuid();
@@ -453,11 +469,13 @@ class SongListService {
     final ypIndex = lists.indexWhere((list) => list.id == _ypSongbookId);
     if (ypIndex != -1) {
       final currentYp = lists[ypIndex];
-      // Check if hymns list has changed
-      final currentHymns = currentYp.hymnIds.toSet();
-      final newHymns = _ypSongbookHymns.toSet();
+      // Refresh when content or order differs from the built-in list
+      final currentHymns = currentYp.hymnIds;
+      final needsUpdate = currentHymns.length != _ypSongbookHymns.length ||
+          !Iterable.generate(_ypSongbookHymns.length)
+              .every((i) => currentHymns[i] == _ypSongbookHymns[i]);
 
-      if (!currentHymns.containsAll(newHymns) || !newHymns.containsAll(currentHymns)) {
+      if (needsUpdate) {
         // Update the list with new hymns
         lists[ypIndex] = currentYp.copyWith(
           hymnIds: List.from(_ypSongbookHymns),
