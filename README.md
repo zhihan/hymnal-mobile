@@ -12,7 +12,7 @@ The repository has two parts:
 ## Prerequisites
 
 - Flutter SDK
-- Python 3.12+
+- Python 3.14+
 - Xcode (iOS) and/or Android Studio + Android SDK
 
 ## Setup
