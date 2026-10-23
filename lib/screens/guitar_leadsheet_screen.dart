@@ -41,6 +41,11 @@ class _GuitarLeadsheetScreenState extends State<GuitarLeadsheetScreen> {
                   boundaryMargin: const EdgeInsets.all(200),
                   child: SvgPicture.network(
                     widget.svgUrl,
+                    // hymnal.net now blocks hotlinked SVG fetches (403);
+                    // send a Referer so the request looks site-internal.
+                    headers: const {
+                      'Referer': 'https://www.hymnal.net/',
+                    },
                     width: constraints.maxWidth,
                     alignment: Alignment.topCenter,
                     placeholderBuilder: (context) => const Center(
